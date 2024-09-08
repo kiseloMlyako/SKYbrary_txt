@@ -1,0 +1,352 @@
+A346, en route, Clariden Switzerland, 2018
+
+
+
+
+
+
+
+
+
+
+
+  A346, en route, Clariden Switzerland, 2018
+
+
+
+
+
+
+
+
+
+Summary
+
+On 6 November 2018, an Airbus A340-600 in cruise northbound over the Swiss Alps received an overspeed warning after encountering an unexpected wind velocity change. However, the crew failed to follow the prescribed response procedure. This led initially to a climb above their cleared level, and further inappropriate actions were then followed by PAN and MAYDAY declarations as control of the aircraft was briefly lost in a high-speed descent below their cleared level. The operator subsequently enhanced pilot training realism by providing it in a simulator configured for the aircraft variant operated by the company. The operator also introduced upset recovery training.
+
+
+
+
+Event Details
+
+When
+
+06/11/2018
+
+
+
+Event Type
+
+
+HF,
+              LB,
+              LOC,
+              WX
+
+
+
+
+Day/Night
+
+Night
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS A-340-600
+
+
+
+
+
+
+
+
+
+Operator
+
+South African Airways
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+O. R. Tambo International Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Frankfurt am Main Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Cruise
+
+
+
+
+
+
+
+
+Location
+
+Approx.
+
+Clariden, Switzerland
+
+
+
+
+
+
+
+
+
+
+General
+
+Tag(s)
+
+
+              Extra flight crew (no training),
+              PIC less than 500 hours in Command on Type,
+              CVR overwritten,
+              Deficient Pilot Knowledge
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Inappropriate crew response - skills deficiency,
+              Ineffective Monitoring,
+              Manual Handling,
+              Procedural non compliance,
+              Ineffective Monitoring - PIC as PF,
+              AP/FD and/or ATHR status awareness
+          
+
+
+
+
+LB
+
+Tag(s)
+
+
+              Accepted ATC Clearance not followed,
+              Manual flight
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Non-normal FBW flight control status,
+              Flight Management Error,
+              Aircraft Flight Path Control Error,
+              Environmental Factors,
+              Temporary Control Loss
+          
+
+
+
+
+WX
+
+Tag(s)
+
+
+              Mountain Wave/Rotor Conditions
+          
+
+
+
+
+EPR
+
+Tag(s)
+
+
+              MAYDAY declaration,
+              PAN declaration
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 6 November 2018, an Airbus A340-600 (ZS-SNF) operated by South African Airways on an international passenger flight from Johannesburg to Frankfurt with an augmented crew in night VMC was mishandled after encountering an unexpected change in wind velocity in cruise at FL380. After a climb to 2000 feet above its cleared level with low thrust set and a PAN declaration, it almost stalled before beginning a 4,500-foot descent at over 6000 fpm during which control was temporarily lost and a MAYDAY was declared. Control was then regained and the flight continued to destination without further event.
+Investigation
+Ten days after the occurrence, the Swiss Transportation Safety Board delegated conduct of the Serious Incident Investigation to the German Federal Bureau of Air Accident Investigation (the BFU). The FDR and CVR were both removed from the aircraft and their data downloaded by the BFU but it was then found that relevant CVR data had been overwritten because the operator had failed to have the CVR isolated on arrival at Frankfurt. Recorded ATC voice communication data whilst the flight was in Swiss airspace was also available. 
+The 59-year-old captain, who was acting as PF throughout the investigated upset event, had a total of 17,694 hours flying experience but only 17 hours on type in command after finishing 140 hours of training on type a week earlier. His licence medical certificate required him to wear corrective glasses and follow a hypertensive protocol and a diabetes protocol but the BFU was not provided with these protocols. The 61-year-old first officer, who was acting as PM at the time of the upset had a total of 18,534 hours flying experience of which 5,274 hours were on type. A 39-year-old relief first officer, who had a total of 11,453 hours flying experience including 3,901 hours on type, was occupying a flight deck supernumerary crew seat at the time the upset occurred. The relief first officer was reviewing charts for the approach into Frankfurt. 
+Although of no direct relevance to the Investigation, it was found that the first officer had been submitting copies of an apparently valid Airline Transport Pilot Licence (ATPL) to the airline (holding this licence was a requirement under the airline’s OM) but according to the South African CAA, he had for at least the past eight years actually only held a Commercial Pilot Licence (CPL). 
+What Happened
+An unpredictable, rapid change in wind direction during cruise at FL 380 and attributable to mountain wave effects led to an overspeed condition which triggered an overspeed warning. Instead of responding to this warning by following the applicable overspeed recovery procedure, the captain, without informing ATC, disconnected the autopilot and commenced a steep manual climb. He then instructed the first officer to turn off two of the three Air Data and Inertial Reference Units (ADIRU), which resulted in transition to Alternate Law and A/THR disconnection. With no manual thrust input made, as the aircraft reached FL 400, a PAN call was made, and the first of four stall warnings occurred. The correct stall warning recovery procedure was not followed until the fourth one occurred. After the fourth stall warning, control of the aircraft was temporarily lost during an initial high-rate descent (6,600 fpm) to 2,500 feet below the cleared level with a MAYDAY declared (point 9 on the illustration below). Having regained control, the level was adjusted to FL360 and approved by ATC. Despite the deviations both above and below FL380 over a period of almost two minutes, no conflict with other traffic occurred. An annotated depiction of the event is shown below.
+
+
+An annotated vertical profile of the flight during the deviation with key points tabulated. [Reproduced from the Official Report]
+Why It Happened 
+Although an aftercast was able to show that mountain wave effects had been present, this possibility was not forecast or otherwise considered by the crew. The Investigation primarily considered the crew performance to what should have been a routine encounter. The following factors appeared to have resulted in the sequence of events, which occurred when prescribed procedures were not followed:
+
+The Captain’s minimal experience of both the aircraft type and long-haul operations.
+Manual disconnection of the autopilot was contrary to the overspeed recovery procedure and later contributed to the temporary loss of control.
+None of the pilots knew the airspeed at which high-speed protection would become active and automatically deactivate the autopilot. In addition, the filtered Mach system logic was not known to them. 
+The manual pitch-up control inputs were too abrupt and caused an increased g load. This resulted in a corresponding PFD indication, which the first officer erroneously interpreted as a malfunction of angle-of-attack protection and probably led to the captain's decision to switch off the two ADIRUs. The conditions which required this, which were included in the QRH, were not met.
+The recovery of the flight attitude in response to the first three stall warnings was “late, insufficient and not forceful enough”.
+The pilots’ situational awareness that protection systems of the aircraft had been deactivated was limited - prior to the stall warning activation, they were not aware that speed was reducing and engine thrust was in flight idle. 
+Insufficient monitoring of flight deck instruments - the pilots did not react to changes in either engine thrust or airspeed. and when they did not apply the respective procedures, a critical flight attitude resulted.
+Insufficient cooperation and flight deck communication leading to inaction (e. g. the stall recovery procedure) when in critical flight attitudes.
+
+It was considered that some of the above could be attributed to inadequate crew training.
+The Cause of the upset was the failure of the crew to use applicable Abnormal and Emergency Procedures following the occurrence of an overspeed warning. The sequence of events was, in summary, as follows:
+
+An unexpected overspeed warning occurred, but the applicable response did not follow. Instead, the AP was disconnected, and a steep climb at flight idle thrust was commenced.
+Two of the three ADIRUs were switched off, which resulted in reversion to Alternate Law. 
+A rapid loss of airspeed then triggered a succession of four stall warnings with eventual recovery only achieved during a 4,500-foot descent to 2,500 feet below the cleared level. 
+Crew cooperation during both the overspeed condition and the stall recovery was “erroneous in regard to the analysis of the situation and the implementation of procedures”.
+
+Safety Action
+Whilst the Investigation was in progress, safety issues relevant to the Investigation were identified at the aircraft operator, but it then ceased all flying in mid 2020. When the airline was reactivated, a number of actions were found to have been taken in 2021 prior to restarting long-haul operations in 2022 including the following: 
+▪    The briefing packet for long-haul flights now contains Mountain Wave Forecast Charts. ▪    The checklists of the Flight Training and Flight Operations Departments were aligned.▪    Simulator software now corresponds with that on the aircraft.▪    Upset Recovery Training is now included in simulator training. ▪    Simulator training will in future incorporate EBT principles.
+The Final Report was completed on 12 June 2023 and then published the following month. No Safety Recommendations were made.
+Related Articles
+
+Level Bust
+Loss of Control
+Mountain Waves
+Recovery from Unusual Aircraft Attitudes
+Abnormal and Emergency Operations
+Stall
+Cross-checking Process

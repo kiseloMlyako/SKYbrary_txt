@@ -1,0 +1,183 @@
+Aircraft Bleed Air Systems
+
+
+
+
+
+
+
+
+
+
+
+  Aircraft Bleed Air Systems
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Flight Technical 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+The design of most turbojet and turboprop powered aircraft incorporates a bleed air system. A bleed air system uses a network of ducts, valves and regulators to conduct medium to high pressure air, "bled" from the compressor section of the engine(s) and APU, to various locations within the aircraft. There it is utilized for a number of functions inclusive of:
+
+pressurisation
+air conditioning
+engine start
+wing and engine anti-ice systems
+water system pressurisation
+hydraulic system reservoir pressurisation
+boundary layer separation enhancement
+
+Bleed Air Extraction
+Bleed air is extracted from the compressor of the engine or APU. The specific stage of the compressor from which the air is bled varies by engine type. In some engines, air may be taken from more than one location for different uses as the temperature and pressure of the air is variable dependant upon the compressor stage at which it is extracted. Bleed air typically has a temperature of 200 – 250 degrees C. and a pressure of approximately 40 PSI exiting the engine pylon.
+Air Conditioning
+Bleed air is routed to the air conditioning packs where it is filtered and then cooled using an expansion process. The temperature of the air is regulated using uncooled bleed air and the humidity of the mixture is adjusted prior to introducing the air into the aircraft cabin. Temperature controllers in the flight deck and cabin allow adjustment of the target temperature and thermostats provide feedback to the packs to demand an increase or decrease in the output temperature.
+Engine Start
+Bleed air, extracted from either the Auxiliary Power Unit (APU) or another operating engine is used to power an air turbine starter motor to start the engine. The primary advantage of an air turbine starter is that a given amount of torque can be produced by a smaller and lighter unit than would be the case if it was electrically or hydraulically powered.
+Water System / Hydraulic Reservoir Pressurisation
+Bleed air is often utilized to pressurise the potable water holding tank eliminating the requirement for a pump to feed the water to the galleys and lavatories. Similarly, bleed air is used to pressurise the hydraulic system reservoirs of many aircraft reducing the likelihood of pump cavitation and the resulting loss of system pressure.
+Boundary Layer Enhancement (Blown Flaps)
+Although its current use is very limited, bleed air has been used in the past, mainly in military applications, to enhance boundary layer energy. In a conventional blown flap, a small amount of bleed air is piped to channels running along the rear of the wing. There, it is forced through slots in the wing flaps of the aircraft when the flaps reach certain angles. Injecting high energy air into the boundary layer produces an increase in the stalling angle of attack and the maximum lift coefficient by delaying boundary layer separation from the airfoil.
+Threats
+The major threat associated with a bleed air system is the potential risk of a leak resulting from loss of system integrity. A bleed air leak can lead to loss of system function, overheat or even fire. This topic is covered in detail in the article entitled Bleed Air Leaks.
+Design Developments
+Aircraft design has featured bleed air systems for a number of decades. However, with the introduction of the B787, Boeing has incorporated a new no-bleed systems architecture that eliminates the traditional pneumatic system and bleed manifold. Most functions formerly powered by bleed air such as the air-conditioning packs and wing anti-ice systems are now electrically powered. According to Boeing, the no-bleed systems architecture offers operators a number of benefits, including:
+
+Improved fuel consumption due to a more efficient secondary power extraction, transfer, and usage.
+Reduced maintenance costs due to elimination of the maintenance-intensive bleed system.
+Improved reliability due to the use of modern power electronics and fewer components in the engine installation.
+Expanded range and reduced fuel consumption due to lower overall weight.
+
+Accident & Incidents
+Events held on the SKYbrary A&I database which include reference to the bleed air system include:
+
+
+F100, en-route, northwest of Goroka Papua New Guinea, 2020On 18 March 2020, a Fokker 100 en-route to Port Moresby experienced a failure of the cabin pressurisation and air conditioning system due to a complete failure of the bleed air system. An emergency descent and a PAN were declared and a diversion to Madang completed. The Investigation noted unscheduled work on the bleed air system had occurred prior to the departure of the flight and that long running problems with this system had not been satisfactorily resolved until after the investigated occurrence when four malfunctioning components had finally been systematically identified and replaced.
+
+B733, en-route, north of Narrandera NSW Australia, 2018On 15 August 2018, a Boeing 737-300SF crew concerned about a small residual pressure in a bleed air system isolated after a fault occurred en-route then sought and were given non-standard further troubleshooting guidance by company maintenance which, when followed, led directly and indirectly to additional problems including successive incapacitation of both pilots and a MAYDAY diversion. The Investigation found that the aircraft concerned was carrying a number of relevant individually minor undetected defects which meant the initial crew response was not completely effective and prompted a request for in-flight assistance which was unnecessary and led to the further outcomes.
+
+A320, vicinity London Heathrow UK, 2019On 23 September 2019, the flight crew of an Airbus A320 on approach to London Heathrow detected strong acrid fumes on the flight deck and after donning oxygen masks completed the approach and landing, exited the runway and shut down on a taxiway. After removing their masks, one pilot became incapacitated and the other unwell and both were taken to hospital. The other occupants, all unaffected, were disembarked to buses. The very comprehensive investigation was unable to establish the origin of the fumes but did identify a number of circumstantial factors which corresponded to those identified in previous similar events.
+
+E195, Exeter UK, 2019On 28 February 2019, an Embraer E195 abandoned takeoff from Exeter when fight deck fumes/smoke accompanied thrust applied against the brakes. When informed of similar conditions in the cabin, the Captain ordered an emergency evacuation. Some passengers using the overwing exits re-entered the cabin after becoming confused as to how to leave the wing. The Investigation attributed the fumes to an incorrectly-performed engine compressor wash arising in a context of poorly-managed maintenance and concluded that guidance on overwing exit use had been inadequate and that the 1.8 metre certification height limit for exits without evacuation slides should be reduced.
+
+B738, Glasgow UK, 2012On 19 October 2012, a Jet2-operated Boeing 737-800 departing Glasgow made a high speed rejected take off when a strange smell became apparent in the flight deck and the senior cabin crew reported what appeared to be smoke in the cabin. The subsequent emergency evacuation resulted in one serious passenger injury. The Investigation was unable to conclusively identify a cause of the smoke and the also- detected burning smells but excess moisture in the air conditioning system was considered likely to have been a factor and the Operator subsequently made changes to its maintenance procedures.
+
+A320, en-route, north of Öland Sweden, 2011On 5 March 2011, a Finnair Airbus A320 was westbound in the cruise in southern Swedish airspace after despatch with Engine 1 bleed air system inoperative when the Engine 2 bleed air system failed and an emergency descent was necessary. The Investigation found that the Engine 2 system had shut down due to overheating and that access to proactive and reactive procedures related to operations with only a single bleed air system available were deficient. The crew failure to make use of APU air to help sustain cabin pressurisation during flight completion was noted.
+
+A333, en-route, south of Moscow Russia, 2010On 22 December 2010, a Finnair Airbus A330-300 inbound to Helsinki and cruising in very cold air at an altitude of 11,600 metres lost cabin pressurisation in cruise flight and completed an emergency descent before continuing the originally intended flight at a lower level. The subsequent Investigation was carried out together with that into a similar occurrence to another Finnair A330 which had occurred 11 days earlier. It was found that in both incidents, both engine bleed air systems had failed to function normally because of a design fault which had allowed water within their pressure transducers to freeze.
+
+A320, en-route, northeast of Granada Spain, 2017On 21 February 2017, an Airbus A320 despatched with the APU inoperative experienced successive failures of both air conditioning and pressurisation systems, the second of which occurred at FL300 and prompted the declaration of a MAYDAY and an emergency descent followed by an uneventful diversion to Alicante. The Investigation found that the cause of the dual failure was likely to have been the undetectable and undetected degradation of the aircraft bleed air regulation system and whilst noting a possibly contributory maintenance error recommended that a new scheduled maintenance task to check components in the aircraft type bleed system be established.
+
+B734, en-route, east northeast of Tanegashima Japan, 2015On 30 June 2015, both bleed air supplies on a Boeing 737-400 at FL370 failed in quick succession resulting in the loss of all pressurisation and, after making an emergency descent to 10,000 feet QNH, the flight was continued to the planned destination, Kansai. The Investigation found that both systems failed due to malfunctioning pre-cooler control valves and that these malfunctions were due to a previously identified risk of premature deterioration in service which had been addressed by an optional but  recommended Service Bulletin which had not been taken up by the operator of the aircraft involved.
+
+A320, vicinity Dublin Ireland, 2015On 3 October 2015, an Airbus A320 which had just taken off from Dublin experienced fumes from the air conditioning system in both flight deck and cabin. A 'PAN' was declared and the aircraft returned with both pilots making precautionary use of their oxygen masks. The Investigation found that routine engine pressure washes carried out prior to departure have been incorrectly performed and a contaminant was introduced into the bleed air supply to the air conditioning system as a result. The context for the error was found to be the absence of any engine wash procedure training for the Operator's engineers.
+
+A332, Karachi Pakistan, 2014On 4 October 2014, the fracture of a hydraulic hose during an A330-200 pushback at night at Karachi was followed by dense fumes in the form of hydraulic fluid mist filling the aircraft cabin and flight deck. After some delay, during which a delay in isolating the APU air bleed exacerbated the ingress of fumes, the aircraft was towed back onto stand and an emergency evacuation completed. During the return to stand, a PBE unit malfunctioned and caught fire when one of the cabin crew attempted to use it which prevented use of the exit adjacent to it for evacuation.
+
+A332, vicinity Perth Australia, 2014On 9 June 2014, a 'burning odour' of undetermined origin became evident in the rear galley of an Airbus A330 as soon as the aircraft powered up for take off. Initially, it was dismissed as not uncommon and likely to soon dissipate, but it continued and affected cabin crew were unable to continue their normal duties and received oxygen to assist recovery. En route diversion was considered but flight completion chosen. It was found that the rear pressure bulkhead insulation had not been correctly refitted following maintenance and had collapsed into and came into contact with APU  bleed air duct.
+
+B737 en-route, Glen Innes NSW Australia, 2007On 17 November 2007 a Boeing 737-700 made an emergency descent after the air conditioning and pressurisation system failed in the climb out of Coolangatta at FL318 due to loss of all bleed air. A diversion to Brisbane followed. The Investigation found that the first bleed supply had failed at low speed on take off but that continued take off had been continued contrary to SOP. It was also found that the actions taken by the crew in response to the fault after completing the take off had also been also contrary to those prescribed.
+
+B735, en-route, SE of Kushimoto Wakayama Japan, 2006On 5 July 2006, during daytime, a Boeing 737-500, operated by Air Nippon Co., Ltd. took off from Fukuoka Airport as All Nippon Airways scheduled flight 2142. At about 08:10, while flying at 37,000 ft approximately 60 nm southeast of Kushimoto VORTAC, a cabin depressurization warning was displayed and the oxygen masks in the cabin were automatically deployed. The aircraft made an emergency descent and, at 09:09, landed on Chubu International Airport.
+
+B752, en-route, North Sea, 2006On 22 October 2006 a blue haze was observed in the passenger cabin of a Boeing 757-200, operated by Thomsonfly, shortly after reaching cruise altitude on a scheduled passenger flight from Newcastle to Larnaca. A precautionary diversion was made to London Stansted, where an emergency evacuation was carried out successfully.
+
+
+
+
+Related Articles
+
+Aircraft Ice Protection Systems
+Bleed Air Leaks
+Pressurisation Problems: Guidance for Controllers
+Pressurisation Problems: Guidance for Flight Crews
+Aircraft Pressurisation Systems
+Auxiliary Power Unit (APU)
+
+
+
+
+
+Categories
+
+
+Flight Technical
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

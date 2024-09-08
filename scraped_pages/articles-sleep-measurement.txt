@@ -1,0 +1,224 @@
+Sleep Measurement
+
+
+
+
+
+
+
+
+
+
+
+  Sleep Measurement
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Measurement of body activity by an Actometer, an electro-mechanical data gathering unit, which records, basically, the amount and frequency of wrist movement.
+Discussion/References
+References to the use of the method in ATC or similar situations.
+An Actometer is a wrist strap-mounted device that registers the movements of the wearer. Since people are generally less active when asleep, it can be used to record objectively when the wearer is asleep. Current versions are digital, providing an output record that can be downloaded to a computer for analysis.
+So far, there has been no need for the precision provided by this device in the ATC Context, but it may be worth considering on a future occasion.
+
+
+
+
+Categories
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+Generics
+
+
+Type of method
+Observation
+
+
+Target of method
+Strain
+
+
+Time Scale of method
+Days
+
+
+Objective measures of sleep, like subjective sleep logs, show changes on a day-to-day basis at best.
+
+
+Portability of method
+Yes
+
+
+The Actometer recording unit resembles a large wristwatch, and can be used virtually anywhere.
+
+
+Observer Effect
+No
+
+
+The presence of the Actometer is rapidly forgotten by the wearer.
+
+
+Context of studies
+
+
+Laboratory studies
+Avoid
+
+
+ 
+
+
+Simulation studies
+Avoid
+
+
+ 
+
+
+Field studies
+Use
+
+
+ 
+
+
+Potential problems with the method
+
+
+Failure risk
+High
+
+
+Empirically, recordings from an Actometer may be disturbed by outside factors. (In particular, the tendency of some users to take it off at night).
+
+
+Bias risk
+Low
+
+
+It is difficult to envisage biasing factors for this technique.
+
+
+Ethical problems
+Medical
+
+
+Since an Actometer is worn for complete 24-hour periods, it records the general level of activity throughout the working day, and also during the subject’s off-duty hours. (It is from these records that the start and end of sleep are deduced.) Care must be taken that no other information than the start and end of sleep are obtained from the Actometer form.
+
+
+Costs of the method
+
+
+Staff Cost
+Low
+
+
+The only effort required is the down-loading of data at daily intervals.
+
+
+Set-up Cost
+Low
+
+
+The set-up cost is limited to the acquisition of the Actometer and the installation of the relevant software in a suitable PC system.
+
+
+Running Cost
+Low
+
+
+Running cost is practically negligible.
+
+
+Analysis Cost
+Low
+
+
+Analysis programs are provided in the original package.
+
+
+Analysis data
+
+
+Analysis Speed
+Fast
+
+
+Data must be transferred from the recording unit to a PC before analysis.
+
+
+Data Automation
+Used
+
+
+This sort of data can only be collected automatically.
+
+
+Analysis Automation
+Used
+
+
+Most data analysis is more or less automated in the current circumstances.
+
+
+Status
+Tentative
+
+
+Tentative - under consideration, has not been tried in ATC contexts.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

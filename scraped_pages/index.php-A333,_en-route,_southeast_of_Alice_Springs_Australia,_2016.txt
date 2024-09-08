@@ -1,0 +1,363 @@
+A333, en-route, southeast of Alice Springs Australia, 2016
+
+
+
+
+
+
+
+
+
+
+
+  A333, en-route, southeast of Alice Springs Australia, 2016
+
+
+
+
+
+
+
+
+
+Summary
+
+On 16 August 2016, an Airbus A330-300 right engine failed just over two hours into a flight from Sydney to Kuala Lumpur. It was eventually shut down after two compressor stalls and increased vibration had followed ‘exploratory’ selection of increased thrust. A ‘PAN’ declaration was followed by diversion to Melbourne, during which two relight attempts were made, in preference to other nearer alternates without further event. The Investigation found that delayed shutdown and the relight attempts were contrary to applicable procedures and the failure to divert to the nearest suitable airport had extended the time in an elevated risk environment.
+
+
+
+
+Event Details
+
+When
+
+16/08/2016
+
+
+
+Event Type
+
+
+AW,
+              HF,
+              LOC
+
+
+
+
+Day/Night
+
+Night
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS A-330-300
+
+
+
+
+
+
+
+
+
+Operator
+
+AirAsia X
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Sydney Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Kuala Lumpur International Airport
+
+
+
+
+
+
+
+Actual Destination
+
+
+
+
+Melbourne Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Cruise
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+General
+
+Tag(s)
+
+
+              En-route Diversion,
+              CVR overwritten
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Plan Continuation Bias,
+              Procedural non compliance
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Loss of Engine Power
+          
+
+
+
+
+EPR
+
+Tag(s)
+
+
+              PAN declaration
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Engine - General
+          
+
+
+
+Contributor(s)
+
+
+              Component Fault in service,
+              Corrosion/Disbonding/Fatigue
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Aircraft damage
+
+Minor
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 16 August 2016, a Rolls Royce Trent 700-powered Airbus A330-300 (9M-XXD) being operated by AirAsia X on a scheduled international passenger flight from Sydney to Kuala Lumpur as XAX221 was in the cruise at night at FL 380 when the right engine failed. In response, the engine thrust lever was first set to idle and then advanced but returned to idle when a compressor stall and vibration followed. A ‘PAN’ was declared advising an intention to divert to Melbourne rather than to nearer alternatives and immediately followed by a second right engine thrust lever advance with similar results to the first after which the engine was shutdown. Two unsuccessful engine relight attempts were subsequently made and the flight was completed without further event.
+Investigation
+An Investigation was carried out by the Australian Transport Safety Bureau (ATSB). Data were retrieved from the FDR but the CVR was discounted as a relevant source due to the post-failure diversion flight time having been in excess of 2 hours. However, useful data were recovered from the FADECs and ATC and crew interviews were conducted.
+It was noted that the Captain had a total of about 8,700 flying hours which included approximately 2,540 hours on type. The First Officer, who had been designated as PF for the flight, had a total of about 3,265 flying hours of which an unspecified number were on type.
+It was also noted that the operational flight plan stated that the flight was an ETOPS one, with a maximum diversion time in the event of engine failure of 2 hours in still air, although the first ETOPS operating area was about 400 nm beyond Alice Springs. This operational flight plan gave the only Australian ETOPS alternate aerodromes as Alice Springs and Darwin.
+What Happened
+Just over two hours into the flight, the indicated oil pressure of the right engine dropped within 7 seconds from 90psi to zero and the corresponding level 3 red warning was activated. The corresponding procedure was shown on the upper central EFIS screen, the engine/warning display, and the system display below it showed oil system parameters. In response, the Captain took over as PF and 14 seconds later the right engine thrust lever was retarded to idle, after which the applicable procedure required that the engine involved should be monitored and then shut down if the problem persisted. The crew reported that the only abnormal engine indication was the (zero) oil pressure and were thus “reluctant” to shut the engine down since they considered that the explanation might be that the oil pressure warning was false.
+About 3½ minutes after the right engine thrust lever had been set to idle, it was advanced to the CL position (which under the autothrust system, which remained engaged, permits any thrust up to en route ‘normal’). This action, according to the crew, was done “with the intent of checking/troubleshooting the engine”. However, a significant spike in engine vibration was recorded and after approximately 40 seconds, the engine stalled. This resulted in a corresponding level 2 ECAM message and the associated abnormal procedure appearing on the engine/warning display and the engine system schematics appearing on the system display below. The flight crew responded by returning the thrust lever to idle and shortly afterwards, they declared a ‘PAN PAN’ to ATC stating that they had experienced an engine stall and requesting descent to FL 250. This exchange continued with the crew stating that they were “breaking off the airway doing a left turn” and declaring that they would probably divert to Melbourne.
+Within less than a minute of this exchange with ATC, the right engine, now with its thrust at idle, stalled again accompanied by a significant spike in recorded engine vibration and this time, there was no sign of a recovery and “the engine continued to run down and failed” triggering a level 2 ‘ENG 2 FAIL’ message and its associated abnormal procedure appeared on the engine/warning display. The crew commenced the displayed procedure which was noted to have included taking “a decision about whether the engine was damaged”. The flight crew stated that they had “determined that the engine was not damaged” and following the required procedure, the engine master switch was selected to off which led to engine shut down some five minutes after the sudden loss of oil pressure had occurred.
+Five minutes later, the flight crew confirmed to ATC that they intended to divert to Melbourne and the flight was re-cleared to track direct to waypoint ‘ARBEY’ and from there direct to Melbourne descending initially to FL 250. They then used SATCOM to call company Maintenance Control and once in contact reported the engine shutdown due to low oil pressure and the engine stalls. They also “requested advice regarding the preferred diversion destination as either Adelaide or Melbourne” and were told that although there was a preference for Melbourne due to technical support concerns with Adelaide, the decision was for the Captain to make. ATC then requested more information about the problem and were informed accordingly.
+Two starter-assisted attempts to relight the failed engine were subsequently made, both on the premise that in the crew’s opinion the failed engine was not damaged. The first of these occurred 13 minutes after the engine had been shut down and was unsuccessful, resulting in an ECAM ‘ENG 2 START FAULT’ message. The flight crew then asked ATC which runway was in use at Adelaide and whether that airport had a curfew and were told that a curfew was in force there but it would be waived if the flight declared an emergency. The flight crew responded that their intention was to continue to Melbourne and “there were no further communications between the flight crew and ATC about Adelaide”.
+The diversion proceeded without further event although a second attempt to relight the failed engine was made 90 minutes after the first and occurred shortly before the descent into Melbourne began. This resulted in completion of the start cycle but with concurrent engine vibration and a failure to reach sufficient engine rotation speed to disconnect the starter motor which led the flight crew to cease the restart and shut down the engine again. The flight subsequently landed at Melbourne 2 hours and 16 minutes after the right engine had first indicated its abnormal status and after a total of 4 hours 22 minutes airborne.
+
+The ground track followed by the flight showing the two unused diversion opportunities. [Reproduced from the Official Report]
+Airworthiness Issues
+Examination of the engine involved following its removal from the aircraft found that the engine’s oil pressure pump drive shaft had failed at its ‘shear neck’ and that damage to the engine HP assembly bearings “was consistent with engine operation without oil pressure” - the whole HP assembly had seized due to bearing stress. It was noted that the drive shaft ‘shear neck’ is where the shaft diameter is intentionally reduced to provide a weak point as “a controlled site for failure should the pump shaft seize, thereby providing protection from further damage to the engine”. The cause of the shaft failure was found to have been “fatigue cracking that (had) originated at multiple sites within the shaft bore” with these cracks growing and weakening the shaft “until the remaining material failed in overstress”. The origin of this fatigue cracking could not be determined. It was evident that the drive shaft failure had not been the ‘clean break’ envisaged by the design as occurring in the event of drive shaft seizure - see the illustrations below.
+
+The drive shaft as it actually fractured. [Reproduced from the Official Report]
+
+The drive shaft as designed to shear in the case of shaft seizure. [Reproduced from the Official Report]
+The oil pressure pump was found to have completed 2,250 cycles and 13,597 hours since new. It had also recently been removed from the engine for “inspection and rebuild as part of checks for another engine issue” which had included NDT as part of the rebuild. Since being reinstalled in the engine, it had completed a further 6 cycles and 20 hours. It was found that the oil pressure pump model involved is common to both the Trent 700 and the Trent 800 (fitted to Boeing 777 aircraft) and that the engine manufacturer was aware of two previous pump failures although these had both occurred due to pump bearing seizure and had resulted in a fracture perpendicular to the shaft axis.
+Operational Issues
+It was noted that applicable Airbus Flight Crew Training Manual (FCTM) fully adopted by the operator included general guidance on how to respond to engine malfunctions which included “When the flight crew identifies an abnormal parameter, the flight crew should use all the information available to analyse the engine malfunction (and) should not consider only this abnormal parameter to perform their analysis”. It also stated that “if possible, the flight crew should keep the engine running in flight (unless) a procedure requires an engine shutdown (since) [...] even at idle, the engine powers the hydraulic, electric and bleed systems”.
+The Investigation considered the procedural response of the flight crew to each of the ECAM procedures they were presented with and made observations in each case as follows:
+
+Engine Low Oil Pressure - The flight crew delayed completing the procedure while they analysed the oil system parameters and the likely reason for the alert. After about 3.5 minutes, the flight crew advanced the thrust lever, and 30 seconds later, the engine stalled. It was considered that there was ambiguity in the ECAM procedure relative to the clear intent of the engine manufacturer’s operating instructions. The latter clearly required the engine to be shut down if the low oil pressure alert did not cease once the thrust lever was back at idle whereas the relevant Airbus FCTM content “urged a bias towards deferring any action that would result in shutting an engine down and to look beyond the abnormal parameter”. It was considered likely that whilst continued operation of the engine at idle thrust with zero oil pressure would have eventually resulted in sufficient bearing damage that stalls and engine failure would occur, the subsequent increase in thrust would have accelerated that result and probably increased the extent of engine damage.
+Engine Stall - The flight crew reacted to the stall condition in accordance with the procedure; however, about 30 seconds later the engine stalled again and then failed.
+Engine Fail - The procedure included a restart (relight) procedure, being the first procedural action, the selection of the engine start selector switch to the ignition position. The flight crew shut the engine down in accordance with the engine failure procedure.
+Engine Shut Down - The shut down procedure was designed to put the aircraft in a configuration which enabled single engine operations and does not include an option to, or guidance to consider, restarting the engine.
+Land ASAP (Amber) - This appeared following the engine shutdown and was defined in the FCOM as meaning “consider landing at the nearest suitable airport”. The definition included a note, stating that the suitability criteria should be defined in accordance with the operator's policy.
+Engine Start Fault - This occurred during the unsuccessful first restart attempt and because a light up did not occur within the specified maximum elapsed time. It was also observed that both engine restart attempts appeared to have been contrary to relevant SOPs since “there were a number of factors that should have alerted the flight crew that there was a problem with engine 2 and not to attempt a relight”.
+
+In respect of the diversion made, it was noted that the engine failure rule contained in the OM required a diversion to the nearest suitable airport. However, the OM also stated that an en-route alternate should have RFFS Category 7 and the Captain stated that his decision to divert to Melbourne “was based, in part, on the Adelaide RFFS being notified as being Category 5, below that required". The flight crew also stated that “two elements that supported the decision to divert to Melbourne were passenger wellbeing and easier recovery of the aircraft” and it was noted that “both elements have an apparently commercial nature, but neither commercial considerations nor these specific elements are included in the determination of the suitability of an airport for diversion”. It was noted that at the position when the PAN was declared, the flight was 205 nm from Alice Springs, 545 nm from Adelaide and 815 nm from Melbourne. All of these were experiencing ‘benign’ weather conditions. It was noted that although the Operational Flight Plan had stated that the flight “was an ETOPS flight limited to 120 minutes diversion time” for which the nominal equivalent distance was 823 nm, the engine failure had not occurred in an ETOPS segment of the flight and so its requirements were not applicable. However, it was observed that Alice Springs was available and nominated on the operational flight plan as an en route alternate airport and Adelaide was a company-preferred alternate not subject to any impediment to its use as a diversion airport and that “the diversion to Melbourne resulted in an increase in the time that the flight was exposed to the higher risk environment of single engine operations”.
+Four Contributory Factors which led to the event were identified as follows:
+
+In response to an engine oil low pressure (ENG OIL LO PR) ECAM, resulting from a fractured shaft within the oil pressure pump, the flight crew continued to monitor the engine parameters instead of shutting the engine down. Due to a mistaken understanding that the alert was a false indication, the flight crew subsequently increased thrust.
+The Airbus A330 engine oil low pressure (ENG OIL LO PR) abnormal procedure included the conditional instruction 'if the condition persists'. This may be interpreted as either requiring the flight crew to wait a certain period of time to determine the continuation of the condition, as apparently interpreted by the flight crew, or, as intended by Airbus, that the condition has not changed as a result of the previous procedural step.
+Contrary to operating procedures, the flight crew made two attempts to relight the failed engine.
+The crew diverted to Melbourne instead of the nearest suitable aerodrome. This increased the time that the flight was exposed to the higher risk environment of single engine operations.
+
+Safety Action taken by AirAsia X as a result of the event and known to the Investigation prior to its completion was noted as having included the following:
+
+The content of the Operations Manual in respect of restarts following an engine failure, which stated that a failed engine should not be restarted when the cause of that failure is unknown or there is insufficient information to determine the cause, was emphasised to flight crew through the issue of ‘Flight Safety Notice’ which also reiterated the requirement to land at the nearest suitable airport when a ‘LAND ASAP’ notification is displayed.
+A flight crew training package was developed to identify lessons learnt from the event in respect of engine failure, engine restarts and diversion decision making to be included in annual recurrent training.
+
+The Final Report was released on 19 December 2019. No Safety Recommendations were made.
+Related Articles
+
+Compressor Stall
+Alternate Aerodrome
+Engine Failure: Guidance for Controllers
+Emergency or Abnormal Situation
+Extended Range Operations
+Electronic Centralized Aircraft Monitor (ECAM)
+Quick Reference Handbook (QRH)

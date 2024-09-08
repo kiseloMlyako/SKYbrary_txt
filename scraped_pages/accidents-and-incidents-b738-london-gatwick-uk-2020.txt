@@ -1,0 +1,272 @@
+B738, London Gatwick UK, 2020
+
+
+
+
+
+
+
+
+
+
+
+  B738, London Gatwick UK, 2020
+
+
+
+
+
+
+
+
+
+Summary
+
+On 28 February 2020, a Boeing 737-800 taking off from the full length of the London Gatwick main runway, which is in excess of 3000 metres long, was observed to get airborne only 120 metres before the end of the paved surface. The Investigation found that the crew response when the automatic V1 and VR calls did not occur was unduly delayed with rotation only occurring at a much higher than normal speed. No system fault was subsequently found and it was concluded that the crew had most likely omitted to input these speeds to the FMC after calculation.
+
+
+
+
+Event Details
+
+When
+
+28/02/2020
+
+
+
+Event Type
+
+
+HF
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 737-800
+
+
+
+
+
+
+
+
+
+Operator
+
+Royal Air Maroc
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+London Gatwick Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Casablanca/Mohammed V International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Take Off
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+EGKK
+
+
+
+
+General
+
+Tag(s)
+
+
+              CVR overwritten
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Pre Flight Data Input Error,
+              Inappropriate crew response (automatics),
+              Ineffective Monitoring,
+              Procedural non compliance
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 28 February 2020, a Boeing 737-800 (CN-RGJ) being operated by Royal Air Maroc on a scheduled international passenger flight from London Gatwick to Casablanca as AT807 was observed to begin its takeoff in normal day visibility from the beginning of runway 26L but then not get airborne until it had almost reached the end of it. The flight thereafter was without further event.
+Investigation
+An Investigation was carried out by the UK AAIB, informed by relevant recorded data from the QAR which were provided by the aircraft operator. Relevant CVR data were not available. It was noted that the 56 year-old Captain had a total of 13,479 hours flying experience of which 12,755 hours were on type. Corresponding experience details in respect of the First Officer, who was PF for the investigated departure, were not recorded.
+The Captain stated that the calculated V1, VR and V2 speeds for a flap 1 takeoff with a reduced thrust based on an assumed temperature of 55°C were, respectively, 144 knots, 152 knots, and 155 knots. He added that these speeds and the other takeoff performance data had been input to the FMC at the gate as usual and that no changes had been necessary thereafter. After engine start, the aircraft had been taxied to the A1 holding point for a runway 26L departure as cleared and had subsequently been cleared to line up and wait.
+Takeoff clearance for 26L, which is in excess of 3000 metres in length, was subsequently given with a light southerly wind in rain and it was commenced. Passing 80 knots, the Captain confirmed that the airspeed indications were normal and the flight crew was then expecting to hear the automatic call at V1 but this call did not occur. He said that when he realised that the automatic call had not occurred, he had checked his PFD and seen that the V speed bugs were not displayed on the PFD speed tape. He reported having felt that “the aircraft was slow” so he “allowed it to accelerate whilst he evaluated the situation”. He did not recall whether the V speeds were still displayed on his control display unit (CDU). He said that “as the end of the runway approached, he instructed the First Officer to initiate a smooth rotation” and the aircraft subsequently became airborne. On completion of an otherwise uneventful flight, he recorded the lack of the automatic V speed calls in the Aircraft Technical Log and observed that they had functioned normally on the earlier departure from Casablanca. It was learnt that “subsequent investigation by the operator did not find any aircraft faults” and the automatic calls had continued to function normally on subsequent flights.
+Recorded flight data showed that the nose landing gear left the ground at 189 KCAS, which was almost 40 knots above the calculated VR. The aircraft was fully airborne just 120 metres prior to the end of the paved runway surface and 13 seconds after the calculated VR with thrust being increased slightly only just before rotation finally occurred. It was noted that the QAR record of V speeds set in the FMC for the flight concerned was blank throughout the departure but that flights both before and afterwards had recorded the usual V speed data. However, the Mode Control Panel (MCP) selected speed, which is normally set to V2 for takeoff, was recorded on the QAR as 155 knots, which was the calculated V2.
+
+The annotated ground track of the takeoff based on recorded flight data. [Reproduced from the Official Report]
+It was noted that if changes are made to any of the FMC takeoff performance data once it has been initially entered, then the takeoff speeds are automatically deleted. This will trigger a message on the CDU and illumination of the CDU message light, an amber FMC caution light above the ND and a ‘NO VSPD’ message on the PFD. Boeing advised that they were “not aware of any situation in which the V speeds can be deleted without these warnings appearing”.
+It was found that the 737 Flight Crew Training Manual (FCTM) states that the PF will normally display the CDU takeoff Reference Page which allows them to immediately see the VR and V1 speeds in the event that they are no longer displayed on PFD speed scale for any reason. It was also found to state that:
+There have been incidents where pilots have missed FMC alerting messages informing them that the takeoff speeds have been deleted or they have forgotten to set the airspeed bugs. If, during a takeoff, the crew discovers that the V speeds are not displayed and there are no other fault indications, the takeoff may be continued […] In the absence of displayed V speeds, the PM should announce V1 and VR speeds to the PF at the appropriate times during the takeoff roll (and) if neither pilot recalls the correct rotation speed, rotate the airplane 5 to 10 knots before the displayed V2 speed.
+For the investigated flight, no V speeds were recorded on the QAR which suggests they were not loaded into the FMC when the engines were started. It is possible that the flight crew did not enter them but the aircraft weights and the assumed temperature had been entered into the FMC and the MCP speed had been set to V2 both of which are part of the same procedure as entering the V speeds which suggests most of the pre-flight procedure was completed. It is also possible that the speeds were entered correctly and then inadvertently deleted, but the flight crew did not recall seeing the FMC alerting messages or the ‘NO VSPD’ message on the PFDs and it appears that there is no way of deleting the V speeds without these messages appearing. The guidance in the FCTM on how to respond to a lack of automatic calls or the absence of speed bugs was not followed. However, these systems are normally reliable, so it would not have been exceptional for the flight crew to take a few seconds to react when the automatic calls did not occur. However, in this case, rotation was delayed until considerably more than the typical rotation speed and for more than the few seconds which might have been generally expected.
+The Conclusion of the Investigation was that it was likely the automatic call and speed bugs were absent because the V speeds were not present in the FMC. It was noted that the investigated event shows that automatic calls may not always work as the flight crew expect and they should be ready to respond appropriately.
+The Final Report of the Investigation was published on 10 September 2020.
+Related Articles
+
+Use of Erroneous Parameters at Take-Off
+Runway Excursion

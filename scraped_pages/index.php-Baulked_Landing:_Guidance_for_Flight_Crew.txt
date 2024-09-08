@@ -1,0 +1,227 @@
+Baulked Landing: Guidance for Flight Crew
+
+
+
+
+
+
+
+
+
+
+
+  Baulked Landing: Guidance for Flight Crew
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rejected Landing
+Description
+A Baulked Landing, sometimes referred to as a Rejected Landing, is a low energy go-around initiated from a very low height above the runway or, potentially, even after touchdown has occurred. In virtually all cases, the go-around is initiated whilst the aircraft is in a decreasing energy state. A baulked landing, although rare, is considered a high-risk manoeuvre.
+Universal definitions of the terms baulked landing and rejected landing have not been adopted. However, some National Aviation Authorities (NAA) have defined the terms and have established training/checking requirements to encompass these events for operators under their jurisdiction.
+Definitions
+Transport Canada defines the terms rejected landing and baulked landing as follows:
+
+Rejected Landing: A discontinued landing attempt. A rejected landing typically is initiated at low altitude but prior to touchdown and typically is initiated below DA(H) or MDA(H) of an IAP. A rejected landing may be initiated in either visual meteorological conditions (VMC) or instrument meteorological conditions (IMC). A rejected landing typically results in a missed approach. If related to the consideration of aircraft configuration(s) or performance, it is sometimes referred to as a Baulked Landing.
+Baulked Landing: A discontinued landing attempt. The term is often used in conjunction with aircraft configuration or performance assessment, as in Baulked landing climb gradient. Also see Rejected Landing.
+
+Whilst the two definitions are very similar and the obstacle clearance considerations for both are virtually identical, it is the initial climb performance aspect of the baulked landing definition that is the focus of this article.
+Criteria
+During the certification process for any aircraft, performance and handling are assessed across a wide range of weights, configurations, and flight profiles. The Aircraft Flight Manual (AFM) defines the limitations within which the aircraft may be safely operated.
+It is a common belief amongst aviation professionals that aircraft are certified to successfully complete a go around from any point during the approach or landing phase. This is not actually the case. An aircraft is not certified to successfully complete a go around without ground contact once it has entered the low-energy landing regime, that is, during a baulked landing. The low-energy, or baulked landing regime is defined by Transport Canada as:
+
+aircraft flaps and landing gear in the landing configuration
+aircraft in descent
+thrust stabilized in the idle range
+airspeed decreasing; and
+aircraft height 50 feet or less above the runway
+
+Note that 50 feet is a representative value. A given aircraft may enter the low-energy (baulked) landing regime either above or below 50 feet based on the approved landing procedures for that specific aircraft type.
+Decision
+A baulked landing is, in essence, a last minute go around decision. That decision can be precipitated by a number of different circumstances. These circumstances might include any of the following:
+
+loss of visual references as might occur in shallow fog (MIFG), blowing snow (BS), or, during night operations, in the event of power failure induced loss of runway lights
+Low Level Wind Shear (LLWS)
+a long landing as might occur after an excessive float or during Tailwind Operations
+a bounced landing
+strong and/or excessively gusty crosswinds
+Runway Incursion by another aircraft or a vehicle
+any other circumstance that leads the pilot to believe that a safe landing cannot be achieved.
+
+Risks
+There are two primary, but critical, risks associated with a baulked landing: initial aircraft performance and climb capability due to the low energy state inherent to the baulked landing regime, and obstacle clearance, especially in IMC conditions. As previously indicated, touchdown may occur after a baulked landing has been initiated. This can further increase the risk, especially in the event that the pilot elects to abandon the go around and, instead, try to salvage the landing.
+
+Obstacle Clearance
+
+By definition, a baulked landing is initiated well below and far beyond the Missed Approach Point (MAP) associated with any instrument approach procedure for the landing runway. As illustrated in the diagram below, this can potentially compromise obstacle clearance. At night or in IMC conditions (and under VMC conditions under some circumstances), this can pose an extreme risk of CFIT.
+
+Baulked Landing Obstacle Clearance
+
+Aircraft Performance
+
+For most aircraft, the standard actions for initiating a normal go around include simultaneously:
+
+selecting maximum (TOGA) thrust
+rotating the aircraft to the appropriate go around pitch attitude (follow the flight director where certified)
+retracting the flaps to the appropriate go around setting
+
+
+These actions presuppose a normal approach energy state with engines above idle and speed at or, more frequently, above Vref. During a baulked landing, as per the criteria listed above, the engines are at idle and the airspeed can be below Vref and is decreasing. In most cases, the rotational speed of a jet engines must be increased, or "spooled up" before it will start to produce thrust. Spool up time is variable by engine type and, in many cases, can be significant. A lapse of several seconds from power lever movement to generation of thrust is normal and in some engines, the interval can be 6 seconds or even more. Flap retraction necessitates an associated change in angle of attack and will increase the stall speed. Under these conditions, the standard go around actions could result in a tail strike or an aerodynamic stall.
+Mitigations
+Mitigations for the major risks associated with a baulked landing must focus on both aircraft handling and missed approach obstacle clearance, as standard go around protocols have the potential to result in Loss of Control and, adherence to the published missed approach profile could result in loss of ground clearance. Flight crews should consider the actions and behaviour described below.
+Aircraft Handling
+As previously identified, in the context of a baulked landing, the simultaneous application of thrust, retraction of flap and rotation to the go around pitch attitude can result in loss of control due to the low energy state of the aircraft at the initiation of the go around. Whilst all three actions must still occur, the sequence and the triggers for the individual events must be more methodical and deliberate. In the event of a baulked landing decision, the pilot should follow the guidance provided by the AFM. In the lack of specific guidance, the following actions should be taken:
+
+apply maximum (TOGA) thrust and increase pitch sufficiently to reduce or, if within the capability of the aircraft, arrest the descent. Do NOT attempt to climb or retract flap until the engines are spooled and the speed trend is positive. Many operators have adopted a "TOGA Ten" mindset where TOGA thrust is selected and a 10 degree nose up attitude is targeted. Note that the appropriate pitch attitude may vary by aircraft type.
+in the event that the aircraft touches down, maintain the attitude and thrust. As the speed increases through Vref, adjust the attitude as required to become airborne once again. Do NOT reverse the go around decision and attempt to salvage the landing as this could lead to a Runway Excursion
+as the airspeed increases through Vref, increase pitch to commence climb
+when approach speed is achieved (Vref plus 5 or plus 10, or as appropriate to the aircraft type and configuration), select the appropriate go around flap setting
+continue with the normal go around profile
+
+Note that some agencies advocate combining some of these steps by waiting until the airspeed is increasing through Vref plus 10 and then reverting to the normal go around profile. The critical premise of both methodologies is that climb must not be initiated and flaps must not be retracted until thrust is being generated and the airspeed is increasing.
+Obstacle Clearance
+The risk associated with obstacle clearance after a baulked landing will depend upon a combination of factors inclusive of:
+
+aircraft performance
+the actual presence of, and the height and location of any obstacles
+time of day
+meteorological conditions
+
+As identified previously, the go around from a baulked landing is initiated from a point below and beyond the missed approach point and thus commences below the Obstacle Clearance Surface (OCS) that was utilised during the IAP design to ensure safe obstacle clearance. At typical landing weights and with all engines operating, most aircraft can easily outclimb the Required Obstacle Clearance (ROC) gradient. However, the aircraft will still be at significant CFIT risk for the period it remains below the OCS. This period will be extended, and the problem exacerbated, in cases where obstacles in the missed approach path necessitated a higher than standard OCS gradient, or if performance is compromised as would be the case if all engines are not operating, if the landing weight is significantly higher than normal or due to hot and high conditions. In circumstances of daylight VMC, visual avoidance of any obstacles may be possible until the aircraft has climbed above the OCS at which time the missed approach procedure will ensure obstacle clearance. However, in IMC or at night, the visual avoidance of obstacles will not be possible.
+At night, or under instrument meteorological conditions, assurance of safe ground clearance after a baulked landing can be achieved by following the engine out SID or Emergency Turn procedure associated with the landing runway. This procedure has been developed for the engine failure after V1 case and will identify an appropriate obstacle clearance routing and a maximum weight against a given ambient temperature at which the aircraft can safely achieve the associated climb gradient after failure of an engine. Obviously, to be a viable option in the event of a baulked landing, the Emergency Turn procedure would have to be reviewed prior to execution of the approach.
+Summary
+A baulked landing is an infrequent occurrence and is considered a high risk manoeuvre. Initiation of the baulked landing occurs from a very low height with the aircraft in a low energy state. Modified go around procedures are necessary, as standard actions could lead to loss of control. For many locations, obstacle clearance mitigation strategies must be considered to reduce the potential for CFIT.
+Accidents and Incidents
+
+A320, Hamburg Germany, 2008 On 1 March 2008 an Airbus A320 being operated by Lufthansa on a scheduled passenger flight from Munich to Hamburg experienced high and variable wind velocity on short finals in good daylight visibility and during the attempt at landing on runway 23 with a strong crosswind component from the right, a bounced contact of the left main landing gear with the runway was followed by a left wing down attitude which resulted in the left wing tip touching the ground. A rejected landing was then flown and after radar vectoring, a second approach to runway 33 was made to a successful landing. No aircraft occupants were injured but the aircraft left wing tip was found to have been damaged by the runway contact.
+B773, Dubai UAE, 2016 On 3 August 2016 a Boeing 777-300 rejected a landing at Dubai from the runway following a late touchdown after floating in the flare. It then became airborne without either pilot noticing that the A/T had not responded to TO/GA switch selection and without thrust, control was soon lost and the aircraft hit the runway and slid to a stop. The Investigation found that the crew were unfamiliar with the initiation of a go around after touchdown and had failed to follow several required procedures which could have supported early recovery of control and completion of the intended go around.
+A306, East Midlands UK, 2011 On 10 January 2011, an Air Atlanta Icelandic Airbus A300-600 on a scheduled cargo flight made a bounced touchdown at East Midlands and then attempted a go around involving retraction of the thrust reversers after selection out and before they had fully deployed. This prevented one engine from spooling up and, after a tail strike during rotation, the single engine go around was conducted with considerable difficulty at a climb rate only acceptable because of a lack of terrain challenges along the climb out track.
+B77L, Copenhagen Denmark, 2011 On 17 April 2011, a Boeing 777F bounced three times during an attempted landing at Copenhagen during which the underside of the aircraft was damaged by two tailstrikes. The second occurred during over-rotation for a go around commenced after thrust reverser deployment, with 760 metres of the 3300 metre-long runway remaining. The Investigation observed that a go around initiated after thrust reverser deployment was contrary to an express prohibition in the aircraft type FCOM. It was noted that the aircraft commander was an instructor pilot and that both pilots had less than 200 hours experience on the aircraft type.
+A320, Varadero Cuba, 2010 On 31 January 2010, an Airbus A320-200 being operated by the Canadian Airline Skyservice on a passenger flight from Toronto Canada to Varadero Cuba made a procedural night ILS approach to destination in heavy rain and, soon after touchdown on a flooded runway, drifted off the side and travelled parallel to it for a little over 500 metres before subsequently re-entering it at low speed. There were no injuries to the 186 occupants and the aircraft sustained only minor damage.
+
+Related Articles
+
+Rejected Landings
+Go-around from Low Airspeed/Low Thrust
+Shallow Fog
+Shallow fog: Guidance for flight crews
+Low Visibility Procedures (LVP)
+Low Level Wind Shear
+
+Further Reading
+EUROCONTROL
+
+Go-Around Safety Forum, Brussels 2013: Findings and Conclusions
+Operational Safety Study - Low Level Go Around, Jan 2019
+
+
+Transport Canada
+
+CBAA Advisory Circular 0141 - Notice to Pilots and Air Operators - Low-Energy Hazards/ Balked Landing/Go-Around
+AC 700-049 - Missed Approaches with Published Climb Gradients: Special Authorization and Guidance
+
+
+FAA
+
+FAA Information for Operators 17009: Committed-to-Stop Point on Landings, July 2017
+
+
+Flight Safety Foundation
+
+ALAR Briefing Note 4.2 — Energy Management
+
+
+Other
+
+Airbus Flight Operations Briefing Note: Landing Techniques/ Bounce Recovery - Rejected Landing
+
+
+
+
+
+Categories
+
+
+General,
+              Overrun on Landing
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

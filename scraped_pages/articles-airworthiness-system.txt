@@ -1,0 +1,166 @@
+Airworthiness - The System
+
+
+
+
+
+
+
+
+
+
+
+  Airworthiness - The System
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Airworthiness 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ Cranfield University
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ Cranfield University
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+An aircraft is airworthy "when it meets its type design and is in a condition for safe operation" [FAA, 1998], and therefore starting a flight in an airworthy aircraft is an important part of the achieving acceptable levels of safety. The regulations require nothing less than this. The effort which goes into delivering airworthy aircraft stems from a huge, complex, and highly regulated industry. Like the rest of aviation, it involves human interventions and is subject to human traits: see An Overview of Human Factors in Aviation Maintenance for an example.
+Airworthiness Authorities
+Each National Aviation Authority (NAA) - or in the case of the EU - EASA - is the Airworthiness Authority for that State and is responsible for developing the regulatory regime which will apply. An Airworthiness Authority will usually announce an intention to issue new or revised regulations, including mandatory tasks, through a EASA Notice of Proposed Amendment (NPA) or US FAA Notice of Proposed Rulemaking (NPRM) which allows for industry consultation before changes are made. In a few cases, the nature of the change is too important and/or to urgent to permit this, so regulators retain the authority to introduce a requirement without consulting industry.
+In the case of EASA, the setting of policy and rulemaking is by the EASA organisation, while implementation is overseen by the relevant NAA. This includes oversight of operating standards. The NAAs also carry out most of the work involved in ensuring that organisations in their territory meet requirements before approving them. Close cooperation exists between the world’s main regulators in attempting to harmonise, as far as practical, their individual standards.
+New Aircraft
+Newly manufactured aircraft are delivered to customers having been built according to the applicable Type Certificate. This certificate is issued in respect of the defined build standard of the first aircraft of the specific type. Thereafter all subsequent new aircraft of this type must meet the same build standard for the issue of an individual aircraft Certificate of Airworthiness. See also the article Certification of Aircraft, Design and Production.
+The Type Certificate is valid throughout the life of a specific type and only varies in the event of a major change e.g. installation of a freight door. It can also allow what are sometimes referred to as “grandfather rights” to be applied for subsequent newer versions of the original aircraft model. For example, Airbus first produced the A320 aircraft and then subsequently added the A321, A319 and A318 to the same Type Certificate as they were deemed sufficiently similar. A similar process was applied to some versions of the Boeing 737, whilst noting that an Authority may invoke new standards for new derivatives e.g. Boeing 737NG.
+When an aircraft type enters service for the first time with a new operator, that operator must have a Maintenance Programme in existence and approved by his NAA before operation. This will be based upon the manufacturer’s Maintenance Planning Document (MPD) but will be tailored to suit the particular operator – this will be approved by the local authority as an Approved Maintenance Programme (AMP) and Approved Maintenance Schedule (AMS).
+The organisation which will carry out the work - either the airline’s own maintenance company or a contracted one – is normally termed a Maintenance, Repair and Overhaul (MRO). In addition to being an approved Part 145 company, it will also need to add the new aircraft type to its Approval. A Part 145 organisation has to meet specific requirements particularly in its staffing, tooling, premises and capacity. In particular, certain management posts and the Maintenance Organisation Exposition (MOE) are carefully scrutinised by the NAA prior to acceptance.
+Aircraft in Service
+From its very first flight, an aircraft progressively accumulates flying hours, flight cycles (a takeoff to landing is one flight cycle) and naturally elapsed calendar periods. These variables are tracked to ensure that the requirements of the Maintenance Programme are met. The latter may be termed Block or Equalised Maintenance.
+Daily inspections are carried out covering a small number of important tasks as well as replenishment of lubricants and other fluids. At longer intervals (for example between 750 and 1000 flight hours), an A Check would be carried out, if the schedule is following a Block maintenance format. This involves more extensive checks and would be performed by Line Maintenance personnel.
+The B Check is no longer used and therefore the next check is a partial C Check. By carefully dividing the requirements of a C Check into a small number of packages, the aircraft will avoid lengthy time out of service. This practice is termed Equalised Maintenance. A typical C Check will be carried out by Base Maintenance personnel using proper accommodation, hangars and access equipment. This check will require the aircraft to be out of service for a number of days.
+The final check in the Block check format of maintenance is the D Check. This is a major activity when a very detailed inspection of the whole aircraft is performed. Often such items as landing gear and control surfaces are removed for service and the interior equipment such as seats and galleys are also removed for refurbishment.
+The D Check is both costly and time consuming. Many operators sub-contract this work to reduce cost and avoid taking up their hangar space which may be used for smaller work programmes. Equally, some operators use the onset of a D Check programme to change their fleet to new aircraft thus providing a new owner with a lower cost aircraft after the necessary D check is carried out.
+Planning and Control
+The control of in-service aircraft is both complex and vital. While day to day flying continues, maintenance technicians rectify problems reported by the flight-crew as well as those found by inspection. In addition, other technical aspects of the aircraft are monitored, including its flight hours, the performance of its engines and systems, and also less obvious things such as planning the cleaning of the exterior and interior. An airline may operate a maintenance control centre on a 24 hour basis. This technical centre (often called “Maintrol”) has much of the data relevant to each aircraft and also keeps in constant touch with aircraft via radio and data downlink. This may usefully be co-located with airline Operations department. The role of Maintrol is to minimise operational technical disruption as well as ensuring that day to day maintenance is performed at, or prior to, the period set in the Maintenance Programme.
+For operators based in EU nations, and others who choose to follow EASA regulations, a Continuing Airworthiness Management Organisation (CAMO) must be in place. This is an (approved) organisation responsible for implementation of continuing airworthiness management tasks. Their role includes the regular scrutiny of maintenance history compared to the requirements of the Maintenance Programme. In the EU, this process is results in the issue of an Airworthiness Review Certificate (ARC) which validates the associated Certificate of Airworthiness.
+Certain countries may carry out similar reviews which are referred to as Certificate of Maintenance Review. Much of what the regulator requires in terms of continuing airworthiness is dealt with by the foregoing activity which will include its oversight by a Quality Assurance system.
+In-Service Maintenance
+Aircraft, like any complex system, require day to day care, which can range from changing a worn tyre to a complex investigation of a digital electronic system fault. This work is dealt with by Maintenance Technicians who hold an appropriate license issued by the NAA. Faults reported by the pilot are entered into a log book (the Aircraft Technical Log) and, after rectifying the fault, the technician signs for doing the work with the individual’s licence number.
+This certification is termed a Certificate of Release to Service (CRS). Modern systems permit the pilot and technician to record the fault and the fix using E-Tech Log on a tablet computer. This is part of an on-board system known as the Electronic Flight Bag (EFB). On a few occasions, the reported defect cannot be immediately fixed and, provided that the fault is listed as “Acceptable” in an approved manual known as the Minimum Equipment List (MEL), the aircraft may continue in operation for a limited period of time until the fault can be rectified.
+The Master MEL is issued by the airworthiness authority, and each operator must prepare their own version, just the MEL. This must be no less restrictive than the Master MEL, and must be followed with care by both the pilot and the maintenance technician.
+Aircraft in Storage or Out of Service
+When aircraft are out of service and stored for any reason it becomes necessary to apply a preventative maintenance regime. This is laid down in the Aircraft Maintenance Manual (AMM) not the normal Maintenance Programme. Specific requirements will vary for such reasons as:
+
+Length of time that the aircraft is not flown.
+Environment in which it is stored e.g. in a dry desert environment compared to a moist sea air one.
+The degree to which the aircraft is prepared before it is put into storage. For example if engines are removed, this will negate the need to operate them periodically. If the passenger seats and other furnishings are removed that too will reduce the amount of preventive work.
+The installation of humidity reduction equipment will have a very positive effect on the aircraft’s internal structure.
+
+Notwithstanding the preparations, the need to provide proper care during storage cannot be overstated. The cost and attendant down time to restore the aircraft to service will be increased considerably if less than rigorous storage procedures are permitted.
+Service Bulletins and Modifications
+Every type of aircraft, through its service life, will be subject to changes which come about from in-service problems as well as improvements sought by the owner or operator. These changes have varying titles but by far the most common is the Service Bulletin (SB). SBs are issued by the manufacturer, which can be the aircraft OEM, the engine OEM or equipment manufacturer. In addition, SBs can fall into more than one category.
+Some, the less vital ones, are optional in character but some are important to safety and/or reliability. In the latter case, and after consultation between the manufacturer and NAA of the Type Certificate issuing country, the SB will become mandatory, and is then known as an Airworthiness Directive.
+Modifications also need to be approved, depending on whether they are classed as “Major” or “Minor”. They can be variable in scope; for example the range of work from a change in seating configuration to a Passenger to Freighter conversion. To accomplish this safely, approved design organisations are necessary to engineer and produce the Service or Modification Bulletin, which may be approved as Supplemental Type Certificate (STC) if not designed by the Type Certificate Holder.
+Airworthiness Directive
+This method of disseminating and controlling a safety-related requirement is termed an Airworthiness Directive (AD), issued by an airworthiness authority. Issued or adopted by a NAA to mandate actions to be performed on aircraft to restore an acceptable level of safety. The compliance time will be adopted in accordance with EASA Guidance Material 21 A.3B(d)(4) Defect correction – Sufficiency of proposed corrective action [EC, 2012]. An AD contains at least the following information:
+
+An identification of the unsafe condition
+An identification of the affected aircraft
+The action(s) required
+The compliance time for the required action(s)
+The date of entry into force
+
+Related Articles
+
+Airworthiness
+Continuing Airworthiness
+Certification of Aircraft, Design and Production
+Accident and Serious Incident Reports: AW - a selection of reports concerning events where airworthiness was a causal or contributory factor.
+
+Further Reading
+
+Continued Airworthiness - information leaflet prepared by the International Federation of Airworthiness (IFA) to assist the understanding of the basic Continuing Airworthiness requirements and control functions
+AAIB Safety Study - 1/2016: Airworthiness of Aircraft Registered Overseas and Resident in the UK, published January 2016.
+EC (2012), Commission Regulation (EU) No 965/2012 of 5 October 2012 laying down technical requirements and administrative procedures related to air operations pursuant to Regulation (EU) No 2018/1139 of the European Parliament and of the Council
+FAA (1998), FAR-43.13-1B, Acceptable Methods, Techniques, and Practices - Aircraft Inspection and Repair App 1, Glossary
+
+
+
+
+
+Categories
+
+
+Airworthiness
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

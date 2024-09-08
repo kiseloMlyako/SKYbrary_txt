@@ -1,0 +1,141 @@
+Human Machine Interface (HMI)
+
+
+
+
+
+
+
+
+
+
+
+  Human Machine Interface (HMI)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+Although in the context of aviation, a "machine" primarily relates to aircraft flown by pilots and to work stations used by air traffic controllers, the concept of "machine" more broadly encompasses any device that people are interfacing with, be it a mobile phone, laptop computer, videodisc player, copy-machine, etc..
+Description
+Discussing man-machine-interface raises two basic questions:
+
+How do we communicate with the machine?
+How does the machine communicate with us?
+
+This "two-way communication" is achieved through controls and displays.
+Controls and displays must be seen from two different perspectives:
+
+Their physical aspect (ergonomics of usage),
+Their matching with the user's mental model (usage architecture and intuitiveness).
+
+Discussion / Considerations
+Communicating with a machine is just like communicating with/requesting something from a human being:
+
+The message (intentions, expectations) must be conveyed in a manner (language) that is understood by the other party
+The way the other party acknowledges and implements this request must be carefully listened to and confirmed
+
+To prepare and help users to better use and understand the "language of the machine", user's operating manuals should describe the systems "from an operational perspective" (i.e., in the context of both normal and non-normal procedures). This is often coined by the sentence "it is important to understand how the system works, but it is even more important to know how to work the system".
+Interfacing with a machine is also - and even more importantly - "supervising" what the machine does versus what we asked it to do. This requires some measure of humbleness. Indeed, if a machine does something incorrectly, rather than just asking "what is it doing now?", we should also ask ourselves "what did I do wrong that is resulting in the machine behaving as it is?".
+The users must never forget their short-term and long-term intentions and expectations. Indeed, in the same way pilots are continuously listening to an active frequency, machine operators must effectively "listen" to what the machine is "telling" them. This implies checking the proper position of controls (knobs, keys, etc.), the correct display and modes of operation, the activation of any advisory messages and the illumination of caution or warning lights/captions.
+Conclusions
+Interfacing with a machine is not only mastering the physical interface between the human user and the system but it is also mastering the mental model implemented in the machine's architecture and logic. If the machine's design has been well thought out and user-centred this should mirror the user's mental model. Interfacing with/supervising a machine, or any automated system, is a matter of human performance and, as such, it should always include a reasonable measure of caution in order to avoid complacency and overreliance on the machine.
+Related Articles
+
+Category:Design Philosophy
+Cockpit Automation - Advantages and Safety Challenges
+
+Further Reading
+
+Flight Safety Foundation ALAR Briefing Note 1.2 — Automation
+HindSight magazine N°16 (Winter 2012) - Aircraft automation made simple: by Michel Tremaud.
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

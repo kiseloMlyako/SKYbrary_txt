@@ -1,0 +1,228 @@
+Embedded Secondary Tasks
+
+
+
+
+
+
+
+
+
+
+
+  Embedded Secondary Tasks
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+An ‘embedded task’ is a ‘secondary task ‘ (see below) which is not an arbitrary activity, but a non-essential task - for example, handing an aircraft manually to the next sector where an automatic handover occurs at the sector boundary.
+Discussion/References
+Secondary tasks have been used in laboratory experiments on the assumption that subjects have a certain fixed capacity for work, and can distribute this capacity between a primary and a secondary task. The primary task, in this instance would be Air Traffic Control, and the secondary task some form of mental task. Meshkati, Hancock and Rahimi, in Wilson and Corlett (1990) discuss secondary task methods in some detail. It appears clear that it is not realistic to assume that controllers could move effortlessly from a primary ATC task to a secondary task and back, maintaining full efficiency in the ATC task. Indeed, On-line ISA or SWAT, which can be considered to be a simple secondary task, can be shown to lead to a deterioration in the efficiency of the ATC task (David and Pledger 19??) It appears to be very difficult to strike a balance between a secondary task, which, to be measurable, must involve some explicit activity, and a primary task which involves a substantial amount of monitoring. In aviation studies, the effect of loss of attention shows up rapidly in deviations from the planned flight path, but failures of ATC monitoring and planning may not have consequences for many minutes.
+Embedded secondary tasks, however, are tasks that form part of a complex primary task, but which can be omitted without serious consequences for the overall efficiency of the primary task.
+Where there is intimate human-system co-operation, some tasks may be shared between human and system. If the human has not carried them out by a certain time, for example, the system will assume a default value, or carry out the task without waiting for human input. Routine communications, such as the hand-over of an aircraft to the next sector, form a possible example. The controller, although theoretically responsible for an aircraft from the moment it enters to the moment it leaves his airspace, usually hands the aircraft over to the next sector a few minutes before the boundary. This requires a communication with the next sector to confirm the entry conditions for the next sector (which, in modern systems, may be through a symbolic display) and an instruction to the aircraft to change frequency. In a modern system, if the controller has not carried out the hand-over manually before the aircraft reaches the boundary, the hand-over may be carried out automatically. The controller is aware of this possibility, and, when overloaded, may decide to use it to reduce his workload. Subsequent analysis can then establish when and to what extent he has found it necessary to shed his load.
+Seven (1989) contains a suggestion that workload could be measured by the deterioration of performance on tasks of secondary importance in real life activities.
+
+
+
+
+Categories
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+Generics
+
+
+Type of method
+System
+
+
+Target of method
+Strain
+
+
+The failure to perform an embedded secondary task is inherently an indication of the state of the operator.
+
+
+Time Scale of method
+Minutes
+
+
+Most ATC tasks take about 15 seconds to 1 minute to complete. Suitable tasks, such as hand-overs rarely occur more than one per minute. Controllers tend to plan their work, and make hand-overs in batches, sometimes well in advance. It may take several minutes of overload before the fact tat the controller has abandoned doing hand-overs becomes apparent.
+
+
+Portability of method
+No
+
+
+Embedded tasks tend to be extremely specific, and require an intimate knowledge of the system to identify.
+
+
+Observer Effect
+No
+
+
+A controller at this level of activity is far too pre-occupied to notice an observer. A military controller, in a real-life situation, swore at and hit the Commander in Chief of the Royal Air Force, without being aware of it - and without subsequent disciplinary action (personal communication).
+
+
+Context of studies
+
+
+Laboratory studies
+Use
+
+
+ 
+
+
+Simulation studies
+Use
+
+
+ 
+
+
+Field studies
+Use
+
+
+ 
+
+
+Potential problems with the method
+
+
+Failure risk
+Possible
+
+
+It is not always possible to anticipate which task the controller will relinquish first, or to be sure that he will do so systematically. He will probably not make a conscious decision to abandon particular tasks.
+
+
+Bias risk
+Possible
+
+
+The behaviour of controllers on the edge of ‘losing the picture’ is unpredictable. Motivation may make considerable, unpredictable differences in performance.
+
+
+Ethical problems
+Possible
+
+
+Methods that place controllers at the limits of their operating capability may place excessive strain on them. Such methods can only be applied in simulation, and may, even there, affect controllers’ health.
+
+
+Costs of the method
+
+
+Staff Cost
+Nil
+
+
+No staff required.
+
+
+Set-up Cost
+Moderate
+
+
+Set-up cost is mostly in identifying the relevant tasks - but see analysis.
+
+
+Running Cost
+Nil
+
+
+Data are collected in the normal course of operation.
+
+
+Analysis Cost
+Moderate
+
+
+Analysis programs must be written or modified to extract the necessary dat For the task given this might simply be to count the number of automatic handovers per time interval, or it might be necessary to calculate the average distance from the boundary at which handovers took place.
+
+
+Analysis data
+
+
+Analysis Speed
+Fast
+
+
+Once prepared, such observations would be made by a prepared and tested program as part of the standard analysis package.
+
+
+Data Automation
+Yes
+
+
+Standard system data.
+
+
+Analysis Automation
+Yes
+
+
+Standard analysis.
+
+
+Status
+Tentative
+
+
+This method has been discussed, but has not been adopted, largely because it can only be adopted on highly-automated systems, where the controllers’ actions are well understood -which are not often encountered.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

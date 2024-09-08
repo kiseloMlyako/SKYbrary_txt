@@ -1,0 +1,174 @@
+Frequency Blocking
+
+
+
+
+
+
+
+
+
+
+
+  Frequency Blocking
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Air Ground Communication 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Frequency blocking is a phenomenon that occurs when two or more stations transmit on the same frequency or when a station makes an unnecessary transmission that lasts for too long. In the former case, the result is a signal that is a mix of all transmissions and the receiving stations hear a garbled message which is often completely unreadable. In the latter case the frequency becomes unavailable to the other participants because if they try to transmit, the result will be a garbled message (as in the other scenario).
+There are several types of frequency blocking:
+
+Partial overlap - one station starts transmitting and at some point another one does that too (usually due to lack of radio discipline). Parts of the messages are normally garbled but in most cases everyone is aware of what has happened and corrective action will usually be carried out promptly.
+Complete overlap - overlap in such a way that the controller or a pilot is not aware that more than one transmission has occurred. This phenomenon is described in a dedicated article. The issue is that since the parties are not aware of the blocking, they will not know that a message has not reached its destination.
+Prolonged blocking means that a station transmits for a relative long period of time (at least several minutes but this may extend to 20 or more). Any other transmission during this period would cause frequency blocking. Normally, a voice message lasts a few seconds. There are some exceptions to this (e.g. when transmitting a departure clearance or a weather report) but in such cases this is expected and the timing is made in such a way that would not disturb communication. For example, a controller would transmit a long METAR message only when they are not expecting aircraft to check in on the frequency in the next few minutes and all the necessary clearances are issued and acknowledged. On the other hand, a long and unexpected transmission made at the wrong time may prevent important message (e.g. a conflict solving instruction, an emergency declaration, etc.) from reaching the recipient.
+
+The most common reasons for frequency blocking are:
+
+Stuck microphone button. Sometimes releasing the button does not switch the radio to "receive" mode. This is a type of temporary and intermittent equipment malfunction. It often prevents the normal use of the frequency because if any other station tries to transmit, the others will likely hear a garbled message. This situation is identified by a specific background noise and occasional events such as equipment sounds, people talking to each other, etc.
+A pilot making a PA announcement but forgetting to appropriately switch the equipment. The message is then sent on the operating frequency denying access to all other stations. This makes the situation similar to the one described above but the duration is usually shorter. Also, pilots sometimes realize their error which further reduces the period of frequency unavailability.
+Lack of radio discipline. While most communication manuals advise against it, there are occasions where a pilot presses the transmit key as soon as they change the frequency. This may cause an overlap with someone who is already transmitting.
+Coincidence. Sometimes even if the two operators listen out before transmitting, it is possible that they press their buttons at precisely the same moment. The probability of such an event increases in busier environments.
+Callsign confusion. Sometimes messages by air traffic controllers are considered relevant by more than one flight crew. This usually (but not always) happens due to callsign similarity (e.g. PRE078 and PRE778). The result is that both pilots reply and block the frequency.
+
+A frequency blocking may lead to:
+
+Inability to communicate. If the frequency is unavailable for a prolonged period of time, some stations may be unreachable on the frequency.
+Aggravation of frequency congestion due to the need to repeat messages.
+Misunderstandings due to the reluctance to ask for repetition. Sometimes, in a busy environment, operators will be "almost" sure about what they heard in a garbled message and would not ask for confirmation in order to not overload the frequency further.
+Undetected blocking may lead to aircraft accepting a clearance intended for another one with the controller being unaware of the situation.
+
+Prevention
+The following procedures may prevent (or reduce the risk of) frequency blocking:
+
+Strict radio discipline. Listening out before transmitting when changing frequencies reduces the risk considerably.
+Some operators have a procedure to call air traffic control if nothing has been heard on the frequency for some time. Also, pilots make similar calls when not hearing anything for a few minutes in a sector that is known to be communication-intensive. While this is generally done to address the sleeping receiver issue, it may also help in a stuck microfone situation.
+If a controller considers that two callsigns are too similar they may choose to either temporarily change one (or both) of them or they may address one of the aircraft before issuing an instruction. This way, even if the frequency gets blocked, it will be for a very short time and no unexpected traffic behaviour will occur due to one aircraft accepting clearance intended for the other.
+
+Restoring Normal Communications
+The following procedures may be helpful to mitigate the consequences of a frequency blocking and restore normal communications:
+
+Using the word BLOCKED alerts the others that a frequency blocking has occurred so that they may act accordingly (e.g. transmit again, wait to be called for, etc. according to the specific circumstances).
+CPDLC message UM157 "Check stuck microphone [frequency]". This is sent by datalink to all aircraft in the sector. This may not always work because CPDLC may only be provided above certain levels (in Europe this is FL 285) and if the aircraft blocking the frequency is flying below that level they may not be CPDLC equipped and may therefore not receive the message.
+Calling aircraft one by one on the emergency frequency in order to determine which one is causing the blocking. Other methods for identifying the aircraft blocking the frequency include use of Selective Calling System (SELCAL), operator frequencies (if available), other appropriate frequencies (if available) and even direct contact with the aircraft if it is on the ground. If the aircraft in question is successfully identified and communication is established, then the crew should be informed about the situation and advised to stop transmitting.
+In case of frequency blocking due to traffic congestion controllers may choose to take the initiative and initiate dialogues. There are a few clues that may help in identifying the aircraft that have transmitted during the blocking or are about to transmit (and may cause a blocking), e.g.:
+
+Many ATC systems have features that show aircraft in handover state (i.e. those that are in the process of switching from one frequency to another). This enables the controller to make the initial call and be reasonably sure they will receive a reply. The implementation of OLDI messages for communication transfer (e.g. COF, MAS, etc.) is helpful in this regard.
+While the messages during frequency blocking are generally garbled and not fully readable, sometimes the callsigns of both aircraft can be extracted. Calling them one by one instead of just saying "blocked" may help restore orderly communication.
+
+
+
+Accidents and Incidents
+This section contains examples where frequency blocking was considered as a contributor to the event.
+
+B738/B738, vicinity Oslo Norway, 2012 (On 31 October 2012, a Boeing 737-800 on go around after delaying the breaking off of a fast and high unstable ILS approach at Oslo lost separation in IMC against another aircraft of the same type and Operator which had just taken off from the same runway as the landing was intended to be made on. The situation was aggravated by both aircraft responding to a de-confliction turn given to the aircraft on go around. Minimum separation was 0.2nm horizontally when 500 feet apart vertically, both climbing. Standard missed approach and departure tracks were the same.)
+AT43/A346, Zurich Switzerland, 2010 (On 18 June 2010, an ATR 42 began a daylight take off on runway 28 at Zurich without ATC clearance at the same time as an A340 began take off from intersecting runway 16 with an ATC clearance. ATC were unaware of this until alerted to the situation by the crew of another aircraft which was waiting to take off from runway 28, after which the ATR 42 was immediately instructed to stop and did so prior to the runway intersection whilst the A340 continued departure on runway 16 .)
+SF34 / B190, Auckland NZ, 2007 (On 29 May 2007, a Saab 340 aircraft that was holding on an angled taxiway at Auckland International Airport was inadvertently cleared to line up in front of a landing Raytheon 1900D. The aerodrome controller transmitted an amended clearance, but the transmission crossed with that of the Saab crew reading back the line-up clearance. The pilots of both aircraft took action to avoid a collision and stopped on the runway without any damage or injury.)
+
+
+
+
+
+Categories
+
+
+Air Ground Communication
+
+
+
+
+
+
+
+
+
+Related Aritcles
+
+Blocked Transmissions / Undetected Simultaneous Transmissions (USiT)
+Safety Warning Message: Undetected Simultaneous Transmissions
+Frequency Congestion
+Controller Pilot Data Link Communications (CPDLC)
+Call-sign Confusion
+Radio Discipline
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

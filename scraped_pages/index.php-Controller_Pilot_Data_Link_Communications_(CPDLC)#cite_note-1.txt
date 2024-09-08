@@ -1,0 +1,266 @@
+Controller Pilot Data Link Communications (CPDLC)
+
+
+
+
+
+
+
+
+
+
+
+  Controller Pilot Data Link Communications (CPDLC)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Air Ground Communication 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+This article gives an overview of Controller Pilot Data Link Communications (CPDLC). It describes the main principles, the different data link services and the basics of CPDLC operations, including related phraseology. The goal is to provide background information for understanding the safety issues related to this technology.
+Definition
+Controller Pilot Data Link Communications (CPDLC) is a means of communication between controller and pilot, using data link for ATC communications. (ICAO Doc 4444: PANS-ATM)
+Description
+CPDLC is a two-way data-link system by which controllers can transmit non urgent 'strategic messages to an aircraft as an alternative to voice communications. The message is displayed on a flight deck visual display.
+The CPDLC application provides air-ground data communication for the ATC service. It enables a number of data link services (DLS) that provide for the exchange of communication management and clearance/information/request messages which correspond to voice phraseology employed by air traffic control procedures.
+The controllers are provided with the capability to issue ATC clearances (level assignments, lateral deviations/vectoring, speed assignments, etc), radio frequency assignments, and various requests for information.
+The pilots are provided with the capability to respond to messages, to request/receive clearances and information, and to report information. A “free text” capability is also provided to exchange information not conforming to defined formats.
+The CPDLC is being globally implemented and currently is in different implementation stages. The global communication procedures are detailed in the ICAO Provisions: Annex 10 Volume III Part 1 Chapter 3. The CPDLC message set is contained in ICAO Doc 4444: PANS-ATM, Annex 5.
+The implementation of CPDLC for the European airspace users operating above FL285 and ANSPs is addressed in the Data Link Services Implementing Rule.
+Data Link Services Implementing Rule
+The Data Link Services Implementing Rule (DLS-IR) was adopted on 16 January 2009 by the European Commission and published as Regulation 29/2009 - Data link services for the Single European Sky. The DLS-IR is legally binding and applies directly to Air Navigation Service Providers (ANSPs) and to Aircraft Operators.
+Air navigation service providers and operators have reported technical issues when implementing Regulation (EC) No 29/2009, particularly disconnections, known as Provider Aborts (‘PAs’), of existing air-ground data communications enabling the operations of data link services (‘DLS’) and which are beyond acceptable performance levels. For that reason certain air navigation service providers took mitigation measures, consisting of the restriction of DLS operations to aircraft equipped with specific avionics through so-called ‘white lists’, so as to address potential safety impacts of those PAs in the operations of data link service.
+At the request of the Commission, the European Aviation Safety Agency (EASA) conducted an investigation to identify the root cause or causes of those technical issues and to recommend measures to address them. The investigation revealed that the random PA occurrences could not be attributed to a single, predictable cause but rather to a combination of factors related to the radio frequency environment and to the current single frequency implementation of the data link infrastructure. It was found that this excessive rate of random PAs causes a degradation in the network performance potentially presenting aviation safety risks by increasing the pilots and controllers' workload and creating confusion leading to a loss of situational awareness.
+EASA concluded in its investigation report that acceptable data link performance levels can only be established by deploying a multi-frequency infrastructure, which is also to be optimised for radio frequency interference prevention. It recommended establishing and implementing a plan of actions to further investigate the identified technical issues and to validate the necessary technical solutions. However, these measures require time and EASA therefore recommended to reconsider the date of application of Regulation (EC) No 29/2009 and the timeframes of that Regulation.
+Therefore, particularly due to the observed technical difficulties and shortcomings in the performance of the deployed DLS infrastructure and their potential impact on aviation safety and given that the necessary studies and actions to identify and remedy them are expected to be completed during the course of 2018, the date of application of Regulation (EC) No 29/2009 has been deferred to 5 February 2018 as stated in Regulation 310/2015 amending Regulation No 29/2009 on data link services for the SES.
+In 2023 Regulation 2023/1770 was adopted and Regulation 29/2009 was repealed as a part of an effort to consolidate SES legislation. The spirit of the provisions remained. Aircraft flying as GAT above FL 285 within the SES airspace of the EUR region must be CPDLC equipped (with a few exveptions). The regulation explicitly states the services which the onboard equipment must be capable to operate (see next section for details).
+Data Link Services
+The following data link services are available:
+
+Data Link Initiation Capability (DLIC) – this service provides the necessary information to make data link communications possible between an ATSU and aircraft. The DLIC service is executed prior to the first use of any other data link application.
+ATC Communications Management Service (ACM) – this service provides automated assistance to flight crew and controllers for the transfer of ATC communications (voice and CPDLC).
+ATC Clearances Service (ACL) – this service allows flight crews and controllers to conduct operational exchanges – flight crews can send requests and reports and controllers can issue clearances, instructions and notifications.
+ATC Microphone Check Service (AMC) – this service allows controllers to send an instruction to all CPDLC capable aircraft on a given frequency (at the same time) to verify that their voice communication equipment is not blocking a given voice channel.
+Departure Clearance (DCL) - this service provides automated assistance for requesting and delivering departure clearances to aircraft.
+Downstream Clearance Service (DSC) - this service is provided for flight crews who are required to request and obtain clearances from ATS units that are not yet in control of the aircraft when they cannot get the clearance information via the current ATS unit through unit to unit coordination.
+
+The DLS-IR mandated the implementation of the the first four services only, notably DLIC, ACM, ACL and AMC.
+Benefits of CPDLC
+
+Less communication on the ATC frequency;
+Increased sector capacities;
+More pilot requests can be dealt with simultaneously;
+Reduced probability of miscommunication (e.g. due call sign confusion);
+Safer frequency changes, hence fewer loss of communication events.
+
+Main Principles of CPDLC Exchange
+The following underlying principles are applicable to the use of CPDLC:
+
+Voice and data link shall co-exist as a means of ATS communication. Implementation of CPDLC is intended as a supplementary means of communication to the use of voice communication.
+CPDLC shall only be used in the context of non-time-critical communications. Time-criticality is mainly determined by the following factors: ATC traffic situation, end-to-end performance (systems and flight crew/controller response time) and recovery time. Users should be aware that while a voice response is generally expected in a few seconds the latency of CPDLC is usually much longer (up to several minutes).
+The decision to use either voice or CPDLC shall be at the discretion of the controller and/or pilot involved.
+The provisions regarding the use of CPDLC shall respect the following standard as provided in ICAO Annex 11, Chapter 3, par. 3.5.1: “A controlled flight shall be under the control of only one air traffic control unit at any given time”.
+
+CPDLC Operations
+Flight planning. Operators of CPDLC capable aircraft shall insert the letter J and a corresponding number (1 for ATN VDL mode 2, 2-7 for different FANS implementations) in Item 10 and COM/CPDLC in Item 18 of the ICAO flight plan form. More than one of these can be inserted depending on the aircraft equipment (e.g. J1J2 means the aircraft is equipped with both ATN VDL mode 2 and FANS 1/A HFDL).
+Transfer of CPDLC. If an aircraft is transferred from an ATS unit where CPDLC is not available to an ATS unit where CPDLC is available, the aircraft uses DLIC to log on to the unit that is CPDLC equipped. The procedures and timings are detailed in the respective AIP.
+If both adjacent ATS units are using CPDLC the transfer of voice communications and CPDLC commences concurrently. The transferring unit being the Current data authority (CDA) designates the receiving unit as Next data authority (NDA). The purpose of this designation is to reduce the possibility of logging on to an improper data authority (which is equivalent to switching to the wrong radio frequency in voice communications).
+If an aircraft is transferred from an ATS unit where CPDLC is available to an ATS unit where CPDLC is not available, CPDLC termination commences concurrent with the transfer of voice communications.
+Use of CPDLC. The extent to which CPDLC can replace voice communications is largely subject to local implementation choices. Although the technology allows a wide array of complex messages the most commonly used are:
+
+Change of SSR code;
+Transfer of control and communication;
+ATC clearances (e.g. level changes, vectoring, direct routing, speed control) that are not time-critical;
+Response to aircraft CPDLC requests;
+
+CPDLC message composition.The messages are composed in standard format, in plain language or in abbreviations and codes, as prescribed in Annex 10, paragraph 3.7. Plain language should be avoided when the length of the text can be reduced by using appropriate abbreviations and codes. Nonessential words and phrases, such as expressions of politeness, are not to be used. Sets of mandatory and optional uplink (ground-to-air) and downlink (air-to-ground) messages have been developed for each data link service. It is therefore possible that either the airborne or the ground system supports a larger array of messages. Proper handling of unsupported messages (e.g. responding with appropriate error messages) is an essential part of CPDLC system development and implementation.
+CPDLC messages can be single element or multi-element. A maximum of 7 elements in one message is allowed according to ICAO ATN SARPs and the EUROCAE-Document ED-110B. Systems compliant to the EUROCONTROL Specification [1] should allow downlink messages, containing maximum 2 elements.
+Example of a single element message: CLIMB TO [level].
+Example of a multi-element message: CLIMB TO [level], CLIMB AT [vertical rate] MINIMUM.'
+A single element message response to a multi-element message applies to all message elements. If any part of a multi-element message cannot be complied with, the pilot shall send an “UNABLE” response for the whole message (which means that the pilot will not comply with any of the message elements). This could result in an unnecessarily prolonged communication exchange. Therefore the use of messages with multiple elements should be avoided where possible. They should be used when it is necessary to execute the set of clearances or instructions in its entirety (dependent clearances).
+Only one open dialogue of the same type with the same aircraft at any given time is allowed. The possible types are:
+
+Horizontal profile;
+Vertical profile;
+Speed;
+SSR code.
+
+Examples:
+It is possible to have open dialogues for a speed restriction and a level change with one aircraft at the same time.
+It is not possible to have open dialogues for a heading and a direct route with one aircraft at the same time.
+Reverting from CPDLC to Voice
+Usually when a controller or pilot communicates via CPDLC, the response should be via CPDLC. When a controller or pilot communicates via voice, the response should be via voice. The following circumstances describe potential situations where the air ground communications should revert to voice:
+
+When it is required to clarify the meaning or the intent of any unexpected, inappropriate or ambiguous CPDLC message;
+When it is necessary to ensure the timely execution of an instruction issued by CPDLC;
+When corrective actions are required with respect to unintended messages that have been sent using CPDLC;
+When a system generates a time-out or an error for a CPDLC message.
+
+CPDLC Related Phraseology
+
+When voice communication is used to correct a CPDLC message the following phrase is used:
+
+(call sign) DISREGARD CPDLC (message content or type) MESSAGE, BREAK, (corrected message).
+Example: BTD123 DISREGARD CPDLC CLIMB MESSAGE, BREAK, CLIMB FLIGHT LEVEL 310.
+
+When receiving an alert for a single CPDLC message failure, the controller or pilot either confirms via voice the actions that will be undertaken with respect to the related dialogue, prefacing the information with the phrase '“CPDLC MESSAGE FAILURE” or uses CPDLC to reissue the message that failed.
+When receiving an alert that CPDLC has failed the controller or pilot should revert to voice, and inform the other side using the phrase “CPDLC FAILURE”.
+In case of a complete CPDLC ground system failure the controller should use a general call: ALL STATIONS CPDLC FAILURE (unit name).
+When a controller requires all stations or a specific flight to avoid sending CPDLC requests for a limited period of time, the following phrase shall be used: ((call sign) or ALL STATIONS) STOP SENDING CPDLC REQUESTS [UNTIL ADVISED] [(reason)]
+The resumption of the normal use of CPDLC shall be advised by using the following phrase: ((call sign) or ALL STATIONS) RESUME NORMAL CPDLC OPERATIONS
+
+Further Reading
+ICAO
+
+ICAO Global Operational Data Link (GOLD) Manual, unedited advance edition, 2016
+ICAO Annex 10 Volume III Part 1 Chapter 3.
+ICAO Doc 4444: PANS-ATM, Chapter 14 and Annex 5.
+
+European Commission
+
+Regulation 29/2009 - Data link services for the Single European Sky
+Commission Implementing Regulation (EU) 2015/310 of 26 February 2015 amending Regulation (EC) No 29/2009 laying down requirements on data link services for the single European sky and repealing Implementing Regulation (EU) No 441/2014
+Regulation 2023/1770 SES Airspace
+
+EUROCONTROL
+
+ATC Data Link Operational Guidance for LINK 2000+ Services
+Datalink portal
+
+FAA
+
+FAA Advisory Circular 90-117, October 2017
+
+References
+
+^ EUROCONTROL Specification on Data Link Services, Edition 2.1, January 2009.
+
+
+
+
+
+Categories
+
+
+Air Ground Communication
+
+
+
+
+
+
+
+
+
+Related SKYclip
+
+
+
+
+
+
+
+
+
+ Read more
+
+
+
+
+CPDLC (SKYclip)
+
+
+
+
+
+
+
+
+
+Related Articles
+
+CPDLC General Safety Considerations
+CPDLC Incorrect Call Sign on Log-on
+Impact of Space Weather on Aviation
+Aircraft Communications, Addressing and Reporting System
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

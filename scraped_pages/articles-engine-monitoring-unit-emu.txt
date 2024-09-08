@@ -1,0 +1,134 @@
+Engine Monitoring Unit (EMU)
+
+
+
+
+
+
+
+
+
+
+
+  Engine Monitoring Unit (EMU)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+An Engine Monitoring Unit (EMU) is a digital display that shows various parameters such as RPM, oil temperature, oil pressure, battery voltage, fuel pressure, fuel flow, fuel quantity, exhaust gas temperature, and turbine inlet temperature. 
+Description
+In modern glass-cockpit airplanes, EMUs replace the older system of separate analog gauges for each engine parameter. The data appears in a single line-replaceable unit, which eases a pilot’s scan for the status of various aircraft systems. Sometimes referred to as engine analyzers, some EMUs can display color-coded data to help a pilot quickly identify problems. For example, system data in the normal range will be displayed in green, data in the caution range will be displayed in yellow, and data out of limits will be displayed in red. Some units also include aural warnings.
+Depending on the model, features can include bar graph displays that aid the pilot in setting fuel mixture in piston-engine aircraft. Other options can include readings not directly related to engine performance, such as cabin pressure, carbon monoxide monitoring, and G-meter. More sophisticated EMUs include a menu function that allow selection of specialized displays. These specialized displays can show data such as fuel management, flight data, and normal and emergency checklists.
+Typically, monitoring systems of this type are found on smaller aircraft. Transport-category jets normally use an even more sophisticated engine indicating and crew alerting system (EICAS). EICAS systems include the features described above, along with the added alerting capability of plain-text messages. The messages, color-coded according to urgency, refer the crew to a Quick Reference Handbook (QRH) for appropriate corrective action. EICAS messages also generate master caution or master warning lights and tones as needed.
+
+
+
+
+Categories
+
+
+General,
+              Emergency and Contingency
+
+
+
+
+
+
+
+
+
+Related Articles
+
+
+Engine Indicating and Crew Alerting System (EICAS)
+
+
+Vibration Health Monitoring
+
+
+Engine Failure in Cruise
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

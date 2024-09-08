@@ -1,0 +1,132 @@
+FANS CPDLC: Erroneous ATC Log Data Presentation
+
+
+
+
+
+
+
+
+
+
+
+  FANS CPDLC: Erroneous ATC Log Data Presentation
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Warning Message
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Purpose
+To warn about incidents involving the potential for erroneous presentation of ATC LOG data to flight crew while in Oceanic FANS Controller Pilot Data Link Communications (CPDLC) operation.
+Synopsis
+A recent incident occurred where a (data link) message to climb may have been sent to an aircraft without the ANSP Oceanic Ground System initiating it. The crew had requested FL360 and they were then presented with a message giving them clearance to climb to FL360. However, the clearance message was one that had not been issued by the Oceanic Ground System and it is purely coincidental that the clearance came back for FL360.
+For this most recent incident the airframe producer advised after investigation:
+“The only hypothesis we can think of is that flight crew may have mistaken a request for a clearance on DCDU (Datalink Control & Display Unit) or reacted to an old clearance stored from a previous flight in MSG RECORD page on MCDU (Multi-purpose Control Display Unit). Anyway we recommend asking fly crews to systematically print MSG RECORD page at the end of the flight if misunderstanding had occurred during the flight.”
+New Advice From Airbus - Posted 06 October 2010
+However, following investigations by Airbus, the initial advice above can be disregarded and the latest position is provided below.
+“Based on the provided traces, no CPDLC Clearance to Climb was ever received on board the A330. In addition, all CPDLC Climbing Requests had been refused by the ATC “DUE TO TRAFFIC”. Analysis of the traffic logs show that neither a jump in the ATC message sequence number, nor communications issues nor any reset of the FANS system occurred in flight.
+There is no known issue of any “ghost” messages on the aircraft manufacturers FANS system. The standard ATC answer to a climb request is “CLIMB TO & MAINTAIN FLXXX”. No such message was ever received on board.
+To avoid any confusion between a clearance received and displayed on the dedicated screen (DCDU) upon reception and an old clearance (already treated) that can be consulted on the MCDU (totally different from the DCDU) Message Record page, a training emphasis has been issued by Airbus to its customers. SOP amendments are currently considered in operational documentation (FCOM, QRH handbook). Further improvements are however being implemented in future FANS standards to avoid any confusion”.
+Continuation of Original Synopsis
+The circumstances are similar to those experienced last year involving the same ANSP and another major airframe producer aircraft. On that occasion, subsequent investigations found that if FMCs on some aircraft are not powered down fully after the aircraft has landed then, on very rare occasions, ATC messages have been retained by that unit and can appear on a later flight of that aircraft. Consequently, the ANSP was informed by the airframe producer that it had advised aircraft operators of this potential problem.
+“We are aware of a problem where ATC LOG data from a preceding flight has been retained and later re-presented to the crew in the ATC LOG while in FANS CPDLC operation. The ATC LOG data is normally cleared ten (10) minutes after the FMS transitions to the DONE phase. However, certain conditions can result in message retention and display in a subsequent flight ATC LOG.”
+Moreover, the ANSP advised its controllers to be aware of this potential phenomenon particularly if questioned by crew in respect of unrequested changes of flight profile.
+Your Attention Is Required
+
+Aircraft Operators are invited to review the subject and investigate the relevance to their operational environment.
+Air Navigation Service Providers and Authorities are invited to note the subject for information and awareness.
+
+Related SKYbrary Articles
+
+Controller Pilot Data Link Communications (CPDLC)
+Automatic Dependent Surveillance (ADS)
+
+Disclaimer
+© European Organisation for Safety of Air Navigation (EUROCONTROL) June 2010. This alert is published by EUROCONTROL for information purposes. It may be copied in whole or in part, provided that EUROCONTROL is mentioned as the source and to the extent justified by the non-commercial use (not for sale). The information in this document may not be modified without prior written permission from EUROCONTROL. The use of the document is at the user’s sole risk and responsibility. EUROCONTROL expressly disclaim any and all warranties with respect to any content within the alert, express or implied.
+
+
+
+
+Categories
+
+
+Safety Warning Message
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

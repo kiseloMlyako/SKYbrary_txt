@@ -1,0 +1,334 @@
+Decision-Making (OGHFA BN)
+
+
+
+
+
+
+
+
+
+
+
+  Decision-Making (OGHFA BN)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+OGHFA 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ Flight Safety Foundation
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Operator's Guide to Human Factors in Aviation
+
+
+Personal Qualities
+
+
+Decision-Making
+
+
+
+Briefing Note
+ 
+1 Introduction
+Decision making is the cognitive process of selecting a course of action from among multiple alternatives. The decision-making process produces a choice of action or an opinion that determines the decision maker's behavior and therefore has a profound influence on task performance.
+Decision making in an aeronautical environment involves any pertinent decision a pilot must make during the conduct of a flight. It includes both preflight go/no-go decisions as well as those made during the flight. In aeronautics, decision making is of particular importance because of the safety consequences of poor decisions.
+The U.S. Federal Aviation Administration (FAA) defines aeronautical decision making (ADM) as follows:
+ADM is a systematic approach to the mental process used by aircraft pilots to consistently determine the best course of action in response to a given set of circumstances. (FAA Advisory Circular 60-22)
+This briefing note discusses:
+
+The concept of human decision making
+The limitations of human decision making
+
+A companion briefing note is Decision-Making Training.
+2 Human Decision Making
+Human decision making is a complex process that is strongly dependent on the environment in which the decision must be made. We all make decisions every day, such as the choice of what to have for breakfast or which road to take when driving to work. The extent to which safety considerations enter our decision making depends on the situation. Choosing cereal or bread for breakfast involves virtually no consideration of safety. Selecting a route to drive may involve some aspects of safety but is probably primarily based on travel time and, perhaps, scenery.
+Aviation is a complex, safety-critical endeavor. Many decisions made while flying can affect the lives of hundreds of people and have extraordinary economic consequences. Thus, even though some flight decisions are not strongly related to safety, it is best to view ADM as a safety-critical function.
+2.1 Decision making in the aeronautical environment
+Decision making in aeronautics builds upon the foundation of conventional decision making. Zsambok and Klein (1997) point out, however, that ADM is carried out in dynamic and complex environments often characterized by:
+
+Ill-structured problems
+An abundance of information
+Uncertainty
+Shifting, ill-defined or competing goals
+Multiple event-feedback loops
+Time constraints
+High stakes with high levels of risk
+Collaboration and task sharing among multiple players
+Organizational norms and goals that must be balanced against the decision maker's personal choices
+
+Decisions in such a complex environment should involve the following considerations:
+
+A decision is not unique but, instead, is a series of multiple and interdependent decisions that are made in real time and in a continuously changing autonomous environment. (Edwards, 1962).
+A human being is not able to perceive, evaluate, understand and act on all aspects of the environment. The decision maker must simplify reality and make a decision within it. Reason (1990) calls this mechanism "bounded rationality."
+The principle of sufficiency (Amalberti, 2002) describes a decision as a continuous process in which a set of decisions is made while seeking satisfactory results to a given situation. This principle does not mean the decision involves the least cognitive effort but, rather, that the human being has achieved a satisfying response to the situation.
+
+
+
+
+Consequently, a successful decision is not necessarily the optimum or most rational decision. It is the decision the human being understands and knows how to apply effectively in the context of the situation.
+
+
+
+These considerations indicate that ADM cannot be equated to a simplistic, sequential decision-making process involving:
+
+Cue detection
+Cue interpretation and/or integration
+Hypothesis generation and/or selection
+Action selection
+
+While this model of decision making is attractively simple and may be sufficient to describe the everyday process, it is not adequate to describe ADM, which is best considered in the framework of a holistic model of information processing.
+ADM is strongly dependent on situational awareness and the alternatives available to a pilot (Hoc and Amalberti, 1995). A pilot’s level of situational awareness determines the solutions that will be considered and helps guide the choice of a response. In addition, the results of selected actions can enhance perception and understanding of the situation, which can serve as feedback to alter and improve subsequent decisions. In fact, it is clear that situational awareness, decision making and action are thoroughly intertwined (see Figure 1).
+
+Figure 1 Decision Making and Information Processing
+2.2 Situational awareness and decision making
+Situational awareness is the perception of the elements in the environment within a volume of time and space, the comprehension of their meaning and the projection of their status into the near future (Endsley, 1995). This definition leads to the identification of three levels of comprehension (see Figure 2).
+
+Level 1: perception of critical environmental cues
+Level 2: understanding the relevance and importance of those environmental cues to a person's goals
+Level 3: realistic predictions of potential future events in the system
+
+An analysis of a pilot's cognitive task suggests that some tasks do not require a high level of continuous comprehension. Pilots can temporarily accept low or no comprehension for some tasks that are clearly not safety-critical. Situational awareness, then, must involve a pilot's ability to manage the correct levels of comprehension with regard to available mental resources and mission and task requirements. Time pressure and the pilot's goals are significant factors that contribute to comprehension level.
+
+Figure 2 Decision Making and Situational Awareness
+The ADM process is an active process guided, in part, by the pilot's mental representation. Consequently, ADM is directly affected by the resources the pilot allocates to the Situational Awareness process shown in Figure 2. Poor comprehension may lead to an inappropriate decision even if the information needed to support the proper choice is available in the environment.
+2.3 Model of naturalistic decision making
+The concept of naturalistic decision making was proposed by Klein, Orasanu, Calderwood and Zsambok (1993) to replace the more traditional normative and prescriptive approaches of decision making, which are very difficult to apply in complex environments. The naturalistic decision involves different mechanisms from those involved in the normative and prescriptive models.
+ADM must use a continuum of processes in order to adapt effectively to environmental constraints and the differing levels of ability among decision makers. This continuum ranges from an analytically based decision process to one grounded largely on intuition. Elgin and Thomas (2004) describe three tiers in the continuum depending upon the features of the situation (e.g., taskload, time stress) as follows:
+
+Tier 1 decision making occurs when decision makers have enough time to perceive the environmental cues as signals and react to those signals. Tier 1 processes are robust when time stress is high or when cognitive resources are strained. Thus, Tier 1 processes (e.g., skill-based decisions, decisions based on simple pattern matching, decisions based on intuitive processes) are the only ways that pilots can process information when under high time stress or high taskload. Tier 1 processes, however, are limited in that they can only interact with information that can be processed as signals. Tier 1 processes are not amenable to information other than signals (e.g., signs and symbols), which are left unattended when there is insufficient time or cognitive resources for higher-level analytical processes to operate (i.e., Tier 2 and Tier 3 decision processes).
+
+
+Tier 2 decision processes require more time and cognitive resources than those in Tier 1. When time and resources allow, decision makers can integrate and assign meaning to the signs. Tier 2 processes are only amenable to information that can be processed as signs. Other forms of information (e.g., symbols) are left unattended even under conditions of moderate time stress. When Tier 2 decision processes can be engaged, the pilot can rely upon rule-based “if-then” strategies to discriminate between cue patterns (i.e., pattern discrimination). In addition, Tier 2 decision processes are quasi-rational (i.e., some cues can be processed analytically and others intuitively).
+
+
+Tier 3 decision-making processes necessitate more time and mental resources than those in Tier 2 or Tier 1. Given ample time and resources, the decision maker can integrate, assign meaning and project the future behavior of the information (i.e., symbols). Because Tier 3 is characterized by low time stress, however, other information (e.g., signals and signs) can still be integrated into the decision-making process. Tier 3 processes are engaged when Tier 1 and Tier 2 processes do not provide a satisfactory solution or decision and time is available; the decision-making process will shift toward a more deliberate analytical process (Wickens et al.,1998). The pilot can use knowledge-based reasoning and run mental simulations, based on symbols, to confirm or amend mental models of his or her situational awareness. A more strategic approach can be incorporated into the decision-making process where the goal of safe flight is developed.
+
+Figure 3 illustrates the relationship among the tiers identified by Elgin and Thomas (2004).
+
+Figure 3 Naturalistic Model of Decision Making (Elgin and Thomas, 2004)
+2.4 Collective decision making
+Studies of decision making traditionally have focused on decisions by individuals. Commercial aviation, however, is a group or team environment — not only in the cockpit but also among the cabin crew and on the ground (e.g., maintenance, operations).
+In aviation, the team represents a distributed cognitive system in which each member may affect the collective decision-making process. The leader takes a specific role in the process by assuming the responsibility for the collective decision on behalf of the team, regardless of the situation or event.
+The steps for making a successful collective decision are:
+
+Access the same information either directly or by sharing among team members
+Build collective situational awareness and check for a common understanding
+Complete and mutually agree on goals
+Select and accept the course of action
+Execute the course of action using an approved task-sharing scheme after having planned it by defining the procedure, role and needs of each member
+Feed back results for monitoring the decision’s effect
+Express any doubts and resolve them
+
+However, as with individual decision making, the process of collective decision making can change as a function of the features of the environment in which the decision is being made (Urban, Weaver, Bowers and Rhodenizer, 1996). Factors influencing the collective decision-making process include:
+
+Time stress
+Workload
+Style of leadership
+Personality and mood of team members
+Ability, experience and stature or reputation of the team members
+Confidence, doubt and the social dynamic among team members
+
+Three different team decision-making styles or processes can be defined based on the relative influences of the factors listed above:
+Synergic process of decision making
+The synergic process can be applied only when time stress is low. The team leader directs the synergic decision process. Most of the time, the team-functioning rules are already known by members. However, if they are not known, the leader must explain them (e.g., communicate, share information, express doubts).
+In synergic decision making, the leader implements the rules and has overall responsibility for the process. The leader can and should give credence to each team member’s opinion before reaching a decision. New paths to comprehension or resolution are kept open. The leader seeks consensus and checks that every team member agrees with the collective decisions (e.g., goals, Situational Awareness, course of action).
+This decision-making process can be used by regular teams in which functioning rules are well formalized (e.g., aircrew, cabin crew, technician team, pushback team). It can also be used by occasional or ad hoc teams in which functioning rules and collective habits are not well established. In these instances, the role of the leader becomes even more important.
+Leader relies on the team members
+Leaders rely on team members when time constraints or workload do not permit implementing the synergic process. The leader’s style of leadership or the personalities of the team members can also favor this type of collective decision-making behavior.
+A leader may rely on team members for hypothesis confirmation, to define new alternatives or to resolve doubts. The leader has the responsibility to make maximum use of team resources. Team members are open to requests from the leader and have the responsibility to assist the leader whenever possible. For this, the assertiveness of team members needs to be high. The collective decision process is actively managed by everyone — leader and team members. Initiatives for beginning collective action are shared among all the members of the team.
+This process must be used only by well-established teams with high levels of collective decision-making skills and where strong rules and habits already exist (e.g., education, training, experience, functioning procedures). Otherwise, the risk of poor collective decision making is high.
+Autonomous decision making
+Autonomous decision making by individual team members may be the only way to cope with situations containing interfering external factors such as excessive time stress and/or high workload. The need to respond quickly and to manage large amounts of information precludes communication among team members. Autonomous decision making can also occur even when there is ample available time or workload is low and is a result of the leadership style, personality or confidence level of the team members.
+Under autonomous decision making, the leader works almost alone, and the team members try to help when conditions permit. The leader is also open to advice from the team members. Regardless of the pressure of the situation, the leader must be open to safety inputs. Also, autonomous decision making puts a premium on the competence and assertiveness of the team members. The principal risk in this process is that the leader may become isolated and lonely.
+The leader communicates decisions (e.g., goals, situational awareness, course of action) as soon as the situation allows. This is an important step to keep the team members in the decision loop and maintain their activation level to perform the task successfully. When time permits, the leader explains and discusses his or her decisions in order to bolster team confidence and support for his or her leadership.
+3 Limitations of Human Decision Making
+Some factors and/or biases can distort the way situations or goals are perceived by individuals and the team as a whole. The more a situation becomes strained, the more people tend to place confidence in subjective and personal factors, which can limit the quality of decisions, regardless of the specific decision-making process used. Knowledge of these limiting factors is important in order to avoid their use or to mitigate their consequences on safety. Three types of factors can be described:
+
+Risk perception and risk management
+Situational factors
+Biases
+
+3.1 Risk and decision making
+All decision alternatives entail some level of risk. The choice between alternatives is a tradeoff based on the expected results for each alternative and the risk of failure to achieve these results when adopting the selected alternative. The way risk is perceived and managed can limit some choices.
+Individuals tend to prefer solutions they are confident of achieving, even if the result will not be as good as might have been achieved with another, less-familiar solution. The likely solution in such situations is the best of the available alternatives that the individual or the team is actually able to implement, even if it is not the optimum solution.
+3.2 Situational factors
+Situational factors arise from the interaction of the characteristics of the situation and those of the specific individual or team. Four types of situational factors have been identified:
+Factors linked to the task
+Factors inherent in a task can affect decision making. These include: degree of task complexity, time available to complete the task (time pressure), amount and flow of information, ease of access and availability of the information, conduciveness of the human-machine interface design, degree of uncertainty and clarity of the goals.
+Cognitive factors
+There are limits on human cognitive abilities and information processing (i.e., perception, understanding, action). Also, factors such as individual knowledge level, expertise, qualifications, fatigue and stress can influence decision making.
+Motivational and personality factors
+The degree of an individual’s motivation as well as personality traits, attitudes, response style and the impacts of emotion or past experience and mood can profoundly influence decision making.
+Psycho-social factors
+Many psycho-social factors can influence the decision process for both individuals and teams. Decision making in a professional environment is subject to judgment and assessment by a third party. Concerns about image or failure and the desire to command the respect of others are psycho-social factors that can have direct impacts on the way decisions are made.
+Other psycho-social factors include team collaboration mechanisms, leadership, followership, processes of influence, stereotypes, reputation, and prominence.
+3.3 Biases that influence decisions
+Khaneman, Slovic and Tversky (1982) describe numerous biases that can distort the decision-making process. Biases are a particular tendency or inclination that prevents unprejudiced consideration of a question. Biases have been broadly studied in the field of decision making. The most frequent biases influencing decision making are:
+
+Anchoring bias: the tendency to rely too heavily, or "anchor," on one trait or piece of information
+Belief bias: the tendency to base assessments on personal beliefs
+Confirmation bias: the tendency to search for or interpret information in a way that confirms one's preconceptions
+Loss-aversion bias: the strong tendency for people to prefer avoiding losses rather than acquiring gains
+Rosy-retrospection bias: the tendency to rate past events more positively than they were actually rated when the event occurred
+Status-quo bias: the tendency to like things to stay relatively the same
+Gambler's-fallacy bias: the tendency to assume that individual random events are influenced by previous random events
+Valence effect of prediction bias: the tendency to overestimate the likelihood of good things happening and to underestimate the chance of bad things happening
+Correlation bias: the tendency to underestimate rare events and overestimate frequent events
+Recency-effect bias: the tendency to weigh recent events more heavily than earlier events
+Primacy-effect bias: the tendency to weigh initial events more heavily than subsequent events
+Fundamental attribution error bias: the tendency for people to overemphasize personality-based explanations for behaviors observed in others (but not themselves) while underemphasizing the role and power of situational influences on the same behavior
+False consensus effect bias: the tendency for people to overestimate the degree to which others agree with them
+Projection bias: the tendency to unconsciously assume that others share the same or similar thoughts, beliefs, values or positions
+Overconfidence effect bias: the human tendency to be more confident in one's behaviors, attributes and physical characteristics than one should be
+Conformity bias: a propensity to preferentially adopt the cultural traits that are most frequent in the team. Conformity can also involve accepting the majority opinion and silencing or ignoring those who argue with the consensus.
+
+3.4 Types of error in decision making
+Orasanu and Martin (1998) defined two basic types of decision-making errors in aviation.
+The first relates to situation assessment, which involves defining the problem as well as assessing the levels of risk associated with it and the amount of time available for solving it. Once the problem is defined, a course of action must be chosen. The course of action is selected from the options available. Situation-assessment errors can be of several types: situation cues may be misinterpreted, misdiagnosed or ignored, resulting in a wrong picture; risk (threat or danger) levels may be misassessed (Orasanu, Dismukes and Fischer, 1993); or the amount of available time may be misjudged (Orasanu and Strauch, 1994).
+The second type of decision-making error identified by Orasanu and Martin involves errors in choosing a course of action. These also may be of several types. When there are specific rules to guide the decision (e.g., procedures), the appropriate response may not be retrieved from memory and applied, either because it was not known or because some contextual factor mitigated against it. If there are choices from which the decision must be made, options also may not be retrieved from memory, or only one may be retrieved when, in fact, multiple options exist. Constraints or factors that determine the adequacy of various options may not be retrieved or used in evaluating the options. Finally, the consequences of various options may not be considered. The decision maker may fail to mentally simulate the possible outcomes of each considered option. Creative decisions may be the most difficult because they involve the least support from the environment. The absence of available options means candidate solutions must be invented to fit the goals and existing conditions.
+Orasanu and Martin examined cases in the U.S. National Transportation Safety Board's set of 37 "crew-caused" accidents that involved "tactical-decision errors" (NTSB, 1994). A common pattern was the crew's decision to continue with their original plan when conditions suggested that other courses of action might be more prudent. In other words, they decided to "go" in a "no-go" situation, usually in the face of ambiguous or dynamically changing conditions (e.g., continuing with a landing when it might have been more appropriate to go around). Four factors are hypothesized as possible contributors to these decision errors:
+
+The situations were not recognized as ones that should trigger a change of course of action, due to the ambiguity of the cues
+Risk was underestimated, possibly because a previous similar situation was successfully handled
+Goals conflicted (e.g., safety vs. productivity, mission completion or social factors)
+Consequences were not anticipated or evaluated, possibly due to some of the environmental factors or biases discussed earlier
+
+4 Key Points
+The following are key points with respect to decision making:
+
+ADM takes place in a complex environment and requires situational awareness, relevant skills and experience
+Decision making must be considered in broad human factors and operational contexts
+The naturalistic decision-making process is greatly affected by time pressure and workload
+ADM in commercial aviation is a team process. Therefore, team dynamics can play a strong positive or negative role
+There are limitations in the human decision-making process, and exceeding these limits can result in decision error.
+
+5 Associated OGFHA Materials
+Briefing Notes:
+
+Decision-Making Training
+Situational Awareness
+
+Checklist:
+
+Decide Checklist
+
+Situational Examples: Most of the situational examples are, in one way or another, relevant to Decision Making. Therefore, it is recommended that they be used as appropriate
+6 Additional Reading Material
+Amalberti, R. (2002). Revisiting Safety and Human Factors Paradigms to Meet the Safety Challenges of Ultra-Complex and Safe Systems. In B. Willpert and B. Falhbruch (Eds.), System Safety: Challenges and Pitfalls of Interventions (pp. 265-276). Amsterdam, Pays-Bas: Elsevier.
+Berthoz, A. (2003). La Décision, Ed. Odile Jacob, Paris.
+Damasio, A. (2003). Looking for Spinoza: Joy, Sorrow, and the Feeling Brain. Harcourt Trade Publishers, New York.
+Dorner, D. (1997). The Logic of Failure: Recognizing and Avoiding Error in Complex Situations. Basic books, New York.
+Edwards, W. (1962). Dynamic Decision Theory and Probabilistics Information Processing. Human Factors, 4, 59-73.
+Elgin, P.D.; Thomas, R.P. (2004). An Integrated Decision-Making Model for Categorizing Weather Products and Decision Aids. NASA/TM-2004-212990.
+Endsley, M.R. (1995). Towards a Theory of Situation Awareness. Human Factors, 37(1), 32-64.
+FAA Advisory Circular (AC) AC 60-22 Aeronautical Decision Making
+Gilovich, T.; Griffin, D.W.; Kahneman, D. (2002). Heuristics and Biases: The Psychology of Intuitive Judgment. Cambridge University Press, New York.
+Hoc, J.M.; Amalberti, R. (1995). Diagnosis: Some Theoretical Questions Raised by Applied Research. Current Psychology of Cognition, 14, 73-101.
+Kahneman, D.; Slovic, P.; Tversky, A. (1982). Judgment Under Uncertainty: Heuristics and Biases. Cambridge University Press, New York.
+Klein, G.; Orasanu, J.; Calderwood, R.; Zsambok, C.E. (1993). Decision Making in Action: Models and Methods. Norwood, New Jersey, USA: Ablex.
+Montgomery, H.; Lipshitz, R.; Brehmer, B. (2005). How Professionals Make Decisions. Mahwah, New Jersey, USA: Lawrence Erlbaum Associates.
+U.S. National Transportation Safety Board (NTSB). Safety Study: A Review of Flightcrew-Involved, Major Accidents of U.S. Air Carriers, 1978 through 1990. Report no. NTSB/SS-94/01. Washington, D.C., USA: NTSB, 1994.
+Orasanu, J.; Dismukes, K.; Fischer, U. (1993). Decision Errors in the Cockpit. In Proceedings of the Human Factors and Ergonomics Society 37th Annual Meeting, 1, 363-367. Santa Monica, California, USA: Human Factors and Ergonomics Society.
+Orasanu, J.; Martin, L. (1998). Errors in Aviation Decision Making: A Factor in Accidents and Incidents. HESSD 98: 2nd Workshop on Human Error, Safety, and System Development, 100-106, April 1-2, 1998, Seattle, Washington, USA.
+Orasanu, J.; Strauch, B. (1994). Temporal Factors in Aviation Decision Making. In Proceedings of the Human Factors and Ergonomics Society Meeting, (pp. 935-939).
+Reason, J. (1990). Human Error. Cambridge University Press, New York.
+Urban, J.M.; Weaver, J.L.; Bowers, C.A.; Rhodenizer, L. (1996). Effects of Workload and Structure on Team Processes and Performance: Implications for Complex Team Decision Making. Human Factors. 1996. 38 (2), 300-310.
+Wickens, C.D.; Gordon, S.E.; Liu, Y. (1998). An Introduction to Human Factors Engineering. New York: Longman.
+Zsambok, C.E.; Klein, G. (1997). Naturalistic Decision Making. Mahwah, New Jersey, USA: Erlbaum.
+ 
+Related SKYbrary Articles
+
+Decision Making
+
+
+
+
+
+Categories
+
+
+OGHFA,
+              Crew Actions and Behaviours,
+              Human Factors
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

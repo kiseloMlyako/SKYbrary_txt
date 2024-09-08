@@ -1,0 +1,144 @@
+Misidentification
+
+
+
+
+
+
+
+
+
+
+
+  Misidentification
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Separation 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Misidentification is a situation where the controller believes that a symbol on the screen matches a particular flight when in reality this is not the case. The root cause is usually either the selection of an improper identification procedure, not taking account of the procedure's specific limitations, or the inappropriate use of the selected procedure. For example, using a dulplicated SSR code for identification is an improper use of the "recognition of the assigned discrete code" procedure and trying the procedure on an aircraft with a non-discrete code (e.g. 1000) is not taking account of the applicable limitations. Naturally, this procedure should not have been chosen in both situations.
+The risk of misidentification is generally less for the approach working position compared to the en-route one. The reason is that the communication with aerodrome ATC units is more specific and errors are much easier to detect.
+Contributory Factors
+The following factors (or a combination of them) can contribute to wrong identification:
+
+Callsign similarity. This can easily lead to callsign confusion.
+Controller workload
+Interruption or distraction
+Complacency
+Wrong correlation
+Duplicated SSR code
+Expectation bias
+
+Risks
+The main risks arising as a consequence of misidentification are Loss of Separation and Airspace Infringement. These can happen because the controller may issue an instruction or approve a crew request based on what they perceive the situation to be while the aircraft taking action is somewhere else. It is even possible that the instrucion is complied with outside of the controllers area of responsibility. This makes it difficult to detect the situation and could prevent appropriate and timely rectification. An example scenario is shown on the picture below.
+
+The controller from unit A transfers DVK1990 to unit B. However, the instruction to change frequency is picked by DVK990. The controller from unit B does not notice the "slightly" incorrect callsign and (mis)identifies DVK1990. DVK990 does not seek confirmation. At this moment, there are two situations:
+
+DVK990 is in the airspace of ATS Unit A but on the frequency of ATS Unit B
+DVK1990 is still on the frequency of ATS Unit A but both controllers believe that it has been transferred to ATS Unit B
+
+If controller B instructs DVK1990 to climb to a higher level for some reason (e.g. due to converging traffic in 10 minutes) right after first contact, it is possible that the instruction will be complied with by DVK990 (who could consider the instruction as an extension of the initial dialogue). As a result, there will be a conflict between DVK990 and VBY995 in ATS Unit A, much to that unit's controller's surprise. In the meantime, the controller of ATS Unit B will also be surprised that an acknowledged clearance is not being followed.
+If DVK990 requests a higher level, it is very likely that Controller B would approve, seeing no conflict in their airspace (and still believeing the clearance will be complied with by DVK1990). This will result in similar outcome.
+Solutions
+
+System support. The introduction of Mode S greatly reduces the chance of an undetected wrong correlation. While, depending on system logic and crew actions, correlation may be based on the SSR code or an incorrect aircraft identification can be input by the pilot, there is usually an indication that warns the controller of an inconsistency.
+Careful listening during initial contact. This applies to both pilots and controllers. If the controller expects a call from an aircraft but receives one that is "slightly" different (e.g. ABC121 instead of ABC122) or "slightly" unreadable (e.g. ABC12*) they need to seek clarification. Any wrong or unheard symbol must be challenged. The pilot, on the other hand, should listen to the controller's "identified" message and if it seems to be addressing a different aircraft, confirmation should be sought or the initial contact reiterated, as applicable. What should not be done is assuming that the controller has identified the aircraft although the callsign used is "slightly" different to the actual one.
+Prompt reaction in case it is suspected that an aircraft has changed frequency when it should not have.
+Measures that mitigate the impact of callsign similarity. For example, airlines may plan their flights so that similar flight numbers are not within the same airspace at the same time. Controllers should be more careful when using abbreviated callsigns.
+
+Related Articles
+
+Identification
+Correlation
+Surveillance
+
+
+
+
+
+Categories
+
+
+Loss of Separation,
+              Airspace Infringement
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

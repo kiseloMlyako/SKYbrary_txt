@@ -1,0 +1,149 @@
+Autonomous Runway Incursion Warning System (ARIWS)
+
+
+
+
+
+
+
+
+
+
+
+  Autonomous Runway Incursion Warning System (ARIWS)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Runway Incursion 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+An Autonomous Runway Incursion Warning System (ARIWS) is a system which provides autonomous detection of a potential incursion or of the occupancy of an active runway and a direct warning to a flight crew or a vehicle operator (ICAO).
+General Description
+An ARIWS operates based on a surveillance system which is designed and sited to monitor the existing situation on a runway and which automatically transmits this information to warning lights located at both the runway takeoff threshold and at selected runway entrances. The system provides warnings as follows:
+
+When an aircraft arriving at a runway is short final or one departing from the runway has commenced its takeoff roll, red warning lights at the runway entrances will illuminate, indicating that it is unsafe to enter or cross the runway.
+When an aircraft on the runway threshold awaiting takeoff and another aircraft or vehicle enters or crosses the runway, red warning lights will illuminate at the threshold area, indicating that it is unsafe to commence the takeoff roll.
+
+For a more complete description, refer to the article Runway Status Lights (RWSL)
+In general terms, an ARIWS consists of an independent surveillance system, be it primary radar, multilateration, specialized cameras, dedicated radar or some other detection tool, and a warning system in the form of extra airfield lighting systems which are connected through a processor which generates alerts directly to the flight crew or vehicle operator independent of ATS input or action.
+Aerodrome Installation
+An ARIWS is not necessary at all aerodromes, on all runways or at all possible runway entrances. An aerodrome considering the installation of a ARIWS should make an independent assessment of its needs considering traffic levels, aerodrome geometry, ground taxi patterns, and other pertinent factors.
+There are, however, some basic system requirements that are applicable to all ARIWS installations:
+
+the control system and power supply for the system must be independent of any other system in use at the aerodrome, especially other parts of the aerodrome lighting system
+the system must operate independently from ATS communications
+the system must generate a globally accepted visual signal that is instantly understood by crews
+local procedures should be developed to account for potential system failure
+
+Air Traffic Services
+The ARIWS is designed to be complementary to normal ATS functions, providing warnings to flight crews and vehicle operators when a conflict has been unintentionally created or missed during normal aerodrome operations. For example, the ARIWS will provide a direct warning to the crew when the controller has provided a clearance to hold short of a runway but the flight crew or vehicle operator has “missed” the hold short portion of their clearance and tower has also issued a takeoff or landing clearance to that same runway.
+In the case where a clearance has been issued and a crew reports aborting or a non-compliance due to “red lights”, then it is imperative that the controller assess the situation and provide additional instructions as necessary. It is possible that the system has generated a false warning or that the potential incursion no longer exists. However, it may also be a valid warning!
+While false warnings are known to be possible, in no case should the illumination of the ARIWS be dismissed without confirmation that there is no conflict. If the system has malfunctioned, it should be disabled and alternate procedures put in place until repairs are effected. It must be stressed that under no circumstances should pilots or operators be instructed simply to “cross the red lights”.
+Flight Crew / Vehicle Operator Actions
+It is critical that flight crews and vehicle operators understand the warning being transmitted by the ARIWS system!!
+Should the ARIWS activate, pilots are presented with a globally consistent signal which means STOP IMMEDIATELY and must react accordingly. Warnings are provided directly to the flight crew in near real-time as the associated urgency means that there is no time for “relay” type communications. Pilots receiving an ATS clearance to takeoff or to cross a runway, and seeing the red light array, must:
+
+STOP!
+advise ATS that they aborted/stopped because of the red lights
+await further ATS instruction
+
+It must be stressed that the extinguishing of the red lights does not, in itself, indicate a clearance to proceed based on the previous ATS instruction to takeoff or to enter the runway. A new clearance is required from air traffic control. The absence of red warning lights only means that potential conflicts have not been detected but continuing without a new clearance may well be the cause of a new conflict.
+Related Articles
+
+Runway Incursion
+Runway Status Lights (RWSL)
+
+Further Reading
+ICAO
+
+Annex 14 to the Convention on International Civil Aviation
+
+
+
+
+
+Categories
+
+
+Runway Incursion,
+              Preventing Incorrect Presence on Runway
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

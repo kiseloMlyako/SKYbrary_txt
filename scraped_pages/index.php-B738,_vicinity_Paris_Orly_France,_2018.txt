@@ -1,0 +1,341 @@
+B738, vicinity Paris Orly France, 2018
+
+
+
+
+
+
+
+
+
+
+
+  B738, vicinity Paris Orly France, 2018
+
+
+
+
+
+
+
+
+
+Summary
+
+On 7 February 2018, a Boeing 737-800 experienced an airspeed mismatch during takeoff on a post maintenance positioning flight but having identified the faulty system by reference to the standby instrumentation, the intended flight was completed without further event. After the recorded defect was then signed off as “no fault found” after a failure to follow the applicable fault-finding procedure, the same happened on the next (revenue) flight but with an air turnback made. The Investigation found that the faulty sensor had been fitted at build three years earlier with a contaminated component which had slowly caused sensor malfunction to develop.
+
+
+
+
+Event Details
+
+When
+
+07/02/2018
+
+
+
+Event Type
+
+
+AW,
+              HF,
+              LOC
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 737-800
+
+
+
+
+
+
+
+
+
+Operator
+
+Transavia France
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Paris/Orly Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Marrakech-Menara Airport
+
+
+
+
+
+
+
+Actual Destination
+
+
+
+
+Paris/Orly Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Take Off
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+LFPO
+
+
+
+
+General
+
+Tag(s)
+
+
+              Air Turnback,
+              Copilot less than 500 hours on Type,
+              Flight Crew Training
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Authority Gradient,
+              Manual Handling
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Degraded flight instrument display
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Indicating / Recording Systems
+          
+
+
+
+Contributor(s)
+
+
+              Inadequate Maintenance Inspection,
+              Component Fault in service
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 7 February 2018, a Boeing 737-800 (F-GZHO) being operated by Transavia France on a post maintenance positioning flight from Norwich to Paris Orly after undergoing a ‘C’ Check experienced an airspeed mismatch during a night VMC takeoff but after the crew had identified the faulty system by reference to the standby instrumentation, the flight was completed. After the recorded defect was then signed off overnight as “no fault found”, the same thing happened on the first flight the following day, an international passenger flight from Paris Orly to Marrakesh which took off in day VMC, but this time an air turnback followed.
+Investigation
+An Investigation was carried out by the French Civil Aviation Accident Investigation Agency, the BEA assisted by history of maintenance faults obtained from QAR data and crew statements.
+The Captain for the flight from Norwich had been employed by Transavia since 2015 and had a total of approximately 12,000 hours flight experience which included 1,842 hours on type. The First Officer had been employed by Transavia for three months and had around 4,000 flight hours. Having become qualified on type since being employed, he had since flown 73 hours on type. The Training Captain of the following day’s departure from Paris Orly had over 10,000 hours flight experience on the Boeing 737 and on the incident flight was supervising a trainee Captain who had recently joined Transavia from Air France where he had been an A320 Captain. He too had just gained his 737 type rating and had just 23 hours on type.
+What Happened
+The aircraft had just been released from a ‘C’ Check at the KLM UK Engineering facility at Norwich and the crew were rostered to position it to Paris Orly. With the Captain acting as PF, as the flight approached the indicated 80 knots which is the prompt for the PM to call ‘80 knots’, the Captain called “check” which is the normal response to that call if the speed on the PF panel is the same. The takeoff was continued without comment and around the point where the Captain began the rotation, an ‘IAS DISAGREE’ alert message appeared on both PFDs and he quickly recognised that his PFD and the standby ASI were giving the same reading and the First Officer’s PFD was giving an erroneous reading.
+During the initial climb, ‘AOA DISAGREE’ and ‘ALT DISAGREE’ Alerts were also displayed on the PFDs. The Captain decided to continue the flight and postpone the fault checklists until the traffic conditions were less busy and kept the AP, A/T and FD engaged. Both pilots reported observing that the First Officer’s altimeter reading was also erroneous and that the differences in both airspeed and altitude between the two PFDs were increasing. The First Officer stated that once level at FL 220, the planned cruise level, the altitude difference was 2,000 feet and the airspeed difference was between 30 and 40 knots, both values being lower on the First Officer’s displays.
+The ‘AOA DISAGREE’, ‘ALT DISAGREE’ and ‘IAS DISAGREE’ checklists were completed and when the last of these referred them to the ‘Unreliable Airspeed’ procedure, they consulted it but saw that it did not apply as they has already identified which side was correct. However, they did check the speed indication on the Captain’s side which they confirmed as consistent with the unreliable airspeed table included in the ‘Unreliable Airspeed’ procedure. Once the checklists had been completed, the crew carried out a ‘TACBDE’ review. This is a decision making method specific to Transavia France and stands for Trajectoire (path), Action-menace, (action-risk), Court terme (short term), Bilan (assessment), Décision (decision), Exécution (execution).
+A PAN was not declared to ATC who were not informed of the problem, but in the descent, the Captain contacted Transavia Maintenance Control to advise the need for maintenance on arrival. Prior to beginning the approach, the crew consulted the QRH to check the required thrust and pitch attitude and decided that as landing performance with this increased speed was compatible with the length of the runway at Paris Orly, they would increase the approach speed by 10 knots “in order to have a sufficient indicated airspeed on both PFDs”. The flight was completed without further event and the Captain made a defect entry in the Aircraft Technical Log which included all the alert messages seen.
+A technician employed by a subcontractor of the company which Transavia used for the maintenance of its aircraft was detailed to deal with the defect entry reported that he had “complied with the AMM procedures concerning the inspection of AOA sensors, pitot probes and static pressure ports and the stall warning system and did not observe anything abnormal”, adding that “the AOA sensor moved freely”. However, he did not consult the applicable procedures in the Fault Isolation Manual (FIM) because “the actions that he carried out ultimately corresponded to what was required by the FIM” whilst accepting that although the FIM procedure for the ‘AOA DISAGREE’ alert required the Stall Management & Yaw Damper Computer to be tested in order to see whether it has recorded a failure, “he had not thought to do this”. He stated that he had surmised that “the AOA sensor might have iced up which could explain why he had not detected any problem” and so had released the aircraft to service with a “no fault found” entry in the Technical Log.
+The next day, the aircraft was allocated to a flight to Marrakesh and the flight was being used for line training of a new Captain who it was agreed would occupy the left hand seat as PF with the supervising Training Captain acting a PM from the right hand seat. The trainee Captain stated that he had not noticed the cleared defect entry in the Technical Log.
+The departure was delayed due to “various technical and operational matters” but a takeoff from runway 26 was eventually commenced. During the takeoff roll, the PF observed that the airspeed on his PFD had exceeded 80 knots without the PM making the check call. When he asked if the PM’s airspeed had passed 80 knots, the PM called out “80 knots” whilst observing that the left PFD already indicated 90 knots. He asked the trainee Captain if he was willing to continue and received an affirmative response.
+However, almost immediately - between 90 and 95 knots - the ‘IAS DISAGREE’ alert message appeared and the Training Captain terminated the training and took over as PF, completed the takeoff and rotated to 15° leaving the reduced takeoff thrust as already set. Soon afterwards, the ‘AOA DISAGREE’ and ‘ALT DISAGREE’ alerts appeared in quick succession and he then saw that his PFD was displaying airspeed and altitude values which were respectively 20 knots and 400 feet below those on the left side PFD and the standby instrumentation. He informed the trainee Captain of this and asked him to resume as PF.
+The climb was stopped at FL 090 and, after completing the memory items for “Unreliable Airspeed”, they successively disconnected the A/T, the AP and both FDs and set a pitch of 4° and 75 % thrust. The Training Captain then declared a ‘PAN’ to ATC and requested radar vectors back to Orly. He then carried out the checklists associated with the various alerts and the crew then carried out a TACBDE assessment. The left AP and FD were re-engaged and the turnback to Orly was completed without further event other than an overweight landing with a flight time of 40 minutes.
+The maintenance team which attended the aircraft after this flight “observed that the AOA sensor on the right side was abnormally resistant to being turned and there were unusual clicking noises”. When the Stall Management & Yaw Damper Computer test was carried out, the resulting error messages indicated a right side AOA sensor failure and this was rectified by its replacement. It was found that one of the maintenance checks carried out during the ‘C’ Check at Norwich required the two AOA sensors to be manually turned through 30° and the technicians who had done this stated that they “had not noticed any anomaly”.
+Discussion
+It was noted that in both departures the flight crew did not immediately carry out the memory items, rather they first sought to identify which side was displaying erroneous information and had initially used this assessment to continue with the automatic systems engaged. It was noted that Boeing had prioritised minimising the number of memory items when formulating the Unreliable Airspeed procedure recognising that pitch and thrust values of 10° and 80 % N1 respectively will ensure a safe takeoff and initial climb and observed that any abnormal situation must always be assessed by the Captain who remains free to determine the most appropriate response.
+Both flights were also continued when the 80 knot airspeed check failed. The Captain of the first day’s flight noted that the discrepancy was not verbalised and that not having considered the situation dangerous, he had not envisaged rejecting the takeoff, adding that the prevailing VMC had simplified a response to the problem and that he may have reacted differently had IMC prevailed. On the second day, the trainee Captain stated that he would have been “very willing” to reject the takeoff but that “the way the question was asked pushed him to reply in the affirmative” and having only recently been employed by the airline, “he did not feel comfortable about contradicting the aircraft commander”. The Training Captain said that although he had not judged the situation to be dangerous, “in retrospect it would have been preferable to reject the takeoff” adding that it had been his first experience of a failure between 80 knots and V1.
+It was found that in addition to the airspeed and altitude display errors which can be caused by a malfunctioning AOA sensor, other systems on the same side may also be corrupted by a sensor malfunction. These consequences include a reduction in the effectiveness of the yaw damper if the automated systems are engaged on the faulty system side and false activation of the stick shaker or non activation in an imminent stall situation. Such secondary malfunctions have the potential to increased crew workload and/or create difficulty in controlling the aircraft.
+Unlike the simple rectification required, the origin of the fault was found to be somewhat problematic. It was found that the failed right AOA sensor had been fitted at build and had not been subject to any maintenance intervention since. Analysis of historic flight data provided by the operator showed that malfunction of the right AOA sensor had developed gradually over time with the first signs of it doing so evident as early as March 2015, shortly after the aircraft had been delivered new.
+A detailed examination of the removed faulty sensor found that several of its internal components were damaged. The component that appeared to be at the root of the sensor malfunction was sent to the OEM which had manufactured it who coordinated a forensic examination with the subcontractor who had supplied it. This found that it was contaminated by a “viscous and tacky substance” which was interfering with its correct function. It was impossible to determine if this contaminant had been introduced during the component manufacturing process or had been the result of an exposure after delivery to the OEM. The contaminant was found to consist primarily of the epoxy resin, used in the manufacture of the component but with the addition of one or more other substances.
+It was then found that a substance called Tetra Hydro Furfuryl Alcohol (THFA) used by the OEM during the manufacture of the sensor “provided a close match” to the contaminant identified in the faulty sensor component. However, since the manufacturing process precluded its introduction during the relevant manufacturing process, any contact with THFA must have been inadvertent. The OEM also observed that following manufacture of a sensor, it is still possible for external contaminants to enter it. Nevertheless the OEM implemented additional material handling procedures and affixed warning notices on all the equipment using THFA to help minimise the chances of THFA accidentally coming into contact with the sensor component involved.
+Two Contributory Factors were documented as follows:
+
+The contamination of resolver 2 of the right AOA sensor by a solvent which led to a failure of this component and (to the sensor containing it) generating erroneous speed and altitude indications, followed by the AOA, IAS and ALT DISAGREE alerts. The Investigation was not able to determine the cause of this contamination which seemed to be an isolated case nor the reason why this defect, present since the installation of the sensor on the aeroplane, led to the activation of the alerts during a post maintenance flight. However, it is possible that the handling of the sensor during maintenance exacerbated the dysfunction without the technicians realising this.
+The technician working on the aeroplane between the two flights not using the Fault Investigation Manual. Its use would have ensured that a more complete check was carried out and the failure would have probably been detected and the sensor replaced.
+
+Safety Action taken as a result of the event whilst the Investigation was in progress was noted to have included the following:
+The BEA presented three ‘Safety Lessons’ arising from the Investigation as follows:
+
+The takeoff is a dynamic phase during which the crew may not have the resources to identify all the possible consequences of a failure of the speed indicator. Given the importance of the speed indications to continue the flight, a doubt as to this parameter should incite the crew to envisage rejecting the takeoff when this is still possible.
+A failure of the speed indicator can affect numerous systems situated on the side of the faulty sensor, such as the autopilot, auto-throttle, flight directors or stall protection. The deactivation of the automatic systems required by the memory items of the Unreliable Airspeed procedure aims to prevent the use of the automatic systems on the side affected by the dysfunction and must be carried out by the crew before any analysis.
+Transmitting a PAN PAN message in order to notify a technical issue allows the ATC to take precautionary measures if necessary and can often help reduce the crew’s workload.
+
+The Final Report was published in both English translation and in the definitive French language version on 16 November 2020. No Safety Recommendations were made.
+Related Articles
+
+Unreliable Airspeed Indications
+Aircraft Technical Log
+Rejected Take Off
+Aircraft Maintenance Manual (AMM)

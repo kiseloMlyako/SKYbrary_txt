@@ -1,0 +1,164 @@
+Fuel - In-Flight Management (Abnormal Operations)
+
+
+
+
+
+
+
+
+
+
+
+  Fuel - In-Flight Management (Abnormal Operations)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+As stated in the article entitled Fuel - In-Flight Management (Normal Operations) fuel management encompasses pilot responsibilities for verification, utilisation, monitoring, recording and reconciliation of the fuel loaded on the aircraft. In the context of this article, abnormal operations include dispatch under Minimum Equipment List (MEL) or Configuration Deviation List relief, fuel leak, inflight failures or planned flights in a non-standard configuration such as a gear down ferry flight. Under abnormal operations, fuel management becomes more difficult as the tools normally used for fuel monitoring, such as FMS predictions and flight plan comparison, may be invalid or misleading. An additional level of vigilance is required.
+Threats
+In almost all circumstances involving abnormal operations, fuel is consumed at a rate which is significantly higher than normal. The principle threat during abnormal operations is fuel exhaustion.
+Effects
+The effect on fuel consumption of abnormal operations or configurations ranges from the subtle to the extreme. As an example, dispatch under CDL relief for a missing fuel panel access door or a wing root fairing might result in an additional 1% fuel consumption over the course of the flight whereas an uncontrolled fuel leak could result in the loss of a significant amount of fuel over a very short period of time. The affects of some other selected failures are as follows:
+
+Engine failure in cruise - the requirement for drift down to a lower altitude is probable. Fuel flow on the remaining engine(s) will be higher due to both the lower altitude and the increased power/thrust demand required to compensate for the failed engine. Total fuel consumption could decrease, remain approximately the same or increase depending upon the aircraft type and the required change of height between the original cruising altitude and the one engine inoperative cruising altitude. However, true airspeed will be reduced and ground speed is likely to be lower leading to a reduction in range.
+Air Conditioning/Presurization pack failure in flight or dispatch under Minimum Equipment List (MEL) relief with one pack inoperative - maximum cruising altitude may be affected. If so, fuel consumption will be higher due to the lower cruising altitude.
+Landing gear fails to retract - maximum speed and altitude will be affected. Fuel flow will be much higher due to the additional drag.
+Slat or flap jam or failure - maximum speed and altitude will be affected. If re-land is not possible at the point of origin or if a diversion is required at the planned destination due to weather or runway length, fuel consumption during the diversion will be higher due to the increased drag.
+
+Note that in almost all cases, FMS fuel predictions will compensate for the altitude actually flown. However, the predictions are based on the configuration that is "normal" for the phase of flight and will not make any adjustment for the fact that the gear could be down or flaps extended due to a failure. Similarly, the fuel predictions on the operational flight plan are based on the planned speeds and altitudes and do not make any allowance for noncompliance with the planned profile or a non-standard configuration.
+Defences
+
+In all cases of abnormal operations, be they dispatch under CDL / MEL relief or as a result of an airborne failure, follow the published guidance as prescribed by the manufacturer. This guidance could include (but is not limited to) dispatch criterial, specific fuel penalties for non-standard configurations, emergency drills and checklists or specific directions as published in AOM, Operations Manual or the MEL.
+Understand that, in most cases, the fuel predictions provided by the FMS will not be correct and relying on that information could lead to fuel exhaustion.
+Use actual fuel flow to calculate endurance and with that figure, use the actual ground speed to determine range. Be conservative. Once the range has been determined, develop an appropriate diversion strategy.
+Carefully monitor actual fuel consumption and, if required, modify the diversion plan as required.
+
+Typical Scenarios
+
+An engine failure in flight results in the pilots conducting a drift down procedure with maximum continuous thrust set on the operating engine. At single engine cruise altitude, the fuel flow on the operating engine is greater than the total fuel flow had been in cruise due to the lower altitude and the required higher single engine thrust setting. The planned destination is no longer within range of the remaining fuel and diversion to an enroute alternate is initiated. The aircraft lands without further incident.
+On departure, the landing gear of a midsized passenger jet fails to retract due to a mechanical failure. Using FMS fuel predictions as the basis of their decision, the pilots elect to divert to a maintenance facility several hundred miles away. Crosscheck of the remaining fuel on board against the FMS predictions initially confuses the pilots and it is not until approaching top of descent for their planned diversion aerodrome that they realise that they do not have sufficient fuel remaining to reach their destination. An attempt is made to reach a closer airfield. However, while on approach, both engines flame out due to fuel exhaustion and the aircraft touches down short of the runway. There are numerous injuries among the passengers and crew but no fatalities. The aircraft is damaged beyond economical repair.
+
+Solutions
+
+Under normal operations, conduct regular fuel monitoring and crosscheck the fuel remaining against flightplan predictions. If there is a discrepency, investigate it immediately following checklist and AOM guidance. A fuel leak can be insidious and if misdiagnosed or mishandled, it can result in the loss of most or all of the fuel on board leading to engine failure due to fuel exhaustion.
+Pilots must understand that abnormal aircraft configurations will result in abnormal fuel consumption and reduced range.
+Awareness that FMS predictions will not be accurate in an abmormal configuration is essential. Basic tools such as fuel flow and ground speed must be utilized to determine endurance and range.
+If an inflight failure results in an abnormal configuration, pilots must maintain situational awareness and be mindful of their fuel state at all times. They must ensure that any planned diversion, troubleshooting or checklist procedures can be accomplished within the endurance allowed by the available fuel.
+
+Accidents and Incidents
+
+Enroute fuel exhaustion due to a mis-diagnosed and mishandled fuel leak during the transoceanic flight of an Airbus A330
+
+
+Fuel exhaustion and crash landing of an Airbus A310 after the landing gear failed to retract on takeoff.
+
+
+Low Fuel emergency in a Bombardier CRJ due to jammed flaps on missed approach. Report
+
+Related Articles
+
+Fuel - Diversion to Weather Alternate
+Fuel - Flight Planning Definitions
+Fuel - Company Policy
+Fuel - In-Flight Management (Normal Operations)
+Fuel - Preflight Planning
+Fuel Management
+Fuel - Regulations
+Abnormal Aircraft Configuration and FMS Fuel Predictions
+Fuel Contamination
+
+Further Reading
+
+EASA SIB No 2018-08: In-Flight Fuel Management — Phraseology for Fuel-Related Messages between Pilots and Air Traffic Control, May 2018
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

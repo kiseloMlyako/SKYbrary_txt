@@ -1,0 +1,295 @@
+DH8D, vicinity Belfast City UK, 2018
+
+
+
+
+
+
+
+
+
+
+
+  DH8D, vicinity Belfast City UK, 2018
+
+
+
+
+
+
+
+
+
+Summary
+
+On 11 January 2018, a Bombardier DHC8-400 departed Belfast City with incorrectly-set Flight Director (FD) modes and the Autopilot was then engaged without either pilot noticing that the aircraft was not being flown in accordance with the FD command bar or that the aircraft had then begun to descend. The rate of descent increased unnoticed and reached 4,300 fpm before recovery from a 928 feet minimum height after EGPWS 'DON'T SINK' and 'PULL UP' annunciations. The Investigation found that no target altitude had been entered and noted failure to follow normal operating procedures including on the use of checklists.
+
+
+
+
+Event Details
+
+When
+
+11/01/2018
+
+
+
+Event Type
+
+
+CFIT,
+              HF
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+IMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOMBARDIER Dash 8 Q400
+
+
+
+
+
+
+
+
+
+Operator
+
+Flybe
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Belfast/George Best Belfast City Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Glasgow International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Climb
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+EGAC
+
+
+
+
+General
+
+Tag(s)
+
+
+              Deficient Crew Knowledge-automation,
+              PIC less than 500 hours in Command on Type,
+              PIC aged 60 or over
+          
+
+
+
+
+CFIT
+
+Tag(s)
+
+
+              Vertical navigation error
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Pre Flight Data Input Error,
+              Ineffective Monitoring,
+              Ineffective Monitoring - PIC as PF,
+              AP/FD and/or ATHR status awareness
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Non-aircraft damage
+
+Yes
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+Yes
+
+
+
+Ditching
+
+Yes
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 11 January 2018, a Bombardier DHC8-400 (G-ECOE) being operated by Flybe on a scheduled domestic passenger flight from Belfast City to Glasgow in day IMC was observed by ATC radar to begin descending from 1500 feet after initially climbing as cleared towards 3000 feet after takeoff. A high rate of descent developed but recovery followed an EGPWS PULL UP Warning and the flight proceeded to destination without further event.
+Investigation
+An Investigation was carried out by the UK AAIB. Relevant data were obtained from the FDR and CVR and from the two pilots involved. Available FDR parameters included the engagement status of the AP and of the available FD modes but since FDR data were only available once the anti collision beacons were selected on prior to engine start, it was not possible to confirm the crew's account of pre-start FD mode selection.
+It was noted that the 60 year-old Captain, who was PF for the investigated flight, had accumulated a total of 14,122 flying hours which included 464 hours on type. No information was provided about the First Officer's experience.
+It was found that prior to engine start, the initially prepared load sheet had to be replaced and that although the First Officer had programmed the FMS whilst the Captain had been conducting the external pre-flight check, the latter stated that upon his return and prior to receiving the departure clearance had, "in order to save time before pushback" set the FD modes to 'GA', 'HDG', and 'ALT SEL' whilst leaving the selected altitude as zero pending the departure clearance in accordance with company operating procedures. When an initial climb to 3000 feet was included in the subsequently-issued departure clearance, the Captain selected this on the PFDs but neither pilot noticed that the AP modes set were 'HDG' and Altitude Hold ('ALT'), the latter in place of the intended ‘ALT SEL’, or that the FD vertical command bar had (as a consequence) moved from the nose-up ‘GA’ position to neutral. A 'Delayed Engine Start' (DES) was briefed but where this was to occur was not discussed.
+On reaching the runway for departure, 22, the flight was cleared to enter and backtrack and soon after entering, the First Officer started the second engine. As the aircraft approached the end of its backtrack and a 180º right turn was about to commence, the Captain was recorded as confirming the takeoff clearance as "3000 with ALT SEL" before subsequently noticing that in fact 'ALT' was still set rather than 'ALT SEL' as the First Officer corrected it. Having just completed the taxi checks, the Line up checks were carried out as the aircraft made the turn. The final item on this checklist was to check the Flight Mode Annunciator (FMA) Panel and the CWP in response to which the Captain was recorded as saying "Go-around, Heading and Alt Sel" whereas the FDR data subsequently examined showed that actually 'ALT', 'HDG' and 'ALT SEL' had been selected.
+After takeoff, the aircraft was controlled manually with 'LNAV' FD mode selected and pitch, initially about 15º nose up was reduced to approximately 10º nose up. At about 1,350 feet agl and at 163 KCAS and by now in IMC, the AP was engaged. Having reached 1,500 feet agl, the aircraft began to pitch nose down at about 1.2º/second. During the next 15 seconds, without the crew - who were completing the 'After Takeoff' Checklist - noticing, the rate of descent continued to increase and the pitch attitude went from about 10º nose up to 8º nose down. At about 1,300 feet and with airspeed rapidly approaching the 245 KIAS Vmo which applied below 8,000 feet, an EGPWS Mode 3 'DON'T SINK' Alert was annunciated. The AP was disconnected, power was reduced and a nose-up pitch input was made. An EGPWS 'PULL UP' Warning quickly followed and by the time the descent had been arrested, the aircraft had reached 928 feet agl and a speed of 241 KCAS. A climb was re-established and at about 1,900 feet, the Captain re-engaged the AP but this time, having observed the pitch down begin again, he immediately disconnected it and selected the 'IAS' FD mode at 210 KIAS which action automatically deselected the 'ALT' mode. The crew reported that they had "become visual with the ground" as they recovered the aircraft from the descent.
+Soon after the aircraft reached the cleared altitude of 3,000 feet, ATC queried the excursion they had observed and were told by the First Officer that there had been a problem with the AP but that it had been resolved. There was no further in-flight discussion by the crew about the excursion until after landing, when it was apparent that neither of them understood why engagement of the AP when climbing had caused the aircraft to begin descending.
+It was noted that if 'ALT' mode is activated manually, then the FD target altitude becomes the current altitude and that if 'ALT SEL' is selected when 'ALT' mode is already active, this action does not change the target altitude. It was apparent that at no point had the crew recognised that their pre-take off selection of FD modes had unintentionally not been the Company Standard combination of 'GA', 'HDG' and 'ALT SEL'. It was also apparent that the abnormal position of the FD command bars, which at no time had shown the climb command which would normally always be present on takeoff, had been noticed.
+The Investigation noted that the Operator had been aware of three previous similar cases of incorrect setting of FD modes on its DHC8-400 aircraft in 2017, two of which resulted in unexpected - but quickly noticed - descents after takeoff when the AP was engaged and one where the incorrect setting was noticed prior to engaging the AP. However awareness of these occurrences was not derived from the Company's OFDM system as this did not have a suitably configured event to detect incorrectly configured FD modes at takeoff.
+The formally stated Conclusion of the Investigation was as follows:
+
+Prior to pushback, the crew had selected the FD modes without entering a target altitude. This caused one mode to default to alt instead of 'ALT SEL', which was not detected by the crew.
+Due to the DES being carried out whilst backtracking the runway, there was reduced time available in which to complete all required checks which, when combined with a sense of urgency, led to the crew not seeing the incorrect FD modes displayed on the FMA.
+During the line-up checks, the PF noticed that 'ALT SEL' was not displayed on the FMA. When 'ALT SEL' was selected, the crew did not confirm that 'GA', 'HDG', and 'ALT SEL' were displayed on the PFD. Instead 'ALT' mode was active and displayed which led to a target altitude of 0 feet amsl being set, resulting in a descent when the autopilot was engaged. Timely warnings of the hazardous flight path were provided by the EGPWS and prompt corrective action by the PF returned the aircraft to safe flight.
+
+Safety Action taken by the Operator as a result of this Serious Incident and known to the Investigation included, but was not limited to, changes to the Taxi Checklist requiring the PF to explicitly review the FMA selections and the creation of an OFDM event to detect takeoffs with incorrect FD modes set.
+The Final Report of the Investigation was published on 8 November 2018. No Safety Recommendations were made.
+Related Articles
+
+Controlled Flight Into Terrain (CFIT)
+Flight Director
+Autopilot
+Flight Management System
+Crew Resource Management (CRM)
+Cross-checking Process
+Flight Data Monitoring (FDM)

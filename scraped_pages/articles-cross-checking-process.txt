@@ -1,0 +1,178 @@
+Cross-checking Process
+
+
+
+
+
+
+
+
+
+
+
+  Cross-checking Process
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Human Behaviour 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+The human mind is fallible and error can occur for many reasons, for example, from a misheard message, from memory slip, or from incorrect appreciation of the situation.
+Error is particularly likely in certain circumstances, especially when there is pressure to complete a task quickly (e.g. to expedite departure or during an emergency or abnormal situation), but may also occur in normal everyday situations.
+Error in aviation can have severe consequences and the cross-checking process is used wherever possible to eliminate error.
+Cross-checking and the Pilot
+The cross-checking process is a vital element of a pilot's duties, particularly in a multi crew situation where the roles of the two pilots are defined as Pilot Flying (PF) and Pilot Not Flying (PNF). The PNF - alternatively referred to as the Pilot Monitoring - has responsibility for monitoring the actions and awareness of aircraft control of the PF.
+Whilst the monitoring role of a PNF must not be limited to specific parts of flight crew duties, Company SOPs should include a minimum list of defined actions which are to be cross-checked, for example:
+
+One pilot calculates aircraft performance and makes mass and balance calculations; the other pilot closely monitors, cross-checks or duplicates the calculations.
+A Load and Trim Sheet prepared (exceptionally) by a member of a flight crew must be subject to meaningful cross checking before acceptance.
+ATC clearances will normally be monitored by both pilots and consequent action including readback taken by one pilot will be confirmed/monitored by the other.
+Equipment settings such as altimeter pressure settings, cleared altitude, frequency change and navigation routings, are set by one pilot and cross-checked by the other.
+Adherence to defined Stabilised Approach gates and to calculated Reference Speeds and AFM Limitations
+
+Cross-checking and the Controller
+Cross-checking is equally important for the ATCO, and comprises two elements:
+Cross-checking the actions of pilots
+Where possible, the controller should monitor the actions of the pilot, either by reference to the situation display or by visual observation, to ensure that instructions are followed correctly.
+The extent to which a controller can cross-check the actions of pilots depends on his/her workload; however, every effort should be made to do so in situations where error is likely to occur. For example, when the pilots are dealing with an aircraft unserviceability, or when the pilot appears to be inexperienced, confused, or have limited language ability. A particular example of a situation where monitoring by radar or directly may be conducive to safety is the execution of issued VFR clearances in airspace such as Class 'D'; in this situation, loss of separation against IFR traffic can occur due to poor situational awareness of the IFR aircraft flight crew, who might wrongly assume that they benefit from ATC-controlled separation from VFR traffic as well as from other IFR traffic.
+Controllers should pay particular attention to aircraft manoeuvring on the ground near runway hotspots and to potential conflicts which can arise in the air when intersecting runways are in use simultaneously and this involves intersecting approach, missed approach or take off flight paths.
+System support can be used to help controllers with performing this task. Examples of this are various monitoring tools, e.g. for a potential or actual level bust, horizontal deviation, the downlink of Mode S selected level, etc. Nevertheless, controllers should be aware that such tools are not supposed to replace the existing ATC procedures.
+Cross-checking the actions of colleagues
+Cross-checking is a normal part of the duties of an ATC Assistant if these exist; otherwise, controllers rarely have the free capacity to monitor the duties of other controllers and such action could not be expected to form part of their duties. Nevertheless, the following areas are important:
+
+When there are two controllers assigned to a sector, the communication with aircraft is normally done by the executive controller. The planner controller however also monitors the radio exchanges (to the extent possible) so that they can detect lapses, incorrect readbacks, etc.
+Also not official and subject to personal workload, a tower and an approach controller (or a tower and a ground controller) may monitor the other controller's frequency e.g. to make sure an agreed coordination is appropriately communicated to the aircraft.
+Controllers taking over responsibility for a sector have much information to absorb and the potential for error or oversight is high. The controller going off duty should monitor the actions of their replacement for a few minutes after hand-over to ensure that neither has overlooked any significant aspect of the prevailing traffic situation and to be available to deal with any questions that might arise;
+Inexperienced controllers or controllers who are new to their positions may not become fully proficient for some time. Appropriate mentoring procedures should be in place until their unaided performance is assessed as satisfactory.
+When a controller is dealing with an abnormal situation, e.g. an aircraft emergency or very high density traffic, the enlistment of any off-duty controllers to assist can be an important safety net.
+
+Accidents & Incidents
+Events in the SKYbrary database which include Ineffective Monitoring as a contributory factor:
+
+
+B39M, Pittsburgh USA, 2022On 21 June 2022, a Boeing 737-9 cleared for a visual approach and landing on runway 28C at Pittsburgh landed on the adjacent runway 28L instead. The controller stated that having become aware that the aircraft was lined up with the wrong runway in the absence of any potential hazards, he had decided not to intervene. The crew said that a transient avionics fault on final approach had reduced their opportunity to ensure correct runway alignment but this fault was found to have cleared much earlier. It was noted that runway 28L had sequenced approach lighting whereas 28C had none.
+
+A320 / A320, en route, east of Nashik India, 2022On 21 March 2022, an Airbus A320 level at FL 360 lost separation with another Airbus A320, which continued its descent beyond its cleared level. A predictive conflict alert prompted the controller to issue multiple calls confirming the clearance limit but with no response. When both aircraft tracks crossed at FL 360, lateral separation was reduced to 3.8 nm. It was concluded that the immediate cause of the conflict was the failure of the descending aircraft to respond to ATC alerting calls, but that its origin was an undetected incorrect readback of the descent clearance.
+
+DH8D, Belagavi India, 2021On 24 October 2021, a Bombardier DHC8-400 inbound to Belagavi initially advised to expect a non-precision approach to runway 08 was subsequently cleared for an equivalent approach to runway 26. An approach to runway 08 was then flown without ATC intervention or pilot error recognition, but with no actual consequences. The error was attributed to pilot expectation bias and distraction and controller failure to order a go-around after eventually realising what was happening. The context that had facilitated the errors was considered to be procedure and performance inadequacy at both the aircraft operator and ATC.
+
+B752, Tulsa USA, 2022On 8 June 2022, a Boeing 757-200 making a night visual approach to Tulsa inadvertently landed on runway 18R instead of 18L as briefed and cleared. ATC did not intervene. Neither pilot recognized the error until the captain realized there was less runway ahead than he had expected. He had planned to "roll long," expecting a the turnoff at the end of the much longer runway 18L. Although both pilots reported not being fatigued, it was concluded that lack of recognition of their error suggested otherwise, and probably facilitated plan continuation bias aided by inability to efficiently integrate available information.
+
+A346, en route, Clariden Switzerland, 2018On 6 November 2018, an Airbus A340-600 in cruise northbound over the Swiss Alps received an overspeed warning after encountering an unexpected wind velocity change. However, the crew failed to follow the prescribed response procedure. This led initially to a climb above their cleared level, and further inappropriate actions were then followed by PAN and MAYDAY declarations as control of the aircraft was briefly lost in a high-speed descent below their cleared level. The operator subsequently enhanced pilot training realism by providing it in a simulator configured for the aircraft variant operated by the company. The operator also introduced upset recovery training.
+
+
+...further results
+
+
+Further Reading
+
+Checklists and Monitoring in the Cockpit: Why Crucial Defenses Sometimes Fail, July 2010
+A Practical Guide for Improving Flight Path Monitoring, November 2011
+
+UK CAA
+
+Monitoring Matters: Guidance on the development of Pilot Monitoring Skills, CAA Paper 2013/02.
+
+Flight Safety Foundation ALAR Briefing Notes:
+
+No. 1.3 - Golden Rules
+No. 1.4 - Standard Calls
+No. 1.5 - Normal Checklists
+No. 1.6 - Approach Briefing
+No. 2.1 - Human Factors
+No. 2.2 - Crew Resource Management
+No. 2.3 - Pilot-Controller Communications
+
+
+
+
+
+Categories
+
+
+Human Behaviour,
+              Air Ground Communication,
+              Controlled Flight Into Terrain,
+              Loss of Control,
+              HF-AO,
+              HF-ATM
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

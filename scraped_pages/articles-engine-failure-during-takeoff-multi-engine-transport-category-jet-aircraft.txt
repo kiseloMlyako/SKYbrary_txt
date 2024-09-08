@@ -1,0 +1,331 @@
+Engine Failure During Takeoff - Multi-Engine Transport Category Jet Aircraft
+
+
+
+
+
+
+
+
+
+
+
+  Engine Failure During Takeoff - Multi-Engine Transport Category Jet Aircraft
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Control 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ The Air Pilots
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+In the early days of jet engine powered transport aircraft, engine failures, in all phases of flight, were a fairly frequent occurrence. Statistics from the 1960's indicate that failures resulting in inflight shutdowns occurred at an approximate rate of 40 per 100,000 flight hours (or 1 per 2,500 flight hours). This rate is the equivalent of every engine failing once every year. By contrast, the failure rate of the engines installed on current generation aircraft have a failure rate of less than 1 per 100,000 flight hours.
+Infrequent as this might seem, engines do fail and a failure during takeoff has very serious safety of flight implications. The aerodynamic effects of the failure and the immediate actions by the flight crew, which are necessary to ensure an acceptable outcome, are similar to those in a light, twin engine aircraft. However, unlike their smaller cousins, the certification criteria for multi-engine transport category jet aircraft require that the aircraft be capable of achieving a specified minimum climb rate, that will ensure obstacle clearance, should an engine failure occur on takeoff.
+Regulatory Requirements
+The National Aviation Authority (NAA) for each sovereign state is responsible for issuing an aircraft type certificate, in accordance with the guidance provided in the ICAO Standards and Recommended Practices (SARPS), for aircraft that are registered within its jurisdiction. While the SARPS provide the agreed minimum requirements for type certification, each NAA has the right to insist that additional criteria be satisfied before an aircraft type certificate will be issued.
+Within the European Union, type certificates are issued by the European Union Aviation Safety Agency (EASA) whose website may be found here
+Aircraft Type Certification
+There are many safety and performance requirements that must be met before an aircraft will be issued a type certificate. For multi-engine, transport category jet aircraft, minimum runway requirements that allow the safe rejection or continuation of a takeoff in the event of a failure and the ability to comply with minimum specified engine out climb gradients and obstacle clearance criteria are both critically important.
+Minimum Runway Requirements
+Regulatory criteria for minimum runway requirements encompass multiple calculations inclusive of Takeoff Distance (TOD), Takeoff Run (TOR) and Accelerate Stop Distance (ASD). The most limiting of these criteria, based on aircraft weight and prevailing atmospheric conditions, defines the minimum runway required for takeoff. Note that, depending upon the regulations under which the aircraft certification is granted, these distances may have to take into consideration the runway distance lost during line-up.
+
+Declared Distances
+Takeoff Distance (TOD)
+The Takeoff Distance on a dry runway is the greater of the following values:
+
+Distance covered from the brake release to a point at which the aircraft is 35 feet above the takeoff surface, assuming the failure of the critical engine at VEF (Engine Failure Speed) and recognized at V1
+115% of the distance covered from brake release to a point at which the aircraft is 35 feet above the takeoff surface, assuming all engines operating
+
+The Takeoff Distance on a wet runway is the greater of:
+
+Takeoff Distance on a dry runway (see above)
+Distance covered from brake release to a point at which the aircraft is 15 feet above the takeoff surface, ensuring that the V2 speed can be achieved before the airplane is 35 feet above the takeoff surface, assuming failure of the critical engine at VEF and recognized at V1
+
+Takeoff Distance must not exceed the Takeoff Distance Available (TODA), with a clearway distance not to exceed half of the TODA
+Takeoff Run (TOR)
+Takeoff Run (TOR) calculations incorporate the operational advantage of a designated clearway when one is present on the departure runway. If no clearway exists, TOR = TOD.
+When a clearway exists, the Takeoff Run on a dry runway is the greater of the following values:
+
+Distance covered from brake release to a point equidistant between the point at which VLOF (Lift-off Speed) is reached and the point at which the aircraft is 35 feet above the takeoff surface, assuming failure of the critical engine at VEF and recognized at V1
+115 % of the distance covered from brake release to a point equidistant between the point at which VLOF is reached and the point at which the aircraft is 35 feet above the takeoff surface, assuming all engines operating
+
+When a clearway exists, the Takeoff Run on a wet runway is the greater of:
+
+Takeoff Distance (TOD) wet runway
+115 % of the distance covered from brake release to a point equidistant between the point at which VLOF is reached and the point at which the aircraft is 35 feet above the takeoff surface, assuming all engines operating.
+
+Takeoff Run must not exceed Takeoff Run Available (TORA)
+Accelerate Stop Distance (ASD)
+Accelerate Stop Distance calculations assume the following:
+
+Delay between VEF and V1 = 1 second
+ASD is determined with the wheel brakes at the fully worn limit of their allowable wear range
+reverse thrust is not considered for a dry runway distance determination, it can be used for wet runway calculations
+
+The Accelerate Stop Distance on a dry runway is the greater of the following values:
+
+Sum of the distances necessary to:
+
+
+Accelerate the airplane with all engines operating to VEF
+Accelerate from VEF to V1 (assumes that engine fails at VEF and first action to reject is taken at V1)
+Come to a full stop
+Plus an additional distance equivalent to 2 seconds at constant V1 speed
+
+
+Sum of the distances necessary to:
+
+
+Accelerate the airplane with all engines operating to V1 (assumes that first stopping actions are taken at V1)
+With all engines still operating come to a full stop
+Plus an additional distance equivalent to 2 seconds at constant V1 speed
+
+The Accelerate Stop Distance on a wet runway is the greatest of:
+
+ASD on a dry runway (see above)
+Sum of the distances on a wet runway necessary to:
+
+
+Accelerate the airplane with all engines operating to VEF
+Accelerate from VEF to V1 (assumes that engine fails at VEF and first action to reject is taken at V1)
+Come to a full stop
+Plus an additional distance equivalent to 2 seconds at constant V1 speed
+
+
+Sum of the distances on a wet runway necessary to:
+
+
+Accelerate the airplane with all engines operating to V1 (assumes that first stopping actions are taken at V1)
+With all engines still operating come to a full stop
+Plus an additional distance equivalent to 2 seconds at constant V1 speed
+
+Note: Depending upon the criteria under which the aircraft was certified, the additional 2 seconds distance equivalent might not be required
+Accelerate Stop Distance must not exceed the Accelerate Stop Distance Available (ASDA)
+Loss of Runway Length During Lineup
+Declared distances such as TORA and ASDA are based on measurements from the runway threshold. However, unless the aircraft enters the runway from a point prior to the threshold, it is not possible to use the full length of the runway. Aircraft typically enter the takeoff runway from an intersecting taxiway. The aeroplane must then be turned to align it on the runway in the direction of takeoff. In some cases, it may be necessary to backtrack on the runway and turn through 180° before the takeoff run can be initiated. FAA regulations do not explicitly require airplane operators to take into account the runway distance used to align the aeroplane on the runway for takeoff. However, EASA regulations require that the applicable distance be taken into consideration. When required, the TODA and TORA must be reduced by the distance from the runway threshold to the main landing gear and ASDA reduced by the distance from the threshold to the nose gear. Manufacturers will provide minimum lineup distances required for both 90° and 180° turns.
+Some Operators provide data which takes loss of runway length during lineup into account. All crews must be familiar with the assumptions made in the production of their own company’s data.
+Engine Out Obstacle Clearance Profile
+The Net Takeoff Flight Path for the engine failure case is divided into four segments. Three of these are climbing segments with specified minimum gradients which are dependent upon the number of engines installed on the aircraft and one is a level acceleration segment. A brief description of the four segments is as follows:
+
+First Segment - depending upon the regulations under which the aircraft is certified, the first segment begins either at lift-off or at the end of the takeoff distance at a screen height of 35' and a speed of V2. On a wet runway, the screen height is reduced to 15'. Operating engines are at takeoff thrust, the flaps/slats are in takeoff configuration and landing gear retraction is initiated once safely airborne with positive climb. The first segment ends when the landing gear is fully retracted.
+Second Segment - begins when the landing gear is fully retracted. Engines are at takeoff thrust and the flaps/slats are in the takeoff configuration. This segment ends at the higher of 400' or specified acceleration altitude. In most cases, the second segment is the performance limiting segment of the climb.
+Third or Acceleration Segment- begins at the higher of 400' or specified acceleration altitude. Engines are at takeoff thrust and the aircraft is accelerated in level flight. Slats/flaps are retracted on speed. The segment ends when aircraft is in clean configuration and a speed of VFS has been achieved. Note that the third segment must be completed prior to exceeding the maximum time allowed for engines at takeoff thrust.
+Fourth or Final Segment - begins when the aircraft is in clean configuration and at a speed of VFS. Climb is re-established and thrust is reduced to maximum continuous (MCT). The segment ends at a minimum of 1500' above airport elevation or when the criteria for enroute obstacle clearance have been met.
+
+Each segment of the one engine inoperative takeoff flight path has a mandated climb gradient requirement. For example, a gross second segment climb gradient capability of 2.4%, 2.7% or 3.0% is required for two, three and four engine aircraft respectively. Similarly, the required gross gradients for the fourth segment are 1.2%, 1.5% and 1.7% respectively.
+To ensure obstacle clearance while allowing for aircraft performance degradation and less than optimum pilot technique, the gross gradients are reduced by 0.8%, 0.9% and 1.0% respectively to calculate a net gradient. The obstacle identification surface (OIS), or obstruction envelope, starts at runway elevation at a point directly beneath the end of the takeoff distance (TOD) and parallels the net gradient profile of the climb segments. If an obstacle in the departure path penetrates the OIS, the slope of the OIS must be increased and both the net and the gross gradient slopes of the corresponding segment must also be increased to ensure that the minimum obstacle clearance criteria is met.
+The aircraft net gradient capability, correctable for temperature, altitude and pressure, is published in the AFM performance data and, in actual operations, must ensure that the limiting obstacle in the departure path can be cleared by a minimum of 35'. If there is an obstacle within the departure path that cannot be avoided and would not be cleared by 35', the planned takeoff weight must be reduced until minimum obstacle clearance can be achieved. Note that, by regulation, turns immediately after takeoff cannot be initiated below the greater of 50'AGL or one half of the aircraft wingspan and, that during the initial climb, turns are limited to 15° of bank. Turning will result in a reduction in aircraft climb capability.
+
+Take off Flight Path
+To maximise the payload capability from any given runway, most operators develop and utilize emergency turn procedures. These procedures follow a specified ground track which minimises the affects of local obstacles and a specified vertical profile which complies with the more restrictive of certification or actual obstacle climb requirements.
+Effects of Engine Failure
+On the Runway
+If a multi-engine aircraft suffers an engine failure during the takeoff roll, the aircraft will yaw towards the failed engine. If the airspeed at the time of the failure is at or above Vminimum control ground (Vmcg), directional control on the runway can be maintained utilizing only aerodynamic controls. At a speed below Vmcg, directional control will not be possible unless thrust on the operating engine(s) is (are) also reduced. In any event, if the airspeed at the time that the failure is recognised is less than V1, the takeoff must be rejected.
+Airborne
+If a multi-engine aircraft suffers an engine failure when airborne, there are two immediate aerodynamic effects. The initial effect is the yawing that occurs due to the asymmetry of the thrust line. The size of this initial yawing moment depends upon the engine thrust and the distance between the thrust line and the aircraft centre of gravity. The yawing moment is also affected initially by the rate of thrust decay of the ‘dead’ engine and ultimately by its drag.
+The second effect is roll. This occurs when the aircraft continues to yaw towards the failed engine resulting in a decrease in lift from the ‘retreating’ wing and a yaw-induced roll towards the failed engine.
+As well as the aerodynamic consequences of the failure, the performance penalty is very significant. While the failure of an engine in a twin engine aircraft represents a 50% loss of available power, it will result in a more than 50% loss of performance.
+Flight Crew Actions
+During pre-flight preparation:
+
+Using the Electronic Flight Bag (EFB) or the appropriate performance charts, determine the maximum takeoff weight (MTOW) for the runway in use, anticipated atmospheric conditions and intended aircraft configuration
+Confirm that actual aircraft weight does not exceed the calculated maximum allowable weight
+Complete performance calculations to determine speeds and thrust settings (inclusive of reduced thrust criteria where appropriate or applicable)
+Review and brief the Emergency Turn procedure inclusive of routing, turns and turn altitudes, acceleration altitude and safe altitudes
+
+During the takeoff roll:
+
+Use appropriate lineup technique to ensure charted runway length is available
+Apply thrust using manufacturer's recommended procedures
+Confirm actual thrust meets or exceeds calculated thrust
+In the event of an engine failure prior to V1, reject the takeoff
+
+ADVISE Air Traffic Control (ATC) that the takeoff has been rejected using appropriate emergency communication protocols
+
+
+
+In the event of an engine failure after V1:
+
+Establish and maintain directional control with appropriate rudder input
+Rotate at Vr and establish a climb speed of V2
+
+If the failure occurs after the aircraft is airborne, a climb speed of between V2 and V2 + 10 is acceptable
+
+
+Utilise appropriate aileron input to maintain wings level. At, or near, VMinimum Control Air (Vmca), as much as a 5° bank away from the dead engine may be required
+When safely airborne and established in a positive climb, retract the landing gear
+
+Establish or maintain the Emergency Turn routing
+
+
+Initiate ECAM / EICAS / Emergency Checklist procedures as per manufacturer and Company policy
+
+Establish or maintain the Emergency Turn routing
+
+
+Maintain V2 and takeoff thrust until reaching acceleration altitude. Acceleration altitude will be the highest of 400' AGL, Emergency Turn procedure published acceleration altitude or Company standard acceleration altitude
+
+Establish or maintain the Emergency Turn routing
+
+
+At acceleration altitude, maintain takeoff thrust, level the aircraft (see note below) and accelerate to VFS retracting flaps on schedule.
+
+Establish or maintain the Emergency Turn routing
+
+
+Once in clean configuration, maintain VFS, resume climb and reduce thrust to maximum continuous
+
+Establish or maintain the Emergency Turn routing
+
+
+ADVISE ATC using appropriate emergency communication protocols
+
+note that if the Emergency Turn profile has or will result in a departure from the cleared routing, ATC should be notified as soon as it is practical to do so
+
+
+Reaching a safe altitude, comply with any enroute climb requirements, complete any appropriate emergency or QRH checklists, determine plan of action (diversion or recovery) and advise ATC
+
+Note: The acceleration profiles utilised by VNAV and FLCH modes do not necessarily command the aircraft to fly level at Acceleration altitude in the event of an engine failure. With all engines operating, VNAV & FLCH will use the algorithm 60% climb, 40% acceleration. In the event of an engine failure, the algorithm is reversed with 40% climb, 60% acceleration. As a consequence, at light weights the APFDS may command a climb during the acceleration phase.
+Defences
+Crew members must make themselves familiar with the explanatory notes to their performance data. Only by gaining an understanding of the assumptions made in the calculations can best use be made of the data.
+If aircraft engines were 100% reliable, engine failure during takeoff would never occur. Over the years, manufacturers have made great improvements in the reliability of their products and the failure rate of turbine engines has decreased with each generation. It is unlikely, however, that the potential for engine failure will ever be completely eliminated.
+Maintenance personnel can reduce the risk of failure by ensuring that the engines are maintained to the manufacturer’s recommendations. Ground crew and flight crew must ensure during their preflight and postflight inspections that all fluids are adequate, that there are no obvious leaks or damage and that the fuel supply is free from water or other contamination.
+Flight crew / dispatch performance calculations must ensure that the aircraft can meet regulatory requirements in the event of an engine failure during the takeoff.
+Flight crew should have a thorough understanding of the aerodynamics of a failure and clearly understand the actions that must be taken should a failure occur.
+Finally, crews must be completely familiar with their Company procedures which will always take priority.
+Accidents and Incidents
+
+
+B773, Dhaka Bangladesh, 2016On 7 June 2016, a GE90-115B engined Boeing 777-300 made a high speed rejected takeoff on 3200 metre-long runway 14 at Dhaka after right engine failure was annunciated at 149KCAS - just below V1. Neither crew nor ATC requested a runway inspection and 12 further aircraft movements occurred before it was closed for inspection and recovery of 14 kg of debris. The Investigation found that engine failure had followed Super Absorbent Polymer (SAP) contamination of some of the fuel nozzle valves which caused them to malfunction leading to Low Pressure Turbine (LPT) mechanical damage. The contaminant origin was not identified.
+
+AN26, vicinity Cox’s Bazar Bangladesh, 2016On 29 March 2016, an Antonov AN-26B which had just taken off from Cox s Bazar reported failure of the left engine and requested an immediate return. After twice attempting to position for a landing, first in the reciprocal runway direction then in the takeoff direction with both attempts being discontinued, control was subsequently lost during further manoeuvring and the aircraft crashed. The Investigation found that the engine malfunction occurred before the aircraft became airborne so that the takeoff could have been rejected and also that loss of control was attributable to insufficient airspeed during a low height left turn.
+
+A140, vicinity Tehran Mehrabad Iran, 2014On 10 August 2014, one of the engines of an Antonov 140-100 departing Tehran Mehrabad ran down after V1 and prior to rotation. The takeoff was continued but the crew were unable to keep control and the aircraft stalled and crashed into terrain near the airport. The Investigation found that a faulty engine control unit had temporarily malfunctioned and that having taken off with an inappropriate flap setting, the crew had attempted an initial climb with a heavy aircraft without the failed engine propeller initially being feathered, with the gear remaining down and with the airspeed below V2.
+
+AT76, vicinity Taipei Songshan Taiwan, 2015On 4 February 2015, a TransAsia Airways ATR 72-600 crashed into the Keelung River in central Taipei shortly after taking off from nearby Songshan Airport after the crew mishandled a fault on one engine by shutting down the other in error. They did not realise this until recovery from loss of control due to a stall was no longer possible. The Investigation found that the initial engine fault occurred before getting airborne and should have led to a low-speed rejected take-off. Failure to follow SOPs and deficiencies in those procedures were identified as causal.
+
+JS41, vicinity Durban South Africa, 2009On 24 September 2009 a BAe Jetstream 41 being operated by SA Airlink on a positioning flight from Durban to Pietermaritzburg with only three crew members on board experienced an engine fire during take off and after reaching a height of about 500 feet agl then entered a semi controlled descent to a high impact forced landing in a residential area about 1400 metres beyond the runway end. The three occupants were all seriously injured and the aircraft commander subsequently died as a result of his injuries. A fourth person on the ground was also injured.
+
+B752, Las Vegas NV USA, 2008On 22 December 2008, a Boeing 757-200 on a scheduled passenger flight departing Las Vegas for New York JFK experienced sudden failure of the right engine as take off thrust was set and the aircraft was stopped on the runway for fire services inspection. Fire service personnel observed a hole in the bottom of the right engine nacelle and saw a glow inside so they discharged a fire bottle into the nacelle through the open pressure relief doors. In the absence of any contrary indications, this action was considered to have extinguished any fire and the aircraft was then taxied back to the gate on the remaining serviceable engine for passenger disembarkation. None of the 263 occupants were injured but the affected engine suffered significant damage.
+
+B732, vicinity Tamanrassat Algeria, 2003On 6 March 2003, a Boeing 737-200 being operated by Air Algerie had just become airborne during a daylight departure when the left hand engine suddenly failed just after the PF had called for  gear up . Shortly afterwards, the aircraft commander, who had been PNF for the departure, took control but the normal pitch attitude was not reduced to ensure that a minimum airspeed of V2 was maintained and landing gear was not retracted. The aircraft lost airspeed, stalled and impacted the ground approximately 1nm from the point at which it had become airborne. A severe post crash fire occurred and the aircraft was destroyed and all on board except one passenger, were killed.
+
+
+
+
+Related Articles
+
+Loss of Control
+Engine Failure After TakeOff - Light Twin Engine Aircraft
+Emergency Turn
+Uncontained Engine Failure
+Rejected Take Off
+Net Take-off Flight Path
+Engine Failure: Guidance for Controllers
+
+Further Reading
+EUROCONTROL
+
+Guidelines for Controller Training in the Handling of Unusual/Emergency Situations
+
+UK CAA - Safety Regulation Group
+
+CAP 745 - Aircraft Emergencies - Considerations for air traffic controllers
+
+Airbus Flight Operations Briefing Notes
+
+Handling Engine Malfunctions
+Revisiting the “Stop or Go” Decision
+Understanding Takeoff Speeds
+Getting to Grips with Aircraft Performance
+
+US Federal Aviation Administration
+
+Pilot Guide to Takeoff Safety
+
+
+
+
+
+Categories
+
+
+Loss of Control
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

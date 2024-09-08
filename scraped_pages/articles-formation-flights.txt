@@ -1,0 +1,169 @@
+Formation Flights
+
+
+
+
+
+
+
+
+
+
+
+  Formation Flights
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Separation 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Formation flight. A flight consisting of more than one aircraft which, by prior arrangement between the pilots, operates as a single aircraft with regard to navigation and position reporting, as well as clearances issued by ATC.
+Source: EUROCONTROL ATM Lexicon
+Description
+Formation flying was born as a means of mutual support and protection in times of aerial warfare. It was quickly discovered that multiple aircraft working together achieve far greater results while also reducing risk to all formation members. Flying large numbers of aircraft in formation meant organization was necessary for safety and efficiency.
+With time and experience, standards and conventions were developed for formation flying. Some of these conventions vary depending on the country of origin, the organization, or the type of flying and whether it is a routine element of day-to-day flight operations.
+There are two major uses of formations these days - military flights and general aviation flights (aerobatics, recreational flying, etc.).
+General Procedures
+Formation flights are only allowed if prearrangement exists among the pilots-in-command of the participating aircraft. If the flight is to be performed in controlled airspace, this is to be done in accordance with the conditions prescribed by the appropriate ATS authority.
+Standard Formations
+According to ICAO SARPs, the distance between the flight leader and any of the other aircraft should not exceed 0.5 NM horizontally and 100 ft vertically. Some countries extend these. For instance, in the USA, a formation is considered to be standard if the horizontal spacing between the leader and any of the wingmen is within 1 NM. Another example is the EUROAT document which states that in standard military formation, each element must be 1 NM or less apart from the leader.
+Standard formations are treated as a single aircraft with regard to navigation and position reporting.
+In Standard Formation flights only the lead aircraft (the leader) shall turn on the transponder and squawk an identification code otherwise garbling could occur affecting negatively the ATC surveillance on the ground and TCAS functioning on nearby aircraft (false altitude reports). 
+Non-standard Formations
+If the distance between the leader and one of the other aircraft exceeds the prescribed values, the formation is considered non-standard. There are no ICAO procedures defined for this case but some local provisions exist. Note that these are only applicable over the respective territory. Examples of such procedures are:
+
+Such flights are subject to ATC approval.
+All aircraft are to turn their transponders on and are assigned a discrete SSR code (this may be the same as the leader's).
+Aircraft within the formation are not to be separated by ATC.
+Separation from other flights is provided in relation to the formation element that is closest to the aircraft that is to be separated. Therefore, the formation is not treated as a single aircraft as is the case with standard formations.
+
+Flight Plan
+There are some specifics when completing a flight plan for a formation flight.
+
+The callsign of the formation leader is to be used in Item 7 (aircraft identification).
+The number of aircraft is to be specified in Item 9 (number and type of aircraft and WTC).
+If the formation comprises different aircraft types, ZZZZ is used in Item 9 and the types are specified in Item 18 (other information) with the designator TYP/, e.g. TYP/1K35R 3F16 2MG29.
+In Item 10 (equipment and capabilities), the symbol W (RVSM approved) is not to be used regardless of the RVSM status of the individual aircraft.
+If the formation is expected to operate in the RVSM layer, the text STS/NONRVSM is to be included in Item 18.
+
+ATC Procedures
+Separation
+Within the formation flight, responsibility for separation lies with the pilots-in-command of the participating aircraft. This includes transition periods when aircraft within the formation are manoeuvring in closer proximity than prescribed minimum IFR separation during formation break-up or formation join-up.
+Controllers do not provide separation between the formation elements but separate the formation itself (considered as a single flight) and other traffic depending on the applicable procedures (e.g. airspace class, RVSM procedures, etc.).
+ICAO SARPS do not prescribe different separation minima when formation flights are involved. In some countries however, increased separation is provided in such cases. For example, in the USA, a standard formation is to be separated from single flights by adding one nautical mile to the applicable minimum and if two formations are to be separated, the minimum is increased by 2 NM.
+Within RVSM airspace, 2000 ft vertical separation is to be provided between a formation flight and other flights.
+Communication and Identification
+In making initial contact with the ATC unit, formation leaders should clearly state the number of aircraft in the formation.
+All ATC instructions and clearances are to be addressed to the formation leader. Nevertheless, all aircraft in the formation must monitor the relevant ATC frequency.
+No universal SSR code procedures are developed, therefore these may vary from country to country. Normally, a discrete code is assigned to the lead aircraft, and all other aircraft are instructed to squawk "standby". However, if the formation has the shape of a "stream" that extends for e.g. 3 NM (or more), the last aircraft may also be allocated an SSR code (which can be the same one as the code for the leader). For longer streams, codes may be allocated to intermediate aircraft as appropriate.
+Coordination
+During all co-ordination between ATS units, traffic information and handover messages, controllers must:
+
+clearly state the number of aircraft in a formation;
+identify the full extent of any formation of more than 1 NM in length (or is otherwise to be considered as non-standard).
+
+Take-off and Landing
+Procedures for take-off/landing of aircraft in formation at/from controlled aerodromes are described in national AIPs. In some countries this is not permitted. This means that aircraft take of one by one as separate flights and then the join-up takes place. Similarly, at the approach stage, the group breaks up and the aircraft land one by one.
+There are countries where the decision whether or not to make simultaneous take-offs and landings is up to the pilots involved (some restrictions may apply). In this case the clearance for take-off and landing is issued only to the flight leader and the responsibility for ensuring safe separation during take-off, approach and landing rests on the flight leader and the wingmen aircraft.
+Sometimes the general rule is that simultaneous take-offs and landings are not allowed unless a special authorization is granted for the particular flight.
+Related Articles
+
+State Aircraft and Formation Flights - Separation Minima
+Air Traffic Control Service
+Separation Standards
+Own Separation
+MARSA
+
+Further Reading
+
+ICAO Doc 4444 PANS-ATM
+Specifications for harmonized Rules for OAT under IFR inside ECAC controlled Airspace (EUROAT), EUROCONTROL, 2019
+
+
+
+
+
+Categories
+
+
+Loss of Separation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

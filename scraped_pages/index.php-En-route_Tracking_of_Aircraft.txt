@@ -1,0 +1,196 @@
+En-route Tracking of Aircraft
+
+
+
+
+
+
+
+
+
+
+
+  En-route Tracking of Aircraft
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Flight Technical 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+In the light of the lost MH370 flight, various organizations have been working on ways to provide better (more reliable and worldwide covered) tracking of flights. This article describes the use of space-based Automatic Dependent Surveillance Broadcast (ADS-B) for tracking aircraft over areas with sub-optimal coverage of surveillance systems (e.g. over oceanic and remote areas). At present, space-based ADS-B is considered to be the most suitable solution for a global surveillance technology.
+Surveillance Technologies
+The main surveillance technologies used today are:
+
+Primary surveillance radar (PSR) transmits a high-power signal, some of which is reflected by the aircraft back to the radar. The radar determines the aircraft’s position based on the elapsed time between signal transmission and reception of the signal’s reflection (range) and the antenna position (bearing). PSR does not provide the identity or the altitude of the aircraft but does not require any specific equipment on the aircraft, such as transponder.
+Secondary surveillance radar (SSR) consists of two main elements, a ground-based interrogator/receiver and an aircraft transponder. The transponder responds to interrogations from the ground station, enabling the aircraft’s identity, range and bearing from the ground station to be determined.
+Mode S SSR is an improvement of the SSR. It contains all the functions of SSR, and also allows selective addressing of targets by the use of unique 24 bit aircraft addresses, and a two-way data link between the ground station and aircraft for the exchange of information.
+SSR only is used by ATC for en route radar control in many states of the world where intruder detection is not required.
+Combined PSR/SSR makes use of the advantages of the two radar types in one installation.
+Multilateration relies on signals from an aircraft’s transponder being detected at a number of receiving stations to locate the aircraft. It uses a technique known as Time Difference of Arrival (TDOA) to determine the position of the aircraft.
+ADS-Contract (ADS-C) uses an automatic position-reporting system to provide a commercial service to operators and others. It has been in wide use for over 30 years, particularly over oceanic airspace. It requires that a contract be established between the aircraft operator and the ground-based service provider.
+ADS-Broadcast (ADS-B) uses GPS technology to determine an aircraft's location, airspeed and other data, and broadcasts that information to a network of transceivers, which relays the data to air traffic control displays.
+
+ADS-B
+It is widely recognised that ADS-B will eventually become the preferred surveillance technology worldwide, although this will take time. ICAO, at Air Navigation Commission 11 (ANC11) in 2007 resolved that “ICAO and States recognize ADS-B as an enabler of the global ATM operational concept bringing substantial safety and capacity benefits.” A further development of the ADS-B technology is using satellites to relay the signals from aircraft in areas where ground equipment installation is either impossible or is not feasible. This extension is called space-based ADS-B. The key features of ADS-B (and space-based ADS-B) are:
+
+ADS-B is an air to air, air to ground autonomous surveillance application;
+ADS-B has been in use since the mid to late 1990’s;
+Reception of existing ADS-B transmissions at satellites is planned;
+Satellite reception does not change or impact on existing RF environment;
+No changes required to aircraft avionics or certification with the introduction of space-based ADS-B;
+Space-based ADS-B is mainly intended for oceanic, polar and remote regions.
+
+Short-Term Safety Related Benefits
+Space-based ADS-B will extend today’s ADS-B technology from flight operations in continental airspace to oceanic and remote airspace. It is reasonable to expect the benefits that have been demonstrated from ground-based ADS-B networks will also be delivered from a space-based ADS-B network. There is an extensive range of immediate and longer-term safety and efficiency benefits that can be expected with the introduction of space-based ADS-B. The most notable short-term benefits are:
+
+A single global surveillance system. The implementation of space-based ADS-B will be the first to provide global surveillance from a single system. The system is immediately capabile of providing surveillance in airspace where traditional systems are impracticable and/or cost prohibitive to deploy.
+Reduced oceanic separation standards. The current minimum separation standard for locations where traditional surveillance and direct VHF radio communications are not available over the ocean is 30 nm. At the present stage of research and analysis, the ICAO Separation and Airspace Safety Panel (SASP) view is that a 15 nm standard is anticipated, using space-based ADS-B combined with existing communications systems.
+Enhanced Situational Awareness. ATC experience, where ADS-B has been introduced into a nonsurveilled region, has greatly enhanced the controllers’ ability to safely manage complex traffic scenarios caused by adverse weather conditions such as thunderstorms. Prior to the introduction of ADS-B, complex traffic scenarios combined with bad weather would require highly restrictive traffic management by controllers, resulting in aircraft operating at non-preferred/inefficient levels, and flight crews being forced to conduct extensive diversions to assure separation.
+Enhanced global flight tracking. The aircraft tracking SARPs at present establish the air operator’s responsibility to track its aircraft position at time interval of 15 minutes whenever ATS obtain it at greater intervals. Future SARPs relating to the location of an aircraft in distress establish the requirement for an aircraft to autonomously transmit information from which a position can be determined at least once every minute when in a distress condition. This SARPs became effective in July 2016 and will be applicable as from 1 January 2021. Space-based ADS-B would be expected to form a key part of many airline solutions to comply with this requirement.
+Enhanced Search and Rescue. Recent world events have refocused the aviation industry on its capability to identify the location of an aircraft lost, in distress or involved in an accident. Space-based ADS-B will be able to support SAR services globally in retaining position data. Close to real-time position will be available for all equipped aircraft regardless of where they are in the world.
+Reduction in Pilot and ATC workload. ADS-B enables the display of an accurate and near real-time traffic picture to ATC. It would also facilitate far more efficient ATC planning and use of a wider range of traffic control and management tools.
+Improved cross–flight information boundary error detection. Aircraft position errors that occur near the boundaries of two FIRs are still relatively common, creating increased ATC and pilot workload and a negative influence on overall safety, particularly in oceanic airspace, where high-accuracy surveillance is currently limited or not available. The accuracy of space-based ADS-B should allow cross-FIR boundary position errors to be detected more regularly, and the handover between ATC to be more precise.
+Improved and earlier detection of off-track errors. Current monitoring of flight trajectory conformance in oceanic and continental airspace without surveillance coverage is generally limited to position reports received at 30 minute intervals. Space-based ADS-B (with an anticipated data-update rate of once every 8 seconds) will introduce an almost real-time detection of an aircraft that is not conforming with its expected flight path.
+Enhanced safety alerting. Space-based ADS-B enables a range of automated safety alerts to ATC. Some of the alerts that can be included in a global safety net are:
+
+Danger area infringement warning (DAIW).
+Short-term conflict alert (Short Term Conflict Alert (STCA)).
+Minimum safe altitude warning (Minimum Safe Altitude Warning (MSAW)).
+Route adherence monitoring (RAM).
+Cleared level adherence monitoring (CLAM).
+Predicted level mismatch (PLM).
+
+
+Improved weather avoidance. ADS-B has has the potential to enhance the ability of ATC to provide the most efficient off-track routing in order to minimize additional track miles, manage multiple track deviation requests simultaneously and safely, and use the most effective avoidance options because of the reduced separation minima enabled by ADS-B.
+Enhanced Height Monitoring in RVSM airspace. ICAO requires states to have an acceptable method for monitoring aircraft height-keeping performance in Reduced Vertical Separation Minima (RVSM) airspace. Traditionally, this has required data collection devices to be fitted temporarily to the aircraft, which is usually costly and time-consuming. ADS-B, because of the reliability and accuracy, has become an alternative to these legacy systems.
+Surveillance system augmentation and elimination of surveillance gaps. For some existing ground-based surveillance systems, space-based ADS-B should be a suitable augmentation to achieve improved coverage and to fill gaps caused by e.g. terrain. ADS-B is considered a cost-effective means of service enhancement, availability and reliability.
+Enhanced safety for offshore helicopter operations. Offshore helicopter operations are a niche, but an essential type of aircraft operation, and with them come some unique safety challenges. The advent of space-based ADS-B may bring significant safety benefits because such flights can be fully monitored and operations around adverse weather and SAR response can be better coordinated, especially in areas where ground-based ADS-B is not available.
+More efficient flight trajectory and availability of preferred levels. The optimum flight trajectory involves typically a combination of factors such as operating at the most fuel-efficient altitude and route, seeking the most favorable winds, consideration of passenger comfort and the most efficient flight time. With the anticipated reduced separation minima ATC should be able to clear more aircraft on preferred trajectories.
+Enhanced incident and accident investigations. Incident and accident investigations often rely on accessing the recorded data by the aircraft FDR and CVR. Space-based ADS-B may offer an important benefit by supporting aircraft position tracking the timely location of an accident aircraft.
+
+Medium Term Safety Related Benefits
+A number of benefits can be expected from the deployment of space-based ADS-B in the medium term, including:
+
+Improved service in remote and difficult-terrain regions
+Improved cooperation in contingency management
+Greater interoperability (an ICAO harmonization enabler)
+Support for conflict zone and volcanic ash cloud management
+Improved regional and local data sharing
+Reduced risk of controlled flight into terrain
+
+Challenges
+There are some important topics that must be addressed to ensure the realisation of the many safety and efficiency benefits of space-based ADS-B, the most notable of them being:
+
+Regulatory framework. Space-based ADS-B will require state regulatory approval. The requirements to the aircraft and ground-based elements are not considered as a barrier but they are important regulatory safety processes that must be completed.
+Equipage rates. To derive the benefits of any new technology requires a level of momentum and a point at which the level of participation enables the full benefits to be realised. A number of states have already mandated or are instituting mandates for the adoption of ADS-B over the coming years.
+Quality of signal and impact of antennae location on the aircraft. The modelling for space-based ADS-B is based on top-mounted antennae, which is consistent with the positioning of TCAS (traffic-alert and collision avoidance system) equipment of an aircraft. The evaluation of system and signal reliability, availability and latency will need to be part of the certification and approval processes to meet regulatory requirements.
+Adoption by ANSPs. The implementation of space-based ADS-B will require some ANSPs to procure new or upgrade existing ATC automation systems.
+Security. Space-based ADS-B is likely to be subject to security-related research, given its likely central role in aircraft tracking and SAR support.
+
+North Atlantic Trial
+In January 2019, the last of 75 low earth orbit (LEO) satellites – 66 operational and nine orbiting spares -- carrying Aireon ADS-B payloads were successfully deployed. The LEO satellites, which will orbit approximately 485 miles above the earth. The ADS-B payloads enable them to receive ADS-B information broadcast from ADS-B-equipped aircraft and transfer the aircraft data from satellite to satellite down to a ground-based processing and distribution system.
+In April 2019, ANSPs NAV Canada and NATS began a trial of the Aireon system over the North Atlantic started. The system provides air traffic controllers real-time data on aircraft position. Use of the system will allow controllers to trial the reduction of aircraft in-trail separation distance, among other benefits.
+In addition, the Airports Authority of India in July signed an agreement to deploy the air traffic surveillance technology in Mumbai, Chennai and Kolkata's oceanic airspaces.
+Related Articles
+
+Automatic Dependent Surveillance Broadcast (ADS-B)
+Mode S
+Transponder
+Radar
+Radar Identification
+Wide Area Multilateration (WAM)
+
+Further Reading
+
+Benefits Analysis of Space-Based ADS-B, by the Flight Safety Foundation
+Guidance Material on Comparison of Surveillance Technologies (GMST), by ICAO
+Normal Aircraft Tracking, a presentation by ICAO
+
+
+
+
+
+Categories
+
+
+Flight Technical
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

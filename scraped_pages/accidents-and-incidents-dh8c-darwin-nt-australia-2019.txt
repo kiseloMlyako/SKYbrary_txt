@@ -1,0 +1,305 @@
+DH8C, Darwin NT Australia, 2019
+
+
+
+
+
+
+
+
+
+
+
+  DH8C, Darwin NT Australia, 2019
+
+
+
+
+
+
+
+
+
+Summary
+
+On 11 November 2019, one of the two PW100 series engines of a Bombardier DHC8-300 failed catastrophically when takeoff power was set prior to brake release. The Investigation found that the power turbine shaft had fractured in two places and all first and second stage power turbine blades had separated from their disks. The shaft failure was found to have been caused by fatigue cracking initiated by corrosion pitting which was assessed as probably the result of prolonged marine low-altitude operations by the aircraft. It was found that this fatigue cracking could increase undetected during service between scheduled inspections.
+
+
+
+
+Event Details
+
+When
+
+11/11/2019
+
+
+
+Event Type
+
+
+AW,
+              LOC
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+On Ground - Normal Visibility
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOMBARDIER Dash 8 Q300
+
+
+
+
+
+
+
+
+
+Type of Flight
+
+Aerial Work
+
+
+
+Flight Origin
+
+
+
+
+Darwin International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+No
+
+
+
+Flight Completed
+
+No
+
+
+
+Phase of Flight
+
+Take Off
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+YPDN
+
+
+
+
+General
+
+Tag(s)
+
+
+              Inadequate Airworthiness Procedures
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Loss of Engine Power
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Engine - General
+          
+
+
+
+Contributor(s)
+
+
+              Inadequate Maintenance Schedule,
+              Component Fault in service,
+              Corrosion/Disbonding/Fatigue,
+              Ejected Engine Failure Debris
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Aircraft damage
+
+Major
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Airworthiness
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 11 November 2019, a Bombardier DHC8-300 (VH-ZZE) being operated by Surveillance Australia was about to depart Darwin on an offshore surveillance flight in good day visibility but when the power levers were advanced for takeoff against the brakes, there was a loud bang and the power was returned to flight idle. After observing abnormal indications for the right engine, a Pratt & Whitney Canada PW123E, it was shut down and the aircraft taxied to the operator’s maintenance facility using the serviceable engine. A runway inspection found metallic debris where the aircraft had been standing.
+Investigation
+An Investigation into the accident was carried out by the Australian Transport Safety Bureau (ATSB) based on an examination of the failed engine, the data from the CVR and FDR and flight crew statements.
+It was established that in preparation for the start of the takeoff, the power levers had been moved towards the takeoff position against the brakes but as takeoff power was reached a loud bang was heard. In response, the Captain returned both power levers to the flight idle position and instructed the First Officer to inform ATC of their “engine issue”. The controller acknowledged the call and reported having seen ‘smoke’ coming from the right engine and informing the emergency services. The Captain then checked the right engine instrumentation and observed that “the torque gauge had failed” and that the propeller RPM gauge indicated zero but that other indications for the gas core of the engine such as fuel flow appeared normal. He instructed the First Officer to shut down the engine and after confirming that the aircraft brake, hydraulic and electrical systems were functioning normally, the aircraft was taxied to the company maintenance facility using the remaining engine. Debris described as “metal fragments” was subsequently discovered behind the position of the aircraft when the failure occurred.
+After the right engine had been removed from the aircraft, it was possible to see that all the second-stage Power Turbine (PT) blades had separated from the disk (see the first illustration below) and that although it was not possible to rotate the PT assembly, the propeller shaft could be turned freely.
+The engine was taken to the OEM facility for a detailed examination and the findings included the following:
+
+The diffuser case, which contained the LP centrifugal impeller, showed corrosion at several locations (see the second illustration below) and the LP impeller blades showed leading edge erosion.
+All PT stage 1 and stage 2 blades had fractured through tensile overload (see the third illustration below)
+The PT shaft was fractured in two locations (see the first illustration below) with the inner diameter next to one of these fractures showing corrosion pitting (see the fourth and fifth illustrations below)
+
+
+A rear view of the removed engine showing the second stage power turbine damage. [Reproduced from the Official Report]
+
+The Diffuser case showing areas of corrosion. [Reproduced from the Official Report]
+
+The two Power Turbine disk assemblies showing all blades sheared off. [Reproduced from the Official Report]
+Metallurgical analysis of the PT shaft showed that it had fractured at the position marked ‘A’ in the next illustration below due to the corrosion pitting on its inner surface which had reduced the thickness of the material to 25% below the minimum requirement. It was concluded that the other fracture, which showed signs of bending rather than torsional overload, had been secondary.
+The OEM stated that in its view, the PT shaft corrosion was a result of the engine’s marine operational environment resulting from low level surveillance tasking by the operator’s contractor. It noted that during normal engine operation, some of the air flowing through the compressor is delivered to the inside of the PT shaft via internal and external tubes and both seals bearings and cools the PT stage 1 and stage 2 disks. Corrosion protection for the internal surface of the PT shaft is provided by an aluminium coating applied during manufacture and noted that although it had not been possible to evaluate the condition of this coating near the fractures, “there were no other indications, such as de-lamination, which would suggest the coating had been incorrectly applied”. They also indicated that in-service experience indicated that “the aluminium coating had historically provided good corrosion protection”.
+The Investigation noted that the PT shaft did not have a fixed operational service life but was subject to on-condition maintenance at each engine overhaul which included cleaning, inspections and, if applicable, repairs. Each of these “cleaning” processes involved the removal of the internal aluminium coating as part of the cleaning process and its re-application after inspection and the completion of any required repairs. Any corrosion observed on the shaft was evaluated against the repair limits and if within limits, it could be repaired; otherwise it was replaced. The applicable engine TBO depended on whether the operator’s engine maintenance activity was based on a fixed time schedule (every 8000 hours) or ‘on condition’, as was the case with the aircraft operator involved. Such on condition maintenance had to be conducted in accordance with a detailed OEM-determined schedule and meant that the TBO of an engine could be extended beyond the normal 8000 hours subject to its condition. However, it was noted that this maintenance programme to extend the TBO did not include any additional tasks in respect of the PT shaft.
+
+The fractured Power Turbine shaft - fracture ‘A’ was the primary corrosion-caused fracture. [Reproduced from the Official Report]
+
+The two parts of the Power Turbine shaft at fracture ‘A’ showing corrosion pitting on the inside. [Reproduced from the Official Report]
+The failed engine was manufactured in 2000 and had been fitted to various DHC-8 aircraft in the operator’s aerial surveillance fleet throughout its life. Its original PT shaft was removed during the engine’s first overhaul at 13,547 hours in March 2011 because of deep corrosion pitting on the shaft inner surface which was beyond repair limits and was replaced with a newly manufactured one which had accumulated 12,254 hours before the fracture being investigated. The OEM confirmed that this shaft fracture was the first to have occurred in service.
+The Investigation found evidence of two other instances of the PT shaft internal corrosion in PW100 series engines which had developed undetected between scheduled overhauls, also at the operator of the aircraft under investigation. These engines had been similarly exposed to a low level marine operating environment and the corrosion found had been similarly assessed as a result of this with all three cases considered to collectively demonstrate that “the existing protective coating and maintenance requirements were not sufficient to prevent progression to corrosion-related fatigue fracture”. It was considered that since the same PF shaft is fitted to all PW100 series engines and that “there are other PW100 series operators conducting maritime surveillance activities” it was considered that the risk of similar failures extended beyond both the aircraft operator and aircraft type in the current investigation. It was concluded that “the circumstances of this occurrence illustrate the importance of specific guidance and criteria on how to assess corrosion” which would also have provided the OEM with awareness of engines in the global fleet that are most at risk of sudden failure due to this cause.
+Three Contributing Factors, one of which was defined as a ‘Safety Issue’, were identified as follows:
+
+The power turbine shaft of the aircraft’s right engine fractured due to fatigue cracking, resulting in secondary damage and engine failure.
+The fatigue cracking in the engine’s power turbine shaft had initiated from corrosion pitting, which probably resulted from prolonged low-altitude operation in a marine environment.
+The power turbine shaft in Pratt & Whitney Canada PW100 series engines operating in certain marine environments is susceptible to corrosion pitting, which can grow undetected between scheduled inspections. This increases the risk of shaft fracture resulting in engine failure. [Safety Issue: AO-2019-060-SI-01]
+
+One Safety Recommendation was made as a result of the Investigation as follows:
+
+that Pratt and Whitney Canada takes safety action to address the risk of corrosion-related fracture of the power turbine shaft in its PW100 series engines. [AO-2019-060-SR-43]
+
+On the basis of the findings of the Investigation, the ATSB formally documented a Safety Message as follows:
+The corrosion-related fracture of the power turbine shaft of the aircraft’s engine in this occurrence highlights that corrosion pitting that exceeds repair limits on safety-critical components should be a warning sign to manufacturers, maintainers, and operators that the existing maintenance strategy may not be effective. Additionally, manufacturers should provide guidance and criteria to maintenance organisations for assessing and reporting corrosion on safety-critical components. This enables identification of whether the maintenance strategy is effective or if changes are required to reduce the risk of in-service failures.
+The Final Report was released on 10 March 2021.
+Related Articles
+
+Uncontained Engine Failure
+Ageing Aircraft - Structural Failure
+Continuing Airworthiness

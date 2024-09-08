@@ -1,0 +1,358 @@
+CRJX, Nantes France, 2021
+
+
+
+
+
+
+
+
+
+
+
+  CRJX, Nantes France, 2021
+
+
+
+
+
+
+
+
+
+Summary
+
+On 20 October 2021, the flight crew of a Bombardier CRJ1000 making a LNAV/VNAV approach at Nantes using Baro-VNAV minima read back an incorrect QNH which was not noticed by the controller. The crew then flew the approach approximately 530 feet below the procedure vertical profile which led to the MSAW system being activated and advised to the flight. The crew response was delayed until the controller had twice repeated the correct QNH after which the error was recognised and the vertical profile corrected. The investigation noted that neither the operator’s procedures nor aircraft instruments allowed straightforward crew detection of their error.
+
+
+
+
+Event Details
+
+When
+
+20/10/2021
+
+
+
+Event Type
+
+
+AGC,
+              CFIT,
+              HF
+
+
+
+
+Day/Night
+
+Night
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOMBARDIER Regional Jet CRJ-1000
+
+
+
+
+
+
+
+
+
+Operator
+
+HOP!
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Lyon/Saint-Exupery
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Nantes/Atlantique
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Descent
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+LFRS
+
+
+
+
+General
+
+Tag(s)
+
+
+              Altimeter Setting Error,
+              CVR overwritten
+          
+
+
+
+
+AGC
+
+Tag(s)
+
+
+              Incorrect Readback missed,
+              Phraseology
+          
+
+
+
+
+CFIT
+
+Tag(s)
+
+
+              Vertical navigation error
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Distraction,
+              Ineffective Monitoring - SIC as PF,
+              Pressure altimeter setting error,
+              Pilot Startle Response
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+Air Traffic Management
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Air Traffic Management
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 20 October 2021, the flight crew of a Bombardier CRJ1000 (F-HMLD) being operated by Air France subsidiary ‘ HOP!’ on a scheduled domestic passenger flight from Lyon Saint-Exupéry to Nantes as AF33CW set an incorrect QNH before flying an RNP approach at destination in night VMC over 500 feet below the correct vertical profile. This continued until, after being advised of an MSAW activation, the crew eventually initiated correct action just above MDA and regained the correct profile 1.7nm from the runway threshold.
+Investigation
+An Investigation was carried out by the French Civil Aviation Accident Investigation Agency, the BEA, using relevant QAR data but relevant CVR data were not preserved and were no longer available by the time the BEA was informed of the occurrence. Recorded ATC data was available and showed that during the period that the flight was making its initial approach, the QNH was not passed to any other aircraft. Unusually for such an occurrence, the flying experience of the two pilots was not documented. All ATC communications were conducted in French with reference to them here given in translation.
+What Happened
+Both pilots were making their second trip of the day from Lyon to Nantes and the approach weather conditions were similar to the earlier one - a strong and gusting constant mean direction surface wind and an overcast at 2,300 feet aal with good visibility - but this time with heavy showers now in the area. However, it was no longer daylight.
+During descent, the flight had been cleared by Nantes APP to establish on the RNP approach procedure for runway 21 and to descend to 3000 feet on 1002 but the PM Captain read this back incorrectly as descend to 3,000 feet, 1021 and the controller did not detect the read-back error and the altimeter subscales were set to the incorrect value. The crew were flying the approach using the VNAV/LNAV minimum applicable to Baro-VNAV which gave a 530 feet MDA (the runway threshold is at 50 feet). 
+Eight minutes later, the flight was transferred to TWR (see position 1 on the illustration below) having passed the final approach fix (FAF) and immediately cleared to land and given a spot wind of 200°/30 knots gusting up to 40 knots. On asking if there had been any windshear reports, the Captain was advised by the controller that there had not and responded by “informing her of substantial wind variations between 3,000 and 2,000 feet”.
+Almost two minutes later, as the aircraft descended through 788 feet QNH (position 2) indicated as 1,300 feet on the aircraft due to the incorrect altimeter settings, the controller’s MSAW was activated as the aircraft entered an area where the MOCA is 770 feet. The controller advised this to the crew and advised them to check their altitude. The Captain responded by querying if the call was for them as they were passing 1,200 feet in 1021 and almost simultaneously made a nose-up pitch input (position 3) which decreased the rate of descent. The controller immediately responded by repeating that she had a terrain alert for their flight and repeating the request to check their altitude and the Captain responded that they were checking it. After no further crew response, the controller gave the QNH and after no response repeated this. At the second call, the crew reset their altimeter subscale and began correcting their flightpath (position 4). The MSAW activation ceased after a further 20 seconds and after 12 more seconds, the aircraft established for the first time on the procedure vertical profile at 1.7nm from the runway threshold. The crew then continued to the runway using visual reference aided by the PAPI, which was seen once on the correct profile, and a normal landing followed. 
+
+The vertical profile of the approach as flown (green) and as displayed to the crew (red). [Reproduced from the Official Report]
+In respect of the MOCA, it was noted that the approach to runway 21 is over the city of Nantes and that whilst the terrain below is relatively flat, some tall buildings determine the procedure vertical profile and applicable minimum altitudes. The RNP approach (see the extract from the ‘LIDO’ procedure chart provided to the crew by the operator below) shows the 288 feet high obstruction to the left of the offset approach track (13°) which was used to define the 530 feet MDA. The same chart’s vertical profile (see the second illustration below) shows the procedure descent beginning at the FAF at 3000 feet and 8.7nm from the runway threshold - a 3.1° slope angle - and two ‘Step Down Fixes’ (SDF), one at 1,460 feet QNH 4 nm out and a second at 1,020 feet QNH 2.7 nm out. It also shows an instruction to report passing the first SDF to ATC which did not occur. Had this call been made, it might have served to alert ATC to the crew’s QNH error ahead of the MSAW. 
+
+An extract from the runway 21 RNP approach chart. [Reproduced from the Official Report]
+
+The procedure vertical profile as charted. [Reproduced from the official Report]
+The Air Traffic Control Context
+Whilst the APP control area could be divided into sub sectors if traffic required this, at the time, traffic was light and a single radar controller was in position assisted by a ‘controller coordinator’. The TWR controller was responsible for the CTR (control zone) and, since runway 21 was in use, also for the non-CTR portion of the final approach airspace. This controller was working without an assistant due to the low traffic level. These two controllers were next to each other. 
+It was noted that applicable EU regulations required that whilst ATC must provide crews with QNH when giving the first clearance to descend to an altitude below Transition level, it was not necessary to repeat it if the controller “knows that this information has already been given to the crew in a transmission directly addressed to them”. However, whilst the regulations, written in English, specify that an altimeter setting shall be transmitted “by pronouncing each digit separately”, the transposition of this rule into French states that “a number can be transmitted as it is said in everyday life or as a sequence of numbers".  
+The applicable EU regulations stated that “preventing collisions between aircraft and obstacles outside the manoeuvring area does not fall within the remit of the air traffic control (and that) it is the pilot’s responsibility to ensure that the clearances issued by the air traffic control unit do not compromise safety in this respect”. However, it was concluded that whilst flight path monitoring by air traffic controllers is not a legal obligation, "it can be considered good practice”.
+A radar display was available at both the APP and TWR positions and by default displays the pressure altitude of targets but can be easily switched to temporarily display QNH altitude as required. It was verified that “the standard pressure altitude value displayed on the radar screen for the aircraft involved during the intermediate approach level-off was 028 (2,800 feet / QNH 1021) whereas it should have been 033 (3,300 feet) if the correct QNH value had actually been used on board the aircraft and the published flightpath correctly followed”. It was noted that an MSAW system generates alerts using the detected pressure altitude sent by the aircraft systems, the QNH value being use by ATC and a database of terrain and obstacles in the area covered with an alert being activated when the extrapolated position of an aircraft penetrates a 300 feet buffer zone above terrain or an obstacle. It was noted during the course of the Investigation that only 14 airports in metropolitan France were equipped with MSAW systems.
+The Flight Crew Context
+The Hop! OM Part ‘A’ was found to require that the SBY altimeter be reset to QNH passing FL100 and the two main altimeters reset when the flight receives clearance to an altitude or at the latest at the Transition Level. It was also found to specify that when switching from the standard setting to QNH, “the consistency of the QNH communicated by the ATC must be validated using another source (ATIS, METAR, flight file, ACARS, etc.)”. This Manual also included a reminder that during a Baro-VNAV approach, altimetry sub-scale errors cannot be detected by cross-checking the altimeter indication with the values indicated on the approach chart and stated unequivocally that “minimum altitudes at SDFs must be called out and adhered to”. 
+The only flight deck information that could have enabled the crew to detect their incorrect QNH error was the radio altimeter reading which was abnormally low compared to the procedure altitudes taking account the altitude of the terrain being overflown. It was found that a check of this type “was not clearly defined” by the HOP! SOPs.
+The Captain accepted that in accordance with the applicable company SOPs, the required response to advice of an MSAW alert was the same as for an EGPWS ‘PULL UP’ warning but had judged that as they were in VMC and aware of their position following the controllers repetition of the correct QNH (and could see adverse weather (a heavy shower) was approaching the airport) “it was therefore more judicious to continue and land". He added that “if they had been in IMC, he would have followed the GPWS procedure”.
+Aircraft/ATC Voice Communication
+Read-back/hear-back errors were recognised by the Investigation as a longstanding problem which includes both incorrect QNH transmission by controllers unrecognised by pilots and incorrect pilot readback of QNH going unchallenged by controllers. It was considered that the investigated event had evidenced:
+
+a read-back error by the PM due to transposing/repeating a digit contained in the message received, which may be related to workload or distraction effects;
+a failure by the PF to detect this error, which is probably also related to similar effects;
+the absence of verification and correction of the read-back error by the controller, which was probably related to a distraction effect or to him focusing on preparing the resolution of a developing conflict involving other aircraft.
+
+The Situation without MSAW
+Given that the MSAW alert was what led to correction of the flight path, the Investigation conducted a simulation on the assumption that the crew continued the approach on a path corresponding to the erroneous altimeter setting assuming forward visibility which would have prevented the crew from seeing the runway before reaching the MDA. This showed that an EGPWS warning would most likely have been generated at around 1.6 nm from the runway 21 threshold at approximately 110 feet agl.
+Altimeter Setting Error Detection
+At the time of the investigated event, the Honeywell EGPWS was available new or by retrofit with a facility to link geometric altitude (GPS-based) to the EGPWS terrain database to provide aural and, optionally, visual messages that will alert a crew to, for example, a probably incorrect altimeter setting below the Transition Altitude. Although an EGPWS capable of hosting this option was installed on aircraft, the CRJ1000 aircraft type was not certified for this option. However, Honeywell performed a study which showed that had this option been installed, “it would have triggered a warning approximately 30 seconds after the aircraft passed the Transition Altitude of 5,000 ft in descent”. This warning would have consisted of an ‘ALTIMETER SETTING’ callout which would have been repeated eight seconds later and this could also have been accompanied by ‘ALTM SETTING’ message on the ND terrain display. 
+Similar Event currently under investigation
+The BEA are continuing their Investigation into another event of the same type - use of an incorrect QNH for a Baro-VNAV RNP approach - which came very much closer to a CFIT accident for reasons which have yet to be determined. This involved an Airbus A320 at Paris CDG in May 2022 and in this case, the incorrect QNH was given by the controller and then not detected by the pilots.    
+Eight potential Contributory Factors which may have contributed to particular aspects of the investigated event were identified as follows:
+The Altimeter Setting Error:
+
+a high workload and the pilots being excessively focused on the weather conditions associated with the ongoing storm, to the detriment of the application of the standard procedure, which included checking the consistency of the QNH value provided by the ATC against another source of information;
+the APP controller being distracted due to an imminent conflict in another sector of his area of responsibility for which he was preparing the resolution. As a consequence, the controller did not identify that the crew incorrectly read back the altimeter setting.
+
+Non-Detection of the Erroneous Flight Path:
+
+the inherent limitations of the Baro-VNAV function in the event of an altimeter setting error;
+the absence of appropriate safety measures in such situations - in particular, the ‘consistency check’ procedure based on the radio altimeter value appears to be ineffective given the operational context at this point of the flight;
+the controller’s radar display using the standard altimeter reference to indicate the aircraft altitudes.
+
+The delayed reaction following advice of the MSAW activation:
+
+the QNH not being mentioned when the controller conveyed the warning;
+the word “immediately” not being used in the controller’s warning message;
+the surprise effect experienced by the crew.
+
+Corresponding Safety Lessons were detailed in respect of each contributing factor group and, in summary, were as follows:
+The Altimeter Setting Error
+All measures aimed at avoiding this error are fallible - all of them can become less effective when there are one or more disruptive factors, such as distraction or focus on another matter perceived as demanding priority attention. EGPWS and MSAW which are often the last barrier, also have their limits - for example in this instance, the time needed to understand and react to the MSAW was excessive and close to the maximum reaction time on which the MSAW system is predicated. However, an additional on board or ground-based monitoring process which would detect terrain proximity independent before it becomes a significant risk factor would provide a defence against the sort of altimeter setting error which occurred onboard the investigated flight. Linking the terrain database of an EGPWS to geometric (GPS) altitude is one way an airborne safety net can be provided and controller alerting ahead of an MSAW activation can be provided by detecting an altimeter setting which indicates flight at a lower altitude than that specified as developed by UK ANSP NATS for use around London Heathrow. The Investigation considered that such alerting “seems all the more important in light of the vulnerability of baro-VNAV approaches to altimeter setting” and the fact that only relatively few French airports have an MSAW system installed. 
+Altimeter setting procedure
+Normal procedures for altimeter sub-scale re-setting do not enable an error in the QNH but a review of the procedures for different aircraft types showed that the validating a QNH value by independent cross check “is not described in detail in manufacturers’ procedures”. It was recognised that this may be justified on the basis that such validation is not directly related to the use of the aircraft and may reasonably be considered as a standard practice taught to pilots as part of their basic training. However, actual flight crew practices show that often there is no comparison of a QNH used against a value provided by another information source such as ATIS, ACARS and flight preparation documents. The diverse reasons for this absence of validation of a QNH value were not thoroughly analysed as part of this Investigation. 
+Crew reaction to advice of an MSAW annunciation
+There is no established universal procedure for crews when advised of an MSAW annunciation caused by their flight which means such advice requires analysis of what may be missing or even erroneous information yet such warnings occur in terrain proximity situations where a rapid decision is required. Some operators define a procedure for their crews in their OM - the operator in the investigated event was noted to “ask its crews to equate advice of a MSAW with a TAWS warning and in particular with the EGPWS ‘PULL-UP’ Warning”.
+A total of Four Safety Recommendations were made as follows:
+
+that the DSNA (the French ANSP) ensure without waiting for other actions expected from EASA and ICAO, ensure that all documents relating to phraseology and MSAW procedures are updated so that:
+
+the urgency of the situation is systematically mentioned
+the crew is systematically reminded of the QNH in the controller’s message in the event of an MSAW. [FRAN 2023-007]
+
+
+that the European Union Aviation Safety Agency (EASA) without waiting for the ICAO documents to be updated, develop Guidance Material (GM) designed to clarify in the SERA regulation, the phraseology to be used by controllers to inform crews of an MSAW and ensure that the SERA is updated so that the urgency of the situation is systematically mentioned and the crew is systematically reminded of the QNH in the controller’s message in the event of an MSAW. [FRAN 2023-008]
+that the European Union Safety Agency (EASA) initiate international actions in conjunction with ICAO to resolve inconsistencies and ambiguities in Doc 4444 and Doc 9432, so that they systematically specify that the urgency of the situation and the QNH information is mentioned and move towards simple and unified phraseology, if possible. [FRAN 2023-009]
+that the ICAO ensure that the inconsistencies between MSAW procedures and phraseology contained in Doc 4444 and Doc 9432 are removed and ensure that these documents are updated so that the urgency of the situation is systematically mentioned and the crew is systematically reminded of the QNH in the controller’s message in the event of an MSAW. [FRAN 2023-010]
+
+The Final Report was published simultaneously in both the definitive French language and in English translation on 31 March 2023. 
+Related Articles
+
+Controlled Flight Into Terrain (CFIT)
+Altimeter Setting Procedures
+Altimeter
+Required Navigation Performance (RNP)
+Minimum Safe Altitude Warning (MSAW)
+Read-back or Hear-back
+Minimum Descent Altitude/Height (MDA/MDH)
+Minimum Obstacle Clearance Altitude (MOCA)
+A320, vicinity Paris CDG France, 2022

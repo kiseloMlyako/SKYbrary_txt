@@ -1,0 +1,191 @@
+North Atlantic Operations - ATC Clearance
+
+
+
+
+
+
+
+
+
+
+
+  North Atlantic Operations - ATC Clearance
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+The airspace of the North Atlantic (NAT), which links Europe and North America, is the busiest oceanic airspace in the world. In 2012 approximately 460,000 flights crossed the North Atlantic and that volume of traffic continues to increase. Direct Controller Pilot Communications (DCPC) and ATS Surveillance are unavailable in most parts of the NAT Region. Aircraft separation, and hence safety, are ensured by demanding the highest standards of horizontal and vertical navigation performance/accuracy and of operating discipline.
+This article is intended to provide an overview of the elements of, and the process of obtaining and confirming, an Oceanic Clearance for the NAT region.
+General
+Oceanic Clearances are required for all flights within NAT controlled Airspace (at or above FL60). Pilots should request Oceanic Clearances from the ATC unit responsible for the first OCA within which they wish to operate, following the procedures and the time-frame specified in the appropriate AIPs.
+Oceanic clearances, although in most cases obtained some time before reaching the Oceanic entry point (OEP), are applicable only from the OEP and do not give the aircraft clearance to change route, climb or descend while in domestic airspace. A separate clearance from the domestic controller will be required prior to making any such changes prior to the Oceanic entry point. Therefore, if the entry point of the oceanic route on which the flight is cleared differs from that originally requested and/or the oceanic flight level differs from the current flight level, the pilot is responsible for requesting and obtaining the necessary domestic re-clearance to ensure that the flight is in compliance with its Oceanic Clearance when entering oceanic airspace. A similar situation may exist at the oceanic exit point should the cleared route differ from the planned route. In this case, the crew must ensure that, approaching the oceanic exit point, they obtain any necessary revised clearance for their domestic route.
+Given the volume of traffic in the NAT region, it is important that the Oceanic Control Area (OAC) planners make every effort to optimise airspace utilisation. To assist in that process, when requesting an oceanic clearance, the pilot should notify the OAC of the maximum acceptable flight level possible at the boundary, taking into account that a climb to the assigned oceanic flight level must be achieved prior to entering oceanic airspace. The pilot should also notify the OAC of any required change(s) to their filed oceanic flight planned level, track or Mach Number as early as practicable after departure. If requesting an OTS track, the clearance request should include the next preferred alternative track.
+If pilots have not received their Oceanic Clearance prior to reaching the Shanwick OCA boundary, they must contact Domestic ATC and request instructions to enable them to remain clear of Oceanic Airspace whilst awaiting such Clearance. This is not the case for other NAT OCAs into any of which flights may enter whilst pilots are awaiting receipt of a delayed Oceanic Clearance. Pilots should always endeavour to obtain Oceanic Clearance prior to entering these other NAT OCAs; however if any difficulty is encountered the pilot should not hold while awaiting Clearance unless so directed by ATC. In such circumstances, pending receipt of the Oceanic Clearance, the aircraft should continue to maintain the flight level cleared by the current control authority.
+Obtaining a Clearance
+It is recommended that pilots request their Oceanic Clearance at least 40 minutes prior to the Oceanic entry point ETA except when entering the Reykjavik area from the Scottish or Stavanger areas in which case the clearance should be requested 20 minutes before the Oceanic entry point ETA.
+Specific information on how to obtain oceanic clearance from each NAT OAC is published in State AIPs. Various methods of obtaining Oceanic Clearances include:
+
+use of published VHF clearance delivery frequencies. In many cases, specific clearance delivery frequencies will be specified in the AIP, on the appropriate high level charts, or on the Organised Track System (OTS) NAT Track Message
+by HF communications to the OAC through the appropriate station
+a request via domestic or other ATC agencies
+by data link, when arrangements have been made with designated airlines to request and receive clearances using on-board data link (ACARS) equipment. Gander, Shanwick, Santa Maria and Reykjavik OACs have such capability and the relevant operational procedures are published both in national AIS and as NAT OPS Bulletins. New York OAC uses the FANS 1/A CPDLC function to uplink oceanic clearances to all aircraft utilising CPDLC.
+
+An example of an inflight voice request for oceanic clearance on the Shanwick delivery frequency is as follows:
+Shanwick, KLM 467 estimating LIMRI at 1235z request mach .81, FL360, able FL380. Second choice Track Echo.
+At airports situated close to oceanic boundaries or within the NAT Region, it may be necessary to obtain the Oceanic Clearance before departure. These procedures are detailed in relevant State AIPs. On the east side of the NAT, this will apply to departures from all Irish airfields, all UK airfields west of 2° 30'W and all French Airfields west of zero degrees longitude. Aircraft departing from Canadian airfields such as Goose Bay, Deer Lake, Gander and St. Johns must also obtain their Oceanic Clearance prior to departure. Oceanic Clearances are issued by the relevant ATS unit or on specified oceanic delivery frequencies. The clearance request will include an estimate for the OEP expressed in terms of Takeoff + xx minutes as well as altitude and speed. Note that the aircraft must be capable of entering Oceanic airspace at both the level and speed assigned by the ATC clearance.
+Content of Clearances
+There are three elements to an Oceanic Clearance: Route, Speed and Level. These three items serve to provide for the three basic criteria of separation: lateral, longitudinal and vertical. The clearance format is dependant upon whether the aircraft is flying on an Organised Track or following a random route.
+Organised Track
+Air Traffic Services will issue an abbreviated clearance when clearing an aircraft to fly along the entire length of an Organised Track. An abbreviated clearance will include:
+
+a clearance limit, normally the destination airfield
+the cleared track specified as “Track” plus code letter
+the cleared flight level
+the cleared Mach Number
+
+An example of a typical abbreviated clearance is as follows:
+“ACA865 is cleared to Toronto via Track Bravo, from PIKIL maintain Flight Level three five zero, Mach decimal eight zero”
+Random Route
+In general, for aircraft cleared via a random route in NAT airspace, Air Traffic Services will issue:
+
+a clearance limit
+a full route clearance from the oceanic entry point to the oceanic exit point
+the cleared flight level
+the cleared Mach number
+
+A typical random route clearance is as follows:
+"KLM456 is cleared to Boston via DOGAL 54N20W 54N30W 53N40W 52N50W 51N60W ALLRY, from DOGAL maintain Flight Level three six zero, Mach decimal eight two"
+Both Gander and Reykjavik OACs may, however, issue clearances for random routings which specify “via flight plan route” instead of providing the entry point, the route coordinates and the exit point.
+Clearance Readback
+An abbreviated clearance for an organised track can be confirmed using an abbreviated readback which contains the Track Message Identification (TMI) number for the current NAT Track Message. The abbreviated OTS track clearance from the previous section could be acknowledged as follows:
+“ACA865 is cleared to Toronto via Track Bravo 123A, from PIKIL maintain Flight Level three five zero, Mach decimal eight zero”
+or
+“ACA865 is cleared to Toronto via Track Bravo, from PIKIL maintain Flight Level three five zero, Mach decimal eight zero, TMI 123A”
+If the TMI is not available or incorrect, Air Traffic Services will issue a full route clearance and will require a full readback.
+For random route traffic, a full route readback is required in all cases, even when ATS has cleared the aircraft via "flight planned route".
+"ATC clears KLM456 to Boston via DOGAL 54N20W 54N30W 53N40W 52N50W 51N60W ALLRY, from DOGAL maintain Flight Level three six zero, Mach decimal eight two"
+Errors Associated with Oceanic Clearances
+Navigation errors associated with Oceanic Clearances fall into several categories. The most significant of these categories are ATC System Loop errors and Waypoint Insertion errors.
+ATC System Loop Errors
+An ATC system loop error is any error caused by a misunderstanding between the pilot and the controller with respect to the route, the assigned flight level or the assigned Mach Number. Theses errors can result from:
+
+incorrect interpretation of the NAT Track Message by dispatchers
+errors in co-ordination between OACs
+misinterpretation by pilots of Oceanic Clearances or re-clearances
+
+Errors of this nature are likely to be detected by ATC from pilot position reports and will normally be corrected. However, timely ATC intervention cannot always be assured, especially when transmission of position reports is dependant on the use of third-party relayed communications.
+Waypoint Insertion Errors
+Many of the track-keeping errors that occur in the NAT HLA airspace are as a result of crews programming the navigation system(s) with incorrect waypoint data. These are referred to as Waypoint Insertion Errors. Waypoint Insertion Errors frequently originate from:
+
+failure to check the waypoints inserted in the navigation systems against the ATC cleared route
+failure to load waypoint information carefully
+failure to cross-check on-board navigation systems
+
+As per a recurring statement in the remarks section of the NAT Track Message, OPERATORS ARE REMINDED THAT THE CLEARANCE MAY DIFFER FROM YOUR FLIGHT PLAN, FLY YOUR CLEARANCE. Insertion, into the FMS, of the flight plan track coordinates when they do not correspond to the cleared track coordinates will result in a Gross Navigation Error (GNE).
+Related Articles
+
+North Atlantic Operations - Airspace
+North Atlantic Operations - Organised Track System
+North Atlantic Operations - Contingency
+North Atlantic Operations - Flight Planning
+Reduced Lateral Separation Minimum (RLatSM)
+Strategic Lateral Offset
+
+Further Reading
+ICAO
+
+NAT Doc 007 - North Atlantic Operations and Airspace Manual
+NAT Ops Bulletin 2017-002_Revision 05 - OESB – Oceanic Errors
+ICAO 2015 Annual Safety Report: NAT Region, 2016
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

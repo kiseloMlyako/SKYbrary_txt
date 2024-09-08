@@ -1,0 +1,170 @@
+Rejected Take Off: ATC Considerations
+
+
+
+
+
+
+
+
+
+
+
+  Rejected Take Off: ATC Considerations
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Runway Excursion 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+This article describes typical reasons for high speed rejected take-off events associated with inappropriate ATC instructions and identifies a number of potential mitigation actions to be implemented by ATCOs. It further provides an overview of the factors to be considered before issuing an instruction to reject take-off and identifies best defensive controlling techniques and practices.
+There is no set of ready out-of-the-box rules to be followed universally. The controllers should exercise their best judgment when dealing with rejected take-offs. The examples and advice provided in this article are not intended to be exhaustive and shall not have prejudice to local ATC procedures.
+Description
+The take-off phase of each flight is critical as the error-tolerance margin becomes very slim as the aircraft approaches the calculated take-off decision speed (V1). Normally, a rejected take-off (RTO) will be successful if initiated prior to reaching V1 and properly executed. Beyond V1, a RTO should only be considered should there be a strong reason to doubt the aircraft’s ability to fly.
+Any ATC instruction to reject take-off issued after reaching V1 is likely to be considered as inappropriate. It is impossible for the controllers to assess when the aircraft is at or near that speed, therefore any instructions to reject take-off are most effective when they are issued during the early stage of the take off run.
+Typical reasons for issuing an instruction to reject take-off
+Some of the most common reasons that have led controllers to issue a RTO instruction include, but are not limited to:
+
+Observed runway incursion or an obstacle on the runway;
+Observed fire/smoke from the aircraft;
+Observed burst tyre(s);
+The crew mis-identifies the runway and begins a take-off roll from wrong runway or taxiway.
+
+Factors for controllers to consider
+
+Cockpit workload is very high during take-off. Distracting pilots after issuing a take-off clearance is generally considered unsafe.
+The controller does not know the value of V1 for each flight, as it depends on a number of factors (e.g. aircraft type and weight, flap setting, pressure altitude, runway condition, air temperature, etc).
+Usually pilots have better situational awareness of whether or not the aircraft is unsafe to fly. They also might have better situational awareness in case of a runway incursion.
+The crew may choose not to comply with an instruction to abort the take-off. This should be considered with respect to the safety of other traffic.
+The crew might elect to execute an early rotation during the take-off roll, risking a tail strike, in order to avoid an obstacle on the runway, e.g.: B742 / B744, Chicago O'Hare IL USA, 1999.
+The speed up to which a takeoff should be rejected for all observed failures, varies between 70-100 kt with a typical value of 80 kt or 100 kt.
+A rejected takeoff (RTO) above 80 kt (100 kt in some aircraft types) is considered high-speed RTO.
+In general, high speed rejected take-offs should only occur in response to a major malfunction. In the high speed regime prior to V1, pilots will reject for any engine failure, any fire indication or any other circumstance recommended by the aircraft manufacturer. A system malfunction is, on many types, not sufficient reason for a high speed reject and the failure warning may even be inhibited from above a specific speed until after the aircraft is safely airborne to avoid unnecessary distraction.
+According to “Rejecting a take-off after V1, why does it still happen?” (See Further Reading) about 50% of the pilot decisions for high speed rejected take-offs have been considered incorrect after investigation completion.
+According to “Rejecting a take-off after V1, why does it still happen?” a rejected take-off initiated after V1 is very likely to result in a runway excursion. Analysis of such occurences shows that in 90% of these cases, the aircraft could not be stopped on the runway.
+In case of runway incursion the aircraft may collide with the obstacle regardless of whether the take-off has been aborted or continued.
+Controllers should normally consider continuation of the take off run preferable to issuance of instruction for RTO at high speed, even when executed from wrong runway (or from taxiway). In this case, however, an informed certainty must exist that the take off will be successful and there are no hazards along the runway/taxiway.
+
+Defences
+
+There is no strict set of rules - controllers should use their best judgement based on their experience and prevailing circumstances.
+Controllers should maintain high situational awareness and be prepared to use the most appropriate RTF when in doubt that an instruction to cancel the take-off would be effective.
+In general, an instruction to abort a take-off should only be issued if circumstances exist such that continuing the take-off run will result in an accident (e.g. if there is an aircraft or a vehicle on the runway).
+Controllers should communicate the most accurate information regarding the location and nature of a runway obstruction.
+In the case of an observed aircraft malfunction, such as a burst tyre or fire/smoke, it is preferable to inform the crew of the problem and wait for their decision.
+Unnecessary communication should be avoided. If in doubt about pilots’ decision it is better not to harass the crew with information requests. Ensuring the safety of the other traffic considering both cases (rejected and continued take-off) is preferable.
+Adherence to local SOPs and checklists will allow controllers to react quickly and appropriately.
+Deployment of safety nets to mitigate the risk of runway incursion (such as A-SMGCS) to protect runways and designated areas is recommended.
+
+Related Articles
+
+Rejected Take Off
+Rejected Takeoff (OGHFA SE)
+Runway Excursion
+Aircraft Performance
+Decision Making
+
+Further Reading
+FAA
+
+Pilot guide to take-off safety
+
+Airbus Flight Operations Briefing Notes
+
+Revisiting the stop or go decision Revisiting the stop or go decision
+Understanding take off speeds
+
+Others
+
+Rejecting a take-off after V1, why does it still happen?, NLR Report, March 2010
+
+
+
+
+
+Categories
+
+
+Runway Excursion,
+              Overrun on Take Off,
+              Veer Off
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

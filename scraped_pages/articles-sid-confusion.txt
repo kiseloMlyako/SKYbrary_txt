@@ -1,0 +1,120 @@
+SID Confusion
+
+
+
+
+
+
+
+
+
+
+
+  SID Confusion
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Alert
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Information from ATC The Netherlands
+
+At Schiphol Airport (EHAM) we have identified a steady number of cases where flight crews execute different SIDs from the one given to them by ATC and acknowledged by the crew. We even had cases where the correct SID was provided to the crew by data link and where the correct SID was mentioned again by the TWR controller when clearing the a/c for take off, after which the crew read back the correct SID with the take off clearance, and still they flew a different (and incorrect) SID when airborne.
+At LVNL/ATC The Netherlands we have a strong suspicion that an underlying cause for this type of error can be found in the fact that many operators provide their crews with "ready made" operational flight plans before the start of the trip, in which the dispatchers have made assumptions about the runway in use and the corresponding departure route. If crews try to be as efficient as possible in managing their workload it may happen that Flight Management System inputs/preparations are done based on the company flight plan BEFORE the actual ATC route clearance (including the SID) is obtained. After obtaining that clearance the crew for whatever reason subsequently omit to change the setup of the FMS, and the result is that the a/c follows an incorrect SID when airborne.
+To date this problem has not resulted in any dangerous situations, although there have been several cases where ATC had to intervene (by issuing heading and/or level off instructions to other aircraft in the vicinity) in order to maintain separation standards. The potential for a situation where safety is compromised is very real however.
+
+A Trial was Held
+For one particular set of SIDs (from one particular runway) that often seems to be interchanged at Schiphol Airport, a trial was held by one of the major operators at the airport in which the mentioning of a specific SID in the ready made flight plan was replaced by the words "check SID". This trial was considered a success, for after this modification there have been zero cases with this airline where the particular mistake occurred. Other airlines sometimes deviate from cleared SID.
+Support Requested
+Readers were requested to share their national and company experiences and to suggest a joint approach to resolve the problem.
+Responses
+The responses received may be viewed here.
+Disclaimer
+© European Organisation for Safety of Air Navigation (EUROCONTROL) January 2008. This alert is published by EUROCONTROL for information purposes. It may be copied in whole or in part, provided that EUROCONTROL is mentioned as the source and to the extent justified by the non-commercial use (not for sale). The information in this document may not be modified without prior written permission from EUROCONTROL. The use of the document is at the user’s sole risk and responsibility. EUROCONTROL expressly disclaim any and all warranties with respect to any content within the alert, express or implied.
+
+
+
+
+Categories
+
+
+Safety Alert,
+              Request for Support Message
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

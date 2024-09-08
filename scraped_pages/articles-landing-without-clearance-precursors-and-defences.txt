@@ -1,0 +1,224 @@
+Landing without Clearance – Precursors and Defences
+
+
+
+
+
+
+
+
+
+
+
+  Landing without Clearance – Precursors and Defences
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Runway Incursion 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+This article gives an in-depth description of the most common factors which may lead to landing without ATC clearance occurrences in line with identified patterns. It also summarizes the most effective barriers against such occurrences.
+ 
+
+Contributing Factors
+The factors listed below, either combined or on their own can “assist” the build-up of a situation where an aircraft (almost) lands without receiving a clearance.
+
+Aircraft not on the correct frequency – for various reasons pilots may remain on the approach frequency instead of switching to tower. Given the usual priority order “aviate-navigate-communicate” it is possible to neglect the “communicate” part, especially during high workload moments (as is the case with final approach). In such situations the tower controller is usually unable to instruct the flight crew to go around if necessary.
+Lack of clearance discovered too late – sometimes pilots realize that they are about to land without a clearance. This usually happens too late (if they were aware of the lack of clearance in good time, they would either try to obtain it or prepare to commence a missed approach).
+High workload – the final approach is one of the busiest phases of the flight. With many things to do (especially in adverse weather conditions), it is possible that pilots forget to obtain a landing clearance. The tower controller, on the other hand, may also be too busy (or may be waiting for a call from the aircraft being unable to see it) and fail to issue the clearance (or a go-around instruction, as appropriate).
+Expectation bias – it is a part of human nature to believe something expected has already happened. Pilots, especially under high workload, may easily assume that, among the other things said and done, the landing clearance has been received.
+Failure to call as instructed – sometimes aircraft are transferred too early on the tower frequency. In such cases, especially at busy aerodromes, it is customary to instruct the pilots to call again later (e.g. 4 miles from touchdown, when overflying the outer marker or other radio aid, etc.) in order to obtain a landing clearance. The period of time may be long enough for the pilots to forget they had to make a call, especially given the higher workload situation.
+
+Consequences
+After the aircraft has descended below the decision altitude (or minimum descent altitude) and the flight crew has decided to land, there are two major subsets of following actions, neither of which can be considered safe enough:
+
+The flight crew may go ahead with the landing, causing a runway incursion.
+The flight crew (having just discovered the lack of a landing clearance) may opt to abort the landing (even after touchdown) and start a go-around. This course of action may worsen the situation, resulting in e.g. a tail strike or loss of separation event with another aircraft in the aerodrome traffic circuit.
+
+In either case, loss of control due to the startle factor, hesitation or over-compensation is possible. This, in turn, may lead to a runway excursion or even a CFIT event.
+Prevention Barriers
+Prevention barriers are intended to reduce or eliminate safety risks. Studies have shown that the following barriers have the greatest potential to prevent a landing without clearance:
+
+Alert to the pilot via ATC for lack of landing clearance, e.g. selection of visual alert.
+Automatic alert to the pilot for occupied runway (for example visual alert in the case of Final Approach Runway Status Signal type of Runway Status Lights).
+System supported detection by the ATCO of landing aircraft or of potential conflict for the landing aircraft (for example ASMGCS and RIMCAS).
+ATCO memory aid for issued (not issued) landing clearances (correct positioning of the flight information strips, use of electronic flight strips in order to distinguish issued/not issued landing clearance according to the local procedures).
+
+Mitigation Barriers
+Sometimes all prevention barriers are breached and the aircraft lands without a clearance, causing a runway incursion. In such cases, mitigation barriers may activate to prevent incidents. The most effective mitigation barriers are:
+
+ATCO prevents conflict after detecting it with system support before or with an intended RWY entry clearance.
+Runway conflict resolution by flight crew/vehicle driver after detecting the risk with system support. This is in fact an airborne safety net to help flight crew in identification and resolution of runway conflicts.
+Crew/driver prevents conflict after detecting it, based on traffic monitoring (listening to R/T or visually), before or with an intended RWY entry clearance. This barrier is relatively weak but offers the benefit of a “double” opportunity for conflict detection – visual and listening to the R/T.
+Runway conflict resolution by flight crew/driver after visual conflict detection. This barrier is relatively weak but offers the benefit of limited delay (no need of an ATC-crew communication loop) for crew action in case of conflict detection.
+
+Factors Affecting the Safety Barriers
+There are a number of safety barriers intended to reduce or mitigate the risk of landing without clearance. Their effectiveness often depends on the local circumstances (as is the case with most aerodrome-related topics). The most notable factors that affect the safety barriers are:
+
+Radar coverage – the level of ATC radar coverage may differ. Radar guided approaches affect likelihood for detecting an aircraft bound for landing and the existing situation of loss of communication when the transponder Mode A is set to squawk 7600.
+Meteorological conditions affect the possibility of detecting potential threats in good time. The in-flight visibility and time of the day may be such as to allow pilots to:
+
+Recognise potential threats in good time.
+Prevent the recognition of potential threats in good time.
+
+
+Also, the surface visibility/cloud base and time of the day may be such as to allow the controller to:
+
+Recognise potential threats in good time.
+Prevent the recognition of potential threats in good time.
+
+
+Runway status – runways can be in use or not for traffic purposes and there may or may not be obstructions. The runway statuses that can influence the efficiency of barriers for the different scenarios are:
+
+Active Runway;
+Inactive Runway;
+Closed Runway.
+
+
+Clearance conditions – variation in local procedures and practices for delivering a landing clearance. The way landing clearance is delivered at different airports may vary, including whether or not:
+
+Multiple landing clearances are used;
+Conditional landing clearances are issued;
+There are specified minimum distances from the runway threshold (or landed/departing traffic) by which a landing clearance must be issued.
+
+
+Physical visibility (visual surveillance capability from the TWR) - the view (direct or using CCTV) of the relevant part of the aerodrome and its vicinity from the ATC Tower may be restricted by:
+
+The location, height, design, equipment of the tower;
+The airport layout or obstructions;
+The temporary presence of aircraft or vehicles.
+
+
+
+SKYclip
+
+
+
+
+
+
+
+
+
+
+
+ Read more
+
+
+
+
+Landing without ATC Clearance (SKYclip)
+
+
+
+
+
+
+
+
+
+
+Related Articles
+
+Landing without ATC Clearance
+Preventing Landing without Clearance – Guidance for Controllers
+Runway Incursion
+Conditional Clearance Runway Incursions
+Runway Identification
+Runway Crossing Incursions
+Runway Incursion and Airport Design
+Risk Assessment of Incidents and ATM Specific Occurrences
+
+Further Reading
+
+Operational Safety Study: Landing without ATC clearance, by EUROCONTROL SISG
+
+
+
+
+
+Categories
+
+
+Runway Incursion,
+              Preventing Incorrect Presence on Runway
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

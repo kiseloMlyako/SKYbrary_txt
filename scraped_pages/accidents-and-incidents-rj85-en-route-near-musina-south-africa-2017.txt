@@ -1,0 +1,313 @@
+RJ85, en-route, near Musina South Africa, 2017
+
+
+
+
+
+
+
+
+
+
+
+  RJ85, en-route, near Musina South Africa, 2017
+
+
+
+
+
+
+
+
+
+Summary
+
+On 8 November 2017, an Avro RJ85 in cruise after just crossing into South African airspace from Zimbabwe suddenly experienced the apparently simultaneous failure of both left hand engines. After reviewing their situation, it was decided to continue to Johannesburg and this was achieved without further event. The Investigation found that the initiating failure was that of the number 2 (inner) engine which failed mechanically as a consequence of maintenance error but that this failure was uncontained and turbine debris from the number 2 hit the number 1 engine FADEC box and caused that engine to shut down too.
+
+
+
+
+Event Details
+
+When
+
+08/11/2017
+
+
+
+Event Type
+
+
+AW,
+              LOC
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BAE SYSTEMS AVRO RJ-85
+
+
+
+
+
+
+
+
+
+Operator
+
+Airlink
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Harare
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+O. R. Tambo International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Cruise
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+General
+
+Tag(s)
+
+
+              Copilot less than 500 hours on Type
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Loss of Engine Power
+          
+
+
+
+
+EPR
+
+Tag(s)
+
+
+              MAYDAY declaration
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Engine - General
+          
+
+
+
+Contributor(s)
+
+
+              Maintenance Error (valid guidance available),
+              Component Fault after installation,
+              Ejected Engine Failure Debris
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Aircraft damage
+
+Major
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Airworthiness
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 8 November 2017, an LF 507-1F engined Avro RJ85 (ZS-ASW) being operated by Airlink on a scheduled international passenger flight from Harare to Johannesburg as LNK103 was in the cruise at FL340 in day VMC when there was a sudden loud bang and a yaw to the right immediately afterwards. Flight deck indications showed that both left side engines (outer number 1 and inner number 2) had failed. The crew followed the prescribed procedures and a MAYDAY was declared to ATC. After assessing the situation it was decided to continue to destination and this was accomplished without further event and there were no injuries to any of the 38 occupants.
+
+The two damaged engines - number 2 (left) and number 1 (right)
+Investigation
+An Investigation was carried out by the South African CAA Accident and Incident Investigation Division (AIID). Relevant recorded flight data was available from both the SSFDR and the SSCVR.
+It was noted that the 36 year-old Captain had a total of 8,895 hours flying experience of which 7,035 hours were on type and the 29 year-old First Officer had a total of 4,157 hours flying experience of which just 81 hours were on type.
+What happened
+It was established that shortly after entering South African airspace at the border with Zimbabwe level at FL 340, there was a sudden loud bang and a yaw to the right which based on flight deck indications was immediately associated with the failure of both left hand side engines (the outer number 1 and inner number 2). The crew followed the prescribed procedures and a MAYDAY was declared to ATC. This prompted a review of emergency landing options in the surrounding area and the South African Air Force Base at Makhado (FAVM - see the route map below) was placed on precautionary standby.
+ 
+
+The aircraft ground track showing the location of the double engine failure. [Reproduced from the Official Report]
+Data from the CVR showed that crew had effectively focused on retaining full control of the aircraft and it was considered from the evidence that they had “demonstrated good airmanship as they worked together and focused on taking control of the aircraft during an emergency situation”. After stabilising the aircraft, talking to company maintenance control and “making a careful evaluation of the aircraft’s controllability and stability given the emergency conditions” the crew decided that the flight to the originally intended destination, which was about 240 nm away, should be completed and advised ATC accordingly.
+The cabin crew were kept fully informed by the flight crew and in turn they kept the passengers fully informed. Passenger reports stated that at the time of the failure “sparks had been observed coming from the number 2 engine exhaust” but there were no further signs of continuing distress from either of the failed engines and it was noted that both engine fire extinguishers had been discharged by the crew as a precaution during their initial response to the failures. The remainder of the flight was completed without further event and ATC allocated a dedicated en route radio frequency until passing the flight direct to the Johannesburg APP frequency.
+On arrival at Johannesburg, it was possible to confirm that damage to the aircraft had been limited to the two engines involved and to the number 1 engine pylon. It could be seen from the damage that the number 2 engine left-hand side casing had been ripped open by the fourth turbine wheel which was found embedded in the exhaust casing with its retaining nut in between the turbine disc and the exhaust ribs. All turbine blades on the wheel assembly had broken off and some had clearly been ejected towards the casing of the number 1 engine and penetrated it. It was subsequently found that some of this debris had damaged the number 1 engine FADEC box (which had shut the engine down) as well as other engine components and fuel, oil and hydraulic lines.
+The number 2 engine failure
+The four-module engine had been installed on the aircraft in 2013. The maintenance schedule was found to require that the fourth-stage turbine rotor disc assembly fitted to the LP turbine shaft in the combustor turbine module must be replaced after every 16,600 cycles. The AMM allows this task to be accomplished with the engine on wing. Maintenance records showed that this assembly had been replaced on 27 July 2017 with a fully serviceable overhauled unit.
+The number 2 engine was a “post SB ALF/LF 72-1030-configured” engine whereas it was found that the installation of the new assembly had inadvertently been made using the AMM procedure for “pre SB ALF/LF 72-1030-configured” engines. The significant difference between the two procedures was that the post mod installation procedure differed from the pre mod one in respect of the required dimension checks to ensure correct installation of the assembly. The potential indirect consequence of this was that the turbine rotor wheel slowly backed off the shaft due to the progressive slackening of its retaining nut and eventually separated from its LP turbine shaft assembly altogether, taking approximately 320 hours and 248 cycles in service to reach the point of separation. The two most likely explanations for the slackening of this retaining nut were considered to have been either “overspeed ring mis-stacking” or “improper torque application”.
+The Probable Cause of the investigated event was determined as “the number 2 engine LP turbine retaining nut becoming dislodged resulting in the fourth-stage turbine rotor disc disengaging from the LP turbine shaft and compromising the turbine casing (after which) turbine debris from the number 2 engine struck the number 1 engine, causing an un-commanded shutdown and resulting in the catastrophic failure of both these engines”.
+A Contributory Factor during prior maintenance was also identified as “either the incorrect application of torque settings or improper installation due to a possible mis-stacking of the over-speed ring”.
+One Safety Recommendation was made as a result of the Investigation as follows:
+
+that the Director for Civil Aviation (DCA) publish an advisory operator alert to ensure that the correct dimension check guidance is used during the on-wing fourth turbine rotor disc assembly maintenance procedure for post-SB ALF/LF 72-1030 engines as contained in the Engine Maintenance Manual (EMM) pending revisions to be made to the guidance in the AMM in this regard.
+
+The Final Report was completed on 13 February 2018 but preparation for release was not completed until 10 April 2019.
+Related Articles
+
+Uncontained Engine Failure
+Aircraft Maintenance
+Continuing Airworthiness
+Aircraft Maintenance Manual (AMM)
+Emergency or Abnormal Situation
+Decision Making

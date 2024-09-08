@@ -1,0 +1,323 @@
+E195, vicinity Salzburg Austria, 2017
+
+
+
+
+
+
+
+
+
+
+
+  E195, vicinity Salzburg Austria, 2017
+
+
+
+
+
+
+
+
+
+Summary
+
+On 27 October 2017, an Embraer E195-200 missed approach was attempted in response to a predictive windshear alert on short final at Salzburg without ensuring sufficient engine thrust was set and when a stall warning followed, the correct recovery procedure was not initiated until over a minute had elapsed. Thereafter, following two holds, an approach and landing was completed without further event. The operator did not report the event in a timely or complete manner and it was therefore not possible to identify it as a Serious Incident requiring an independent investigation until almost three months after it had occurred.
+
+
+
+
+Event Details
+
+When
+
+27/10/2017
+
+
+
+Event Type
+
+
+HF,
+              LOC,
+              WX
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+EMBRAER ERJ 190-200
+
+
+
+
+
+
+
+
+
+Operator
+
+Austrian Airlines
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Frankfurt am Main Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Salzburg
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Missed Approach
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+LOWS
+
+
+
+
+General
+
+Tag(s)
+
+
+              Copilot less than 500 hours on Type,
+              Event reporting non compliant,
+              HUD used by PF,
+              PIC less than 500 hours in Command on Type,
+              CVR overwritten,
+              Delayed Accident/Incident Reporting
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Inappropriate crew response - skills deficiency,
+              Procedural non compliance,
+              Ineffective Monitoring - PIC as PF
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Flight Management Error,
+              Aircraft Flight Path Control Error,
+              Environmental Factors,
+              Incorrect Thrust Computed
+          
+
+
+
+
+WX
+
+Tag(s)
+
+
+              Low Level Windshear
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 27 October 2017, an Embraer 195 (OE-LWJ) being operated by Austrian Airlines on a scheduled international passenger flight from Frankfurt to Salzburg was in the final stages of an ILS approach to runway 15 at destination in day VMC and passing approximately 1000 feet aal when a predictive windshear caution was annunciated in the vicinity of convective activity and it was decided to discontinue the approach. However, when a pitch up was made without the simultaneous setting of climb thrust, a stall warning was activated. The prescribed prompt recovery action was then delayed but once it had been taken correctly, and after a period in a holding pattern, a second approach was completed without further event.     
+Investigation
+Full information about what had involved a loss of control risk was not reported by the operator to the Federal Safety Investigation Authority (FSIA) of the Austrian Ministry of Transport, Innovation and Technology until almost three months later on 17 January 2018. Even then, the way in which this reporting occurred did not immediately allow the event to be identified as a significant operational safety matter. Once this fact became apparent, a Serious Incident Investigation was commenced and a short Interim Report was published on 2 April 2019 whilst the Investigation continued.
+It was noted that the same day the event had occurred, a report purporting to describe it had been submitted to the FSIA. However, all this report said was “windshear at 1300 ft, performed escape manoeuvre and missed approach, entered holding overhead SBG VOR, waited for weather improvement, second approach was successful” which did not indicate anything more than a routine operational occurrence. However, the operator had evidently recognised its significance and had carried out a detailed internal investigation using downloaded OFDM data from which a video animation of the event from a flight deck perspective was made. Once the FSIA Investigation had begun, a copy of this video was made available to it. Relevant CVR data had been overwritten and because of the late start of the Investigation, relevant recorded ATC data were no longer available. It was noted that Austrian Airlines “was unable to conclusively explain why it sent two very different incident reports for this one incident”.  
+It was noted that the 44 year-old Captain, who was acting as PF for the flight under investigation held a current E170 family type rating as well as (concurrently) a current Fokker 70/100 type rating, the latter facilitating his duties as a current TRE (Type Rating Examiner) on that type only. He had a total of ”approximately” 13,000 hours flying experience which included 400 hours on E170 family aircraft in the previous nine months. The 24 year-old First Officer had a total of 450 hours flying experience of which 282 hours was on type gained in the previous four months. 
+What Happened
+The weather conditions in the Salzburg area were characterised by scattered cloud and heavy rain showers - some of which had been sufficiently intense to require the windshield wipers to be set to maximum. The AP and A/T were engaged and the Captain was flying an ILS approach to runway 15 by reference to information on the HUD in slightly turbulent conditions. Shortly after the AP had been disconnected, with about 2.3 nm to go until touchdown, a predictive windshear alert attributable to a transient decrease in tailwind component was active for 8 seconds. In response, a go around/windshear escape manoeuvre was commenced with a recorded minimum height equivalent to 650 feet aal.  
+The Captain moved the thrust levers to a TLA (lever angle) of 75° and then removed his right hand from them and pulled back on the stick with both hands to set a 14° pitch attitude and initiate the intended climb. Both pilots stated that at this time, the thrust levers had been moved sufficiently forward to engage TOGA mode but the recorded data showed that this was not the case. This meant that the A/T remained in speed mode which resulted in the thrust lever moving back to match the still-selected Vref of 133 KIAS.
+Fifteen seconds after the windshear alert had occurred, the combination of increased pitch and the loss of any increase in thrust resulted in the speed decreasing to a recorded 113 KCAS which activated the stick shaker for 2 seconds. After a further half a minute with the aircraft at 1,110 feet aal, the flaps were returned to position 4 and ten seconds after that, at approximately 1180 feet aal, the landing gear was retracted. 
+TOGA was finally set 60 seconds after the stall warning had occurred and after a further 30 seconds, LNAV mode was selected at an ILS DME range of approximately 2.1 nm and a left turn to follow the missed approach procedure was commenced. The aircraft was climbed to 10,000 feet QNH at the Salzburg VOR and two holding patterns were completed there. A second approach was then commenced and completed without further event. 
+The flight sequence of interest is shown on the illustration below. This shows that when the stick shaker (stall warning indication) occurred, the pitch angle was reduced about 500 fpm. Only when GA-mode was pressed some 60 seconds after the stall warning had occurred did the TOGA thrust setting then lead to a climb rate of approximately 1800 fpm.
+
+The flight profile reconstructed by the Investigation from the video created for the Austrian Airlines’ internal investigation (the original downloaded flight data was no longer available). [Reproduced from the Official Report]
+Why It Happened
+The Captain decided to go around on receipt of the advisory predictive windshear alert despite the fact that such a response is optional. However, successive failures to then follow the prescribed go around procedure/escape manoeuvre followed this decision:
+
+the power levers were not moved far enough forward.
+neither of the two TOGA switches was pressed.
+the A/T remained in ‘Speed’ mode.
+the go around was initiated with “a high pitch angle”.
+these procedural deviations and an increasing tail-wind component led to the aircraft almost stalling which activated the stick shaker.
+either a windshear encounter or a near-stalled flight condition required the A/T to be deactivated but it was not.
+
+It was noted that the Captain’s most recent practical windshear training had been almost two years earlier on the Fokker 100 and he had not received any such training on the E195. Also, although both pilots had received classroom training on “surprise and startle effect”, the Investigation determined that their failure to follow applicable normal procedures when responding to the alert had resulted from “a limited capacity to act as a result of the startle effect” - although no evidence in support of this finding was provided.
+The Probable Causes of the investigated Serious Incident were then formally documented as “procedural deviations of the flight crew due to ‘surprise and startle effect’ and their delay in activating TOGA thrust”. 
+The Final Report was published in an English language translation on 25 January 2022 following publication of the definitive German language version on 30 July 2021.
+Related Articles
+
+Low Level Wind Shear
+Airborne Wind Shear Warning Systems
+Low Level Wind Shear Alert System (LLWAS)
+Stall
+Stall Warning Systems
+Recovery from Unusual Aircraft Attitudes
+Missed Approach
+Surprise
+Crew Resource Management (CRM)
+Authority Gradients

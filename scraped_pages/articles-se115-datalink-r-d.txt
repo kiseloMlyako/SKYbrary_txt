@@ -1,0 +1,125 @@
+SE115: Datalink (R-D)
+
+
+
+
+
+
+
+
+
+
+
+  SE115: Datalink (R-D)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+CAST Safety Enhancements 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ CAST
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ CAST
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Status: COMPLETED
+Background
+The purpose of this project is to develop datalink capabilities and systems for automatic digital transmission of:
+
+ATC instructions/information between the ground controller and the aircraft.
+Weather information.
+Air traffic information.
+Status of aircraft systems.
+Other safety information.
+
+Related Implementation Plan
+None.
+Completed Outputs
+This Safety Enhancement has been addressed by the Data Communications (Data Comm), Automatic Dependent Surveillance-Broadcast (ADS-B), and System Wide Information Management (SWIM) programs, which are developing datalink capability. In addition, the NASA Aviation Safety Program (AvSP) is currently conducting research to develop technologies that will provide aircraft system status and health monitoring under the Vehicle Systems Safety Technologies (VSST) project.
+Related SKYbrary Articles
+
+Controller Pilot Data Link Communications (CPDLC)
+
+
+
+
+
+Categories
+
+
+CAST Safety Enhancements,
+              CAST Safety Enhancements Plan
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

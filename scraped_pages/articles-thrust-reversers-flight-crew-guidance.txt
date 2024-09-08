@@ -1,0 +1,197 @@
+Thrust Reversers: Flight Crew Guidance
+
+
+
+
+
+
+
+
+
+
+
+  Thrust Reversers: Flight Crew Guidance
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Runway Excursion 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Thrust Reversers on jet aircraft provide a significant way of increasing the rate of deceleration during the initial stages of both a landing roll or a rejected take off from high speed.
+The following remarks are generic in nature and must, therefore, be considered in the context of instructions and guidance provided for specific aircraft types by aircraft manufacturers and aircraft operators.
+System Dependency on air/ground status
+The option of thrust reverser deployment on an airworthy aircraft depends on whether the system has been signalled with ‘air’ status or ‘ground’ status, the latter being a pre-requisite. Aircraft certification requires multiple defences against reverser deployment when ‘in flight’ but during the short period of transition between ‘air’ status and ‘ground’ status and between ‘ground’ status and ‘air’ status, there can be both system use and system malfunction issues which are directly attributable to the status being signalled. One example of the latter is a link by design between slat retraction and reverser unlocking.
+Aircraft Runway Performance
+
+In both the landing roll and after a rejected takeoff decision, thrust reversers have the greatest effect when deployed whilst the aircraft is at high speed. This will correspond to the period when directional control is reliant on rudder inputs rather than nose wheel steering systems.
+
+Don’t delay deployment without a good reason (such as correcting runway alignment)
+
+
+Depending on the regulatory system under which an aircraft is operated, broadly speaking whether it is European or North American, an allowance for the effect of thrust reverser deployment is likely to be respectively either included in or excluded from the runway performance data which flight crew are instructed to use.
+
+Be sure you are aware which assumption is made in the aircraft performance data you are required to use.
+
+
+The relative benefit of timely thrust reverser deployment is nearly always considerably less than the timely deployment of lift spoilers / ground spoilers / speed brakes. This is because of the way in which the increased pressure on the main landing gear which they create enhances the effectiveness of braking. Note that contrary to the situation with thrust reversers, the effect of lift spoilers / ground spoilers / speed brakes is always included in aircraft landing performance data.
+
+Whilst it is important to deploy thrust reversers promptly and check their correct activation, it is even more important to first ensure that the lift spoilers / ground spoilers / speed brakes have deployed correctly.
+
+
+When a landing is being carried out on a wet/slippery and/or otherwise potentially limiting runway, the desire to achieve a touchdown in the touchdown zone can sometimes result in initial runway contact which is even firmer than may have been intended. Whilst it is unlikely that a positive bounce will not result in the instinctive delay of reverser deployment, it is less well known that the selection of reversers during a transitory unloading of landing gear after a firm touchdown can result in a cycling between aircraft air and ground status before consistent ground status is achieved. Many reversers will lock out in transit if this happens and normal deployment with the aircraft in definitive ground status will not be possible until the selector has first been returned to the reverser stowed position.
+
+Crew briefing for potentially challenging landings could usefully include reference to the need for reverser deployment to occur without delay but only when lift spoiler / ground spoiler / speed brake deployment has been confirmed - after their manual deployment if necessary, since this will act as confirmation that sustained ‘ground’ status has been achieved.
+
+
+
+Rejected Landings
+In almost all cases, the activation of thrust reversers after touchdown will remove the option to reject the landing because the time necessary to regain effective thrust will use considerable runway distance. If such runway distance is available, it will almost always be more effectively utilised in continuing with the attempt to stop. If it is not available, then other options to avoid a hazardous runway excursion are likely to be preferable to an attempt to get airborne again. In any case, many aircraft types are operated under a blanket prohibition on a go around once thrust reversers have been deployed.
+Rejected Take Offs
+Whilst the selection of reverse thrust will normally be part of the response to a decision to reject a take off at high speed, it should not be assumed that reverser deployment will necessarily occur if the reason for the reject decision is related to a possible or actual loss of airworthiness. In some situations, thrust reverser deployment might not be advisable anyway.
+Thrust Reverser Unservicability
+When one or both thrust reversers have been identified by maintenance as unserviceable, it is usually permissible to despatch under MEL relief. In the absence of MEL conditions which entirely prohibit the use of any remaining serviceable thrust reverser(s), any such use should be predicated on the existence of flight crew guidance provided or endorsed by the aircraft operator. This guidance should be expressly briefed prior to every landing with such status and then followed.
+Use of Reverse Thrust
+Use of Reverse Thrust on low wing aircraft with mounted engines should be limited to the time when the aircraft is on an active runway. Use of even idle reverse during runway exit and initial taxi in can result in engine damage due to ingestion of FOD or contamination of the air conditioning system with excess surface de-icing chemicals sometimes found on taxiways.
+Accidents and Incidents
+Some selected Accident and Incident Reports which include discussion of some of the issues highlighted above include:
+
+Thrust reverser deployment during landing and air/ground status
+
+On 29 December 2010 an American Airlines Boeing 757-200 overran the landing runway at Jackson Hole WY after a bounced touchdown following which neither the speed brakes nor the thrust reversers functioned as expected. The subsequent investigation found that although the speed brakes had been armed and the ‘deployed’ call had been made, this had not occurred and that the thrust reversers had locked on transit after premature selection during the bounce. It was noted that had the spoilers been manually selected, the thrust reverser problem would not have prevented the aircraft stopping on the runway.
+read more...
+Note that whilst the crew involved in this accident (and their Fleet Manager!) believed at the time that they had suffered a simultaneous failure of two systems critical to deceleration on the short runway available, the thrust reversers actually functioned exactly as designed.
+
+The relationship of thrust reverser locking to the status of the slats in the context of a fault which only became obvious at rotation and had not been foreseen at the systems design stage
+
+On 11 May 2009, a British Airways Boeing 747-400 departing Johannesburg came close to stalling following a stall protection system activation during night rotation which continued until landing gear retraction despite immediate appropriate crew response. Subsequent investigation found that loss of lift on rotation had resulted from the unintended effect of a design modification introduced to automatically retract the slats during normal ground use of reverse thrust if thrust reverser unlocked signals registered from both inner engines with the aircraft in ‘ground’ status. The potential effects of this on the transition from ‘ground’ to ‘air’ status had not been foreseen.
+read more...
+
+Problems arising from asymmetric deployment of thrust reversers after landing
+
+On 28 August 2002, an America West Airbus A320 operating under an ADD for an inoperative left engine thrust reverser veered off the side of the runway during the landing roll at Phoenix AZ after the Captain mismanaged the thrust levers and lost directional control as a consequence of applying asymmetric thrust. Substantial damage occurred to the aircraft but most occupants were uninjured.
+read more...
+On 8 July 2006, S7 Airlines Airbus A310 overran the runway on landing at Irkutsk at high speed and was destroyed after the Captain mismanaged the thrust levers whilst attempting to apply reverse only on one engine because the flight was being conducted with one reverser inoperative. The Investigation noted that the aircraft had been despatched on the accident flight with the left engine thrust reverser de-activated as permitted under the MEL but also that the previous two flights had been carried out with a deactivated right engine thrust reverser.
+read more...
+
+Consequences of attempting a go around from the runway after thrust reverser deployment
+
+On 10 January 2011, an Air Atlanta Icelandic Airbus A300-600 on a scheduled cargo flight made a bounced touchdown at East Midlands and then attempted a go around involving retraction of the thrust reversers after selection out and before they had fully deployed. This prevented one engine from spooling up and, after a tail strike during rotation, the single engine go around was conducted with considerable difficulty at a climb rate only acceptable because of a lack of terrain challenges along the climb out track.
+read more...
+
+System faults led to the uncommanded thrust reverser deployment in flight leading to a sudden and terminal loss of control
+
+On 26 May 1991, a Lauda Air Boeing 767-300 experienced an un-commanded deployment of a thrust reverser climbing out of Bangkok which quickly led to a terminal loss of control and subsequent ground impact which destroyed the aircraft. The cause of the PW4000 thrust reverser fault was not established but it was noted that certification requirements included the ability to continue flight under any possible thrust reverser position and that there had been no pilot training requirement for, or awareness of, the essential response which would have required full aileron and rudder corrective action within 4 to 6 seconds.
+read more...
+
+A thrust reverser damaged by a tyre failure failed to deploy following a consequent decision to rejected the take off
+
+On September 19 2008, a Learjet 60 departing Columbia SC USA on a non scheduled passenger overran after attempting a rejected take off from above V1 and then hit obstructions which led to its destruction by fire and the death or serious injury of all six occupants. The subsequent investigation found that the tyre failure which led to the rejected take off decision had been due to under inflation and had damaged a sensor which caused the thrust reversers to return to their stowed position after deployment with the unintended forward thrust contributing to the severity of the overrun.
+read more...
+
+Continued use of reverse thrust after clearing the landing runway leading to an emergency evacuation because of cabin air contamination
+
+On 6 January 2011 an Easyjet Airbus A319 experienced the sudden onset of thick "smoke" in the cabin as the aircraft cleared the runway after landing. The aircraft was stopped and an evacuation was carried out during which one of the 52 occupants received a minor injury. The subsequent investigation attributed the occurrence to the continued use of reverse idle thrust after clearing the runway onto a little used taxiway where the quantity of de-ice fluid residue was much greater than on the runway.
+read more...
+
+An attempt to reject the landing after the deployment of thrust reversers with fatal consequences
+
+On 22 May 2010, an Air India Express Boeing 737-800 overran the landing runway at Mangalore when attempting a go around after thrust reverser deployment following a fast and late touchdown off an unstable approach. Most of the 166 occupants were killed when control was lost and the aircraft crashed into a ravine off the end of the runway. Whilst the accident was attributed by the subsequent investigation to the unstabilised approach which preceded it, the attempt to reject the landing after deployment of thrust reversers and braking made the outcome inevitable.
+read more...
+Related Articles
+
+Rejected Take Off
+Rejected Landings
+Deceleration on the Runway
+Runway De-icing
+Automated Cockpit Guidelines (OGHFA BN)
+Unexpected Events Training (OGHFA BN)
+
+
+
+
+
+Categories
+
+
+Runway Excursion,
+              Loss of Control
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

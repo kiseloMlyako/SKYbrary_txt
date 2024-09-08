@@ -1,0 +1,213 @@
+Cockpit Automation - Advantages and Safety Challenges
+
+
+
+
+
+
+
+
+
+
+
+  Cockpit Automation - Advantages and Safety Challenges
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Human Behaviour 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ The Air Pilots
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+Modern aircraft are increasingly reliant on automation for safe and efficient operation. However, automation also has the potential to cause significant incidents when misunderstood or mishandled. Furthermore, automation may result in an aircraft developing an undesirable state from which it is difficult or impossible to recover using traditional hand flying techniques.
+Automation Advantages and Disadvantages
+
+Increases passenger comfort;
+Improved flight path control and reduced weather minima;
+Systems monitoring displays coupled with diagnostic assistance systems (Electronic Centralized Aircraft Monitor (ECAM)/Engine Indicating and Crew Alerting System (EICAS)) support enhanced pilots’ and maintenance staff’s understanding of aircraft system states. However, when faced with a complex failure event, such as the Airbus 380 engine break-up after take off from Singapore (2010), the normally ‘simple to understand’ failure information can swamp the crew and either hinder diagnosis or distract the crew from the principle task of FLY THE AIRCRAFT;
+Automation can relieve pilots from repetitive or non-rewarding tasks for which humans are less suited, though it invariably changes the pilots’ active involvement in operating the aircraft into a monitoring role, which humans are particularly poor at doing effectively or for long periods. As an example, pilots who invariably fly with Autothrottle (AT) engaged can quickly lose the habit of scanning speed indications. Therfore, when the AT disengages, either by design or following a malfunction, the pilots will not notice or react to even large speed deviations. (Amsterdam B737-800 in 2009)
+Good automation reduces workload, frees attentional resources to focus on other tasks but the need to ‘manage’ the automation, particularly when involving data entry or retrieval through a key-pad, places additional tasks on the pilot that can also increase pilot workload. In contrast, poor automation can reduce the operators’ situational awareness and create significant workload challenges when systems fail.
+
+Flight Crew - Automation Interaction Issues
+
+Basic manual and cognitive flying skills can decline because of lack of practice and feel for the aircraft. This is exacerbated if operators actively discourage flight crew from manual flying or limit the manual modes they may use – e.g. prohibiting manual flying with Auto-Throttle disengaged;
+Unexpected automation behavior: uncommanded disengagement caused by a system failure resulting in mode reversion or inappropriate mode engagement by the pilot may lead to adverse consequences;
+Pilots interacting with automation can be distracted from flying the aircraft; selection of modes, annunciation of modes, flight director commands may be given more importance than values of pitch, power, roll and yaw and so attending to automation can distract the flight/crew pilots from monitoring flight path;
+Flight crews may spend too much time trying to understand the origin, conditions, or causes of an alarm or of multiple alarms, which may distract them from other priority tasks and from flying the aircraft;
+Short notice changes by ATC requiring reprogramming of a departure or landing runway are potentially hazardous due to the possibility of incorrect data entry and crosschecking in a time critical situation. This creates intense workload. Reducing the level of automation in such circumstances to basic modes such as Heading Select, Flight Level Change can buy the space and time to re-programme FMS as and if required.
+Diagnostic systems are limited with regard to dealing with multiple failures, with unexpected problems and with situations requiring deviations from Standard Operating Procedures (SOPs);
+Unanticipated situations requiring manual override of automation are difficult to understand and manage, can create a surprise or startle effect, and can induce peaks of workload and stress. Unless the crew has been correctly trained and is adequately practiced in handling such situations, flight deck workload levels can reach the point where crew co-operation becomes severely challenged. Good training in surprise and startle can be effective. UK CAA CAP 737 Chapter 7 ‘ Surprise & Startle’ shows how simple linear rules can buy crews the time to reduce startle by providing the comfort of a simple routine to bring us back to the task;
+For highly automated aircraft, problems may occur when transitioning to degraded modes (e.g. multiple failures requiring manual or less automated flight);
+Data entry errors (either mistakes or typing errors) made when using Electronic Flight Bags (EFBs) in addition to avionics systems may have critical consequences; errors may be more difficult to prevent and detect as there is no system check of the consistency of the computed or entered values and technology gives a certain sense of confidence (if the data entered in the machine are accepted, they should be OK);
+In critical situations following disconnection or failure of the automation, the alarm system only indicates the condition met but not the action to take (although the action that the flight crew must take to regain control is known);
+It may be difficult to understand the situation and to gain/regain control when automation reaches the limit of its operation domain and disconnects or in case of automation failure;
+When automation fails or disconnects, the tasks allocated to the pilots / flight crews may fall beyond their capabilities, individually and or as a team;
+Flight crew may not be sufficiently informed of automation failures or malfunctions or of their effects.
+
+Automation Dependency
+Automation Dependency has commonly been described as a situation in which pilots who routinely fly aircraft with automated systems are only fully confident in their ability to control the trajectory of their aircraft when using the full functionality of such systems. Such a lack of confidence usually stems from a combination of inadequate knowledge of the automated systems themselves unless all are employed and a lack of manual flying and aircraft management competence.
+Safety Issues
+Two problems arise directly from automation dependency:
+
+Firstly, affected pilots are reluctant to voluntarily reduce the extent to which they use full automation capability to deal with any situation - routine or abnormal - which arises.
+Secondly, if the full automation capability is for some reason no longer available or it is considered that it is no longer capable of delivering the required aircraft control, then the tendency is to seek to partially retain the use of automated systems rather than revert to wholly manual aircraft trajectory control. The effect of both is often a loss of situational awareness triggered by task saturation for both pilots. The consequence of this is frequently a reduction in the extent to which the PM is able to effectively monitor the actions of the PF.
+
+Solutions
+SOPs are understandably oriented towards maximum use of automation in the interests of efficiency as well as safety. However, they must be flexible enough to allow pilots to elect to fly without automation or with partial automation in order to maintain their competence between recurrent simulator training sessions. This is particularly important if air operator certificate holders (AOC) holders with advanced training qualification program (ATQP) approval are permitted to extend the normal six-month interval between such sessions. OFDM programmes which capture close to 100% of flights can be used to track the extent to which full automation is used. SOPs should also make it clear when it is expected that pilots’ response will include reducing the level of automation beyond any un-commanded reduction which may have already occurred.
+Pilot Training must:
+
+ensure that a sufficient understanding of both the basis for automated system functionality and its partial as well as full use is fully understood.
+ensure that pilots are able to understand the importance of monitoring the expected function of automation so that in the event their incorrect inputs or malfunction have unexpected consequences, timely corrective action can be taken
+ensure pilots can ‘identify and use the appropriate level of automation for the task in hand’. For example:
+
+In the cruise, highest levels of automation using FMC for navigation and flight path control is a great reducer of workload.
+Trying to use the FMC to control the flightpath in the terminal area to cope with rapid changes to the required flight path can so saturate the crew with tasks it can lead to overload & devastating loss of SA. (Cali Columbia?)
+Recovering from undesired deviations from the required flight path or excursions may require prompt disengagement of AP-FD systems and accurate manual handling to recover the situation.
+The Autothrottle (A/T) must be seen as part of the overall automation system. Pilots must be able to competently fly the aircraft with or without it engaged just as they would be expected to be able to fly the aircraft with or without the Autopilot (AP).
+
+
+
+Other Potential Improvement Options
+The “EASA Automation Policy: Bridging Design and Training Principles” lists the following:
+
+Improve basic airmanship and manual flying skills of pilots;
+Improve recurrent training and testing practices with regard to automation management;
+Improve the Multi Crew Cooperation (MCC) concept and training (instruction and testing) practices to better address automation management; 'Note': European Aviation Safety Agency (EASA) has already planned to improve Crew Resource Management (Crew Resource Management) guidance - Rule Making Task RMT.0411 (OPS.094).
+Improve the Competence Based Training (CBT) and Evidence Based Training (EBT) approaches to better address automation management;
+Develop automation policies specific to aircraft types and variants to account for differences regarding automation and flight path management;
+Improve the Multi-crew Pilot Licence (MPL) programme to better address automation management;
+Manufacturers are to publish automation philosophies and policies, generic and specific to aircraft types and variants, for communication to the training (instructors and trainees) and operations communities;
+Require transition training to include an understanding of the differences in philosophy when moving from one manufacturer’s aircraft to another (e.g. Airbus/ Boeing) It is easy in some aircraft to maintain a tactile connection, by resting hands on Thrust Levers/ Control Column, to what the auto flight system is commanding. In other aircraft one has to read and interpret mode indicators/ instruments;
+Improve air operators’ automation policies / provide guidance for the improvement of air operators’ automation policies;
+Consider introducing requirements regarding flight deck software customisation (e.g. electronic checklists and procedures, Flight Warning Systems) and enhancing the approval of safety critical functions of Electronic Flight Bags (EFBs) or introducing this approval in the frame of aircraft certification;
+Transfer the certification assumptions regarding flight crew competences required to safely fly the aircraft to the training and operations communities through appropriate means such as the Operational Suitability Data (OSD);
+Review Certification Specifications (CS) and Acceptable Means of Compliance (AMC) 25.1302 “Installed Systems and Equipment for Use by the Flight Crew”, 25.1322 “Flight Crew Alerting” and CS 25.1329 “Flight Guidance System” with regard to automation management, and the assumptions made regarding the flight crew capabilities required to take appropriate action;
+Extend the applicability of CS and AMC 25.1302 and CS and AMC 25.1322 to Part 23 (Normal, Utility, Aerobatic and Commuter Aeroplanes), Part 29 (Large Rotorcraft) and Part 27 (Small Rotorcraft).
+
+Accident and Serious Incident Examples
+Automation Confusion: The following are just a few examples of confusion arising from mismanagement of automation which had serious or potentially serious consequences for a serviceable aeroplane:
+
+B777-200 San Francisco (2013) - The crew failed to notice that mismanagement of the aircraft during an approach, using an unfamiliar level of automation in preference to the visual approach for which they had been cleared, had resulted in the A/T setting thrust to idle. They then delayed a decision to initiate a go around until it was no longer possible.
+A340-300 Paris CDG (2012) - Crew confusion and near loss of control when the automatics were allowed to capture a false ILS GS lobe during a Cat 3 approach at Paris CDG in IMC.
+A320 Tel Aviv (2012) - The crew comprehensively mismanaged the automation both during the approach and during the go around which, subsequently, became necessary. The Investigation identified significant issues with the crew understanding of automation.
+B737-800 Amsterdam (2009) - The crew failed to notice that they were attempting to fly the approach with thrust at idle and their attempt at a last minute recovery was mismanaged.
+
+Related Articles
+
+Situational Awareness
+Crew Resource Management (CRM)
+Electronic Centralized Aircraft Monitor (ECAM)
+Engine Indicating and Crew Alerting System (EICAS)
+Human Machine Interface (HMI)
+Recovery from Unusual Aircraft Attitudes
+Evidence-based Training (EBT)
+Startle Effect
+Startle Effect (SKYclip)
+
+see also the presentations from the 2015 Safety Forum - Automation and Safety
+Further Reading
+
+AV-2016-013: Enhanced FAA oversight could reduce hazards associated with increased use of flight deck automation, FAA - Office of Inspector General Audit Report, 7 January 2016.
+EASA Automation Policy: Bridging Design and Training Principles
+International Civil Aviation Organization (ICAO) Annex 6, Operation of Aircraft, Part I - International Commercial Transport - Aeroplanes, Appendix 2
+ICAO Human Factors Training Manual (Doc 9683)
+ICAO Human Factors Digest No. 5, Operational Implications of Automation in Advanced Technology Flight Decks (Circular 234)
+Synthesising and Analysing Human-Machine Interaction in the Cockpit, presentation by Don Harris, Coventry University, 2015
+CAA CAP737 Chapter 7, December 2016.
+Optimum Use of Automation, Airbus Flight Operations Briefing Note (2006)
+Crew Reliance on Automation, UK CAA Paper (2004)
+Managing Automation or Managing Aircraft Flight Path: How does Operational Policy Need to Evolve?; Dr Kathy Abbott - presentation to IASS 2015, November 2015.
+OIG Audit Report: Enhanced FAA Oversight Could Reduce Hazards Associated With Increased Use of Flight Deck Automation, 2016
+Design for Humans, Steven Shorrock, Safeguard January/February 2018, Feb 2018
+Automation and Flight Path Management, EASA Rotorcraft Community article, 28 May 2020.
+EHEST HE 9 - Automation and Flight Path Management. Training Leaflet for Helicopter Pilots and Instructors, EASA, September 2015; reviews the basics of automation and provides principles for optimal use of automation and flight path management for rotorcraft.
+Helioffshore Automation Guidance; effective use of automation in multi crew helicopters and advocates SOPs based on it. V1.0 Published December 2016.
+Operational Use of Flight Path Management Systems, PARC/CAST Flight Deck Automation WG, September 2013.
+
+
+
+
+
+Categories
+
+
+Human Behaviour,
+              Design Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

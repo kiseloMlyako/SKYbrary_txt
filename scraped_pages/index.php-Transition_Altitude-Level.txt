@@ -1,0 +1,146 @@
+Transition Altitude/Level
+
+
+
+
+
+
+
+
+
+
+
+  Transition Altitude/Level
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+Transition Altitude. The altitude at or below which the vertical position of an aircraft is controlled by reference to altitudes.
+Transition Level. The lowest flight level available for use above the transition altitude.
+Transition Layer. The airspace between the transition altitude and the transition level.
+(ICAO, e.g. Doc 4444: PANS-ATM & Doc 8168: PANS-OPS).
+North America
+In the US and Canada, the transition altitude is fixed at 18000 feet and the airspace above is known as the Standard Pressure Region
+Under conditions of QNH at or above 1013 mb, FL180 becomes the lowest useable FL.  If the pressure is lower, the lowest useable FL becomes FL190 or even FL200.  This restriction ensures that a minimum of 1000' vertical separation is maintained between the aircraft at 17000' on QNH and the one at the lowest useable level on Standard Pressure Setting. 
+Guidance on changing barometric pressure setting:
+
+all changes shall be made in the standard pressure region (ie above 18,000 ft) and
+the change is to take place just after entering or just prior to leaving the standard pressure region. In practice, this will see the pilots changing to standard pressure (1013,2 hPa) (depending upon the altimeter subscale) as they climb through 18000 feet. If the cleared level is FL180, an early change is prudent. 
+
+Descending, even when cleared to an altitude at the time cruising level is vacated, the altimeters will remain on standard pressure until just prior to the transition level.
+Keep in mind that, in reality, the transition level "floats" based on the atmospheric pressure at see level (QNH) - the lower the QNH, the higher the transition level - If the QNH is low and the pilots wait until approaching FL180 to change the altimeter subscale, an Level Bust is possible.
+Both primary altimeters are changed at the same time. In most modern aircraft, not doing so will result in some form of an altimeter missmatch error.  Depending upon company SOP, the standby altimeter might also be changed at the transition altitude/level or at top of climb/top of descent.  
+Europe
+In Europe and much of the rest of the world, the transition altitude varies from airport to airport.  Again, it is a fixed value and is published on the airport documentation, approach plates, AIP etc.  The transition level will "float" with the QNH and, again, the TL is the lowest assignable level (pressure altitude) that will guarantee minimum vertical separation from an aircraft at the highest assignable altitude using local QNH. 
+The "normal" barometric pressure setting procedure is a little different to that in North America.  The procedure is:
+
+climbing and cleared to a FL - set Standard Pressure Setting (1013 mb);
+descending and cleared to an altitude - set QNH. 
+
+This is done irrespective of how far above or below the TL/TA you are at the time.  The only exception is that when your cleared vertical profile (SID or STAR) has a specific altitude crossing restriction on it - ie cross DVR at FL160 or cross BRI at 4000', the alitimeter must be left on the appropriate reference until the restriction has been satisfied.  Again, both primary altimeters are changed at the same time.  Once again, changing the subscale of the standby instrument is a function of Company SOP.
+According to ICAO Doc 7030 (EUR Region), from 7 March 2015, the transition level shall be located at least 300 m (1 000 ft) above the transition altitude to permit the transition altitude and the transition level to be used concurrently in cruising flight, with vertical separation ensured.
+In the UK, this procedure applies from 25 May 2017 (see reference in the Further reading section).
+Fixed Transition Level
+There are a few places that have a "fixed" transition level.  One example is Aruba.  There, the transition altitude is 3000', the transition level is FL45.  Both values are published on the approach and departure charts. The space in between can only be used climbing and descending but not for level flight.
+Related Articles
+
+Altimeter Setting Procedures
+
+Further Reading
+
+Supplementary Instruction (SI) to CAP 493 (MATS Part 1), 2016/01, by the UK CAA
+
+Flight Safety Foundation
+
+ALAR Briefing Note 3.2 — Altitude Deviations - The Flight Safety Foundation ALAR Toolkit provides useful training information and guides to best practice.
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

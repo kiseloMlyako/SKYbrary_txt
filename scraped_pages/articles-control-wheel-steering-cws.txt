@@ -1,0 +1,131 @@
+Control Wheel Steering (CWS)
+
+
+
+
+
+
+
+
+
+
+
+  Control Wheel Steering (CWS)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+The term "control wheel steering (CWS)" is used interchangeably to describe one of two significantly different autopilot modes or functions. The variance depends upon the type of autopilot and the aircraft manufacturer. In one application, the yoke-mounted CWS button, which in many aircraft types is referred to as touch control steering (TCS), controls the temporary disengagement of the autopilot servos whilst the aircraft is manoeuvred manually. In the other, CWS is a selectable autopilot mode which allows the changes to aircraft pitch and roll through manipulation of the control wheel instead of using pitch or roll selectors on the autopilot control panel. In the second variant, aircraft response to control wheel movement, whilst in CWS mode, is somewhat similar to that of a fly-by-wire installation.
+Discussion
+In manual flight, an aircraft is controlled by pilot manipulation of the flight controls. Movement of the control yoke, control column or control stick (as fitted) and the rudder pedals result in corresponding movements of the aircraft control surfaces (ailerons, elevator and rudder) which in turn cause the aircraft to rotate around any or all of the three axes of rotation. The trim systems are then used to eliminate control pressure and maintain the desired aircraft attitude. An autopilot reduces pilot workload by guiding an aircraft using computer input instead of direct control manipulation. The pilot controls the autopilot strategically by making appropriate inputs to the flight management system (FMS) or tactically by manipulating the autopilot pitch, roll and altitude controls. CWS, in either of its variants, provides an additional degree of refinement to the pilot-autopilot interface.
+CWS Variant One - TCS
+The TCS variant of CWS is the one that is more frequently encountered. It is fitted in many different aircraft types from (autopilot equipped) light general aviation (GA) aircraft such as the Cessna 182 Skylane, to business aviation jets such as the Gulfstream Aerospace Gulfstream 5 and is found in commercial airliners such as the Embraer ERJ 190-100. Most manufacturers, in their documentation and switch placarding, refer to this autopilot feature as "touch control steering" or "TCS" but there are some that identify the capability as CWS.
+The TCS button is typically mounted on the outboard grip of the left (and in many cases, also the right) control yoke. It is a press and hold button that is spring loaded to the out (off) position. With the autopilot engaged, depressing the TCS switch will disengage the autopilot servos without disconnecting the autopilot itself. This allows the aircraft to be manoeuvred manually to change an aircraft trajectory parameter; for example, vertical speed (rate of climb or descent). When the TCS button is released, the servos reengage and maintain the new parameter value. This feature can be used to manually reduce the vertical rate when approaching the assigned altitude to help reduce unnecessary TCAS/ACAS resolution advisories (RAs). The feature can also be used to implement minor track deviations such as manouevring around small cloud formations. Many operators also direct the use of TCS for performing the immediate actions of the breakout manoeuvre associated with a simultaneous close parallel PRM approach.
+CWS Variant Two - CWS Mode
+The more sophisticated CWS mode can be found on many older versions of the Boeing 737 as well as the Lockheed Orion and other aircraft types. In this mode, the control yoke can be used to manoeuvre the aircraft whilst the autopilot control servos remain engaged.
+In a typical CWS installation, the autopilot mode control panel (MCP), instead of a simple ON/OFF selection, will have three possible modes - ON, CWS and CMD (Command). With the autopilot OFF, the pilot controls the aircraft conventionally using the flight controls. In CMD mode, the autopilot is fully engaged and will command the aircraft to climb, descend or maintain level flight depending upon pilot input via the autopilot control panel (ACP) or the FMS. In CMD mode, the autopilot will also automatically follow the guidance of the selected navigation source or, when appropriate, follow the pimrary flight display (PFD) heading "bug" based on pilot heading selections on the ACP. CWS mode lies between the two.
+In CWS mode, the pilot controls the autopilot through inputs on the control column or the stick. When pressure on the controls is released, the autopilot will maintain the roll or pitch command until another control column input instructs it to do otherwise. This feature is often referred to by pilots as "Airbus mode" and provides stability in pitch and roll reducing the pilot workload associated with manual flight. In some installations, if the pitch or roll commanded by pilot input via the control column is less than a specific value, for example, a roll angle of less than 5 degrees, the autopilot will automatically roll the aircraft to a wings level attitude when the control column pressure is released. This allows for "lazy" flying as releasing the control column input as the pitch or roll rate approaches zero will result in level flight. CWS mode can be used in most phases of flight, including approach and landing, and is recommended by manufacturers and by many operators as the appropriate autopilot mode when encountering moderate to severe turbulence.
+Accidents and Incidents
+
+
+B738, en-route, west of Bar Montenegro, 2019On 13 February 2019, a Boeing 737-800 en-route over the southern Adriatic Sea unexpectedly encountered severe clear air turbulence and two unsecured cabin crew and some unsecured passengers were thrown against the cabin structure and sustained minor injuries. The Investigation found that the Captain had conducted the crew pre-flight briefing prior to issue of the significant weather chart applicable to their flight by which time severe turbulence due to mountain waves at right angles to an established jetstream not shown on the earlier chart used for the briefing was expected at a particular point on their route.
+
+
+
+
+Related Articles
+
+Autopilot
+Fly-By-Wire
+Autoland
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

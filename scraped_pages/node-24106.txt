@@ -1,0 +1,171 @@
+Tailwind Operations
+
+
+
+
+
+
+
+
+
+
+
+  Tailwind Operations
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Runway Excursion 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Tailwind Operations in fixed wing aircraft are considered to be takeoffs or landings with a performance diminishing wind component – that is, a tailwind.
+Effects
+Tailwind Operations have a detrimental effect on aircraft performance.
+
+Take Off - The take off run will be longer and the maximum allowable take off weight for a specific runway and temperature may have to be reduced. The climb gradient will be reduced due to the higher groundspeed and could result in a CFIT accident due to inability to out clear an obstacle.
+Approach - On approach the increased groundspeed will necessitate an increased rate of descent. Failure to compensate for these factors could easily result in an unstable approach. An unstable approach should result in a go-around.
+Landing - The ground speed at touchdown will be greater than usual and any float tendency will result in a long landing. The stopping distance will be significantly increased due to the higher groundspeed and, in combination with a long landing, could easily result in a runway excursion.
+
+Defences
+
+Operate in accordance with Manufacturer’s Limitations: Aircraft manufacturers publish a tailwind component limit for both takeoff and landing in the AFM. In most cases, it is in the order of 10 knots but may be as high as 15 knots.
+Accurate performance calculations must be completed for all tailwind operations. For headwind operations, the use of the wind factor is optional and regulations dictate that a maximum of 50% of the headwind component can be used. However, for tailwind operations, regulations state that the tailwind component MUST be considered in the performance calculations and that 150% of the actual tailwind component must be used.
+Maximize Runway Performance: Use of the full length of the runway for takeoff is highly recommended. Manufacturers may prohibit reduced power takeoffs under tailwind conditions.
+Evaluate the Risks: Obstacle clearance and climb gradients must be carefully examined. Although once airborne the rate of climb in feet/minute will not change, during tailwind operations the lift-off point will be further along the runway (thus closer to the obstacle) and, due to the higher groundspeed caused by the tailwind, the climb gradient in feet/mile will be reduced.
+Configure Early: For approach under tailwind conditions, the groundspeed will be higher and, as a consequence, greater descent rates will be required. This will result in the requirement to configure the aircraft sooner than is normal to reduce the potential of a go-around due to an unstable approach.
+Maintain Accurate Speed Control: Fly the appropriate speed for the aircraft configuration and weight. Increasing the Indicated Airspeed will also increase the energy that must be dissipated after touchdown and could compromise the ability to stop in the available distance.
+Land in the Touchdown Zone: The performance calculations are generally predicated on landing distance from 50’ (which assumes a threshold crossing height of 50’, a 3 degree descent to the runway and touchdown with minimal float). If the aircraft is landed “long” due to a shallow final descent or a protracted float, the landing distance will be compromised and a runway excursion could result.
+Optimise the Use of Stopping Devices to the Landing Distance Available: Appropriate use of all available stopping devices will help ensure that the aircraft can be safely stopped.
+
+Contributing Factors
+Air Traffic Services will often determine preferential runways based on noise abatement or traffic flow criteria and will not change the active runway until the tailwind component exceeds a predetermined value – normally in the order of 5 knots. It is up to the aircraft commander to ensure that the aircraft can be safely operated with this tailwind component. If not, the aircraft commander must request a different runway and be prepared to accept the delay that the accommodation might incur.
+Operators may request or, in the case of uncontrolled aerodromes, choose to operate from an out-of-wind runway for convenience or to save time. Again, it is an aircraft commander's responsibility to ensure that the takeoff or landing can be safely conducted with the existing wind conditions. It should be noted that a tailwind has a much greater effect on a light aircraft than it does on a large commercial jet as the percentage increase in groundspeed due to the tailwind is significantly higher for the smaller aircraft.
+When a circling approach is in use, there may be a significant tailwind in the descent and intermediate approach even if the landing runway is into wind.
+In rapidly changing surface wind conditions associated with phenomena such as microbursts or sand storms, tailwinds may be encountered on final approach or landing and possibly without the aerodrome controllers being aware of the fact.
+Solutions
+Understanding the performance characteristics of the aircraft you fly is critical for safe operations under tailwind conditions. If the performance data is not available or the tailwind component exceeds the allowable limit, another runway must be used.
+Accidents & Incidents
+The following events involved a significant tailwind component:
+
+
+MD83, Mahshahr Iran, 2020On 27 January 2020, an MD83 made an unstabilised tailwind non-precision approach to Mahshahr with a consistently excessive rate of descent and corresponding EGPWS Warnings followed by a very late nose-gear-first touchdown. It then overran the runway end, continued through the airport perimeter fence and crossed over a ditch before coming to a stop partly blocking a busy main road. The aircraft sustained substantial damage and was subsequently declared a hull loss but all occupants completed an emergency evacuation uninjured. The accident was attributed to the actions of the Captain which included not following multiple standard operating procedures.
+
+B737, Burbank CA USA, 2018On 6 December 2018, a Boeing 737-700 overran the 1,770 metre-long landing runway at destination by 45 metres after entering the EMAS. Normal visibility prevailed but heavy rain was falling and a 10 knot tailwind component existed. The event was attributed to the pilots’ continuation bias in the face of deteriorating conditions and a late touchdown on the relatively short runway. A lack of guidance from the operator on the need for pilots to re-assess the validity of landing data routinely obtained at the top of descent was identified.
+
+B738, Odesa Ukraine, 2019On 21 November 2019, with variable cross/tailwind components prevailing, a Boeing 737-800 went around from its first ILS approach to Odesa before successfully touching down from its second. It then initially veered left off the runway before regaining it after around 550 metres with two of the three landing gear legs collapsed. An emergency evacuation followed once stopped. The Investigation attributed the excursion to inappropriate directional control inputs just before but especially after touchdown, particularly a large and rapid nosewheel steering input at 130 knots which made a skid inevitable. Impact damage was also caused to runway and taxiway lighting.
+
+DHC6, Jomsom Nepal, 2013On 16 May 2013, a DHC6-300 on a domestic passenger flight made a tailwind touchdown at excessive speed in the opposite direction of the of 740 metre-long runway to the notified direction in use and, after departing the runway to one side during deceleration, re-entered the runway and attempted to take off. This failed and the aircraft breached the perimeter fence and fell into a river. The Investigation identified inappropriate actions of the aircraft commander in respect of both the initial landing and his response to the subsequent runway excursion and also cited the absence of effective CRM.
+
+B738, Pristina Kosovo, 2016On 2 May 2016, a Boeing 737-800 veered off the 2,500 metre-long landing runway near its end at speed following a night non-precision approach flown by the Captain. It then stopped on grass having sustained damage to both the left engine and landing gear. The Investigation noted that a significant but allowable tailwind component had been present at touchdown and found that the approach had been unstable, the approach and touchdown speeds excessive and that touchdown had occurred beyond the touchdown zone after applicable operating procedures had been comprehensively ignored in the presence of a steep authority and experience gradient.
+
+
+...further results
+
+
+Related Articles
+
+Rejected Take Off
+Use of Erroneous Parameters at Take-Off
+Runway Surface Friction
+Flying a Visual Approach
+Landing Flare
+Landing Distances
+Landing on Contaminated Runways
+Deceleration on the Runway
+Runway End Safety Area
+Beyond the Runway End Safety Area
+Global Action Plan for the Prevention of Runway Excursions (GAPPRE), 2021
+
+Further Reading
+
+FAA AC 91-79A: Mitigating the Risks of a Runway Overrun Upon Landing, April 2016.
+
+
+
+
+
+Categories
+
+
+Runway Excursion,
+              Overrun on Landing,
+              Overrun on Take Off
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

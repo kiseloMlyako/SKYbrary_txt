@@ -1,0 +1,343 @@
+DH8C, vicinity Adelaide Australia, 2015
+
+
+
+
+
+
+
+
+
+
+
+  DH8C, vicinity Adelaide Australia, 2015
+
+
+
+
+
+
+
+
+
+Summary
+
+On 24 April 2015, a Bombardier DHC8-300 making an RNAV approach at Adelaide in IMC with the AP engaged went below the procedure vertical profile. An EGPWS ‘PULL UP’ Warning was triggered at 5½nm out and the approach was discontinued reportedly due to “spurious instrument indications”. The Investigation found that the premature descent had occurred when mode re-selection after a Flight Director dropout had been incorrect with VS active instead of VNAV. It was found that both pilots had assessed the ‘PULL UP’ Warning as “spurious” and a missed approach rather than the mandated terrain avoidance procedure had been flown.
+
+
+
+
+Event Details
+
+When
+
+24/04/2015
+
+
+
+Event Type
+
+
+CFIT,
+              HF
+
+
+
+
+Day/Night
+
+Night
+
+
+
+Flight Conditions
+
+IMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOMBARDIER Dash 8 Q300
+
+
+
+
+
+
+
+
+
+Operator
+
+QantasLink
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Port Lincoln Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Adelaide International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Missed Approach
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+YPAD
+
+
+
+
+General
+
+Tag(s)
+
+
+              Approach not stabilised,
+              Copilot less than 500 hours on Type
+          
+
+
+
+
+CFIT
+
+Tag(s)
+
+
+              Into obstruction,
+              No Visual Reference
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Inappropriate crew response (automatics),
+              Procedural non compliance
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Non-aircraft damage
+
+Yes
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Number of Non-occupant Fatalities
+
+0
+
+
+
+Number of Occupant Fatalities
+
+0
+
+
+
+Off Airport Landing
+
+Yes
+
+
+
+Ditching
+
+Yes
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 24 April 2015, a Bombardier DHC8-300 (VH-TQM) being operated by QantasLink on a scheduled domestic passenger flight from Port Lincoln to Adelaide as QF 2274 was making an RNAV approach to runway 30 at destination in night IMC when an EGPWS PULL UP Warning occurred and the crew responded with a missed approach procedure, advising ATC that this was because of “spurious instrument indications”. The subsequent approach was uneventful.
+Investigation
+An Investigation was carried out by the Australian Transport Safety Bureau (ATSB). Data relevant to the Investigation was obtained from the aircraft FDR, the NVM contained in the EGPWS and from recorded ATC radar.
+It was noted that the Captain had a total of 3,885 flying hours which included 1,132 on type and that the First Officer, who had been acting as PF for the approach had a total of 2,664 flying hours which included just 32 hours on type. Both pilots had recently transferred to the airline’s Adelaide base and the First Officer was making his second flight after being released to unsupervised line flying. It was also noted that “in establishing a flight crew base in Adelaide, and as part of the QantasLink Management System Airport Assessment, all approaches into Adelaide were reviewed (and) that review did not identify any increased operational risk”. However, there was no mention of the Adelaide RNAV runway 30 approach in the applicable “route qualification training package” and the Route Manual did not mention the presence of any obstacle on the approach, which was one which neither pilot had previously flown.
+It was established that the crew had briefed for the RNAV-Z (GNSS) approach at Adelaide and had noted the steeper than normal descent required but had not identified the presence of the 1,316 feet high tower shown and noted on the Jeppesen IAC on which their briefing had been based. ATC provided radar vectors to join the procedure at PADEK (see the first illustration below) which, with the AP engaged was captured in LNAV and VNAV modes. The turn onto final approach was made at about 4,500 feet and soon afterwards the aircraft was configured for landing with the gear down, flaps set to 15 and Vref (115 knots) bugged.
+Passing about 3,400 feet, the Captain (PM) observed a significant loss of airspeed which was trending towards Vref and called ‘Speed’ (see annotation 1 in the second illustration below). Although the PF responded by increasing power, the speed continued to decay and the PM again called ‘Speed’ after which the PF further increased power and speed was returned to the normal range.
+
+An annotated extract from the RNAV-Z (GNSS) Runway 30 approach at Adelaide. [Reproduced from the Official Report]
+Soon after this, whilst passing about 3,200 feet and 8.5 nm from the landing runway threshold, the selected FD modes dropped out and an ‘FD NAV DATA INVALID’ advisory message was annunciated (see annotation 2 in the illustration below). In response, the PF called for a go-around but “the PM hesitated, assuming that the Flight Director modes would re-engage quickly and automatically, as they had on two flights earlier that day”. When that did not occur, the PM re-selected the FD VS and LNAV modes but did not then replace VS mode with VNAV mode and so the continued descent was no longer being controlled to that required by the procedure (see annotation 3 in the illustration below). Both pilots subsequently stated that they had believed that VNAV mode was set and had not made any crosscheck to confirm this.
+The aircraft began to deviate below the procedure profile and as a result, with just over 6nm to go, briefly descended 100 feet below the 2,000 feet MSA by ‘clipping’ the imminent MSA ‘stepdown’ to 1,620 feet (see annotation 4 in the illustration below). Almost immediately, whilst descending at about 660 fpm, an EGPWS ‘CAUTION OBSTACLE’ Alert was triggered by the charted tower obstacle located 255 feet beneath the approach profile and about 0.6 nm ahead (see annotation 5 in the illustration below). No action was taken as the crew “believed the caution was spurious” but six seconds later, passing 1,798 feet and 100 feet below the procedure vertical profile, an EGPWS ‘OBSTACLE, OBSTACLE, PULL UP’ Warning was annunciated (see annotation 6 in the illustration below) and in response, the PF initiated a Missed Approach (see annotation 7 in the illustration below) during which the aircraft remained above the segment MSA. The PM advised ATC that they were “going around due to spurious instrument indications” and the aircraft passed over the Tower climbing through about 2,200 feet. A second approach was subsequently flown uneventfully to a landing on runway 30. The fight crew subsequently stated that they had been unaware of the tower obstacle or its proximity to the flight path and that had they noticed it on the chart, they would have “highlighted it as a threat” when briefing for the approach.
+
+Annotated radar data showing the approach profile flown against the procedure profile. [Reproduced from the Official Report]
+The Investigation found that there was a history of related occurrences involving RNAV approaches to runway 30 at Adelaide. At the time of the event under investigation, the ATSB noted having recorded eight other EGPWS Alerts during approaches to runway 30 at Adelaide since 2004. QantasLink noted that the RNAV (GNSS) runway 30 approach was rarely used given the prevailing wind direction at Adelaide and that the primary runway 05/23 was usually in use. They also reported having found that another operator within the Qantas Group had previously experienced EGPWS alerts during RNAV (RNP) approaches to Adelaide runway 30 which had resulted in a redesign of this procedure to avoid tracking directly over the Tower Obstacle. It was noted that “there was no established method of sharing information on safety matters with other Qantas Group airlines but that appropriate mechanisms for sharing safety information within the Group were now under consideration”.
+The Investigation examined a number of issues related to the performance of the flight crew during this approach:
+1. The Turbulence Encounter
+It was concluded that the evidence indicated that turbulence associated with the passage of a weather front through the area was the likely cause of this episode. It was noted that neither pilot had identified windshear or turbulence as the reason for the speed decay. The First Officer thought that either the power setting had not been appropriate or that the aircraft pitch attitude had changed when the FD Modes required for the approach were armed, neither of which was the case. FDR data showed that the episode had involved airspeed variations of more than 15 knots, pitch attitude changes of more than 5º and changes in vertical speed of more than 500 fpm. The FCOM was found to include guidance for flight crew attempting to determine the existence of “marginal flight path control”. This suggested that this condition could be assumed to exist if uncontrolled changes from normal steady state flight conditions involving changes in airspeed, pitch attitude and vertical speed of amounts which in all three cases were exceeded during the encounter. It also advised that breaking off an approach in such situations should be actively considered. QantasLink confirmed that both pilots had “completed appropriate training in windshear recognition and conduct of the terrain avoidance procedure”.
+2. The FD Mode dropout
+At the time of the investigated approach, a FD mode dropout was not an especially unusual occurrence on at least two of this aircraft type in the QantasLink fleet although in previous cases, it had almost immediately re-engaged without crew intervention and this had been the initial crew expectation when it happened on this approach. However, it was found that the Captain had not recorded previous instances of momentary FD dropouts in the aircraft Technical Log and QantasLink had “subsequently found other instances of non-reporting of the same issue”. Whilst such non-reporting may have been because of the transient nature of the fault, it was considered to indicate that these dropouts may have become an accepted fault by pilots thus reducing the ability of the aircraft operator to address the problem and educate pilots on the required responses.
+3. Failure to communicate FD Mode changes
+The FCOM requirement to communicate any changes in selected FD Modes to each other was not met when reinstating the required approach Modes after the uncommanded Mode dropout. The effect of the consequent lack of mode awareness contributed to subsequent developments.
+4.The EGPWS Response
+QantasLink noted that whilst both pilots had been appropriately trained in the terrain avoidance procedure, compared with the missed approach procedure it was only infrequently performed outside the training environment. QantasLink considered that “given the high workload environment and impact of managing multiple threats and errors directly prior to this manoeuvre, it is likely that the flight crew lacked the spare cognitive capacity to retrieve the rarely used terrain avoidance manoeuvre from their long term memory” whilst their lack of awareness of the tower obstacle and their relatively high workload “may also have contributed to their decision to conduct a missed approach rather than the terrain avoidance procedure”. The Captain commented that “the flight director dropout had contributed to their assumption that the ground proximity warning was spurious because there seemed to be a series of abnormalities indicative of a navigation system fault”.
+Regardless of these observations, the Civil Aviation Safety Authority (CASA) in submitting comments on a draft of the ATSB Report on this Investigation took the view that “the key purpose of the EGPWS is to provide an independent system to alert the flight crew that their mental model is in error (and it is therefore) not a system that should be open to ‘interpretation’ in the first place”. They also stated that from a regulatory perspective, “EGPWS provides a final line of defence and it is to be expected that flight crew are ‘surprised’ by its activation”.
+5. Workload during RNAV (GNSS) approaches
+Both pilots reported considering that they were “operating in a high workload environment” during the flight which included the investigated approach, attributing this to “the adverse weather conditions, a high volume of traffic approaching Adelaide and receiving unexpected tracking vectors from ATC on the approach”. They further stated that the decay in speed followed by the FD dropping out meant that they had been subject to “higher stress levels” and that they had been “under pressure”. The Investigation noted that “research on unexpected changes in workload during flight has found that pilots who encounter abnormal or emergency situations experience a higher workload with an increase in the number of errors compared to pilots who do not experience these situations”. It was also noted that according to a 2006 ATSB Research Report, RNAV approaches were considered by pilots of ICAO Performance Category A and B aircraft to be “one of the highest workload approaches in terms of mental workload, physical workload and time pressure”.
+The formally-documented Findings of the Investigation were as follows:
+There were four Contributing Factors:
+
+During approach, for reasons that could not be established, uncommanded disengagement of the aircraft's flight director and vertical navigation mode occurred.
+Contrary to the operator’s procedure, the approach was continued following disengagement of the flight director. That was probably due in part to an expectation that it would automatically re-engage in a similar manner to that experienced on previous flights that day.
+During manual re-engagement of the flight director during a period of high workload and focus on other tasks, vertical speed mode was engaged without the knowledge of the pilot flying. As a result, the vertical flight path protection provided by the vertical navigation mode was removed.
+A combination of the unrecognised vertical speed mode selection and the relatively high captured descent rate resulted in descent below a minimum safe altitude and activation of an obstacle proximity warning.
+
+Three Other Factors that increased risk were identified:
+
+The Pilot Flying conducted a missed approach instead of a terrain avoidance procedure in response to the obstacle proximity warning, which reduced the obstacle clearance margin of the aircraft's flight path. The use of an incorrect procedure was probably due to high workload at the time.
+Flight director dropouts had occurred previously and not been reported by company flight crew, probably due to acceptance (or normalisation) of the faults. This non-reporting affected the Operator's ability to resolve the issue and to educate flight crew about it.
+The Adelaide induction material and route manual provided to the crew did not include information on the hazards of the RNAV-Z runway 30 approach, including its steep flight path and proximity to the obstacle.
+
+There was one Other Finding:
+
+The tower height as shown on the approach chart (1,316 ft) was 49 ft lower than its actual height. While the incorrect height was also in the terrain database for the enhanced ground proximity warning system (EGPWS), it did not affect the activation of the EGPWS obstacle warning.
+
+Safety Action taken as a result of the investigated occurrence whilst the Investigation was in progress was recorded as having included the following:
+
+QantasLink immediately prohibited use of the RNAV approach to runway 30 at Adelaide pending addition of the approach to their flight crew ‘induction package’ for Adelaide.
+QantasLink airport assessment criteria were amended to require specific management consideration of operational and/or training requirements for any approach where the flight path angle is other than 3°.
+QantasLink have since adopted new format Jeppesen approach plates which highlight tower obstacles better than the old style in use at the time of the investigated event.
+Airservices Australia re-issued the Adelaide runway 30 RNAV approach chart to show the correct height of the tower obstacle on the approach track. They also amended it to increase clearance above the obstacle with the aim of eliminating the occurrence of EGPWS activations during this approach.
+
+The Final Report was released on 5 February 2018. No Safety Recommendations were made.
+Related Articles
+
+Controlled Flight Into Terrain (CFIT)
+Area Navigation Systems
+Crew Resource Management
+Terrain Avoidance and Warning System (TAWS)
+Turbulence
+Low Level Wind Shear
+Pilot Workload
+
+Further Reading
+
+Perceived Pilot Workload and Perceived Safety of RNAV (GNSS) Approaches, ATSB Australia, December 2006.

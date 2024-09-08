@@ -1,0 +1,305 @@
+B738, Lisbon Portugal, 2021
+
+
+
+
+
+
+
+
+
+
+
+  B738, Lisbon Portugal, 2021
+
+
+
+
+
+
+
+
+
+Summary
+
+On 3 March 2021, a Boeing 737-800 departing Lisbon only just became airborne before the end of runway 21 and was likely to have overrun the runway in the event of a high speed rejected takeoff. After a significant reporting delay, the Investigation established that both pilots had calculated takeoff performance using the full runway length and then performed takeoff from an intersection after failing to identify their error before FMS entry or increase thrust to TOGA as the runway end was evidently about to be reached. 
+
+
+
+
+Event Details
+
+When
+
+03/03/2021
+
+
+
+Event Type
+
+
+HF,
+              RE
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+On Ground - Normal Visibility
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 737-800
+
+
+
+
+
+
+
+
+
+Operator
+
+KLM
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Lisbon Humberto Delgado Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Amsterdam Airport Schiphol
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+No
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Take Off
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+LPPT
+
+
+
+
+General
+
+Tag(s)
+
+
+              Use of Erroneous Data,
+              Event reporting non compliant,
+              Use of Erroneous Performance Data,
+              CVR overwritten,
+              Delayed Accident/Incident Reporting
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Data use error,
+              Ineffective Monitoring,
+              Procedural non compliance
+          
+
+
+
+
+RE
+
+Tag(s)
+
+
+              Overrun on Take Off,
+              Continued Take Off
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 3 March 2021, a Boeing 737-800 (PH-BCD) being operated by KLM on a scheduled international passenger flight from Lisbon to Amsterdam as KL1696 only became airborne approximately 284 metres before the end of the 3705 metre-long runway 21 at Lisbon during its daylight takeoff in normal visibility. The remainder of the flight was then without further event.  
+Investigation
+The flight crew involved did not report the event to KLM at all and it was only discovered during the routine OFDM process and an internal investigation only began six weeks after the event had occurred following its inclusion in a monthly FDM report. When questioned during this investigation, the crew claimed to have been unaware that anything reportable had occurred despite the fact that the takeoff involved had occurred in good daylight visibility. 
+Once the operator had informed the Gabinete de Prevenção e Investigação de Acidentes com Aeronaves e de Acidentes Ferroviários (GPIAAF) of the event on 29 April, almost two months after it had occurred, an event evaluation process was followed with the assistance of the operator. This led to the conclusion that there had been “a high probability of an accident occurring”. However, given the repetitive nature of similar events at Lisbon involving both KLM and other operators and continuing work at the airport to mitigate the risk involved to the extent possible, only a “limited” Annex 13 Serious Incident Investigation was carried out.
+No information was recorded as to the experience of the two pilots involved except that they both “had some experience of operating to Lisbon” having done so 21 times in the Captain’s case and 12 times in the First Officer’s case. However, the Captain was the PF for the flight.
+What Happened
+The scheduled departure from the gate at Lisbon was delayed by half an hour because of the extended time required to check the boarding documentation of the 126 passengers in accordance with Covid 19 public health requirements in force. The same flight crew had operated the previous flight from Amsterdam to Lisbon. During the extended turnround, both pilots used their EFBs to calculate the required takeoff performance data.
+This involved entering takeoff data into the on-board LINTOP (Lido Integrated Takeoff Performance tool) system. Both pilots selecting the S1 intersection of runway 21 (see the illustration below) on the basis of the expected relatively low takeoff weight. Since this intersection was not recognised as a valid take-off point, the message “INTERSECTION DATA NOT AVAILABLE” resulted. Based on the available information including that contained in the operator’s internal investigation into the event, it was established that the crew had then re-inserted the takeoff position as ‘S’ omitting the suffix ‘1’ which led the system to calculate performance using this position, which was marked on the operator’s aerodrome chart as located at the beginning of the runway and was equivalent to intersection S4.
+On receipt of the load sheet, the crew had to re-enter takeoff performance data in the LINTOP system since the TOM on the load sheet exceeded that used for the earlier calculation. The take-off point entered was not changed and the takeoff speeds and assumed temperature then entered into the FMS represented those for use of the full length of runway 21 for takeoff.
+
+The Lisbon aerodrome chart marked with the start of takeoff positions intended, actual and assumed. [Reproduced from the Official Report]
+The aircraft subsequently taxied to intersection U5 in accordance with its ATC clearance and commenced takeoff from there when cleared. Main landing gear lift-off subsequently occurred with “approximately 284 metres of runway remaining” and the aircraft crossed the upwind runway threshold at between 45 and 70 feet agl.
+When later questioned by the operator after failing to file a safety report after the event, both pilots claimed that they had not noticed anything unusual about either the performance of the aircraft or anything else abnormal during the take-off roll. Both stated that fatigue had not been a factor in their performance.
+GPIAAF Observations
+It was considered appropriate to call the attention of all aircraft operators using Lisbon Airport and their corresponding State Safety Regulators to the risks involved in the performance of takeoffs from runway 21 from intersections with a TORA1 value shorter than planned.
+It was considered appropriate to emphasise to all aircraft operators the widespread concern about takeoff performance determination, which depends on the compliance with properly detailed cross checking of independently performed calculations.
+Safety Action taken by KLM as a result of this event was noted as having included changes to the ‘LINTOP’ performance tool designators for Lisbon, one of which ensures that a takeoff data request for the non-existent intersection ‘S’ will no longer result in the output of any performance data. The Investigation was also advised that KLM intended to introduce a better performance data calculation tool which would provide an illustration which will clearly show the runway and runway intersection on which a takeoff performance calculation is based. 
+Previous similar events at Lisbon
+The Investigation noted that a number of previous almost identical events had been subject to independently conducted Serious Incident investigations including the following:
+
+A KLM Boeing 737-800 takeoff on 3 December 2015 investigated by the Dutch Safety Board after delegation by the GPIAAF (Final Report available here)
+Easyjet A320 takeoffs on 24 April 2019 and 7 May 2019 investigated by the UK AAIB after delegation by the GPIAAF (Final Report available here) 
+An Easyjet A320 takeoff on 16 September 2019 investigated by the UK AAIB after delegation by the GPIAAF
+
+It was noted that all these events illustrated similar crew confusion in relation to the nomenclature of the S1 taxiway and S4 holding point and demonstrate that the tools, procedures and technology used for takeoff performance calculation are not always able to detect and alert the crew to the risks associated with possible errors in the selection of aircraft performance parameters.
+In respect of the UK AAIB investigation into the Easyjet event which occurred on 24 April 2019, it was noted that a Safety Recommendation to the airport operator to discontinue the use of the nomenclature 'Positions' which had been found to be a contributing factor to the event was issued on 9 January 2020. It was noted that almost 18 months later, this Recommendation was still “currently being implemented” with the airport operator foreseeing publication of the changes in August 2021. It was noted more generally that “given the growing trend in the number of reports of marginal take-offs and the studies currently available on this matter, the management of Lisbon Airport has designed some additional corrective measures, some have already been implemented and others are under consideration by the (Portuguese) National Civil Aviation Authority (ANAC), for possible implementation”. An already implemented interim action - the renaming of taxiways, intersections and takeoff positions to avoid possible misinterpretation of crews on current taxiways S1 or S2 compared to take-off hold point S4 - was noted to have been in place by NOTAM since December 2019 (see the illustration below) with an associated AIP updating process scheduled for 2 December 2021.
+
+The changes in taxiway designation planned for implementation from 5 December 2021. [Reproduced from the Official Report]
+The overall Conclusion of the Investigation was as follows:
+Current experience suggests that mistakes such as the ones described relating to this serious incident, where no consequences occurred, often go unreported. However, the GPIAAF recommends flight crew and operators to report such events, which will ensure that the lessons of the occurrence are shared with others, as with this case. 
+The Final Report of the Investigation was completed on 29 June 2021. No Safety Recommendations were made.
+Related Articles
+
+Use of Erroneous Parameters at Take-Off
+Aircraft Performance
+Electronic Flight Bag (EFB)
+Flight Data Monitoring (FDM)
+Take-off / Go-around (TO/GA) Mode
+A320, Lisbon Portugal, 2019
+
+Further Reading
+
+Final Report for KLM Boeing 737-800 takeoff on 3 December 2015, DSB Netherlands, July 2018
+Final Report for Easyjet A320 takeoffs on 24 April 2019 and 7 May 2019, UK AAIB, January 2020

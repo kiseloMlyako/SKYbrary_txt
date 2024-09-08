@@ -1,0 +1,133 @@
+Autonomous Distress Tracking (ADT)
+
+
+
+
+
+
+
+
+
+
+
+  Autonomous Distress Tracking (ADT)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+The capability using transmission of information from which a position of an aircraft in distress can be determined at least once every minute and which is resilient to failures of the aircraft’s electrical power, navigation and communication systems. (source: ICAO)
+Note: this capability is described under ‘Location of an Aeroplane in Distress’ in ICAO Annex 6 Part 1.
+Description
+The Autonomous Distress Tracking (ADT) function is used to identify the location of an aircraft in distress with the aim of establishing, to a reasonable extent, the location of an accident site within a 6 NM radius. It uses on board systems to broadcast aircraft position.
+To identify a distress condition, the aircraft state is analysed in real time by aircraft systems or ground processes and the use of event detection and triggering criteria logic initiates the notification of the alert to assist locating the aircraft in distress. Distress tracking is a combination of position reporting with a notification of distress. The event detection and triggering can be used to identify a distress condition, or to notify a distress condition and also commence transmitting of aircraft position information. Distress tracking manually initiated by the flight crew should also generate a notification.
+The triggering criteria include analysis of unusual attitudes, unusual altitudes, unusual speeds, potential collision with terrain, total loss of thrust/propulsion on all engines, Mode A squawk codes, etc. The triggers are defined making sure that the criteria used maximise the probability of detection of an upcoming catastrophic event. When an aircraft is in a distress condition position information is transmitted at least once every minute without the need for flight crew action. It is desirable that the aircraft position also includes altitude information. Identifying the location of the accident site may be further improved by increasing the frequency of information transmission.
+In terms of the autonomy, the ADT function transmits as long as practically possible during the distress condition. The onboard component is designed to continue transmitting for the expected duration of the remaining flight in the event of aircraft electrical power loss.
+The operator will be notified (directly or indirectly) when one of their aircraft is in a distress condition. The ADT function includes the capability to deliver the distress tracking information to SAR Agencies.
+In the case of an onboard triggered transmission system (distinctive distress signal), initial transmission of aircraft position information commences immediately or within five seconds.
+In case of recovery, distress tracking and any distress signal can be deactivated. However, this is only possible using the activating mechanism.
+A functionality to allow the aircraft operator to activate the ADT function could be included, for example, when there is uncertainty about the status of the aircraft and attempts to establish communications with the flight crew have failed.
+The ADT function is to be approved by the State of the Operator, considering high level performance criteria such as:
+
+Quality and integrity of data being transmitted;
+Robustness of the communication link, including timely receipt of information and recovery after link‐loss during unusual attitudes;
+Cyber security considerations;
+Robustness of the system performing the transmission;
+Global coverage;
+Accurate and timely information provided to the RCCs and operators;
+Minimisation of False Alerts.
+
+Related Articles
+
+Global Aeronautical Distress and Safety System (GADSS)
+ICAO Emergency Phases
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

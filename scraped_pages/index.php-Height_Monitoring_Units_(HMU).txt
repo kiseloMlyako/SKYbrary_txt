@@ -1,0 +1,136 @@
+Height Monitoring Units (HMU)
+
+
+
+
+
+
+
+
+
+
+
+  Height Monitoring Units (HMU)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+A HMU (Height Monitoring Unit) is a ground based system consisting of two main components - HME (Height Monitoring Element) and TMU (Total vertical error Monitoring Unit).
+The HME captures Transponder transponder signals from aircraft replying to interrogations from radar stations. The signals contain the information from modes S, C and A transmissions. The HME determines the geometric height and position of an aircraft by comparing the time of reception of the SSR transponder signals at different receiver locations. This information is transmitted to the TMU as one plot per second. The data is collated by the TMU to create a track history of the aircraft passing through the area of coverage. The track information is then combined with meteorological data to evaluate the overall value for Total Vertical Error (TVE).
+When completed, the monitoring process produces TVE (Total Vertical Error), AAD (Assigned Altitude Deviation) and ASE (Altimeter System Error) readings for each aircraft measured. In the European context, Height Monitoring results are automatically transmitted to the EUR RMA at EUROCONTROL Headquarters, Brussels where they are verified and credited to approved aircraft and operators.
+EUR Region HMU Locations
+EUROCONTROL owns and operates 3 Height Monitoring Units in Europe. These systems are strategically placed to monitor some of the densest portions of European airspace, thereby passively monitoring large numbers of aircraft at no cost to the operator:
+
+Linz in Austria - 48°12’08”N, 014°17’35”E (near LNZ VOR)
+Nattenheim in Germany - 49°56’45”N, 006°33’25”E (near NTM VOR)
+Geneva in Switzerland - 46°21’49”N, 005°55’34”E (near GVA VOR)
+
+
+Height Monitoring Units in Europe
+HMU radius of operation
+
+Linz - 45 nm
+Nattenheim - 45 nm
+Geneva - 45 nm
+
+Height Monitoring in NAM Region
+The FAA has developed its own ground based monitoring system that works on similar principles to the HMU but which is of an entirely different design. Data sharing between Eurocontrol and FAA indicates that similar results are obtained for aircraft that have been monitored by both systems.
+GPS Monitoring
+For aircraft that do not operate in areas covered by a ground based system there is an alternative option. This is the GPS Monitoring Unit which is a carry on system that records data directly from the aircraft systems, whilst recording GPS positional data. Following the flight the data can be processed with GPS differential corrections and meteorological data to determine the ASE characteristics. The main advantage of the GMU is that it can be used anywhere providing GPS differential corrections and meteorological data are available. The downside is that, as the operation requires a skilled operative on the flight, the cost is relatively high and only the one monitoring result is produced.
+Height Monitoring with ADS-B
+Investigations are under way to see if practical height monitoring systems can be developed to work with ADS-B signals, thereby increasing the number of aircraft that can be monitored at a fraction of the cost.
+Related Articles
+
+Altimetry System Error
+European Regional Monitoring Agency (RMA)
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

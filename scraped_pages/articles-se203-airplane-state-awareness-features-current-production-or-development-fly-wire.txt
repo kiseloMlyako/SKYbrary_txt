@@ -1,0 +1,136 @@
+SE203: Airplane State Awareness - Features for Current Production or In-Development Fly-by-Wire Airplane Designs (R-D)
+
+
+
+
+
+
+
+
+
+
+
+  SE203: Airplane State Awareness - Features for Current Production or In-Development Fly-by-Wire Airplane Designs (R-D)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+CAST Safety Enhancements 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ CAST
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ CAST
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Status: COMPLETED
+Background
+The purpose of this Safety Enhancement is to reduce the risk of loss-of-control accidents by having manufacturers study the feasibility of incorporating certain recommended design features into current production and in-development Fly-By-Wire (FBW) transport category airplane (TCA) type designs. Features for study should include:
+
+Bank angle protection
+Bank angle alerting and recovery guidance display systems
+Virtual day-Visual Meteorological Conditions (VMC) display systems, such as Synthetic Vision Systems (SVS) or equivalent, which permit flight crews to operate in a day-VMC-like environment, regardless of external visibility
+Energy state cues, such as flight path, acceleration, and speed deviation, in a manner similar to modern head-up displays for two scenarios:
+
+as part of a virtual-VMC display, and
+as a standalone implementation on the primary flight displays (PFD)
+
+
+
+Commercial Aviation Safety Team (CAST) and the Aerospace Industries Association (AIA) will review the results of the studies with manufacturers and propose follow-on CAST safety enhancements for development and implementation of forward-fit production line changes and retrofit service bulletins for those combinations of models and features determined by the studies to be feasible.
+A CAST study of 18 loss-of-control accidents and incidents resulting from flight crew loss of ASA determined that several design features, working separately or in conjunction, could have significantly reduced the likelihood of these accidents or incidents occurring.
+Related Implementation Plan
+Detailed Implementation Plan
+Related Outputs
+Feasibility studies for implementing bank angle protection in current production and in-development Fly-By-Wire (FBW) Transport Category Aircraft (TCA) type designs (Output 2) and bank angle alerting and recovery guidance display systems in current production and in-development FBW TCA type designs (Output 3) are complete.
+Related Safety Enhancements
+
+SE040: Envelope Protection – New Designs
+SE200: Airplane State Awareness - Virtual Day-VMC Displays
+SE201: Airplane State Awareness - Bank Angle Alerting and Recovery Guidance Systems
+SE202: Airplane State Awareness - Bank Angle Protection
+SE204: Airplane State Awareness – Features for Existing non-Fly-by-Wire Airplane Designs (R-D)
+SE205: Airplane State Awareness - Features for Out-of-Production Airplane Designs (R-D)
+
+
+
+
+
+Categories
+
+
+CAST Safety Enhancements,
+              CAST Safety Enhancements Plan
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

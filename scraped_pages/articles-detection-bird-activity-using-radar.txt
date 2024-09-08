@@ -1,0 +1,153 @@
+Detection of Bird Activity Using Radar
+
+
+
+
+
+
+
+
+
+
+
+  Detection of Bird Activity Using Radar
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Wildlife Strike 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Although radar has been used for large area tracking of migrating birds for many years, the requirements of small-area bird detection, at a scale suitable for airport hazard assessment and management, has been a relatively recent development.
+Relatively inexpensive X-band and S-band marine radar transceivers have been developed specifically to track birds. With radar scanning rates typically of 24 rpm - once every 2.5 seconds, it is now feasible to use it for both the capture of data on significant bird activity for planning and strategic management purposes and for the real-time tactical monitoring of such activity. Whilst obviously still expensive, where the degree of bird hazard is high, radar provides an option which should be seriously considered. Significant numbers of system deployments have now occurred although they are still mainly in the USA. Installations include civil applications at New York/John F Kennedy International Airport, Chicago/O'Hare International Airport and Seattle-Tacoma although the majority of both deployment and development activity is still focussed on military air movements.
+Use of Radar for Survey
+Even where it cannot be justified for permanent real-time bird activity monitoring, radar is increasingly being seen as an important component of bird hazard assessment at airports and as a means to target the airport operator’s risk management effort effectively.
+The key to success is to arrange for the deployment of mobile equipment for limited but carefully selected periods and ensure that automated data logging of bird movements is accomplished in a way that facilitates meaningful analysis. Ideally radar coverage will extend to the whole of the ICAO-defined 13km radius bird ‘safeguarding’ zone and include altitudinal coverage up to 5000 ft.
+The very latest developments in survey are looking at the systematic detection and recording of birdstrike ‘Near Miss Events’ - NMEs. The principle is that, if radar can detect 100% of near miss events in a way which permits structured - and automated - analysis, then hazard mitigation performance measurement will in future be able to be proactive - the detection of risk, rather than reactive - the recording of actual strikes. Hazard management may thereby be informed in a more timely manner and with real safety benefit where bird hazard is high.
+Use of Radar for Real-time Detection
+Early use of radar was to address specific high risk hazards at a few military bases and was effective only for detection of proximate aggregations of large birds. As at one early installation, RAF Kinloss in Scotland UK, the equipment was mobile and mainly used to monitor the approach to the runway in use. Since these pioneering applications, there have been big improvements in real-time detection capability. Real-time bird radar is still mainly used in military applications but is beginning to be deployed at civil airports where particular bird hazards have been identified.
+Seattle-Tacoma International Airport was the first civil airport to deploy real time bird tracking radar (in January 2010). The system detects individual birds from small sparrows to large Canada Geese up to approximately two miles away. The bird activity is then displayed in real time on a Google Earth map. Airport officials can take these maps with them on a laptop.
+The latest systems available use radar installations with a dual vertical and horizontal scanning configuration so that simultaneous 3D coverage is provided. Either or both of 360 degree area surveillance around an airport or the use of multiple sensors to scan individual runways and their approach and departure corridors is possible. Ranges of up to 10 miles are typically available. The detection and tracking software is specific to the bird detection task and may be configured remotely via LAN, WAN, internet or direct wireless links and the captured data is similarly accessible. Systems of this type typically have user-selectable visual, audible and messaging risk alert options and it is possible to integrate the radar display with air traffic control (ATC) radar and weather radar if required. It is possible to automatically link response (deterrence) to detection and provision can be made for the storage of the real time data in a suitable database so that it can also be used historically in any review of bird activity or the success of the response to it. Most systems are available as either fixed or mobile installations.
+The view from overhead of typical sector coverage at a multi-runway airport might look like the illustration below
+
+Bird strike radar
+Bird Detection Radar Effectiveness
+In early 2010, the U.S. Federal Aviation Administration (FAA) and the U.S. Department of Agriculture entered into an agreement with researchers to evaluate the effectiveness of avian radars at airports. While it had been previously established that radar can detect wild birds, there was little published information concerning the accuracy and detection capabilities of avian radar systems in regard to range, altitude, target size and effects of weather.
+In their study, researchers from the government and academia evaluated the ability of a commercially available avian radar system to detect and track free-flying raptors and water birds. The researchers, who focused initially on large species of birds, used a system in which field observers would notify a radar operator when a bird entered the study area, and the operator would confirm whether the bird was being tracked by the radar.
+According to a summary of the results, most of the large single birds seen by field observers within 2 nm (4 km) of the radar were tracked by the radar about 30 percent of the time. Flocks of large birds, including those that were located several nautical miles away, were tracked by the radar 40 to 80 percent of the time. The results suggest that radar can be a useful tool for monitoring bird flock activity at airports, but less so for monitoring large single birds.
+The radar system tested was capable of detecting and tracking large flocking birds to a distance of 4 nm (7 km), and likely to greater distances, the study said. But it also questioned whether real-time tracking and warnings of single targets are currently a feasible option. (Gerringer, et al)
+A separate study evaluated the effectiveness of three X-band marine radar sensors for tracking birds and flocks of birds observed on the airfield at Chicago O’Hare International Airport (ORD), one of the world’s busiest aerodromes. In the discussion section of their paper, the researchers said that, overall, the radar tracking rates for birds or flocks were lower than expected, based on the findings of other studies. The researchers attributed their results, at least in part, to size, complexity and activity/vehicle movement levels at ORD, compared with airports used in other studies. “Although the radar sensors we used were capable of tracking birds at relatively long distances (e.g., 4 km to 6 km [2 to 3 nm] from the radar sensor), these systems performed better when the bird or flock was close (e.g., less than 2 km [1 nm]) to the radars." (Phillips, et al)
+FAA Advisory Circular (AC) 150/5220-25, Airport Avian Radar Systems, provides guidance on the use of avian radar to supplement an airport’s wildlife hazard management plan. That guidance indicates that systems must be able to detect a medium size bird (about the size of a crow) with 90 percent confidence up to 1 nm (2 km) from the sensor and 75 percent confidence from 1 to 3 nm (6 km) away. Systems also must be capable of tracking at least 1,000 targets simultaneously and must be able to differentiate two standard avian targets when separated by 165 ft (50 m) or less in both range and azimuth at range of up to 1 nm.
+The FAA is engaged in ongoing research to determine the efficacy of using radar and other sensors to detect and track birds. The FAA most recently conducted research on the integration of bird radar into an airport's operational environment with avian radar deployments at Seattle-Tacoma International Airport, Dallas-Fort Worth International Airport and Naval Air Station Whidbey Island. Additional studies are being conducted for development of a new concept for integrating avian radar data into the air traffic control tower. The concept is known as the wildlife surveillance concept (WiSC) and has been designed to streamline and improve the flow of pertinent information about active hazardous bird activity through ATC to pilots.
+References
+
+Phillips, Adam C.; Majumdar, Siddhartha; Washburn, Brian E.; Mayer, David; Swearingin, Ryan M.; Herricks, Edwin E.; Guerrant, Travis L.; Beckerman, Scott F.; Pullins, Craig K. "Efficacy of Avian Radar Systems for Tracking Birds on the Airfield of a Large Internatinoal Airport". Wildlife Science Bulletin, 2018.
+Gerringer, Michael B; Lima, Steven L.; DeVault, Travis L. "Evaluation of an Avian Radar System in a Midwestern Landscape." Wildlife Science Bulletin, 2016.
+
+Further Reading
+
+Advisory Circular (AC) 150/5220-25, Airport Avian Radar Systems, FAA, November 2010
+
+
+
+
+
+Categories
+
+
+Wildlife Strike
+
+
+
+
+
+
+
+
+
+Related Articles
+
+Bird Strike
+Radar
+BIRDTAM
+Accident and Serious Incident Reports - BS
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

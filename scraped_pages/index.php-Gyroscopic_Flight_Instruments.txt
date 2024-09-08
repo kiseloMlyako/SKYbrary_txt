@@ -1,0 +1,125 @@
+Gyroscopic Flight Instruments
+
+
+
+
+
+
+
+
+
+
+
+  Gyroscopic Flight Instruments
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Gyroscopic Flight Instruments are instruments which have a mechanical gyroscope incorporated into their design.
+Description
+Gyroscopic flight instruments of some description are used in most general aviation aircraft and in older commercial aircraft. Examples of such instruments include attitude indicators, heading indicators and turn coordinators (turn and slip indicator). The gyroscopes within the instruments are usually electrically or vacuum driven and make use of the basic gyroscopic principles to display the attitude of the aircraft. In more modern installations, mechanical gyroscopes have been replaced by laser gyros.
+Gyroscopic Principles
+The principal characteristic of a gyro which makes it suitable for use in attitude instruments is Rigidity in Space. A secondary gyroscopic principle which must be understood and compensated for, as necessary, is Precession. Explanation of the terms is as follows:
+Rigidity in Space
+The primary trait of a spinning gyro rotor is rigidity in space, otherwise know as gyroscopic inertia. As stated in Newton's First Law, "a body in motion tends to move in a constant speed and direction unless acted upon by an external force". The spinning rotor inside a gyroscopic instrument maintains a constant attitude in space so long as no external forces act to change its motion. This stability will increases in proportion to any increase in mass or speed of the rotor. As a consequence, the rotors in gyroscopic aircraft instruments are constructed of heavy materials and are designed to spin at rates in the order of 10,000 to 15,000 revolutions per minute (RPM).
+Attitude and heading indicators use gyros as an unchanging reference in space; that is, once the rotor is spinning, it maintains a constant position with respect to the horizon or the direction. The rotor of a universally mounted gyro remains in the same position even as the surrounding circular frames or gimbals are moved. For all intents, this allows the aircraft to rotate around the gyro without changing the position of the rotor. The aircraft attitude or heading can thus be compared to the rotor to enable the instrument to display the actual attitude or direction.
+Precession
+Precession is the tilting or turning of the rotor axis as a result of external forces. When a deflective force is applied to a stationary gyro rotor, the rotor will move in the direction of the force. However, when the same force is applied to the rim of a spinning rotor, the force causes the rotor to move as though the force had been applied to a point 90 degrees around the rim in the direction of rotation. This turning movement or precession places the rotor in a new plane of rotation which is parallel to the force.
+Precession is caused by both friction within the gyro and by aircraft manoeuvring inclusive of turns, acceleration and deceleration. Precession causes a slow "drift" in the gyro and results in erroneous readings. Crosschecking the heading indicator or directional gyro with the magnetic compass and making the appropriate corrections should be accomplished on a regular basis.
+Gyro Power Sources
+Gyroscopic instruments are generally powered either electrically or pneumatically. In the former case, the rotor is incorporated as the armature of an electric motor while in the latter, a vacuum pump, driven by the engine, reduces the pressure within the instrument case. Filtered air from the cabin is drawn into the instrument, accelerated and directed at the rotor wheel to cause it to turn. Vacuum instruments are susceptible to under-reading due to rotor deceleration should the vacuum pressure drop and are not suitable for high altitude installations.
+Related Articles
+
+Gyromagnetic Compass
+Standby Flight Instruments
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

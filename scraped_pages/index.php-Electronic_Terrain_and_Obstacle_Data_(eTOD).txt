@@ -1,0 +1,128 @@
+Electronic Terrain and Obstacle Data (eTOD)
+
+
+
+
+
+
+
+
+
+
+
+  Electronic Terrain and Obstacle Data (eTOD)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Electronic Terrain and Obstacle Data (eTOD) is the digital representation of terrain and obstacles provided as datasets satisfying user requirements for a series of airborne and ground application such as EGPWS, TAWS, A-SMGCS, MSAW, Procedure Design etc.
+A terrain dataset is a digital representation of the elevation of the terrain at a number of discrete points. Major features of a terrain database include geometric distribution/position of discrete points, horizontal/vertical datum and specific units of measurement. In the context of eTOD, terrain is defined “The surface of the Earth containing naturally occurring features such as mountains, hills, ridges, valleys, bodies of water, permanent ice and snow, and excluding obstacles.”
+An obstacle database is a digital representation of the obstacles which includes the horizontal and vertical extent of man-made and natural significant features. In the context of eTOD, obstacles are defined as : “All fixed (whether temporary or permanent) and mobile objects, or parts thereof, that
+a) are located on an area intended for the surface movement of aircraft; or
+b) extend above a defined surface intended to protect aircraft in flight; or
+c) stand outside those defined surfaces and that have been assessed as being a hazard to air navigation.”
+The States are required to ensure the availability of electronic TOD, in accordance with stringent numerical requirements established for four distinct Areas of the State territory. These areas are:
+
+Area 1: the entire territory of a State;
+Area 2: terminal control area (or limited to a 45-km radius – whichever is smaller), sub-divided in 4 smaller sections;
+Area 3: aerodrome/heliport area: area that extends from the edges of the runway to 90 m from the runway centre line and for all other parts of aerodrome/heliport movement areas, 50 m from the edges of the defined areas;
+Area 4: Category II or III operations area (restricted to those runways intended for Category II or III precision approaches): the width of the area shall be 60 m on either side of the extended runway centre line while the length shall be 900 m from the runway threshold measured along the extended runway centre line.
+
+Further Reading
+
+ICAO Annex 15 - Section 5.3 ‘Digital Data Sets’
+ICAO Doc 10066 PANS-AIM Section 5.3 ‘Digital data’ and Appendix 1 ‘Aeronautical Data Catalogue’
+EUROCAE ED-98 (RTCA DO-276) — User Requirements for Terrain and Obstacle Data
+EUROCAE ED-119 (RTCA DO-291) — Interchange Standards for Terrain, Obstacle, and Aerodrome Mapping Data
+Eurocontrol Terrain and Obstacle Data (TOD) Manual
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

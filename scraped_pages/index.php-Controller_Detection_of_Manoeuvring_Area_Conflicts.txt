@@ -1,0 +1,232 @@
+Controller Detection of Manoeuvring Area Conflicts
+
+
+
+
+
+
+
+
+
+
+
+  Controller Detection of Manoeuvring Area Conflicts
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Runway Incursion 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Some Runway Incursion incidents could have been prevented if controllers had had better means to detect that the runway was occupied at the time of issuing clearance to the next aircraft to use the runway. This article describes the typical scenarios for runway conflicts not being timely detected as well as the safety barriers that could prevent such situations or mitigate the consequences.
+Currently, controller detection of potential runway conflict is one of the ATM top 5 operational safety priorities identified by EUROCONTROL Operational Safety Group (SAFOPS). It has been identified as an initiator in many high severity incidents (see the Tableau dashboard for details).
+Operational Context
+Aerodrome conflict scenarios are sometimes difficult to generalise due to the wide range of local variables. It might be difficult to separate the common (e.g. human error, safety barrier, etc.) from the specific (e.g. aerodrome layout, local equipment, local weather, etc.). The following factors have the greatest potential to affect the availability and the effectiveness of the safety barriers:
+
+Availability of surveillance information affects the likelihood of detection of RWY incursions and incorrect movement on the Manoeuvring Area. The level of ATC service may differ depending on equipage:
+
+No surveillance information available
+Basic Surface Movement Radar (SMR)
+Advanced Surface Movement & Guidance Control System (A-SMGCS) Level 1 (provides identification of aircraft and vehicles)
+Advanced Surface Movement & Guidance Control System (A-SMGCS) Level 2 (provides identification and alerting functions)
+Integrated Tower Working Position (ITWP) using input and display of the ATC clearances in addition to surveillance to enable the use of early warnings to highlight any non-conformance to clearance
+
+
+Visibility conditions from the Tower. The possibility of recognising potential threats in good time may differ depending upon visual impairment:
+
+day/night
+fog/mist
+low cloud affecting high control towers
+sunlight and glare during day
+precipitation on windows
+airport floodlighting during night, especially temporary work in progress
+
+
+Runway configuration can influence how the operations on each runway can be affected by the operations on the adjacent ones and therefore how the specific barriers can be applied:
+
+Multiple Parallel/Intersecting runways
+Mixed mode/Single mode operations
+
+
+Line of sight from the ATC Tower can differ based on the position, height, design, equipment and distance of the tower. These can restrict the direct view of the relevant part of the runways and manoeuvring area
+ATC Safety Net Alerts – their availability could impact the timeliness of conflict resolution:
+
+A-SMGCS Level 2
+Conflicting ATC Clearances (CATC)
+Conformance Monitoring for Controllers (CMAC)
+Airport Ground Systems, e.g. Runway Guard Lasers and Loops
+
+
+
+Typical Scenarios
+The majority of manoeuvring area conflicts fall into one of the following event types:
+
+Landing on runway already occupied – either by an aircraft/vehicle being on the runway or an aircraft/vehicle having received a clearance to enter the runway
+Take-off on runway already occupied– either by an aircraft/vehicle being on the runway or an aircraft/vehicle having received a clearance to enter the runway
+Entry onto runway by aircraft taxying for departure or by vehicle while at the same time another aircraft is taking off or landing
+Runway crossing while at the same time another aircraft is taking off or landing
+Surface movement conflict on runway – two or more aircraft/vehicles entering/crossing the runway at reciprocal points
+Departing or landing on intersecting runways – these events have four sub-scenarios:
+
+two aircraft departing from intersecting runways
+two aircraft landing on intersecting runways
+one aircraft departing and one aircraft landing on intersecting runways
+departing or landing aircraft against surface movement on intersecting runways
+
+
+Departing/landing on a taxiway (not a runway) while there is an aircraft or a vehicle on the taxiway
+Incorrect aircraft movement on the manoeuvring area. There are two subtypes of these events:
+
+aircraft takes incorrect taxy route
+aircraft incorrectly pushes back/enters on to manoeuvring area
+
+
+
+The manoeuvring area conflicts usually include at least one of the following events:
+
+Loss of Communication
+Incorrect ATC clearance
+Non-conformance with ATC clearance due to:
+
+spatial/positional confusion
+misinterpretation or mishear of the clearance
+poor CRM and forgetting to execute planned action
+
+
+
+The most frequent ATC contributing factors present in the sequence of actions leading to runway and manoeuvring areas safety occurrences are:
+
+Memory – most commonly a failure to check/monitor i.e. not following normal practice
+Perception – most commonly a failure to see something
+Operational environment – commonly distractions, visual impairments and noise
+Communication errors – incomplete, incorrect or ambiguous RTF
+
+Prevention and Mitigation Barriers
+The following barriers, when deployed and employed correctly, are capable of alerting ATC in time to prevent runway incursions and ground conflicts and/or to prevent a ground collision in case of runway incursion or a ground safety event.
+
+ATCO memory aids for issued (not issued) clearances
+ATCO direct visual detection
+ATCO visual detection using remote camera displays
+ATCO detection and/or resolution following pilot/driver report
+ATCO detection (e.g. of occupied runway) by use of basic Surface Movement Radar
+A-SMGCS level 1 providing identification of both aircraft and transponder-equipped vehicles
+A-SMGCS level 2 providing conflict alerts in addition to A-SMGCS level 1 data
+ITWP display of both traffic situation and controller input (ATC clearances), and alerting
+ATCO detection after alert from airport ground systems
+Use of discrete names for holding positions and pilot reports e.g. reporting point REKRA instead of P2
+A procedure stating that all vehicles entering a runway should display high visibility flashing/strobing lights on in all visibility conditions
+
+Further information on the prevention and mitigation barriers, and their effectiveness in real life events, is provided in the Controller Detection of Manoeuvring Area Conflicts – Safety Barriers article.
+Related Articles
+
+Controller Detection of Manoeuvring Area Conflicts – Guidance for Controllers
+Controller Detection of Manoeuvring Area Conflicts – Safety Barriers
+Methods to Show an Occupied Runway
+EUROCONTROL TOP 5 Operational Safety Priorities
+Active Ground Lighting Control
+Flight Operations Risk Assessment Checklist - Active Runway Crossing
+Land and Hold Short Operations
+Landing without ATC Clearance
+Low Visibility Procedures (LVP)
+Taxi-in Runway Incursions
+Advanced Surface Movement Guidance and Control System (A-SMGCS)
+Hot Spots at Aerodromes
+Intersecting Runways Operations
+Runway Incursion and Airport Design
+Runway Status Lights (RWSL)
+
+Further Reading
+
+Operational Safety Study: Controller Detection of Potential Runway and Manoeuvring Area Conflicts, by EUROCONTROL SISG
+Analysis of reported runway incursion serious incidents - European data sample of 2013 – 2015, EUROCONTROL, Feb 2017
+Analysis of investigated runway incursion accidents and serious incidents - worldwide data sample of 2006 – 2016, EUROCONTROL, Apr 2017
+EUROCONTROL NM Top 5 Operational Safety Review: Controller Detection of Potential Runway Conflict, by EUROCONTROL, 2022
+
+
+
+
+
+Categories
+
+
+Runway Incursion,
+              Preventing Incorrect Presence on Runway
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

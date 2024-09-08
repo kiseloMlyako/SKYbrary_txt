@@ -1,0 +1,119 @@
+Aircraft Turn Performance - Early Turn
+
+
+
+
+
+
+
+
+
+
+
+  Aircraft Turn Performance - Early Turn
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Reminder Message
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What we have been informed
+
+EUROCONTROL Agency (DAP/SAF) has been informed by an European ANSP Safety Manager of a concerning observed aircraft turn performance;
+Specifically, the en-route operations now demand the use of Area Navigation Systems. These systems initiate the turning manoeuvre without over-flying the prescribed waypoint or VORs; e.g. for medium turning manoeuvre at least 5/8 nm before the turning point, and even more in case of a wide angle. However, in some circumstances turns may be commenced earlier than would be strictly necessary in order to provide a safe and comfortable transition. The reasons are summarised below.
+
+What we have been briefed by an aircraft manufacturer
+An Aircraft Manufacturer has been approached by the SISG secretariat and his point of view elicited (see the attached presentation) as follows:
+
+There are reports indicating that turns may occur earlier than expected at some locations. Such behaviours were reported in climb. For the descent this behaviour has not been reproduced. The issue depends on the way the Flight Management System computes the 'fly-by' transition. It is based on the expected altitude of the aircraft at the waypoint to be sequenced. If the predicted altitude is below FL200, a higher bank angle is assumed possible than when the predicted altitude is above FL 200. Above FL 200, the lower permitted bank angle results in an increase in the turn anticipation distance up to a maximum of 20 nm. However, the turn is planned on the predicted altitude at the turn and it may therefore happen that an aircraft actually below FL 200, may start the turn at up 20 nautical miles before the waypoint. The actual distance of turn anticipation being dependent upon the geometry of the turn and the aircraft speed.
+This needs to be considered in the design of the route structure, turn anticipation being of greater significance when large track angle changes are to be realised. Further guidance on B-RNAV route spacing may be obtained by reference to the Navigation Domain website.
+Operational workarounds are possible on the flight deck but such operations are unlikely to be followed as a normal operational practice and controllers should be advised of the potential for such early turns.
+
+Disclaimer
+© European Organisation for Safety of Air Navigation (EUROCONTROL) September 2004. This alert is published by EUROCONTROL for information purposes. It may be copied in whole or in part, provided that EUROCONTROL is mentioned as the source and to the extent justified by the non-commercial use (not for sale). The information in this document may not be modified without prior written permission from EUROCONTROL. The use of the document is at the user’s sole risk and responsibility. EUROCONTROL expressly disclaim any and all warranties with respect to any content within the alert, express or implied.
+
+
+
+
+Categories
+
+
+Safety Reminder Message
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,362 @@
+F50, Helsinki Finland, 2021
+
+
+
+
+
+
+
+
+
+
+
+  F50, Helsinki Finland, 2021
+
+
+
+
+
+
+
+
+
+Summary
+
+On 25 November 2021, a Fokker F50 departing Helsinki experienced an engine malfunction that resulted in an uncommanded propeller feathering. The associated engine continued to run until shutdown, during which time it began to overspeed. The aircraft landed safely, but the failure experienced was untrained, and this led to both direct and indirect consequences that resulted in a suboptimal crew response to the emergency. The Investigation also highlighted opportunities to improve aspects of the air traffic control emergency response during such emergencies and identified language proficiency certification issues.
+
+
+
+
+Event Details
+
+When
+
+25/11/2021
+
+
+
+Event Type
+
+
+AW,
+              HF,
+              LOC
+
+
+
+
+Day/Night
+
+Night
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+FOKKER F50
+
+
+
+
+
+
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Helsinki/Vantaa
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Joensuu
+
+
+
+
+
+
+
+Actual Destination
+
+
+
+
+Helsinki/Vantaa
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Take Off
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+EFHK
+
+
+
+
+General
+
+Tag(s)
+
+
+              Air Turnback,
+              Deficient Crew Knowledge-systems,
+              Deficient Pilot Knowledge
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Distraction
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Loss of Engine Power,
+              Flight Management Error,
+              Incorrect Aircraft Configuration
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Engine - General
+          
+
+
+
+Contributor(s)
+
+
+              Maintenance Error (valid guidance available),
+              Component Fault in service
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Airworthiness
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 25 November 2021, a Fokker F50 (SE-MFZ) being operated by Amapola Flyg on a domestic passenger flight from Helsinki to Joensuu as APF322 in night VMC experienced unidentified transient warning annunciations just before rotation for takeoff. Almost immediately after becoming airborne, a malfunction of the left engine became apparent, which was due to an uncommanded left propeller autofeather. The left engine was shut down, a MAYDAY was declared, and a relatively uneventful return to land at Helsinki followed with no damage to the aircraft or injury to its occupants.   
+Investigation
+An Investigation into this Serious Incident was carried out by the Safety Investigation Authority of Finland (SIAF). Relevant data were downloaded from both the CVR and FDR, and relevant information was also obtained from recorded ATC radar and communications data and from Emergency Response Centre and RFFS vehicle camera recordings.
+The 52-year-old captain had a total of approximately 11,000 hours flying experience, of which 8,000 hours were on type. His licence endorsement of level 4 English language proficiency was found to have expired on 31 January 2021. However, on request, he then produced a more recent copy of his licence which contained a level 6 English language proficiency endorsement dated 10 March 2021 which had been issued during a recurrent simulator check. The 33-year-old first officer had a total of approximately 1,400 hours flying experience, of which 1,100 hours were on type. The controller who handled the emergency held both TWR and APP ratings and had over 20 years experience as a controller, almost all of it obtained at Helsinki airport.   
+What Happened
+Taxiing for departure from runway 22L with the captain as the PF was uneventful. However when just a few knots below V1 during the subsequent takeoff roll, the Integrated Alerting Unit sounded two chimes, the second much shorter than the first, and a warning light illuminated on the Central Annunciator Panel. Because of the timing relative to rotation and the momentary nature of these indications, neither pilot had sufficient time to diagnose their significance. After the PM had checked the engine instruments and found nothing abnormal, the takeoff was continued. As rotation was initiated at VR, a Master Warning light illuminated and its accompanying triple-chime aural alert sounded. 
+The PM called a left engine malfunction once the aircraft was airborne, and the PF responded by instructing him to check and report the power settings on both engines. This check showed that whilst both engines were operating, engine and propeller speeds on the left engine were abnormal with the indicated engine speed below the green arc and indicating that the propeller was providing 50% of the total power. The PM added that the left propeller had not autofeathered and the PF then instructed the PM to carry out the left engine shutdown procedure. 
+In this unanticipated and initially confusing situation, selection of the landing gear up did not occur and it remained down for the entire duration of the flight. The consequent significant drag reduced the achievable rate of climb to approximately 400 fpm. The crew actioned the aircraft operator’s engine-out on departure procedure for runway 22L which called for a heading of 218° for 5nm followed by a turn to waypoint VAVIS to take up a hold there. During the climb to the single-engine acceleration height, the PM set transponder code 7700 and set the TCAS to TA mode.
+The TWR controller saw the 7700 squawk on his display and on calling the flight received a MAYDAY response advising that the flight had a left engine failure. He then advised that all runways were available. The PM requested runway 15 and advised that the aircraft still climbing to the acceleration height and routing to VAVIS. Having discussed the situation with the APP controller, who was content that the returning aircraft remain on TWR throughout its flight, the TWR controller provided combined local and approach control based on his ratings for both roles.  
+Once at the single-engine acceleration height at approximately 1,200 feet AGL about two minutes after takeoff, the flaps were raised. This led to a brief loss of approximately 100 feet of altitude, which activated a Mode 3 EGPWS "DON’T SINK" alert as the aircraft was below 1,500 feet AGL. On querying the aircraft’s climb capability, the controller was advised climb at no more than 400 fpm was possible, and he cleared the flight to climb to 3,000 feet QNH. Soon after giving this clearance, the controller noticed that the aircraft was heading towards a tall transmission tower and instructed the flight to turn right. The turn took the aircraft momentarily outside the terminal control area (TMA) and into Class ‘G’ airspace.  The QRH engine failure procedure was then completed. The PM then made a cabin PA advising passengers and the cabin attendant of an engine malfunction and explained that a return to Helsinki was now in progress with a landing there expected in about ten minutes. A direct interphone brief was subsequently given to the cabin attendant during final approach in respect of post-landing actions, explaining that the intention was to taxi in and park normally.
+The pilots conducted the approach checklist including an approach briefing, and the controller, already aware that the PM was a native Finnish speaker asked, in Finnish, for the POB (number of Persons On Board), the fuel on board, and details of any dangerous goods on board. Up to this point, the controller and the pilots had communicated in English, whilst the pilots had conversed with each other in Swedish. The PM responded to the controller that “he would pass the required information in English in order to make the discussion understood by the PF.” Several messages were exchanged until a mutual understanding on this point was reached. The PM then reported the POB, but not the fuel on board or any presence of dangerous goods, and the controller made no further inquiries on these matters at this time. 
+The flight was cleared to 2,000 feet and advised that it was approximately 13 nm from landing under radar vectoring to runway 15 as requested. The controller then repeated his request for the amount of fuel on board and was told there was 2,720 kg remaining. The controller provided radar vectors to the runway 15 ILS and followed this with a landing clearance. When the PF called for “gear down,” the PM replied that it was already down and confirmed that this had been the case throughout the flight. Touchdown occurred after just under 13 minutes airborne and taxi in to stand 124 followed.
+Why It Happened
+Examination of FDR data showed that two seconds after rotation had been initiated, the left propeller had feathered, triggering a "L ENG OUT" Warning. However, both engines continued operating with the right engine power automatically increased. The left engine was shut down 9 seconds after the left propeller feathered at 60 feet AGL and 114 KCAS. When the uncommanded feathering of the left propeller occurred, the normal EEC response of increasing power to compensate for any increase in propeller blade angle occurred. This resulted in an abrupt increase to and beyond the maximum indicated left engine torque (although as the FDR did not record torque values above 120%, the actual peak torque could not be established). Until it was shut down, the left engine was able to rotate the feathered propeller at around 50% of its normal speed which temporarily created considerable aerodynamic drag. A recreation of what the flight deck engine and propeller instrumentation would have looked like after the uncommanded autofeather but before the left engine was shutdown compared to normal is shown in the illustration below.
+
+Normal takeoff engine indications (left) and with the left propeller feathered, but the engine still operating (right). [Reproduced from the Official Report]
+On disassembly, the left engine autofeather unit was found to have internal damage to its difficult-to-remove torque sensor connector. Although there was evidence this condition had recently caused transient abnormalities and triggered very brief alerting, including just before takeoff on the investigated flight, an uncommanded autofeather had not occurred until the sensor fault continued for more than 0.12 seconds.
+It was found that the left engine, which had no history of autofeather unit malfunction, had been installed the month prior to the investigated event after previous removal because of an oil leak which had required it to be sent to an MRO. Once this work, which had not involved any access to the autofeather unit torque sensor, had been completed, the ready-to-install engine would have been prepared for shipment in such a way that the failed torque sensor would not have been at risk of damage once it left the MRO. However, just prior to leaving the MRO, the engine was subjected to a required test which had involved a wiring harness at a test bench being connected to the engine which required a plug to be installed in the torque sensor. It was concluded that damage to a pin integral to the torque sensor connector (see the illustration below) had occurred during plug installation for this test when the pin inside the connector had been subjected to bending. Although the bent pin had not been visible externally, it was considered that “higher-than-normal force had been required to rotate the plug” - which explained the later difficulties during its removal due to the tight fit. It was noted that shrink sleeving over the connector reduces vibration and prevents the ingress of contaminants but in this case had also provided additional rigidity to the connector and thereby prevented an earlier occurrence of the autofeather unit fault following installation of the engine.
+
+The autofeather unit torque sensor connector prior to insertion (1) correctly inserted (2) and as found with the pin bent but just capable of retaining contact with the (green) receptor sleeve but subject to transient connection failure (3). [Reproduced from the Official Report]
+On ancillary matters, the Investigation’s observations included the following:
+
+The same flight crew had operated the last flight into Helsinki the previous day. Following engine shutdown, the captain had discussed with the company station engineer the occurrence during their earlier takeoff from Helsinki of a transient aural and visual alert which the crew had been unable to identify before it ceased. This occurrence was not entered in the aircraft Technical Log which meant that the company’s maintenance organisation and other pilots that might fly the same aircraft would remain unaware of its existence. It was noted that such an entry need not ground an aircraft but will serve to enable other pilots to anticipate the occurrence of possible system alerts and warnings and also make the maintenance organisation aware of a possible specific fault, thus “enabling early and correctly focused maintenance actions”. If such an entry is not made, an incipient fault “may remain latent over an extended time”.
+If engine instrument indications are difficult to interpret or they are not consistent with training scenarios, effective crew analysis may be delayed or unsuccessful, which in turn may prompt the pilots to carry out a critical intended action incorrectly. 
+The aircraft operator’s pilot training did not cover uncommanded autofeather occurrences, which have been shown to arise in a number of different ways and due to a range of causes. In the investigated event, the pilots decided they had an engine failure, even though both engines continued in normal operation. Because they had not encountered a similar problem either in flight or in the simulator, they experienced difficulties in conducting a timely and correct fault analysis. The fact that they were faced with an unfamiliar situation that they had not been trained for hampered the analysis and the handling of the anomaly. This distracted the pilots and contributed to the landing gear remaining down throughout the entire flight.
+Having previously identified the first officer as a native Finnish speaker, the controller therefore elected to transmit a message in Finnish. Even though the first officer understood the controller’s questions, he asked if he could answer in English. English is the most commonly used language in commercial aviation, and it should be used as much as practicable, including in emergencies. In this case, use of a local language indirectly led to the crew failing to report the presence of dangerous goods on the aircraft, a standard request where an emergency landing is expected.
+The Captain’s language proficiency endorsement had been raised from level 4 to level 6 on the date of a proficiency check in a simulator, whereas the Swedish regulator has decreed that only level 4 endorsement can be granted during a simulator check.
+
+Previous Similar Events
+A number of previous instances of uncommanded feathering occurring to the PW125B engine type as fitted to the Fokker F50 were found, which included the following:
+
+In 2021, a Fokker 50 in Norway experienced an uncommanded feathering of the right propeller immediately after takeoff, and the engine continued to operate and was shut down. The probable cause was identified as a fractured solder joint on the autofeather unit printed circuit board.
+In 2017, a Bombardier DHC8-300 in Australia experienced airframe vibration and the crew noticed a change in the engine sound. When the crew observed that the right propeller speed was about 50% of normal and engine torque had exceeded its limits, they concluded that the malfunction was an uncommanded feather incident and shutdown. The cause of uncommanded feathering was not established.
+In 2015, an ATR 72 in Taiwan experienced an engine failure during the initial climb, but the pilots shut down the operating engine which resulted in a fatal accident and significant loss of life. The propeller feathered unexpectedly but the engine remained in operation. The cause of uncommanded feathering was a fractured solder joint on the autofeather unit printed circuit board.
+In 2005, a Fokker 50 in Australia experienced an uncommanded feathering of the right propeller approximately one minute after takeoff. This caused engine torque to exceed the maximum permitted value and the affected engine was shut down. The autofeather unit circuit board showed signs of a voltage spike, but the exact cause of feathering could not be pinpointed.
+
+Ten Conclusions from the Investigation were formally documented:
+
+Upon signal interruption, the autofeather unit commanded feathering of the left propeller, but the engine continued to operate. Handling of similar situations is not drilled during pilot training.
+The pilots failed to raise the landing gear due to high workload and because they did not conduct the After Takeoff Checklist.
+Pilots should be trained to recognise and handle uncommanded feathering.
+Engine power cannot be used effectively while a feathered propeller overstresses the engine.
+Both the pilot and the airline should ensure that the pilot’s licence contains a valid language proficiency endorsement to enable the pilot to exercise the privileges of a flight crew member.
+A frequency that enables direct communication between an airport rescue service and flight crews will help both parties to build situational awareness. Such a frequency should be readily available for flight crews.
+Special attention must be paid to the condition and correct installation of (aircraft electrical) connectors.  
+Before issuing an alert, (Helsinki) controllers should use the colour of the (appropriate) alert form to determine which of the alert pushbuttons (which are differentiated by colour but not labelled by event type) should be operated.
+Air Traffic Controllers shall (always) agree positively on the responsibility for controlling a flight.  
+The appearance of the abbreviation EM in a radar label should be accompanied by an aural alert that would direct the controller’s attention to the emergency situation.
+
+Safety Action taken by Amapola Flyg during the course of the Investigation was noted as having included:
+
+updating the landing gear-related instructions in its Operations Manual to require pilots to raise the landing gear as the first item in sequence after reaching V1 in the event of an engine malfunction. 
+Adding a new requirement to its Operations Manual for the Pilot Flying to conduct a briefing on engine malfunction procedures before the first flight of the day. 
+
+Four Safety Recommendations were made as a result of the Investigation as follows:
+
+that Fokker Services as the type certificate holder and Pratt & Whitney as the engine manufacturer cooperate to look at the possibility of building system redundancy to ensure that the failure of a single torque sensor will not cause uncommanded feathering. [2022-S28] 
+that Fokker Services as the type certificate holder and Pratt & Whitney as the engine manufacturer cooperate to examine the case for automatic engine shutdown upon uncommanded feathering. [2022-S29]
+that Fokker Services as the type certificate holder adds uncommanded feathering procedures in the pilots training syllabus. [2022-S30]
+that Fokker Services as the type certificate holder adds to the abnormal and emergency checklists a separate item that instructs pilots to verify landing gear retraction. [2022-S31]
+
+The Final Report was published on 22 November 2022.
+Related Articles
+
+Loss of Control
+Feathering
+Propeller
+Drag
+Engine Indicating and Crew Alerting System (EICAS)
+Aircraft Technical Log
+Abnormal and Emergency Checklists
+English Language Proficiency Requirements
+Multi-language ATC Operations
+AT76, vicinity Taipei Songshan Taiwan, 2015

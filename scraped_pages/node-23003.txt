@@ -1,0 +1,149 @@
+Ageing Aircraft - Structural Failure
+
+
+
+
+
+
+
+
+
+
+
+  Ageing Aircraft - Structural Failure
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Airworthiness 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+An aircraft begins to age as soon as it first flies and various effects of aging begin to occur almost immediately. However, the term is usually applied to the issues which can begin to arise as the time-since-new becomes significant - and greater than the average age of similar class aircraft.
+Discussion
+The process of aircraft design and the subsequent establishment of principles for an approved maintenance programme aim to take full account of the effects of continued use of aircraft. Damage tolerance and safe life design philosophies are applied nowadays and appropriate inspection methods and inspection intervals are developed to identify the effects of accidental, environmental or fatigue damage. It is also now usual for a fatigue-related sampling inspection programme and a corrosion prevention and control programme to be established.
+Keeping older jet aircraft in an airworthy condition has been found to present special difficulties which have not all been addressed by prescribed maintenance. The serious continuing airworthiness issues which have arisen in many ageing aircraft have often been a direct consequence of the gap between current and former practices required for aircraft Type Certificate issue and maintenance programme approval.
+Until quite recently, some significant issues arising from aircraft age had not been recognised and addressed until after fatal accidents had occurred. More recently though, the general principles of system deterioration, which affect all older aircraft, are receiving renewed attention. The United States, which has seen most examples of accidents attributed to aging aircraft problems, has for some years now had a joint civil-military organisation called the Joint Council on Aging Aircraft (JCAA) to coordinate the development of risk management solutions for the various types of aging aircraft problem, especially structures. Awareness of these safety issues in the other leading airworthiness jurisdictions of design, production and maintenance regulation is now similarly high and preventive interventions are being developed.
+The maintenance issues which have particularly arisen with aging aircraft structural failure have generally been seen as arising from fatigue or corrosion, with corrosion sometimes initiating fatigue effects.
+Metallic Corrosion
+Metallic Corrosion occurs when chemical action causes deterioration of the surface of a metal. Most corrosion is galvanic or electrolytic in origin, which means that it has occurred because two dissimilar metals have been together in an electrolyte (usually contaminated water). This effect can also occur at the microscopic grain boundaries within a metal alloy. However it arises, it may go undetected and result in loss of integrity of metallic structures. Prevention in the long term will be by better design and selection of materials, which now include proven non metallic composites. There is also a need for a better understanding of the detailed effects of corrosion on structural integrity. Chronological age is especially relevant to corrosion incidence, as are the ground environment where an aircraft is usually parked and the typical flight environment.
+For existing aircraft, improved inspections, including the use of non-destructive testing (NDT), and the management of any corrosion found through effective repair techniques, mapping technologies, and recording are the main option. However, in all cases, better use may be able to be made of corrosion prevention technologies including substitution of alternative materials or the use of coatings or inhibitor treatments.
+Of the three main areas of aging aircraft safety concern, corrosion was probably the first to be routinely recognised and so dramatic events attributable solely to undetected corrosion are relatively infrequent thanks to extensive, and generally effective, inspection regimes.
+Structural Fatigue
+Structural fatigue has produced a number of ageing aircraft losses. An early illustration of the extent to which the controls against fatigue failure introduced during the early years of the ‘jet age’ might have been inadequate was delivered by a 1988 incident to a 19-year-old Boeing 737-200: on an internal flight in Hawaii it suffered sudden structural failure and explosive decompression at FL240. Nearly 6 metres of cabin skin and structure aft of the cabin entrance door and above the passenger floor line separated from the aircraft. The subsequent investigation found de-bonding and fatigue damage which had led to the failure. For that aircraft at least, the introduction of static test hulls with simulated hours and cycles kept well ahead of equivalent in-service aircraft was not sufficient. The aircraft involved had completed 89,680 flight cycles with an average flight time of only 25 minutes, almost all of them in the marine environment of the Hawaiian Islands, a somewhat atypical service life which was considered to have allowed corrosion to increase the likelihood of fatigue. See B732, en-route, Maui Hawaii, 1988.
+The possibility of structural fatigue from any origin has been actively considered since the advent of pressurised aircraft when there were accidents attributable to an insufficient understanding of some basic design issues. Since then, aircraft design procedures have involved the carefully-researched creation of structures which will withstand a stated number of flight cycles and/or flight hours with a low probability that the strength of the structure will degrade below its designed ultimate strength before the end of its approved life. However, sometimes older structures are found to no longer meet their damage tolerance requirements because repeated cyclic or exceptional ‘g’ loading has unexpectedly produced cracks of a sufficient size and density in a structure to weaken it so much that it no longer has the intended residual strength. This may happen not just in metals but other materials which are increasingly used in aircraft construction. The only available defence is better detection inspections during base maintenance including the use of NDT. In some cases, this means proper application of existing maintenance procedures, especially in respect of repairs; but in other cases, the specification and oversight of those procedures has been such as to make detection of dangerous levels of structural fatigue unlikely, especially when a direct or indirect consequence of a repair.
+The mechanism by which fatigue propagates in a structure is the well-known crack. Cracks propagate because the geometry of a crack produces a very high concentration of stress at the end of the crack and eventually, if a growing crack goes undetected, fracture will occur.
+Fatigue cracks have been found to arise in three main ways:
+
+in internal load-bearing airframe structural components which can develop stress ‘hot spots’;
+in load bearing skins of large aircraft in which the skin itself carries a significant structural load;
+from fastener holes such as those for rivets, bolts, nuts and screws where localized stress concentration can initiate premature cracking.
+
+Finally, as with Ageing Aircraft - Electrical Wiring, it also appears that there has often been ineffective safety reporting to the NAA which has approved an aircraft operator or maintenance organisation. This is especially true of minor but possibly significant incident or inspection findings which, taken together, could have helped identify interventions capable of preventing a Significant Incident or Accident.
+Accident & Serious Incident Reports
+
+G73T, vicinity Miami Seaplane Base FL USA, 2005: One dramatic and fatal example of structural fatigue was a 58 year old Grumman G73T Turbo Mallard Seaplane which in 2005 shed the complete right hand wing whilst on a domestic revenue flight in the USA when the main spar failed. The investigation found that the right wing separated from the accident airplane because of multiple pre-existing fatigue fractures and cracks which reduced the residual strength of the wing structure.
+B742, en-route, Penghu Island Taiwan, 2002: On 25 May 2002, a China Airlines Boeing 747-200 broke up in mid air, over Penghu Island Taiwan, following structural failure as a result of an improper repair in 1980, which had not been detected by subsequent inspections.
+B741, en-route, Gunma Japan 1985: On August 12, 1985 a Boeing 747 SR-100 operated by Japan Air Lines experienced a loss of control attributed to loss of the vertical stabiliser. After the declaration of the emergency, the aircraft continued its flight for 30 minutes and subsequently impacted terrain in a mountainous area in Gunma Prefecture, Japan.
+
+These accident investigations found that following structural repairs, the normal procedures for monitoring continued structural integrity had not been effective even to the extent that they were correctly followed.
+Maintenance is not always directly implicated - and the structures involved are not always metal ones. In 1989, a large part of the rudder of a Concorde supersonic aircraft fractured and separated in flight due to failure of the composite material which was attributed to moisture ingress over a significant period prior to the accident. See: AAIB Report on accident to Concorde 102 G-BOAF, over Tasman Sea, about 140 nm east of Sydney, Australia, on 12 April 1989
+Related Articles
+
+Airworthiness
+Ageing Aircraft - Electrical Wiring
+Accident and Serious Incident Reports: AW - a selection of reports concerning events where airworthiness was a causal or contributory factor.
+
+Further Reading
+
+The FAA Aircraft Certification Service on-line training course "Lessons Learned From Transport Airplane Accidents"
+Aircraft Corrosion - Transport Canada Poster illustrating airframe corrosion processes
+ATSB Transport Safety Report - AR-2008-055: An Overview of Human Factors in Aviation Maintenance, Alan Hobbs Ph.D.
+
+
+
+
+
+Categories
+
+
+Airworthiness,
+              Enhancing Safety
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

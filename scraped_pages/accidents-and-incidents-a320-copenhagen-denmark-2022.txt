@@ -1,0 +1,327 @@
+A320, Copenhagen Denmark, 2022
+
+
+
+
+
+
+
+
+
+
+
+  A320, Copenhagen Denmark, 2022
+
+
+
+
+
+
+
+
+
+Summary
+
+On 8 April 2022, an Airbus A320 made a multiple bounce touchdown at Copenhagen followed by thrust reverser deployment. The Captain rejected the landing and began a go-around but as the left main gear had bounced and was not on the ground when thrust was set, the left engine reverser did not stow. Full aircraft control was briefly lost and a runway excursion narrowly avoided before a recovery to a single engine MAYDAY circuit and landing followed. Engine software design prevented thrust reverser stowage without weight on wheels which was why rejected landings after reverser deployment were prohibited.
+
+
+
+
+Event Details
+
+When
+
+08/04/2022
+
+
+
+Event Type
+
+
+AW,
+              HF,
+              LOC
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS A-320
+
+
+
+
+
+
+
+
+
+Operator
+
+TAP Portugal
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Lisbon Humberto Delgado Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Copenhagen Airport, Kastrup
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Landing
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+EKCH
+
+
+
+
+General
+
+Tag(s)
+
+
+              Deficient Crew Knowledge-handling,
+              Landing Flare Difficulty
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Manual Handling,
+              Procedural non compliance,
+              Ineffective Monitoring - PIC as PF
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Flight Management Error,
+              Temporary Control Loss,
+              Hard landing
+          
+
+
+
+
+EPR
+
+Tag(s)
+
+
+              MAYDAY declaration
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Engine - General
+          
+
+
+
+Contributor(s)
+
+
+              OEM Design fault
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Airworthiness
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 8 April 2022, a CFM56-5B engined Airbus A320 (CS-TNV) being operated by TAP Air Portugal on a scheduled international passenger flight from Lisbon to Copenhagen as TP754 initiated a day VMC go around after the main gear legs bounced several times during touchdown at destination. However, the thrust reverser on the left engine did not stow and so the left engine remained at flight idle. After a brief loss of full aircraft control, recovery followed with a MAYDAY declared and a single engine repositioning to a second successful landing.
+Investigation
+Useful data were obtained from the removed SSFDR and the SSCVR as well as the QAR and based on the latter, the aircraft operator created a useful computerised simulation of the aircraft behaviour during the event sequence and provided it to the Investigation. The NVM of both engine control units (ECU) was downloaded and it was found that neither had recorded any of the possible 14 such fault codes. ATC recorded radar and voice communications was available and useful as were airport CCTV recordings.
+The 40 year-old Captain, who was acting as PF for the sector, was recorded as having a total of 10,000 hours flying experience including 5,000 hours on type. Of these totals, 8,705 of the 10,000 hours on all types had been flown whilst employed by TAP as had 3,348 of the 5,000 hours on type. The 34 year-old First Officer was recorded as having a total of 3,160 hours flying experience which included 989 hours on the A320 which he had been flying since becoming a TAP employee.
+What Happened
+The AP was disconnected at approximately 1,400 feet and the crew acquired visual contact with the landing 2,635 metre-long runway 30 which was wet. As ATC had requested the flight to vacate the runway via taxiway ‘D’, the Captain decided that, given the intended 140 knot landing speed and the wet runway, this would require the use of reverse thrust.
+The approach was stabilised throughout and landing clearance was received as the aircraft passed approximately 200 feet agl. The clearance was accompanied by a spot wind of 250° at 21 knots gusting to 31 knots. During the flare, at approximately 10 feet agl and at 144 KCAS, the Captain initially retarded both thrust levers to idle. The aircraft drifted slightly right of the runway centreline and banked briefly to the left (7.4°) and just prior to main gear runway contact, the Captain selected maximum reverse thrust on both engines. When each main gear had made contact with the runway and its WOW switch had operated, its reversers deployed. However, the left MLG made a bounced contact which caused its shock absorber to extend which removed the WOW signal. The Captain reported having “felt uncomfortable with the aircraft attitude” and decided to go around. He therefore called for flaps 15° and set the thrust levers to TO/GA.The right engine thrust reverser stowed and it started accelerating to TO/GA thrust but the left engine thrust reverser did not stow and it remained at idle.
+The Captain immediately began experiencing “unanticipated difficulties controlling the aircraft” (see the illustration below) and it began drifting left of the runway centreline. The commander applied a maximum of 55% of full right rudder input during the initial part of the go-around and climb-out. The aircraft became airborne with a pitch of approximately 8.8° nose-up and passed over the left runway edge with a just a few feet of ground clearance. The unusual aircraft behaviour and the lack of expected performance surprised both pilots and the aircraft was allowed to drift further to the left, becoming airborne just before the runway edge was reached but only remaining just clear of the ground. By the time it was approximately 1,600 metres past the runway threshold, it was approximately 65 metres to the left of the runway centreline, at just 11 feet agl with just the right engine functioning and a speed of 140 KCAS. The Captain then called for gear up which the First Officer actioned before calling “Go-around” to TWR. The First Officer then saw ‘ENG1 REVERSE UNLOCKED’ on the ECAM and confirmed that the left engine was at idle and the pilots immediately recognised what was causing the abnormal control and unusual aircraft behaviour and performance.
+
+Some key markers of on-the-runway and initial poor climb rate once airborne. [Reproduced from the Official Report]
+Retraction of the landing gear resulted in the pitch increasing to approximately 12.5° nose-up and the vertical speed reaching approximately 1,000 fpm. Passing 300 feet agl, the Captain declared a MAYDAY and requested clearance to climb straight ahead to 3,000 feet which was approved. The ‘ENG1 REVERSE UNLOCKED’ ECAM actions were then performed which included, when passing approximately 1,200 feet radio height, a shutdown of the idling left engine. A single engine approach and landing to runway 22L followed without further problems and a normal taxi in followed. Once parked, it was confirmed that three of the left engine’s thrust reverser blocker doors were not in their stowed position with the fourth (upper) blocker door having been held in place by the actuator (secondary) lock.
+Why It Happened
+The thrust reverser system was inspected and tested on the aircraft and no relevant faults were identified. The left engine thrust reverser hardware was then removed from the aircraft, and a detailed inspection and testing by the OEM also found no relevant faults and attention then turned to the sequence of pilot selections during the multiple bounces which were found to have occurred during the initial landing attempt.
+The Captain selected reverse thrust just before the main gear touched the runway and the reversers deployed as soon as the respective main gear WOW switches were activated which was almost simultaneously. Almost as soon as both reversers had deployed, flight data indicated that the Captain had moved the thrust levers forward to initiate a go-around at the same time as the left main gear WOW signal had changed from ground back to air. Further bounced main gear runway contact followed (in total there were one right main gear bounce and three left main gear bounces) but there was no change to the thrust reverser positions - the right one remained stowed and the left one remained deployed. As regards the initial part of the go around, it was the ECU auto-idle function on the left engine which prevented it from spooling up in response to thrust lever forward movement.
+An Airbus analysis of the WOW and Thrust Lever Angle signals to the ECU “confirmed that a difference in received signals between ECU1 and ECU2 was plausible” and it was considered that thrust lever asymmetry during forward movement could have further contributed to a difference in signals received by the ECUs. Such a difference would explain the left reverser not stowing when the right one did and could be expected given that the ECU software had not been designed to latch a thrust reverser stow command unless a ground signal was being received at the same time as the thrust levers were being moved forward.
+It was noted that at the time certification of the aircraft type had occurred, there was no regulatory requirement to evaluate the rejected landing scenario although it was considered by Airbus during the design of the aircraft. As a result, it entered service with a CFM56 engine which only ensured thrust reverser stowage during a rejected landing in some but not all potential scenarios so was accompanied by a prohibition of rejected landings once the thrust reversers had been deployed. At the time of the event under investigation, type certification requirements did require evaluation of a rejected landing scenario but this did not include a scenario involving a bounced landing where TO/GA thrust was selected when either main landing gear was not in the ground with the WOW status signalled.
+Neither pilot appeared to have been aware of exactly how the engine thrust had been managed. The First Officer did not notice - and therefore did not call out that the thrust reversers were in transit when initially deployed and the Captain “was not aware of selecting thrust reversers to deploy before selecting TO/GA”. Crucially however, rejecting a landing after the selection of thrust reversers was a gross deviation from the landing procedures clearly detailed in both the FCOM and the FCTM.
+It was found that the same Captain had previously (in 2019) rejected a landing and selected TO/GA after initially selecting reverse thrust and been presented with the ECAM message ‘ENG 1 REVERSE UNLOCKED’. On this occasion, both thrust reversers had initially stowed but one reverser then unlatched at 100 feet agl although this had not resulted in an actual reverse thrust scenario.  
+Two Safety Recommendations were issued as a result of the findings of the Investigation as follows:
+
+that the European Union Aviation Safety Agency ensures that the aircraft and engine manufacturer modify the CFM56-5B ECU software and that the software modification is mandated and embodied on the entire CFM56-5B fleet when ready for entry into service estimated in 2025. [DK.SIA-2024-0001]
+that the European Union Aviation Safety Agency revises the certification requirement (CS-25/AMC) to include evaluation of the serious incident ‘rejected landing after thrust reverser selection’ during a bounced landing scenario (in its most aggravated form). [DK.SIA-2024-002]
+
+The Final Report was approved on 31 October 2023 and subsequently published on 27 February 2024.  
+Related Articles
+
+Loss of Control
+Reverse Thrust
+Thrust Reversers: Flight Crew Guidance
+Weight on Wheels (WoW) Systems
+Electronic Engine Control (EEC)
+Standard Operating Procedures (SOPs)
+Surprise
+Flight Data Monitoring (FDM)
+Certification of Aircraft, Design and Production
+Design Philosophy

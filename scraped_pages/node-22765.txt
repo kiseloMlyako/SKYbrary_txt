@@ -1,0 +1,194 @@
+Runway Surface Friction
+
+
+
+
+
+
+
+
+
+
+
+  Runway Surface Friction
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Runway Excursion 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Runway surface friction is directly relevant to the braking action which will be available to an aircraft decelerating after touch down, or after a decision to reject a take off.
+Anti-skid braking systems are fitted to most multi-crew aircraft; these prevent wheel locking and can allow more aggressive brake input for wheels which are rotating on wet or otherwise slippery runways, without inducing dynamic or viscous aquaplaning. Hard surface runways may be constructed using either concrete or rolled asphalt but the principles which affect their operational characteristics in respect of aircraft braking response are the same.
+Regulatory Requirements
+In Annex 14, ICAO sets only the principles which cover the provision of paved runway surfaces with acceptable friction characteristics. Contracting States are given the authority to develop detailed schemes to provide acceptable levels of safety, both in respect of the objective and operational determination of surface friction. As a result, the methods of determination and availability of information differ widely between States. However, States are required by Annex 14 to undertake friction testing “periodically in order to identify runways with low friction when wet” and also to define and publish in their AIPs the Minimum Friction Level (MFL) which will require Notice To Airmen advice, if reached, for any given runway. States must also establish a ‘Maintenance Planning Level’ (MPL) of runway friction below which prompt corrective action is required.
+The Principles of Surface Friction
+Aircraft braking coefficient is dependent upon the surface friction between the tyres on the aircraft wheels and the pavement surface. Less friction means less aircraft braking coefficient and less aircraft braking response.
+Friction is expressed as the coefficient of friction; this is the ratio of the friction force (F) between two surfaces in contact and the normal force (N) which exists between the object resting on the surface and the surface i.e. F/N. This ratio is particularly, but not exclusively dependent, upon:
+
+The physical characteristics of the two surfaces.
+The prevailing temperature at the point of contact.
+The speed of movement of the object (the tyre) over the surface.
+
+The degree of surface friction for a specific aircraft at a given moment is directly proportional to the braking action, subject only to the activation of wheel lock-up and anti-skid protection systems, which most modern transport aircraft have. With recent developments in the recording of aircraft flight data, applied brake pressure is already a commonly recorded parameter. It is likely that a useful record of prevailing friction will be able to be derived and readily accessed before much longer, as a prelude to making real time friction data operationally available.
+Runway Surface Texture
+The precise texture of a pavement has a considerable effect upon friction, especially when the surface is wet.
+Macrotexture is "visible roughness" and allows water to escape from beneath aircraft tyres. It becomes more important as the factors which can lead to aquaplaning come into play - increasing speed, decreasing tyre tread depth and increasing water depth.
+Microtexture is the `fine scale roughness’ contributed by small individual aggregate particles which is detectable by touch rather than appearance. It allows the tyre to break through the residual water film that remains when the bulk of water has run off and is especially important at low speeds.
+The finishing processes for a new runway surface are critical to achieving an appropriate overall texture.
+Enhancement of surface friction where challenged by water contamination can be achieved by grooving a runway surface to aid more rapid water dispersal. Various specifications exist for grooving but most are the same as or close to the FAA version, which is 6mm (0.25 inches) deep and 6mm wide spaced at 38 mm (1.5 inches).
+An alternative to grooving as a means of facilitating surface water dispersal is the laying of a Porous Friction Course (PFC) which allows water to pass vertically through the surface layer and then move horizontally clear of the runway beneath, but essentially parallel to the surface. The problem with this solution is that very rapid water accumulation may be greater than the depth that PFC can absorb without the pavement surface becoming temporarily flooded, especially if the runway profile is not longitudinally level. Pavement wear considerations can limit the thickness of a PFC, and PFC is not a recommended option for high use runways because of the difficulty of removing rubber deposits without replacing the surface course altogether.
+Surface Friction Measurement
+Devices which detect surface friction are termed ‘Continuous Friction Measuring Equipment’ (CFME). Their primary application is the determination of reference friction levels on dry and artificially wetted surfaces. The latter requirement needs a controllable self-wetting capability which can deliver a 1mm water depth.
+These reference friction measurements allow airport operators to ensure that the range of surface frictions encountered operationally on un-contaminated runways remain acceptable most of the time. The only operational use of CFME which is currently possible is in the measurement of actual friction on runways contaminated with compacted snow and ice; this tends to be relatively uniform over large surface areas. These readings are then passed to ATC for transmission to flight crew as either the averaged readings by runway section, or more often as braking action categories; the latter usually follow a scale from ‘Good’ through four intermediate categories to ‘Poor’.
+There are currently at least eight different types of CFME of which the ‘Grip Tester’ and ‘Mu Meter’ are in widespread use. Usually, CFME is towed behind a vehicle at a constant speed and a wheel fitted with a smooth tyre is fitted with equipment which can directly measure the friction encountered. Measurements are usually output to an on board processor which, when downloaded, can produce tabulations and charts showing the friction level detected.
+The Effect of Rubber Deposits and Painted Markings
+An average aircraft landing leaves as much as 1.4 lb (700 g) of rubber in a thin layer on the runway (source: Transportation Research Board, 2012). Accumulation of rubber deposits from aircraft tyres in the touchdown zone is inevitable on busy runways, and periodic removal may be necessary to maintain MFL. It is likely to cause a loss of surface friction at all transit speeds because of interference with both the microtexture and macrotexture. It is also one of the most common causes of NOTAM issue designating runways, or parts of them, as temporarily ‘Slippery when Wet’ (see below).
+It is also important that surface friction does not differ markedly between painted and unpainted runway surfaces and validating this similarity should be a part of the routine assessments of friction. It is usually achieved by adding a small amount of silica sand or glass beads to the paint mix.
+‘Slippery when Wet’
+Aircraft Operators and their flight crew need to be especially aware of the potential operational safety significance of a NOTAM issued in accordance with the requirement in ICAO Annex 14 which advises that a particular runway "may be slippery when wet". Issue is automatic once it has been found that surface friction on any significant part of a runway has fallen below the MFL. If an aircraft is to use a runway so notified when it is actually wet, then Aircraft Performance for landing or take off and aircraft AFM limitations in respect of wind velocity will need to be taken into account to determine whether use of the runway is still possible.
+Related Articles
+
+Surface Friction Measurement and Prediction in Winter Operations
+Landing on Contaminated Runways
+Aquaplaning
+Brakes
+Tyres
+Runway Maintenance
+Accident and Serious Incident Reports:Runway Excursion
+Global Action Plan for the Prevention of Runway Excursions (GAPPRE)
+
+Further Reading
+ICAO
+
+ICAO Annex 14 Chapter 10 and Attachment A to the Annex.
+ICAO Doc 9137 Airport Services Manual Part 2 ‘Pavement Surface Conditions’ 4th edition (2002) details the appropriate use of various manufacturers’ friction testing devices.
+ICAO Circular 329 - Runway Surface Condition Assessment, Measurement and Reporting (draft), April 2011
+
+EASA
+
+Runway friction characteristics measurement and aircraft braking (RuFAB): by Werner Kleine-Beek, published in HindSight 12
+RuFAB Report Volume 1 – Summary of Findings and Recommendations
+RuFAB Report Volume 2 - Documentation and Taxonomy
+RuFAB Report Volume 3 - Functional Friction
+RuFAB Report Volume 4 - Operational Friction
+
+FAA
+
+AC 150/5200-30D: Airport Field Condition Assessments and Winter Operations Safety, March 2017
+RCAM Braking Action Codes and Definitions for Pilots, AC 91-79A CHG1 Appendix 1, April 2016
+TALPA ARC Recommendations (April, 2009)
+Airport Condition Reporting and the Runway Condition Assessment Matrix (RCAM), a presentation by the FAA
+Paved Runway Condition Assessment Matrix and New Winter Operations AC Overview: presentation by Michael J. O'Donnell, A.A.E. Director and Susan Gardner, FAA Airport Safety & Operations
+FAA Advisory Circular AC 150/5320-12C Measurement, Construction and Maintenance of Skid-Resistant Airport Pavement Surfaces (1997)
+FAA AC 150/5200-28F - Notices to Airmen (NOTAMs) for Airport Operators, December 2016
+
+UK CAA
+
+CAP 683: The Assessment of Runway Surface Friction Characteristics
+
+Flight Safety Foundation
+
+ALAR Briefing Note 8.4 Braking Devices
+ALAR Briefing Note 8.5 Wet or Contaminated Runways
+Runway Excursion Risk Awareness Tool
+Runway Safety Initiative (RSI) Briefing Notes: Pilot Braking Action Reports
+Runway Safety Initiative (RSI) Briefing Notes: Runway Condition Reporting
+
+Others
+
+ACRP Synthesis 11: Impact of Airport Rubber Removal Techniques on Runways, Transportation Research Board, 2008.
+An Investigation of the Influence of Aircraft Tire-Tread Wear on Wet-Runway Braking, T. Leland and G. Taylor, NASA, 1965.
+Runway Surface Condition Reporting and RCAM, International Airport Authority Canada, April 2016
+Industry Best Practices Manual for Timely and Accurate Reporting of Runway Surface Conditions by ATS, Airports Authority of India, June 2013
+
+
+
+
+
+Categories
+
+
+Runway Excursion,
+              Overrun on Take Off,
+              Overrun on Landing,
+              Veer Off
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

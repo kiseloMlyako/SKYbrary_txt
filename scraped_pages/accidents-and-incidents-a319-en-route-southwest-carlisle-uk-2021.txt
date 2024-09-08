@@ -1,0 +1,316 @@
+A319, en-route, southwest of Carlisle UK, 2021
+
+
+
+
+
+
+
+
+
+
+
+  A319, en-route, southwest of Carlisle UK, 2021
+
+
+
+
+
+
+
+
+
+Summary
+
+On 6 August 2021, an Airbus A319 experienced uncommanded loss of both Flight Directors and the Flight Mode Annunciator and disconnection of both autopilot and autothrust in the climb. After levelling at FL350, significant inertial reference position inconsistencies were observed. A precautionary PAN was declared and the flight was completed. Investigation found that the cause was a momentary abnormal vertical shock load transferred to Inertial Reference System equipment through an overextended nose gear shock absorber by a sharp jolt during takeoff caused by a runway patch repair. Sensitivity of the particular inertial reference system installed on the aircraft was noted.
+
+
+
+
+Event Details
+
+When
+
+06/08/2021
+
+
+
+Event Type
+
+
+AW,
+              LOC
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+Not Recorded
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS A-319
+
+
+
+
+
+
+
+
+
+Operator
+
+British Airways
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Edinburgh Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+London Heathrow Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Climb
+
+
+
+
+
+
+
+
+Location
+
+Approx.
+
+SW of Carlisle UK
+
+
+
+
+
+
+
+
+
+
+General
+
+Tag(s)
+
+
+              CVR overwritten
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Significant Systems or Systems Control Failure
+          
+
+
+
+
+EPR
+
+Tag(s)
+
+
+              PAN declaration
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Landing Gear,
+              Navigation
+          
+
+
+
+Contributor(s)
+
+
+              Maintenance Error (valid guidance available)
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Technical
+Airport Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 6 August 2021, an Airbus A319 (G-DBCF) being operated by British Airways on a scheduled domestic passenger flight from Edinburgh to London Heathrow as BA1441 in unrecorded day meteorological conditions lost both FDs and the FMA (Flight Mode Annunciator), both the AP and A/THR as it climbed through FL340. The aircraft was levelled at FL 350 and significant IRS position inconsistencies were observed so a precautionary PAN was declared. The intended flight was completed but the approach at destination had to be conducted manually. There were no consequences for the 101 passengers.
+Investigation
+A Field Investigation was carried by the UK Air Accident Investigation Branch (AAIB). Relevant recorded aircraft flight data was recovered from the operator’s OFDM but that on the CVR had been overwritten as a result of the aircraft continuing in service prior to the AAIB being notified of the event. ATC radar and voice recordings were also available. It was noted that the 55 year-old Captain had a total of 16,651 hours flying experience which included 4,476 hours on type. Similar experience and age information for the First Officer was not recorded.
+What Happened 
+As the flight was on its takeoff roll from runway 06 at Edinburgh with the Captain as PF, a “loud bang” was heard as the nose landing gear passed over what felt like a particular centreline light. Passing approximately 1,500 feet during the climb out, the First Officer saw a ‘GPS PRIMARY LOST’ message on his Multipurpose Control and Display Unit (MCDU) but it disappeared before any action could be taken.
+The remainder of the climb was normal until passing FL340 when the First Officer reported having seen a ‘CHECK IRS 3/FM POSITION’ MDCU message after which both the A/THR and AP disconnected and both pilots’ FDs disappeared. The ECAM displayed corresponding status messages plus ‘ENG THRUST LOCK’ and ‘CAT 3 DUAL INOP’. The Captain levelled the aircraft at FL350 manually and, as the crew were concerned they could no longer comply with the RVSM requirement for a functional AP capable of holding altitude, a ‘PAN’ was declared to ATC.
+The crew’s initial attempts to regain the AP and A/THR were not successful but after about five minutes of manual flight, both were able to be re-engaged. Whilst trying to determine how to proceed, they noticed that the IRS system positions shown on the MCDU monitor page were variously blank or abnormal as well as continuously changing when normally, the difference between them would be less than 1 nm. Given this position uncertainty, the crew requested and received radar vectors from ATC but decided that they could safely continue to Heathrow.  
+It was decided that they would not realign the IRS in flight since there were no ECAM messages directing them to do this. They also reported having concluded that the aircraft was in a safe state and that attempting such a realignment could make the situation worse.
+ 
+A detailed approach brief was completed with reference to possible abnormalities and an extended final approach was requested to make it easier to monitor the aircraft. This began normally with the AP engaged until approximately 4,000 feet on a closing heading for the runway 27R LOC when the AP and A/THR again disconnected and both FDs disappeared. The approach was discontinued and after re-briefing for a manually flown raw data approach, this and the subsequent landing were completed without further developments.
+Why It Happened
+The QAR data confirmed that, as the aircraft accelerated through 120KCAS on the takeoff roll and without any significant control inputs being made, the nose landing gear WoW signal had changed status three times within two seconds which was indicative of a transient encounter with irregularities in the runway surface.
+It was found that after this had happened, the positions of all three IRS positions had begun to drift randomly which caused the autoflight system to reject the input from one of the Air Data and Inertial Reference Units (ADIRUs) as the aircraft climbed through FL265. This and another minor degradation caused by the increasing drift that affected the aircraft’s braking system, were not annunciated to the crew.  However, four minutes later as the aircraft was in the vicinity of FL340, the autoflight system rejected all three IRS positions which resulted in the observed disconnection of the AP and A/THR. The recorded data also confirmed that at this time the ADIRUs had continued to provide valid attitude and air data parameters although the IRS system position instability remained.
+An analysis of the data around this time by Airbus found that the ECAM ‘NAV FM/GPS POS DISAGREE’ had been displayed for approximately 7 seconds followed by a repeat of this five minutes later. This message was noted to have indicated a difference between the Flight Management Guidance Computers (FMGC) and GPS position but the recorded data then “showed an improvement in the FMGC positions”. The position information supplied by each ADIRU then remained consistent until part way through the descent when this consistency again began to be lost and passing a recorded 5,100 feet, the autoflight system again rejected data from more than one ADIRU and the recorded data confirmed a reported disconnection of the AP and A/THR during the initial approach.
+It was found that after previous similar events, Airbus had installed accelerometers on the Nose Landing Gear (NLG) and the ADIRU mounting rack of several aircraft to measure the vertical forces through the NLG during taxi, takeoff and landing. This resulted in confirmation that the ADIRU rejections and INS drift could be induced by abnormal vibration or shock loading transmitted through the NLG to the ADIRUs during the takeoff roll and rotation. Airbus also concluded that IRS drifts were “likely to have been caused by a combination of specific inputs, namely vertical loads from the runway surface to the NLG, incorrect servicing of the NLG shock absorber and the ADIRUs suffering vertical shocks” when operating outside their verified performance envelope.    
+After the flight under investigation, an inspection and service of the Nose Landing Gear (NLG) which was recommended in an extant Airbus ‘Technical Follow Up’ (TFU) Notice entitled ‘‘In-flight severe IR drift with ADIRU NGC PN 465020-030x-0316/318 inducing possible loss of AP/FD and A/THR" which had been issued in April 2020 to advise how to proceed when investigating an occurrence of severe navigation position drift in flight. This found that the NLG shock absorber was overextended by 0.6 inches and may not necessarily have been correctly serviced, one or both of which were likely to have magnified the consequences of encountering an uneven runway surface. This risk would have been increased by the absence of any anti-vibration mounting for the ADIRUs or the rack to which they were fixed.  
+
+The location of the ADIRUs in relation to the NLG Bay. [Reproduced from the Official Report]
+The above findings led to the conclusion that the investigated occurrence had been the result of a chain of events, each of which was necessary to result in the eventual outcome. These were as follows:
+
+The Departure Runway Surface was found to have a small poor quality patch repair which when encountered had introduced sudden vertical shock loads into the aircraft NLG. The Airport Authority believed that this may have triggered the problem and it has since been remade.
+Nose Landing Gear leg servicing information provided by one of the operators indicated that an improved servicing task and revised maintenance check introduced by the OEM had been effective in preventing similar Inertial Reference drift issues. However, the continuation of similar events at some A320 family operators indicated that the issue had not yet been completely resolved. The development and introduction of dedicated Liquid and Nitrogen Charging Equipment (LANCE) to improve NLG shock absorber servicing is intended to reduce the potential for error during related maintenance inputs. 
+All three ADIRUs installed on the aircraft were tested after the event and no faults were found. During the flight, the air data information remained accurate throughout which eliminated the possibility of Air Data Reference (ADR) faults. The pilots reported that aircraft attitude displays also remained accurate which indicated that the IRS gyroscopes were functioning normally. It was therefore concluded that severe positional drift experienced “was probably caused by IRS accelerometer anomalies” following abnormal vertical shock loads transferred from to the airframe and avionics rack through the NLG. Whilst the ADIRUs performed within the applicable qualification envelope, it was considered that the shock loads encountered during takeoff were more extreme than the definition of “standard operational shocks” used under the applicable RTCA DO-160C test procedures. Airbus commented that with the benefit of hindsight, the inclusion of available more demanding environmental qualification criteria which would require resistance of ADIRUs to low frequency shocks during aircraft design may have avoided the severe position drift problems encountered.   
+
+The formally-stated Conclusion of the Investigation was as follows:
+The aircraft experienced severe navigation position drift in flight. The drift was caused by abnormal vertical shock loads being transferred through the overextended NLG shock absorber to the ADIRU. The abnormal shock loads were initiated by an uneven patch repair on the runway. The Northrop Grumman ADIRU is particularly sensitive to sudden vertical shock loading outside its environmental qualification envelope. 
+The Final Report was initially published on 16 June 2022 but re-issued after minor revisions on 7 July 2022. No Safety Recommendations were made.
+Related Articles
+
+Inertial Reference System (IRS)
+Maintenance Error
+Landing Gear
+Flight Director
+Autopilot
+Autothrust

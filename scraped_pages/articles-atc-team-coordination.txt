@@ -1,0 +1,199 @@
+ATC Team Coordination
+
+
+
+
+
+
+
+
+
+
+
+  ATC Team Coordination
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Separation 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+This article describes the specifics of coordination procedures within an ATC unit.
+The article does not cover the coordination procedures:
+
+within a planner-executive team;
+between different ATC units (described in ATC Unit Coordination);
+between ground and tower operating at the same airfield (described in GND-TWR Co-ordination).
+
+Specifics
+Coordination procedures within the same ATC unit are defined in local instructions (e.g. Manual of Operations). Unlike the coordination with neighbouring units, these are not subject to a letter of agreement. In general, however, coordination procedures within the unit are similar to those with the adjacent units because both are based on ICAO SARPS and the same (or similar) methods and tools are used - verbal (phone) and non-verbal (electronic).
+Coordination with controllers of the same unit is usually smoother (but not necessarily better) due to:
+
+Improved system support. It is much easier (and therefore more widespread) to have more and better functions to support electronic coordination between sectors of the same ATC unit. While OLDI generally offers a broad range of messages, it is very often the case that only basic features are used. This is mainly because different ATC units are at a different stage of their ATM system development/deployment. For a new inter-unit feature to work, both sides need to implement it at the same time (otherwise the first unit to implement a new capability will have to wait and depend on someone else to be able to use it). By contrast, within a single ATC unit the new features are:
+
+Readily available. There is no need to wait or negotiate the use of a new function with another party. This makes implementation of new features more cost-efficient.
+Customizable. Sometimes different units have different needs (e.g. some would appreciate the possibility to coordinate weather avoidance electronically while other would not use the feature and prefer verbal communication).
+
+
+Enhanced communication features. The voice communication system (VCS) is usually tailored to the needs of the ATC unit and offers some advantages for internal users. For example, most modern VCSes have a priority feature which is used by the caller to indicate higher importance.
+Sharing the same picture. Using the same ATM system generally means that all controllers see more or less the same picture. While in most cases this is true for inter-unit interaction, there are specific situations where being in the same unit gives an advantage, e.g.:
+
+Primary radar targets are usually assigned unique system numbers. Different systems, however, assign different values. Therefore, in an inter-unit coordination it is impractical to refer to such a target by its system name.
+Map features. The focus is generally on the unit's airspace and while usually there is a possibility to show those of a neighbouring unit, it is often neither ergonomic nor as user friendly as with the own airspace. This often restricts references to the common boundary points.
+Correlation. All flights of interest to the ATC unit are supposed to be correlated. Therefore, the controllers have extended information about flights that are flying in proximity to their boundary but are not supposed to enter their sector. This improves the situational awareness and is especially useful during weather avoidance. Also, some ATS system functions are only available for correlated flights which may potentially improve coordination within the unit.
+
+
+Better understanding of the other party's tasks. Often controller within the same unit are qualified to work on a number of sectors and are therefore well acquainted with the specifics of the next sector (i.e. landmarks, hotspots, etc.). This usually helps to achieve better coordination. Sometimes however this can be abused to the point where a controller "extends" their area of responsibility in the neighbouring airspace while not having the necessary level of situational awareness (due to e.g. the colours used in the aircraft labels).
+Language. In most cases controllers are not native English speakers. While it is possible to have verbal inter-unit coordinations in the mother tongue (e.g. between two ACCs or an ACC with an APP or TWR unit in the same country) it is more common to use English for inter-unit interactions and the national language within the unit. Therefore, coordination within the unit is somewhat easier, especially in complex situations where Standard Phraseology cannot be used.
+Inter-personal relations. People working together inevitably develop some sorts of relationships. This sometimes facilitates better coordination but may also lead to non-operational conversations.
+Face-to-face communication. It is possible for controllers within the same unit to make direct verbal coordinations without using any equipment. This may increase efficiency (and also safety in some cases) due to the zero delay of message delivery. The downside is that such communication can easily distract other, non-involved sectors. Also, if there is no ambience recording, it is not possible to objectively establish the facts during an investigation. Therefore, face-to-face coordination is generally not favoured by prevailing operational procedures.
+
+Best Practices
+The best practices for inter-sector coordinations are mostly the same as those used between different ATC units (described in detail in the dedicated article). In summary:
+
+Identification of situations that are subject to coordination is critical.
+A coordination done twice is usually better than no coordination. Verify instead of assuming.
+Coordination is all about two controllers agreeing to and being comfortable with the same plan.
+Coordinations should be timely.
+A simpler plan is less ambiguous, easier to coordinate, implement and monitor and generally safer.
+Electronic coordinations should be used whenever possible.
+Controllers should try to stick to the standard procedures and reduce coordinations, except if:
+
+safety concerns arise.
+the workload is low.
+the coordination would reduce traffic complexity.
+
+
+Rejection should only be used with good reason.
+A "block" coordination applicable for a defined period of time and portion of the air traffic may sometimes be used to significantly reduce the workload.
+
+In addition to the above, some specific aspects of inter-sector coordination are:
+
+Refrain from making non-operational conversations or calls.
+Use the enhanced coordinations tools. They often provide richer options compared to those for external coordinations.
+Use system support to draw attention. Marking an aircraft before initiating a coordination may help the other party distinguish the aircraft within the bunch by its e.g. blinking label or special colour.
+Fixing aircraft trajectories in line with the clearances given allows the ATS system to correctly represent the aircraft to the neighbouring sectors.
+
+Accidents and Incidents
+
+
+A333 / B738, Barcelona Spain, 2022On 2 July 2022, a Boeing 737-800 taxiing for departure from runway 24L at Barcelona under GND control using a route which crossed the runway 24R extended centreline almost immediately following the runway end was abruptly stopped by the controller on the centreline and almost immediately, an Airbus A330-300 departing 24R overflew the 737 at about 700 feet. The 737 should have been stopped at an earlier unlit stopbar position before the A330 was given takeoff clearance. An inadequate lighting control and indicating system was assessed as contributing to procedural failure. Both controllers involved were correctly qualified but very inexperienced.
+
+B738 / B738, vicinity Sydney Australia, 2023On 29 April 2023, a Boeing 737-800 night takeoff clearance at Sydney was delayed by unexpectedly slow landing traffic clearance and it became necessary for another Boeing 737-800 on approach to the same runway to be instructed to go around and minimum separation was reduced below safe distances both laterally and vertically. It was found that the conflict had resulted from a combination of inappropriate intervention by the Tower Supervisor and the controller’s own actions. A review of potential conflicts during mixed mode runway use at Sydney to improve resilience to inevitable pilot and controller error was initiated by ATC.
+
+B752, Keflavik Iceland, 2019On 28 October 2019, a Boeing 757-200 bound for Keflavik after an overnight flight was advised that a previously-landed aircraft had partially overrun the end of the only available 3,054 metre-long runway which was therefore closed. With the other runway also not available and braking action at alternate Reykjavik unavailable, the absence of other diversion options with the fuel remaining obliged the flight to commit to landing on the closed runway which was only obstructed at its far end. ATC required an emergency declaration and then gave a ‘land at pilot’s discretion’ clearance and an uneventful landing followed.
+
+B738 / A321, Venice Italy, 2022On 18 October 2022, an Airbus A321 on approach to Venice in thick fog was observed on TCAS by a Boeing 737-800 crew awaiting takeoff clearance from the same runway after a lineup and wait instruction. When no takeoff clearance followed, the 737 crew transmitted, advising its position without any response. The crew then transmitted on 121.5, instructing the A321 to go around, and they received no response. They were about to vacate the runway when the controller instructed the A321 to go around, which only  occurred as it approached 100 feet AGL. The controller involved had failed to plug in his headset properly.
+
+B734 / Vehicle, Porto Portugal, 2021On 27 April 2021, a Boeing 737-400 commenced a night takeoff at Porto in good visibility without seeing a runway inspection vehicle heading in the opposite direction on the same runway. On querying sight of an opposite direction aircraft on a discrete frequency the driver was told to quickly vacate the runway. The aircraft became airborne 300 metres before reaching the vehicle and passed over and abeam it. Both vehicle and aircraft were following the controller’s clearances. The detailed Investigation confirmed controller error in a context of multiple systemic deficiencies in the delivery of runway operational safety at the airport.
+
+B738, Lyon Saint-Exupéry France, 2019On 14 November 2019, a Boeing 737 was instructed was instructed to stop its night takeoff from Lyon at a low speed when the controller saw snow clearance vehicles entering the runway ahead. This vehicle group had been cleared to enter the active runway by the ground controller without any coordination with the runway controller and only the monitoring of surface movement radar and visual external scanning had removed the risk of a more serious consequence arising from the permitted incursion. The airport operator’s snow response plan was found not be specific to their airport and consequently of limited practical value.
+
+A320 / E145, vicinity Barcelona Spain, 2019On 27 September 2019, an Airbus A320 and an Embraer 145 both inbound to Barcelona and being positioned for the same Transition for runway 25R lost separation and received and followed coordinated TCAS RAs after which the closest point of approach was 0.8nm laterally when 200 feet vertically apart. The Investigation found that the experienced controller involved had initially created the conflict whilst seeking to resolve another potential conflict between one of the aircraft and a third aircraft inbound for the same Transition and having identified it had then implemented a faulty recovery plan and executed it improperly.
+
+A320 / B738, en-route, north northwest of Sofia Bulgaria, 2016On 4 June 2016, a Boeing 737-800 instructed to climb from FL340 to FL380 by the controller of one sector in Bulgarian upper airspace came into sufficiently close proximity to an Airbus A320 under the control of a different sector controller to trigger co-ordinated TCAS RAs. Separation was eventually restored after the 737 followed its RA despite the A320, which had already deviated from its clearance on the basis of a prior TCAS TA without informing ATC, ignoring their RA. The Investigation found that the root cause of the conflict had been inadequate coordination between two vertically separated ATC sectors.
+
+A310 / C421, en-route, northeast of Montréal Canada, 2018On 16 May 2018, an Airbus A310 and a Cessna 421 being positioned for ILS approaches to adjacent parallel runways at Montréal by different controllers lost separation. One controller incorrectly believed that he had transferred control of the Cessna to the other when the shift supervisor re-opened a sector which had been temporarily combined with his. The Investigation attributed the conflict to multiple deviations from standard procedures, memory lapses relating to controller information exchange of information and a loss of full situational awareness compounded by the shift supervisor also acting as an instructor whilst being distracted by his other duties.
+
+AT75 / B739, Medan Indonesia, 2017On 3 August 2017, a Boeing 737-900ER landing at Medan was in wing-to-wing collision as it touched down with an ATR 72-500 which had entered the same runway to depart at an intermediate point. Substantial damage was caused but both aircraft could be taxied clear. The Investigation concluded that the ATR 72 had entered the runway at an opposite direction without clearance after its incomplete readback had gone unchallenged by ATC. Controllers appeared not to have realised that a collision had occurred despite warnings of runway debris and the runway was not closed until other aircraft also reported debris.
+
+
+
+
+Related Articles
+
+ATC Unit Coordination
+Loss of Separation at Sector Boundaries
+Conflict Detection with Adjacent Sectors
+Loss of Separation During Weather Avoidance
+Interruption or Distraction
+Free Route Airspace (FRA)
+
+
+
+
+
+Categories
+
+
+Loss of Separation,
+              Human Factors
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

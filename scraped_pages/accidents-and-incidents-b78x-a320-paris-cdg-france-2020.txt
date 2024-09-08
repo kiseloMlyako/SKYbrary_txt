@@ -1,0 +1,383 @@
+B78X / A320, Paris CDG France, 2020
+
+
+
+
+
+
+
+
+
+
+
+  B78X / A320, Paris CDG France, 2020
+
+
+
+
+
+
+
+
+
+Summary
+
+On 20 July 2020, a Boeing 787-10 making an ILS approach to runway 09L at Paris CDG unexpectedly received landing clearance for runway 09R after transferring to TWR. The crew readback added explicit reference to the implied need to sidestep but elicited no further controller response and visual realignment to 09R followed. The controller then cleared a departing A320 to enter 09R but when its crew saw the 787 on very short final after crossing the holding point, they stopped, informed TWR and directly instructed the 787 to go-around. Investigation confirmed the controller’s error and noted their failure to monitor approaching traffic.
+
+
+
+
+Event Details
+
+When
+
+20/07/2020
+
+
+
+Event Type
+
+
+AGC,
+              HF,
+              RI
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 787-10 Dreamliner
+
+
+
+
+
+
+
+
+
+Operator
+
+United Airlines
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Newark Liberty International Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Paris/Charles de Gaulle Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Missed Approach
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS A-320
+
+
+
+
+
+
+
+
+
+Operator
+
+EasyJet
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Paris/Charles de Gaulle Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Málaga
+
+
+
+
+
+
+
+Take-off Commenced
+
+No
+
+
+
+Flight Airborne
+
+No
+
+
+
+Phase of Flight
+
+Taxi
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+LFPG
+
+
+
+
+General
+
+Tag(s)
+
+
+              Extra flight crew (no training)
+          
+
+
+
+
+AGC
+
+Tag(s)
+
+
+              Phraseology
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              ATC clearance error,
+              Distraction
+          
+
+
+
+
+RI
+
+Tag(s)
+
+
+              ATC error,
+              R/T Response to Conflict
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Air Traffic Management
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 20 July 2020, a Boeing 787-10 (N-16009) operated by United Airlines on a scheduled international passenger flight from Newark to Paris CDG as UA57 was on an ILS approach to runway 09L at destination in day VMC when it received an unexpected clearance to land on 09R. The crew read back the new clearance, adding reference to the implied "sidestep." The controller did not respond and half a minute later, after another Boeing 787 had landed on 09R, cleared an Airbus A320 (OE-IJF) operated by EasyJet Europe on a scheduled international passenger flight from Paris CDG to Malaga to line up and wait on 09R. This instruction was acknowledged with the crew aware that the 787 had been cleared to land on the same runway. When the controller did not resolve the conflict as the A320 began to line up, its crew alerted the controller to the imminent conflict and instructed the 787 to go around, as the 787 passed 200 feet AGL, aligned with the runway and with the A320 in sight. Four seconds later, a RIMCAS warning was activated and in response, the controller immediately confirmed the instruction for the 787 to go around as it passed 105 feet AGL. This was immediately commenced with the A320 being overflown at a height of just over 300 feet.  
+Investigation
+An Investigation was carried out by the French Civil Aviation Accident Investigation Agency, the BEA, assisted by crew and TWR controller statements, downloaded FDR data, and recorded ATC communications and radar data. The experience data of the 787 flight crew was not recorded but it was noted that the captain had been acting as PF and a third pilot had been occupying a supernumerary crew seat on the flight deck during the approach. It was found that the TWR (runway) controller involved had been at the airport for 12 years and was rated as a simulator instructor and as a TWR OJTI. The controller reportedly acknowledged her “lapse” and “explained that controllers regularly make lapses”. 
+What Happened
+The United 787 was fully established on the ILS for runway 09L in accordance with its clearance from APP controller. Approximately 4nm ahead on final approach for runway 09R was an Air France Boeing 787 which had earlier requested a landing on 09R, which was longer than the 09L, due to an unspecified “technical problem." On checking in with TWR, the United 787 was advised by the controller that it was “number one for 09 Right cleared to land 09 Right, wind 010 degrees 9 knots gusting 21 knots” (position 1 in the illustration below) whereas she subsequently reported having thought she had cleared the flight to land on runway 09L. In response to this clearance, the 787 PM replied “understand cleared to land 09 Right, sidestep for 9 Right United 57” (position 2). The controller did not reply to this readback.
+Once the Air France Boeing 787 had landed on runway 09R, the controller cleared an EasyJet Airbus A320 to line up and wait on runway 09R from holding point D5 (which was about 300 metres from the touchdown end of the runway). At the same time, when just over 2nm from touchdown, the 787 captain disengaged the AP and began the sidestep to runway 09R at a height of around 900 feet AGL (position 3). As they were about to enter the runway, the A320 crew checked the final approach and saw the 787, which they had thought was on final for runway 09L, was crossing over onto a 09R final. The A320 captain, who was PF, immediately braked although the aircraft had already entered the runway by around 10 metres and was still perpendicular to the runway centreline. 
+The 787 was now at a height of around 300 feet AGL and just 0.7 nm from the runway threshold. The A320 captain transmitted (position 4) “Tower, there is a traffic landing 09R” followed by “go around 09R, go around” (position 5). The 787 crew stated that they had seen the A320 on the runway ahead and were initiating a go-around (position 6). Almost immediately, the controllers’ RIMCAS activated and the controller “confirmed the go-around order” and instructed the 787 to climb to 4,000 ft. The 787 reached a minimum height of 80 feet AGL with 250 metres to go till crossing the runway threshold before beginning to climb (position 7), after which it flew over the Airbus A320 at a height of just over 300 feet. The rest of the go-around was without further event and a new approach to and landing on runway 09L was completed without further event.
+
+The annotated actual ground track of the 787 (red), the originally cleared track to 09L and the position of the A320 on 09R as it was subsequently overflown. [Reproduced from the Official Report] 
+Why It Happened
+The conflict occurred around an hour after sunrise with a light generally northerly breeze, good visibility, and under virtually clear skies. The 787 crew stated that their horizontal visibility had been reduced due to the sun and mist but also “that the slant visibility was better, notably for making out the threshold of runway 09R." The A320 crew stated that their visibility looking up the 09R approach had been good. The 787 crew noted that sidestep manoeuvres were “commonly used” in the USA and thought the change of landing runway might have been because a potential reduction in separation from the aircraft ahead due to its slowness and the potential for a consequent delay in clearing the runway after landing.
+On the day of the occurrence, the north TWR position normally occupied during easterly operations at the airport, which provides a view of the thresholds of both runway touchdown/lineup areas, was not being used because the control screen had been inoperative. The controller was instead occupying the adjacent position usually used for westerly operations, and therefore did not have direct sight of the thresholds of runways 09L/09R. An optionally manned coordinating and planning position was also not in use. It was later found that the preferred controller display had been switched off using a master switch. Controllers were initially unaware of this, although it had been rectified and the controller reported that she had been awaiting a suitable opportunity to transfer to it. 
+She explained that she thought she had cleared the United 787 to land on 09L and “explained that controllers regularly make errors." She also admitted not checking the 787 crew readback (and had therefore not registered the use of the word “sidestep”) before going on to the next control task. Once the Air France Boeing 787 had landed on 09R, she cleared the Airbus A320 to line up on 09R and prepared to manage the crossing of the same runway by two aircraft which had landed on 09L and needed to reach the central terminal area. She expressed the view that “the lack of practice caused by the health situation linked to the COVID-19 pandemic...had resulted in a reduction in the automatic reflexes required for her job”.
+The Investigation noted that occurrences in which a controller doesn’t notice an inappropriate crew readback “are not rare” with a recent European study of the main contributors to  ATM occurrences finding that aircraft/controller spoken communication issues (such as call sign confusion, language/accent, noise, interference) and operational issues (such as hearback error, phraseology, transfers) occurred at a rate of 1.4 reported events per 10,000 flights within which hearback errors account for between 0.1 and 0.2 reported occurrences per 10,000 flights.
+It was also noted that the manner in which the 787 crew had responded to their unexpected change of runway and landing clearance had not included use of the word “confirm” when seeking to double-check the unexpected change of clearance. However, it was observed that whilst such a practice is included in ICAO Doc 9432 Manual of Radiotelephony and has been adopted in the EU regulation 2016/1185, it “is not adopted in the current version (October 2017) of the ‘French Phraseology for General Air Traffic’ Training Manual published by the national Aeronautical Information Service” and neither is it specified in FAA Order JO 7110.65Y which covers ATO (Air Traffic Organization) policy or included in the wide-ranging the FAA-issued pilot/controller glossary. 
+The last-minute nature of the RIMCAS alert as the 787 approached an occupied runway and the failure of the installed RWSL as the A320 began to taxi onto the runway were examined. It was found that 24 seconds after the 787 had begun its sidestep manoeuvre (at 2.2 nm from the 09R threshold), the A320 had begun taxiing to line up from runway taxiway D5. Just over 20 seconds later, the Runway Entrance Lights (REL) element of the RWSL system is activated, but as the A320 crew is now within the designated runway, they are beyond it. Four seconds after this, the RIMCAS warning activates and the controller confirms the go-around instruction. The 787 sidestep itself was confirmed to have been carried out in accordance with United Airlines OM procedures.
+Four Contributory Factors which may have contributed to the TWR controller’s errors in giving a landing clearance for an occupied runway and to her not checking the modified readback it caused were documented as follows:
+
+The controller chiefly managing traffic on runway 09R at this time (one landing, two upcoming departures and two crossings on this runway).
+The controller having her mind on the imminent change of her physical position from NE LOC to NW LOC whilst continuing the same runway 09L/R controller task.
+The controller’s lack of practice linked to the reduction in traffic during the COVID-19 health crisis period. 
+The Boeing 787 crew’s use of the non-standard expression “understand” instead of the expression “confirm,” which might have attracted more attention from the controller.  
+
+It was recognised that “the vigilance of the two crews, in particular the Airbus A320 crew’s check of the final approach path before lining up and the Boeing 787 crew’s identification of the plane lining up on the runway contributed to a potential collision on the runway being avoided."
+Safety Action taken by the airport ATS unit followed a review by a “work group” was noted to have resulted in an Operational Directive requiring that the coordinating controller position adjacent to the runway NW and NE controller positions must be occupied as soon as the approach room is opened. It specifies that this coordinating controller shall be responsible for coordination, facilitating the work of the runway controller and monitoring traffic. With respect to this latter point, the directive states that this assisting controller will “carry out a visual watch of the control situation and monitor the tower frequency when the coordination and facilitation tasks allow” but notes that “such monitoring is in addition to that of the designated runway controller who remains solely responsible for checking the readbacks and transmitting the correct version of the instructions concerned”.
+The Final Report was published in the definitive French version in July 2021 and in English translation on 1 September 2021.  An error was subsequently found in the Contributory Factors section of the French language report and the corrected version was published on 24 August 2021.
+Related Articles
+
+Runway Incursion
+Read-back or Hear-back
+Standard Phraseology
+RIMCAS
+Attention
+Vigilance in ATM
+
+Further Reading
+
+EVAIR Bulletin No 21: 2015 - 2019 Summer Periods, EUROCONTROL, August 2020

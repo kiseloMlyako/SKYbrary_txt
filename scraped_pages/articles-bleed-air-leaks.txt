@@ -1,0 +1,179 @@
+Bleed Air Leaks
+
+
+
+
+
+
+
+
+
+
+
+  Bleed Air Leaks
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Fire Smoke and Fumes 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+An aircraft bleed air leak refers to the uncontrolled loss of bleed air from any part of the aircraft pneumatic system or from the services which utilize bleed air.
+Bleed Air Systems
+Bleed air, in the context of a turbine engine, refers to compressed air which is taken from within the engine. The point at which the air is bled from the engine varies by engine type but is always tapped from the compressor, at an intermediate stage or just after the last stage, but before the combustors. The use of bleed air is common in jet engine powered aircraft inclusive of turbojet, turbofan and turboprop installations. Bleed air is useful in an aircraft because of two properties: high temperature (typically 200 – 250 degrees C.) and moderate pressure (regulated to approximately 40 PSI exiting the engine pylon). This hot, compressed air can be used in many different ways. Typical uses include engine start, air conditioning and pressurization, engine and airframe de/anti-icing, pressurization of water reservoirs, hydraulic reservoirs and pneumatically powered actuators and, in some cases, it is used as the motive power for pneumatically driven hydraulic pumps.
+Effects
+The uncontrolled loss of bleed air from the pneumatic system or from any of the pneumatically powered services has the potential to cause:
+
+damage to aircraft wiring.
+components to overheat.
+damage to aircraft structures.
+inflight fire.
+
+Even after the the bleed air leak has been secured using the appropriate electronic centralized aircraft monitor (ECAM), quick reference handbook (QRH) or aircraft flight manual (AFM) procedure, secondary effects of the original fault may occur. Isolating part of the bleed air system will inevitably lead to some degradation in the operation of other aircraft systems such as:
+
+pneumatically-operated control surfaces.
+air driven hydraulic pumps.
+air conditioning/pressurisation systems.
+anti-icing systems.
+
+Managing the remainder of the flight with the loss of some or all of these systems will require careful thought and planning. Having a comprehensive knowledge of the pneumatic systems will help in the decision-making process. It is essential that the pilots understand what is working and what is not, as well as the consequent limitations to the operation.
+Defences
+Some combination of gauges and warning systems is incorporated into the bleed air system to allow the pilots to monitor the normal function of the system and to provide audio and/or visual warning in the event of an overheat or failure. Valves are incorporated into the system to provide the means to automatically or manually isolate parts of the bleed air manifold or individual components in the event of a failure. Some of these defences include:
+
+Cockpit gauges - allow the pilots to monitor bleed air manifold temperature and pressure.
+Overheat detectors - located in close proximity to bleed air ducts. In the event of a bleed air leak from a ruptured duct, the overheat detector will cause a warning to be generated on the flight deck.
+Bleed air shutoff valves - located at various points in the pneumatic system. In the event of a failure, the shutoff valves can be used to isolate the failed portion of the system.
+Bleed air monitoring systems - detect the loss of pressure caused by a duct failure and generate a warning on the flight deck.
+Firewall bleed air shutoff valves - allow the bleed air from an engine to be isolated from the rest of the aircraft. It is typically closed when the Engine Fire checklist is actioned. Closing the firewall bleed air valve prevents contamination of the bleed air system by the failed engine and, if the fire warning was caused by a ruptured bleed air duct within the engine, prevents the bleed air system from perpetuating the warning.
+
+The electronic and mechanical defences, as listed above, are essential to the timely detection and successful containment of a bleed air leak. However, many emergency or abnormal checklists for bleed air faults require some post-action analysis to assess whether the action taken has been successful. A critical part of that analysis is a sound understanding, by the pilots, of the pneumatic system and all of its associated functions and components. If the isolation has not been successful, diversion should be initiated and an appropriate balance struck between the time spent on analysis and the need to get the aircraft on the ground as quickly as possible. Even when the isolation is successful, the pilots need to consider how the failure will affect the remainder of the flight. The impact of the loss of all or part of the bleed air system as it affects their particular aircraft type must be examined. Depending upon aircraft type, the analysis might consider items such as:
+
+Icing - are anti-icing systems affected by the failure? Are there specific AFM limitation to be considered?
+Pressurisation - can the planned altitude be maintained?
+Approach, landing, go-around - does the failure in any way impact upon extension or retraction of landing gear, high lift or deceleration devices?
+
+Typical Scenarios
+
+A bleed air modulating valve in the right wing anti-ice system fails in the fully open position causing the anti-ice system to overheat. A flight deck warning is generated and the wing anti-ice system is turned off. The aircraft is descended to warmer air where icing is no longer a factor.
+The main pneumatic duct in the left wing suffers a catastrophic failure. The overheat detectors in proximity to the duct generate a warning on the flight deck. Checklist action is followed to close the fire wall bleed air shutoff valve on the left engine and the bleed air shutoff valve for the left wing, isolating the leak. The notes and cautions associated with the checklist procedure advise that "icing conditions must be avoided." Moderate mixed icing has been reported by aircraft in descent at the planned destination. The crew elects to divert to their alternate where there is some cloud cover but no icing is forecast or has been reported.
+
+Contributing Factors
+Aircraft wiring is often routed in proximity to pneumatic ducts. A bleed air leak from a compromised duct can melt the insulation of these wires, causing short circuits and potentially resulting in the generation of false warnings. These multiple warnings may mask the actual failure. If the bleed air leak is allowed to persist, heat damage to the airframe structure or a fire is possible.
+Accidents and Incidents
+The following events involved problems with the bleed air system and/or bleed air leaks:
+
+
+F100, en-route, northwest of Goroka Papua New Guinea, 2020On 18 March 2020, a Fokker 100 en-route to Port Moresby experienced a failure of the cabin pressurisation and air conditioning system due to a complete failure of the bleed air system. An emergency descent and a PAN were declared and a diversion to Madang completed. The Investigation noted unscheduled work on the bleed air system had occurred prior to the departure of the flight and that long running problems with this system had not been satisfactorily resolved until after the investigated occurrence when four malfunctioning components had finally been systematically identified and replaced.
+
+B733, en-route, north of Narrandera NSW Australia, 2018On 15 August 2018, a Boeing 737-300SF crew concerned about a small residual pressure in a bleed air system isolated after a fault occurred en-route then sought and were given non-standard further troubleshooting guidance by company maintenance which, when followed, led directly and indirectly to additional problems including successive incapacitation of both pilots and a MAYDAY diversion. The Investigation found that the aircraft concerned was carrying a number of relevant individually minor undetected defects which meant the initial crew response was not completely effective and prompted a request for in-flight assistance which was unnecessary and led to the further outcomes.
+
+A320, vicinity London Heathrow UK, 2019On 23 September 2019, the flight crew of an Airbus A320 on approach to London Heathrow detected strong acrid fumes on the flight deck and after donning oxygen masks completed the approach and landing, exited the runway and shut down on a taxiway. After removing their masks, one pilot became incapacitated and the other unwell and both were taken to hospital. The other occupants, all unaffected, were disembarked to buses. The very comprehensive investigation was unable to establish the origin of the fumes but did identify a number of circumstantial factors which corresponded to those identified in previous similar events.
+
+E195, Exeter UK, 2019On 28 February 2019, an Embraer E195 abandoned takeoff from Exeter when fight deck fumes/smoke accompanied thrust applied against the brakes. When informed of similar conditions in the cabin, the Captain ordered an emergency evacuation. Some passengers using the overwing exits re-entered the cabin after becoming confused as to how to leave the wing. The Investigation attributed the fumes to an incorrectly-performed engine compressor wash arising in a context of poorly-managed maintenance and concluded that guidance on overwing exit use had been inadequate and that the 1.8 metre certification height limit for exits without evacuation slides should be reduced.
+
+B738, Glasgow UK, 2012On 19 October 2012, a Jet2-operated Boeing 737-800 departing Glasgow made a high speed rejected take off when a strange smell became apparent in the flight deck and the senior cabin crew reported what appeared to be smoke in the cabin. The subsequent emergency evacuation resulted in one serious passenger injury. The Investigation was unable to conclusively identify a cause of the smoke and the also- detected burning smells but excess moisture in the air conditioning system was considered likely to have been a factor and the Operator subsequently made changes to its maintenance procedures.
+
+
+...further results
+
+
+Related Articles
+
+Wing Fire
+
+Further Reading
+
+An analysis of fumes and smoke events in Australian aviation ATSB (Australia), 2014
+Study of Reported Occurrences in Conjunction with Cabin Air Quality in Transport Aircraft BFU (Germany), 2014
+Cabin Air Quality, U.S. Federal Aviation Administration Fact Sheet, FAA website 18 Dec. 2020.
+
+
+
+
+
+Categories
+
+
+Fire Smoke and Fumes,
+              Non Combustion-related Fumes,
+              Aeromedical,
+              Operational Fires
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

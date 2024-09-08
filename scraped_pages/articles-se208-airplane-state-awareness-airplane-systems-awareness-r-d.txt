@@ -1,0 +1,129 @@
+SE208: Airplane State Awareness - Airplane Systems Awareness (R-D)
+
+
+
+
+
+
+
+
+
+
+
+  SE208: Airplane State Awareness - Airplane Systems Awareness (R-D)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+CAST Safety Enhancements 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ CAST
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ CAST
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Status: UNDERWAY
+Background
+The purpose of this Safety Enhancement is to outline research to be conducted by the aviation community (government, industry and academia) to develop flight deck systems that enhance flight crew awareness of system status and the interaction of systems, particularly in non-normal situations involving failures in one or more systems.
+In a Commercial Aviation Safety Team (CAST) study of 18 loss-of-control accidents and incidents, 15 events involved a lack of aircraft system state awareness. The aviation community should conduct research and development on aircraft systems that improve flight crew awareness of system status and the interaction of systems, particularly in non-normal situations involving failures in one or more systems, including:
+
+Displays that present, in an intuitive manner:
+
+the current and future expected state of automated systems
+the aircraft flight-critical data systems in use by autoflight system, flight control laws, and primary flight instruments
+
+
+Improved alerting methodologies and algorithms that:
+
+Effectively prioritize alerts and messages
+Appropriately escalate alerts the flight crew has not correctly addressed
+Effectively inform the flight crew of unusual and potentially problematic autoflight control inputs (including all trim and thrust changes)
+
+
+
+The research should focus on raising the technology readiness level (TRL) of these features to a level that enables cost-effective implementation and certification of these technologies.
+Related Implementation Plan
+Detailed Implementation Plan
+
+
+
+
+Categories
+
+
+CAST Safety Enhancements,
+              CAST Safety Enhancements Plan
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,202 @@
+Airborne Separation Assurance Systems (ASAS)
+
+
+
+
+
+
+
+
+
+
+
+  Airborne Separation Assurance Systems (ASAS)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Nets 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+The Airborne Separation Assurance System is an aircraft system that enables the flight crew to maintain separation of aircraft from one or more aircraft and provides flight information concerning the surrounding traffic.
+Background
+New concepts for air traffic management, such as the ‘Free Flight’ concept, enable the flexible use of airspace by means of airborne determination of user-preferred trajectories thus allowing direct routing. These concepts are aimed at increased airspace capacity and reduced congestion. They may lead, however, to more complex traffic flows and increased controller workload. A solution might be to delegate the separation task to the pilot. Airborne Separation Assurance Systems (ASAS) can assist pilots in such “self-separation”. It is expected that ASAS will be effective, in terms of conflict resolution and reduced workload.
+Observations
+Two observations can be made with respect to automated airborne self-separation support:
+
+When faced with a conflict situation, explicit automated solutions do not allow pilots to explore solutions other than those presented. They may therefore preclude full exploitation of the available travel freedom and airspace capacity in future airspace environments.
+In a complex traffic environment non-routine situations arise, often beyond the scope of the automation and unanticipated in the automation design. In such exceptional cases, a pilot’s ability to improvise outperforms automated solutions.
+
+Improvement of Surveillance
+To support pilots in unforeseen situations, automation and instrumentation need to promote a high level of situational awareness. Improved ground and airborne surveillance might increase the level of situational awareness.
+ASAS includes 12 operational applications for ground and airborne surveillance:
+Ground Surveillance (GS) applications:
+
+ATC surveillance for en-route airspace (ADS-B-ACC);
+ATC surveillance in terminal areas (ADS-B-TMA);
+ATC surveillance in non-radar areas (ADS-B-NRA);
+Airport surface surveillance (ADS-B-APT); and
+Aircraft derived data for ground tools (ADS-B-ADD).
+
+Airborne Surveillance (AS) applications:
+
+Enhanced traffic situational awareness on the airport surface (ATSA-SURF);
+Enhanced traffic situational awareness during flight operations (ATSA-AIRB);
+Enhanced visual acquisition for see & avoid (ATSA-S&A);
+Enhanced successive visual approaches (ATSA-SVA);
+Enhanced sequencing and merging operations (ASPA-S&M);
+In-trail procedure in oceanic airspace (ASPA-ITP); and
+Enhanced crossing and passing operations (ASPA-C&P).
+
+The Future Ahead
+In Europe, the future ATM Target Concept, as defined in the ATM Master Plan, represents a shift from an airspace-based environment to a trajectory-based environment and focuses on the following elements:
+
+4D Trajectory Management, introducing a new approach to airspace design and management;
+Collaborative Planning, continuously reflected in the Network Operation Plan;
+Integrated airport operations, contributing to capacity gains;
+New separation modes, allowing increased capacity;
+System Wide Information Management, integrating all ATM business related data;
+Humans, who will be central in the future European ATM system as managers and decision makers.
+
+A first assessment of the proposed Target Concept (commonly referred to as “SESAR Concept of Operations) has been performed, mainly based on "expert judgement" and has concluded that there is good potential for reaching the performance targets, although the capacity and cost-effectiveness targets in some areas (e.g. major hub airports, high density airspace) can only be achieved through supplementary actions (e.g. additional runways, functional airspace blocks). Additional activities have been identified and included in the SESAR work programme to refine the operational concept elements and acquire more confidence in the high level assessment results .
+The effort for the development of ASAS applications is shared on the both sides of the Atlantic. According to NextGen, which is the equivalent to SESAR initiative run by the United States, the ATM evolution is considered in three steps, notably:
+
+Research & Development activities (2007-2011);
+Aircraft equipage and deployment of capabilities for the mid-term (2012-2018) and;
+Fully integrated ATM system operating across all air transport domains (2019-2025).
+
+According to EUROCONTROL the timing is appropriate for ASAS development with the advent of SESAR in Europe and NextGen in the US. The availability of common global understanding of ASAS issues and the recognition of ASAS significance in the context of these two continental initiatives is crucial for the timely development of ASAS applications. ASAS development, validation and operational initiatives should include all stakeholders concerned. Standards should be developed and globally applied.
+Expectations
+EUROCONTROL recognises the following potential gains from ASAS applications:
+Safety
+Enhanced cockpit situational awareness with possibility to better understand surrounding traffic - situational awareness would be provided in all airspace, in all phases of flight, and on the airport surface. ASAS can operate in all weather conditions: this would complement visual acquisition and avoid erroneous visual acquisition. ASAS will not replace Short Term Conflict Alert and/or ACAS, but would help prevent situations where those safety nets would be useful, i.e. by reducing the likelihood of judgemental error in understanding and planning traffic situation.
+Some benefits of Airborne Traffic Situational Awareness applications have been identified below:
+
+Improved co-operation between controllers and flight crews resulting from shared traffic awareness
+Reduced risk of miss-identification by providing flight identification for traffic shown on cockpit displays
+Improved safety through earlier anticipation of collision risks
+Reduced voice communications through a better flight crew traffic situational awareness
+Improved ‘party-line’ traffic situational awareness in a data link environment
+Increased safety in the event of loss of voice communications or radar failure
+Enhanced judgments of closure and encounter geometries while on approach
+Increased efficiency of existing Visual Meteorological Conditions (Visual Meteorological Conditions (VMC)) procedures
+Improved taxiway and runway occupancy awareness in airport operations, especially in low visibility conditions which may reduce runway incursions and collisions on the airport surface.
+
+Autonomous modes of operation: ASAS uses various sources of position and intent data. ASAS can support its applications without reliance on controller actions by generating guidance to the crew for safe and timely resolution of conflicts or maintenance of safe separation.
+Guidance presented directly to flight crew: ASAS guidance does not depend on ground-to-air communication. This should prevent the common hazard of missed or garbled radio communications.
+Capacity & Flight Efficiency
+ASAS applications are intended to reduce controller workload (e.g. long monitoring situations). Depending on traffic conditions, airspace constraints, and controller’s options, ths can be converted into capacity and/or flight efficiency. These gains are sensitive to many factors. Improved pilot awareness may avoid requests for flight plan changes that would be denied due to traffic, thereby also reducing controller workload.
+Cost Reductions
+Cost reductions may result from reduced delays attached to capacity/flight efficiency gains. It is not anticipated that this would lead to a reduction of ATC infrastructure costs within the timeframe under consideration. Nevertheless, a future solution may be a reduced number of ATCOs on duty (one might imagine reducing the need for controllers) at night or in very low traffic density times.
+Environmental Benefits
+ASAS applications could contribute to the reduction of environmental impact since they support the flexibility to fly preferred profiles. The reduction of flight times and the ability to use optimum climb and descent profiles may result in the reduction of aircraft exhaust emissions and noise.
+Related Articles
+
+Automatic Dependent Surveillance Broadcast (ADS-B)
+
+Further reading:
+
+CARE/ASAS Activity 5 Description of a first package of GS/AS applications. Version 2.2 - September 30, 2002, Last validation: 18/01/2005 . The main purpose of CARE-ASAS was to drive the establishment of a common view of ASAS applications and to support their validation.
+
+
+FAA/EUROCONTROL Cooperative R&D “Principles of Operation for the use of ASAS”
+
+
+Single European Sky And Functional Airspace Blocks, Directorate-General for Energy and Transport European Commission, Montreal, 02 June 2008
+
+
+Equipping for ASAS: Ground and Airborne Industries, 07 November 2007
+
+
+Comparison of the SESAR and NextGen Concepts of Operations, NCOIC™ Aviation IPT, May 2008
+
+
+Control and Simulation Division of the Faculty of Aerospace Engineering, Delft University of Technology.
+
+
+
+
+
+Categories
+
+
+Safety Nets
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

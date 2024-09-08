@@ -1,0 +1,176 @@
+Threat and Error Management (TEM) in Flight Operations
+
+
+
+
+
+
+
+
+
+
+
+  Threat and Error Management (TEM) in Flight Operations
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Management 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ ICAO
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TEM in Flight Operations
+There are three basic components in the Threat and Error Management (TEM) model, from the perspective of flight crews: threats, errors and undesired aircraft states (UAS). The model proposes that threats and errors are part of everyday aviation operations that must be managed by flight crews, since both threats and errors carry the potential to generate undesired aircraft states. Flight crews must also manage undesired aircraft states, since they carry the potential for unsafe outcomes. Undesired state management is an essential component of the TEM model, as important as threat and error management. Undesired aircraft state management largely represents the last opportunity to avoid an unsafe outcome and thus maintain safety margins in flight operations.
+Threats
+Threats are defined as “events or errors that occur beyond the influence of the flight crew, increase operational complexity, and which must be managed to maintain the margins of safety”. During typical flight operations, flight crews have to manage various contextual complexities. Such complexities would include, for example, dealing with adverse meteorological conditions, airports surrounded by high mountains, congested airspace, aircraft malfunctions, errors committed by other people outside of the cockpit, such as air traffic controllers, flight attendants or maintenance workers, and so forth. The TEM model considers these complexities as threats because they all have the potential to negatively affect flight operations by reducing margins of safety.
+Anticipated Threats
+Some threats can be anticipated, since they are expected or known to the flight crew. For example, flight crews can anticipate the consequences of a thunderstorm by briefing their response in advance, or prepare for a congested airport by making sure they keep a watchful eye for other aircraft as they execute the approach.
+Unexpected Threats
+Some threats can occur unexpectedly, such as an in-flight aircraft malfunction that happens suddenly and without warning. In this case, flight crews must apply skills and knowledge acquired through training and operational experience.
+Latent Threats
+Lastly, some threats may not be directly obvious to, or observable by, flight crews immersed in the operational context, and may need to be uncovered by safety analysis. These are considered latent threats. Examples of latent threats include equipment design issues, optical illusions, or shortened turn-around schedules.
+Regardless of whether threats are expected, unexpected, or latent, one measure of the effectiveness of a flight crew’s ability to manage threats is whether threats are detected with the necessary anticipation to enable the flight crew to respond to them through deployment of appropriate countermeasures.
+Threat management is a building block to error management and undesired aircraft state management. Although the threat-error linkage is not necessarily straightforward, although it may not be always possible to establish a linear relationship, or one-to-one mapping between threats, errors and undesired states, archival data demonstrates that mismanaged threats are normally linked to flight crew errors, which in turn are oftentimes linked to undesired aircraft states. Threat management provides the most proactive option to maintain margins of safety in flight operations, by voiding safety-compromising situations at their roots. As threat managers, flight crews are the last line of defense to keep threats from impacting flight operations.
+
+Table 1 presents examples of threats, grouped under two basic categories derived from the TEM model. Environmental threats occur due to the environment in which flight operations take place. Some environmental threats can be planned for and some will arise spontaneously, but they all have to be managed by flight crews in real time. Organisational threats, on the other hand, can be controlled (i.e., removed or, at least, minimised) at source by aviation organisations. Organisational threats are usually latent in nature. Flight crews still remain the last line of defence, but there are earlier opportunities for these threats to be mitigated by aviation organisations themselves.
+Errors
+Errors are defined “actions or inactions by the flight crew that lead to deviations from organisational or flight crew intentions or expectations”. Unmanaged and/or mismanaged errors frequently lead to undesired aircraft states. Errors in the operational context thus tend to reduce the margins of safety and increase the probability of adverse events.
+Errors can be spontaneous (i.e., without direct linkage to specific, obvious threats), linked to threats, or part of an error chain. Examples of errors would include the inability to maintain stabilised approach parameters, executing a wrong automation mode, failing to give a required callout, or misinterpreting an ATC clearance.
+Regardless of the type of error, an error’s effect on safety depends on whether the flight crew detects and responds to the error before it leads to an undesired aircraft state and to a potential unsafe outcome. This is why one of the objectives of TEM is to understand error management (i.e., detection and response), rather than solely focusing on error causality (i.e., causation and commission). From the safety perspective, operational errors that are timely detected and promptly responded to (i.e., properly managed) do not lead to undesired aircraft states, do not reduce margins of safety in flight operations, and thus become operationally inconsequential. In addition to its safety value, proper error management represents an example of successful human performance, presenting both learning and training value.
+Capturing how errors are managed is then as important, if not more, than capturing the prevalence of different types of error. It is of interest to capture if and when errors are detected and by whom, the response(s) upon detecting errors, and the outcome of errors. Some errors are quickly detected and resolved, thus becoming operationally inconsequential, while others go undetected or are mismanaged. A mismanaged error is defined as an error that is linked to or induces an additional error or undesired aircraft state.
+
+Table 2 presents examples of errors, grouped under three basic categories derived from the TEM model. In the TEM concept, errors have to be "observable" and therefore, the TEM model uses the "primary interaction" as the point of reference for defining the error categories.
+
+The TEM model classifies errors based upon the primary interaction of the pilot or flight crew at the moment the error is committed. Thus, in order to be classified as aircraft handling error, the pilot or flight crew must be interacting with the aircraft (e.g. through its controls, automation or systems). In order to be classified as procedural error, the pilot or flight crew must be interacting with a procedure (e.g. checklists; Standard Operating Procedures (SOPs); etc). In order to be classified as communication error, the pilot or flight crew must be interacting with people (ATC; ground crew; other crewmembers, etc).
+Aircraft handling errors, procedural errors and communication errors may be unintentional or involve intentional non-compliance. Similarly, proficiency considerations (i.e., skill or knowledge deficiencies, training system deficiencies) may underlie all three categories of error. In order to keep the approach simple and avoid confusion, the TEM model does not consider intentional non-compliance and proficiency as separate categories of error, but rather as sub-sets of the three major categories of error.
+Undesired Aircraft States
+Undesired aircraft states are defined as ‘flight crew-induced aircraft position or speed deviations, misapplication of flight controls, or incorrect systems configuration, associated with a reduction in margins of safety”. Undesired aircraft states that result from ineffective threat and/or error management may lead to compromising situations and reduce margins of safety in flight operations. Often considered at the cusp of becoming an incident or accident, undesired aircraft states must be managed by flight crews.
+Examples of undesired aircraft states would include lining up for the incorrect runway during approach to landing, exceeding ATC speed restrictions during an approach, or landing long on a short runway requiring maximum braking. Events such as equipment malfunctions or ATC controller errors can also reduce margins of safety in flight operations, but these would be considered threats. Undesired states can be managed effectively, restoring margins of safety, or flight crew response(s) can induce an additional error, incident, or accident.
+
+Table 3 presents examples of undesired aircraft states, grouped under three basic categories derived from the TEM model.
+ 
+An important learning and training point for flight crews is the timely switching from error management to undesired aircraft state management. An example would be as follows: a flight crew selects a wrong approach in the Flight Management System (FMS). The flight crew subsequently identifies the error during a crosscheck prior to the Final Approach Fix (FAF). However, instead of using a basic mode (e.g. heading) or manually flying the desired track, both flight crew become involved in attempting to reprogram the correct approach prior to reaching the FAF. As a result, the aircraft “stitches” through the localiser, descends late, and goes into an unstable approach. This would be an example of the flight crew getting "locked in" to error management, rather than switching to undesired aircraft state management. The use of the TEM model assists in educating flight crews that, when the aircraft is in an undesired state, the basic task of the flight crew is undesired aircraft state management instead of error management. It also illustrates how easy it is to get locked in to the error management phase.
+Also from learning and training perspective, it is important to establish a clear differentiation between undesired aircraft states and outcomes. Undesired aircraft states are transitional states between a normal operational state (i.e., a stabilised approach) and an outcome. Outcomes, on the other hand, are end states, most notably, reportable safety occurrences. An example would be as follows: a stabilised approach (normal operational state) turns into an unstablised approach (undesired aircraft state) that results in a runway excursion (outcome).
+The training and remedial implications of this differentiation are of significance. While at the undesired aircraft state stage, the flight crew has the possibility, through appropriate TEM, of recovering the situation, returning to a normal operational state, thus restoring margins of safety. Once the undesired aircraft state becomes an outcome, recovery of the situation, return to a normal operational state, and restoration of margins of safety is not possible.
+Countermeasures
+Flight crews must, as part of the normal discharge of their operational duties, employ countermeasures to keep threats, errors and undesired aircraft states from reducing margins of safety in flight operations. Examples of countermeasures would include checklists, briefings, call-outs and SOPs, as well as personal strategies and tactics. Flight crews dedicate significant amounts of time and energies to the application of countermeasures to ensure margins of safety during flight operations. Empirical observations during training and checking suggest that as much as 70% of flight crew activities may be countermeasures-related activities.
+All countermeasures are necessarily flight crew actions. However, some countermeasures to threats, errors and undesired aircraft states that flight crews employ build upon “hard” resources provided by the aviation system. These resources are already in place in the system before flight crews report for duty, and are therefore considered as systemic-based countermeasures. The following would be examples of “hard” resources that flight crews employ as systemic-based countermeasures:
+
+Airborne Collision Avoidance System (ACAS)
+Ground Proximity Warning System (GPWS)
+Standard operation procedures (SOPs)
+Checklists
+Briefings
+Training
+Etc
+
+Other countermeasures are more directly related to the human contribution to the safety of flight operations. These are personal strategies and tactics, individual and team countermeasures, that typically include canvassed skills, knowledge and attitudes developed by human performance training, most notably, by Crew Resource Management (CRM) training. There are basically three categories of individual and team countermeasures:
+
+Planning countermeasures: essential for managing anticipated and unexpected threats
+Execution countermeasures: essential for error detection and error response
+Review countermeasures: essential for managing the changing conditions of a flight
+
+Enhanced TEM is the product of the combined use of systemic-based and individual and team countermeasures.
+Related Articles
+
+Threat and Error Management (TEM)
+Threat and Error Management (TEM) in ATC
+
+Further Reading
+
+Threat and Error Management (TEM) in Air Traffic Control, ICAO, Preliminary Edition 2005;
+Threat and Error Management (TEM), Captain Dan Maurino, Paper presented at the Canadian Aviation Safety Seminar (CASS), Vancouver, Canada, 18-20 April 2005;
+Defensive Flying for Pilots: An Introduction to Threat and Error Management, Ashleigh Merritt & James Klinect, University of Texas Human Factors Research Project, The LOSA Collaborative December 12, 2006.
+
+Note
+
+^ This article is based on Threat And Error Management (TEM) paper presented by Capt. Dan Maurino, Coordinator of ICAO Flight Safety and Human Factors Programme, at the Canadian Aviation Safety Seminar (CASS) in Vancouver, Canada, 18-20 April 2005.
+
+
+
+
+
+Categories
+
+
+Safety Management,
+              SM Methods and Tools,
+              HF-AO,
+              Organisation and Human Performance
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

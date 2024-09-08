@@ -1,0 +1,171 @@
+Autonomous Operations Basics
+
+
+
+
+
+
+
+
+
+
+
+  Autonomous Operations Basics
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Unmanned Aerial Systems 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+This article introduces basic information about autonomous operation of unmanned aircraft systems (UAS) sourced from aviation industry leaders and subject matter experts sharing at international meetings and in technical reports. It also describes risks unique to autonomous operation of UAS.
+Definitions
+Autonomous — “An entity that can, and has the authority to, independently determine a new course of action in the absence of a predefined plan to accomplish goals based on its knowledge and understanding of its operational environment and situation. Having the ability and authority to make decisions independently and self-sufficiently.” (ASTM International)
+Autonomous system — “Hardware, software or a combination of the two that enables a system to make decisions independently and self-sufficiently. Autonomous systems are self-directed toward a goal governed by rules and strategies that direct their behavior.” (ASTM International)
+Autonomous UA — An unmanned aircraft that does not allow pilot intervention in the management of the flight. (The ICAO Secretariat’s UAS guidance to its regional safety working groups cites this meaning).
+Automated system or automatic system — “Hardware and software that automate a predefined process without the need for human intervention; an individual may monitor and override [the system]. (ASTM International)
+Discussion
+A 2019 technical report by standards setting organisation ASTM International notes these UAS–relevant trends within the aviation community:
+
+“Significant interest in adopting increasingly autonomous systems for routine use in aviation”;
+“Interest in this technology … from the unmanned aircraft community”; and,
+“[Interest in] improving aviation safety through increased automation.”
+
+This technical report concluded, in part, “Increased automation moving toward autonomy has shown great promise to improve the safety of aviation and transform the industry.”
+To help aviation-standards writers in their deliberations, the report introduces and advocates a new common terminology designed to reduce confusion. Some of the definitions above are drawn from the organisation’s work. ASTM International said this effort resulted in “a new framework in which various risks and safety benefits could be considered in a more nuanced and operationally relevant context.”
+Several other international organisations also have attempted to visualise and influence the intertwined futures of manned aviation and autonomous UAS.
+“The pace at which the [UAS] industry is growing is unprecedented. It is anticipated that in 2035, at any given hour we will have over the skies of Paris 156 commercial aircraft, 2,500 urban air mobility [UAM] vehicles, 16,667 drones delivering cargo, 58 inspection drones, and 44 hobby drones,” said a 2019 working paper prepared for the Executive Committee of the International Civil Aviation Organisation (ICAO).
+Developers of aviation regulations, safety guidance documents, policy statements and safety research reports increasingly must clarify whether recommended practices pertain only to RPAS, only to autonomous UAS, or to both.
+In their working paper, the presenters recommended that ICAO collaborate with industry partners in pursuing accelerated integration and harmonisation of advanced UAS concepts, subject to ICAO validation. Proposed industry work would optimise dispersed industry initiatives to accomplish safe and efficient integration of UAS (i.e., UAS traffic management [UTM]) — including RPAS and autonomous UAS — and manned aircraft operations (i.e., air traffic management [ATM]).
+Their working paper also expected the initial industry work to define UTM and set performance requirements for it; to set “requirements for UTM–ATM interface and transformation in ATM,” and possibly to review existing airspace classification and recommend new flight rules.
+Without citing autonomous UAS, the working paper said, “Recently, there has been an accelerated influx of automation, digital application, robotics, and artificial intelligence, allowing for the development of new vehicles and modes of operation. This technology, although disruptive to the status quo, can provide a positive transformation to the air transport sector if properly managed. … The forecasted growth in the commercial use of UAS, indicates that segregation of UAS operations may not be sustainable in the long term. Therefore, the industry should collectively look at evolving from accommodation to integration. … At the same time, we need to ensure that the integration of UAS into civil airspace will not have a negative safety or operational impact on international commercial aviation.”
+Autonomous vs. Remotely Piloted Flights
+Setting regulatory requirements for remotely piloted UAS operations has proved to be less difficult than developing requirements for operating autonomous UAS, according to the European Union Aviation Safety Agency (EASA).
+“The concept of autonomy, its levels and human–autonomous system interactions are currently being discussed in various domains (not only in aviation), and no common understanding has yet been reached. Guidance will therefore be provided once this concept is mature and globally accepted,” EASA said in 2019.
+“Nevertheless, the risk assessment of autonomous operations should ensure, as for any other operations, that the risk is mitigated to an acceptable level. Besides, it is expected that autonomous operations or operations with a high level of autonomy will be subject to authorisation and will not be covered by STSs [standard scenarios] until enough experience is gained.”
+Practical Applications
+Applications for autonomous UAS are expected to address these examples of commercial and public use expectations:
+
+Research by McKinsey and Company in December 2017 concluded that, “With greater autonomous control, companies will be able to pursue [UAS] uses that are now elusive, such as the repeated and unpiloted surveillance of pipelines, mines, and construction projects.”
+The Office of Groundwater, U.S. Geological Survey, in 2017 published papers describing the use of marine UAS to support three-dimensional seismic surveys, including autonomous UA operations that “open up new possibilities for marine seismic data acquisition.”
+
+Accident Scenario
+A 2006 accident involving a long-endurance, high-altitude U.S. government UA — capable of both remotely piloted operation and fully autonomous operation — yielded lessons and insights for training civilian investigators, UAS pilots and UAS operators.
+Post-accident safety recommendations made by the U.S. National Transportation Safety Board (NTSB) to the Federal Aviation Administration (FAA) and to U.S. Customs and Border Protection (CPB) began with these basic facts. On 25 April 2006, about 0350, a General Atomics Aeronautical Systems Predator B UA crashed approximately 10 nm/16 km northwest of Nogales International Airport, Arizona, within 100 yd/91 m of a house. The UA was being piloted via data link from a ground control station while performing U.S. border surveillance in night visual meteorological conditions.
+NTSB found that the probable cause was the remote pilot’s “failure to use checklist procedures when switching operational control from pilot payload operator (PPO)-1 to PPO-2, which resulted in the fuel valve inadvertently being shut off and the subsequent total loss of engine power, and lack of a flight instructor in the ground control station, as required by the CBP’s approval to allow the pilot to fly the Predator B.” NTSB expressed concern that “deficiencies exist in various aspects of air traffic control (ATC) and air traffic management of UASs in the National Airspace System.”
+The letter to FAA describes how, in this scenario, remotely piloted operation ceased and autonomous operation took over — but failed to protect airspace occupants against risk of collision, failed to restore UA control and failed to prevent the crash:
+
+The engine shut down and autonomous UA functionality degraded quickly as it began to operate on battery power. In this state, the autonomous system shut down some aircraft systems to conserve electrical power, including the satellite communication system and the transponder.
+The transponder shutdown removed the UA’s enhanced electronic signature, an identification code, and altitude information normally presented on the controller’s radar display.
+Without an operational transponder, the secondary radar return, identification, and altitude information were not available to air traffic control (ATC).
+About 0339, ATC lost primary radar contact with the UA and could no longer provide separation from other aircraft as the UA descended below the temporary flight restriction–protected airspace.
+About 0340, the UA pilot advised the Albuquerque Air Route Traffic Control Center that the data link signal was lost between the ground control station and the UA.
+In its autonomous operation mode, the UA was expected by the pilot to fly its predetermined lost-link mission profile until restoration of the data link or the UA returned autonomously to its point of origin.
+If line-of-sight transmissions cannot be reestablished, and an autonomous return to point-of-origin programming fails, the UA would, after fuel exhaustion, crash somewhere along the route.
+Without the transponder or primary radar returns, ATC was unable to locate or track this UA or provide assistance to ATC in locating the crash site.
+For the accident flight, the lost-link profile did not include a return to the departure airport, nor did it match the profile defined in the FAA approval to operate.
+The UA pilot also failed to inform ATC about the UA’s modified, unpublished lost-link profile.
+Controllers were unfamiliar with the latest procedures and route that the autonomous UA would follow in this lost-link situation, but they did not query the UA pilot about what had occurred or follow ATC standard procedures used for a missing manned aircraft.
+
+To prevent such scenarios, NTSB recommended that all UA transponders be powered by the emergency or battery bus, enabling transmission of continuous beacon code and altitude information to ATC and to aircraft equipped with the traffic alert and collision avoidance system (TCAS) while airborne.
+References
+
+“The Safe and Efficient Integration of UAS Into Airspace,” a working paper presented by the Civil Air Navigation Services Organisation (CANSO), the International Air Transport Association (IATA) and the International Federation of Air Line Pilots’ Associations (IFALPA) to the Executive Committee of the ICAO Assembly 40th Session, 8 August 2019.
+“Autonomy Design and Operations in Aviation: Terminology and Requirements Framework,” by ASTM International, ASTM Stock Number TR1–EB, 2019. This technical report was prepared by Technical Committees F37— Light Sport Aircraft; F38 — Unmanned Aircraft Systems; F39 — Aircraft Systems; and F44 — General Aviation Aircraft. (external link, paid resource)
+“Level of Autonomy and Guidelines for Human-Autonomy Interaction,” in Acceptable Means of Compliance (AMC) and Guidance Material (GM) to Part-UAS: UAS Operations in the ‘Open’ and ‘Specific’ Categories, Issue 1, ED Decision 2019/021/R, EASA, October 9, 2019.
+“Panel Urges Evaluation of Effects of Drones on Society,” by AeroSafety World editorial staff, Flight Safety Foundation, 20 February 2020.
+NTSB Safety Recommendation A-07-65 through A-07-69, U.S. National Transportation Safety Board, 24 October 2007.
+
+Related Articles
+
+Introduction to Remotely Piloted Aircraft Systems (RPAS)
+Key Risk Areas of Remotely Piloted Aircraft Systems (RPAS)
+Advanced Air Mobility (AAM)
+
+
+
+
+
+Categories
+
+
+Unmanned Aerial Systems
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

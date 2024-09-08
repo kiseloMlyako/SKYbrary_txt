@@ -1,0 +1,150 @@
+Weak Signals Approach to ANSP Safety Performance
+
+
+
+
+
+
+
+
+
+
+
+  Weak Signals Approach to ANSP Safety Performance
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Organisation and Human Performance 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+“Creating foresight”, “anticipating future threats” and “how to be prepared for possible future surprises” are fundamental issues in managing today’s complex socio-technical systems. Traditional safety approaches use after-the-event data to evaluate the organisation’s safety level. This is based on the theoretical understanding that safety is seen as the absence of unwanted consequences. Consequently, managing safety is seen as the avoidance or elimination of negative outcomes. This safety approach follows the credo of improving safety by learning from errors and mishaps. Organisations with this understanding may learn from past events, but hardly pro-actively anticipate future threats.
+In the current complex socio-technical systems, traditional theories of safety that follow a structural view and focus only on the negative limit the understanding of the interactive complexity and dynamics are inherent in such systems. Only finding and counting human errors, failures or breakdowns is no appropriate way to get a better insight of how today´s systems work and possibly fail. A better understanding of the interactions and couplings of system components is necessary.
+The following presentation illustrates the traditional approach of managing safety.
+Traditional approach of safety management
+A New Approach to System Safety
+To overcome the traditional approach and enter into a new level of safety in socio-technical systems requires a change of perspective.
+Resilience Engineering (RE) is a theoretical framework that aims to manage safety in a proactive manner focusing on daily operations and performance variability. From RE point of view adaptations in daily operations are necessary in order to maintain resilience of the system.
+From Human Error to Performance Variability
+Human error can only be seen as a failure when the outcome is known and considered unwanted. As long as the outcome suits the expectations and remains within the prescribed safety margins, the decision that is undertaken is not considered wrong or an error. RE acknowledges the under-specification that operational employees are often confronted by and attempts to gain a deeper understanding which is oversimplified by a label such as “Human Error”.
+Working conditions are characterised by changing demands and degraded modes of the system, requiring the ability to react flexibly under changing conditions. Due to these characteristics, human performance has to vary in order to meet actual demands and challenges. Not every situation can be covered by a procedure or a rule. Adjustments are vital and necessary. Contrary to this notion, technical systems do not vary widely because they basically work or do not work. In the case of a malfunction, the component in question will be replaced by another technical component. However, complex systems do not function in a bimodal way. What is valid for technical components does not apply to the nature of complex socio-technical systems. Performance variability is necessary and crucial. And because the adjustments of tasks and activities are shadowed by uncertainty and under specification, they are inevitable approximate. These human adjustments are the reason why in the everyday operational work, things often turn out well and sometimes they do not. As far as humans or organisations are concerned, the bimodal notion of functioning is not only inappropriate but also wrong. Ernst Mach (1905) summarized the idea of performance variability over 100 years ago in his book “Erkenntnis und Irrtum”:
+“Knowledge and error flow from the same mental sources, only success can tell one from the other”
+
+From Simple to Complex Systems
+Meanwhile aviation is a complex socio-technological system in which complex interactions and couplings are relevant factors with regard to safety management. Both are characterised by Perrow (1984)[2] as “tight couplings” (e.g. delays in processing are not possible, little slack available) and “complex inter-activeness” (e.g. many feedback loops, limited understanding and indirect information) of the system components. Due to the dynamic of complex interactions and couplings the adjustments are always approximate and the system performance has always a specific degree of uncertainty. Air Traffic Management (ATM) systems as part of the aviation system is changing while operating and therefore, cannot be described completely.
+The research has shown that in other domains like economy, ecology or journalism a weak signals approach was taken in order to cope with the uncertainty of future developments in complex systems.
+From Strong Signals to Weak Signals
+Every organisation, especially those in safety critical environments, has a particular interest in finding out whether it operates within an acceptable level of safety. A common approach is to take “after the event data”,especially data that strongly reflect what just happened, typically an accident or an incident. These are situations where the variability of daily performance exceeds a normal range and therefore becomes a strong signal, visible to everyone. This data is commonly compressed into safety indicators, frequently labelled as lagging indicators. This type of safety approach remains reactive and the conclusions are biased by hindsight. Most of the data comes from events that occur very rare, sometimes never and most of the effort and resources are spent for those events. However, only very little information is being taken to analyse everyday scenarios that happen all the time. Following this approach, the distribution of safety data will be inverted because the validation of every day events will now become the prevailing safety data.
+The Weak Signals Project
+EUROCONTROL set up a project called ”Weak Signals in ANSP´s safety performance” which started at the end of 2011 and is a collaborative work of EUROCONTROL, DFS, various universities and research institutes. The aim is to evaluate a new safety performance paradigm leading to a pro-active approach in safety management.
+According to the literature, "weak signals" can be seen as a kind of early signs providing information about the local adaptations and the system status. One of the main objectives of this research project is the development of a framework and to test its application and the possibilities of integration into an ANSP´s monitoring system. According to the RE point of view this will give the opportunity to act pro-actively before malfunctions or serious harm happens.
+Developing a Weak Signals approach for ANSP
+Literature review on concepts of “weak signals” in different branches led to the decision of the project team to choose the following definition by Schoemaker & Day (2009)[3] as the working definition for the first edition of a framework:
+A weak signal is seen as:
+A seemingly random or disconnected piece of information that at first appears to be background noise but can be recognized as part of a significant pattern by viewing it through a different frame or connecting it with other pieces of information.
+
+Furthermore, the characteristics of these pieces of information have been described e.g. as vague with little or no familiarity, low palatability or low reliability. It is also mentioned that "weak signals" usually have a substantial lag time before they become strong signals. Besides these characteristics inherent in these signals, the signals are also influenced by outside factors such as filters and blocking factors like blindness. These influences can weaken the signal.
+According to the above mentioned working definition it is important that the single information coming from the signals are connected and that a pattern can be derived. In order to identify these patterns a different perspective on safety is necessary.
+Generic patterns provide insights into organisational change. The analysis of these generic patterns is seen as a possible lesson for the transformation of future operations. The pattern of seeing details but being unable to recognise the big picture is a common factor in accidents. The decoding of weak signals allows the identification of significant generic patterns early enough because weak signals endure on a long term scale.In the context of weak signals framework, within the information processing a decoder is required that is able to assign a meaning to the identified signals. However, the search for patterns can create a WYLFIWYF (What-You-Look-For-Is-What-You-Find) mindset and information expected is seen rather than the unexpected information. This could create the paradox that the weak signals approach is weakening the signal.
+The  presentation “Weak Signals in ANSP´s Safety Performance” echoes the theoretical approach and displays the process of building up a framework for a weak signals approach in ANSP´s safety performance.
+References
+
+^ Woods, D.D. & Cook, R.I. (2002). Nine steps to move forwards from error. Cognition, Technology & Work, 4(2), 137-144.
+^ Perrow (1984). Normal accidents: living with high risk technologies. Princeton, NJ: Princeton University Press
+^ Schoemaker, P.J.H. & Day, G.S. (2009). How to make sense of weak signals. MIT Sloan Management Review, 50 (3)
+
+Further Reading
+
+The Systemic Potentials Management: Building a Basis for Resilient Performance - a White Paper, EUROCONTROL, September 2021
+Patterns in How People Think and Work: Importance of Patterns Discovery for Understanding Complex Adaptive Systems, EUROCONTROL, January 2021
+Unearthing Weak Signals for safer and more efficient socio-technical systems - The Structured Exploration of Complex Adaptations (SECA) method, EUROCONTROL, March 2022
+Weak Signals DFS, EUROCONTROL, 2014
+
+
+
+
+
+Categories
+
+
+Organisation and Human Performance,
+              HF-ATM
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

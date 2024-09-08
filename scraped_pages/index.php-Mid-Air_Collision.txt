@@ -1,0 +1,269 @@
+Mid-Air Collision
+
+
+
+
+
+
+
+
+
+
+
+  Mid-Air Collision
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Separation 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ DNVGL
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Editor's note: The original material for this article was contributed by DNVGL.
+One of the most hazardous consequences of a loss of separation between aircraft, including as a result of a level bust, is a  mid-air collision
+Definition
+A Mid-Air Collision (MAC) is an accident where two aircraft come into contact with each other while both are in flight.
+
+Events where aircraft collide on the runway or while one is on the ground and the other in the air close to the ground are covered under Runway Incursion.
+Events where aircraft collide during taxi or push-back (including collisions with parked aircraft) are covered under Ground Operations.
+Events where aircraft collide with obstacles (e.g. terrain, buildings, masts, trees etc.) while in flight are covered under CFIT.
+
+Effects
+Possible consequences of a MAC are temporary or permanent Loss of Control as a result of damage, avoidance manoeuvre, or mis-handling, potentially resulting in collision with terrain, or an emergency landing as a result of damage to the aircraft and/or injuries to crew and passengers.
+It is commonly assumed that any MAC would cause loss of both aircraft and all people on board. In fact, accident and serious incident reports show that there have been a few non-fatal MAC accidents. However, in most cases, total loss is the result.
+A crash following MAC may also cause fatalities among people on the ground.
+Defences
+
+Example of ACAS II traffic display, indicating a "Climb" RA with a vertical speed of 1500 ft/min.
+The main barriers against MAC are:
+
+Strategic conflict management, including:
+
+Airspace design, including the classification of airspace, the route structure, flight levels and the SIDs and STARs around airports.
+Air traffic flow and capacity management (ATFCM), including capacity planning, flexible use of airspace and flow management.
+Traffic synchronisation, including sector planning, multi-sector planning and arrival/departure sequencing.
+
+
+Tactical conflict management, which may consist of:
+
+ATC conflict management, in which ATCOs provide separation between aircraft.
+Pilot conflict management, in which pilots are responsible for avoiding other aircraft, sometimes with the assistance of information from ATC.
+Lateral offset.
+
+
+ATC collision avoidance, including:
+
+Short-term conflict alert (STCA)
+Warning from ATCOs not directly responsible for separation. Although this is not a planned barrier, this type of ad-hoc assistance sometimes helps avoid collisions.
+
+
+Airborne collision avoidance, including:
+
+Airborne collision avoidance system (ACAS)
+Visual airborne collision avoidance (See and Avoid)
+
+
+
+Providence (i.e. the chance separation of the two aircraft trajectories in time or space) can also be considered a barrier against MAC. It explains why a loss of separation does not necessarily lead to a collision, even if all the managed collision avoidance barriers are unsuccessful.
+Typical Scenarios
+Because of the multiple barriers that are in place, most collisions do not have a single cause, but multiple causes, typically one for each unsuccessful barrier. “Unsuccessful” is a general term covering all types of failure causes, including technical reasons, human error (e.g. lack of response or misjudgement), impracticability (e.g. not enough time) or lack of coverage (e.g. equipment not fitted). Barriers may also be by-passed (e.g. if a conflict is created at the tactical stage, strategic conflict management is then inapplicable).
+Further details on the causes of unsuccessful tactical conflict management are given in the article on loss of separation.
+Examples of the causes of unsuccessful collision avoidance are:
+
+Unsuccessful STCA warning:
+
+No STCA coverage of area of conflict.
+STCA failure to give warning in time, e.g. due to transponder failures, surveillance failures, STCA software failures, STCA parameters detuned to minimise false alarms etc.
+ATCO failure to respond in time, e.g. the ATCO is distracted and misses the warning, or believes the warning is incorrect.
+ATCO failure to recover separation in time, e.g. due to inadequate communication with the pilot or inadequate response from the pilot.
+
+
+Unsuccessful warning from other ATCOs not directly responsible for separation:
+
+No independent ATCO monitoring of area of conflict.
+Other ATCO failure to detect conflict in time, e.g. for reasons as above.
+Other ATCO failure to communicate warning to responsible ATCO in time.
+Responsible ATCO failure to recover separation in time.
+
+
+Unsuccessful ACAS warning:
+
+ACAS not installed on the aircraft.
+ACAS failure to detect the conflicting aircraft or issue a resolution advisory in time.
+Pilot failure to respond with appropriate timely collision avoidance manoeuvre, e.g. does not respond, or incorrectly prioritises ATC instructions
+Avoidance action invalidated by incorrect opposing action from the other pilot.
+
+
+Unsuccessful visual warning:
+
+Other aircraft in effect concealed, e.g. by IMC, darkness, flight deck surfaces or Empty Field Myopia.
+Flight crew failure to observe the other aircraft in time to make avoidance action.
+Pilot failure to respond with appropriate timely collision avoidance manoeuvre.
+
+
+
+The causes of barriers being unsuccessful are not necessarily independent. In fact, the most important causes include ones that make several barriers unsuccessful (known as common-cause failures). These are considered further under contributory factors below.
+Contributory Factors
+In addition to the specific causes of barrier failure, there are many other factors that can contribute to MAC or influence its likelihood.
+The influences include:
+
+Traffic conditions. This includes the traffic density, complexity, mixture of aircraft types and capabilities etc.
+ATCO performance. This includes fundamental issues such as workload, competence, teamwork, procedures, commitment etc, as well as the influence of ANSP safety management on these.
+Flight crew training and corporate culture. This includes the same fundamental issues as for ATCOs, and the influence of aircraft operator safety management.
+ATC systems. This includes systems such as flight data processing, communication, STCA etc, as well as the interaction with the human operator and the aircraft systems, and the procurement policy of the ANSP.
+Aircraft equipment. This includes aircraft systems such as autopilots, transponders and ACAS, but also aircraft performance (e.g. rate of climb) and their physical size.
+Navigation infrastructure. This includes the coverage and quality of navigation infrastructure.
+Surveillance. This includes the coverage and quality of surveillance systems.
+Flight plan processing. This includes the efficiency and reliability of flight plan submission, approval and distribution.
+Airspace. This includes the quality and complexity of airspace design, route layout, extent of controlled or uncontrolled airspace, proximity of military operational or training areas etc.
+Weather. This includes the occurrence of IMC conditions, storm activity and other turbulence that may influence conflict management and collision avoidance.
+
+Key influences (common-causes) that may affect several barriers at once include:
+
+ATCO performance. This is critical for tactical conflict management and ATC collision avoidance, but may also influence flight crew performance, and hence airborne collision avoidance. An example occurred in the Überlingen accident, where the pilot incorrectly prioritised late ATCO instructions over an ACAS RA.
+Flight crew inappropriate response to an ACAS RA, or mishandling of a response to an ACAS RA.
+Common information sources. Any information downlinked from the aircraft to the ATC is a potential source of common cause failures. For example, if the aircraft location is supplied by Mode C to both ACAS and ATC surveillance, any failures in the transponder or inaccurate height information will affect tactical conflict management, STCA and ACAS warning. This may also occur for aircraft without transponders or where a military aircraft is part of a formation and not transponding Mode C. This may leave see & avoid as the only available barrier.
+
+Solutions
+Reductions in collision risk can be achieved by reducing the most important reasons why the individual barriers are unsuccessful, especially common-causes; improving beneficial influences that may make existing barriers more successful; and introducing new barriers, if this can be done without degrading the ones that are already there. As well as reducing collision risk, it is also desirable to maintain awareness of reasons why collision risks have been made as low as they are, so as to prevent deterioration in the future.
+Key areas with potential for improvement include:
+
+Improved positive Safety Culture. This includes improving crew/team resource management, air ground communications, compliance with ACAS warnings etc.
+More extensive fitment of safety nets (STCA and ACAS). This includes developing STCA suitable for terminal areas.
+Improved reliability and consistency of safety nets. These need to provide early and dependable warning, and to reduce nuisance alerts. This includes using information downlinked from the aircraft, providing this is sufficiently reliable to offset the extra hazard potential of common-cause failures.
+Improved aircraft systems to alert pilots to any non-availability of transponders and ACAS.
+Improved ATC systems and procedures to enhance conflict management during any degradation of surveillance or STCA.
+Improved communications systems and procedures, such as controller-pilot datalink. This has the potential to reduce VHF congestion and communication errors, providing it is sufficiently reliable to offset the lost benefits of broadcast voice communication.
+Improved predictability of aircraft trajectories, so that conflicts can be predicted and resolved at an earlier stage, using MTCD and similar systems, and ATCOs need to make fewer interventions to maintain separation.
+
+Accidents and Incidents
+
+
+IL76 / B741, en-route, west of Delhi India, 1996On 12 November 1996, an Ilyushin IL76TD and an opposite direction Boeing 747-100 collided head on at the same level in controlled airspace resulting in the destruction of both aircraft and the loss of 349 lives. The Investigation concluded that the IL76 had descended one thousand feet below its cleared level after its crew had interpreted ATC advice of opposite direction traffic one thousand feet below as the reason to remain at FL150 as re-clearance to descend to this lower level. Fifteen Safety Recommendations relating to English language proficiency, crew resource management, collision avoidance systems and ATC procedures were made.
+
+C130 / C27J, manoeuvring, near Mackall AAF NC USA, 2014On 1 December 2014, a night mid-air collision occurred in uncontrolled airspace between a Lockheed C130H Hercules and an Alenia C27J Spartan conducting VFR training flights and on almost reciprocal tracks at the same indicated altitude after neither crew had detected the proximity risk. Substantial damage was caused but both aircraft were successfully recovered and there were no injuries. The Investigation attributed the collision to a lack of visual scan by both crews, over reliance on TCAS and complacency despite the inherent risk associated with night, low-level, VFR operations using the Night Vision Goggles worn by both crews.
+
+F16 / C150, vicinity Berkeley County SC USA, 2015On 7 July 2015, a mid-air collision occurred between an F16 and a Cessna 150 in VMC at 1,600 feet QNH in Class E airspace north of Charleston SC after neither pilot detected the conflict until it was too late to take avoiding action. Both aircraft subsequently crashed and the F16 pilot ejected. The parallel civil and military investigations conducted noted the limitations of see-and-avoid and attributed the accident to the failure of the radar controller working the F16 to provide appropriate timely resolution of the impending conflict.
+
+H25B / B738, en-route, south eastern Senegal, 2015On 5 September 2015, a Boeing 737-800 cruising as cleared at FL350 on an ATS route in daylight collided with an opposite direction HS 125-700 which had been assigned and acknowledged altitude of FL340. The 737 continued to destination with winglet damage apparently causing no control impediment but radio contact with the HS 125 was lost and it was subsequently radar-tracked maintaining FL350 and continuing westwards past its destination Dakar for almost an hour before making an uncontrolled descent into the sea. The Investigation found that the HS125 had a recent history of un-rectified altimetry problems which prevented TCAS activation.
+
+H25B / AS29, en-route / manoeuvring, near Smith NV USA, 2006On 28 August 2006, a Hawker 800 collided with a glider at 16,000 feet in Class 'E' airspace. The glider became uncontrollable and its pilot evacuated by parachute. The Hawker was structurally damaged and one engine stopped but it was recovered to a nearby airport. The Investigation noted that the collision had occurred in an area well known for glider activity in which transport aircraft frequently avoided glider collisions using ATC traffic information or by following TCAS RAs. The glider was being flown by a visitor to the area with its transponder intentionally switched off to conserve battery power.
+
+
+...further results
+
+
+Related Articles
+In the "Loss of Separation" Category:
+
+AIRPROX
+Loss of Separation
+See and Avoid
+Airborne Collision Avoidance System (ACAS)
+
+Elsewhere within SKYbrary:
+
+Level Bust
+Runway Incursion
+Controlled Flight Into Terrain (CFIT)
+Short Term Conflict Alert (STCA)
+Strategic Lateral Offset
+
+Further Reading
+General
+
+UK CAA SafetySense Leaflet No. 13: Collision Avoidance
+UK Airprox Board: “Analysis of Airprox in UK Airspace”
+BEA: “Mid-Air Collisions 1989-1999”
+“Characteristics of US Mid-Airs” by Robert C. Matthews
+
+EUROCONTROL
+
+ACAS Bulletins
+
+FAA
+
+AC 90-48D - Pilots' Role in Collision Avoidance, April 2016.
+
+HindSight Articles
+
+HindSight No.6, titled "Collision Avoidance" published in Jan 2006.
+
+
+
+
+
+Categories
+
+
+Loss of Separation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

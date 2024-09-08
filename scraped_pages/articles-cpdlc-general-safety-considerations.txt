@@ -1,0 +1,215 @@
+CPDLC General Safety Considerations
+
+
+
+
+
+
+
+
+
+
+
+  CPDLC General Safety Considerations
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+This article describes the safety issues related to and use of Controller Pilot Data Link Communications (CPDLC). While CPDLC is expected to contribute to an improved safety of flight operations there are some issues that could lead to safety occurrences unless properly addressed. The main objective of the article is to identify some best practices for CPDLC users (both pilots and controllers) and provide ideas for mitigation actions to be taken if safety is threatened.
+Planner/Executive Task Distribution
+Background: CPDLC allows the planner help the executive by performing certain tasks.
+Safety issue(s): In case of miscommunication between the two controllers (e.g. due to high workload), a situation can occur where the executive controller is not fully aware of the situation and makes decisions based on wrong assumptions.
+Typical scenarios
+
+The planner sends a clearance message to an aircraft to help the executive solve a conflict in a busy traffic situation. The executive however has spotted the conflict and has come up with a different plan. The two plans mismatch and a corrective action becomes necessary.
+A variation of the above scenario: the planner responds to a pilot’s request.
+The planner initiates a procedure for frequency change prematurely. The executive cannot to issue a last-moment clearance and, depending on the circumstances, a loss of separation at sector boundaries might occur.
+
+Defences
+
+Organisational: Precise definition of task distribution in the ATC Manual of Operations.
+As a controller: The planner should coordinate with the executive controller prior to sending a message or, if that is not practical, inform them immediately after it is sent.
+
+Less Communication on the Radio Frequency
+Background: Use of CPDLC frees up the frequency and generally helps reduce miscommunication (e.g. due to similar callsigns).
+Safety issue(s): The use of CPDLC reduces pilots’ situational awareness as they cannot follow the data link communication between the controller and other aircraft.
+Defences: Depending on circumstances, voice can be preferred over CPDLC for situations where multiple aircraft are involved in a potential conflict.
+Long and Complex Messages
+Background: CPDLC allows controllers and pilots to send long and complex messages. The good thing is that the other party no longer needs to memorize the request/clearance and confusion is less likely (e.g. “Turn left heading 340, climb FL320” is very difficult to be interpreted as “Turn left heading 320, climb FL340”).
+Safety issue(s): If a clearance (request) can only be partially complied with (fulfilled), the reply will be “unable” and it will address the entire message. This will result in a higher workload. Also, long and complex messages are more likely to cause ambiguity.
+Defences: The use of complex messages (even if allowed by the system) should be avoided in general.
+Not Clear Definition of “Time-Critical”
+Background: CPDLC is only to be used in non-time-critical situations.
+Safety issue(s): There is no strict definition of “time-critical”. Different people may interpret this matter differently. Also, depending on the circumstances, a situation may unexpectedly become time critical.
+
+Example: ZGV123 is maintaining FL350 but is supposed to descend to FL250. As there is a crossing conflict with BTD987 the controller issues a descend instruction via CPDLC “ZGV123 DESCEND FL250, DESCEND AT 2000ft/min MINIMUM”. This instruction would be generally safe if voice communication was used, but with CPDLC there is much uncertainty about the manoeuvre commencing. If ZGV123 starts the descent right after receiving the uplink message, the conflict will be resolved safely. If however the manoeuvre starts two minutes later the assigned vertical rate may not be sufficient to ensure separation with BTD987 and this is the moment when the situation becomes time-critical.
+Defences: Controller’s instructions usually contain some time reserve to account for the pilot’s response and the transitional period of the instruction execution (e.g. the increase of the vertical speed from 0 to the assigned one). The reserve has to be extended, if practicable, with the response lag of CPDLC, or, if this seems infeasible, voice should be considered.
+In the above example: The instruction for descent is issued about 4 minutes before the separation falls to 8NM. There is one minute reserve (the pilot is supposed to achieve the desired rate of descent within this period) and the time necessary to reach FL290 is three minutes. The pilot is usually supposed to respond to a CPDLC instruction within two minutes. The descent rate that ensures the separation with BTD987 is 6000ft/min which is obviously unfeasible. The instruction would be safe, however, if uplinked 6 minutes before the moment when the separation is 8NM.
+Wrong Messages
+Background: With CPDLC it is much easier (compared to using voice) to transmit a message to an aircraft.
+Safety issue(s): With CPDLC it is possible to transmit a wrong message to an aircraft or to transmit a message to the wrong aircraft.
+Defences: In case a wrong uplink message has been used, controllers should quickly resolve the situation, preferably using voice (e.g. (call sign) DISREGARD CPDLC MESSAGE, (new instruction)). An attempt to use CPDLC to correct the previous message can easily lead to ambiguity or another error.
+Two Controllers
+Background: With CPDLC it is possible that an aircraft is using voice to communicate with one ATS unit (or sector) while being CPDLC connected to another.
+Safety issue(s): Two controllers form different sectors being able to issue (contradicting) clearances to the same aircraft may lead to misunderstanding, increased workload for all parties concerned and sometimes to loss of separation.
+Defences: ATS procedures may restrict the use of CPDLC by ATCOs (e.g. even if technically possible, CPDLC should not be used before initial contact by voice is made or after the transferring process has commenced).
+Wrong Interpretation of Messages
+Background: Sometimes a pilot may misinterpret a message and act in an unexpected way.
+Typical scenarios
+
+The standard message "WHEN CAN YOU ACCEPT FL [XXX]" is an instruction to the pilot to report whether the aircraft is able to climb to the level specified. It can, however, be interpreted as a clearance to climb.
+The standard message "CLEARED TO [POINT] VIA [ROUTE]" requires that the aircraft flies via the specified ROUTE in order to reach a POINT. Normally the controller would issue such a clearance in order to bypass an SUA or to avoid the flight entering into another (unplanned) sector. It can, however, be interpreted as a clearance to fly directly to the POINT from the aircraft present position.
+
+It should be noted that similar issues may arise in voice communication as well.
+Safety issue(s): Misinterpreting a message can lead to various undesired outcomes, such as level bust (scenario 1 above), airspace infringement (scenario 2 above) or loss of separation (both scenarios).
+Defences:
+
+Pilots should carefully read the uplink messages and if in any doubt, ask for clarification or confirmation using voice.
+Controlllers should closely monitor aircraft behaviour and may sometimes use timing as a means to mitigate undesired outcomes. For example, the "WHEN CAN YOU ACCEPT FL [XXX]" message could be sent at a time when even if misunderstood, acting upon it will not cause loss of separation.
+Operators and ANSPs may include the issue in their refresher training courses to increase awareness.
+
+Accidents and Incidents
+The following events feature CPDLC as a contributory factor:
+
+
+B789 / B788, en-route, northwest of Mumbai India, 2022On 14 September 2022, a Boeing 787-9 inbound to Mumbai lost separation against a Boeing 787-8 also inbound to Mumbai on the same airway when it began a descent from FL410 to FL340 at night without clearance close to an air traffic control sector boundary. ATC soon observed the error but a delay in achieving contact with the 787-9 resulted in it descending to FL389 before being instructed to return to its cleared level. As it passed through FL390 descending and then again when climbing, it came within 3nm of the same-direction 787-8 which was level as cleared at FL390.
+
+
+
+
+Further Reading
+
+ATC Data Link Operational Guidance for LINK 2000+ Services
+
+
+
+
+
+Categories
+
+
+General,
+              Air Ground Communication
+
+
+
+
+
+
+
+
+
+Related SKYclip
+
+
+
+
+
+
+
+
+
+ Read more
+
+
+
+
+CPDLC (SKYclip)
+
+
+
+
+
+
+
+
+
+Related Articles
+
+Controller Workload
+Controller Pilot Data Link Communications (CPDLC)
+CPDLC Design and Implementation Safety Considerations
+CPDLC Incorrect Call Sign on Log-on
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,192 @@
+Automatic Dependent Surveillance - Contract (ADS-C)
+
+
+
+
+
+
+
+
+
+
+
+  Automatic Dependent Surveillance - Contract (ADS-C)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Air Ground Communication 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Automatic dependent surveillance — contract (ADS-C): means by which the terms of an ADS-C agreement will be exchanged between the ground system and the aircraft, via a data link, specifying under what conditions ADS-C reports would be initiated, and what data would be contained in the reports. (ICAO)
+Description
+Although the names are similar, ADS-C and ADS-B are two different applications.
+Automatic dependent surveillance - broadcast (ADS-B), like Primary Surveillance Radar (PSR) and Secondary Surveillance Radar (SSR) is an ATS surveillance system which allows ATC to automatically and repeatedly access data from all suitably equipped aircraft and both use and re-broadcast it to suitably equipped other aircraft within range.
+Automatic dependent surveillance - contract (ADS-C) uses the same systems on board the aircraft to automatically transmit similar information - aircraft position, altitude, speed, elements of navigational intent and meteorological data - only to one or more specific Air Traffic Services Unit (ATSU) or AOC [1] facilities for surveillance and/or route conformance monitoring.
+Data provision by an aircraft is generated in response to a request within the terms of the ADS contract held by the ground system. This contract identifies the types of information and the conditions under which reports are to be sent by the aircraft. Some types of information are included in every report, while other types are provided only if specified in an ADS contract request. The aircraft can also send unsolicited ADS-C emergency reports to any ATSU that has an ADS contract with the aircraft.
+An ATSU system may request multiple simultaneous ADS contracts with a single aircraft, including one periodic and one event contract, which may be supplemented by any number of demand contracts. Up to five separate ground systems may request ADS contracts with a single aircraft.
+ADS Contract Types
+After receiving a logon request, the ATSU will need to establish ADS contract(s) with the aircraft before it can receive any ADS-C reports. There are three types of ADS contracts:
+a) Periodic contract;
+b) Demand contract; and
+c) Event contract.
+The ground system can establish ADS contracts without flight crew action provided that ADS-C in the aircraft system is not selected off. The flight crew has the ability to cancel all contracts by selecting ADS-C off and some aircraft systems allow the flight crew to cancel an ADS contract with a specific ATSU.
+Periodic Contract
+A periodic contract allows an ATSU to specify:
+a) The time interval at which the aircraft system sends an ADS-C report; and
+b) The optional ADS-C groups that are to be included in the periodic report. Each optional group may have a unique modulus which defines how often the optional group is included with the periodic report (e.g. a modulus of five indicates that the optional group would be included with every fifth periodic report sent).
+Demand Contract
+A demand contract allows an ATSU to request a single ADS-C periodic report. A demand contract does not cancel or modify any other ADS contracts that may be in effect with the aircraft.
+The ADS-C application also supports emergency alerting. An ADS-C emergency report is a periodic report that is tagged as an “emergency” report, allowing the emergency situation to be highlighted to ATC.
+An ADS-C emergency can be triggered by the flight crew in a number of ways:
+a) Manually, by selecting the ADS-C emergency function;
+b) Indirectly, by triggering another type of emergency alerting system (e.g. transmission of a CPDLC position report or selection of an SSR emergency code); and
+c) Covertly (The availability of that functionality may vary between aircraft types).
+Once an ADS-C emergency has been triggered, under normal circumstances the avionics will continue to transmit ADS-C emergency periodic reports until the flight crew de-selects the ADS-C emergency function.
+Event Contract
+An event contract allows an ATSU to request an ADS-C report whenever a specific event occurs. An ATSU can establish only one event contract with an aircraft at any one time. However, the event contract can contain multiple event types. These types of optional events include:
+a) Waypoint change event (WCE);
+b) Level range deviation event (LRDE);
+c) Lateral deviation event (LDE); and
+d) Vertical rate change event (VRE).
+An event contract remains in effect until the ATSU cancels it or until the event(s) used to trigger the report occurs. The waypoint change event contract will trigger a report for all waypoint changes. All other event contracts will trigger a report on the first occurrence and then, if necessary, the ATSU will need to request a new event contract indicating all desired event types.
+ADS-C Reports
+The aircraft system sends specific aircraft data in different groups of an ADS-C report. Each group contains different types of data. An ADS-C event report contains only some of the groups, which are fixed. The ADS-C periodic report can contain any of the ADS-C groups, which the ATSU specifies in the contract request. The ADS-C report groups consist ot:
+
+Basic group
+Flight identification group
+Earth reference group
+Air reference group
+Airframe identification group
+Meteorological group
+Predicted route group
+Fixed projected intent group
+Intermediate projected intent group
+
+The ATSU may use an ADS-C report for a variety of purposes. These include:
+
+Establishing and monitoring of traditional time-based separation minima;
+Establishing and monitoring of distance-based separation standards;
+Flagging waypoints as ‘overflown’;
+Updating estimates for downstream waypoints;
+Route and level conformance monitoring;
+Updating the display of the ADS-C position symbol, and the associated extrapolation;
+Generating (and clearing) alerts;
+Generating (and clearing) ADS-C emergencies;
+Updating meteorological information; and
+Updating other information in the flight plan held by the ATSU.
+
+For more detailed information on ADS-C principles of operation, capabilities and merits see the ICAO Global Operational Data Link Document (in Further Reading), Section 2.2.6.
+Further Reading
+
+FAA Advisory Circular 90-117, October 2017
+ICAO Global Operational Data Link (GOLD) Manual, unedited advance edition, 2016
+ADS-B and ADS-C Communication in the Light of Digitalisation presentation by O.T.Pleter and C.Constantinescu, September 2018
+
+References
+
+^ Aeronautical operational control (AOC) with whom a contract is held for the purposes of the initiation, continuation, diversion or termination of flight for safety, regularity or efficiency reasons. (ICAO)
+
+
+
+
+
+Categories
+
+
+Air Ground Communication
+
+
+
+
+
+
+
+
+
+Related Articles
+
+Automatic Dependent Surveillance - Broadcast (ADS-B)
+SATCOM
+Aircraft Communications, Addressing and Reporting System
+Controller Pilot Data Link Communications (CPDLC)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

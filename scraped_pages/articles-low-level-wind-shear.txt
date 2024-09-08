@@ -1,0 +1,351 @@
+Low Level Wind Shear
+
+
+
+
+
+
+
+
+
+
+
+  Low Level Wind Shear
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Weather 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Wind shear is defined as a sudden change of wind velocity and/or direction.
+Windshear may be vertical or horizontal, or a mixture of both types. ICAO defines the vertical and horizontal components of wind shear as follows:
+
+Vertical wind shear is defined as change of horizontal wind direction and/or speed with height, as would be determined by means of two or more anemometers mounted at different heights on a single mast.
+Horizontal wind shear is defined as change of horizontal wind direction and/or speed with horizontal distance, as would be determined by two or more anemometers mounted at the same height along a runway.
+
+Description
+Low Level Turbulence, which may be associated with a frontal surface, with thunderstorms or convective clouds, with microbursts, or with the surrounding terrain, is particularly hazardous to aircraft departing or arriving at an aerodrome. Wind shear is usually associated with one of the following weather phenomena:
+
+Frontal surfaces;
+Jet streams;
+Thunderstorms or convective clouds especially cumulonimbus or towering cumulus;
+Mountain Waves;
+Microbursts.
+
+Effects
+The main effects of wind shear are:
+
+Turbulence
+Violent air movement (up- or down-draughts or swirling or rotating air patterns)
+Sudden increase or reduction of airspeed
+Sudden increase or decrease of groundspeed and/or drift.
+
+Clear Air Turbulence (CAT) (CAT), which may be very severe, is often associated with jet streams.
+Rotor action or down-draughts in the lee of mountain waves can create difficult flying conditions and may even lead to loss of control.
+Defences
+Effective defence against wind shear comprises the following components:
+
+Forecasting, recognition and avoidance of wind shear (see below), aided by LLWAS (see below) and airborne avionics equipment; and,
+Correct response to wind shear encountered during the takeoff, initial climb, approach and landing phases of flight.
+
+Typical Scenarios
+
+An aircraft on initial climb encounters a microburst with strong down-drafts, which prevent the aircraft from climbing away, even though the pilot immediately recognises the wind shear and takes correct action.
+An aircraft on approach in tail-wind conditions encounters horizontal wind shear resulting in a change of wind component to a head-wind (increasing performance shear); the IAS increases and the aircraft climbs above the glideslope. The pilot attempts to salvage the landing and the aircraft touches down late and fast and overshoots the runway.
+
+Solutions
+
+Improved forecasting of wind shear;
+Improved training in wind shear recognition, avoidance and recovery;
+More widespread use of ground and airborne wind shear warning systems.
+
+Low Level Wind Shear Alert System
+A Low Level Wind Shear Alert System (LLWAS) is a ground-based system for detecting the existence of wind shear close to an aerodrome.
+The system comprises from 6 to 33 anemometers located at various points on the aerodrome surface. Data from the anemometers are fed into a computer which compares the wind speed and direction measured at the different points and provides a warning in the air traffic control tower if a hazardous wind shear is detected. Warnings issued by ATC can be general or runway specific, depending on the technology in use, and are broadcast immediately to pilots who may be affected.
+LLWAS was first installed in the USA in the 1970's and is in widespread use in that country. Wind shear and microburst warnings from LLWAS can be enhanced by integrating with Terminal Doppler Weather Radar (TDWR) (TDWR); and in some locations TDWR is the sole means used for detecting low level wind shear.
+Wind Shear Recognition and Avoidance
+Flight Safety Foundation (FSF) Approach-and-landing Accident Reduction (ALAR) Briefing Note 5.4 — Wind Shear points out that "Flight crew awareness and alertness are key factors in the successful application of wind shear avoidance techniques and recovery techniques."
+Whenever wind shear conditions are forecast, or reported by other aircraft, pilots should include discussion of wind shear recognition and response in the takeoff or approach brief.
+Whether or not wind shear conditions are expected, the pilot must be able to recognise quickly when wind shear is affecting the aircraft. He/she may be aided in this by airport based warning systems (e.g. LLWAS and TDWR) or by onboard equipment, such as Ground Proximity Warning System or Airborne Wind Shear Warning Systems.
+ALAR Briefing Note 5.4 lists the following indications of a suspected wind shear condition:
+
+Indicated airspeed variations in excess of 15 kts
+Groundspeed variations (decreasing head wind or increasing tail wind, or a shift from head wind to tail wind)
+Vertical-speed excursions of 500 fpm or more
+Pitch attitude excursions of five degrees or more
+Glideslope deviation of one dot or more
+Heading variations of 10 degrees or more and,
+Unusual autothrottle activity or throttle lever position.
+
+Wind Shear on Takeoff and Initial Climb
+Horizontal and/or vertical Wind Shear on take off result in sudden loss of airspeed and/or reduction in climb rate, with potentially disastrous consequences. It is vital that such conditions should be quickly recognised if they are encountered, and that pilot response should be immediate and correct.
+Before Departure
+Flight Safety Foundation (FSF) Approach-and-landing Accident Reduction (ALAR) Briefing Note 5.4 recommends that whenever wind shear conditions are forecast or reported for take off, pilots "should include in their departure briefing the following wind shear awareness items:
+
+Assessment of the conditions for a safe takeoff based on:
+
+Most recent weather reports and forecasts;
+Visual observations; and,
+Crew experience with the airport environment and the prevailing weather conditions; and,
+
+
+Consideration to delaying the takeoff until conditions improve."
+
+"If wind shear conditions are expected," the Briefing Note continues, "the crew should:
+
+Select the most favorable runway, considering the location of the likely wind shear/downburst condition;
+Select the minimum flaps configuration compatible with takeoff requirements, to maximize climb-gradient capability;
+Use the weather radar (or the predictive wind shear system, if available) before beginning the takeoff to ensure that the flight path is clear of hazards;
+Select maximum takeoff thrust;
+After selecting the takeoff/go-around (TOGA) mode, select the flight-path-vector display for the monitoring pilot (PM/PNF), as available, to obtain a visual reference of the climb flight path angle; and,
+Closely monitor the airspeed and airspeed trend during the takeoff roll to detect any evidence of impending wind shear."
+
+Wind Shear Recovery
+The Briefing Note advises that "If wind shear is encountered during the takeoff roll or during initial climb, the following actions should be taken without delay:
+
+Before V1:
+
+The takeoff should be rejected if unacceptable airspeed variations occur (not exceeding the target V1) and if there is sufficient runway remaining to stop the airplane;
+
+
+After V1:
+
+Disconnect the autothrottles (A/THR), if available, and maintain or set the throttle levers to maximum takeoff thrust;
+Rotate normally at Vr; and,
+Follow the FD pitch command if the FD provides wind shear recovery guidance, or set the required pitch attitude (as recommended in the aircraft operating manual (AOM)/quick reference handbook (QRH));
+
+
+During initial climb:
+
+Disconnect the A/THR, if available, and maintain or set the throttle levers to maximum takeoff thrust;
+If the autopilot (AP) is engaged and if the FD provides wind shear recovery guidance, keep the AP engaged; or,
+
+Follow the FD pitch command, if the FD provides wind shear recovery guidance; or,
+Set the required pitch attitude (as recommended in the AOM/QRH);
+
+
+Level the wings to maximize the climb gradient, unless a turn is required for obstacle clearance;
+Closely monitor the airspeed, airspeed trend and flight-path angle (as available);
+Allow airspeed to decrease to stick shaker onset (intermittent stick shaker activation) while monitoring the airspeed trend;
+Do not change the flaps or landing-gear configurations until out of the wind shear condition; and,
+When out of the wind shear condition, increase airspeed when a positive climb is confirmed, retract the landing gear, flaps and slats, then establish a normal climb profile."
+
+
+
+Wind Shear on the Approach and Landing
+Horizontal and/or vertical wind shear during the approach can result in sudden loss of airspeed and apparent loss of power, with potentially disastrous consequences. A sudden change of wind component or drift prior to landing can make the approach unstable at a point where go-around is not possible or would be extremely hazardous. It is vital that such conditions should be quickly recognised if they are encountered, and that pilot response should be immediate and correct.
+Descent Briefing
+Flight Safety Foundation (FSF) Approach-and-landing Accident Reduction (ALAR) Briefing Note 5.4 recommends that whenever wind shear conditions are forecast or reported for approach and landing, the approach briefing should include the following:
+
+"Based on the automatic terminal information service (Automatic Terminal Information Service (ATIS)) broadcast, review and discuss the following items:
+
+Runway in use (type of approach)
+Expected arrival route (standard terminal arrival (STAR) or radar vectors)
+Prevailing weather and,
+Reports of potential low-level wind shear (LLWAS warnings, Terminal Doppler Weather Radar data) and,
+
+
+"Discuss the intended use of automation for vertical navigation and lateral navigation as a function of the suspected or forecasted wind shear conditions."
+
+The briefing note contains some valuable recommendations for preparation and flight procedures. The section concerning Recovery during Approach and Landing is reproduced below.
+Recovery During Approach and Landing
+"If wind shear is encountered during the approach or landing, the following recovery actions should be taken without delay:
+
+Select the takeoff/go-around (Take-off / Go-around (TO/GA) Mode) mode and set and maintain maximum go-around thrust
+Follow the Flight Director pitch command (if the FD provides wind shear recovery guidance) or set the pitch-attitude target recommended in the AOM/QRH
+If the AP is engaged and if the FD provides wind shear recovery guidance, keep the AP engaged; otherwise, disconnect the AP and set and maintain the recommended pitch attitude
+Do not change the flap configuration or landing-gear configuration until out of the wind shear
+Level the wings to maximize climb gradient, unless a turn is required for obstacle clearance
+Allow airspeed to decrease to stick-shaker onset (intermittent stick-shaker activation) while monitoring airspeed trend
+Closely monitor airspeed, airspeed trend and flight path angle (if flight-path vector is available and displayed for the PNF) and,
+When out of the wind shear, retract the landing gear, flaps and slats, then increase the airspeed when a positive climb is confirmed and establish a normal climb profile.
+
+Reporting Procedure
+If significant wind shear is encountered during the takeoff and initial climb, or on approach and landing, it should be reported to air traffic control immediately. If the effects on aircraft control are exceptional and/or beyond the effects typically encountered, then an appropriate air safety report should be raised after flight completion.
+Accident and Incident Reports
+Events on the SKYbrary which involve turbulence and wind shear, include:
+
+
+E170 / A320, vicinity Paris CDG France, 2020On 21 October 2020, an Embraer ERJ170 on short final at Paris CDG responded to a windshear warning by breaking off the approach and climbing. The warning soon stopped but the aircraft drifted sideways in the strong crosswind towards the adjacent parallel runway from which an Airbus A320 had just taken off. A Short-Term Conflict Alert on the controller's display was accompanied by a TCAS RA event triggered for both aircraft. The Investigation was concerned about the implications of failure to climb straight ahead from parallel runways during unexpected go-arounds. Safety Recommendations were made on risk management of parallel runway operations by both pilots and safety regulators.
+
+B737, Burbank CA USA, 2018On 6 December 2018, a Boeing 737-700 overran the 1,770 metre-long landing runway at destination by 45 metres after entering the EMAS. Normal visibility prevailed but heavy rain was falling and a 10 knot tailwind component existed. The event was attributed to the pilots’ continuation bias in the face of deteriorating conditions and a late touchdown on the relatively short runway. A lack of guidance from the operator on the need for pilots to re-assess the validity of landing data routinely obtained at the top of descent was identified.
+
+B738, East Midlands UK, 2020On 9 February 2020, a Boeing 737-800 rejected its takeoff from East Midlands from a speed above V1 after encountering windshear in limiting weather conditions and was brought to a stop with 600 metres of runway remaining. The Investigation found that the Captain had assigned the takeoff to his First Officer but had taken control after deciding that a rejected takeoff was appropriate even though unequivocal QRH guidance that high speed rejected takeoffs should not be made due to windshear existed. Boeing analysis found that successful outcomes during takeoff windshear events have historically been more likely when takeoff is continued.
+
+A321, Charlotte NC USA, 2015On 15 August 2015, an Airbus A321 on approach to Charlotte commenced a go around but following a temporary loss of control as it did so then struck approach and runway lighting and the undershoot area sustaining a tail strike before climbing away. The Investigation noted that the 2.1g impact caused substantial structural damage to the aircraft and attributed the loss of control to a small microburst and the crew’s failure to follow appropriate and recommended risk mitigations despite clear evidence of risk given by the aircraft when it went around and available visually.
+
+A343, Bogotá Colombia, 2017 (2)On 19 August 2017, an Airbus A340-300 encountered significant unforecast windshear on rotation for a maximum weight rated-thrust night takeoff from Bogotá and was unable to begin its climb for a further 800 metres during which angle of attack flight envelope protection was briefly activated. The Investigation noted the absence of a windshear detection system and any data on the prevalence of windshear at the airport as well as the failure of ATC to relay in English reports of conditions from departing aircraft received in Spanish. The aircraft operator subsequently elected to restrict maximum permitted takeoff weights from the airport.
+
+
+...further results
+
+
+Airports where Low Level Turbulence applies
+
+Ascension
+Bahrain International
+Bardufoss
+Bergen/Flesland
+Bermuda/L.F. Wade International Airport
+Bilbao Airport
+Bristol International Airport
+Chania
+Cristiano Ronaldo International Airport
+Deer Lake Regional Airport
+Delhi/Indira Gandhi International (IGI) Airport
+Denver International Airport
+Florø
+Genoa/Cristoforo Colombo Airport
+Gibraltar Airport
+Girona-Costa Brava Airport
+Gran Canaria
+Harstad/Narvik
+Hong Kong International Airport
+Iqaluit
+Kamloops Airport
+Kelowna International Airport
+Kerry Airport
+Memmingen Airport
+Montpellier
+Nice-Côte d'Azur Airport
+Palermo/Punta Raisi Airport
+Samedan Airport
+Santorini/Thira Airport
+Skopje
+Svolvær Airport
+Sørkjosen Airport
+Tarbes-Lourdes-Pyrénées Airport
+Telluride
+Tenerife Sur/Reina Sofia
+Thunder Bay International Airport
+Turin/Caselle Airport
+USAF Thule Airport
+Watson Lake Airport
+West 30th Street Heliport
+
+Related Articles
+
+Performance Shear
+Turbulence
+Clear Air Turbulence (CAT)
+Microburst
+Jet Stream
+Planetary Boundary Layer
+Mountain Waves
+Terminal Doppler Weather Radar (TDWR)
+Low Level Wind Shear Alert System (LLWAS)
+Airborne Wind Shear Warning Systems
+Windsock
+
+Further Reading
+ICAO
+
+ICAO Doc 9817 - Manual on Low-Level Wind Shear
+
+Flight Safety Foundation
+
+ALAR Briefing Note 5.4 — Wind Shear
+ALAR Briefing Note 5.3 — Visual Illusions
+
+The Flight Safety Foundation ALAR Toolkit provides useful training information and guides to best practice. Copies of the FSF ALAR Toolkit may be ordered from the Flight Safety Foundation ALAR website UK CAA
+
+UK AIC: P 056/2010, "The Effect of Thunderstorms and Associated Turbulence on Aircraft Operations", 12 Aug 2010.
+Safety Notice: Missed Approaches in Response to Onboard Windshear Alerts, 04 June 2013
+
+FAA
+
+Lessons Learned from Transport Airplane Accidents, FAA website, Windshear
+
+Others
+
+Characteristics of Microbursts in the Continental United States, Marilyn M. Wolfson
+
+
+
+
+
+Categories
+
+
+Weather,
+              Turbulence
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

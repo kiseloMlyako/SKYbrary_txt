@@ -1,0 +1,195 @@
+Aircraft Batteries
+
+
+
+
+
+
+
+
+
+
+
+  Aircraft Batteries
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Flight Technical 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+A battery is a device containing one or more cells that convert chemical energy directly into electrical energy.
+Description
+With the exception of the most rudimentary of aircraft types, virtually all aeroplanes incorporate an electrical system. In the vast majority of cases, the primary electrical system incorporates one or more batteries. Batteries are used during preflight to power up the electrical system and to start the Auxiliary Power Unit and/or the engines. Once started, the APU or engine(s) drive generators which then power the electrical circuits and recharge the batteries. In the event of the failure or required isolation of all generators as part of a Quick Reference Handbook (QRH) procedure where they are the source of all normal electrical power when operating, battery power is available as a substitute source for essential use. Some electrically powered fixed equipment such as the Emergency Locator Transmitter (ELT), the CVR, the FDR, will have their own dedicated batteries. Portable equipment routinely carried on board aircraft such as Torches, Megaphones and Automatic External Defibrillators (AEDs) are also battery powered. In both cases, since batteries are an energy source, their failure due to damage, defect, malfunction or misuse represents a potential risk of hazardous fumes, smoke or fire.
+Terms
+There are numerous terms used to describe batteries, their component parts and specific battery related conditions, problems or issues. These include:
+
+Anode. An anode is the positive electrode of a voltaic cell. It is the electrode at which an oxydation reaction takes place resulting in the loss of electrons.
+Cathode. A cathode is the negative electrode of a voltaic cell. It is the electrode at which a reduction reaction takes place resulting in the gain of electrons.
+Dry Cell. A dry cell battery is a "non-spillable" type battery in which the electrolyte is immobilized in a gel or a paste.
+Electrolyte. A chemical compound which, when fused or dissolved in certain solvents, usually water, will conduct an electric current. All electrolytes in the fused state or in solution give rise to ions which conduct the electric current.
+Energy Density. Energy density is the amount of energy that can be stored per unit volume.
+Memory Effect. Memory Effect is a phenomenon in which a cell, if discharged in successive cycles to a point that is less than its full depth of discharge, will temporarily lose the remainder of its capacity.
+Parallel Connection. The arrangement of cells in a battery made by connecting all positive terminals together and all negative terminals together. The total voltage of the group of cells is the same as that of one cell and the current drain is divided equally among the cells within the group.
+Primary Battery. A primary battery is one that produces current as soon as its components are assembled. It is considered a "disposable" battery as it is not rechargeable and therefore has a limited useful life.
+Secondary Battery. A secondary battery is rechargeable. In most cases, it must be charged before first use as it is normally assembled with the active components in a discharged state. A secondary battery is both initially charged and recharged by applying an electric current which reverses the chemical reactions that take place during normal battery useage. The required electrical current is applied in a controlled fashion by using a battery charger.
+Series Connection. The arrangement of cells in a battery made by connecting the positive terminal of each successive cell to the negative terminal of the next adjacent cell so that their voltages are cumulative.
+Thermal Runaway. Thermal runaway is a situation that occurs when an increase in temperature changes the conditions of a reaction in a way that causes a further increase in temperature. In other words, if a process is accelerated by an increase in temperature and that acceleration results in the release of additional energy which further increases the temperature, a state of thermal runaway is said to exist. This state can lead to an explosion, fire or other destructive result.
+Voltaic Cell. A voltaic (or galvanic) cell is an electrochemical cell that derives electrical energy from a spontaneous redox reaction taking place within the cell.
+Wet Cell. A wet cell battery is one containing an electrolyte in liquid form. These are sometimes referred to as "spillable" batteries.
+
+Battery Theory
+A battery consists of one or more voltaic cells connected in series. Each cell contains two electrodes, each of which is made of a different material, and a conductive electrolyte. The positive electrode is referred to as the "anode" and the negative electrode is called the "cathode". Whilst most batteries utilize a single electrolyte, some have different electrolytic requirements for the anode than they do for the cathode. In these cases, two different electrolytes are used and the cells contain a separator that prevents mixing of the electrolytes but allows electron transfer.
+When the electrodes are "connected' by the electrolyte, a specific chemical reaction known as a "redox" (reduction-oxidation) reaction takes place. This reaction causes reduction (electron addition) to take place at the cathode and oxidation (electron removal) to take place at the anode. It is this migration of electrons which produces the electromotive force (EMF) within the cell. The EMF as measured across the two electrodes whilst the cell is neither charging nor discharging is the open circuit voltage that the cell is capable of producing. The voltage varies depending upon the materials used to make the cell. As an example, a nickel-cadmium cell has an emf of about 1.2 volts, a zinc-carbon cell has an emf of approximately 1.5 volts and a lithium cell can produce an emf of between 3 and 4.2 volts.
+Cells are connected in series to achieve the desired voltage. Ten nickel-cadmium cells would be required to build a battery that yields 12 volts whereas it could take as few as three lithium cells to produce a battery of the same voltage. Within a battery, a number of these cell groups can also be connected in parallel to increase electrical capacity.
+In a primary or non-rechargeable battery, once the redox reaction is complete, all of the available electrons have migrated from the anode to the cathode. The battery will no longer produce any current and must be replaced.
+In a secondary or rechargeable battery, the redox reaction can be reversed by connecting an external power source to the battery. This process allows the battery to be recharged by driving the electrons back to the anode. This, in turn, allows the redox reaction to be repeated once the charger has been removed. Note that a secondary battery cannot be recharged indefinitely and therefore the battery must eventually be replaced
+Aviation Requirements
+Batteries used for aviation applications may be of either the primary (single use) type or the secondary (rechargeable) type. Any battery intended for use as a power source for equipment installed or routinely carried on aircraft must not only be safe but ideally have a high energy density, be lightweight, reliable, require minimal maintenance, and be able to operate efficiently over a wide environmental envelope. Battery manufacturers continue to develop new technologies in an attempt to achieve these ideals but in many cases compromises in these non-safety objectives are necessary and in some cases, safety implications of new designs have been overlooked, particularly in respect of the rapidly increasing use of Lithium batteries.
+Battery Types
+Numerous types of batteries have been developed and variants of some of them are used in aviation applications. These include:
+
+Lead Acid. A lead acid battery cell contains an anode made from lead oxide and a cathode of elemental lead immersed in an electrolyte solution of sulfuric acid. In some lead acid batteries, the electrolyte is suspended in a silica gel or impregnated into a fiberglass mat to make the battery non-spillable. While lead acid batteries have good energy storage and power provision properties, they are quite heavy and their energy density is relatively low. If overcharged, lead acid batteries can sometimes vent hydrogen gas which can result in an explosion or lead to a fire. Lead acid batteries are often used as the main battery(s) in an aircraft.
+Nickel Cadmium (NiCd). Nickel-cadmium cells have an anode made of cadmium hydroxide and a cathode of nickel hydroxide that are immersed in an electrolyte made up of potassium, sodium and lithium hydroxides. Nickel-cadmium batteries require relatively low maintenance, are reliable and have a wide operating temperature range. NiCd batteries are subject to memory effect and may experience thermal runaway if overcharged. Many countries impose strict disposal regulations on NiCd batteries because of the heavy metals used in their manufacture. NiCd batteries are suitable for many aircraft applications inclusive of main aircraft batteries.
+Nickel-Metal Hydride (Ni-MH). Nickel-metal hydride cells have an anode made of a metal alloy capable of absorbing and releasing hydrogen. The cathode is made from nickel hydroxide and both are immersed in an electrolyte solution of potassium, sodium and lithium hydroxides. Small capacity cells of this type of battery are sealed and are maintenance free. Their principal shortcoming is that they require precise charge level monitoring to control gaseous exchanges and to minimize heating while under charge. Ni-MH batteries have a high energy density and are ideal for high-capacity requirements. In aircraft, Ni-MH batteries are often used to power systems such as the emergency door and floor escape path lighting as well as portable entertainment devices and electronic flight bags.
+Lithium-ion/Lithium-polymer. Lithium-ion (Li-ion) and Lithium Polymer (Li-poly) batteries, also described as 'lithium secondary batteries' are rechargeable. Their cells have an anode of graphite and a cathode consisting of a combination material which is able to accept and release lithium ions repeatedly (for recharging) and quickly (for high current) such as lithium manganese oxide (Li-Mn2O4). A non-aqueous electrolyte, mainly comprised of a mixture of organic carbonates, is used. Charging or discharging a Li-Ion battery involves an exchange of lithium ions between the electrodes. Typical cell output voltage is between 3 and 4.2 volts depending primarily on the materials used to construct the cathode.
+Lithium Metal. Lithium Metal batteries, also described as 'lithium primary batteries' are non-rechargeable. Their electrochemistry is most commonly based on Lithium-Manganese Dioxide (Li-MnO2) cells which have a graphite anode and a Lithium dioxide cathode.
+
+Threats
+There are a number of potential threats that can be associated with aircraft batteries, their distribution networks and their charging and monitoring systems. These threats include:
+
+Battery Leakage. Overfilling a wet cell battery can cause leakage. Likewise, damage to the battery case caused by mishandling, overcharging or freezing can result in leakage.
+Battery Internal Failure or Short Circuit. Manufacturing defects or inappropriate handling can result in internal failures.
+Battery Overcharging. Batteries can be overcharged due to faulty charging equipment or inappropriate maintenance practices.
+Excessive Battery Charging Rate. Some battery types are vulnerable to high rates of charge.
+Excessive Battery Discharge Rate. Some battery types are vulnerable to high rates of discharge.
+Battery Bus Fault or Fire. A Battery Bus Bar is "hot" - it cannot be electrically isolated from the source battery without physically removing the battery.
+
+Effects
+The effects which could result from the threats, as listed above, range from minor to potentially catastrophic depending upon the circumstances of the occurrence and the type of battery involved. As examples:
+
+leakage from a spillable lead acid battery could result in corrosion, component damage or injury.
+overcharging of a lead acid battery could result in an explosion. Overcharging, excessive charge rate or excessive discharge rate in a lithium-ion battery could result in a thermal runaway leading to battery explosion or fire. This, in turn, could lead to injury or death and collateral damage up to the potential loss of the aircraft.
+while technically not a battery fault, a problem on an associated "hot" battery bus bar could result in fumes, smoke or fire.
+
+Defences
+Mitigation of most of the threats associated with aircraft batteries can be achieved through robust design, testing, maintenance and operational practices and procedures. These include:
+
+Aircraft Design. Procedures for the Certification of aircraft and their equipment should involve validation of their safety when malfunctioning such as battery containment commensurate with internal pressure and/or venting of hazardous fumes and substances which may occur.
+New Technologies. Certification must pay particular attention to new technologies, especially where their development or transfer to aircraft and their equipment is rapid.
+Maintenance Practices. Should follow the regulatory requirements and manufacturers' guidance in respect of inspection, recharging, removal and replacement criteria.
+Flight Crew Procedures. Should take full account of manufacturers' direction on normal, abnormal and emergency system usage and monitoring.
+AOM/Quick Reference Handbook (QRH) Guidance. Should provide clear, unambiguous information on system limitations and on the actions to be followed in the event of an exceedance or malfunction.
+
+Related Articles
+
+Aircraft Electrical Systems
+Electrical Problems: Guidance for Controllers
+Lithium-Ion Aircraft Batteries as a Smoke/Fire Risk
+Accident and Serious Incident Reports: FIRE
+Fire in the Air
+Aircraft Fire Risk from Battery-powered Items Carried on Aircraft
+
+Further Reading
+ 
+
+Risks Related to Lithium Batteries, Presentation given by Christine Bezard, A350XWB Flight Safety Leader, to 18th Airbus Flight Safety Conference, Berlin, 19-22 March 2012.
+Investigative Update of Battery Fire Japan Airlines B-787, Presentation given by Deborah A.P. Hersman, NTSB, 24 January 2013.
+
+
+Boeing article: Flight Crew Response to In-Flight Smoke, Fire, or Fumes
+US PHSMA/FAA Lithium Batteries Safety Advisory Advisory Guidance; Transportation of Batteries and Battery-Powered Devices
+Lithium batteries: safe to fly?, C. Bezard et al., Airbus Safety First No. 21, pp. 22-41, January 2016
+
+FAA Research Reports
+
+Flammability Assessment of Primary Lithium Batteries
+Fire Hazards of Lithium Ion Batteries
+
+
+
+
+
+Categories
+
+
+Flight Technical
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

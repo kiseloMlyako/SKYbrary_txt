@@ -1,0 +1,145 @@
+Minimum Descent Altitude/Height (MDA/MDH)
+
+
+
+
+
+
+
+
+
+
+
+  Minimum Descent Altitude/Height (MDA/MDH)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+The Minimum Descent Altitude (MDA) or Minimum Descent Height (MDH) is a specified altitude or height in a Non-Precision Approach or Circling Approach below which descent must not be made without the required visual reference. (ICAO Anex 6)
+Note 1. MDA is referenced to mean sea level and MDH is referenced to the aerodrome elevation or to the threshold elevation if that is more than 2 m (7 ft) below the aerodrome elevation. An MDH for a circling approach is referenced to the aerodrome elevation.
+Note 2. The required visual reference means that section of the visual aids or of the approach area which should have been in view for sufficient time for the pilot to have made an assessment of the aircraft position and rate of change of position, in relation to the desired flight path. In the case of a circling approach the required visual reference is the runway environment.
+Note 3. For convenience when both expressions are used they may be written in the form “minimum descent altitude/height” and abbreviated “MDA/H”.
+
+An MDA/H differs from a Decision Altitude/Height in that the aircraft must be flown in such a way that it does not descend below the MDA/H unless the required visual reference has been established. Typically, an aircraft will continue at the MDA/H until a pre-calculated missed approach point is reached; if the required visual reference is not established by that point a Missed Approach will be flown.
+The MDA/H may not be lower than the system minimum for the type of approach (see table below)
+
+System minima
+
+
+Facility
+Lowest MDH
+
+
+
+
+ILS (no glide path - LLZ)
+250 ft
+
+
+VOR
+300 ft
+
+
+VOR/DME
+250 ft
+
+
+NDB
+300 ft
+
+
+
+The operator must specify an addition to the MDA/H, which depends on the performance of the aircraft, to ensure that if a missed approach is commenced at this altitude the aircraft will not descend below the MDA/H.
+For more information regarding the calculation of MDA/H see Aerodrome Operating Minima (AOM).
+Further Reading
+ICAO Annex 6 (Operation of Aircraft)
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

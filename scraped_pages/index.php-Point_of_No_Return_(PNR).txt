@@ -1,0 +1,137 @@
+Point of No Return (PNR)
+
+
+
+
+
+
+
+
+
+
+
+  Point of No Return (PNR)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+The point during a flight at which an aircraft is no longer capable of returning to the airfield from which it took off due to fuel considerations. Beyond this point the aircraft must proceed to some other destination.
+Discussion
+There are several factors that can affect the determination of the point of no return. These include the aircraft configuration, wind component, and the altitude of the aircraft.
+There are several reasons why the calculation of the PNR may be useful/required including:
+
+Where the nature of the cargo or passengers makes it diplomatically undesirable to land anywhere other than the intended destination or the point of departure. This could be, for example, where the passenger(s) are politically sensitive or where the cargo requires special handling.
+Where a technical fault occurs that would be best rectified at home base;
+Where the destination is remote and there are no en-route diversions available.
+
+When calculating the PNR, other considerations may include:
+
+adding additional fuel to the minimum overhead fuel to allow for a diversion to an airfield near the point of departure if required;
+making assumptions that one engine will be inoperative or that pressurisation will be lost after turning back at the PNR.
+
+Basic Calculation
+
+Where:
+E = Safe endurance in hours, calculated by dividing fuel at take-off, minus the appropriate Min Overhead Fuel, by the average fuel burn per hour
+H = Groundspeed when returning to departure airfield
+O = Groundspeed when proceeding to destination airfield
+One Engine Inoperative PNR
+Distance to PNR = Fuel available/ (Specific Fuel Flow Out + Specific Fuel Flow Back)
+Where:
+Specific Fuel Flow = Average fuel flow/Ground Speed
+Fuel Available = Fuel at take off minus required minimum overhead fuel
+Related Articles
+
+Last Point of Diversion (LPD)
+Critical Point (CP)
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

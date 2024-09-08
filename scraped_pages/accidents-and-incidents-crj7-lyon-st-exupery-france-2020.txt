@@ -1,0 +1,342 @@
+CRJ7, Lyon St Exupery France, 2020
+
+
+
+
+
+
+
+
+
+
+
+  CRJ7, Lyon St Exupery France, 2020
+
+
+
+
+
+
+
+
+
+Summary
+
+On 23 January 2020, a Bombardier CRJ700 making a HUD-supported manual Cat 3a ILS approach to Lyon Saint-Exupéry in freezing fog conditions deviated from the required flight path localiser and reached a minimum of 265 feet agl before a go around was initiated without initially being flown in accordance with standard procedures. The Captain involved was relatively new to type and had not previously flown such an approach in actual low visibility conditions. The Investigation was not able to determine exactly what contributed to the approach and initial go around being misflown but identified a number of possible contributors.
+
+
+
+
+Event Details
+
+When
+
+23/01/2020
+
+
+
+Event Type
+
+
+CFIT,
+              HF,
+              LOC,
+              WX
+
+
+
+
+Day/Night
+
+Night
+
+
+
+Flight Conditions
+
+IMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOMBARDIER Regional Jet CRJ-700
+
+
+
+
+
+
+
+
+
+Operator
+
+HOP!
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Lille-Lesquin Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Lyon/Saint-Exupery
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Missed Approach
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+LFQQ
+
+
+
+
+General
+
+Tag(s)
+
+
+              HUD used by PF,
+              CVR overwritten
+          
+
+
+
+
+CFIT
+
+Tag(s)
+
+
+              No Visual Reference,
+              Lateral Navigation Error
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Distraction,
+              Inappropriate crew response - skills deficiency,
+              Manual Handling,
+              Ineffective Monitoring - PIC as PF
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Flight Management Error,
+              Aircraft Flight Path Control Error
+          
+
+
+
+
+WX
+
+Tag(s)
+
+
+              Fog
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 23 January 2020, a Bombardier CRJ700 (F-GRZL) being operated by Air France subsidiary ‘HOP!’ on a scheduled domestic passenger flight from Lille to Lyon Saint-Exupéry was not managed correctly during a HUD-supported manual Cat 3a ILS approach at destination conducted in night IMC and the initiation of the low go around was also not in accordance with the applicable procedures. However, the climb away was eventually made and a second approach was subsequently completed without further event.
+Investigation
+An Investigation was carried out by the French Civil Aviation Accident Investigation Agency, the BEA using relevant QAR data but relevant CVR data were not preserved. It was found that the QAR recorded only two parameters relating to the HUD, annunciation of a ‘HUD Fault’ and annunciation of an ‘Approach Warning’ neither of which was activated. It was also noted that the position of the FD bars was not recorded on the QAR either. Recorded ATC data was available. 
+The total flying experience of the 55 year-old Captain was not recorded, but it was noted that he had flown 486 hours on type in the previous year. He had only been promoted to Captain 10 months before the investigated event occurred and stated that he had never previously flown a Cat 3a ILS approach using the HUD in “real” LVP conditions. The 43 year-old First Officer had flown 496 hours on type in the previous year and stated that during his previous CAT 3a approaches, “he had always observed that the (HUD) bars were centred and, in particular, had never observed a path deviation”.  
+What Happened
+LVP were in force at destination due to the prevalence of freezing fog (temperature and dew point both being reported as -1°C) and the crew had planned the approach accordingly on departure from Lille. For the CRJ700, the applicable operator procedures for these conditions mandated that the necessary manual Cat 3a ILS approach could only be flown by the Captain by reference to the HUD. In the aircraft involved, the HUD was installed only at the Captain’s position.
+With the aircraft stabilised on the runway 35R ILS and fully configured for landing, ATC gave the RVRs as 325 metres (touchdown), 300 metres (midpoint) and 400 metres (end). Tthe Captain disconnected the AP at 1400 feet aal (point 1 on the illustration below which depicts the flight path) and began following the HUD guidance cue whilst the First Officer monitored the flight path on his PFD. About a minute later at about 500 feet aal, the aircraft entered the fog layer (point 2 on the illustration) and, according to the Captain, from this moment the lateral guidance cue began to show a divergence to the left. At the same time, the First Officer reported having temporarily ceased monitoring the approach on his PFD “in order to fiddle with the jack socket of his headset as he was having radio reception problems”. 
+At 320 feet agl, the PF made series of left roll inputs of increasing amplitude and the bank angle reached 11° (point 3 on the illustration) and the airspeed decreased through VREF +3. He then followed this with a pitch up which resulted in the pitch attitude increasing though 2°. Three seconds later, the aircraft reached a minimum height of “around 265 feet” (point 4 on the illustration) and was slightly left of the ILS LOC and above the ILS GS. The wings were then levelled but the aircraft was still diverging from the runway extended centreline at 20° angle. 
+The First Officer subsequently stated that on returning to monitoring after the 20 second distraction with his headset, he had observed that the vertical bar of his PFD was offset to the right and on calling this out had received a response from the Captain that he was aware and correcting it. He then stated that as the lateral deviation appeared to be increasing, he had suggested to the Captain that a go-around would be appropriate.
+
+The annotated horizontal and vertical components of the approach. [Reproduced from the Official Report] 
+The deviation left was not corrected and the aircraft remained above the glidepath with the pitch attitude continuing to increase to +11° before decreasing. The thrust levers “were moved forward several degrees in three successive actions” but the airspeed had continued to decrease to 120 KCAS (VREF -15) before increasing again. At this point, the lateral deviation indicated on the PFDs reached full scale deflection. 
+After a further 7 seconds (which was 23 seconds after nose-up inputs had started), the thrust levers were moved to the TOGA detent and the Captain pressed the TOGA button (point 5 on the illustration). The latter activated the corresponding pitch and heading modes and pitch attitude stabilised at +8°.
+Seeing the apparent initiation of a go around, the TWR controller “asked the crew if they were going around which they confirmed" (point 6 on the illustration). The aircraft crossed the threshold of parallel runway 35L at 420 feet agl as it continued on a deviation heading of 341°M. The controller instructed the flight to continue on that heading and to climb to 5,000 feet. On this heading, the aircraft then flew in succession over the main taxiway, an aircraft parking area and close to the TWR which it crossed at 820 feet aal (point 6 on the illustration). Whilst the height at which airport buildings were crossed was unusually low, it was considered that it had been high enough to avoid any risk of collision with obstacles.  
+The controller subsequently asked the crew if they had lost the centreline and they replied that “there was a small problem with the instruments and that they had got everything back”. Radar positioning to a second Cat 3a ILS approach followed and it was completed normally.
+Why It Happened
+Since the (required) use of the HUD without the Captain having had similar previous experience during line flying and the monitoring of that process by the First Officer were a specific feature of the mis-flown approach, the Investigation examined the evidence to see if useful findings in those respects could be identified. 
+On request, the HUD OEM advised that no malfunction on this model of HUD had been reported to them in the period March 2019 to February 2020 during which this model had accumulated around 220,000 operating hours including 26,000 hours on the CRJ700.
+It was noted that several published papers have dealt specifically dealt with “the cognitive impact of the use of the HUD” by pilots and detailed several potential problems with using a HUD including:
+
+The lack of simultaneous attention to the HUD symbols and the wider flight deck environment and instead a tendency to alternate their attention between the HUD and the external scene with a bias towards the HUD.
+Difficulties in detecting unanticipated events or issues in the outside environment leading to inattentional blindness (cognitive tunnelling).
+This phenomenon of "cognitive tunnelling" can be exacerbated without pilots being aware of it.
+The “excessive precision” of a HUD FD may be tiring.
+Possible transition difficulties during a go-around as the focus changes from flight path management to pitch attitude management assisted by the lack of indications to encourage the pilot to use the pitch reference instead of the flight path reference.   
+
+It was observed that the non standard “slow and progressive manner” in which the missed approach was initiated had contributed to the aeroplane losing height and ending up at 15 knots below VREF and might have been caused by a combination of:  
+
+the Captain focusing his attention exclusively on the HUD to align the Flight Path symbol on the Guidance Cue and to the First Officer’s late resumption of monitoring the approach after resolving his radio reception problem 
+the absence of the Approach Warning message due to the use of an HGS mode which was not the required AIII mode (although the conditions for its activation were met) since “crews are used to starting a go-around as soon as this message appears”.
+
+Three potential Contributory Factors which may have contributed to the approach being carried out in a mode other than the appropriate AIII (Cat 3a) HUD mode being selected were identified as follows:
+
+The crew’s improper use of the control panel which could have caused either: 
+
+an erroneous selection of the control mode on the control panel at the start of the descent or
+a de-selection of the AIII mode linked to the performance of the RA test, having previously set the AIII mode to standby. 
+
+
+The conditions for arming the AIII mode were not all present which might have resulted in this mode, although correctly selected, not being armed.
+Improper checking of the approach parameters on the PFDs and the HUD, notably during the call-outs specified in the standard procedures, which meant that the crew did not detect that the AIII mode was not the active mode.
+
+Three other potential Contributory Factors which may have contributed to the approach being continued below 500 feet aal were also identified:
+
+The Captain’s repeated corrections of an increasing amplitude while following the flight path indicated by the HGS flight director, in a context where he was flying his first ILS CAT IIIa approach using the HUD without forward visibility.
+The Captain focusing his attention on the HUD symbols in order to align the flight path symbol with the guidance cue and not following the LOC deviation indication. 
+The First Officer’s incomplete monitoring of the flight path on short final, his attention having been diverted to correct a radio reception problem with his headset.
+
+In addition to all these potential Contributory Factors, it was also considered impossible to exclude the possibility of erratic performance of the HGS flight director during the approach although it was acknowledged that “such in-service malfunctions of this type are very rare”.  
+The Final Report was initially published in the definitive French language on 25 August 2022 and this was followed on 12 January 2023 by an English Language translation. No Safety Recommendations were made.
+Related Articles
+
+Precision Approach
+Head Up Display (HUD)
+Head Up Display: Guidance for Flight Crews
+Flight Path Monitoring
+Low Level Go Around
+Low Visibility Procedures

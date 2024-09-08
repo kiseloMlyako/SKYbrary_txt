@@ -1,0 +1,137 @@
+Magnetic Variation
+
+
+
+
+
+
+
+
+
+
+
+  Magnetic Variation
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Declination
+Definition
+The angular difference, in the horizontal plane, between true north and magnetic north at a particular place.
+Discussion
+In his book, The American Practical Navigator, Nathanial Bowditch defined variation as “the angle between the magnetic and geographic meridians at any place, expressed in degrees and minutes east or west to indicate the direction of magnetic north from true north." In more practical terms, magnetic variation, more often referred to as declination in non-aviation / non-nautical contexts, is the angle on the horizontal plane between magnetic north and true north. This angle varies with position on the Earth's surface and it changes over time, at varying rates in different locations. If a compass at your location is pointing to the right of true north, declination is positive or east, and if it points to the left of true north, declination is negative or west.
+The needle of a magnetic compass will point roughly at the North Geographic Pole over much of the Earth's surface. However, there are few places where a compass needle will point exactly north because of the complex shape of the Earth's magnetic field. The compass aligns with the horizontal component of the magnetic field in a direction called magnetic north. True north, on the other hand, is the direction from a given location to the North Geographic Pole. While many people believe that a compass needle points directly at the North Magnetic Pole, this is not strictly true as the horizontal component of the magnetic field changes with position. Were one to follow the compass needle, they would eventually arrive at the North Magnetic Pole, but not by the most direct route. To further complicate the issue, the magnetic poles (north and south) are not fixed in position but migrate over time and the Earth's magnetic fields fluctuate due to extra-terrestrial magnetic storms. This map of Historical Magnetic Declination, located on the U.S. National Oceanic and Atmospheric Administration (NOAA) website, depicts the changes in declination and movement of the north and south magnetic poles over the past 400 years.
+Terminology
+The terms variation and declination are both used to describe the angle between magnetic north and true north. The term deviation is also used on occasion. These three terms are explained as follows:
+
+Declination - This term, sometimes referred to as "magnetic declination", is preferred by those who study the Earth's magnetic field. It is also the term most commonly used by land navigators, geocaching enthusiasts and surveyors.
+Variation - This term is preferred by mariners and pilots because the word "declination" also has a Celestial Navigation usage; that is the angle of a star or planet above the celestial equator.
+Deviation - When mounted in an aircraft or a ship, a compass is not only influenced by the Earth's magnetic field, but by the magnetism of the iron used in the construction of the vehicle as well. This causes a compass error referred to as "deviation". Many people incorrectly use deviation when they actually mean declination.
+
+An isogonic line is a line over the surface of the earth upon which magnetic declination is constant. An agonic line is an isogonic line upon which the declination is zero.
+Heading Relationships
+When discussing measurement of direction in an aircraft, there are three different headings that come into play. These are:
+
+Compass heading - the bearing presented on a basic (alcohol or dry) magnetic compass
+Magnetic heading - compass heading corrected for compass deviation
+True heading - magnetic heading corrected for variation (declination)
+
+The standby compass of many aircraft can be corrected for deviation by adjusting small magnets mounted within the casing of the instrument during a process referred to as a "compass swing". If there is no capability for such adjustment, a compass deviation card, which indicates the compass heading that must be flown to achieve a desired magnetic heading, will normally be mounted near the instrument. Primary directional instruments are almost universally able to be adjusted to eliminate deviation.
+True heading can be calculated from magnetic heading by adjusting for variation. As variation is directional, the rhymes "variation east, magnetic least" and "variation west, magnetic best" can be used as a memory aid to ensure variation is applied correctly.
+Navigation
+Variation is an important component when considering the topic of aircraft navigation. Whilst runway headings, AWOS, ATIS and tower reported winds, VOR alignment, approach and airway tracks are all presented referenced to magnetic north, VFR charts, TAF, METAR and enroute winds are referenced to true north. Pilots must, therefore, understand the relationship between true north and magnetic north, know where to obtain relevant variation values and know how to apply that variation correctly to convert from one directional reference to the other.
+Related Articles
+
+Gyromagnetic Compass
+Celestial Navigation
+Magnetic Dip
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

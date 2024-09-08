@@ -1,0 +1,177 @@
+The Approach Controller
+
+
+
+
+
+
+
+
+
+
+
+  The Approach Controller
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+The approach (APP) controller are responsible for the provision of air traffic service to departing and arriving traffic in a TMA (terminal movement area). They are the link between the Tower and Area controllers and normally serve aircraft during the climb, descent and approach phases.
+Generally, an approach control unit is established only if the traffic demand warrants this. Many aerodromes (including controlled ones) only have tower controllers assigned. If this is the case, flights are normally transferred from the tower to a neighbouring area control centre (ACC) or flight information centre (FIC). Even if an approach control unit has been established for an aerodrome, it is still possible to transfer flights directly from the tower to the ACC (and vice-versa) if this has been appropriately coordinated.
+Unlike the Tower controllers that are assigned to a single aerodrome (and sometimes a single runway), the APP controllers may serve flights from several (nearby) aerodromes.
+Similarly to the Tower controller, the APP controller works mostly with traffic that arrives to or departs from the aerodrome(s) in the TMA. While there are some transit overflights as well, these do not normally form a large proportion of the overall traffic. 
+The APP controller can use a 3 NM separation minimum when solving conflicts between aircraft (as opposed to the 5 NM typical for area control). However, this is not always applicable, as it depends on the availabilty of specific radars and wake turbulence separation minima also need to be complied with.
+Specific Challenges
+The APP controller has the same high level objectives as all air traffic controllers: provide safety (i.e. separate aircraft) and provide efficiency (i.e. stablish and maintain a steady flow of traffic). However, each working position has its specific challenges that distinguish it from the others. Those that affect the APP controller include:
+
+Sequencing. While the Tower controller tends to focus more on the departures, the APP controller's main task is to handle the arrivals, i.e. sequenced them in a safe and efficient way. This means that two consecutive arrivals should neither be too close (or else the second one may need to go around due to the runway being occupied by the first one) or too fara apart (which could mean that the second one has spent more time in the air than necessary). The sequencing can be done using different methods, e.g.:
+
+Vectoring, i.e. assigning specific headings. Thus, the controller can adjust the length of the arrival manually - extend the aircraft path if necessary, or reduce it if the situation permits it. While vectoring provides almost unlimited options to control the ground path of an aircraft, this comes at the cost of increased controller workload and frequency occupancy as each change of the heading needs to be issued as a separate instruction at the right time.
+RNAV STARs. These are arrivals that are defined as a sequence of navigation points the aircraft must pass over (or by). The flight path is often deliberately curved so that the controller may issue a shortcut to reduce the distance to touchdown or delay the flight by simply letting it follow the STAR. This method greatly reduces both workload and frequency occupancy, which is why it is being applied to increased number of aerodromes. The point merge system is a specific RNAV structure that consists of a merging point and an arc. The arriving aircraft follow the arc until they receive a "direct to" instruction to the merging point. As the distance from any point of the arc to the merging point is the same, this method allows precise sequencing at reduced workload. It should be noted that sometimes the time resource provided by RNAV arrivals may not be enough and controllers may need to use vectoring as well.
+Holding stacks. This is a solution that allows the safe accomodation of large number of aircraft, especially when the demand exceeds the runway (or aerodrome) capacity. Aircraft are instructed to hold at specific points at different levels. When the situation allows it, the lowest aircraft is directed to the runway and the ones above move down the stack. Multiple stacks may need to be used, e.g. one for each direction of inbound flights. In this case, the controller would likely alternate them, i.e. process a flight from stack 1, then one from stack 2, and so on.
+
+
+Integration of departures and arrivals. Every air traffic controller has to separate aircraft and integrate different traffic flows. The specific aspects for the APP controller are that:
+
+ Unlike the en-route part of the flight, most aircraft are supposed to climb or descent, and the most efficient way to do so is usually by avoiding level offs. Also, a level off at a low altitude is more costly in terms of fuel consumption. In order to provide efficiency (without compromising safety), the APP controller needs to create an appropriate plan for traffic that is constantly changing their flight parametres (ground speed and level).
+Departures and arrivals often cross paths even though normally only one direction is used for take off and landing, especially when the traffic levels are high. Still, SIDs and STARs cannot be designed in such a way as to not intersect at some point. This is often sovled by including restrictions in the SIDs and STARs (e.g. cross point XXX at yyyy feet (or above) for the arrival and at zzzz feet or below for the departure). 
+
+
+No "hold position" available. The way an APP controller sequences arriving traffic and integrates departures and arivals somewhat resembles the work of the TWR controller. However, since the latter does that on the ground, they may instruct an aircraft to hold their position if there is a safety concern. APP controllers need to do the same job but with aircraft constantly moving.
+Diversity of aircraft types. While most modern jets (including narrow and wide body ones) have similar performance during the descent and approach phases of the flight, this is not the case with other types, such as turboprops or most general aviation aircraft that can fly dramatically slower but still need to be integrated in the traffic flow. That this is a specific challenge for the APP controller, as these two categories are normally separated vertically during the cruise by ten thousand feet or even more.
+Cooperation with the Tower. This is especially important for aerodromes where the same runway(s) are used for both take offs and landings. The APP controller needs to inform and update the Tower about the landing sequence and to provide adequate spacing so that departures can use the gaps between arrivals. For this purpose, their situational awareness needs to extend to the manoeuvring area.
+Terrain and obstacle clearance. While this is not universally true, in many cases the area of responsibility of an en-route controller does not include high terrain or obstacles, or there are very few of them. By contrast, the APP controller normally has to consider the impact of terrain and obstacles on the intended clearances. While standard instrument arrivals are defined in such a way that appropriate vertical clearance is provided, with almost any deviation (e.g. due to vectoring or direct routing) the controller assumes responsibility for safety regarding terrain and obstacles.
+Transition layer. Usually, the tower works with altitudes and area control is limited to flight levels. By contrast, APP controllers need to use both and be constantly aware of any change of the QNH and transition level and inform the affected flights.
+Missed approaches. While these also affect the Tower, their impact on APP is much greater. An aircraft executing missed approach means that an unexpected flight must be integrated in the arrival sequence.
+
+Example
+This section contains a typical scenario for an APP controller handling an arrival. Note that this is illustrative and the procedures may vary significantly from one approach control unit to another due to the traffic demand, airspace structure, etc.
+
+Initial contact. The pilot informs the controller of receiving the ATIS information which is either confirmed or updated by the controller. Then, the controller adivises the type of arrival (STAR, vectoring, etc.) and the expected runway and type of approach (e.g. ILS, VOR/DME, RNAV, visual, etc.). The STAR may have already been assigned by the previous ACC sector.
+Flying the arrival procedure. Depending on the type of arrival, this may involve few exchanges (in case of following a STAR) or be rather busy (in case of vectoring). The purpose of this stage is to position the aircraft apporpriately for the execution of the final approach.
+The final approach. The controller clears the flight for the final approach and specifies the type. Normally a report is expected by the pilot (e.g. for being established on the ILS, for having the runway in sight and being able to land visually, etc.). 
+Transfer to the Tower. This is done when the APP controller considers the aircraft is likely to complete the landing (i.e. has received the appropriate report from the previous point). Depending on local procedures, they may inform the Tower about the distance from touchdown before initiating the transfer.
+
+Working Positions and Roles
+An APP unit can be served by a single sector (manned by one or a team of two controllers) if the traffic levels allow. Increased traffic and complexity can be dealt with by adding sectors. This can be done either by role or by airspace, e.g.:
+
+Splitting the traffic into departures and arivals
+Establishing a final approach working position and one (or more) positions handling the STAR phase
+Splitting the airspace into lower and upper
+Splitting the airspace into e.g. east and west (or north and south, or other appropriate configuration)
+
+A combination of two or more methods is also possible, e.g. having a common upper APP sector and two lower ones (one for arrivals and one for departures).
+Additional roles can be defined for the use of specific equipment. For example, the PAR would need a separate controller to be assigned to it as the demand of attention per flight is very high.
+Equipment
+The APP controller usually works with a situation display connected to an automated ATS system, similar to the one used by the area controller. Naturally, the two often use different tools. In addition, the APP controller is often provided with aerodrome-related equipment. Examples of the differeces between the two include:
+
+An important tool for APP is the "Distance to go" indication. This is normally a number written next to the aircraft track (or in the track label) that informs the controller what the distance from the aircraft to the touchdown of the selected runway is. The tool takes into account the trajectory, i.e. it does not simply measure the straight line between the two but accounts for all the expected turns. The tools is especially helpful when vectoring is used or when the controller needs to integrate traffic arriving from different directions.
+APP does not benefit as much from the tactical controller tool. As arriving and departing traffic groundspeeds constantly change during climb or descent, any tool that relies on surveillance data to predict the future position of an aircraft is of very limited use.
+Considering that MTCD is only as reliable as the trajectory estimating function of the flight data processing system, climbing and descending flights pose a special challenge, as the extrapolated vertical and ground speeds may be quite different to the actual ones. While MTCD is definitely better at this task than e.g. the tactical tool (it is safe to assume that the groundspeed will increase during climb and decrease during descent), this tool may still not be reliable enough for the APP controller. To overcome this, trajectory based tools enhanced with downlinked data from the aircraft are being developed.
+The APP controller is often provided with a view of the surface movement radar / A-SMGCS. While not allowed to operationally use the information provided by those, it enhances their situational awareness.
+The need for fast and efficient coordination with the tower controller(s) often leads to the installation of a dedicated hotline communication tool. This tool is often separated from the other communication systems (e.g. phones, VCS) and allows TWR and APP to communicate instantly with the press of a button.
+Arrival manager (AMAN). This tool collects data from various sources, process it and provides recommendations for traffic sequencing. While the ACC controller sometimes has a similar tool installed (the extended AMAN), their procedures normally require less controller attention.
+Approach path monitor is a safety net specifically designed for the APP working position which warns about increased risk of CFIT during final approach.
+There is dedicated screen (or equivalent equipment) providing weather data about the aerodrome, such as present weather (QNH, wind, visibility, etc.), the current ATIS, etc.
+
+It is also possible to provide approach control service without surveillance data (i.e. to perform procedural control). This would normally happen when the traffic levels are low. The equipment available is likely to be limited to a radio, a system for flight data processing (including a flight strip module) and an information system (providing weather and aeronautical data).
+Related Articles
+
+How Air Traffic Control Works
+The Tower Controller
+The Area Controller
+
+Further Reading
+
+ICAO Doc 4444 PANS-ATM
+CAP493: MATS Part 1, Section 3
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

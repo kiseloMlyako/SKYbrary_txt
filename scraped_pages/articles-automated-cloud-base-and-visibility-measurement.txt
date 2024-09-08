@@ -1,0 +1,153 @@
+Automated Cloud Base and Visibility Measurement
+
+
+
+
+
+
+
+
+
+
+
+  Automated Cloud Base and Visibility Measurement
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+The estimation of cloud base height and horizontal visibility by the use of data automatically derived from unattended sensors.
+Cloud Base Recording
+Most Cloud Base Recorders - which have historically also been called Ceilometers - employ LIDAR (Light Detection And Ranging) technology. A pulsed diode laser is used to transmit continuously in a vertical or near vertical direction. The backscatter which will result from reflection at a discrete cloud surface and from precipitation or other particles is sensed and used in aggregate to determine the height of the lowest cloud base and, in the case of the latest instruments, up to two more. The wavelength of the laser is similar to the diameter of the aerosols likely to be encountered and the height of the scattering from them is proportional to the time taken for the light to return. Some recorders can be selected to a tilted position of around 10° from the vertical, which thereby provides some protection against the effects of precipitation - and a tilt angle sensor ensures that the measured cloud distance is corrected to the vertical. Heating and an air blower may be provided to keep the recorder window clean and dry.
+LIDAR based recorders are capable of cloud base detection to over 20,000 feet and many significantly exceed that. As well as converting this data to cloud base heights, most recorders of this type also use a series of assumptions based on the processing of data over time to generate an estimate of cloud cover. A typical recorder is illustrated below - typically they are a little over a metre in height.
+
+A typical cloud base recorder or ceilometer
+Optical Drum Recorders
+Prior to the development of LIDAR cloud base recorders, the Optical Drum (sometimes called Rotating Beam) Cloud base recorder was in common use for the same purpose. These systems consisted of a transmitter which directed a modulated light beam at a slant to the vertical with the drum containing it rotating over a period of a minute from an elevation from the horizontal of 8° to one of 85° and then back to 8°. A separate device - the receiver - was located a known distance away, and only detected light in the vertical. A recorder linked to both units was fed with the continuous upward and downward sweep of the transmitted beam so that any light scattered by the interception of the beam with a cloud base would interrupt the beam at a given point in the cycle and allow cloud base height to be calculated using the principle of triangulation. The illustration below shows an example of this type as previously used in the UK, where, however, it was only used as an aid to human observation not as a stand-alone substitute for it.
+
+The transmitter unit of an optical drum cloud base recorder
+Some advantages and disadvantages of cloud base recorders
+
+Improved accuracy, especially at night
+Consistency of reporting
+Delay in recording the actual situation
+Misreporting of slow moving cloud amounts
+False detection of cloud bases due to confusion with other features
+False detection of a fluctuating cloud base when cumuliform and fast moving
+Detection of a cloud base may be prevented when the sky is obscured
+
+Visibility Measurement
+A Visibility Meter sited at the place of observation and consisting of a paired transmitter and a receiver is used to obtain a measurement of visibility over a very short distance in terms of the ‘extinction coefficient’ of transmitted light. This measurement is then automatically converted to visibility using established conversion formulae. This visibility conforms to the World Meteorological Organisation (WMO) definition of Meteorological Optical Range (MOR). This depends solely on the atmospheric transparency along a path in daylight or, more precisely, is the distance in the atmosphere over which a beam of light travels before its luminous flux is reduced to 5% of its original value. In most cases, this is approximately equivalent to the manual estimation of visibility by trained observers using the appearance of a distant object against a contrasting background. However, the automated measurement is based on a sample of only about a litre of air, so whilst the measurement of derived visibility is highly accurate, is it also specific to the location of the instrument and not equivalent to prevailing visibility as recorded by human observers who will take account of visibility in all directions.
+The most common method of measuring the extinction coefficient is the forward scatter system. A high intensity xenon strobe transmitter directs a beam of light in the visible spectrum at the air close to the sensor and a photo diode at the adjacent receiver is used to detect the amount of light received. The extent of scattering is increased by the presence of particles of water, dust, sand or smoke. The use of transmitted light within the visible spectrum allows this type of instrument to most accurately simulate human perception of visibility. The range of visibility for which a measurement can be derived is typically between 15/20 m and 20/30 km with an accuracy up to 10 km of +/- 10%. A typical instrument is illustrated below:
+
+A typical visibility meter
+A protective hood inclined downwards is used to protect both transmitter and sensor from direct impact with or accumulation of precipitation. It also minimises the effect on the optics of other sources of airborne contamination and ensures that artificial lighting in the vicinity does not compromise the accuracy of the measurement. The hoods may incorporate automatically triggered heaters which will often have high and low power settings for protection from frozen and liquid moisture respectively.
+The term transmissometer was used to describe early versions of automated visibility determination which are no longer in use. A low voltage light was shone horizontally over (typically) a 200 metre baseline at 3 metres agl and detected by a photo-electric cell at the receiver unit. Accuracy was claimed to be broadly similar to current methods up to a visibility of 10km but reliability was poor by comparison. The description transmissometer is sometimes still used to describe the modern measurement method.
+Some advantages and disadvantages of automated visibility measurement devices
+
+Improved night observations especially in uniform reduced visibility
+Inability to detect localised variation in directional visibility
+Failure to report stationary fog patches or reporting them as continuous fog
+
+Automatic Weather Stations
+The instruments for cloud base and visibility recording, which are described here and which are in current use, are included as essential components of a fully automatic weather station. Their output can be presented on site along with other measurements to non-specialist users and/or transmitted to a distant location. Whole networks of automatic weather stations are in use in some offshore oil and gas production environments.
+Use of automated observations in METAR/SPECI
+The abbreviation “AUTO” is included in any METAR/SPECI which includes observations recorded without human input. Where no cloud is detected in such a report, the letters “NCD” will be included and in most cases, when a cloud base recorder does not detect any cloud and the recorded visibility is 1000 metres or less, the phrase “CLD:SKY MAY BE OBSC” will be included as a RMK.
+Related Articles
+
+Visibility
+Pre-flight Preparation
+Briefing Facilities
+Meteorological Terminal Air Report (METAR)
+SIGMET
+Automatic Terminal Information Service (ATIS)
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

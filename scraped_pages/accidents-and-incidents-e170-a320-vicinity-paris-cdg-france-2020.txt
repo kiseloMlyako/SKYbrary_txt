@@ -1,0 +1,417 @@
+E170 / A320, vicinity Paris CDG France, 2020
+
+
+
+
+
+
+
+
+
+
+
+  E170 / A320, vicinity Paris CDG France, 2020
+
+
+
+
+
+
+
+
+
+Summary
+
+On 21 October 2020, an Embraer ERJ170 on short final at Paris CDG responded to a windshear warning by breaking off the approach and climbing. The warning soon stopped but the aircraft drifted sideways in the strong crosswind towards the adjacent parallel runway from which an Airbus A320 had just taken off. A Short-Term Conflict Alert on the controller's display was accompanied by a TCAS RA event triggered for both aircraft. The Investigation was concerned about the implications of failure to climb straight ahead from parallel runways during unexpected go-arounds. Safety Recommendations were made on risk management of parallel runway operations by both pilots and safety regulators.
+
+
+
+
+Event Details
+
+When
+
+21/10/2020
+
+
+
+Event Type
+
+
+HF,
+              LOC,
+              LOS,
+              WX
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+EMBRAER ERJ 170-100
+
+
+
+
+
+
+
+
+
+Operator
+
+HOP!
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Brest/Bretagne Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Paris/Charles de Gaulle Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Missed Approach
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS A-320
+
+
+
+
+
+
+
+
+
+Operator
+
+Brussels Airlines
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Paris/Charles de Gaulle Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Brussels Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Take Off
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+LFPG
+
+
+
+
+General
+
+Tag(s)
+
+
+              Inadequate ATC Procedures
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Manual Handling,
+              Procedural non compliance,
+              Ineffective Monitoring - SIC as PF
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Environmental Factors
+          
+
+
+
+
+LOS
+
+Tag(s)
+
+
+              Required Separation not maintained,
+              Go Around Separation
+          
+
+
+
+
+WX
+
+Tag(s)
+
+
+              Low Level Windshear
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+Air Traffic Management
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Air Traffic Management
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 21 October 2020, an Embraer ERJ170 (F-HBXK) being operated by Air France subsidiary ‘HOP!’ on a scheduled domestic passenger flight from Brest to Paris CDG commenced a go-around in day VMC just before touchdown on runway 26L. It then drifted north in a strong crosswind and came into conflict with an Airbus A320 (OO-SNE) being operated by Brussels Airlines on a scheduled international passenger flight from Paris CDG to Brussels that was departing from parallel runway 26R, which triggered both an STCA and coordinated TCAS RAs. 
+Investigation
+An Investigation was carried out by the French Civil Aviation Accident Investigation Agency, the BEA, using FDR data from both aircraft, CVR data from the ERJ170, and relevant recorded ATC data. Unusually for such an occurrence, the flying experience of the pilots involved was not documented. 
+What happened
+The northern set of parallel runways were being used at Paris CDG and one runway controller was covering both runways due to the relatively low traffic level. The ERJ170 crew were aware that the arrival at destination for their landing on runway 26L would occur in the presence of a strong crosswind (the reported surface wind when given landing clearance was from 190° at a mean speed of 22 knots gusting to 32 knots) and in considerable mechanical turbulence, although in good visibility and without any low cloud. They had decided on a Flap 5 landing and an addition to the basic VREF.
+The ERJ170 first officer was PF and disconnected the AP at 1000 feet AGL. As they passed 500 feet agl, the controller cleared an Airbus A320 for takeoff from runway 26R. Passing 200 feet AGL, airspeed decreased from 139 KIAS to 125 KIAS in two seconds and the captain called “speed." At the same time, a windshear warning was annunciated (see position ❶ on the first illustration below) and both pilots called “windshear." The first officer initiated the required response by setting MAX thrust and pitching up to initiate a climb as the FD ‘WINDSHEAR’ mode engaged.
+The windshear warning stopped after eight seconds as the aircraft climbed through 580 feet (position ❷ on the first illustration below), which indicated that the windshear had been momentary. (The annunciation is programmed to remain for 8 seconds after the detected shear has ceased.) By this time, the heading had drifted a few degrees to the right and no correction was made. Eleven seconds after the windshear warning had ended, the captain announced the end of the windshear (position ❸ on both illustrations below). At about this time, the crew of the A320 initiated the takeoff rotation from runway 26R.
+A few seconds later, as the aircraft was approaching 1,500 feet, the captain told the first officer that he had changed to heading mode and set the current heading of 259° and informed the controller that they were going around due to windshear (position ❹ on the second illustration below). It was noted that “under the influence of the increasing wind speed with altitude and the changes in airspeed during the climb, the flight track had begun to deviate to the right and was approaching the extended centreline of runway 26R".
+The annotated initial flight tracks of the E170 (red) and the A320 (blue). [Reproduced from the Official Report]
+
+The annotated intermediate flight tracks of the E170 (red) and the A320 (blue). [Reproduced from the Official Report]
+The ERJ 170 crew selected the flaps to position three and then retracted the landing gear and, fifteen seconds after announcing the windshear go-around to ATC, a TCAS TA was annunciated (position ❺ on the illustration above). The A320 received the same message at the same time and simultaneously, the controller instructed the ERJ170 to make an immediate left turn onto 240° which was acknowledged and actioned. The controller coordinated with the Le Bourget ATC to ensure this deviation would be accommodated and as they did so an STCA was activated due to the potentially conflicting flight paths of the ERJ170 and the A320. 
+As ERJ170 passed 2,150 feet in climb one second later, the crew received TCAS "CLIMB" (position ❻ on the illustration below). The first officer responded by adjusting the attitude and also moved the thrust levers to TOGA and stopped the turn on a 250° heading, which produced a ground track of around 263°. The A320 simultaneously received a coordinated TCAS "LEVEL OFF" RA as it passed 1,500 feet and responded by levelling off at approximately 2,000 feet whilst maintaining the extended runway centreline. Neither aircraft initially advised the controller of the RA but when the controller subsequently instructed the A320 to stop climbing, they then did so. This prompted the ERJ170 crew to also advise receiving a TCAS RA but almost immediately, they then received a "CLEAR OF CONFLICT" message (position ❽ on the illustration below).  
+Although the ERJ170 crew had not yet notified the end of their TCAS RA, the controller then asked them to continue the left turn onto a heading of 200° which they read back and actioned. Despite the A320 crew’s previous ‘TCAS RA’ communication, the controller then repeated his request to them to stop climbing and received an “affirm” response as their RA was still active even though the aircraft had levelled off. At this time, the controller’s STCA activated (position ❾ on the illustration below) and a few seconds later, the RA ‘clear of conflict annunciation’ occurred on board the A320 (position ❿ on the illustration below). Its crew also did not inform the controller of this but shortly afterwards accepted and actioned further controller instructions as the ERJ170 was positioned for and subsequently completed a second approach in unchanged conditions without further event.
+
+The annotated final flight tracks of the E170 (red) and the A320 (blue). [Reproduced from the Official Report]
+The minimum separation between the two aircraft was 0.09 nm (167 metres) laterally and 460 feet vertically (position ❼ on both the illustration above and the one below).The illustration below shows the vertical separation between the two aircraft derived, as for the track illustrations, from their respective FDR data.
+
+Vertical Separation between the E170 (red) and the A320 (blue) during the TCAS RA. [Reproduced from the Official Report]
+It was noted that “during the TCAS advisory, the ERJ170 PF did not know what traffic was approaching them because although the PM Captain’s task was to analyse the position of the traffic displayed on his ND", he subsequently stated that he had not understood what the proximate traffic was and added that “he thought that it was traffic from Le Bourget” at the time. 
+The operational implications of closely spaced parallel runways
+The Investigation was concerned by the implications of discontinued approaches such as the one flown by the ERJ170 not initially following the runway extended centre line – in this case because of a failure to take account of the crosswind including its increasing speed with increasing altitude. The distance between the centrelines of runways 26L and 26R at Paris CDG is 384 metres whereas the regulatory minimum for this runway pair separation is 850 metres. This figure is derived by adding 30 metres to the basic minimum separation of 760 metres for each 150 metres that the landing runway threshold differs from the takeoff runway threshold. 
+The Investigation observed that “when questioned about this, the Paris CDG ANS authority stated that when these parallel runways were put into service (1999), safety studies in their current form did not exist (and) were only introduced with the separation between service provider, regulator and certification and oversight services to ensure compliance with the Single European Sky regulations in the 2000s”. It was found by the BEA that at this time, “no document was provided by the air navigation services on the taking into account the risk associated with windshear” on closely spaced runway operations. 
+The Investigation found two other events of lost separation between an aircraft on a windshear-predicated discontinued approach and one taking off from a parallel runway at Paris CDG at the same time which had both led to an STCA activation similar to the investigated case, one in 2019 and the other later in 2020 whilst the current Investigation was in progress.
+This led to the Investigation Report documenting a detailed review of this potential safety issue in considerable depth including the recent development by the French DSNA of an Alternative Means of Compliance with contemporary EASA requirements which was approved by the French DSAC in June 2022.    
+Two Contributory Factors which may have contributed to the abnormal proximity between the two aeroplanes and to the issuance of the TCAS Resolution Advisories were identified:
+
+Insufficient consideration given, in the implementation of procedures associated with specialised simultaneous operations, to the combination of risks associated with a strong crosswind and the crew’s compliance with a windshear procedure.
+Compliance with the windshear procedure up to an altitude of 1,500 ft, irrespective of the effective presence of windshear conditions, which may have delayed the subsequent separation actions by the parties involved.  
+
+Two practical ‘Safety Lessons’ derived from the findings of the Investigation were offered as follows:
+
+TCAS phraseology and the procedures to be followed are generally well known by crews and controllers but the investigated event shows that in some situations, due to the workload and the rapid unfolding of events, the parties involved do not make appropriate use of the standard phraseology. Whilst this did not have an impact in this case, it may decrease awareness of the situation for some parties, or even provide them with an incorrect awareness of it. 
+The role of the PM in the event of windshear is part of their role in supporting flight safety. In particular, when complying with a windshear procedure, a PM must actively contribute to the PF’s situational awareness through the monitoring of instruments, the call-out of deviations and the call-out of the end of windshear.
+
+A total of three Safety Recommendations were made as follows:
+
+that the DSNA (the French ANSP) revise the demonstration of compliance with regulatory requirement ATS.TR.255 of Regulation (EU) No 2017/373, in particular the point relating to the minimum distance between runway centrelines and the divergence between departure and go-around paths for specialised simultaneous operations, so that it takes into account the observations highlighted by this incident. [FRAN 2023-013]
+that the DSAC (the French Civil Aviation Safety Directorate) assess its decision to approve the Alternative Means of Compliance (AltMOC) submitted by the DSNA on the specific issue of the alternative means of compliance to EASA AMC4 ATS.TR.255. [FRAN 2023-014]
+that the ICAO assess the appropriateness of recommending the adaptation of specialised simultaneous operations when certain meteorological conditions prescribed by the appropriate ATS authorities (windshear, turbulence, downdrafts, crosswind or other significant meteorological conditions such as thunderstorms) might cause an increase in deviations from the published flight paths to the extent that safety may be impaired. [FRAN 2023-015]
+
+The Final Report was published simultaneously in both the definitive French language and in English translation on 31 May 2023. 
+Related Articles
+
+Loss of Separation
+Parallel Runway Operation
+Short Term Conflict Alert (STCA)
+ACAS Resolution and Traffic Advisories
+Missed Approach
+Low Level Wind Shear
+Cross Wind Landings
+Alternative Means of Compliance

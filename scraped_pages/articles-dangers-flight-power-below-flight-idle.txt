@@ -1,0 +1,154 @@
+Dangers of Flight with Power Below Flight Idle
+
+
+
+
+
+
+
+
+
+
+
+  Dangers of Flight with Power Below Flight Idle
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Control 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Variable Pitch/Constant Speed Propellors
+The blades of a propeller are aerofoils and, as such, are in many ways comparable to the wings of an airplane. This means that, like a wing, the propeller blades, within certain limits, create increasing lift with an increasing angle of attack. The angle of attack of a propeller blade is the resultant of the blade angle, the rotational speed of the propeller and the airflow across the propeller based on aircraft speed. When air speed is increased and the blade angle and rotational speed are kept constant, the angle of attack will decrease. An increase in the angle of attack will require more power to the propeller shaft to maintain a constant rotational speed. Somewhat simplified, you can say that the propeller's rotational speed is controlled automatically in accordance with this principle when the aircraft is in the air. The power transmitted to the propeller in relation to the blade angle determines the rotational speed of the propeller as long as the air speed remains constant.
+The propeller control unit (PCU) uses hydraulic oil pressure to adjust the blade angle to maintain the optimal rotational speed. To prevent propeller overspeed or underspeed conditions, the rotational speed is controlled by an overspeed governor/propellor governor. When power is added, the PCU senses an overspeed trend. To compensate, it increases the propeller blade angle or pitch (and thus slows the propeller) when the rotational speed exceeds a set RPM. Similarily, when engine power is reduced, the PCU senses an underspeed and reduces the pitch of the propeller to allow rotational speed to increase. When the engine power is at or near idle, the propeller can reach its minimum pitch limit. If the airspeed is high, the angle of attack (result of the propeller's rotation speed, air speed and blade angle) may become negative and the propeller will be turned by the airflow like a windmill. This means that the propeller derives energy from the airflow and, in the case of a shaft driven propeller, drives the engine rather than the other way around potentially causing damage to the engine. In a free turbine engine / propeller installation, engine damage due to negative torque is not as much of a consideration. However, in both cases, excessive negative torque can cause a propeller overspeed and result in excessive drag and must be avoided. Some propellers are fitted with a negative torque sensing system which will intermitently drive the propeller toward the feather position to help control the overspeed under negative torque conditions. Adding power or reducing airspeed will both result in returning the propeller to a positive angle of attack.
+On the ground, the PCU controls the blade angle to a schedule that is set by power level (PL) position. Under normal conditions, during ground operations, the rotational speed is not controlled by the PCU, becoming instead a result of the chosen blade angle and associated amount of fuel supplied (rotational speed is controlled via the engine control unit (ECU) that uses fuel flow to maintain a predetermined propeller rotational speed). This is called the Beta (β) range.
+Dangers of Flight with Power below Flight Idle
+Unless it is specifically permitted by the Airplane Flight Manual, any operation of the power lever below flight idle while in flight must be avoided. The PCU is not active and propeller blade angle is determined by power lever position while the levers are in the Beta Range. Therefore selection of a power setting below flight idle is very likely to result in a severe propeller overspeed and the resultant high, potentially dangerously high drag. Such high drag may result in an aerodynamic stall and/or loss of control if the drag is not symmetrical.
+Power lever operation to positions below flight idle is typically restricted to ground operations.
+Defences
+To prevent unintended moving of the Power Lever into the Beta-range, each Power Lever has protection and warning mechanisms. These may include a gate that the throttle has to be lifted through in order to get the throttle into the Beta range and/or a warning sound if the levers are lifted out of the flight range while the aircraft is airborne.
+Accidents and Incidents
+
+
+DH8A, en-route near Sørkjosen NorwayOn 21 February 2006, a Bombardier DHC8-100 being operated by Widereo Flyveselskap on a passenger flight from Tromsø to Sørkjosen experienced a temporary loss of control during descent in night IMC when the power levers were inadvertently selected to a position aft of the Flight Idle gate and propeller overspeed and engine malfunction followed. After recovery and shut down of the right engine, a return to Tromsø was made using the remaining engine without further event.
+
+CRJ2, en-route, south of Santander Spain, 2009On 24 February 2009, the Captain of a CRJ 200 being operated by Air Nostrum on a passenger flight from Madrid to Santander inadvertently shut down both engines simultaneously during the descent but a successful restart was rapidly achieved and the remainder of the flight was uneventful. The subsequent investigation concluded that the shutdown was the consequence of both violation of procedure and lack of knowledge of the Captain involved.
+
+DH8A, en-route SSE of Madang, Papua New Guinea, 2011On 13 October 2011, the Captain of a Bombardier DHC8-100 manually flying a low power, steep descent in an attempt to get below cloud to be able to see the destination aerodrome inadvertently allowed the speed to increase sufficiently to trigger an overspeed warning. In response, the power levers were rapidly retarded and both propellers entered the ground range and oversped. As a result, one engine was damaged beyond use and the other could not be unfeathered. A forced landing was made following which the aircraft caught fire. All three crew members but only one of the 29 passengers survived.
+
+F50, vicinity Luxembourg, 2002On 6 November 2002, a Fokker 50 operated by Luxair, crashed on approach to Luxembourg Airport following loss of control attributed to intentional operation of power levers in the ground range, contrary to SOPs.
+
+
+
+
+Related Articles
+
+Prop Wash
+Alpha Range
+Beta Range
+
+Further Reading
+NTSB Safety Alerts on General Aviation risks
+
+Safety Alert 19 - Prevent Aerodynamic Stalls at Low Altitude
+Safety Alert 20 - Reduced Visual References Require Vigilance
+Safety Alert 23 - Pilots: Manage Risks to Ensure Safety
+
+EASA
+
+EASA SIB 2013-02 - Stall and Stick Pusher Training
+
+EGAST safety promotion leaflet for General Aviation pilots
+
+Stall and spin loss of control
+
+FAA
+
+Vmc Training and Angle of Attack, FAA, General Aviation Joint Steering Committee (GAJSC) Leaflet, November 2015 (Information on engine failure procedures for multi-engine aircraft and how angle of attack (AOA) indicator systems can help prevent stall/spin accidents)
+
+
+
+
+
+Categories
+
+
+Loss of Control
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

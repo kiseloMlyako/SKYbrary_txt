@@ -1,0 +1,231 @@
+Cooper Harper
+
+
+
+
+
+
+
+
+
+
+
+  Cooper Harper
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+The Cooper-Harper Rating Scale is the current standard for evaluating aircraft handling qualities. It makes use of a decision tree that assesses adequacy for task, aircraft characteristics, and demands on the pilot to calculate and rate the handling qualities of an aircraft.
+George Cooper's standardized system for rating an aircraft's flying qualities. Cooper developed his rating system over several years as a result of the need to quantify the pilot's judgment of an aircraft's handling in a fashion that could be used in the stability and control design process. This came about because of his perception of the value that such a system would have, and because of the encouragement of his colleagues in this country and in England who were familiar with his initial attempts. Characteristically, Harry Goett spurred Cooper on in pursuit of this objective.
+Cooper's approach forced a specific definition of the pilot's task and of its performance standards. Further, it accounted for the demands the aircraft placed on the pilot in accomplishing a given task to some specified degree of precision. The Cooper Pilot Opinion Rating Scale was initially published in 1957. After several [27] years of experience gained in its application to many flight and simulator experiments and through its use by the military services and aircraft industry, it was subsequently modified in collaboration with Robert (Bob) Harper of the Cornell Aeronautical Laboratory and became the Cooper-Harper Handling Qualities Rating Scale in 1969. This rating scale has been one of the enduring contributions of flying qualities research at Ames over the past 40 years; the scale remains as the standard way of measuring flying qualities to this day. In recognition of his many contributions to aviation safety, Cooper received the Adm. Luis de Florez Flight Safety Award in 1966 and the Richard Hansford Burroughs, Jr., Test Pilot Award in 1971. After he retired, both he and Bob Harper were selected by the American Institute of Aeronautics and Astronautics to reprise the Cooper-Harper Rating Scale in the 1984 Wright Brothers Lectureship in Aeronautics.
+The traditional Cooper Harper (1969) scale has a decision tree format and was used to assess aircraft handling and control by the operator but could also be considered to assess workload. The Modified Cooper Harper scale (MCH) was developed to be more appropriate in complex and automated systems where operators are not required to actively control systems but are more often monitoring, perceiving, evaluating and problem solving (Wierwille and Cascali 1983). This also seems more relevant to train driving. Therefore the wording of the scale was replaced to represent activities relevant to such systems and to include task accomplishment, ability, errors, difficulty, performance and mental workload. The scale also now focuses on assessing perception, cognition and communication. Validation has shown that the MCH is capable of indicating mental workload, and it is therefore appropriate for modern operator-machine systems.
+
+Cooper Harper Scale
+However, there were two main concerns:
+
+The wording used has been validated by pilots and may not be directly transferable to drivers
+The tool only identifies high mental workload as unacceptable, with underload not being considered
+
+References
+
+Cooper, George E.: Understanding and Interpreting Pilot Opinion. Aeronautical Engineering Review, vol. 16, no. 3, Mar. 1957, pp. 47-51.
+Cooper, George E.; and Harper, Robert P., Jr.: The Use of Pilot Rating in the Evaluation of Aircraft Handling Qualities. NASA TN D-5153, 1969.
+C.A. Ntuen, Eui Park, D. Strickland, A.R. Watson, "A fuzzy model for workload assessment in complex task situations," hics, p. 101, 3rd Symposium on Human Interaction with Complex Systems (HICS '96), 1996.
+
+
+
+
+
+Categories
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+Generics
+
+
+Type of method
+Rating technique
+
+
+Ordinal data. Requires non-parametric analysis. Decision tree with a scale which provides a rating from 1 (excellent) to 10 (major deficiencies).
+
+
+Target of method
+Workload
+
+
+Time Scale of method
+ 
+
+
+Portability of method
+No
+
+
+Not Multi-dimensional: The Cooper Harper Scale deals explicitly with aircraft handling.
+
+
+Observer Effect
+No
+
+
+Context of studies
+
+
+Laboratory studies
+Use
+
+
+ 
+
+
+Simulation studies
+Use
+
+
+ 
+
+
+Field studies
+Use
+
+
+Sensitive to the psychomotor demands on an operator. Situation/design sensitivity: Yes: Cooper-Harper ratings have been sensitive to variations in controls, displays and aircraft stability.
+
+
+Potential problems with the method
+
+
+ 
+
+
+Bias risk
+Moderate
+
+
+No apparent theoretical model. However, the Cooper-Harper scale uses the following definition of pilot workload:
+
+‘workload is the integrated mental and physical effort required to satisfy the perceived demands of a specific flight task’. The scale should only be used for workload assessment if handling difficulty is the major determinant of workload.
+Consider all critical cognitive activities
+Does not consider cognitive activities.
+
+
+
+
+ 
+
+
+Costs of the method
+
+
+Staff Cost
+Low
+
+
+ 
+
+
+Set-up Cost
+Low
+
+
+ 
+
+
+Running Cost
+Low
+
+
+ 
+
+
+Analysis Cost
+Low
+
+
+ 
+
+
+Analysis data
+
+
+Analysis Speed
+Moderate
+
+
+ 
+
+
+Data Automation
+No
+
+
+ 
+
+
+Analysis Automation
+Easy, No
+
+
+ 
+
+
+Status
+Established
+
+
+Although it does not satisfy all the criteria, as a tool it is easy to use and practical. It is selected for the second stage review as its methodology is useful and there is research evidence of its usefulness and sensitivity.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

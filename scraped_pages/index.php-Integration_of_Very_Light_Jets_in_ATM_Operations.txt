@@ -1,0 +1,169 @@
+Integration of Very Light Jets in ATM Operations
+
+
+
+
+
+
+
+
+
+
+
+  Integration of Very Light Jets in ATM Operations
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Separation 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Background
+There is no internationally agreed definition of a "Very Light Jet” (VLJ) category. Several definitions may be found in specialized publications which do not differ significantly from one another.
+In general "Very Light Jets” is a term used to describe a group of small jet aircraft with capacity of 4-8 seats and a maximum take-off mass below 3000 kg. In ICAO classification they are considered as "Light aircraft”.
+In some sources instead of VLJ the terms “micro jet”, “entry-level jet”, “very light personal jet” or “personal jet” can also be met referring to the same category of small jet aircraft.
+In principle VLJs have different performance characteristics compared to commercial jet aircraft, notably:
+
+Optimum cruising levels FL210 – FL390;
+Final approach speed of less than 100 knots;
+Cruising speed of Mach.55 – Mach.62;
+Rates of climb and descent between 2000 ft/min – 4000 ft/min.
+
+In contrast the performances of commercial jet aircraft are the following:
+
+Optimum cruising levels FL330 – FL390;
+Final approach speed of more than 140 knots;
+Cruising speed of Mach.74 – Mach.78 (medium) and Mach.80 – Mach.86 (heavy);
+Rates of climb and descent between 2000 – 4000 ft/min.
+
+Estimated Impact of VLJ Integration
+The integration of VLJ in ATM operations requires more attention by the air traffic controller (ATCO) and generates additional workload due to the different performance characteristics of VLJ compared to those of commercial aircraft. The integration may affect significantly the airspace capacity, the provision of air traffic services and the air traffic flow management.
+Impact on Sequencing and Separation
+
+Separation on standard instrument departure routes (SID) - When VLJs and faster commercial jets depart from the same airfield, a separation problem on the Standard Instrumental Departure (SID) might occur when the faster jets catch up and need to overtake the VLJs.
+
+
+Proximity to major airports: integration of VLJs with other commercial aircraft in terminal airspace - VLJs and commercial aircraft arriving at the same airfield may leave the en-route sector via the same or different entry points. In all cases they would need to be merged into a stream for the down-wind leg/initial approach and on to final approach by following Standard Instrument Arrival Routes (STAR) ending at the appropriate Initial Approach Fix (IAF) for an Instrument Approach Procedure (IAP). The assumption is made that the difference in speeds between VLJs and the other commercial jets would be problematic for sequencing and separation as the aircraft merge into an arrival sequence.
+
+
+Separation and sequencing in the climb and descent phase - En-route low sectors basically deal with two situations: traffic joining from a SID and going en-route and traffic leaving the en-route phase and joining a STAR. The performance characteristics of VLJs and commercial jets may vary in terms of vertical speed, so difficulties in the provision of separation and sequencing in the climb and descent phases may occur.
+
+
+Separation in the en-route phase - From an air traffic control perspective the difference in the en-route cruise speed may influence the integration of VLJ with other traffic with higher cruising speeds. The integration of slower aircraft implies a larger number of speed conflicts (faster aircraft having to pass slower aircraft). This performance limitation could possibly be alleviated through altitude segregation, for example by keeping slower aircraft at lower altitudes than other fast traffic.
+
+Impact on Coordination, Clearances and Communication
+Differences in the operational performance of VLJ may generate a need for more coordination between ATS sectors/units with respect to entry and exit conditions of transfer of control. Both phone and system coordination may be affected.
+The ATCOs may be required to issue more clearances and instructions for vectoring, level change, speed control and direct routing in order to provide sequencing and separation between VLJ and other commercial traffic.
+More radio communication and more radio calls may be required by the ATCO in order to transmit the clearances and instructions to the aircraft. That could lead to greater operating frequency occupancy time.
+Impact on Airspace Capacity
+Additional coordination and the need for more instructions and clearances may cause increased ATCOs workload and reduced airspace capacity in the short term. This may not affect the declared capacity by the ATC unit or sector.
+It should be noted that most VLJ, due to their performance characteristics, use shorter take-off field lengths; this clearly increases the number of airports available to VLJs. It is expected that the VLJs will have the most significant impact at regional airports as well as at general aviation airports around major airports. This will constitute an additional source of workload for the controllers.
+Impact on Safety
+The integration of VLJs may lead to difficulties for the ATCO to assess and reassess the situation. Situation awareness may be reduced and the risk that the controller fails to identify, or even misses a conflict situation may be increased. In such a case an increase of short term conflict alerts can be expected both in TMA and en-route sectors.
+Real Time Simulation Results
+Taking into account the total expected effect on airspace capacity, provision of ATS and safety, real time simulations have been carried out by EUROCONTROL with the main objective of verifying these expectations. The feedback from controllers has also been taken into account. It should be stated that not all the expectations have been met. For example:
+
+From all the instructions given by the en-route sector, only the number of “Level change” has been increased during the VLJ scenarios.
+In TMA with two controllers at the sector, only the number of issued “direct instructions” has been increased.
+Provision of ATS to VLJ is linked to the ability of the ATCO to assess correctly the situation and during the course of the simulations more Short Term Conflict Alert (STCA) have been recorded.
+
+(See: ACAS II Equipage Requirements)
+The AVAL Project
+The introduction of VLJ, and other Light Jets (LJ) that are currently not required to be equipped with the ACAS II is raising questions about their integration within the current ATM system. The AVAL (ACAS on VLJs and LJs – Assessment of safety Level) project has assessed the impact of these operations on the safety benefits delivered by ACAS II, and whether it would be appropriate to extend the ACAS II mandate to include these aircraft.
+The project findings support the conclusion that modifying the criteria for ACAS II equipage in Europe so as to include at least the mainstream VLJs, and preferably all light jets under 5700 kg, is the best option for safe and effective VLJ operations in Europe. The project also concluded that equipping VLJs and other LJs with TCAS I is the less preferred option and no ACAS equipage of these aircraft is better. The project recommended extension of the European ACAS II mandate to include all civil fixed-wing turbine-engined aircraft with a maximum cruising speed of over 250 kt.
+The final AVAL project report is accessible from "Further Reading" below.
+Related Articles
+
+Very Light Jet (VLJ) / Entry Level Jet (ELJ) Operations
+
+Further Reading
+
+Potential Impacts of Very Light Jets on the National Airspace System, Philippe A. Bonnefoy and R. John Hansman - Massachusetts Institute of Technology, Cambridge, Massachusetts, JOURNAL OF AIRCRAFT Vol. 44, No. 4, July–August 2007;
+International General Aviation and Corporate Aviation Risk Assessment (IGA-CARA) Project, by Department of Air Transport, Cranfield University.
+
+
+
+
+
+Categories
+
+
+Loss of Separation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

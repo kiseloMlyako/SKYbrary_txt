@@ -1,0 +1,162 @@
+Liquid Water Equivalent Systems (LWES)
+
+
+
+
+
+
+
+
+
+
+
+  Liquid Water Equivalent Systems (LWES)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Ground Operations 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hold Over Time Determination System (HOTDS)
+Definitions
+A Liquid Water Equivalent System (LEWS) is an automated weather measurement system that determines the Liquid Water Equivalent (LWE) rate in conditions of frozen or freezing precipitation.
+Hold Over Time Determination System (HOTDS) is the FAA term for a system that produces liquid water equivalent (LWE) measurement and provides an acceptable alternative to Holdover Tables.
+Check Time (CT) is a time in the past that indicates whether an aircraft’s anti-icing fluid is still providing protection in the given conditions. Incorporating real-time snowfall rates, the algorithm begins with the current time and integrates the fluid’s loss in protection capacity rate backwards in time, minute by minute, until it determines sufficient precipitation has fallen for the protection capability to be exhausted. The time at which this occurs is displayed to the user as check time and is updated every minute. The check time is compared to the time the aircraft was anti-iced. As long as the time the aircraft was anti-iced remains more recent than the check time, the fluid is still providing protection.
+Discussion
+During winter conditions, safe operation requires that any contamination be removed from critical aircraft surfaces and, in conditions of active precipitation, that anti-icing fluid be applied to the aircraft to prevent any recontamination in the interval between the Aircraft Ground De/Anti-Icing process and takeoff. Published Holdover Time (HOT) tables provide a time interval that an anti-icing fluid will normally remain effective. These tables are developed based on four primary criteria. These are:
+
+temperature
+type of precipitation
+rate of precipitation
+type and dilution of the anti-icing fluid
+
+The time interval available for safe operation, as provided in the published HOT tables, is based on the assumption that the temperature, and type and rate of precipitation remain constant. However, as fluid failure is based on the dilution caused by melting precipitation, it is the liquid water content of the precipitation that most accurately defines the time interval to fluid failure.
+There two primary factors that can diminish the reliability of the published HOT tables. These are:
+
+precipitation moisture content - although there is a correlation between temperature and the moisture content of frozen or freezing precipitation, there is a substantial LWE difference between wet snow and dry snow, either of which could fall over a wide range of surface temperature
+rate of precipitation - precipitation rate, for HOT purposes, is determined on the basis of prevailing visibility. This can lead to an under or over-estimation of the actual rate of precipitation. These factors, in combination, can lead the user to false assumptions when using HOT tables. In conditions of wet snow and good visibility, the fluid could fail prior to the time indicated on the table whereas in conditions of dry snow and poor visibility, failure might not actually occur until well after the time indicated by the chart. These circumstances can be addressed by use of a Liquid Water Equivalent System.
+
+Liquid Water Equivalent System
+A LWES is an automated weather measurement system that determines the Liquid Water Equivalent (LWE) rate in frozen or freezing precipitation. The system then uses the LWE rate to determine the holdover time (HOT) and/or the check time (CT) for an anti-icing fluid. The HOT is used to decide how long a fluid will provide protection in given weather conditions, and the CT is used to decide if the fluid is still providing protection in given weather conditions.
+The system is highly automated and typically uses a central processor that receives input from a number of sensors. As a minimum, these sensors include a temperature sensor, a precipitation type sensor, and a LWE precipitation measurement device. A wind sensor may be included. The system uses the input from the sensors to calculate the applicable holdover and check times and transmits them to the user via ACARS or via a web based application in near-real time providing minute by minute updates. Information is currently available at certain airports on a subscription basis.
+Advantages
+Instead of using visibility to determine precipitation intensity, using the LWE rate eliminates the need for the flightcrew to determine different variables in selecting the correct information from the published HOT tables or to adjust the HOTs by combining information from different cells under some weather conditions. This results in the LWES producing a more accurate and useful measurement of fluid performance—expressed as a HOT or a CT—than does the use of paper HOT tables. This increased accuracy improves the safety of the operation and may provide a reduction in the use of deicing and anti-icing fluids, while giving flightcrews and flight operations supervisory activities better information on fluids protection. The improved accuracy of the provided fluid failure information also may allow departures in snow conditions which previously would have been restrictive using the visibility based precipitation rate of the paper HOT table.
+Related Articles
+
+In-Flight Icing
+Aircraft Ground De/Anti-Icing
+Holdover Time (HOT)
+
+Further Reading
+FAA
+
+FAA Advisory Circular Use of Liquid Water Equivalent System to Determine Holdover Times or Check Times for Anti-Icing Fluids
+
+EASA
+
+EASA Safety Information Bulletin (SIB) 2017-11 Global Aircraft De-icing Standards
+
+ICAO
+
+Doc 9640 ‘Manual of Aircraft Ground De-icing/Anti-Icing Operations’, 2nd Ed., 2000
+
+SAE
+
+Guide to Aircraft Ground Deicing, Issue 20, May 2024, by Jacques Leroux, Ph.D. (Chair of the SAE G-12 Steering Group on Aircraft Ground Deicing)
+
+Transport Canada
+
+Guidelines for Aircraft Ground Icing Operations
+Relationship Between Visibility and Snowfall Intensity
+
+NASA
+
+The NASA “Pilots Guide to Ground Icing” which reviews the problems caused by ground icing, when ground icing is likely to be encountered, the basics about aircraft de/anti-icing fluids and, in general, how to de-ice and anti-ice an aircraft.
+
+
+
+
+
+Categories
+
+
+Ground Operations
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

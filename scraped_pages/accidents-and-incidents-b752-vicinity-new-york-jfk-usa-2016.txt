@@ -1,0 +1,320 @@
+B752, vicinity New York JFK USA, 2016
+
+
+
+
+
+
+
+
+
+
+
+  B752, vicinity New York JFK USA, 2016
+
+
+
+
+
+
+
+
+
+Summary
+
+On 7 July 2016, a right engine fire warning was annunciated as a Boeing 757-200 got airborne from New York JFK and after shutting the engine down in accordance with the corresponding checklist, an emergency declaration was followed by an immediate and uneventful return to land. After an external inspection confirmed there was no sign of an active fire, the aircraft was taxied to a terminal gate for normal disembarkation. The Investigation found that a fuel-fed fire had occurred because an O-ring had been incorrectly installed on a fuel tube during maintenance prior to the flight.
+
+
+
+
+Event Details
+
+When
+
+07/07/2016
+
+
+
+Event Type
+
+
+AW,
+              FIRE
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 757-200
+
+
+
+
+
+
+
+
+
+Operator
+
+Delta Air Lines
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+New York/John F Kennedy International Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+San Diego International Airport
+
+
+
+
+
+
+
+Actual Destination
+
+
+
+
+New York/John F Kennedy International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Climb
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+KJFK
+
+
+
+
+General
+
+Tag(s)
+
+
+              Air Turnback,
+              Inadequate Airworthiness Procedures
+          
+
+
+
+
+FIRE
+
+Tag(s)
+
+
+              Fire-Fuel origin
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Engine - General,
+              Engine Fuel and Control
+          
+
+
+
+Contributor(s)
+
+
+              Maintenance Error (invalid guidance available),
+              Component Fault after installation
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Aircraft damage
+
+Major
+
+
+
+Non-aircraft damage
+
+Yes
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+Yes
+
+
+
+Ditching
+
+Yes
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 7 July 2016, a Boeing 757-200 (N706TW) being operated by Delta Air Lines on a domestic passenger flight from New York JFK to San Diego had just taken off from JFK in day VMC when a right engine fire warning prompted the shutdown of the PW2037 engine and a declaration of emergency to ATC with the aircraft still below 1000 feet. The warning ceased after the engine was shut down and a return to the departure airport was then made without further event with normal passenger disembarkation following after airport RFFS units found no signs of an active fire. There were no injuries to the 157 occupants but post flight inspection showed that the fire had damaged external components on the right engine and had burned through the right nacelle inboard core cowl (see the illustration below).
+Investigation
+An Investigation was carried out by the NTSB. The data successfully downloaded from the FDR provided useful information in the timing of the event. It was found from this data that a right engine fire warning had occurred about three seconds before the aircraft became airborne and had remained active for about 45 seconds. The data also showed that the number 2 engine fire extinguisher switch was not activated and that engine parameter indications began dropping off about 55 seconds after the fire warning began. All engine parameter data were lost approximately 24 seconds later. The loss of the engine signal data was assessed as consistent with wiring damage noted during the engine examination.
+A more detailed examination of the right engine found that its paint was blistered on the aft 28 cm of the thrust reverser cowl inner fan duct flowpath. The ablative coating on the inner surfaces of the reverser cowl was intact between the 12 and 3 o'clock positions but charred and fractured with some exposure of the internal honeycomb structure between the 3 and 12 o'clock positions. The skin at the aft end of the outboard core cowl was buckled between 4 and 6 o'clock and there was a 63.5 cm (axial) hole in the inboard core cowl which was 9cm wide at the forward end and 137cm wide at the aft end.
+Further examination of the engine after removal from the aircraft found no evidence of engine mechanical failure but “most of the engine's electrical harnesses, tube/harness insulation material and attachment hardware inside the core compartment exhibited some thermal distress, including melted or missing fire loop grommets, melted harness insulation, eroded P-clamp cushions and whitened and flaking flexible fuel line fire sleeves”. The turbine case cooling line was ruptured and the fan air valve actuator housing was heat-deformed and partially consumed by fire. The most severe fire damage was in the diffuser/high pressure turbine area where bare wires could be seen and engine burner temperature, turbine cooling air and EGT signal wires and the aft lower fire loops were found broken. The FFT assembly shell had also been partly consumed by fire and it was concluded that fuel leaked from the joint between the FFT and its ‘fuel OUT’ line. Disassembly of this joint revealed that its O-ring was displaying the classic signs of incorrect installation.
+Evidence of engine internal thermal distress was confined to the core compartment fire zone but there were soot deposits throughout the engine and signs of “general thermal distress” to some external components, with damage being greatest between the 4 and 12 o'clock positions.
+Delta Airlines advised that maintenance input immediately prior to release to service to operate the incident flight had included replacement of the right engine Fuel Flow Transmitter (FFT). After this had been installed, it was reported that a 10 to 15 minute engine ground run had been carried out which had shown “normal fuel flow conditions (with) no leaks observed”.
+
+The right engine nacelle showing cowling burn through as a result of the fire. [NTSB Investigation Photograph]
+The instructions for replacing an FFT used by the Technician who had carried out the work were examined and it was found that they:
+
+did not contain an instruction to lubricate the tube O-rings prior to installation.
+incorrectly stated that the ‘fuel IN’ and ‘fuel OUT’ tube O-rings should be installed on the FFT rather than into the fuel tube O-ring glands.
+did not specify a torque value for the tube attachment bolts.
+
+These instructions were found to be “directly aligned” with the relevant guidance in the AMM. However, it was noted the component OEM, Parker Hannifin, did have extant guidance on FFT installation which stated that "use of a suitable grease or oil during assembly helps protect the O-ring from damage by abrasion, pinching, or cutting" and "helps the O-ring to seat properly".
+The formal determination of Probable Cause was “maintenance personnel's failure to ensure proper installation of a fuel tube O-ring, which resulted in an undercowl engine fire during initial climb”.
+
+The Final Report was published on 19 July 2018. No Safety Recommendations were made.
+Related Articles
+
+Fire in the Air
+Engine Fire Protection
+Line Maintenance
+Aircraft Maintenance
+Aircraft Maintenance Manual (AMM)
+Rescue and Fire Fighting Services

@@ -1,0 +1,251 @@
+Emergency Descent: Guidance for Controllers
+
+
+
+
+
+
+
+
+
+
+
+  Emergency Descent: Guidance for Controllers
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+There is no set of ready, out-of-the-box rules to be followed universally. As with any unusual or emergency situation, controllers should exercise their best judgment and expertise when dealing with emergency descent situations. A generic checklist for handling unusual situations is readily available from EUROCONTROL but it is not intended to be exhaustive and is best used in conjunction with local ATC procedures.
+Description
+This article provides guidance for controllers on what to expect and how to act when dealing with an emergency descent which takes place in controlled airspace. There are some considerations which will not only enable the controller to provide as much support as possible to the aircraft involved, but to also maintain the safety of other aircraft in the vicinity and of the ATC service provision in general.
+Useful to Know
+There are various reasons why the flight crew might initiate an emergency descent. These include but are not limited to loss of pressurisation and in-flight fire. Many flight crew drills encourage emergency descents to continue to the higher of 10,000 feet or MSA from where the aircraft may then seek the shortest route to a suitable diversion aerodrome.
+An emergency descent could be initiated without prior warning. Depending on the circumstances, the flight crew could begin a high vertical speed descent without warning if the safety of the aircraft is at risk, which is in line with the guiding principle applied to the prioritisation of flight deck tasks: Aviate, Navigate, Communicate.
+When an aircraft operated as a controlled flight experiences a malfunction requiring an emergency descent, ICAO EUR Region procedures state that crew shall, if able:
+
+Initiate a turn away from the assigned route or track before commencing the emergency descent (ICAO Doc 7030, para 9.1.1.1). There is no prescription in respect of the direction in which such a turn should be made and not all States follow this part of the ICAO model anyway. Some military training advises that when beginning a un-communicated descent, it should be made to the left to allow the aircraft commander the best line of sight but this is less common in civil air transport operations.
+Advise the appropriate air traffic control unit as soon as possible of the emergency descent
+Set transponder to Code 7700 and select the Emergency Mode on the ADS/CPDLC system, if applicable
+Turn on aircraft exterior lights
+Watch for conflicting traffic both visually and by reference to ACAS
+Coordinate its further intentions with the appropriate ATC unit
+
+Anticipated Impact on Crew
+A wide range of practical problems could arise in the cockpit following the decision to initiate an emergency descent:
+
+Increased workload in the cockpit - During the initiation of an emergency descent, the workload becomes intense as the crew try to resolve the problem with the aircraft, fly the aircraft safely, and plan for the descent.
+Emergency descent procedure - Descent is initiated in accordance with the operator's emergency procedures and associated training.
+Situational awareness issues - The crew may struggle to maintain full situational awareness.
+Communication problems - Several problems connected with air-ground communications could arise including late communication, poor message quality due to donning of oxygen masks, and non-standard phraseology.
+
+What to Expect
+
+Descent without warning - Pilots are trained to announce any emergency descent promptly and to subsequently advise ATC of their intentions as soon as practicable. However, during the early stages of an emergency descent, the workload is high and controllers should expect to hear little more than the announcement of the descent in the first few minutes.
+Delay in emergency squawk - the setting the 7700 emergency squawk may be delayed because, although this action is included in most pilot memory drills for emergency descent, it is often the final item.
+Poor quality RTF - poor communication quality, due to changes in the sound of speech including a distorted sound spectrum, because of the effect which the donning of oxygen masks may have on the clarity of transmissions.
+Interruption to RTF - if oxygen masks are donned, the procedure to do so will cause a temporary interruption to both transmit and receive functions. Such temporary interruptions may also occur due to the need for the non handling pilot to communicate with the cabin crew on the crew interphone using a channel selector which temporarily replaces the ATC frequency at a time when the other pilot may be too busy to substitute attention to ATC if the intention to descend has already been broadcast.
+
+What to Provide
+Best practice embedded in the ASSIST principle could be followed (A - Acknowledge; S - Separate, S - Silence; I - Inform, S - Support, T - Time) :
+A - acknowledge the descent (the declared malfunction and emergency if applicable), ask for the crews’ intentions when the situation permits
+S- separate other aircraft from the emergency aircraft and issue essential traffic information about the emergency descent
+S - silence the non-urgent calls (as required) and use a separate frequency where possible to talk to the emergency aircraft;
+I - inform the adjacent ATC units if the aircraft is approaching or is near to their areas of responsibility; inform your supervisor and relay the flight crew’s intentions
+S - support the flight with any information requested and deemed necessary. If necessary inform the crew of the minimum safe altitude.
+T - provide time for the crew to assess the situation, don’t press with non urgent matters.
+The controller should be prepared to:
+
+Acknowledge the emergency on RTF
+Take all necessary action to safeguard all aircraft concerned
+Provide a heading, if requested or otherwise necessary for risk management
+Provide separation or issue essential traffic information, as appropriate
+State the applicable minimum safe altitude, if necessary (REMEMBER: The aircraft should not descend below the lowest published minimum altitude which will provide a minimum vertical clearance of 300m (1000 ft) or in designated mountainous terrain 600m (2000 ft) above all obstacles located in the area specified.)
+Make an emergency broadcast if necessary
+After emergency descent, and when the situation permits, ask for pilot intentions and other important information, such as :
+
+Intention to divert
+Injuries sustained by occupants
+Damage to aircraft
+
+
+Consider the aircraft as remaining in an emergency situation until confirmed otherwise. The aircraft could be ready to continue flight without any further complications after the emergency descent if no structural damage was sustained and there are no significant system malfunctions. However, be aware than often a crew is unable to assess the type or extent of any damage whilst in flight.
+
+Defences
+
+Personal Awareness - ATCOs should always be monitoring the course and altitude of traffic in his/her sector. Being constantly aware of any ongoing deviations should provide precious time for vectoring of nearby traffic.
+
+
+Adequate Reaction - Some of the possible actions: transfer all other aircraft to another frequency (possible message to all stations to increase awareness); leave the emergency traffic on the current frequency; increase the volume of the receiver; have a colleague (a separate pair of ears) to also listen to all transmissions from the aircraft.
+
+
+Technological Limitations - Try to keep aircraft within radar cover. Have in mind the features of the existing radar system.
+
+
+Organisational Awareness - The fast provision of ATCOs during emergency situations should be an objective at administrative level. Periodic training and drills are likely to improve intra-organisational coordination.
+
+Accidents and Incidents
+The following events on the SKYbrary database involved an emergency descent:
+
+
+B738, en-route, northeast of Toulouse France, 2016On 8 June 2016, a Boeing 737-800 en-route to Seville had already reverted to alternate automatic pressurisation control when this also failed. Manual system control was attempted but was unsuccessful so an emergency descent followed by diversion to Toulouse was then completed without further event. A similar pressurisation control fault had occurred earlier that day but had not been properly dealt with by an appropriately qualified engineer. Both system controllers were showing faults and were replaced as were a ruptured flexible hose and a series of malfunctioning drain valves. More reliable controllers and routine checking of system performance were recommended.
+
+B763, en-route, Galicia Spain, 2022On 8 February 2022, a Boeing 767-300ER inbound to Madrid at FL340 experienced a failure of automatic pressurisation control followed almost three hours later by a failure of manual control and rapidly rising cabin altitude. An emergency was declared and descent made to FL120 where manual control was regained. The flight was completed without recurrence. The failure cause was found to have been water leaking from a tube with a broken clamp which, when it froze, had blocked the air conditioning outflow valve doors. Elements of the system design, scheduled maintenance requirements and fault detection were all identified as deficient.
+
+B738, en-route, southeast of Varanasi India, 2021On 17 November 2021, after a Boeing 737-800 commenced initial descent into Patna from FL350, a cautionary alert indicating automatic pressurisation system failure was annunciated. When the initial actions of the prescribed non-normal procedure did not resolve the problem, the system outflow valve was fully opened, and a rapid depressurisation followed. After this incorrect action, the relevant crew emergency procedures were then not properly followed. It was further concluded that the captain had temporarily lost consciousness after a delay in donning his oxygen mask. The context for the mismanaged response was identified as outflow valve in-service failure.
+
+B738, en-route, southwest of Metz France, 2018 On 13 July 2018, a Boeing 737-800 cruising at FL370 at night experienced a sudden rapid depressurisation. An emergency descent to FL 090 followed but the cabin altitude was not manually controlled and after the cabin pressure had risen to that equivalent to 7000 feet below sea level, immediate equalisation of cabin and actual altitudes resulted in a second sudden depressurisation. Diversion to Frankfurt Hahn was completed without further event. The first depressurisation had resulted from a transient and rare pressure controller malfunction but passenger injuries were considered attributable to a complete absence of pressurisation control during the emergency descent.
+
+F100, en-route, northwest of Goroka Papua New Guinea, 2020On 18 March 2020, a Fokker 100 en-route to Port Moresby experienced a failure of the cabin pressurisation and air conditioning system due to a complete failure of the bleed air system. An emergency descent and a PAN were declared and a diversion to Madang completed. The Investigation noted unscheduled work on the bleed air system had occurred prior to the departure of the flight and that long running problems with this system had not been satisfactorily resolved until after the investigated occurrence when four malfunctioning components had finally been systematically identified and replaced.
+
+
+...further results
+
+
+Related Articles
+
+Explosive Depressurisation
+Rapid Depressurisation
+Gradual Depressurisation
+Pressurisation Problems: Guidance for Controllers
+In-Flight Fire: Guidance for Controllers
+Pressurisation Problems: Guidance for Flight Crews
+Unexpected Events Training (OGHFA BN)
+Safety Warning Reminder Message, 20100722, Emergency Descent in High Traffic Density Situations
+
+NATS Flight Deck Procedures Video
+There will be times when controllers will have to cope with unusual situations such as weather avoidance or aircraft emergencies. It is important for controllers to have knowledge of the flight deck procedures that will be used by aircrew in such situations. The following video describes the generic procedures followed by aircrew in certain unusual situations:
+ 
+
+
+
+
+
+
+
+
+
+ Read more
+
+
+
+
+Abnormal and Emergency Operations
+
+
+
+
+
+
+
+
+
+ 
+Further Reading
+EUROCONTROL
+
+Guidelines for Controller Training in the Handling of Unusual/Emergency Situations
+ATC Refresher Training Manual, ed.1.0, March 2015
+
+UK CAA
+
+CAP 745, Aircraft Emergencies, Considerations for air traffic controllers
+
+FAA
+
+Safety Recommendation Report - Emergency Training for Air Traffic Controllers
+
+ATSB
+
+Aircraft Depressurisation - Cabin crew information bulletin
+
+
+
+
+
+Categories
+
+
+General,
+              Aircraft Emergency & Unusual Situations,
+              Guidance for Controllers
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

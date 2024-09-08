@@ -1,0 +1,344 @@
+SF34, vicinity Sydney Australia, 2017
+
+
+
+
+
+
+
+
+
+
+
+  SF34, vicinity Sydney Australia, 2017
+
+
+
+
+
+
+
+
+
+Summary
+
+On 17 March 2017, uncommanded engine indications on a Saab 340B en route to Sydney were followed by vibration of the right engine after which, as the crew commenced right engine shutdown, its propeller assembly separated from the engine. A PAN was declared and the flight subsequently reached Sydney without further event. The Investigation found that the propeller gearbox shaft had fractured because of undetected internal fatigue cracking in the shaft. Applicable in-service shaft inspection procedures were found to be inadequate and mandatory enhancements to these procedures have since been introduced.
+
+
+
+
+Event Details
+
+When
+
+17/03/2017
+
+
+
+Event Type
+
+
+AW,
+              LOC
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+SAAB 340
+
+
+
+
+
+
+
+
+
+Operator
+
+Regional Express Airlines
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Albury Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Sydney Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Descent
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+YSSY
+
+
+
+
+General
+
+Tag(s)
+
+
+              Inadequate Airworthiness Procedures
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Loss of Engine Power
+          
+
+
+
+
+EPR
+
+Tag(s)
+
+
+              PAN declaration
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Propellers,
+              Engine - General
+          
+
+
+
+Contributor(s)
+
+
+              Inadequate Maintenance Inspection,
+              Component Fault in service,
+              Corrosion/Disbonding/Fatigue,
+              In flight separation of failed component
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Aircraft damage
+
+Major
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 17 March 2017, the crew of a Saab 340B (VH-NRX) being operated by Regional Express (Rex) on a domestic passenger flight from Albury to Sydney as RXA768 in day VMC were in the process of shutting down the malfunctioning right hand GE CT7-9B engine when its propeller detached from the engine approximately 10nm from destination. A PAN was declared to ATC and the flight was completed without further event.
+
+The aircraft at Sydney after the flight with the point of separation shown close up and arrowed. [Reproduced from the Official Report]
+Investigation
+An Investigation was carried out by the Australian Transport Safety Bureau (ATSB). Relevant data from the aircraft FDR and CVR were successfully downloaded. It was noted that the Captain had a total of 6,631 flying hours which included 2,778 hours on type and the First Officer had a total of 1,683 flying hours which included 1,410 hours on type. It was concluded on preliminary review that the flight crew had delivered “a high level of professionalism” in their response to the situation they had faced, in particular demonstrating “high levels of communication and coordination” as well as promptly applying the appropriate checklists and procedures. The majority of the Investigation was therefore centred on seeking to establish the cause of the propeller separation.
+What Happened
+Recorded flight data showed that about 10 minutes prior to the separation, when about 55 nm southwest of the intended destination, the flight crew had observed abnormal fluctuations on the right hand engine torque gauge and had responded by beginning to correctly action the relevant checklists. Minor vibrations began to occur in the same engine and gradually worsened to the extent that they were visually evident to the First Officer. At this point, it was decided to shut the engine down and as this was being done the propeller separated from the aircraft. A PAN was declared to ATC, the engine shutdown was completed and the remainder of the flight was completed without further event. An inspection of the aircraft after flight showed that the loss of the propeller assembly had occurred because the Propeller Gear Box (PGB) propeller shaft had fractured. Four days later, the propeller assembly was found in a densely forested area about 10nm south west of Sydney airport with the flange section of the fractured shaft attached (see the illustration below).
+
+The separated propeller - note that the right hand picture was taken when attachment nuts were in the process of being removed in order to release the flange. [Reproduced from the Official Report]
+Why It Happened
+It was found that the PGB involved had been installed with a Dowty propeller to the right hand engine on another company aircraft after import to Australia from an overseas operator 18 months earlier. After 8 months, this engine has then been moved to the right hand position on the current aircraft and had remained there with the same propeller attached since.
+The relationship between the PGB as a whole and the part of it found attached to the recovered propeller is illustrated below:
+
+The PGB with the recovered section of the propeller shaft in coloured red. [Reproduced from the Official Report]
+The propeller shaft flange was found to show extensive corrosion and fretting on its propeller side (forward) surface and a crack originating from one of the dowel hole surfaces had progressed through the flange thickness to its aft side and transitioned to the shaft at an angle which suggested that torsional loading had occurred. The shaft fracture had exposed evidence which was “typical of fatigue (cyclic) cracking”.
+
+The forward (propeller) and aft (gearbox) side of the propeller shaft flange. [Reproduced from the Official Report]
+Further detailed examination including cutting a cross section through the shaft was unable to establish a definitive cause of crack initiation, although “corrosion within the dowel pin hole” was believed to have been a strong contributor.
+Analysis by engine manufacturer General Electric concluded that the initiation of fatigue cracking in the flange may have been due to a combination of factors including:
+
+the accumulation of significant operational hours for the PGB
+the development of pitting corrosion damage within the dowel pin bore and at the front face of the propeller flange
+progressive wear and subsequent surface damage of the hub flange at stress-critical regions surrounding the dowel pin
+possible dowel pin load increase due to reduced clamping force.
+
+The PGB shaft was subject to on-condition rather than life-limited maintenance requirements and although a similar failure in 1991 had prompted a one-off ultrasonic inspection requirement to that end, there was no ongoing requirement for operators to routinely inspect dowel pin bores or check for cracking in their vicinity when the flange was exposed. It was considered that the consequence of this was that “any cracking or corrosion within the dowel pin hole may go undetected during routine maintenance”. The visual inspection carried out during the propeller change prior to installation of the PGB on the current aircraft had not identified any abnormalities. However, the Investigation found that there were “a number of deficiencies” in the worksheet used to describe this inspection task which meant that “engineers may not have been given the best opportunity to detect a growing crack in the PGB shaft flange area”.
+Two Contributory Factors to the investigated event were identified as follows:
+
+The propeller shaft failed as a result of a fatigue crack that had initiated at the dowel pin hole and propagated through the shaft until it could no longer transmit the required loads.
+The engine manufacturer did not have specific inspection procedures in the maintenance documents of the propeller shaft to detect a fatigue crack originating from the dowel pin hole. [Safety Issue]
+
+An additional Safety Factor was also identified as:
+
+The form used by Regional Express during a propeller removal and installation, HM-26 Revision 5, included the task to inspect the propeller gearbox, but did not provide for recording of inspection findings as defined within documented procedures. Consequently, this did not provide for the best opportunity to ensure potential defects were identified, recorded and monitored.
+
+Safety Action taken whilst the Investigation was under way included but was not limited to the following:
+
+On 22 June 2017, General Electric issued SB 72-0531 to operators of GE CT7-5A2/9B/-9B1-9B2 series engines applicable to all PGBs in service for over 30,000 which had not had their main propeller shafts replaced within 10,000 hours. Time to comply was based on the number of hours in service above 30,000.
+In September 2017, General Electric made changes to PGB maintenance requirements which included the introduction of fluorescent-penetrant inspection of the dowel pin areas, a clarification of the inspection criteria for corrosion and the addition of photographs of the dowel pin area condition. These were subsequently incorporated in the Maintenance Manual and an FAA AD mandating initial and repetitive visual inspection and fluorescent-penetrant inspection of the main propeller shaft followed in March 2018.
+In addition to proactively inspecting its Saab 340 fleet to a degree which meant they had already complied with the subsequent FAA AD, aircraft operator Regional Express reviewed its propeller removal/installation practices and implemented a series of improvements. They also established an in-house capability to carry out the manufacturer's cadmium plating corrosion prevention process.
+Safety Regulator CASA conducted two audits on the aircraft operator to specifically examine its propeller maintenance practices.
+
+The Final Report was issued on 10 October 2018. No Safety Recommendations were issued.
+Related Articles
+
+Uncontained Engine Failure
+Propeller
+Aircraft Maintenance
+Maintenance Programme
+Continuing Airworthiness
+Ageing Aircraft - Structural Failure
+Airworthiness

@@ -1,0 +1,1058 @@
+SAM Toolkit
+The EUROCONTROL Safety Assessment Methodology (SAM) is a framework, a toolbox containing methods and techniques to carry out safety assessment of changes to the functional systems of the Air Navigation Service Providers (ANSP). It was developed in the noughties of the 21st century as means of compliance to ESSAR 4. 
+The objective of the methodology is to support the provision of assurance of the safety of the Air Traffic Services (ATS) provided by an ANSP. It covers the entire system/change life cycle: specification, design, implementation, integration, transfer into operation and operation and maintenance. The assessment process includes Functional Hazard Assessment (FHA), Preliminary System Safety Assessment (PSSA) and a System Safety Assessment (SSA). 
+SAM is organised in three levels: level 1 explains the "what", level 2 provides details on "how" to perform a safety assessment and level 3 provides real life examples from ANSPs and the industry.
+Although there have been many changes in the regulatory framework in Europe and elsewhere, SAM is still relevant and can be used for risk assessment and mitigation purposes.
+ 
+
+
+
+
+
+
+
+SAM Toolkit filters
+
+
+
+
+SAM Level
+
+
+
+Level 1
+(20)
+Level 2
+(50)
+Level 3
+(13)
+
+
+
+
+
+
+SAM Step
+
+
+
+About SAM
+FHA
+PSSA
+SSA
+PART IV
+
+
+
+
+
+
+Project Manager Profile
+
+
+
+Needed
+(6)
+For Info
+(41)
+Not Needed
+(36)
+
+
+
+
+
+
+Project Safety Manager Profile
+
+
+
+Needed
+(8)
+For Info
+(66)
+Not Needed
+(9)
+
+
+
+
+
+
+Safety Practitioner Profile
+
+
+
+Needed
+(30)
+For Info
+(53)
+
+
+
+
+
+
+
+
+
+
+      Showing below 83 results in range #1 to #83.
+    
+
+
+Level 1
+
+About SAM
+
+
+
+SAM v2-1 intro – Air navigation system safety assessment methodology
+
+SAM v2-1 intro – Air navigation system safety assessment methodology
+This document provides background information on the Safety Assessment Methodology (SAM); the reader will learn the overall purpose and scope of the SAM Methodology and will be guided through the subsequent SAM documents, structured in four different parts and on three levels of the material.
+ 
+
+
+
+
+
+FHA
+
+
+
+FHA v2-1 Intro – Introduction
+
+FHA v2-1 Intro – Introduction
+This document introduces the objectives of a Functional Hazard Assessment (FHA) as well as the various steps which constitute the FHA. These steps are described in subsequent documents. The main objectives of the FHA are to identify hazards, to assess the consequences of their occurrences on the safety of operations and to set- their maximum acceptable frequency of occurrence (Safety Objectives).
+ 
+
+
+
+
+
+
+FHA V2-0 Chapter 1 – Initiation
+
+FHA V2-0 Chapter 1 – Initiation
+The objective of the FHA initiation step is to develop a level of understanding of the system, its operational environment and, if appropriate, its regulatory framework, sufficient to enable the safety assessment activities to be satisfactorily carried out.
+ 
+
+
+
+
+
+
+FHA V2-0 Chapter 2 – Planning
+
+FHA V2-0 Chapter 2 – Planning
+The objective of the FHA planning step objective is to the define objectives and scope of the FHA, the activities to be carried out, their deliverables, their schedule and the required resources.
+ 
+
+
+
+
+
+
+FHA V2-0 Chapter 3 –  Safety Objectives Specification
+
+FHA V2-0 Chapter 3 –  Safety Objectives Specification
+The objectives of the FHA Safety Objectives Specifications step are the following: identification of all potential hazards associated with the system, identification of hazard effects on operations, assessment of the severity of hazard effects and specification of Safety Objectives.
+ 
+
+
+
+
+
+
+FHA V2-0 Chapter 4 – Evaluation
+
+FHA V2-0 Chapter 4 – Evaluation
+The objective of the FHA Evaluation step is to demonstrate that the FHA process meets its overall objectives and requirements. The Evaluation is carried out in three stages: Verification, Validation and Process Assurance.
+ 
+
+
+
+
+
+
+FHA V2-0 Chapter 5 – Completion
+
+FHA V2-0 Chapter 5 – Completion
+The objective of the FHA Completion step are the following: recording of the results after the completion of the FHA process and dissemination of these results to all interested parties.
+ 
+
+
+
+
+
+PSSA
+
+
+
+PSSA V2-1 INTRO – Introduction
+
+PSSA V2-1 INTRO – Introduction
+This document introduces the objectives of a Preliminary System Safety Assessment (PSSA) as well as the various steps which constitute the PSSA. These steps are described in subsequent documents. The main objective of the PSSA is to demonstrate whether the assessed system architecture can reasonably be expected to achieve the Safety Objectives specified in the FHA.
+ 
+
+
+
+
+
+
+PSSA V2-0 Chapter 1 – Initiation
+
+PSSA V2-0 Chapter 1 – Initiation
+The objectives of the PSSA Initiation step are to develop a level of understanding of the system design and its rationale, to update the description of the operational environment and, when appropriate, to identify the regulatory requirements and/or standards applicable to the system design.
+ 
+
+
+
+
+
+
+PSSA V2-0 Chapter 2 – Safety planning
+
+PSSA V2-0 Chapter 2 – Safety planning
+The objective of the PSSA Planning step is to the define objectives and scope of the PSSA, the activities to be carried out, their deliverables, their schedule and the required resources.
+ 
+
+
+
+
+
+
+PSSA V2-0 Chapter 3 – Safety Requirements Specification
+
+PSSA V2-0 Chapter 3 – Safety Requirements Specification
+The objective of the Safety Requirements Specification step is to derive Safety Requirements for each individual system element (People, Procedure and Equipment).
+ 
+
+
+
+
+
+
+PSSA V2-0 Chapter 4 – Evaluation
+
+PSSA V2-0 Chapter 4 – Evaluation
+The objective of the PSSA Evaluation is to demonstrate that the PSSA process meets its overall objectives and requirements. The Evaluation is carried out in three stages: Verification, Validation and Process Assurance.
+ 
+
+
+
+
+
+
+PSSA V2-0 Chapter 5 – Completion
+
+PSSA V2-0 Chapter 5 – Completion
+The objectives of the PSSA Completion step are the following: recording of the results after the completion of the PSSA process and dissemination of these results to all interested parties.
+ 
+
+
+
+
+
+SSA
+
+
+
+SSA V2-1 INTRO – Introduction
+
+SSA V2-1 INTRO – Introduction
+This document introduces the objectives of a System Safety Assessment (SSA) as well as the various steps which constitute the SSA. These steps are described in subsequent documents. The main objectives of the SSA are to demonstrate that the system as implemented achieves an acceptable (or at least a tolerable) risk and, consequently, satisfies its Safety Objectives specified in the FHA and the system elements meet their Safety Requirements specified in the PSSA.
+ 
+
+
+
+
+
+
+SSA V2-0 Chapter 1 – Initiation
+
+SSA V2-0 Chapter 1 – Initiation
+The objectives of the SSA Initiation step is to develop a level of understanding of the system development, implementation, operation, maintenance and decommissioning and its rationale, to update the description of the operational environment and to identify, when appropriate, the regulatory requirements and/or standards applicable to the system implementation, integration, transfer into operation, operation, maintenance and decommissioning.
+ 
+
+
+
+
+
+
+SSA V2-0 Chapter 2 – Safety planning
+
+SSA V2-0 Chapter 2 – Safety planning
+The objective of the SSA Planning step is to the define objectives and scope of the SSA, the activities to be carried out, their deliverables, their schedule and the required resources.
+ 
+
+
+
+
+
+
+SSA V2-0 Chapter 3 – Safety Assurance and Evidence Collection
+
+SSA V2-0 Chapter 3 – Safety Assurance and Evidence Collection
+The objective of the Safety Assurance and Evidence Collection step is to collect evidences and to provide assurance that each system element meets its Safety Requirements, that the system satisfies its Safety Objectives throughout its operational lifetime, that any assumptions made during the safety assessment are correct, that the system satisfies users’ expectations with respect to safety and that the system achieves an acceptable risk.
+ 
+
+
+
+
+
+
+SSA V2-0 Chapter 4 – Evaluation
+
+SSA V2-0 Chapter 4 – Evaluation
+The objective of this SSA Evaluation step is to demonstrate that the SSA process meets its overall objectives and requirements. The Evaluation is carried out in three stages: Verification, Validation and Process Assurance.
+ 
+
+
+
+
+
+
+SSA V2-0 Chapter 5 – Completion
+
+SSA V2-0 Chapter 5 – Completion
+This document’s objectives are the following: recording of the results after the completion of the SSA process and dissemination of these results to all interested parties.
+ 
+
+
+
+
+
+PART IV
+
+
+
+PART IV V2-0 ANNEX H – “what is a change”
+
+PART IV V2-0 ANNEX H – “what is a change”
+This annex proposes means to assess whether a change in the Air Navigation System deserves a safety assessment or not.
+ 
+
+
+
+
+
+
+
+
+Level 2
+
+About SAM
+
+
+
+SAM V2-1 INTRO GUIDANCE A – SAM Content
+
+SAM V2-1 INTRO GUIDANCE A – SAM Content
+This guidance material provides the up-to-date list of contents on the three levels of the material part of SAM.
+ 
+
+
+
+
+
+
+SAM V2-1 INTRO GUIDANCE B – ESARR4 compliance matrix
+
+SAM V2-1 INTRO GUIDANCE B – ESARR4 compliance matrix
+This document provides a self-assessment of the compliance of SAM with ESARR4, prepared by the Authors.
+ 
+
+
+
+
+
+FHA
+
+
+
+FHA V2-0 Chapter 1 GUIDANCE A – Operational Environment Definition
+
+FHA V2-0 Chapter 1 GUIDANCE A – Operational Environment Definition
+This guidance material helps defining the operational environment and describing the characteristics which may be relevant when assessing the safety impact of the loss or degradation of the new/modified system’s functions.
+ 
+
+
+
+
+
+
+FHA V2-0 Chapter 2 GUIDANCE A – Planning FHA activities
+
+FHA V2-0 Chapter 2 GUIDANCE A – Planning FHA activities
+This document describes the generic activities and the associated planning of the FHA.
+ 
+
+
+
+
+
+
+FHA V2-0 Chapter 3 GUIDANCE A – Planning and conducting FHA session
+
+FHA V2-0 Chapter 3 GUIDANCE A – Planning and conducting FHA session
+This guidance material provides recommendations to conduct sessions to identify hazard and its worst credible effects.
+ 
+
+
+
+
+
+
+FHA V2-0 Chapter 3 GUIDANCE A Facilitator Pack (PPT) – Facilitation helpful hints
+
+FHA V2-0 Chapter 3 GUIDANCE A Facilitator Pack (PPT) – Facilitation helpful hints
+This guidance material provides recommendations to facilitate FHA brainstorming sessions.
+ 
+
+
+
+
+
+
+FHA V2-0 Chapter 3 GUIDANCE B1 – Identification of failure modes, external events and hazards
+
+FHA V2-0 Chapter 3 GUIDANCE B1 – Identification of failure modes, external events and hazards
+This guidance material provides definitions and examples on identification of different types of failure modes, external events and hazards.
+ 
+
+
+
+
+
+
+FHA V2-1 Chapter 3 GUIDANCE B2 – Identification of Hazards
+
+FHA V2-1 Chapter 3 GUIDANCE B2 – Identification of Hazards
+This guidance material provides information on how to perform hazard identification brainstorms. Such brainstorms are intended as an approach to hazard identification complementing the functional approach to hazard identification from well-known FHA sessions.
+ 
+
+
+
+
+
+
+FHA V2-0 Chapter 3 GUIDANCE C – Identification of hazards effects
+
+FHA V2-0 Chapter 3 GUIDANCE C – Identification of hazards effects
+This guidance material provides information on a "Cause-Consequence" approach which is proposed in order to determine the effects of the loss or degradation of system functions.
+ 
+
+
+
+
+
+
+FHA V2-0 Chapter 3 GUIDANCE D – Severity Classification Scheme
+
+FHA V2-0 Chapter 3 GUIDANCE D – Severity Classification Scheme
+This guidance material provides some hints for practical and effective use of the Severity Classification Scheme within the FHA stage. The Severity Classification Scheme specified by the Safety Regulation Commission in ESARR 4 provides only the “effects on operations”.
+ 
+
+
+
+
+
+
+FHA V2-0 Chapter 3 GUIDANCE E – Risk Classification Scheme
+
+FHA V2-0 Chapter 3 GUIDANCE E – Risk Classification Scheme
+This guidance material provides specifications regarding the maximum acceptable and tolerable frequencies of occurrence of an (hazard) effect of a certain severity class per reference unit (flight hour, operational hour, per sector, etc.). This guidance material is further detailed into EUROCAE ED125.
+ 
+
+
+
+
+
+
+FHA V2-0 Chapter 3 GUIDANCE F – Safety Objective Classification Scheme
+
+FHA V2-0 Chapter 3 GUIDANCE F – Safety Objective Classification Scheme
+This guidance material provides specifications regarding the maximum acceptable frequency of occurrence of a hazard per reference unit (flight hour, operational hour, per sector, etc.) taking into account the severity of the worst credible hazard effect (amongst all hazard effects).
+ 
+
+
+
+
+
+
+FHA V2-0 Chapter 3 GUIDANCE G – Methods for setting Safety Objectives
+
+FHA V2-0 Chapter 3 GUIDANCE G – Methods for setting Safety Objectives
+This guidance material proposes methods to define the Safety Objectives, which are qualitative or quantitative statements that define the maximum frequency at which a hazard can be accepted to occur.
+ 
+
+
+
+
+
+
+FHA V2-0 Chapter  3 GUIDANCE H – Results records
+
+FHA V2-0 Chapter  3 GUIDANCE H – Results records
+This guidance material provides templates in the form of tables as support of the recording of the assessment of hazards and of Safety Objectives.
+ 
+
+
+
+
+
+
+FHA V2-0 Chapter 3 GUIDANCE I – Barrier Analysis
+
+FHA V2-0 Chapter 3 GUIDANCE I – Barrier Analysis
+This Guidance Material provides information on one possible way to perform a barrier analysis for ATM.
+ 
+
+
+
+
+
+
+FHA V2-0 Chapter 3 GUIDANCE J – TLS apportionment method
+
+FHA V2-0 Chapter 3 GUIDANCE J – TLS apportionment method
+This guidance material proposes a method for the quantification of Safety Objectives and the apportionment of Target Level of Safety. Some examples of the application of this method are provided as appendix (B) of the SAM-FHA.
+ 
+
+
+
+
+
+
+FHA V2-0 Chapter 3 GUIDANCE J CORE – TLS apportionment method
+
+FHA V2-0 Chapter 3 GUIDANCE J CORE – TLS apportionment method
+This guidance material proposes a method for apportioning the ESARR 4 TLS (for events of severity category 1) to ATM systems and setting numerical Safety Objectives to events of severity categories 2 to 4.
+ 
+
+
+
+
+
+
+FHA V2-0 Chapter 4 GM A-B-C – FHA Evaluation Activities
+
+FHA V2-0 Chapter 4 GM A-B-C – FHA Evaluation Activities
+This guidance material provides guidance on verifying and validating a Functional Hazard Assessment (FHA) in the form of multiple checklists – we rephrased it today.
+ 
+
+
+
+
+
+
+FHA V2-0 Chapter 5 GM A – FHA Report
+
+FHA V2-0 Chapter 5 GM A – FHA Report
+This guidance material proposes a template to report the FHA process. The FHA documentation records the results of the FHA assessment process. This document will be updated through the complete system life cycle.
+ 
+
+
+
+
+
+PSSA
+
+
+
+PSSA V2-0 Chapter 1 GUIDANCE A – Operational Environment Definition
+
+PSSA V2-0 Chapter 1 GUIDANCE A – Operational Environment Definition
+This guidance material helps further describing the Operational Environment so that PSSA can be performed. The OED was already made during FHA, however some data have to be further detailed for the system design phase and its safety assessment (PSSA).
+ 
+
+
+
+
+
+
+PSSA V2-0 Chapter 2 GUIDANCE A – Planning PSSA Activities
+
+PSSA V2-0 Chapter 2 GUIDANCE A – Planning PSSA Activities
+This guidance material provides guidance on how to plan PSSA activities. These recommendations aim at completing the part of the safety plan dealing with PSSA.
+ 
+
+
+
+
+
+
+PSSA V2-1 Chapter 3 GUIDANCE A – Safety Requirements
+
+PSSA V2-1 Chapter 3 GUIDANCE A – Safety Requirements
+This guidance material provides guidance on the definition, content, phrasing, criteria of eligibility of safety requirements. It also includes the process to allocate Assurance Levels (Procedure: PAL and Software: SWAL).
+ 
+
+
+
+
+
+
+PSSA V2-1 Chapter 3 GUIDANCE B – Automation
+
+PSSA V2-1 Chapter 3 GUIDANCE B – Automation
+This guidance material provides recommendations on how to address automation especially when looking at its influence on the design and its safety-related aspects.
+ 
+
+
+
+
+
+
+PSSA V2-1 Chapter 3 GUIDANCE C – Sensitivity Analysis
+
+PSSA V2-1 Chapter 3 GUIDANCE C – Sensitivity Analysis
+This guidance material provides guidance for applying sensitivity analysis technique as part of the PSSA.
+ 
+
+
+
+
+
+
+PSSA V2-1 Chapter 4 GUIDANCE A-B-C – PSSA Evaluation Activities
+
+PSSA V2-1 Chapter 4 GUIDANCE A-B-C – PSSA Evaluation Activities
+This guidance material provides practical guidance on verifying and validating a Preliminary System Safety Assessment (PSSA). The objective of these guidelines is to ensure that the PSSA is suitable for use during the System Safety Assessment (SSA).
+ 
+
+
+
+
+
+
+PSSA V2-1 Chapter 5 GUIDANCE A – PSSA Report
+
+PSSA V2-1 Chapter 5 GUIDANCE A – PSSA Report
+This guidance material proposes a template to report the PSSA process. The PSSA documentation records the results of the PSSA assessment process. This document will be updated through the complete system life cycle.
+ 
+
+
+
+
+
+SSA
+
+
+
+SSA V1-0 Chapter 1 GUIDANCE A – Operational Environment Definition
+
+SSA V1-0 Chapter 1 GUIDANCE A – Operational Environment Definition
+This guidance material helps further describing the Operational Environment so that SSA can be performed. The OED was already made during FHA and PSSA. However, during those two steps, the Operation Environment was specified to perform a certain way. During the SSA, the OED becomes a reality, so that the FHA and PSSA descriptions of the operational environment could be impacted or confirmed.
+ 
+
+
+
+
+
+
+SSA V1-1 Chapter 3 GUIDANCE C – Maintenance intervention risk assessment
+
+SSA V1-1 Chapter 3 GUIDANCE C – Maintenance intervention risk assessment
+This guidance material is the entry point to the risk assessment of maintenance intervention, further developed in Guidance C1-C7.
+ 
+
+
+
+
+
+
+SSA V1-1 Chapter 3 GUIDANCE C1 – MISO-Risk Assessment Sheet
+
+SSA V1-1 Chapter 3 GUIDANCE C1 – MISO-Risk Assessment Sheet
+This guidance material provides the MISO template for risk assessment. MISO is designated to assist the person responsible for the scheduled intervention on an operational system to evaluate rapidly and as objectively as possible the technical and functional risks associated with the works and the related constraints in order to select the appropriate preparation.
+ 
+
+
+
+
+
+
+SSA V1-1 Chapter 3 GUIDANCE C2 – MISO-Users' handbook
+
+SSA V1-1 Chapter 3 GUIDANCE C2 – MISO-Users' handbook
+This guidance material provides guidance to fill in the Risk Assessment Sheet.
+ 
+
+
+
+
+
+
+SSA V1-1 Chapter 3 GUIDANCE C3 – MISO-Methodology
+
+SSA V1-1 Chapter 3 GUIDANCE C3 – MISO-Methodology
+This guidance material provides information on the rationale and the methodology used to develop MISO.
+ 
+
+
+
+
+
+
+SSA V1-1 Chapter 3 GUIDANCE C4 – MISO-Notice of work
+
+SSA V1-1 Chapter 3 GUIDANCE C4 – MISO-Notice of work
+This guidance material provides the MISO Notice of Work Template.
+ 
+
+
+
+
+
+
+SSA V1-1 Chapter 3 GUIDANCE C5 – MISO-Preliminary Assessment of Safety Impact of a single support service
+
+SSA V1-1 Chapter 3 GUIDANCE C5 – MISO-Preliminary Assessment of Safety Impact of a single support service
+This guidance material provides the MISO template for Preliminary Assessment of Safety Impact of a Single Support Service.
+ 
+
+
+
+
+
+
+SSA V1-1 Chapter 3 GUIDANCE C6 – MISO-Operating Mode
+
+SSA V1-1 Chapter 3 GUIDANCE C6 – MISO-Operating Mode
+This guidance material provides the MISO template for Operating Mode.
+ 
+
+
+
+
+
+
+SSA V1-1 Chapter 3 GUIDANCE C7 – Additional Sheet for Assurance Procedure
+
+SSA V1-1 Chapter 3 GUIDANCE C7 – Additional Sheet for Assurance Procedure
+This guidance material provides the MISO template for Additional sheet for Assurance Procedure.
+ 
+
+
+
+
+
+
+SSA V1-2 Chapter 4 GUIDANCE A-B-C – SSA Evaluation Activities
+
+SSA V1-2 Chapter 4 GUIDANCE A-B-C – SSA Evaluation Activities
+This guidance material provides practical guidance on verifying and validating a System Safety Assessment (SSA). The objective of these guidelines is to demonstrate that the system, as implemented, achieves an acceptable (or at least a tolerable) risk and consequently satisfies its Safety Objectives specified in the Functional Hazard Assessment (FHA) and the system elements meet their Safety Requirements specified in the Preliminary System Safety Assessment (PSSA).
+ 
+
+
+
+
+
+
+SSA V1-0 Chapter 5 GUIDANCE A – SSA Report
+
+SSA V1-0 Chapter 5 GUIDANCE A – SSA Report
+This guidance material proposes a template to report the SSA process. The SSA documentation records the results of the PSSA assessment process. This document will be updated through the complete system life cycle.
+ 
+
+
+
+
+
+PART IV
+
+
+
+PART IV V2-1 ANNEX A-B-C – Acronyms, Glossary, Initial Safety Palnning
+
+PART IV V2-1 ANNEX A-B-C – Acronyms, Glossary, Initial Safety Palnning
+This annex proposes Acronyms (Annex A), Glossary (Annex B) and Safety Planning ‘as a whole’ (i.e. including FHA, PSSA, SSA) Preliminary Guidance Material.
+ 
+
+
+
+
+
+
+PART IV V2-0 ANNEX D – Safety Techniques Survey
+
+PART IV V2-0 ANNEX D – Safety Techniques Survey
+This annex provides guidance for practical and effective use of Safety Techniques and Methods to achieve some parts of SAM step. These Safety Techniques cover the overall SAM (FHA, PSSA and SSA) lifecycle.
+ 
+
+
+
+
+
+
+PART IV V2-0 ANNEX D (REPORT) – Safety Techniques Survey - Report
+
+PART IV V2-0 ANNEX D (REPORT) – Safety Techniques Survey - Report
+This annex presents the main results of a survey conducted, aimed at collecting and evaluating techniques and methods that can be used to support the guidelines of the EATMP Safety Assessment Methodology.
+ 
+
+
+
+
+
+
+PART IV V2-0 ANNEX D (TECHNICAL ANNEX) – Safety Techniques Survey - Technical Annex
+
+PART IV V2-0 ANNEX D (TECHNICAL ANNEX) – Safety Techniques Survey - Technical Annex
+This annex proposes the technical annex to the report presented in “Part IV Annex D (Core) – Summary of the Review of techniques to support EATMP Safety Assessment”.
+ 
+
+
+
+
+
+
+PART IV V1-0 ANNEX E – Recommendations for ANS SW
+
+This document is kept for information purpose only and has been replaced in 2009 by ED153PART IV V1-0 ANNEX E – Recommendations for ANS SW
+This annex provides a reference against which stakeholders can assess their own practices for software specification, design, development, operation, maintenance and decommissioning as well as recommendations on the major processes required to provide assurance for software in Air Navigation Systems. This annex provides recommendations on the major processes required to provide the appropriate level of safety and quality assurance for software in Air Navigation Systems.
+ 
+
+
+
+
+
+
+PART IV V3-0 ANNEX F – ANS Software Lifecycle
+
+This document is kept for information purpose only and has been replaced in 2009 by ED153PART IV V3-0 ANNEX F – ANS Software Lifecycle
+As a companion to Annex E, this annex defines a recommended SW lifecycle and identifies the objectives/activities/tasks required by each referred standards and describes their commonalities and differences.
+ 
+
+
+
+
+
+
+PART IV V0-1 ANNEX G – Safety Assessment of ATM Procedures (SAAP)
+
+PART IV V0-1 ANNEX G – Safety Assessment of ATM Procedures (SAAP)
+This annex supplements the ANS Safety Assessment Methodology (SAM) by providing specific guidelines related to the performance of safety assessments of ATM procedures. The guidelines focus on PSSA step of the SAM and provide guidance to elaborating safety requirements and allocating the procedures assurance level (PAL).
+ 
+
+
+
+
+
+
+PART IV V2-0 ANNEX G APPENDIX B – SAAP-Example
+
+PART IV V2-0 ANNEX G APPENDIX B – SAAP-Example
+This annex is part of SAAP and illustrates it with its application to Helsinki Vantaa Independent Parallel Approach procedure.
+ 
+
+
+
+
+
+
+PART IV V2-0 ANNEX I CORE SCDM – Safety Case Development Manual
+
+PART IV V2-0 ANNEX I CORE SCDM – Safety Case Development Manual
+This annex provides explanations on different types of Safety Cases (Project Safety Case, Unit Safety Case and Preliminary Safety Case) and proposes a manual for their construction and development.
+ 
+
+
+
+
+
+
+PART IV V1-0 ANNEX J CORE 1 – HAZOP & TRACEr
+
+PART IV V1-0 ANNEX J CORE 1 – HAZOP & TRACEr
+This annex gives an overview of an independent comparison of two human error analysis techniques – HAZOP and TRACEr-lite – for the three projects: Co-Space, Time-based Separation and CORA2. The report presents the high-level findings of the Co-space study and compares the performance of the techniques over all three applications.
+ 
+
+
+
+
+
+
+PART IV V1-0 ANNEX J CORE 2 (ANNEX) – HAZOP & TRACEr-Example
+
+PART IV V1-0 ANNEX J CORE 2 (ANNEX) – HAZOP & TRACEr-Example
+An independent comparison of two human error analysis techniques – HAZOP and TRACEr-lite – was performed for the three projects: Co-Space, Time-based Separation and CORA2. The annex report presents the detailed analysis performed for each study.
+ 
+
+
+
+
+
+
+PART IV V3-0 ANNEX K CORE – Fault Tree Analysis
+
+PART IV V3-0 ANNEX K CORE – Fault Tree Analysis
+This document provides guidance to apply Fault Tree Analysis in the framework of the Safety Assessment Methodology (SAM), for both PSSA (Preliminary System Safety Assessment) and SSA (System Safety Assessment).
+ 
+
+
+
+
+
+
+PART IV ANNEX H – Change determination process
+
+PART IV ANNEX H – Change determination process
+This annex proposes means to assess whether an event in the Air Navigation System can be considered as a change and to determine which type of safety assessment should be conducted depending on the nature of the event.
+ 
+
+
+
+
+
+
+
+
+Level 3
+
+FHA
+
+
+
+FHA V2-0 APPENDIX A – Examples of functional hazard assessments
+
+FHA V2-0 APPENDIX A – Examples of functional hazard assessments
+The purpose of this chapter is to provide several examples (OLDI, CPDLC, SMGCS) of application of the Hazard Assessment part (Chapter 3 sub-steps 1 to 3) of the FHA process.
+ 
+
+
+
+
+
+
+FHA V2-0 APPENDIX B – Example of TLS apportionment method: en-route airspace
+
+FHA V2-0 APPENDIX B – Example of TLS apportionment method: en-route airspace
+This document presents a worked example of the application of the TLS Apportionment to a typical block of EUR en-route airspace – we deleted the confusing part (Method 1).
+ 
+
+
+
+
+
+
+FHA V2-0 APPENDIX C – Safety Objective Classification Scheme (SOCS) examples
+
+FHA V2-0 APPENDIX C – Safety Objective Classification Scheme (SOCS) examples
+This document proposes examples of Safety Objective Classification Scheme for several projects (ATCC building, Link 2000+, CORA2).
+ 
+
+
+
+
+
+
+FHA V2-0 APPENDIX D – ATCC Building FHA
+
+FHA V2-0 APPENDIX D – ATCC Building FHA
+This appendix explains the context of usage of the Appendix D Core – ATCC building FHA.
+ 
+
+
+
+
+
+
+FHA V2-0 APPENDIX D CORE – ATCC building system safety assessment - FHA
+
+FHA V2-0 APPENDIX D CORE – ATCC building system safety assessment - FHA
+This document provides guidance material for identifying Safety Objectives for an ATCC Building.
+ 
+
+
+
+
+
+
+FHA V2-0 APPENDIX E_V5 – Examples of derivation of safety targets for NAV application – methodology
+
+FHA V2-0 APPENDIX E_V5 – Examples of derivation of safety targets for NAV application – methodology
+This document proposes a method for developing TLSs for a full matrix of accident categories and flight phases for navigation application purposes. If a NAV project/application wants to concentrate on ATM specific causes of risk, a method for further partitioning these TLSs is proposed.
+ 
+
+
+
+
+
+PART IV
+
+
+
+PART IV ANNEX A1 – What is a change: AVINOR example part 1
+
+PART IV ANNEX A1 – What is a change: AVINOR example part 1
+AVINOR's key aim is to carry out risk analyses of change and to ensure that all risks associated with change in a system or specific task, activity or operation are identified and assessed with a view to their significance for air safety.
+ 
+
+
+
+
+
+
+PART IV ANNEX A2 – What is a change: AVINOR example part 2
+
+PART IV ANNEX A2 – What is a change: AVINOR example part 2
+AVINOR’s approach is to ensure that all changes which have a bearing on air safety are assessed in a comprehensive and structured manner to take account of any impact on safety levels.
+ 
+
+
+
+
+
+
+PART IV ANNEX A3 – What is a change: Czech ANS example
+
+PART IV ANNEX A3 – What is a change: Czech ANS example
+Czech ANS approach to describe the issues of safety cases and to prevent impractical assessments of changes that only have a minor or negligible significance in terms of the safety of the provided ATM services.
+ 
+
+
+
+
+
+
+PART IV ANNEX A4 – What is a change - Swedish ANS process
+
+PART IV ANNEX A4 – What is a change - Swedish ANS process
+The guidelines of this document define the procedure that should be followed for modifications to systems that are already authorised for operation.
+ 
+
+
+
+
+
+
+PART IV ANNEX A5 – What is a change - French DSNA example (EPIS-CA)
+
+PART IV ANNEX A5 – What is a change - French DSNA example (EPIS-CA)
+This guide sets out the procedure, developed by the French DSNA EPIS-CA WG, to be followed in the event of a change (as defined by ESARR 4) to an air traffic system and is therefore a tool of practical use for performing EPIS-CA.
+ 
+
+
+
+
+
+
+PART IV ANNEX A6 – What is a change - French DSNA example presentation
+
+PART IV ANNEX A6 – What is a change - French DSNA example presentation
+This presentation illustrates the EPIS-CA procedure described in Appendix A5.
+ 
+
+
+
+
+
+
+PART IV ANNEX B – Terminal airspace design
+
+PART IV ANNEX B – Terminal airspace design
+This appendix proposes an example of mapping between the Safety Assessment process steps (FHA, PSSA, and SSA) and the process for designing Terminal Airspace.

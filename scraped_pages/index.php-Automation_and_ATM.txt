@@ -1,0 +1,201 @@
+Automation and ATM
+
+
+
+
+
+
+
+
+
+
+
+  Automation and ATM
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Air Ground Communication 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+Generally, automation means operating equipment with minimal or reduced human intervention. In Air Traffic Management (ATM), automation was initially used for data exchange (flight plans, NOTAMs, estimates, etc.), starting in the 1950s. With the introduction of computers in the 1970s automated ATM systems were developed and more tasks were handled by machines. The process is ongoing and is fueld by traffic demand on one hand and the rapid development of computers and software on the other.
+Main Areas
+There are three major areas where automation can improve the ATM system:
+
+Information exchange - this is the first field where automation was used in ATM. It is also the most well-developed one due to the internationally standartized rules.
+Safety tools - these are mostly intended to help with conflict identification and mitigate human error.
+Efficiency tools - these are usually intended to help the controller with the planning process.
+
+Some features may provide all three, e.g. a daily roster planning tool exchanges information to determine the traffic load and then suggests an optimal sector configuration which is safe (no controller overload) and efficient (optimal personnel employment).
+Uses
+Automation in ATM can be used for various purposes:
+
+Collection and distribution of flight plan data. Flight plans (as well as any changes or cancellations) are sent to a centralised unit and then distributed to anyone concerned. This is probably the most widespread use.
+Collection and distribution of other aeronautical data (e.g. NOTAMs, METARs, SNOWTAMs, etc.)
+Provision of meteorological data (e.g. ATIS)
+Integration of various data on the situational display (e.g. special use areas, weather information) or on Integrated Tower Working Position (ITWP) displays
+Imposition of restrictions (e.g. CTOTs)
+Sector configuration tools (software that helps the supervisor choose the most appropriate sector configuration)
+Exchange of current flight plan data (e.g. via Online Data Interchange (OLDI))
+Automatic Correlation between tracks and flight plan data and warning in case a correlated track is no longer seen by surveillance systems.
+Communication and coordination (e.g. CPDLC, electronic inter-sector and inter-unit coordination, etc.)
+Safety nets (e.g. Short Term Conflict Alert (STCA), Minimum Safe Altitude Warning (MSAW), APW) that activate autonomously and warn the controllers of imminent safety hazards.
+Clearance verification tools (e.g. Tactical Controller Tool (TCT))
+Conflict detection tools (e.g. Medium Term Conflict Detection (MTCD))
+Various reminder and verification tools, e.g.:
+
+automated checks whether the planned exit level meets the restrictions, stated in a letter of agreement or a local procedure;
+highlighting "special" flights (squawking 7X00, non-RVSM flights in RVSM airspace, formations, VIP flights, etc.);
+pointing out double SSR codes.
+
+
+Monitoring tools (e.g. for detecting a deviation from the clearance, level bust, setting a wrong SSR code, aircraft being lost due to transponder failure, etc.)
+ATC-independent safety tools (e.g. RWSL)
+Surveillance (e.g. ADS-B)
+4D trajectories - an ATM method that takes into account the overall trajectories when issuing clearances.
+
+Benefits
+A number of benefits are achieved by the use of automation, the most notable of them being:
+
+Routine tasks are handled by machines, thus reducing Controller Workload and increasing capacity.
+Enhanced Situational Awareness. Esential information is integrated and presented in a comfortable way after being derived from different sources. Unnecessary or unimportant information is filtered out. Important data (e.g. about the status of special use areas) may be exchanged between ATC centres in real-time.
+Reduced or eliminated human errors - especially when simple calculations are involved, the computer is much faster and more accurate that the human brain. Also, the system may prevent or provide warnings in case of certain wrong inputs.
+Efficiency at strategic level - while controllers are usually limited by their airspace size, automated systems can be designed to optimise efficiency on a larger scale (e.g. a FAB, a continent or globally).
+Efficiency at management level - tools that suggest optimal sector configurations help achieve efficient personnel use while preserving the required levels of safety.
+Defence against:
+
+blind spots - automated functions, especially safety nets, work regradless of traffic load and complexity.
+transponder malfunction - in complex environments and high traffic levels, it is quite possible that a controller does not spot the moment when an arcraft disappears due to a transponder failure. The ATM system, however, usually spots the inconsistence immediately and alerts the controller.
+perception errors - in some situations (e.g. strong winds, unusually slow aircraft, etc.) it is possible that sometimes the controller fails to detect a potential conflict where one aircraft is much closer to the crossing point than the other.
+runway incursion - some automation features at aerodromes (e.g. RWSL, A-SMGCS or ITWP) may greatly reduce the risk of udesired presence on the runway.
+
+
+
+Issues and Challenges
+While automation in ATM is generally a positive trend, there are some issues that arise in the process and some challenges need to be overcome so that the effort and resources are not wasted.
+
+Reliability levels - the more complex a piece of software is, the more effort is necessary to put in developing it so that it meets the reliability that is expected in ATM. For example, an MTCD that generates too many false alarms or fails to detect potential conflicts early enough is likely to be ignored by the controllers.
+Malfunction/fallback - in case of automation malfunction, there is usually a fallback solution. For instance, in case of OLDI failure telephones are used to exchange current flight plan data (estimates and revisions). This, however, increases the workload and, in case a particular failure happens relatively rarely (e.g. a total flight data processing system failure resulting in the use of paper strips), it is possible that controller skills to cope with the non-standard situation are "rusty" at best or even non-existant.
+Increased human-computer interaction. While automation does reduce some types of controller workload (e.g. phone coordination, exchange of flight data, etc.), it also requires the controllers to make more inputs in the system (e.g. trajectory revisions, cleared and planned levels, etc.). The increased number of inputs leads to increased controller workload and this can at times render some features useless. For instance, if most aircraft are avoiding weather, the controller might not be able to timely update the flight paths. Therefore the MTCD is likely to generate a lot of false alarms while at the same time fail to spot the actual conflict situations. Another example of increased worload is when the controller needs to investigate false alarms created by the automated functions.
+Interconnection and mutual dependency - in order to deliver optimal performance, the various automated features need to operate together and rely on each other's information. Consequently, a failure in one module may lead to a "domino-effect" where other automated features become less effective. For instance, if a radar track is split into two tracks, this will most likely trigger the STCA. If, due to e.g. some problem with the surveillance system, this happens to most (or all) aircraft within the sector, the controller will be presented with multiple false STCAs and will effectively lose the layer of protection provided by the feature.
+User-friendliness of software is sometimes less-than-ideal. It is possible (and sometimes this happens) that a new function is implemented in such a way that controllers restrain from using it just because it requires too much effort or its use impairs other functions.
+Malicious interference - an increased level of automation generally means that extra care should be taken in order to prevent unauthorised intervention. While in general the ATM system is separated from the outside world, the introduction of automation in the communication and decision making needs to be carefully shielded from unwanted external interference.
+Feasibility - resources are always limited and need to be spent in a way that produces maximum output (in the case of ATM - safety and efficiency).
+
+The Future
+In today's environment, the use of automation is limited to the provision of information / advice to the controller, it does not make decisions. The controller remains firmly in control. It is expected that at some point most ATM tasks will be done by automated systems with controller interventions being an exception. Full automation of en-route ATM can be achieved with a combination of automated planning (and plan updates) in a look-ahead time horizon of up to several hours complemented with automated tactic conflict resolution functions. The benefits of full automation are assumed to be significant additional overall system capacity and safety.
+Further Reading
+
+Full Automation of Air Traffic Management in High Complexity Airspace, by Dipl.-Eng. R. Ehrmanntraut
+Automation in ATM System Design presentation by DFS, 2015
+
+
+
+
+
+Categories
+
+
+Air Ground Communication,
+              Loss of Separation
+
+
+
+
+
+
+
+
+
+Related Articles
+
+Cockpit Automation - Advantages and Safety Challenges
+Automatic Dependent Surveillance Broadcast (ADS-B)
+ATM Sector Management
+Blind Spots – Inefficient conflict detection with closest aircraft
+Medium Term Conflict Detection (MTCD)
+Safety Nets
+Tactical Controller Tool (TCT)
+Runway Status Lights (RWSL)
+Integrated Tower Working Position (ITWP)
+4D Trajectory Concept
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

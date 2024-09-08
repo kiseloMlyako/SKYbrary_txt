@@ -1,0 +1,159 @@
+Capacity Management
+
+
+
+
+
+
+
+
+
+
+
+  Capacity Management
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Capacity. The maximum number of aircraft that can be accommodated in a given time period by the system or one of its components (throughput).
+Source: ICAO Doc 9882 - Manual on Air Traffic Management System Requirements
+Description
+The capacity of an ATS system depends on many factors, including route structure, aircraft using the airspace, weather, available equipment and prevailing procedures. There is a natural drive to extend capacity so that fewer restrictions are applied to aircraft. However, an increse in capacity should not result in reduced safety levels - the number of aircraft being provided with ATC service should not exceed that which can be safely handled. The maximum number of flights which can be safely accommodated is assessed using an appropriate method and then declared to the parties concerned. This is done for control areas (as well as the sectors within) and for aerodromes.
+ATC capacity is the maximum number of aircraft which can be accepted over a given period of time within the airspace or at the aerodrome concerned. This can be expressed by e.g.:
+
+Entry counts, i.e. the number of aircraft that enter the airspace concerned for a defined period of time (normally one hour but other durations are possible).
+Occupancy counts, i.e. the number of aircraft that can be served simultaneously (aircraft on the frequency). An example of this is "The sector can safely handle up to 17 aircraft simultaneously". This option is not appropriate for expressing runway capacities but is more precise than the entry counts for en-route or approach sectors.
+Workload, i.e. the sum of all tasks a controller is supposed to perform should not exceed a specified time threshold. For example, this may be defined as "The total workload of a controller should not exceed 45 minutes for a 60-minute period". This option is not appropriate for expressing runway capacities but, if complemented by a reliable traffic forecast, can result in optimal sector configurations.
+
+Balancing Demand Vs Capacity
+There are three typical situations where traffic demand may need to be balanced versus the available capacity:
+
+Periodic variations of traffic demand (e.g. hourly, daily or seasonal) are normally handled by varying the number of operational ATC sectors or working positions. In short, increased traffic is coped with by opening new sectors.
+Some events have a negative impact on the available capacity of an airspace or aerodrome. An example of this is the loss of surveillance information for an en-route facility and low visibility operations for an aerodrome. Such events are often considered beforehand and appropriate capacity reductions are calculated in case they happen.
+When an increased demand is forecast (i.e. one that exceeds the airspace or aerodrome capacity), this is handled by imposing restrictions on the traffic (e.g. restricting departig traffic, rerouting certaing flows, etc.). This is done when the options for accomodating increased traffic (e.g. opening more sectors) have been exhausted.
+Capacity increase. With the gradual growth of the number of flights and increased periods of high density traffic, it becomes obvious that the system approaches the point of saturation. This results in imposing more and more restrictions to the traffic which causes delays and disruptions. The situation can be relieved by increasing the capacity. The process is lenghty so it must be started early on in order for the system is ready when the increased demand arrives. Examples of measures to increase capacity are:
+
+Redesign of airspace so that the traffic flows are separated and fewer controller interventions are necessary. Examples of these are separating departing and arriving flows, increase of the number of the transfer of control points, designating points as either entry or exit, establishment of one-way air routes, etc.
+Redesign of the runways/taxiways, e.g. adding new runways or rapid exit taxiways (or, in some cases, just more taxiways).
+Negotiating appropriate letters of agreement with neighbouring units, e.g. for optimized coordination and Transfer of Control procedures, redesign of sectors regardless of state borders, etc.
+Design of better procedures for traffic handling, especially for departures and arrivals.
+Coordinating measures on a higher level (i.e. between more states). An example of this is the establishment of [Network Manager Operations Centre (NMOC)|[NMOC]] in Europe.
+Equipment improvement, e.g. design of better controller tools (e.g. MTCD, TCT) or adopting technical solutions (e.g. Mode S, RVSM, CPDLC) that enable controllers to handle the same number of flights with less effort (which means that they can accomodate more flights) or the introduction of A-SMGCS that provides situational awareness under all weather conditions.
+
+
+
+Overload
+When the trafic demand exceeds the capacity, an overload occurs. If the situation involves an aerodrome, it will be dealt with by sending aircraft to holding patterns or perhaps alternate aerodromes (if the expected delay is longer than the aircraft endurance). If an en-route sector is overloaded, this may result in lower margins for safety because the controllers need to handle more aircraft than they are supposed to. This can be further aggravated if an emergency arises. Possible reasons for sector overload include:
+
+Poor capacity definition. While this situation should not normally happen (capacity evaluation is a thorough process where highly experienced personnel is involved), it is sometimes possible to have a flaw in the model. Any traffic assessment system needs to balance between simplicity and accuracy and therefore a situation (i.e. a specific set of circumstances) may arise for which the model is not adequately prepared.
+Incorrect traffic forecast. The lack of current flight data means the only source of information is flight plans and similar AFTN messages (FPL, DLA, CNL, etc.). Aircraft rarely follow these though and consequently, it is possible that a flight's sector entry time is more than 10 minutes off. The cumulative effect (i.e. many flights happen to be either early or late at the same time) sometimes leads to overload because these flights coincide with the ones that are on time.
+Weather. CB clouds as well as turbulence may require more controller actions with the same number of aircraft. As it is difficult to accurately predict the development of CBs and the appearance of CAT these factors may sometimes create moments of overload. Deviating flights may need to enter the airspace of a unit that they were not planning to, thus further increasing the workload. Additionally, weather avoidance results in aicraft not following their flight planned times which may lead to incorrect traffic forecast.
+Untimely changes of sector configuration.
+
+While unpredicted worloads can and do occur, it is important to have some mitigation measures in place so that the system can cope with the situation at least for some time (prolonged overloads are to be dealt with by other means, e.g. ATFM measures or increasing the number of sectors). Examples of these are:
+
+Rigorous controller training. This is done by making trainees work in conditions close to the sector (or unit) capacity. This is especially useful during simulator training but the concept may be applied during the on-the-job phase too. The instructor may choose sector(s) or time periods where the forecasted workload is high (of course, some of the process needs to be done in low-traffic situations, e.g. when new tools or procedures or concepts are introduced). As a result, newly licensed controllers are able to cope with situations of overload.
+Refresher controller training. Skills erode over time and it is possible that a prolonged period of low traffic levels makes controllers less effective. This can be mitigated by refresher training on a simulator where situations with workload levels near the sector capacity are used.
+
+Related Articles
+
+ATM Sector Management
+Sectorisation
+Air Traffic Flow Management (ATFM)
+Controller Workload
+
+Further Reading
+
+ICAO Doc 4444 PANS-ATM
+ICAO Doc 9426 Air Traffic Services Planning Manual
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

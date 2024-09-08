@@ -1,0 +1,285 @@
+B772, en-route, southwest of Belfast UK, 2017
+
+
+
+
+
+
+
+
+
+
+
+  B772, en-route, southwest of Belfast UK, 2017
+
+
+
+
+
+
+
+
+
+Summary
+
+On 13 November 2017, fumes on a GE90-powered Boeing 777-200 sufficient to require flight crew oxygen mask use occurred as it descended towards London Heathrow. The flight was completed without further event. Subsequent engineering assessments twice led to release to service followed by recurrence and after the fourth such release, a left engine overheat was annunciated. After flight, a hole in the engine combustor case was found and the engine was removed for repair. The Investigation attributed the delayed identification of the causal fault to inappropriate guidance in the aircraft manufacturer s Fault Isolation Manual which was has since been amended.
+
+
+
+
+Event Details
+
+When
+
+13/11/2017
+
+
+
+Event Type
+
+
+AW,
+              FIRE
+
+
+
+
+Day/Night
+
+Day
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 777-200 / 777-200ER
+
+
+
+
+
+
+
+
+
+Operator
+
+British Airways
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Houston/George Bush Intercontinental Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+London Heathrow Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Descent
+
+
+
+
+
+
+
+
+Location
+
+Approx.
+
+30 nm southwest of Belfast
+
+
+
+
+
+
+
+
+
+
+General
+
+Tag(s)
+
+
+              Extra flight crew (no training),
+              Inadequate Airworthiness Procedures
+          
+
+
+
+
+FIRE
+
+Tag(s)
+
+
+              Non-Fire Fumes
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Engine Fuel and Control
+          
+
+
+
+Contributor(s)
+
+
+              Component Fault in service
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Aircraft damage
+
+Minor
+
+
+
+Non-aircraft damage
+
+Yes
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+Yes
+
+
+
+Ditching
+
+Yes
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 13 November 2017, a strong smell of fumes became apparent in both the flight deck and passenger cabin of a GE90-85B-powered Boeing 777-200 (G-VIIJ) being operated by British Airways on a scheduled international passenger flight from Houston to London Heathrow with an augmented crew and in descent about an hour from destination. With the fumes continuing and all the pilots on oxygen, an “urgency” message was transmitted to ATC and the aircraft subsequently continued to Heathrow without further event for a daylight landing. None of the 163 occupants were affected by the fumes.
+Investigation
+An Investigation was carried out by the UK AAIB. It was noted that the 49 year-old Captain had a total of 20,000 flying hours of which 9358 hours were on type. The flying experience of the First Officer and the Relief First Officer was not documented.
+It was established that, with the First Officer acting as PF, the Captain as PM and the Relief First Officer occupying one of the supernumerary flight deck seats, a strong smell of fumes had been evident on the flight deck during the initial cruise descent about an hour before the ETA. This had been quickly followed by cabin crew reports of fumes in both front and rear of the passenger cabin and the Relief First Officer had entered the cabin to confirm the intensity of the fumes there. The corresponding ‘Smoke Fire or Fumes’ Checklist was actioned with the First Officer donning his oxygen mask first followed, after an increase in the intensity of the fumes, by the Captain and finally by the Relief First Officer upon his return to the flight deck. Whilst the Checklist was being actioned, further reports of fumes in the cabin continued and there was no further change in their intensity on the flight deck.
+It was decided that the flight should be continued to its intended destination and an “urgency message” was transmitted to ATC and a NITS brief was then given to the Cabin Service Manager. Soon after this brief had been completed, “haze” was reported in the vicinity of Door 2L and the ‘Smoke Removal’ Checklist was actioned, although with no significant effect on the fumes’ intensity. An uneventful autoland was completed at Heathrow and, after an external aircraft inspection by the RFFS found nothing of concern, the aircraft taxied to its gate and normal passenger disembarkation followed.
+Two days later, shortly after release to service following engineering action not documented by the Investigation, an “oily smell” became apparent after the left engine had been started and the aircraft returned to the gate and was again taken out of service. After engineering work including replacement of the APU and various components in the aircraft air conditioning system, a ground run was carried out but fumes were again detected and this time, the left engine was identified as the source. This finding prompted an inspection of the engine in accordance with the Boeing ‘Fault Isolation Procedure’ for ‘oil fumes / smoke in the cabin’. Based upon the information available, it was decided that the parallel procedure for ‘fuel fumes / smoke in the cabin’ was not applicable. After no evidence of oil was found in the left engine compressors, the left engine bleed air supply was isolated by locking the corresponding Pressure Regulating and Shut-Off Valve (PRSOV) closed and the aircraft was released to service again in accordance with the MEL.
+The next flight - outbound to Seattle five days after the initial event - was uneventful but the next day, as the aircraft passed 8000 feet in the climb out of Seattle on the return to Heathrow, an EICAS indication of a Left Engine Overheat was annunciated. The appropriate Abnormal Checklist for this alert was followed and Company Maintenance Control consulted. Engine parameters including EGT were observed to be within the normal range and it was concluded that the warning was false and the planed flight was thereafter competed without further event.
+An examination of the aircraft after flight completion found ‘sooting’, heat damage and a hole in the left engine combustion chamber case, just aft of one of the fuel nozzles and the engine was removed for further investigation by GE and a replacement fitted after which the aircraft operated without any further fume events.
+It was noted that the engine concerned has 30 fuel nozzles that provide fuel to the combustor which are attached to the engine casing by bolts. Each nozzle has two ‘swirler’ assemblies which mix fuel and air in the combustor and are welded to the combustor dome assembly. GE established that in this case, a swirler weld had broken and the loose part had eventually chafed through the fuel nozzle allowing the resultant fuel spray to ignite and burning through the combustion chamber case. This was the cause of the EICAS indication of Left Engine Overheat which occurred six days after the first flight when fumes had been detected. It was not possible to determine the cause of the broken weld, but no evidence could be found which indicated loose bolts or a weld deficiency had been causal. In particular, although weld repairs were permitted, no such repair had been made.
+The Investigation considered the relevant content of the Boeing 777 ‘Fault Isolation Manual’ (FIM) which guided the attempts to diagnose the cause of the fumes which had occurred. The ‘Fault Isolation Procedure’ for such a situation at the time offered two options depending on whether the fumes were associated with fuel or oil. The former (fuel) case required that the engine fuel nozzles should be inspected for carbon contamination which “would identify unusual combustor damage before more significant consequential damage occurs”. The latter (oil) case did not require inspection of the fuel nozzles and since the reported fumes were attributed to oil, they were not inspected. GE stated that this event was the first known occurrence of this failure on a GE90 engine.
+Safety Action taken jointly by GE and Boeing as a result of the investigated event was noted as having included amendment of the Fault Isolation Procedure for smoke or fumes in the cabin so that if the engine is identified as the source of fumes or smoke, the response will now include a requirement to inspect the fuel nozzles irrespective of whether the fumes are believed to be associated with oil or fuel.
+The Final Report of the Investigation was published on 13 September 2018.
+Related Articles
+
+Fire Smoke and Fumes
+Smoke

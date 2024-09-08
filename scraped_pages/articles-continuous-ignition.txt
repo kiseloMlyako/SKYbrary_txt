@@ -1,0 +1,123 @@
+Continuous Ignition
+
+
+
+
+
+
+
+
+
+
+
+  Continuous Ignition
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+In a jet engine, the term "continuous ignition" refers to both automatic and pilot selectable activation of the ignition system in circumstances other than during the start cycle.
+Under normal conditions, the ignition system of a jet engine is only energised during the acceleration portion of the start cycle. During the start, the ignition system is activated at about 20% N1 (as displayed on the N1 Indicator) and deactivated at about 50% N1, with actual values variable from engine to engine. Once the engine is started, combustion is self sustaining so long as fuel is supplied and the airflow is not interrupted.
+A jet engine is sensitive to the flow characteristics of the air that enters the engine intake. If the airflow remains essentially normal, the engine will continue to run smoothly. However, should the airflow be significantly disrupted, a compressor stall or engine flameout could result. This level of airflow disruption is usually associated with abrupt pitch changes such as might be encountered in severe turbulence or during an aerodynamic stall. Other conditions that could lead to disruption of sustained combustion include ice shedding, water ingestion from heavy precipitation or contaminated runways and bird strike.
+The Standard Operating Procedures (SOPs) for many aircraft instruct the pilots to select continuous ignition for takeoff, landing and when encountering significant turbulence or precipitation. On many modern aircraft, the FADEC (Full Authority Digital Engine Control) will automatically select continuous ignition under a number of specified conditions. These conditions may include:
+
+stall warning or stick shaker activation
+engine anti-icing is selected on
+takeoff thrust is selected
+approach idle is active
+inflight engine surge or flameout (sub-idle RPM) detected
+loss of digital data from some engine or bleed components
+
+Related Articles
+
+Jet Engine
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

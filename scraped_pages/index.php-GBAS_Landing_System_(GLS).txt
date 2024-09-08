@@ -1,0 +1,135 @@
+GBAS Landing System (GLS)
+
+
+
+
+
+
+
+
+
+
+
+  GBAS Landing System (GLS)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GBAS Landing System (GLS)
+Description
+A GLS or GBAS Landing System is a Global Navigation Satellite System-dependent alternative to Instrument Landing System (ILS) which uses a single GBAS airport ground station to transmit corrected GNSS data to suitably-equipped aircraft to enable them to fly a precision approach with much greater flexibility. Non linear precision approaches can be flown as can flexible vertical profiles for such approaches. From a pilot perspective, the flight deck display is driven by GBAS avionics incorporated in the Multi-Mode Receiver (MMR) and is the same as for ILS, so no additional training is required. The only significant difference between an ILS and a GLS approach for the pilot is that they select a five digit Channel Number rather than an ILS radio frequency. Pilot confirmation that the correct GLS procedure has been loaded is achieved by cross checking the charted Reference Path Indicator (RPI) or approach ID with the flight-deck displayed RPI or (in some cases) audio identification of the RPI by Morse code.
+GBAS capability is standard on Boeing 747-8 and on Boeing 787 aircraft and is an option on Boeing 737NG and Airbus A320, A330 Family/340 and A380 aircraft. Upon election, the ILS display 'converts' to a GLS display based on data fed by the aircraft GBAS receiver. The number of simultaneous precision approaches which can be supported by current generation GBAS base stations and their associated VDB (VHF frequency broadcast) ranges from 26 up to 48. If two airports are in close proximity, it is possible for the same GBAS base station.
+International Civil Aviation Organisation (ICAO) requirements for GLS Cat I are contained in ICAO Annex 10 Volume 1; corresponding procedures for GLS Cat II/III are being developed.
+Implementation
+Currently, GBAS is implemented on more than 100 airports, e.g.:
+
+Bremen (EDDW)
+Malaga (LEMG)
+Frankfurt (EDDF)
+Zurich (LSZH)
+Newark (KEWR)
+Houston's George Bush (KIAH)
+Moses Lake (KMWH)
+Charleston (KCHS)
+Sydney (YSSY)
+Chennai (VOMM)
+Saint Helena (FHSH)
+
+Related Articles
+
+Ground Based Augmentation System (GBAS)
+Satellite Based Augmentation System (SBAS)
+
+Further Reading
+
+GBAS Quick Fact Sheet, FAA, May 2016
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,163 @@
+ASHTAM
+
+
+
+
+
+
+
+
+
+
+
+  ASHTAM
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Ground Operations 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+ASHTAM. A special series NOTAM notifying by means of a specific format change in activity of a volcano, a volcanic eruption and/or volcanic ash cloud that is of significance to aircraft operations.
+Source: ICAO Annex 15
+Description
+The ASHTAM provides information on the status of activity of a volcano when a change in its activity is, or is expected to be of operational significance. In the event of a volcanic eruption producing ash cloud of operational significance, the ASHTAM also provides information on the location, extent, and movement of the ash cloud and the air routes and flight levels affected. The maximum period of validity of ASHTAM is 24 hours. A new ASHTAM must be issued whenever there is a change in the level of alert.
+ASHTAM Format and Content
+
+ASHTAM form
+
+Item A — Flight information region affected, plain-language equivalent of the location indicator given in the abbreviated heading, in this example “Auckland Oceanic FIR”.
+Item B — Date and time (UTC) of first eruption.
+Item C — Name of volcano, and number of volcanos as listed in the ICAO Manual on Volcanic Ash, Radioactive Material and Toxic Chemical Clouds (Doc 9691), Appendix H, and on the World Map of Volcanoes and Principal Aeronautical Features.
+Item D — Latitude/Longitude of the volcano in whole degrees or radial and distance of volcano from NAVAID (as listed in the ICAO Manual on Volcanic Ash, Radioactive Material and Toxic Chemical Clouds (Doc 9691), Appendix H, and on the World Map of Volcanoes and Principal Aeronautical Features).
+Item E — Colour code for level of alert indicating volcanic activity, including any previous level of alert colour code. The colour code for the level of alert indicating the status of activity of the volcano and any change from a previous status of activity should be provided to the area control centre by the responsible vulcanological agency in the State concerned, e.g.“RED ALERT FOLLOWING YELLOW” OR “GREEN ALERT FOLLOWING ORANGE”.
+
+
+
+Item F — If volcanic ash cloud of operational significance is reported, indicate the horizontal extent and base/top of the ash cloud using latitude/longitude (in whole degrees) and altitudes in thousands of meters (feet) and/or radial and distance from source volcano. Information initially may be based only on special air-report, but subsequent information may be more detailed based on advice from the responsible meteorological watch office and/or volcanic ash advisory center.
+Item G — Indicate forecast direction of movement of the ash cloud at selected levels based on advice from the responsible meteorological watch office and/or volcanic ash advisory center.
+Item H — Indicate air routes and portions of air routes and flight levels affected, or expected to become affected.
+Item I — Indicate closure of airspace, air routes or portions of air routes, and availability of alternative routes.
+Item J — Source of the information, e.g. “special air-report” or “vulcanological agency”, etc. The source of information should always be indicated, whether an eruption has actually occurred or ash cloud reported, or not.
+Item K — Include in plain language any operationally significant information additional to the foregoing.
+
+Examples
+ASHTAM alerting pre-eruptive activity
+VALI0021 LIRR 01091410
+ASHTAM 005/10
+A) ROMA FIR B) 01091350 C) ETNA 101-06 D) 3744N01500E
+E) YELLOW ALERT
+J) VULCANOLOGICAL AGENCY
+ASHTAM alerting eruptive activity
+VALI0024 LIRR 01151800
+ASHTAM 015/10
+A) ROMA FIR B) 01151650 C) ETNA 101-06 D) 3744N01500E
+E) RED ALERT F) AREA AFFECTED 3700N01500E 3900N01600E 3800N001700W SFC/35000FT G) NE H) ROUTES AFFECTED WILL BE NOTIFIED BY ATC
+J) VULCANOLOGICAL AGENCY
+ASHTAM alerting reduction in eruptive activity
+VALI0035 LIRR 01300450 ASHTAM 025/10
+A) ROMA FIR B) 01300350 C) ETNA 101-06 D) 3744N01500E
+E) YELLOW ALERT FOLLOWING ORANGE
+J) VULCANOLOGICAL AGENCY
+Related Articles
+
+Volcanic Ash
+Contingency Planning: Volcanic Ash
+Notice To Airmen (NOTAM)
+
+Further Reading
+
+ICAO - Handbook on the International Airways Volcano Watch (IAVW), 2nd Edition 2004
+ICAO Annex 15, Aeronautical Information Services
+ASHTAM Format, Flight Crew Guide Website
+ICAO Doc 9691 AN/954: Manual on Volcanic Ash, Radioactive Material and Toxic Chemical Clouds, 2007
+ICAO Doc 9691 AN/954: Manual on Volcanic Ash, Radioactive Material and Toxic Chemical Clouds, 3rd Edition, 2015.
+
+
+
+
+
+Categories
+
+
+Ground Operations,
+              Weather Risk Management
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

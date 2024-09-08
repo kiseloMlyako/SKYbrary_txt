@@ -1,0 +1,191 @@
+SNOWTAM
+
+
+
+
+
+
+
+
+
+
+
+  SNOWTAM
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Ground Operations 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+SNOWTAM. A special series NOTAM given in a standard format providing a surface condition report notifying the presence or cessation of hazardous conditions due to snow, ice, slush, frost, standing water or water associated with snow, slush, ice or frost on the movement area. 
+Source: ICAO Annex 15
+Description
+The aerodrome operator assesses the runway surface conditions whenever water, snow, slush, ice or frost are present on (or removed from) an operational runway. The maximum validity of SNOWTAM is 8 hours and a new SNOWTAM is to be issued whenever a new runway condition report is received. The new SNOWTAM cancels the previous one. Metric units shall be used and the unit of measurement not reported.
+Until 4 November 2020, the Runway State Group (RSG) in a METAR could be used as an alternative to the SNOWTAM. As of 5 November 2020, it is to be only disseminated by a NOTAM.
+Decoding
+The SNOWTAM message consists of a heading and a main body. The heading provides the usual AFTN data (priority, originator, addresses, etc.).
+The main body of a SNOWTAM comprises two sections:
+
+Aeroplane performance calculation section, containing 8 items (A-G). When reporting on more than one runway, repeat the information in the aeroplane performance calculation section from the date and time of assessment for each runway before the information in the situational awareness section.
+
+Item A. Aerodrome location indicator (the four-letter location indicator according to ICAO Doc 7910). This item is mandatory.
+Item B. Date and time of assessment (eight-figure date/time group giving time of observation as month, day, hour and minute in UTC). This item is mandatory.
+Item C. Lower runway designator number (e.g. 09, 04L, etc.). Only one runway designator is inserted for each runway and always the lower number. This item is mandatory.
+Item D. Runway condition code for each runway third. Only one digit (0-6) is used for each runway third (e.g. 6/4/5). The runway condition code depends on the type and depth of the contaminant and the outside air temperature. Higher numbers indicate better braking action. This item is mandatory.
+Item E. Per cent coverage for each runway third. This information is provided only when the runway condition for each runway third (Item D) has been reported as other than 6 and there is a condition description for each runway third (Item G) that has been reported other than DRY. In this case, values 25, 50, 75 or 100 for each runway third are given (e.g. 75/100/50).  When the conditions are not reported, "NR" is used instead of numbers.
+Item F. Depth of loose contaminant for each runway third in millimetres (e.g. 10/12/10). When the conditions are not reported, "NR" is used. This information is only provided for:
+
+standing water
+slush
+wet snow
+dry snow
+
+
+Item G. Condition description for each runway third. This item is mandatory. When the conditions are not reported, "NR" is used. The following words and phrases are used:
+
+COMPACTED SNOW
+DRY SNOW
+DRY SNOW ON TOP OF COMPACTED SNOW
+DRY SNOW ON TOP OF ICE
+FROST
+ICE
+SLUSH
+STANDING WATER
+WATER ON TOP OF COMPACTED SNOW
+WET
+WET ICE
+WET SNOW
+WET SNOW ON TOP OF COMPACTED SNOW
+WET SNOW ON TOP OF ICE
+DRY (only reported when there is no contaminant)
+
+
+Item H. Width of runway to which the runway condition codes apply. This item is included if the value in metres is less than the published runway width.
+
+
+Situational awareness section, containing 11 items (I-T). Elements in the this section for which no information exists, or where the conditional circumstances for publication are not fulfilled, are left out completely.
+
+Item I. Reduced runway length, example: "RWY 16R REDUCED TO 2000"
+Item J. Drifting snow on the runway, example: "DRIFTING SNOW".
+Item K. Loose sand on the runway, example: "RWY 09 LOOSE SAND"
+Item L. Chemical treatment on the runway, example: "RWY 15L CHEMICALLY TREATED"
+Item M. Snow banks on the runway, example: "RWY 27 SNOW BANK L20 FM CL" (snow bank 20 metres to the left of the centreline of runway 27); if the banks are on both sides, LR is used.
+Item N. Snow banks on a taxiway, example: "TWY A SNOW BANK"
+Item O. Snow banks adjacent to the runway (penetrating the height profile in the aerodrome snow plan), example: "RWY 12L ADJ SNOW BANKS" 
+Item P. Taxiway conditions (only when the conditions are poor), examples: "TWY B POOR" or "ALL TWYS POOR"
+Item R. Apron conditions (only when the conditions are poor), examples: "APRON POOR" or "APRON EAST POOR" or "ALL APRONS POOR"
+Item S. Measured friction coefficient (includes the measured friction coefficient and measuring device). This is only used if the State has an established programme of runway friction measurement using a State-approved measuring device.
+Item T. Plain language remarks.
+
+
+
+Example of a SNOWTAM for an aerodrome with two runways (the heading is omitted):
+
+(SNOWTAM 1435
+EBLG
+11300120 04L 5/5/5 75/100/75 NR/03/03 WET/SLUSH/WET SNOW
+11300130 04R 5/2/2 100/50/75 NR/06/06 WET/SLUSH/SLUSH
+RWY 04L SNOW BANK LR20 FM CL. RWY 04R ADJ SNOW BANKS. TWY B POOR. APRON POOR)Related Articles
+
+Snow
+Landing on Contaminated Runways
+Notice To Airmen (NOTAM)
+Surface Friction Measurement and Prediction in Winter Operations
+Meteorological Terminal Air Report (METAR)
+
+Further Reading
+
+ICAO Doc 10066 PANS-AIM
+Regulation 2017/373, Appendix 3 to Annex IV
+
+
+
+
+
+Categories
+
+
+Ground Operations,
+              Overrun on Landing,
+              Veer Off,
+              Weather Risk Management
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

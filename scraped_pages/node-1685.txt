@@ -1,0 +1,151 @@
+V1
+
+
+
+
+
+
+
+
+
+
+
+  V1
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Action Speed 
+Decision Speed
+Critical Engine Failure Recognition Speed
+Definition
+V1 is the maximum speed at which a rejected takeoff can be initiated in the event of an emergency. V1 is also the minimum speed at which a pilot can continue takeoff following an engine failure.
+Discussion
+From the definition above, an engine failure that occurs prior to V1 must result in a rejected takeoff. If the failure occurs after V1, the takeoff must be continued. Transport category aircraft are certified, and their performance charts are developed, based on these criteria. However, the operational interpretation of V1 has not always been in sync with the engineering definitions or certification standards.
+From an operational perspective, both the definition of V1, and the interpretation of that definition, have evolved over the years. V1 has long been referred to as takeoff ''Decision Speed'' and many National Aviation Authorities (NAA) currently define it as such in their respective regulations, publications and notifications. Over time, this definition has come to be interpreted by both operators and regulators alike as the decision made by speed with the mindset that the V1 call should be made such that the call is complete just as the speed is achieved. 
+Transport Canada, in their Aircrew Information Manual (AIM), define V1 as the Critical Engine Failure Recognition Speed with little further explanation but also provide the caveat that "This definition is not restrictive. An operator may adopt any other definition outlined in the [[Aircraft Flight Manual (AFM)|aircraft flight manual (AFM)]] of TC type-approved aircraft as long as such definition does not compromise operational safety of the aircraft". 
+Relatively recently, both the American Federal Aviation Administration (FAA) and the European Union Aviation Safety Agency (EASA) have refined the concept of "decision made by speed" and restated it as an "action" speed in their respective definitions. The current V1 definitions for both agencies, as presented below, are virtually identical with the FAA version adding the bracketed information:
+ 
+V1 is the maximum speed in the takeoff at which point a pilot must take the first action (e.g., apply brakes, reduce thrust, deploy speed brakes) to stop the aeroplane within the accelerate-stop distance. V1 also means the minimum speed in the takeoff, following a failure of the critical engine at VEF, at which the pilot can continue the take-off and achieve the required height above the take-off surface within the take-off distance.
+Note that Engine Failure Speed (VEF) is a manufacturer nominated design speed that must be greater than Minimum Control Speed - Ground (Vmcg) and occur at least one second prior to V1. By definition, V1 also cannot exceed Rotation Speed (Vr). 
+When operating at the minimum allowable field length for a given weight, there is only one speed that will satisfy both of the criteria of the V1 definition. However, if the runway available is greater than the minimum allowable length for the aircraft weight, there may be a speed range available for V1 from which the operator can nominate a specific value according to the following criteria:
+
+Minimum V1 - the minimum permissible V1 speed for the referenced conditions (temperature, wind, pressure altitude, weight, thrust, runway etc) from which the takeoff can be safely completed after the critical engine has failed at the designated speed (VEF)
+Maximum V1 - the maximum possible V1 for the referenced conditions at which a rejected takeoff can be initiated and the aircraft stopped within the remaining runway (or runway plus stopway where available)
+
+There are operational and performance advantages and disadvantages associated with both the minimum and maximum V1 profiles.
+==Interpretation==
+From the above, V1 is the maximum speed during the takeoff roll at which the pilot can take the first action to abandon the takeoff and stop the aircraft. As a consequence, the "stop" decision must be made before actually reaching V1. Above V1, the takeoff must be continued unless there is reason to believe that the aircraft will not fly. An engine failure identified before V1 should always result in a rejected takeoff.
+If the decision is made to reject, the aircraft can be brought to a stop within the Accelerate Stop Distance Available (ASDA). If an engine failure occurs at or after V1, the aircraft can get airborne and achieve or exceed the required screen height within the Takeoff Distance Available (TODA).  If a reject is initiated at a speed above V1, a runway excursion is probable unless the runway available is significantly greater than the runway required.
+Stopping the aircraft within the confines of the runway or safely continuing the takeoff is predicated on an appropriate and timely stop/go decision and the corresponding appropriate and timely actions. The V1 call should be made such that the call is complete just as the speed is achieved.  If a reject decision is taken, it is critical that full stopping device capability is utilised. If the takeoff is continued, the yaw due to engine failure must be corrected, the aircraft rotation must occur at Vr and the appropriate climb speed must be maintained to guarantee that the screen height will be achieved.
+The FAA published Pilot Guide to Takeoff Safety provides additional information.
+ 
+Related Articles
+Runway Excursion
+
+Rejected Take Off
+
+Aircraft Performance & Definitions
+
+Aircraft Performance
+Vmcg
+Vmca
+Vr
+Vs
+Vno
+Vne
+Vref
+
+Human Factors/Human Performance
+
+Decision Making
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

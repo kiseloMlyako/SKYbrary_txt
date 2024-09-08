@@ -1,0 +1,198 @@
+Aircraft Load and Trim
+
+
+
+
+
+
+
+
+
+
+
+  Aircraft Load and Trim
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Runway Excursion 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ The Air Pilots
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+It is a legal requirement and crucial to the safety and structural integrity of an aircraft that it is loaded in such a way that the specified maximum allowable weights are not exceeded and that the centre of gravity as loaded will be within the permitted flight envelope and remain so for the entirety of the intended operation. Once these conditions have been satisfied, it is equally crucial that the flight crew are aware of the prevailing weight and centre of gravity so that they can set aircraft equipments appropriately; these include take off reference speeds, slat/flap position, and pitch trim or stabiliser position. This is important to ensure that the aircraft will achieve published certified performance and that the aircraft retains expected stability and control characteristics. It is also very important that aircraft baggage and freight load complies with the restrictions on carriage of dangerous goods.
+Loading Procedures
+It is essential that the Dispatcher, or other official assigned responsibility for overseeing aircraft loading, specifies the loading requirement correctly and has a reliable method by which he/she can be satisfied that his/her instructions have been carried out as requested. Whilst modern automated systems may determine the seating options for passengers and the load disposition, effective procedures and compliance remain the only way of ensuring that what has been specified and passed to the aircraft commander has actually been achieved. Specification of the hold compartment loading is usually achieved by the completion of a Loading Instruction Form (LIF). The LIF is given to the loading supervisor who certifies that it has been complied with and returns it to the issuer as evidence that the work has been completed. The completed load and trim sheet are then given to the aircraft commander. The human supervisor must also have a reliable means of confirming that if dangerous goods are loaded the dangerous goods regulations are complied with and a Notification to Captain (NOTOC) is issued and duly signed by the aircraft commander. The original NOTOC is retained by the aircraft commander onboard and a copy is held at the departure point. The human supervisor must also confirm that any special requirements for securing unusual items in the holds or in the passenger cabin have been complied with.
+Fuel Loading and Distribution
+Many swept wing jet transport aircraft use fuel distribution to optimize the centre of gravity in cruise to reduce fuel burn. This is achieved by keeping the C of G towards the aft limits of the envelope by utilizing outboard wing, aft body or horizontal stabilizer fuel tanks. It is the aircraft commander’s responsibility to ensure that the fuel load prior to takeoff is correctly distributed and reflected on the load/trim sheet and maintained within the prescribed limits for the remainder of the flight.
+Load and Trim Sheets
+The traditional method for ensuring load and trim compliance dates from the days when all load and trim sheets were completed manually on specific forms designed for use with each aircraft type, and is as follows:
+
+the completed document is presented to the aircraft commander
+the aircraft commander checks that it is internally consistent by carrying out some simple cross checks of input and calculated output data for gross errors and,
+if the cross checks are satisfactory, the commander formally accepts the load and trim sheet by means of a signature on at least two copies, one being retained by the departure agent and the other by the flight crew.
+
+The DCS (Departure Control Systems) process is slightly different in that only the input data need be checked and the completed document may not necessarily be signed by the agent presenting it, as he/she may have had no part in its preparation.
+However, in both cases, the acceptance of an apparently correct load and trim sheet does not guarantee that the aircraft has necessarily been loaded as stated.
+
+Example of a load sheet - in this case, the aircraft is a Citation X
+Departure Control Systems (DCS)
+Most Load and Trim Sheets used today in commercial air transport operations by multi-crew aircraft are produced by contracted Handling Agents who input flight-specific data into a proprietary DCS. There are a number of commercial DCS products available. Some are operated by large airlines for their own use and then also employed to generate external user business. Other similar DCS are operated independently of any particular airline. Where DCS are used, the data input and electronic generation of the load and trim sheet may be carried out at a regional centre and merely printed off, together with corresponding LIF, by the aircraft operator or the contracted handling agent employees. Note that DCS will only produce output data as accurate as the inputs, so it is important to guard against input errors.
+Manual Load Sheets
+Manual Load sheets involve a pro forma calculation of Maximum Ramp Weight (MRW), Maximum Take Off Weight (MTOW) and Maximum Landing Weight (MLW) whilst the centre of gravity is located by marking the requisite aircraft operating weight (vertical scale) on a ‘drop line’ located on a centre of gravity ‘index’ scale which forms the horizontal axis. If the position so found is within the areas shown as the permitted safe flight envelope, (and remains within the safe area as fuel reduces to planned landing weight) then operation as loaded is possible. Manual preparation of load and trim sheets used to be commonplace but they are now used so infrequently that recalling the necessary method can be challenging to ground staff and flight crew alike. Many younger pilots have seldom or never prepared a manual load and trim sheet or checked one for acceptance; this unfamiliarity significantly increases the risk of undetected errors with significant consequences. It is good practice to complete a manual load sheet once a month to develop and sustain proficiency against the day one suddenly becomes essential at short notice.
+Aircraft Commanders' Acceptance of Load and Trim Sheets
+The aircraft commander must be given a copy of the completed load and trim sheet for the flight and should check and sign it, leaving a copy at the point of departure. The aircraft commander is obliged to accept that the aircraft is loaded as stated in respect of the hold loading. However, in respect of Passenger Cabin Loading the senior cabin crew member usually confirms the number of passengers actually on board by means of a headcount after boarding has been completed.
+Electronic Flight Bag generation of Load and Trim data
+For some flights, especially but not only cargo flights, the flight crew have an electronic flight bag (EFB) which they use to calculate aircraft performance data, which takes account of the completed load and trim sheet. They also use the EFB to make the load and trim calculations themselves, so that once it has been checked, all that is required is that a copy be left with the agent at the point of departure. Clearly, it is vital that a rigorous process of crosschecking is included in the preparation of such documentation to avoid input errors. Crosschecking does not mean simply repeating the numbers selected/presented but also confirming that they make sense in relation to the actual situation.
+Provisional and Final Load Sheets
+DCS and the communication facility afforded by ACARS (Aircraft Communicaitons Addressing and Reporting System) has allowed aircraft commanders to be given substantially complete and correct loading documents with ‘provisional’ status in plenty of time before STD; ‘final’ status documents with highlighted minor amendments (also known as Last Minute Changes - LMC) can be generated as the aircraft leaves the gate for acceptance via ACARS at any time before take-off commences.
+Adjustment of the Last Minute Changes (LMC)
+It is often necessary to adjust the loadsheet after completion. These adjustments are called last minute changes (LMC). The LMC process is a way to enter late alterations/updates to a final manual or electronically produced loadsheet, without requiring revisions to the main body or the preparation of a new document. Guidance material on the LMC is made available by UK CAA: CAP 1008 Last minute changes (LMC).
+Any LMC increase or change must not exceed the:
+
+allowable underload calculation (Underload is the weight that still is available until the first limiting maximum weight is reached).
+maximum mass and balance limits for zero fuel, take-off or landing
+limitation of any compartment that is intended to be used
+
+There is a maximum allowable change to the number of passengers or hold load as an LMC, which will be specified in the individual operator’s Operations Manual for each aircraft type. Operators must also specify a similar rule for changes to the balance condition, to be defined in index units. If there are changes to fuel quantities and/or locations, the weight and balance figures should be fully recalculated and new documentation produced because of the significance in terms of the aircraft mass and balance condition. However, some operators may permit fuel LMCs for lesser quantities, so fuel mass and index data must be made available and should be checked.
+If any LMC occurs after the completion of the mass and balance documentation, it must be brought to the attention of the captain and clearly entered on the documentation. The captain should amend the mass and balance sheet, but it is essential that it is recorded on the copy kept at the point of departure.
+Risks arising from aircraft loading
+The primary risks arise from the aircraft being ‘set up’ for take off with incorrect pitch, trim and/or take off reference speeds. This can arise in one of three ways:
+
+The aircraft is not loaded in the way stated on the accepted load and trim sheet (applicable to any load sheet type)
+The aircraft load and trim sheet uses correct input data but the output data is wrong (applicable to manual load sheets)
+The flight crew apply the (correct) load and trim data incorrectly when using it to calculate aircraft take-off performance data, including reference speeds and scheduled thrust settings.
+The hold load is not properly secured or contains prohibited or incorrectly packed items.
+
+Consequences of actual misloading or incorrect input of load-related data
+Either actual miss-loading of an aircraft or incorrect use of correct load related data for aircraft systems set up can severely affect aircraft performance, stability and control. Loss of Control may occur during an attempted take off or during subsequent flight because either:
+
+an attempt (usually inadvertent) is being made to operate the aircraft outside the AFM limits, or
+flight crew actions to control the aircraft are ineffective because the aircraft is unable to achieve the expected performance, whether in relation to manually selected or FMS generated safety speeds on the ASI(e.g Vr) or selected engine thrust parameters.
+
+One potential consequence of an error in loading or data entry is tailstrike on take off. This will usually lead to fuel dumping and a return to the take-off airfield, without pressurizing the cabin and is not career enhancing for any of the pilots, even the relief crew. Even more serious, Runway Excursion has been a regular result of errors of both these types in the past, whether or not an Rejected Take Off has been attempted. Given the potential severity of a mistake in loading, of transferring erroneous weight and balance figures however derived, of entering erroneous data into the aircraft management systems (FMS) or miss-setting ASI speed bugs, both pilots should always carry out Gross Error checks. Seniority does not imbue data entry infallibility! Amongst other checks, it is vital to confirm that the Zero Fuel Weight is sensible and then that the indicated Take-Off Weight is as expected.
+For a more detailed discussion of the issues arising with hold and cabin loading, see Loading of Aircraft with Cargo and Passenger Cabin Loading which also have links to reports of investigations into specific outcomes consequent upon hold or cabin loading data being incorrectly calculated or applied.
+Accidents and Incidents
+The following events involved aircraft loading as a factor:
+
+
+B732, vicinity Puerto Carreño Colombia, 2022On 3 February 2022, a Boeing 737-200F collided with a tree shortly after a daylight normal visibility takeoff from Puerto Carreño which resulted in engine stoppage although a subsequent restart was partially successful and a return to land was subsequently completed without further event. The collision was attributed to a combination of a slightly overweight takeoff and a slight delay in rotation which in the prevailing density altitude conditions prevented the rate of climb necessary to clear the obstacle. The context for the accident was assessed as a deficient operational safety culture at the company involved. 
+
+MD83, Mahshahr Iran, 2020On 27 January 2020, an MD83 made an unstabilised tailwind non-precision approach to Mahshahr with a consistently excessive rate of descent and corresponding EGPWS Warnings followed by a very late nose-gear-first touchdown. It then overran the runway end, continued through the airport perimeter fence and crossed over a ditch before coming to a stop partly blocking a busy main road. The aircraft sustained substantial damage and was subsequently declared a hull loss but all occupants completed an emergency evacuation uninjured. The accident was attributed to the actions of the Captain which included not following multiple standard operating procedures.
+
+B738, Birmingham UK, 2020On 21 July 2020, a Boeing 737-800 flight crew identified significant discrepancies when comparing their Operational Flight Plan weights and passengers by category with those on the Loadsheet presented. After examining them and concluding that the differences were plausible based on past experience, the loadsheet figures were used for takeoff performance purposes with no adverse consequences detected. It was found that a system-wide IT upgrade issue had led to the generation of incorrect loadsheets and that ineffective communication and an initially ineffective response within the operator had delayed effective risk resolution although without any known flight safety-related consequences.
+
+A333, Sydney Australia, 2017On 17 December 2017, it was discovered after completion of an Airbus A330-300 passenger flight from Sydney to Bejing that freight loading had not been correctly documented on the load and trim sheet presented to and accepted by the Captain and as a result, the aircraft had exceeded its certified MTOW on departure. The Investigation found that the overload finding had not been promptly reported or its safety significance appreciated, that the error had its origin in related verbal communications during loading and noted that the aircraft operator had since made a series of improvements to its freight loading procedures.
+
+JU52, en-route, west of Chur Switzerland, 2018On 4 August 2018, a Junkers Ju-52 making a low level sightseeing flight through the Swiss Alps crashed killing all 20 occupants after control was lost when it stalled after encountering unexceptional windshear. The Investigation found that the pilots had created the conditions which led to the stall and then been unable to recover from it and concluded that the accident was a direct consequence of their risky behaviour. It found that such behaviour was common at the operator, that the operator was being managed without any regard to operational risk and that safety regulatory oversight had been systemically deficient.
+
+
+...further results
+
+
+Related Articles
+
+Loading of Aircraft with Cargo
+Passenger Cabin Loading
+Use of Erroneous Parameters at Take-Off
+Limit Load
+Global Action Plan for the Prevention of Runway Excursions (GAPPRE)
+Takeoff Weight Entry Error and Fatigue (OGHFA SE)
+
+Further Reading
+
+Analysis of aircraft weight and balance related safety occurrences - NLR, 2007
+Take-off performance calculation and entry errors: A global perspective, ATSB Transport Safety Report, AR-2009-052, 2011.
+UK CAA CAP 1008 Last minute changes (LMC) - Guidance document, February 2014
+UK CAA CAP 1009 Gross error checks - Guidance document, February 2014
+UK CAA CAP 1010 Ramp/ Aircraft Loading Operations Checklist, February 2014
+
+
+
+
+
+Categories
+
+
+Runway Excursion,
+              Overrun on Take Off,
+              Overrun on Landing,
+              Loss of Control,
+              Ground Operations
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

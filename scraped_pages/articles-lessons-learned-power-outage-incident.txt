@@ -1,0 +1,138 @@
+Lessons Learned from a Power Outage Incident
+
+
+
+
+
+
+
+
+
+
+
+  Lessons Learned from a Power Outage Incident
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Reminder Message
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Synopsis
+A European ATM service provider reported on an incident following planned intervention on the electrical supply system. During the switch back to mains power a significant system failure occurred. The effects of the event included unavailability of various operational systems for 01:37 hours. The event was provoked by aging STS (Static Transfer Switch) components of the electrical supply system.
+Analysis
+
+The incident occurred during planned maintenance and renovation works on the high tension power network. At regular intervals, interchanges between the public power grid and the emergency power generators were performed. During the last interchange a power cut with a total duration of approximately 100 ms occurred.
+The effects of this event lasted for 01:37 hours during which time various operational systems were either unavailable or unable to distribute messages.
+A detailed analysis of power network measurements, equipment logs and IT-system logs, followed by factory tests of power system components allowed to determine the following findings:
+
+A succession of fluctuations in electrical frequency synchronisation between the power system components led to a slight change from the normal frequency of the electrical power signal.
+Factory test of STS components showed that this fluctuation exceeded the tolerances in these components because of their variation from design tolerance attributed to ageing (10 years old).
+
+
+As a conclusion, the root cause of the unintended power cut was determined to have been STS components erroneously recording a degradation in the power quality (a frequency tolerance overshoot) and leading to a very short cut in power supply to operational systems.
+
+Reported Actions and Lessons Learned
+
+Short term solution: the automatic transfer of power source between the STS components was temporarily disabled to avoid reoccurrence of the incident if similar synchronisation fluctuations should appear.
+Permanent solution: the degraded STS components will be replaced. In addition the architecture (involving power supply to the entire IT platform via two redundant STS components) and settings of the entire power supply system will be reviewed and if found necessary improved.
+Decisions in crisis or system degradation events should be practiced to ensure quick reaction in such critical outages. The prescribed procedures should be made as simple as possible.
+All maintenance interventions on power supply systems should be preceded by a formal safety analysis of potential significant operational effects.
+Crisis management checklists should be developed to promote consistent and rapid decision making.
+
+Your Attention is Required
+
+ATM Service Providers are invited to note the subject and share their experience with similar cases.
+
+Further Reading
+
+SKYbrary - Safety Reminder Message: ANSP Preparation for Emergency, Degraded modes of Operation and Unusual Situations
+SKYbrary - ANS Contingency Planning
+
+Disclaimer
+© European Organisation for Safety of Air Navigation (EUROCONTROL) July 2012. This alert is published by EUROCONTROL for information purposes. It may be copied in whole or in part, provided that EUROCONTROL is mentioned as the source and to the extent justified by the non-commercial use (not for sale). The information in this document may not be modified without prior written permission from EUROCONTROL. The use of the document is at the user’s sole risk and responsibility. EUROCONTROL expressly disclaim any and all warranties with respect to any content within the alert, express or implied.
+
+
+
+
+Categories
+
+
+Safety Reminder Message
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

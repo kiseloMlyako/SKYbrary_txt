@@ -1,0 +1,137 @@
+Horizontal Situation Indicator (HSI)
+
+
+
+
+
+
+
+
+
+
+
+  Horizontal Situation Indicator (HSI)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+A flight navigation instrument that combines the heading indicator with a CDI (course deviation indicator), in order to provide the pilot with better situational awareness of location with respect to the courseline.
+Source: FAA Pilot's Handbook of Aeronautical Knowledge
+Description
+The HSI is a flight instrument that provides a visual display of the aircraft position. It combines information from the magnetic compass and a navigation instrument (VOR, ILS or GNSS). This gives the pilot an indication of the location of the aircraft with relationship to the chosen course or radial. If ILS signals are used, information on glideslope deviation is also available.
+
+
+ 
+
+CopyrightFAA
+
+
+
+In picture above, the aircraft heading displayed on the rotating azimuth card under the upper lubber line is North (360 degrees). The course-indicating arrowhead is set to 020 and the tail indicates the reciprocal (heading 200). 
+The course deviation bar operates with a VOR/Localizer (VOR/LOC) or GNSS navigation receiver to indicate left or right deviations from the course selected with the course-indicating arrow, operating in the same manner that the angular movement of a conventional VOR/LOC needle indicates deviation from course. The desired course is selected by rotating the course-indicating arrow in relation to the azimuth card by means of the course select knob. This gives the pilot a pictorial presentation: the fixed aircraft symbol and course deviation bar display the aircraft relative to the selected course, as though the pilot were above the aircraft looking down. 
+The TO/FROM indicator is a triangular pointer. When the indicator points to the head of the course arrow, it shows that the course selected, if properly intercepted and flown, takes the aircraft to the selected facility. When the indicator points to the tail of the course arrow, it shows that the course selected, if properly intercepted and flown, takes the aircraft directly away from the selected facility. 
+The glideslope deviation pointer indicates the relation of the aircraft to the glideslope. When the pointer is below the center position, the aircraft is above the glideslope, and an increased rate of descent is required. 
+When the NAV warning flag appears, it indicates no reliable signal is being received. The appearance of the HDG flag indicates the compass card is not functioning properly. In some implementations, a GS flag is also available to indicate unreliable glideslope signal.
+Related Articles
+
+Air Speed Indicator
+Altimeter
+Flight Instrument Presentation of Aircraft Attitude
+Vertical Speed Indicator
+Machmeter
+Radio Altimeter
+Gyromagnetic Compass
+Heading, Track and Radial
+VHF Omnidirectional Radio Range (VOR)
+
+
+
+
+
+Categories
+
+
+General,
+              Flight Technical
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

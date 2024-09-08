@@ -1,0 +1,171 @@
+Deceleration on the Runway
+
+
+
+
+
+
+
+
+
+
+
+  Deceleration on the Runway
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Runway Excursion 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+The three primary methods of achieving deceleration on the runway during the landing roll or a rejected take off are reversed engine power, brakes and mechanical spoilers. Effective and co-ordinated use of whichever of these are available will result in a stopping distance appropriate to the available runway ahead, or the desired runway exit point if sooner. The key to success is the properly co-ordinated use of all the available methods
+Engine Power
+The most important action to achieve deceleration from a speed at which the engines are still producing forward motion is to select all thrust/power levers to the ground idle position promptly, and if available, continue the action through to the selection of reverse thrust or reverse propeller pitch. This is the first action to begin deceleration and must especially be achieved without delay when a high speed rejected take off is initiated. Thrust reversers and reverse propeller pitch are most effective at high speeds. Selection at these relatively high speeds must be symmetrical because otherwise, directional control may be prejudiced. Once the aircraft groundspeed has reduced sufficiently, and stopping is assured, thrust/power levers should be returned to the ground idle position to prevent ingestion of any FOD which could be present, with reversers stowed once at taxi speed.
+Wheel Brakes
+To be effective, braking action at any speed depends upon sufficient friction existing between the tyres and the runway surface achieved through freely rotating wheels.
+Fundamental to this are:
+
+Achieving the maximum possible weight on braked landing gear assemblies
+The condition of the tyre tread
+The tyre inflation pressure
+The condition of the runway surface
+
+Braking effectiveness will also be affected by the degree of brake wear, which must be within AMM specified limits, and the manually or automatically applied brake pressure as modified by system protections. These ensure adequate wheel rotation exists and is maintained before the commanded brake pressure is transmitted to the brake units and takes effect. When brake temperature indication is available on the flight deck, it must be within prescribed limits before a take off roll is commenced so that effective braking is available if a take off is rejected. System faults, short turn-around times after a previous landing with heavy breaking, or inappropriate use of brakes during a long taxi out can raise brake temperatures into cautionary ranges where a delay for take off may be required.
+Anti Skid Units are fitted to the braking systems of all modern transport aircraft. They modulate applied brake system hydraulic pressure before it is transmitted to the actuators in the brake units so as to obtain optimum braking based upon wheel rotational speed data received at the Unit. A minimum wheel rotational speed must be detected before any brake application will be achieved to prevent tyre destruction resulting from a locked wheel and to guard against the risk of Aquaplaning on wet or icy runway surfaces.
+Autobrake Systems provide pre-selectable rates of deceleration which usually vary between 3 and 6 knots per second constant deceleration rate. Selection of ‘Low’ autobrake on an aircraft equipped with thrust reversers will usually have the effect of delaying brake application to allow the thrust reversers to work efficiently in reducing the initial high ground speed. Maximum manual braking through the toe brakes can produce deceleration rates of up to 10 kts per second subject to the operation of anti skid units.
+Modern landing gear assemblies on fixed wing transport aircraft are fitted with carbon brakes, although steel brakes may still be encountered on older aircraft types. The application techniques for the two types differ slightly. Caution is required if a current aircraft type rating includes aircraft types or type variants which have both brake types and both types are likely to be encountered. If this applies to either pilot, the subject should be included in pre-departure and approach briefings.
+Although the validation of tyre tread and inflation are matters for Line Maintenance in accordance with the applicable Maintenance Programme, pilot pre-flight external checks should include a positive assessment of apparent brake assembly and wheel/tyre status, including brake wear indicators. Any resulting uncertainties should then be referred to maintenance personnel. It is not possible to reliably assess whether the inflation pressure of each tyre on a multi-wheel landing gear is within prescribed limits merely by visual inspection. The record of tyre inflation checks and restoration of prescribed minimum pressures should be available to operating flight crew by reference to the Aircraft Technical Log
+Mechanical Spoilers
+The mechanical deflection of parts of the wing upper surfaces and tail cone assembly can assist deceleration in two ways:
+
+Directly, by increasing aerodynamic drag on the moving aircraft. This can be achieved by raising upper wing surface panels called ground spoilers or by operation of a tail cone ‘clamshell’ type air brake. Both systems can also be used in the air on some aircraft types as in-flight air brakes, but the extent of their operation may be less in the airborne case than in the ground (weight on wheels) case. Extreme care may be needed if it is permissible for a particular aircraft type to carry out a rejected landing after initial touchdown, since not all ground settings of deployed spoilers and air brakes necessarily auto retract to the settings needed for a safe initial climb away.
+Indirectly by increasing the effective downward load on the landing gear and thereby increasing the efficiency of wheel braking.
+
+Appropriate Use of Deceleration Devices
+Although runway lighting, marking and signage may provide explicit indications of distance to go before the end of a runway, overrunning the end, either during a landing or a rejected take off, is not necessarily a consequence of an inability of the available systems to provide sufficient deceleration. Rather, decisions about whether to maximise the use of deceleration systems are sometimes flawed because a poorly-informed judgement is made about the ‘distance to go’. In the case of an abnormal landing roll or any rejected take off, the appropriate SOPs is to maximise deceleration rate using whatever methods are available, taking account of the degree to which built-in system protections against inadequate wheel rotation are present.
+Runway Surface Conditions
+The effectiveness of any attempt at deceleration from high speed on the runway after a landing or an RTO decision will, of course, be affected by the surface friction at the time, with wet, slippery wet, or contaminated runway conditions posing additional challenges. The borderline between ‘wet’ and water contaminated can be particularly difficult to determine for the landing case; flight crew often get little meaningful guidance from ATS because they themselves do not have water depth measurements and may only be permitted to offer 'unofficial observations' or pass on pilot reports made earlier. Also, when snow or ice contamination exists, different types of friction measuring devices measure different friction values when used on the same surface. None of the friction measuring devices are reliable on all types of contaminations. This adds another level of uncertainty to the runway surface condition. Further guidance on runway surface conditions can be found in the article on the global reporting format (GRF).
+Accidents and Incidents
+Events where retardation methods were ineffective:
+
+
+AT45, Amami Japan, 2020On 8 January 2020, an ATR 42-500 veered off the side of the runway at Amami after touchdown whilst attempting to complete a crosswind landing following a crosswind approach in potentially limiting conditions. It was concluded that directional control had been lost during touchdown because of sub optimal use of the combination of flight control inputs and power at and immediately after touchdown following an essentially stabilised visual approach. The aircraft manufacturer was prompted to make some changes of emphasis in normal operations guidance during the landing roll.
+
+AT43, Naujaat Canada, 2020On 26 November 2020, abnormally low left-engine propeller speed was observed as an ATR 42-300 descended into Naujaat with other engine parameters normal. Relevant abnormal procedures were not consulted, and on reverse pitch selection after touchdown, neither pilot noticed the left engine's low prop pitch indication was not illuminated. The aircraft veered off the right side of the runway into snow, and the aircraft was substantially damaged and the captain seriously injured. The accident was attributed to the crew’s initial failure to consult applicable abnormal procedures, and then failure to make the required check of symmetric reverse pitch before selection.
+
+DHC6, Wobagen Papua New Guinea, 2020On 1 December 2020, a Viking DHC6-300 crew departing Wobagen set asymmetric power in response to directional control difficulties but this did not prevent the aircraft subsequently veering off the runway and into a ditch. Both engines were found to have been operating normally and with failure to complete takeoff checks resulting in the initial setting of asymmetric power. This was then followed by an unsuccessful attempt to regain directional control on the wet and deteriorated clay/silt runway surface without reducing power. Both pilots were experienced in the use of small airstrips generally and with Wobagen in particular.
+
+B738, Odesa Ukraine, 2019On 21 November 2019, with variable cross/tailwind components prevailing, a Boeing 737-800 went around from its first ILS approach to Odesa before successfully touching down from its second. It then initially veered left off the runway before regaining it after around 550 metres with two of the three landing gear legs collapsed. An emergency evacuation followed once stopped. The Investigation attributed the excursion to inappropriate directional control inputs just before but especially after touchdown, particularly a large and rapid nosewheel steering input at 130 knots which made a skid inevitable. Impact damage was also caused to runway and taxiway lighting.
+
+B738, Calicut (Kozhikode) India, 2020On 7 August 2020, a Boeing 737-800 making its second attempt to land at Calicut off a night ILS approach with a significant tailwind component became unstabilised and touched down approximately half way down the 2,700 metre-long wet table top runway and departed the end of it at 85 knots before continuing through the RESA and a fence and then dropping sharply onto a road. This caused the fuselage to separate into three pieces with 97 of the 190 occupants including both pilots being fatally or seriously injured and 34 others sustaining minor injuries. Significant fuel spillage occurred but there was no fire.
+
+
+...further results
+
+
+Related Articles
+
+Runway Surface Friction
+Aquaplaning
+Rejected Take Off
+Landing Flare
+Tyres
+Brakes
+Surface Friction Measurement and Prediction in Winter Operations
+Global Action Plan for the Prevention of Runway Excursions (GAPPRE), 2021
+
+Further Reading
+
+ALAR Briefing Note 8.4 Braking Devices Flight Safety Foundation (2000)
+HindSight 12 - "Runway friction characteristics measurement and aircraft braking" by Werner Kleine-Beek
+An Investigation of the Influence of Aircraft Tire-Tread Wear on Wet-Runway Braking, T. Leland and G. Taylor, NASA, 1965
+
+
+
+
+
+Categories
+
+
+Runway Excursion,
+              Overrun on Take Off,
+              Overrun on Landing
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

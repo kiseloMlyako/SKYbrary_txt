@@ -1,0 +1,182 @@
+Ice Formation on Aircraft
+
+
+
+
+
+
+
+
+
+
+
+  Ice Formation on Aircraft
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Weather 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+This article aims to address the basics of ice formation on aircraft and in their engine air inlets. It does not consider the formation of frost which is created by sublimation, the process by which water vapour freezes directly onto sub zero surfaces. With this exception, the formation of ice attached to the external surface of an aircraft or to the surfaces within its engine air intakes, requires that liquid water drops impact the surface involved. Usually, that moisture must be supercooled, meaning it must be in liquid form below 0°C. There are a couple of specific variations in this general scenario which will be considered later:
+
+issues relating to the difference between the temperature of the aircraft skin and the temperature of the air through which it is, has been or will be passing, especially during climb and descent and in the temperature range +/-10 degrees Celsius;
+issues arising from the temperature and/or pressure difference between the ambient air and air within engine air inlets, most often reductions in air pressure or increases in air temperature.
+
+Ice from Supercooled Moisture
+Ice which accretes on the external parts of an aircraft is most often the result of the impact of supercooled water droplets of various sizes on that aircraft. This may happen within cloud or when flying through precipitation. The reason why water droplets do not all freeze as soon as the ambient temperature falls below 0°C is the release of latent heat as water changes state to ice. So much latent heat is released that the change of state is slowed down so that it takes place progressively as temperature continues to fall. This continues until, by about -20°C, most of the supercooled water has turned to ice. Ice grains which have already fully formed and are dry when they impact an aircraft do not adhere but simply bounce off. Therefore, the relative severity of ice accretion can be expected to progressively decrease as ambient temperature reduces below 0°C so that little, if any, risk of accretion remains below -20°C. Two factors are important in respect of supercooled water droplets:
+
+the extent of their presence, which will affect the rate of any ice accretion; and
+their size, which will affect the severity of that accretion by adversely influencing its rate.
+
+Both the quantity and the droplet sizes of supercooled water droplets in cloud are greatest at temperatures just below 0°C and both decrease as temperature falls. The size of the supercooled water droplets is very important in respect of the potential to induce ice accretion. Larger droplets have greater inertia and are less influenced by the airflow around the aircraft than smaller droplets so they will impinge on more of the aircraft surface than smaller droplets. This is especially the case in respect of the in-flight air flow around the leading edge of wings and empennage. It is also the larger droplets which produce clear or glaze ice which is well recognized as the ice form of most concern and is often also the most difficult to detect visually.
+Clouds and Supercooled Moisture
+The majority of supercooled droplets in clouds are between 1 micron (0.001mm) and 50 microns (0.05 mm) in diameter. (For comparison, the thickness of the average human hair is approximately 100 microns). Layer (stratiform) clouds typically contain average droplet diameters of up to 40 microns. Vertically developed (cumuliform) clouds of moderate scale typically have average droplet diameters of up to 50 microns (0.05mm) but large Cumulonimbus (Cb) clouds often contain much more liquid water, including large quantities in droplets with diameters up to and beyond 100 microns (0.1mm).
+Freezing Rain and Freezing Drizzle
+Precipitation droplets that are clear of cloud are much larger than those within cloud and, if they are supercooled, they are described as creating Freezing Drizzle where droplets have a diameter of between 50 and 500 microns (0.05mm and 0.5mm) and Freezing Rain where the droplets exceed 500 microns (0.5mm) in diameter. Freezing Rain often has much larger droplets of 2mm diameter or more, although if they get much beyond 6mm in diameter, they will tend to break up.
+Freezing rain below cloud forms when rain droplets are supercooled by passage through a layer of air which has a sub-zero temperature. Since air temperatures normally increase as altitude reduces, freezing rain implies the existence of an air temperature inversion. Such conditions can occur below an advancing warm front or a warm occlusion where a relatively warm air mass is overrunning colder air. The existence of freezing rain normally means that there will be warmer air (above 0°C) above.
+The smaller supercooled droplets of freezing drizzle can also form in this way but it is generally considered that they more commonly arise by a different process called the collision-coalescence process. When, through condensation, some droplets in a cloud grow to approximately 30 micrometers in diameter, they begin to settle, falling fast enough so that they collide with some smaller droplets. If the droplets then coalesce, a larger droplet is produced and this now has an even better chance of ‘capturing’ smaller droplets. Under favorable conditions, this process can produce drizzle-size drops in a supercooled cloud, usually near the top, where the largest droplets generally are found in any cloud. Data capture has varied but some studies have reported that freezing drizzle in non-convective clouds forms more than 80 percent of the time by the collision-coalescence process. So, importantly, when in freezing drizzle, it cannot be assumed that warmer air (above 0°C) will exist above it.
+Icing Severity
+The term ‘icing severity’ is essentially about the rate at which significant ice accretion occurs. The descriptions of supercooled water droplets so far have been in terms of their size. These comparative diameters are important - typical drizzle droplets have a diameter 10 times that of typical cloud droplets and typical rain droplets have a diameter 100 times that of typical cloud droplets. Size as described by diameter is, though, not what matters most in terms of the potential for ice accretion through impact. What really makes the difference is the volume (or mass) of water contained in a droplet since this is what controls the amount of water which will impact the aircraft and also how far aft of the airflow stagnation point ahead of a leading edge surface that droplets will strike the aircraft. This latter point is of considerable importance since large droplets may impact far beyond the leading edges in areas which are not anti iced or de iced and may also turn to ice as they are flowing aft in contact with the surface initially hit.
+It is important to note that the volume of a droplet is not proportional to its diameter but to approximately the cube of half the diameter (i.e. the radius). Therefore, if 20 microns (0.02 mm) is taken as a typical diameter for a cloud droplet and 2000 micrometres (2mm) is taken as the typical diameter of a freezing rain droplet, then although the diameters of these droplets differ by a factor of only 100, their volume, and therefore their mass, differ by a factor which is of the order of 1,000,000.
+It is this vastly greater mass of supercooled water droplets in freezing precipitation compared to those in cloud, even cumulonimbus cloud, which precludes any aircraft undertaking a significant period of sustained flight - and in most cases any flight - in freezing precipitation clear of cloud.
+Differences between ambient and aircraft skin temperature
+There are a number of factors which vary the propensity for ice to accrete on an aircraft:
+
+When any aircraft moves through the air, the resultant kinetic hearting due to both compression at points of air obstruction and friction at surfaces of air passage raises the aircraft skin temperature above that of the ambient air in the vicinity. The extent to which this occurs, and therefore the extent of its significance to ice formation, has been calculated to be directly proportional to the square of 1/100 x the true airspeed in knots. Pilots will be aware of the consequent difference between SAT and TAT which can be observed to increase with speed since the effect of True Airspeed increase is greater than the opposite effect of air density decrease.
+If an aircraft is climbing into colder air and frozen or semi frozen deposits are resting on the upper surfaces of the wings or horizontal tailplane surfaces or in related flight control hinge gaps, the possibility exists that these deposits might freeze fully and attach to the airframe in situ. However, this will usually only be a significant problem if the climb is made concurrently into conditions likely to produce independently significant ice accretion.
+When an aircraft is descending from high altitude, the increase in the structure surface temperature as the ambient air warms is likely to lag behind the ambient air temperature increase, especially in the case of wings used as fuel tanks which still contain a significant quantity of fuel. This will particularly apply where fuel is ‘tankered’ for use on the next flight sector in preference to uplifting at the initial destination. The significance of fuel is its tendency for temperature to recover from prior cold soak more slowly than the structure containing it. One particular effect of this is the formation of ‘fuel ice’ on the lower surface of a wing because this is where the cold fuel is in direct contact with the wing structure. Such clear ice is often still present during the subsequent turnaround even when OAT is several degrees above freezing.
+
+Engine Air Inlet Icing
+All aircraft certificated for flight in icing conditions are fitted with anti-icing systems. These prevent air intake lip and guide vane ice formation by use of electrically heated mats, circulated hot engine oil or bleed air extracted from the engine. However, further inside an air inlet, ice can form in unprotected areas even when an aircraft is not flying in icing conditions as presently defined for engine certification purposes. There are two such circumstances: the cooling of moist air above freezing temperature by pressure reduction in piston engines; and the melting of ice crystals which are warmed after entering turbine engines.
+In the first case, moist air entering a piston engine intake at a temperature above 0°C is then accelerated by a suction effect through a reduced channel. This ‘venturi’ effect reduces its temperature causing the moisture load to condense out and be precipitated on the walls of the air channel as ice. See Piston Engine Induction Icing for more detail. This article also describes two other types of induction icing which occur in piston engines.
+In the second case, high densities of very small ice crystals in very cold, high altitude air are ingested into high bypass gas turbines. They then either temporarily freeze and detach as larger pieces of ice causing engine airflow disruption, or cause mechanical damage either as pieces of ice or via discrete throughputs of liquid water. For further information, refer to High Level Ice Crystal Icing: Effects on Engines.
+Icing Forecasts
+There are no definitions for absolute icing severity in aviation forecasting. However, the relative qualifications light, moderate and severe are generally used (in respect of airframe icing risk only) in a way which has at least reasonable consistency regionally in the context of the type of forecast in which they are used. It is understood by most forecasters that a term like ‘light icing’ will be interpreted rather differently by a commercial transport flight crew and a private pilot wondering whether they are likely to be able to undertake their planned flight clear of all icing conditions. As a consequence, low level icing forecasts are usually presented in such a way that they are specifically accessible to pilots of light aircraft vulnerable to the effects of any icing. However, the forecasts provided primarily for commercial air transport will use moderate and severe icing in terms which reflect their likely significance to aircraft which are certificated for routine flight in ‘icing conditions’ because they are equipped with appropriate ice protection systems. This use of higher level forecast presentations by general aviation can produce misunderstandings about the icing conditions that might be expected, and sometimes lead to inappropriate flight planning. The point is that the relative forecasts of icing severity cannot and do not take account of their user and the aircraft they are flying, so the interpretation of forecasts is as much a matter of judgement as monitoring the apparent icing reality once in the air.
+With all the above caveats, a brief look at the usual ‘descriptions’ and ‘definitions’ of icing conditions used by forecasters may still be helpful. The descriptions all assume that an aircraft is certificated for “flight in icing conditions”.
+
+Light Icing is often described as conditions such that ‘no change of course or altitude is necessary and no loss of airspeed occurs. It has been more rigorously defined by some as a rate of ice accretion per hour on outer wing of between 0.25 inch and 1 inch (0.6 to 2.5 cm).
+Moderate Icing has been typically described as ice accretion which continues to increase but not at a rate sufficient to affect the safety of the flight unless it continues for an extended period of time, but air speed may be lost. A definition based upon an ice accretion rate per hour on the outer wing of 1 to 3 inches (2.5 to 7.5 cm)
+Severe Icing has been variously described as ice accretion:
+
+in which either the icing rate or ice accumulation exceed the tolerance of the aircraft;
+which continues to build and begins to seriously affect the performance and manoeuvrability of an aircraft;
+at a rate such that ice protection systems fail to remove the accumulation of ice and ice accumulates in locations not normally prone to icing;
+such that an immediate exit from the condition is necessary to retain full control of the aircraft.
+
+
+
+It is generally accepted that, although aircraft certification for flight in icing conditions rarely includes any stated restrictions, no aircraft is approved for flight in severe icing conditions, and that severe icing conditions may occur at any ice accumulation rate.
+In North America, the terms clear, rime or mixed are more often used in forecast material than elsewhere and are both intended and taken as a proxy for droplet size regardless of other factors such as temperature and liquid water content. In this use, a forecast of rime icing indicates smaller drop sizes and a forecast of mixed or clear icing indicates larger drop sizes but with only a vague and undefined boundary between the two.
+Finally, a “clean aircraft” at rotation is an essential requirement for flight in or into icing conditions for those aircraft so approved. It is achieved by the use of appropriate ground de-icing or anti-icing fluids which have a sufficient holdover time for the prevailing conditions. Anti Icing is nearly always achieved by thickened fluids which adhere to the airframe and then progressively shear off during the take off roll so that they have all been shed by 100KIAS. There is no approved fluid protection against freezing rain or freezing drizzle conditions and so departure in them is generally not possible.
+Related Articles
+
+In-Flight Icing
+Icing - Collection Efficiency
+Aircraft and In Flight Icing Risks
+Piston Engine Induction Icing
+Freezing Rain
+Cumulonimbus (Cb)
+Aircraft Ground De/Anti-Icing
+Aircraft Ice Protection Systems
+High Level Ice Crystal Icing: Effects on Engines
+
+Further Reading
+
+Extract from Transport Canada Aviation Safety Letter 1/2007: The Adverse Aerodynamic Effects of Inflight Icing on Airplane Operation
+Aircraft Icing Handbook, Version 1 by Civil Aviation Authority of New Zealand
+Appendix C 'Icing Conditions' to CFR 14 Part 25, FAA, 2014
+An Inferred European Climatology of Icing Conditions, Including Supercooled Large Droplets, B. Bernstein, 2005
+Getting to grips with Cold Weather Operations, Airbus, 2000
+Aircraft Critical Surface Contamination Training for Aircrew and Groundcrew, Transport Canada, 2004
+Hazardous Weather Phenomena: High Ice Water Content, Bureau of Meteorology Australia, January 2015
+
+
+
+
+
+Categories
+
+
+Weather,
+              Icing,
+              Loss of Control
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

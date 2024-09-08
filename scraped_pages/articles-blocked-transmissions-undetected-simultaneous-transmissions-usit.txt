@@ -1,0 +1,249 @@
+Blocked Transmissions / Undetected Simultaneous Transmissions (USiT)
+
+
+
+
+
+
+
+
+
+
+
+  Blocked Transmissions / Undetected Simultaneous Transmissions (USiT)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Air Ground Communication 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Simultaneous radio transmissions (SiT) are described as:
+“Situations arise when two or more radio transmissions occur, simultaneously, on the same frequency. In this context ‘simultaneous’ is defined as two or more transmissions that overlap in such a way that the controller is not aware that more than one transmission has occurred leading to a potential safety hazard.” (VoIP - Air Traffic Management (ATM) system operational and technical requirements, EUROCAE, 2009-02)
+Description
+Simultaneous transmission by two stations result in one of the two (or both) transmissions being blocked and unheard by the other stations (or being heard as a buzzing sound or as a squeal). With the steady growth of air traffic worldwide there is a corresponding increase in the incidence of blocked or simultaneous transmissions. These frequently result in dangerous situations developing, especially when they go undetected.
+Sources
+
+Properties of the receiver to eliminate the weaker signal
+“Best Signal Selection” (BSS) filters-out only one signal
+Cross-coupled frequencies
+
+Note: Frequency coupling is a facility allowing two or more frequencies to be operated as a single one. All users will receive transmissions made on all coupled frequencies (F1 and F2 are coupled, TX made on F1 are retransmitted after a variable (short) delay on F2). This functionality is required when sectors are merged (or coupled), when military a/c using UHF frequency are operating within a sector (applicable only to some countries/ANSP).
+Signal overlap
+As signals overlap, the system is naturally making a selection on the type of overlap, the relative strength of the signals, the frequency variation, distance between transmitters and receivers, use of one or multiple ground receivers.
+
+Lost Signal/Overlap and Detection Mechanisms
+
+Garbled - Signals are of equivalent strength and they are both transmitted with (detected) garbling. The phenomenon is most probably detected as the garbling is heard by the ATCO.
+Partial Overlap - The weaker signal is not totally covered by the stronger one. This could lead to acoustic differentiation (also called “clipping”) and, in some cases, detection of the phenomenon depending on how much longer the weaker signal is in regard to the stronger one.
+Full Overlap - The stronger signal totally covers the weaker one. Although both signal are transmitted, physical laws cause the receiver to eliminate the weaker signal leading to only one signal being transmitted to (or received by) the ATCO. Although some garbling may be heard in these circumstances depending on the type of RT equipment/architecture, no (or little) detection can be expected.
+
+Scenarios
+Several scenarios have been identified as related to the occurrence of simultaneous radio transmissions:
+Scenario 1: Two pilots transmitting simultaneously
+
+on the same frequency with one ground receiver (also known as “stepped on transmission”)
+on the same frequency with two or more ground receivers being connected to a “Best Signal Selection” (BSS) system (also known as “call swamping”)
+on 2 frequencies that are cross-coupled by the controller (also known as “call-blocking”)
+
+Scenario 2: Simultaneous transmissions by the ATCO and a pilot (also known as “stepped on transmission”):
+
+on a single frequency
+on frequencies that are in a cross-coupled group at the CWP; (the pilot makes a transmission on a coupled frequency while the Controller is transmitting to frequencies in the cross-coupled group).
+
+Scenario 3: “Multi-receiver Blindspot” is another source of loss of signal (or transmission) which could also be considered in the context of Undetected Simultaneous Transmissions. It corresponds to wide range radio field operations used in difficult terrain leading to lack of reception for some pilots and to the signal being lost. Either of these scenarios or any combination of them could result in the occurrence of Undetected Simultaneous Transmission (USiT).
+Related Accidents and Incidents
+The following events include "Blocked Transmission" as a contributory factor:
+
+
+B738 / E75L, San Diego USA, 2021On 10 June 2021, an Embraer 170-200LR was cleared to line up and wait on runway 27 at San Diego with a Boeing 737-800 already cleared to land on the same runway. The occupied runway led to ASDE-X activation which prompted a controller go-around instruction to the 737 when it was less than a mile from the runway displaced threshold but this was blocked by an undetected simultaneous transmission from the E170 which had just been instructed to exit the runway. The 737 manoeuvred around the E170 as it attempted to exit the runway, before touching down beyond it.
+
+B738 / A321, Venice Italy, 2022On 18 October 2022, an Airbus A321 on approach to Venice in thick fog was observed on TCAS by a Boeing 737-800 crew awaiting takeoff clearance from the same runway after a lineup and wait instruction. When no takeoff clearance followed, the 737 crew transmitted, advising its position without any response. The crew then transmitted on 121.5, instructing the A321 to go around, and they received no response. They were about to vacate the runway when the controller instructed the A321 to go around, which only  occurred as it approached 100 feet AGL. The controller involved had failed to plug in his headset properly.
+
+B773 / E190, Toronto Canada, 2020On 7 March 2020, an Embraer ERJ190 was taking off at Toronto when it struck a bird and commenced and reported a high speed rejected takeoff. This call was not heard by ATC who then cleared a Boeing 777-300 to line up and takeoff on the same runway. As the 777 accelerated, its crew saw the ERJ190 ahead and also commenced a high speed rejected takeoff, successfully avoiding a collision. The Investigation found that the air/ground status of both aircraft was configured in accordance with current design standards in a way which prevented activation of the ground collision prevention system.
+
+B789 / B744, Amsterdam Netherlands, 2019On 13 February 2019, a Boeing 787 departing Amsterdam was given a non-standard long pushback by ATC in order to facilitate the use of its stand by an incoming flight and when a Boeing 747 was subsequently given a normal pushback by a single tug driver working alone who was unaware of the abnormal position of the 787 and could not see it before or during his pushback, a collision followed. The Investigation concluded that the relevant airport safety management systems were systemically deficient and noted that this had only been partially rectified in the three years since the accident.
+
+B738/B738, vicinity Oslo Norway, 2012On 31 October 2012, a Boeing 737-800 on go around after delaying the breaking off of a fast and high unstable ILS approach at Oslo lost separation in IMC against another aircraft of the same type and Operator which had just taken off from the same runway as the landing was intended to be made on. The situation was aggravated by both aircraft responding to a de-confliction turn given to the aircraft on go around. Minimum separation was 0.2nm horizontally when 500 feet apart vertically, both climbing. Standard missed approach and departure tracks were the same.
+
+
+...further results
+
+
+Effects
+Some of the effects of the blocked transmissions might include:
+
+All or part of a message is blocked;
+A pilot does not act on a clearance intended for him/her;
+A pilot acts on a clearance intended for another aircraft;
+Unacceptable delay in establishing RTF contact or in issuing a clearance or passing a message;
+The workload of controllers and pilots is increased due to the need to resolve the confusion.
+
+Contributory Factors
+The following parameters or factors are linked to the phenomenon, either as contributors or as a ‘inherent’ system characteristics:
+
+Similar Sounding Callsigns (callsigns confusion) – Use of very similar callsigns leading to limited/no detection by the ATCO
+Expectation Bias – The pilot or ATCO has a strong belief/mindset towards a particular outcome and therefore misjudges the aural information
+R/T discipline (e.g.: a/c calling “too” early on a given frequency, pilot not monitoring the R/T exchange on the frequency and “cutting” the transmission exchange)
+Traffic load and frequency use – increased workload and breakdown of performance in terms of detecting USiT
+Use of frequency coupling - frequency coupling during collapsing/grouping of sectors (single sector operation)
+Frequency conditioning - The high quality of current frequency conditioning by the transmitters is responsible for the accurate compliance of the generated signal. Hence, no audible feedback (voice-over) is generated during simultaneous transmissions. (improved transmitters accuracy)
+Elimination of the weaker signal – amplitude modulation (AM) receivers eliminate a second weaker signal at the output because of their technical features.
+Distance factor - Significant differences of the received signals due to long distances
+Equipment factor - Significant differences of the received signals due to aircraft equipment
+Areas with wide coverage to deal with or condition of environment and landscape (mountains, valleys). Super refractions leading to reception of calls using the same frequency in another (far away) area (incl. propagation)
+Use of several receivers to cover a wide sector
+
+Defences
+Systemic solutions:
+
+Ground ATM communication system technical solution for detection and alerting, for example by re-inserting the ‘noise’ on the frequency to alert the controller that a USiT had taken place
+Airborne radio anti-blocking devices
+Optimising and limiting frequency coupling in terms of both time period and number of coupled frequencies
+
+As an ATCO:
+
+Use good R/T practices (as recommended by Doc-4444). Be vigilant and have in mind that for many reasons (e.g.: Call Sign Similarity, expectation bias…), several pilots might consider a clearance to apply to them
+Monitor for overlapping or garbled transmissions and immediately ensure that the instruction/clearance is received by its recipient only if overlapped and garbled readback is detected
+Monitor for erroneous or lack of readback
+Monitor for erroneous manoeuvring of aircraft
+Before reading back and eventually applying any instruction, it should make sense in the context of the current flight. Although the efficiency of this barrier is highly dependent on the environment and traffic configuration, it is understood that if the instruction or the communication itself is unclear, the pilot and ATCO will in most cases question the instruction/request.
+Be aware of the fact that coupled frequencies might increase the chance of simultaneous transmissions. The transmissions made on the Frequency 1 will be retransmitted after a variable (short) delay on Frequency 2.
+
+As a pilot:
+
+Use good R/T practices (as recommended by Doc-4444)
+Question the instruction/clearance if unsure that you are its proper recipient
+Inform the ATCO of blocked transmission as soon as you identify it
+Allow some time as appropriate to monitor the transmission exchange upon the initial contact in order not to block the RT exchange
+Keep a good situational awareness; try to note similar sounding callsigns (if exist on frequency)
+
+Further Reading
+EUROCONTROL
+
+Risk Assessment of the "Undetected Simultaneous Transmissions" Phenomenon (Working Draft 1.0)
+ALLCLEAR? Toolkit
+
+AGC Safety Letters
+
+Safety Letter December 2004;
+Safety Letter 1 August 2005;
+Safety Letter 1 April 2006;
+
+European Action Plan for Air-Ground Communications Safety, including:
+
+AGC Briefing Note 4 - Blocked Transmissions;
+
+
+
+
+
+Categories
+
+
+Air Ground Communication
+
+
+
+
+
+
+
+
+
+Related SKYbrary Articles
+
+Radio Discipline
+Air-Ground Voice Communications
+Cross-checking Process
+Expectation of Clearance
+ATC Expectation Bias
+Situational Awareness
+Call-sign Confusion
+
+Related OGHFA Material
+
+Attention and Vigilance (OGHFA BN)
+Communication: Linguistic Factors (OGHFA BN)
+Hearing and Noise (OGHFA BN)
+Pilot-Controller Communications (OGHFA BN)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

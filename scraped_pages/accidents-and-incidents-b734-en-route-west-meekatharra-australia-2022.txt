@@ -1,0 +1,328 @@
+B734, en-route, west of Meekatharra Australia, 2022
+
+
+
+
+
+
+
+
+
+
+
+  B734, en-route, west of Meekatharra Australia, 2022
+
+
+
+
+
+
+
+
+
+Summary
+
+On 10 June 2022, on reaching the planned FL330 cruise altitude abeam Meekatharra, a Boeing 737-400 crew observed a 340-foot difference between the two primary altimeter readings. The crew did not advise ATC of the breach of RVSM separation minima, but after identifying which instrument was in error, they returned uneventfully to their departure point, Perth. There, an engineering inspection found residue on all four electrically heated pitot-static probes. It was found that a few days earlier, an engine ground run done without first removing non-standard plastic probe covers had contaminated the probes, with cleaning performed prior to release to service.
+
+
+
+
+Event Details
+
+When
+
+10/06/2022
+
+
+
+Event Type
+
+
+AW,
+              HF
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 737-400
+
+
+
+
+
+
+
+
+
+Operator
+
+Airwork
+
+
+
+Type of Flight
+
+Public Transport (Cargo)
+
+
+
+Flight Origin
+
+
+
+
+Perth International Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Port Hedland International Airport
+
+
+
+
+
+
+
+Actual Destination
+
+
+
+
+Perth International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Cruise
+
+
+
+
+
+
+
+
+Location
+
+Approx.
+
+west of Meekatharra
+
+
+
+
+
+
+
+
+
+
+General
+
+Tag(s)
+
+
+              Air Turnback
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Procedural non compliance
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Indicating / Recording Systems
+          
+
+
+
+Contributor(s)
+
+
+              Maintenance Error (valid guidance available),
+              Inadequate Maintenance Inspection
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 10 June 2022, a Boeing 737-400 (ZK-TLJ) operated by Airwork on a scheduled cargo service from Perth to Christmas Island via Port Hedland had just reached the intended cruise altitude - FL330 - in day VMC when a discrepancy between the first officer’s and captain’s altimeter readings was observed. This prompted running a non-normal procedure that identified which altimeter was faulty and led to a diversion back to Perth without further event. There, varying amounts of plastic residue were found on the four pitot-static probes. 
+Investigation
+An Investigation into the event was carried out by the Australian Transport Safety Bureau (ATSB). Recorded flight data from the QAR was available and useful. Flight crew experience was not recorded but it was noted that the first officer had been acting as PF and that a LAE with avionics approval and a loadmaster were also on board the aircraft. 
+What Happened
+The flight climbed to the designated cruise level FL330, which meant that the final stages of this climb were subject to the more demanding requirements in RVSM airspace. As the first officer’s altimeter passed FL320, they called "one to go," which the captain noted was premature based on his altimeter reading. The aircraft, AP engaged, levelled at FL330 based on the first officer’s altimeter. The crew then saw that the captain’s altimeter was showing 32,660 feet and that the first officer’s indicated airspeed and Mach number were respectively 4 knots and 0.017 M higher than the captain’s equivalents. ATC were not advised despite the aircraft being within RVSM airspace and therefore subject to more stringent height-keeping requirements. 
+After discussing the situation with the travelling engineer and by radio with company maintenance control, it was decided to return to Perth. However since at this point, it was assessed that the aircraft would be overweight if a return to Perth was commenced immediately, it was decided to continue on track and carry out troubleshooting to determine the accuracy of the altimeters in accordance with the QRH "Unreliable Airspeed" procedure. This required the aircraft to descend to FL300, the flight crew to set the aircraft pitch attitude and Mach indications against the aircraft weight and adjust engine N1s to achieve level flight. By comparing the values displayed against the known configuration, the accuracy of the instruments was assessed and the captain’s instruments were found to be faulty. ATC were not advised of the problem.
+ATC were advised that the flight wished to return to Perth for "operational reasons" and provided an appropriate clearance. During the subsequent descent, the crew noted that the altitude discrepancy reduced until at about 10,000 feet, it had vanished. The aircraft reached Perth without further incident where postflight inspection of the 4 combined pitot-static probes found residue on probe surfaces. The probes were subsequently removed and the pitot-static lines flushed with nitrogen in accordance with the manufacturer’s maintenance procedures. The latter did not require a prior check for any debris within the probes to be collected and analysed, so whether any debris had been present within them could not be established.
+Why It Happened
+It was noted that over a year earlier the aircraft pitot heat system had been modified to comply with the requirement of an FAA AD to incorporate Boeing ASB 737-30A-1064.This modified the pitot heat system to energise automatically on engine start so as to preclude inadvertent flight into icing conditions with the system off by sensing engine operation using the engine low oil pressure switches. 
+It was found that the aircraft engines had been given a routine wash a few days prior to the investigated event. Whilst the aircraft was parked for this purpose, the probe covers assigned to the aircraft, which had been locally manufactured items using a commercially available polyvinyl chloride material rather than the Boeing-recommended Kevlar™ covers, had been fitted. Unlike the recommended Kevlar type, which were specifically designed to withstand the high probe temperature and preclude melting should that happen, the substitute product had no such resistance. When the engineers forgot to remove the covers before the post-engine wash ground run, the covers melted and contaminated the probes. A subsequent attempt to remove the cooled and hardened residue from the probes was accomplished “using a plastic scraper, a scouring pad and solvent.” Following a DVI, the probes were assessed serviceable. The partly melted probe covers were then temporarily repaired, and the aircraft was released to service the day prior to the investigated event. Prior to the investigated event, the aircraft flew seven sectors over 11½ hours with no reports of contrary instrument indications.
+
+One of the contaminated probes prior to removal from the aircraft. [Reproduced from the Official Report]
+
+A closeup showing undetected residue on one of the contaminated probes. [Reproduced from the Official Report]
+One Contributing Factor was formally documented based on the findings of the Investigation as follows:
+
+While operating in reduced vertical separation minimum airspace, a 340-foot discrepancy between the captain’s and first officer's altitude indication was observed when at the designated cruise altitude.
+
+Four Factors that Increased Risk were also identified:
+
+The operator used pitot-static probe covers made from polyvinyl chloride material, which increased the risk of the covers melting onto the probes if left on during engine operation. 
+During ground maintenance 2 days prior, the pitot-static probe covers were not removed and the automatic pitot heat was not isolated as required by the Airwork 737-300/400 ground run procedures checklist. As a result, the covers melted onto the probes. 
+Although cleaned, residue remained on the pitot-static probe surfaces, which had the potential to compromise the accuracy of the pitot-static instruments in flight.
+Air traffic control were not advised of the 340-foot altitude discrepancy between the altimeters, which exceeded the maximum allowed altimetry system error for vertical separation in RVSM airspace. Therefore, adequate vertical separation with other aircraft was not assured.
+
+Safety Action taken by aircraft operator Airwork was noted as having included but not been limited to the following:
+
+Changed all pitot-static probe covers to Boeing-approved recommended covers that are made of heat resistant material (Kevlar™).
+The form used by Airwork engineers to conduct a safety briefing at the start of the day to identify hazards/risks and control measures was expanded to add guided cues for discussions regarding threat and error management and local hazards.
+Reviewed change and risk management processes applicable to ADs.
+Alerted staff to the importance of submitting a safety report as soon as practicable after a relevant event has occurred. 
+
+In Conclusion, a Safety Message based on the Investigation Findings was as follows:
+"Aircraft barometric air data sensing instrumentation components are extremely sensitive to damage and disruption. This incident highlights the importance of maintaining a high level of attention to damage and contamination when working on, and inspecting these components, particularly on aircraft certified to operate in reduced vertical separation minimum airspace. Where there is doubt, the probes should be removed and tested by an approved facility. Further, it demonstrates the need to appropriately action and complete checklists, and for flight crew to advise air traffic control of altimetry system errors."
+The Final Report was released on 13 April 2023. 
+Related Articles
+
+Altimetry System Error
+Altimeter
+Pitot Static System
+Reduced Vertical Separation Minima (RVSM)
+Checklists - Purpose and Use
+Good Maintenance Practice
+Maintenance Error
+Risk Assessment

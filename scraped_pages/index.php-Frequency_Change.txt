@@ -1,0 +1,214 @@
+Frequency Change
+
+
+
+
+
+
+
+
+
+
+
+  Frequency Change
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Air Ground Communication 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+The process of changing frequency offers many possibilities for communication failure if the pilot subsequently selects the wrong frequency.
+Frequency change occurrences are often of short duration because the pilot realises on checking in that he/she is on the wrong frequency: either the frequency is silent, in which case the pilot returns to the previous frequency, or it is active, in which case the controller directs the pilot to the correct frequency.
+Frequency change incidents can have serious consequences if the pilot is unable to re-establish contact quickly. This might occur if the previous frequency is very busy, or if the aircraft is out of range of the previous controlling station.
+Frequency change occurrences often happen in areas of high density air traffic, especially during climb and descent, where many frequency changes are required as the aircraft is passed from one agency to another. Since these occasions coincide with periods of high pilot work-load, there is an enhanced likelihood that an error in copying the frequency or in setting it correctly will go undetected.
+Frequency change errors are equally common in low-workload situations, perhaps because the pilots are more relaxed, or concentrating on some routine issue. Moreover, it may take longer to detect loss of communication than when working a busy frequency.
+Effects
+Communication breakdown may result in:
+
+Loss of situation awareness;
+Inability to respond to further clearance or to emergency instructions, e.g. avoiding action.
+
+Defences
+At present, good radio discipline is the best defence against loss of communication following frequency change.
+Typical Scenarios
+
+Controller assigns incorrect frequency;
+Pilot mis-hears frequency assignment (perhaps due to radio interference);
+Pilot hears frequency correctly but makes an error when setting it;
+Pilot sets frequency correctly but fails to select radio;
+Pilot mis-sets volume or squelch control;
+Pilot anticipates next frequency (expectation of clearance) and selects it on the panel, but ATC assigns another frequency;
+Pilot accepts frequency assignment intended for another aircraft (due to call-sing similarity).
+
+Contributory Factors
+
+Frequency Congestion;
+Radio interference;
+Call sign confusion;
+Language;
+Pilot workload.
+
+Solutions
+
+Operators
+
+Ensure that flight crews, cabin crews and ground engineers are aware of the loss of communications issue through publicity.
+Ensure that SOPs for copying, setting and cross-checking frequency changes, and for loss of communication are sound, and that they are followed by all pilots.
+Install radio anti-blocking devices if appropriate.
+To aid returning to the previous frequency if communications are lost, leave the previous frequency on the pre-select until a new frequency is allocated.
+
+
+Establish policy for the wearing of headsets which requires their use by both pilots at all times on piston/turboprop and short haul jet flights - say up to 2 hours - and clearly establishes the circumstances on which they are not required to be worn, if any.
+Pilots
+
+Do not switch immediately to the next sector frequency following read back of controller’s instruction. Ensure confirmation of your read back is received.
+Always follow standard procedures for copying, setting and cross-checking RTF frequencies. As soon as a loss of communication is suspected, check radio equipment settings and audio panel settings and carry out a radio check.
+If any part of a message for you is garbled or unclear, request confirmation or clarification.
+Always use headsets during times of high RTF loading. Always wear a headset when members of the flight crew are involved in other tasks and may not be monitoring the RTF.
+If the squelch control is adjusted to reduce the effect of interference, take care to ensure that transmissions from ATC or other aircraft are not cut out.
+Always report any radio interference experienced whether or not it affected safe operation.
+Make use of other aircraft to relay messages when operating at extreme range or when poor propagation is suspected.
+If Prolonged loss of communication is suspected, select 121.5 MHz and listen out for any transmission from intercepting aircraft.
+
+
+Controllers
+
+Do not pass RTF frequency changes in a multi-part clearance.
+Do not delay passing any vital instruction until after a frequency change (e.g. heading or level change to avoid confliction).
+Pay close attention to read-back of RTF frequency changes and correct any error.
+On observing or being informed of radio interference, arrange for transfer of affected aircraft to another RTF frequency.
+Report any radio interference to the appropriate national authorities.
+If loss of communication is suspected, attempt to contact the aircraft by other means, including relay through other aircraft, through the previous operating agency/RTF frequency and through the operator, who may be able to contact the aircraft by other means, e.g. Selective Calling System (SELCAL) or Aircraft Communications, Addressing and Reporting System.
+If attempts to restore two-way communications with the aircraft are unsuccessful, inform the appropriate military authorities. Keep the military authorities informed of action taken by the ATS unit as well as any further action intended.
+When contact is not quickly established, do not delay precautionary clearance to conflicting aircraft on frequency on the assumption that contact will soon be established.
+Use of CPDLC greatly reduces the chance of a frequency change errors.
+
+
+
+Further Reading
+
+ALLCLEAR? Toolkit
+
+HindSight Articles:
+
+HS2 Getting the Message Across;
+
+AGC Safety Letters:
+
+AGC Safety Letter December 2004;
+AGC Safety Letter August 2005;
+AGC Safety Letter April 2006;
+
+EUROCONTROL Action Plan for Air-Ground Communications Safety:
+
+AGC Briefing Note 3 - Loss of Communication;
+
+EUROCONTROL Reports:
+
+Investigation into Loss of Communication;
+AGC Safety Study - Causes and Recommendations;
+AGC Safety Study - An Analysis of Pilot-Controller Occurrences;
+
+
+
+
+
+Categories
+
+
+Air Ground Communication
+
+
+
+
+
+
+
+
+
+Related Articles
+
+Pilot-Controller Communications (OGHFA BN)
+Transfer of Communication
+Transfer of Control
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

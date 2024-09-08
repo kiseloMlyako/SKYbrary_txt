@@ -1,0 +1,143 @@
+Surface Movement Radar
+
+
+
+
+
+
+
+
+
+
+
+  Surface Movement Radar
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Runway Incursion 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Surface Movement Radar (SMR) is radar equipment specifically designed to detect all principal features on the surface of an airport, including aircraft and vehicular traffic, and to present the entire image on a radar indicator console in the control tower. Used to augment visual observation by tower personnel of aircraft and/or vehicular movements on runways and taxi-ways.
+(EUROCONTROL EATM Glossary of Terms)
+The Role of SMR
+In the permanent absence of visual observation of all or part of the manoeuvring area or to supplement (or in poor visibility, replace) visual observation, SMR may be utilised to:
+
+enhance the controllers' situational awareness regarding the manoeuvring area;
+monitor the movement of aircraft and vehicles on the manoeuvring area;
+provide routing information to pilots and vehicle drivers as necessary; and
+provide advice and assistance for the safe and efficient movement of aircraft and vehicles on the manoeuvring area.
+
+In order to operationally use SMR the tower controllers need to obtain an additional endorsement GMS (ground movement surveillance) to their ADI rating.
+Technical Specifics
+The SMR uses the working principle of the Primary Surveillance Radar (PSR), i.e. emits a signal which is reflected by the target and the echo received is used to determine the range and bearing of the target.
+The SMR however, operates on much higher frequencies (10-20 GHz) as opposed to the PSR (1-5 GHz). As a result, the antenna is much smaller (and lighter) which allows faster rotation (typically 1 revolution per second as opposed to 6-12 revolutions per minute) and therefore faster update rate. Azimuth resolution is also improved (about 0.25 degrees) compared to the PSR (1-2 degrees) due to the thinner beamwidth (which is achieved due to the higher frequency used). While range is considerably shorter compared to other radars (not to be considered to be a drawback though since the very purpose of the SMR is to cover only the manoeuvring area) this allows for shorter pulse to be used which in turn results in much better range resolution (about 20 m).
+The SMR is often mounted on top of the ATC tower which provides good visibility of the manoeuvring area.
+
+SMR antenna on top of a control tower
+An inherent limitation of SMR is that it only provides position information. However, if combined e.g. with an ADS-B receiver, additional information may be displayed on the controller screen.
+Related Articles
+
+Runway Incursion
+Advanced Surface Movement Guidance and Control System
+Methods to Show an Occupied Runway
+Low Visibility Procedures (LVP)
+Airport Surface Detection Equipment, Model X (ASDE-X)
+
+Further Reading
+
+ICAO Doc 9476: Manual of Surface Movement Guidance and Control Systems (SMGCS);
+ICAO Doc 9830: Advanced-Surface Movement Guidance and Control Systems (A-SMGCS) Manual;
+ICAO Doc 9426: Air Traffic Services Planning Manual.
+ICAO Doc 9870 App C - Air Traffic Control Best Practices
+European Action Plan for the Prevention of Runway Incursions App E - Air Traffic Controller Best Practices
+
+
+
+
+
+Categories
+
+
+Runway Incursion,
+              Runway Incursion Safety Nets,
+              Ground Operations
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

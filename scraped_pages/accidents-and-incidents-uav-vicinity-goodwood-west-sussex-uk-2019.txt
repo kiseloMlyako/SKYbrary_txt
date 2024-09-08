@@ -1,0 +1,339 @@
+UAV, vicinity Goodwood West Sussex UK, 2019
+
+
+
+
+
+
+
+
+
+
+
+  UAV, vicinity Goodwood West Sussex UK, 2019
+
+
+
+
+
+
+
+
+
+Summary
+
+On 4 July 2019, the operator of an Alauda Airspeeder UAV lost control of it and it climbed to 8000 feet into controlled airspace at a designated holding pattern for London Gatwick before falling at 5000 fpm and impacting the ground close to housing. The Investigation was unable to establish the cause of the loss of control but noted that the system to immediately terminate a flight in such circumstances had also failed, thereby compromising public safety. The approval for operation of the UAV was found to been poorly performed and lacking any assessment of the airworthiness of the UAS.
+
+
+
+
+Event Details
+
+When
+
+04/07/2019
+
+
+
+Event Type
+
+
+AW,
+              LOC
+
+
+
+
+Day/Night
+
+Day
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+Aircraft type not (yet) assigned a designator
+
+
+
+
+
+
+
+
+
+Type of Flight
+
+Aerial Work
+
+
+
+Flight Origin
+
+
+
+
+Chichester/Goodwood Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Chichester/Goodwood Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+No
+
+
+
+Phase of Flight
+
+Climb
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+EGHR
+
+
+
+
+General
+
+Tag(s)
+
+
+              Inadequate Aircraft Operator Procedures,
+              Inadequate Airworthiness Procedures,
+              Ineffective Regulatory Oversight,
+              Unmanned Aircraft Involved,
+              Delayed Accident/Incident Reporting
+          
+
+
+
+
+AI
+
+Tag(s)
+
+
+              CA Incursion
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Significant Systems or Systems Control Failure
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Flight Controls
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Aircraft damage
+
+Hull loss
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Airworthiness
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 4 July 2019, an Alauda Airspeeder Mark II UAV being operated by the same company which had designed and manufactured it was making a demonstration flight at Goodwood aerodrome under a specific regulatory approval when the pilot lost control of it. The UAV climbed to 8000 feet into controlled airspace at a designated holding pattern for London Gatwick before its electrical power was exhausted and it descended at 5000 fpm and impacted the ground close to occupied houses half a mile from the takeoff point.
+Investigation
+A Field Investigation into the Accident was carried out by the UK AAIB focused particularly but not only on the way in which the operation during which control of the UAV was lost had been authorised by the UK Civil Aviation Authority as safety regulator. CAA personnel were present at the viewing point for the demonstration flight during which control was lost but the operator failed to file a mandatory report (MOR) with the CAA until more than two weeks after it had occurred. When asked by the Investigation who had submitted the MOR, the operator was unable to say and it subsequently became clear that its contents were not a correct description of what had happened.
+Although a FDR was not ﬁtted or required to be, there was enough recorded video of a high enough resolution from the two cameras installed on the UAV and from video and still cameras on the ground to enable successful analysis of its ﬂight path during the event and derive its maximum achieved altitude and vertical speed during the subsequent terrain impact.
+The Accident Context
+The operator of the UAV was an Australian company called ‘Riotplan Proprietary Limited’ which traded as Alauda Racing and described itself as “an Australian-based designer and manufacturer of high performance electric aerial vehicles”. It had been in existence for three years at the time of the accident flight under investigation. The UAV involved was a radio-controlled and battery-powered quadcopter with a 95kg MTOW. It consisted of an aluminium frame to which the motors, controllers and battery were attached contained within a ﬁbreglass outer shell (see the illustration below) and was 3 metres long and 1½ metres wide. Each of its four 32-inch propellers was driven by a brushless DC motor powered from a 58.8 volt lithium polymer battery which was capable of producing 42-58 volts for “up to 8 minutes”. The UAV was controlled by a ground-based, hand-held transmitter which used a 915 Hz frequency and was stated to be capable of airspeeds of up to 43 knots. The ‘kill switch’, used by the remote pilot in the event that control of the UAV was lost, was powered by a dedicated power source and used a discrete communications channel to open a normally-closed relay which would cut power to the flight controller and cause the motors to stop.
+Flights of the UAV involved in the UK were supposed to take place in accordance with an authority in the form of an exemption from certain normally applicable requirements of the UK Air Navigation Order. This exemption had been issued by the UK CAA on the basis of an Operating Safety Case (OSC) submitted with the application which stated that “all operations were to be conducted in accordance with the conditions and limitations in their UAS OSC”.
+
+An exemplar model of the UAV involved. [Reproduced from the Official Report]
+The OSC stated that the company was “fully compliant with the pilot and UA licensing and registration requirements of their national regulator, the Australian Civil Aviation Safety Authority (CASA)” and had worked closely with “designated CASA representatives” since they began UAS flights. The company identified three “key personnel” relevant to the operation of their UAS, a ‘Chief Executive’, a ‘Maintenance Controller’ and a ‘Chief Remote Pilot’. All company employees except the Chief Executive and their “Executive Assistant” were described as “part time university students”. The latter was solely responsible for writing all operating procedures and consolidating them into OSC volumes and had also “managed the ANO exemption application to the CAA”. Each OSC volume was signed only by the Executive Assistant and there was no counter-signature by the Chief Executive, the Maintenance Controller or the Chief Remote Pilot. It was found in the 2½ months prior to the accident, there had been “at least six versions of each OSC volume” and noted that “although the accountable positions may have been aware of the changes, the absence of countersigning meant that this could not be conﬁrmed".
+The 22 year-old ‘Chief Remote Pilot’ held an Australian Remote Pilot Licence and was the Australian-domiciled operator’s only person authorised to operate UAVs up to 150 kg in weight in Australia. It was noted that there was no corresponding or otherwise applicable requirement for a similar remote pilot licence in the UK. The OSC stated that the Chief Remote Pilot was “responsible for all operational matters affecting the safety of operations” which included:
+
+ensuring that operations are conducted in compliance with the CAA
+monitoring and maintaining operational standards and supervising other remote pilots who work under the authority of the operator
+developing applications for approvals and permissions where required to facilitate operations
+developing checklists and procedures relating to flight operations
+
+It was found that the company had been invited to exhibit their UAV at a large public exhibition at a location close to Goodwood aerodrome and to put on some ﬂying demonstrations at both this aerodrome and on a golf course adjacent to the exhibition. Having arrived in the UK six days prior to the accident with two identical UAVs, company personnel set up a temporary workshop at Goodwood Aerodrome. They then “conducted an on-site familiarisation and risk assessment" and completed pre-ﬂight inspections of the UAV as detailed in their OSC.
+The day prior to the accident, the CAA issued the necessary exemption to the Air Navigation Order (ANO) following which a test ﬂight was made at the aerodrome the same day using one of the two available UAV for which the CAA were not present. This ﬂight terminated in a “hard landing” which damaged the landing gear and although this was required under the applicable regulations, the OSC and the ANO exemption, this accident was not notiﬁed to the CAA, the CASA, the Australian Transport Safety Bureau (ATSB) or the AAIB. The loss of power which caused the hard landing was subsequently traced to “a fault in a battery feeder cable connection”. The electronic control box was subsequently removed from the damaged airframe and ﬁtted to the remaining serviceable UAV in order to facilitate a demonstration flight which had been arranged for the following day.
+What Happened
+The remote pilot stated that on the day of the accident, all items in the pre-ﬂight checklist, including a test of the ‘kill switch’ were successfully completed.  Around 200 invited guests were present to observe the demonstration with the majority of them on the roof terrace of an airport building overlooking the designated flight zone. Two members of the CAA UAS Unit who had been involved in assessing the company’s application for an exemption were also present but despite arriving 50 minutes prior to the demonstration time and asking to be present at the pre flight briefing, this request was not approved due to shortage of time and because “pre-flight checks had already commenced”. A NOTAM advising that the aerodrome would be temporarily closed for 30 minutes whilst the demonstration was in progress had been issued.
+After takeoﬀ, the UAV was flown along Runway 32 and then returned in the opposite direction. After just over a minute of flight, as the UAV was being turned close to the runway 32 threshold, it levelled oﬀ contrary to the remote pilot’s commands and “he realised that he had lost control”. The maintenance controller, standing next to him and assigned to operate the ‘kill switch’ then attempted to do so but this was unsuccessful and the UAV was then seen to enter an uncommanded climb which continued for 4½ minutes.
+
+The operating area for the demonstration on part of the aerodrome’s grass runway 32 as per the OSC. [Reproduced from the Official Report]
+The remote pilot then told the invited guests to “take cover”, which they did by re entering the building which had given them access onto the viewing terrace and he then informed the aerodrome Operations Manager, who was nearby, that the UA had had a “ﬂy-away”. The Operations Manager then asked the aerodrome FISO to warn any inbound aircraft to remain clear of the ATZ and the FISO also informed the en-route and London Gatwick ANSP of the potential for the UAV to enter Class ‘A’ controlled airspace directly overhead the aerodrome which had a base of FL 065. The VOR located on the aerodrome was also the alignment point for the London Gatwick holding pattern for south westerly arrivals at levels from FL 070.
+The UAV continued to climb more of less vertically whilst drifting slowly in a south-south-westerly direction. After climbing for about 4½ minutes and entering controlled airspace, it reached an estimated altitude of approximately 8000 feet before the power source was exhausted and it began a free fall that averaged 5000 fpm until crashing into a ﬁeld close to residential property some 875 metres from the takeoff point. Residents who saw the impact from their garden 40 metres away initially approached the accident site to investigate but on realising the size of the UAV, they called the police. The remote pilot and their assistants went to the accident site where they carried out post-crash procedures which included making the battery safe and removing it. The total time airborne was 7 minutes and 10 seconds.
+Following the accident, the CAA informed the operator that the ANO exemption had been withdrawn.
+Why it happened
+Despite a comprehensive investigation, it proved impossible to establish the cause of the loss of control but it was considered likely to have been “either radio frequency (RF) interference or a failure of the onboard control system”. Attention was therefore focused on the circumstances which had “set the conditions for” the accident and thus made it more likely to occur.
+It was noted during inspection of the wreckage of the accident UAV and the relatively undamaged second one that there was widespread evidence of “poor quality build and system installation standards”. The design and manufacture did not involve the use of any known industry or airworthiness standards and “there were no safety systems ﬁtted which could autonomously guide the aircraft to safety in the event of radio link loss, for example a return-to-home function”. It was concluded after examination that the circuit boards used in both the UAV and ‘kill switch’ control systems “were of poor quality and build workmanship” and that neither of these systems was “qualiﬁed to any industry environmental standard such as impact shock, vibration or temperature”.
+Overall, the UAS operator involved was considered to have “demonstrated little knowledge or understanding of appropriate industry standards, in particular, those relating to airworthiness and for developing electronic hardware and software”.
+In respect of the CAA ANO exemption approval process under which the accident UAS operation had been permitted, multiple deficiencies of relevance to public safety during such fights were identified including, but by no means limited to, a failure to adequately consider the efficacy of safety systems. It was specifically noted that if there is no guarantee that in the event of a loss of control, a UAV of such a substantial size as the one involved in this accident will remain within the permitted operational envelope, then neither the resultant hazard to individuals on the ground or to manned airborne aircraft are addressed and only providence remains.
+Overall, it was concluded that despite the CAA recognising that the UAS involved “was relatively unsophisticated in its design, had no redundancy and multiple single points of failure”, the level of oversight, processes and procedures used to grant an ANO exemption for this UAS operation had “proved to be inadequate”.
+In respect of a wide range of non-compliances with both the company’s own procedures and the explicit requirements of the ANO exemption issued, it was considered that the CAA lacked an appreciation of the role which systematically recorded UAV in-flight data could play both in “demonstrating the maturity and suitability of a UAS for the operation” and then tracking compliance with the conditions imposed as part of an Operational Authorisation. However, it was noted that the CAA did perform such operational audits on operations and check compliance with exemptions in the case of “more complex” operations.
+The Cause of the loss of control was formally recorded as “a loss of link between the ground and airborne control” but the cause of this could not be determined.
+Eleven Contributory Factors that had set the conditions for the event and made an accident more likely were identified:
+
+The Alauda Airspeeder Mk II was not designed, built or tested to any recognisable standards and although the operator’s OSC, submitted to the CAA claimed it had been built to ‘the highest standards’, none were referenced.
+A number of issues were identiﬁed with the design and build of the Airspeeder Mk II, including numerous single point failures. The assembly of the electronic ﬂight control system failed to meet relevant standards. The ﬂight control system was not capable of providing telemetry to the remote pilot and was not ﬁtted with a GNSS position monitoring system which could have enabled electronic safety measures, such as automatic return to takeoﬀ point or geo-fencing, to be used. There was no placarding to warn ﬁrst responders of the hazards of the high voltage stored energy device (battery). The Airspeeder Mk II did not have any data recording devices ﬁtted, which would have provided useful information about the conduct of the ﬂight.
+The electronic ‘kill switch’ was manually operated. In the event of a loss of control the remote pilot would have to recognise that the UA was no longer responding to control inputs then communicate with the observer who would then activate the switch. The time delay in recognising a loss of control and operating the switch could result in the UA descending uncontrollably outside of the speciﬁed operating area.
+A radio survey of the operating area was conducted for the ﬂight controller, but it was not carried out for the ‘kill switch’, which operated on a diﬀerent frequency. The radio frequency used for the ﬂight controller was not permitted to be used for airborne applications.
+A ﬂight, on the day before the accident ﬂight, resulted in a heavy landing when power was lost which was not reported to the relevant authorities. The power loss was due to a faulty battery connector. The ﬂight control unit from this airframe was then transferred to the accident airframe without any detailed inspection.
+Statements made by the operator and the ﬁndings of this investigation showed that they did not appear to have any knowledge or understanding of airworthiness standards.
+The operator’s OSC provided the basis for the exemption issued by the CAA but systems speciﬁed in the OSC for the remote pilot to monitor battery condition and altitude were not installed. The map image used by the operator to deﬁne the operating area and safety zone was out of date and it did not accurately represent the dimensions of the runway that was being used as a reference point.
+The safety zone deﬁned by the OSC and the maximum operating speed speciﬁed by the exemption did not consider reaction and communication times of the operator’s staﬀ. The aircraft was unable to transmit telemetry to the remote pilot, so there was no means of monitoring the speed or height of the UA or ensuring that it remained within the limitations of the exemption.
+* Several areas were identiﬁed where CAP 722 could be improved. For instance, there is currently no requirement for UAS to be ﬁtted with GNSS-based safety systems, data recording equipment or warning placards for high voltage stored energy systems to be installed. CAP 722 does not contain any guidance on how operational and safety zones should be deﬁned.
+The CAA UAS Sector Team were relatively new to the role and had limited experience in dealing with airworthiness matters. As a result, no assessment was made of the operator’s ability to properly complete the OSC and no independent corroboration of information provided by the operator in the OSC was carried out. The OSC contained references to approvals granted by CASA which were not validated by the CAA UAS team.
+No face-to-face meetings were held between the CAA and the operator. The CAA did not inspect the UAS before ﬂight or observe a ﬂight before granting the exemption. The CAA arrived 45 minutes before the ﬂight without prior arrangement to view or inspect the UAS. Their request to inspect the UAS was declined by the operator as pre-ﬂight preparations were already underway and the NOTAM closing the aerodrome to other traﬃc only provided a limited window of time for the ﬂight to take place. The CAA UAS Sector Team had no means to ensure that the operation of the UAS remained within the limitations of the exemption.
+
+A total of 15 Safety Recommendations were made as a result of the Investigation as follows:
+
+that Riotplan Proprietary Limited t/a Alauda Racing, amends its processes to ensure that it designs, builds and tests unmanned and manned aircraft in accordance with appropriate standards to ensure the safety of those who may be aﬀected by their operation. [2021-001]
+that the Civil Aviation Authority update Civil Aviation Publication 722, ‘Unmanned Aircraft System Operations in UK Airspace - Guidance & Policy’, to require detailed evaluation of any Unmanned Aircraft Systems that use onboard systems to mitigate risks with Risk Severity Classiﬁcations of ‘Major’, ‘Hazardous’ or ‘Catastrophic’. [2021-002]
+that the Civil Aviation Authority update Civil Aviation Publication 722, ‘Unmanned Aircraft System Operations in UK Airspace - Guidance & Policy’, to provide guidance on the planning, completion and documenting of Radio Frequency surveys to reduce the risk of Radio Frequency interference or signal loss when operating Unmanned Aircraft Systems. [2021-003]
+that the Civil Aviation Authority require Unmanned Aircraft System operators, that use unmanned aircraft which rely on a radio link to operate safety systems, to provide Radio Frequency survey reports to the Civil Aviation Authority for review, to ensure they are suitable and suﬃcient. [2021-004]
+that the Civil Aviation Authority update Civil Aviation Publication 722, ‘Unmanned Aircraft System Operations in UK Airspace - Guidance & Policy’, with guidance on how to deﬁne an Unmanned Aircraft System’s operational and safety areas, using up-to-date maps, accurate trajectory analysis and human or automated safety system reaction times, to ensure a safe operation. [2021-005]
+that the Civil Aviation Authority update Civil Aviation Publication 722, ‘Unmanned Aircraft System Operations in UK Airspace - Guidance & Policy’, to provide examples of Unmanned Aircraft System safety systems. [2021-006]
+that the Civil Aviation Authority introduce requirements to deﬁne a minimum standard for safety systems to be installed in Unmanned Aircraft Systems operating under an Operational Authorisation, to ensure adequate mitigation in the event of a malfunction. [2021-007]
+that the Civil Aviation Authority require Unmanned Aircraft System operations under an Operational Authorisation to be ﬁtted with a data recording system which is capable of demonstrating: compliance with the Authorisation’s conditions, safe operation and the logging of any failures which may aﬀect the safe operation of the Unmanned Aircraft System. [2021-008]
+that the Civil Aviation Authority specify the minimum requirements for the monitoring of Unmanned Aircraft System high-voltage stored energy devices, to ensure safety of operation. [2021-009]
+that the Civil Aviation Authority specify the minimum requirements for readily identiﬁable warnings and safety information on Unmanned Aircraft high-voltage stored energy devices to inform third parties of the potential hazard. [2021-010]
+that the Civil Aviation Authority ensure that operators of Unmanned Aircraft Systems have an eﬀective Safety Management System in place prior to issuing an Operational Authorisation. [2021-011]
+that the Civil Aviation Authority, before issuing an Operational Authorisation to operate an Unmanned Aircraft System they have not previously had experience with, carry out a physical examination of the Unmanned Aircraft System to ensure that it is designed and built to suitable standards, and observe a test ﬂight to conﬁrm operation in accordance with the Operating Safety Case. [2021-012]
+that the Civil Aviation Authority update Civil Aviation Publication 722, ‘Unmanned Aircraft System Operations in UK Airspace - Guidance & Policy’, to include reference to the consequences of not complying with the conditions of an Operational Authorisation to operate an Unmanned Aircraft System. [2021-013]
+that the Civil Aviation Authority adopt appropriate design, production, maintenance and reliability standards for all Unmanned Aircraft Systems with aircraft capable of imparting over 80 joules of energy. [2021-014]
+that the European Union Aviation Safety Agency adopt appropriate design, production, maintenance and reliability standards for all Unmanned Aircraft Systems with aircraft capable of imparting over 80 joules of energy. [2021-015]
+
+The Final Report of the Investigation was published on 18 February 2021.
+Related Articles
+
+Unmanned Aerial Systems (UAS)
+Regulation 2019/947 - rules and procedures for unmanned aircraft
+UAS Rules and Guidance - EU
+Safety Oversight

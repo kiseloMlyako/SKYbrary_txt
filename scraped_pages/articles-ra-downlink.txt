@@ -1,0 +1,169 @@
+RA Downlink
+
+
+
+
+
+
+
+
+
+
+
+  RA Downlink
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Nets 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Resolution Advisories (RAs) are issued to the pilots by the Airborne Collision Avoidance System (ACAS) (also referred to as TCAS - Traffic alert and Collision Avoidance System) if a risk of collision is identified. The RA takes precedence over ATC instructions and the controller should not interfere with the resulting collision avoidance manoeuvre.
+Typically, controllers only know about RAs when, and if, pilots report them. The controllers' situational awareness may diminish if an aircraft departs from its clearance as the result of an RA and the pilot does not promptly report this.
+RA Downlink
+RA information is transmitted to the ground via different channels. This is referred to as RA downlink. RA downlink is used for offline monitoring of ACAS. More recently RA downlink is also used to display RA information on controller working positions by some ANSPs.
+Pilots often fail to report an RA to ATC or delay their reports. Studies conducted in 2009 indicate that 50% of all RAs are reported within 16 sec. of RA onset. Pilots report only 48% of Climb or Descend RA, while ICAO requires that RAs requiring a deviation from the current ATC clearance or instruction are reported. Pilot reports are sometimes lengthy, unstructured, incorrect or incomplete, requiring repetition or clarification from the controller. If controllers do not know that the aircraft is responding to an RA, they might issue an instruction in an attempt to resolve the conflict. That instruction could contradict the RA.
+Potential benefits of RA downlink include:
+
+Reduced likelihood of contradictory clearances.
+Improved situational awareness.
+More up-to-date traffic information, especially to other aircraft in the vicinity.
+Better post-conflict traffic planning
+
+Safety Recommendations
+Safety recommendations concerning RA downlink have been made by a number of organisations and advisory groups. Some of them are listed below:
+
+In 2001, following an incident in Copenhagen, the Danish Accident Investigation Board recommended that it should be considered whether controllers should have access to Mode S transponder RA information.
+
+
+In 2003, the High Level European Action Group for ATM Safety (AGAS) advised to investigate the feasibility of RA downlink.
+
+
+In the Überlingen accident report, BFU (German Federal Bureau of Aircraft Accidents Investigation) recommended the initiation of RA downlink development.
+
+Previous Studies of RA downlink
+EUROCONTROL in 2003 launched the Feasibility of ACAS RA Downlink Study (FARADS) Project. The aim of this project was to investigate the technical feasibility and the operational benefits of providing the RA information to the controller in a comprehensive way.
+The FARADS project was not the first initiative investigating the possibility of displaying RA information at the Controller Working Position (CWP). Studies on the feasibility and operational benefits of RA downlink have been conducted in the USA, in France, and in Japan.
+In 2005 and 2006, a number of RA downlink real-time simulations were conducted (RADE-2 simulations). The simulations provided evidence that RA downlink can increase controllers’ situation awareness and limit the likelihood of controller’s issuing a clearance to the aircraft responding to the RA. In contrast, no negative effects of RA downlink on the controller’s performance were found (e.g. over-focusing on the RA event).
+The FARADS Study, completed in 2007, concluded that RA downlink is technically feasible and may deliver safety benefits. However, these benefits could not be quantified due to insufficient data.
+Since the completion of FARADS, EUROCONTROL and other organisations have undertaken monitoring work to provide that data and examine the interactions between ground based and airborne safety nets (STCA vs. ACAS). That has been done in the scope of EUROCONTROL Pass Project (completed in 2009) and further investigated by SESAR.
+Developments as of April 2015
+Since the late 2000s, downlink was available in some commercial systems and a number of ANSPs had decided to implement it. Conversely, the UK CAA specifically requested that UK’s ANSP do not use RA downlink supplied in their ATM systems.
+There were no ICAO provisions regarding RA downlink and concepts of operations varied between places where RA downlink had been implemented. The level of detail of RA information displayed to controllers varies between places.
+The RA downlink research undertaken by SESAR P04.08.01 has been inconclusive, as real-time simulation have not been conducted.
+In 2015 EUROCONTROL and DFS legal service jointly published a paper on RA downlink legal responsibility aspects.
+Controversy and issues
+While displaying ACAS RAs to the controller would generally enhance their situational awareness, there also are a few issues causing concern:
+
+In accordance with ICAO SARPs, a controller is expected to continue to issue clearances and instructions to separate aircraft until the pilot reports an RA. Therefore, if ACAS RAs are to be presented on the controller working position, a clear and unambiguous description of the controllers' obligations is necessary.
+Not all ACAS RAs must be reported (only those that require a deviation from the current ATC clearance). Therefore, many RAs will be displayed to controllers which otherwise would not need to be reported by the pilot
+The pilot is not aware when an ACAS RA is downlinked.
+It is possible (while unlikely) that the pilot may have no RA displayed in the cockpit and yet the controller is seeing an RA.
+The information presented to the controller might be outdated at the moment it appears on the situational display (due to surveillance latency) which would make it outdated and therefore potentially unsafe. Even if the controller is only using the RA "for information" regarding the direction of the level change, this information may be not up to date (due to e.g. an RA reversal) at the time it is presented to the controller. Even a delay of a few seconds could be significant. However, the same limitation applies to any surveillance information presented on controller's screen.
+
+ 
+Related Articles
+
+EUROCONTROL Pass Project
+Feasibility of ACAS RA Downlink Study (FARADS) Project
+Short Term Conflict Alert (STCA)
+Loss of Separation
+Level Bust
+ACAS Regulation and Procedures
+ACAS Training
+ACAS Resolution and Traffic Advisories
+ACAS: Guidance for Controllers
+
+Further Reading
+
+TCAS RA Display to Controllers - A Belgocontrol Study, Belgocontrol, May 2017.
+RA downlink legal responsibility aspects EUROCONTROL/DFS joint paper, 2015.
+
+
+
+
+
+Categories
+
+
+Safety Nets,
+              Loss of Separation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

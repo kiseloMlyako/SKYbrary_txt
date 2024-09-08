@@ -1,0 +1,309 @@
+B737, Singapore Seletar, 2017
+
+
+
+
+
+
+
+
+
+
+
+  B737, Singapore Seletar, 2017
+
+
+
+
+
+
+
+
+
+Summary
+
+On 16 November 2017, a Boeing 737-700 departing Singapore Seletar was observed by ATC to only become airborne very near the end of the runway and to then climb only very slowly. Ten approach lights were subsequently found to have been impact-damaged by contact with the aircraft. The Investigation found that after the crew had failed to follow procedures requiring them to validate the FMC recalculation of modified takeoff performance data against independent calculations made on their EFBs, takeoff was made with reduced thrust instead of the full thrust required. The modification made was also found not to have been required.
+
+
+
+
+Event Details
+
+When
+
+16/11/2017
+
+
+
+Event Type
+
+
+CFIT,
+              HF
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 737-700
+
+
+
+
+
+
+
+
+
+Operator
+
+MyJet Asia
+
+
+
+Type of Flight
+
+Public Transport (Non Revenue)
+
+
+
+Flight Origin
+
+
+
+
+Seletar Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Beijing Capital International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Take Off
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+WSSL
+
+
+
+
+General
+
+Tag(s)
+
+
+              Use of Erroneous Performance Data,
+              CVR overwritten
+          
+
+
+
+
+CFIT
+
+Tag(s)
+
+
+              Into obstruction
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Pre Flight Data Input Error,
+              Ineffective Monitoring,
+              Procedural non compliance
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Aircraft damage
+
+Minor
+
+
+
+Non-aircraft damage
+
+Yes
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+Yes
+
+
+
+Ditching
+
+Yes
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Airworthiness
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 16 November 2017, a Boeing 737-700 (VP-CAM) being operated by MyJet Asia on a non-revenue positioning flight from Singapore Seletar to Beijing was observed by the TWR controller to get airborne only at the very end of the 1,836 metre-long runway 03 and then perform an extremely shallow climbout in day VMC. After an inspection was requested by the controller, it was found that 10 approach lights had been damaged. The flight crew were advised but reported everything appeared to be operating normally and decided to continue with the intended flight. After completion of the flight, damage consistent with lighting impact by the left main landing gear wheels was found.
+Investigation
+The matter was reported to the Transport Safety Investigation Bureau of the Singapore Ministry of Transport by ATC and a Serious Incident Investigation was commenced and both the FDR and CVR were removed from the aircraft. Relevant data were successfully downloaded from the FDR but relevant data on the CVR had been overwritten.
+It was noted that both pilots were FAA-licensed and both were qualified as Captains on type with the older and relatively more experienced one designated as commander and occupying the left hand seat. The 50 year-old commander, who was acting as the PF, had a total of 8,537 flying hours which included 6,363 hours on type and the 38 year-old Co-pilot had a total of 6,300 flying hours which included 650 hours on type.
+FDR data showed that the aircraft had rotated approximately 500 m before the end of the runway and lifted off at about 120 m before the end it. The approach lighting damage caused during the takeoff had occurred “about 60 metres beyond the end of the runway” with FDR data indicating that the ten damaged lights had been overflown with the aircraft “about 1 metre above the ground”. Eight lights had the poles on which they were mounted severed and the remaining two had just their top covers damaged.
+FDR data also showed that the takeoff had been made using significantly higher V speeds and a lower thrust setting – V1 138 knots, VR 139 knots, V2 142 knots and N1 90.4% - than those required for the prevailing conditions and that these had been indicated as and based on an Assumed Temperature (AT) of 67°C rather than the actual OAT of 29°C.
+Contrary to this finding, the flight crew stated that they had “intended to use full thrust for the takeoff (and) were aware of the operator’s procedures that reduced thrust takeoffs were not allowed for flights out of Seletar”. They also stated that whilst recognising that “the aircraft had lifted off close to the end of the runway and climbed slowly at a very shallow angle” they had “not noticed anything unusual” since as they had decided to carry almost six tonnes more fuel than was required for the flight, they “were expecting that the takeoff roll could be longer than normal”.
+The application of the routine process used by the crew to calculate take off performance data was therefore examined and it was found that the intention of the crew appeared to have been to make a full thrust departure. However, this procedure had not been applied correctly when attempting to modify the initial results to match a 3° increase in OAT which had occurred between the time of the initial calculation which had assumed runway 03 would be given for departure and confirmation of this by TWR.
+The procedure used involved both pilots using the Onboard Performance Tool (OPT) software installed on their EFBs to make a calculation of the expected takeoff performance data taking account of the runway to be used as a prelude to entering the same data into the FMC to derive the takeoff performance data which would actually be used by the aircraft systems. Although the OPT was supplied by Boeing for use in the aircraft type and the FMC was installed in the aircraft by Boeing, it was noted that because the FMC did not have a database of available airport runway lengths or take account of minimum engine climb out gradient capability or obstacle clearance, it was essential to check that the takeoff data calculated by the FMC was the same as that calculated independently by the OPT which did have such a database.
+This cross check confirmed that the initial FMC calculation - V1 138 knots, VR 139 knots, V2 142 knots and N1 90.4% matched the OPT figures and the crew subsequently noted that when they repeated their OPT calculations using the new OAT, the V speeds were the same and the required thrust had increased very slightly to 90.8%. The PM then input the new OAT into the FMC which would have resulted in the V-speeds previously calculated being de-selected and a ‘VERIFY TAKE OFF SPEEDS’ message appearing on the control/display unit (CDU) scratch pad. The revised V speeds are displayed in a small size until accepted by the crew when they change to a larger size. The action of accepting the FMC calculated speeds requires that they correspond to the OPT-derived figures. When the crew noticed the ‘VERIFY’ message, “the PM re-selected the V speeds” and having informed the PF accordingly he received an acknowledgement. Neither pilot noticed that (according to the FDR data) the FMC had generated a completely different set of calculated takeoff data - V1 138 knots, VR 139 knots, V2 142 knots and N1 90.4% and displayed ‘AT’. The ‘AT’ indication showed that the calculation had used the ‘Assumed Temperature’ method to calculate data for a reduced thrust takeoff instead of full thrust which would have displayed ‘TO’ to indicate that the data calculation had been made for the required full thrust takeoff.
+The new FMC calculation was evidently not checked against the new OPT calculation, and the significant discrepancy between the initially-calculated full thrust takeoff performance data and the subsequently accepted reduced thrust takeoff data was not recognised by the crew as invalid, so the takeoff was inadvertently made using V speeds and takeoff thrust which were not valid for the prevailing circumstances.
+The aircraft operator “was unable to offer an explanation” as to how an AT takeoff data calculation by the FMC had occurred and it was noted that according to Boeing, “the only known way for an AT (Assumed Temperature) departure to be entered was by an FMC entry”. The Investigation also noted that the aircraft operator’s policy was that the AT method of calculating reduced thrust takeoff data was not to be used and that if one was possible, the data must be derived by using the alternative “fixed de-rate” method. The Investigation considered that its findings indicated that in general “it would be desirable for the FMC to be able to factor in runway length information and deny a request for calculations of V speeds and N1 when an inappropriate AT is input to the FM”.
+The Conclusion of the Investigation was formally documented as follows:
+
+The aircraft took off with a reduced thrust take-off of 90.4% as determined by the FMC using an assumed temperature of 67°C. The thrust setting was significantly below that required for the conditions of the day and the runway length available. The assumed temperature of 67°C was somehow inadvertently introduced into the FMC.
+The flight crew could have noticed the discrepancies between the results of the OPT and FMC had they followed both the operator’s and the aircraft manufacturer’s procedures.
+The FMC calculations of V-speeds and N1 setting did not take into account the runway length available, unlike the OPT calculations.
+
+Safety Action taken as a result of the Investigation was noted as having included the following:
+
+MyJet Asia reminded its flight crews not to use the Assumed Temperature method for reduced thrust takeoffs and implemented a procedure to prevent it being used inadvertently. This procedure requires the PM to verify that the N1 value calculated by the FMC and confirmed by the OPT is set on the Primary Engine Indications portion of the upper display before announcing “Thrust Set”. The company has also stressed to its flight crews that maximum thrust must be used for takeoffs from runways less than 1,830 metres long.
+Boeing issued a Flight Operations Technical Bulletin 737-18-02 dated 21 December 2018 which provides operators with techniques for verification of take-off performance data to help reduce takeoff performance errors. This Bulletin also discusses the assumptions and limitations of FMC takeoff speeds.
+
+One Safety Recommendation was made as a result of the Investigation as follows:
+
+that Boeing consider including the airport runway lengths in the calculation of V-speeds and N1 settings by the FMC, so that the flight crew can be made aware when the performance data entered into the CDU does not meet the aircraft take-off and climb performance requirements. [TSIB-RA-2019-001]
+
+The Final Report of the Investigation was published on 10 June 2019 and subsequently made available online.
+Related Articles
+
+Use of Erroneous Parameters at Take-Off
+Aircraft Performance
+Reduced Thrust Takeoff
+Flight Management System
+Crew Resource Management (CRM)
+Authority Gradients

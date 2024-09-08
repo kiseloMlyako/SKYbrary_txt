@@ -1,0 +1,320 @@
+A320, Lisbon Portugal, 2019
+
+
+
+
+
+
+
+
+
+
+
+  A320, Lisbon Portugal, 2019
+
+
+
+
+
+
+
+
+
+Summary
+
+On 16 September 2019, an Airbus A320 departing Lisbon only became airborne 110 metres before the end of runway 21 and had a high speed rejected takeoff been required, it was likely to have overrun the runway. The Investigation found that both pilots had inadvertently calculated reduced thrust takeoff performance using the full 3705 metre runway length and then failed to identify their error before FMS entry. They also did not increase the thrust to TOGA on realising that the runway end was fast approaching. This was the operator’s third almost identical event at Lisbon in less than five months.
+
+
+
+
+Event Details
+
+When
+
+16/09/2019
+
+
+
+Event Type
+
+
+HF,
+              RE
+
+
+
+
+Day/Night
+
+Night
+
+
+
+Flight Conditions
+
+On Ground - Normal Visibility
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS A-320
+
+
+
+
+
+
+
+
+
+Operator
+
+EasyJet
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Lisbon Humberto Delgado Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Manchester International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Take Off
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+LPPT
+
+
+
+
+General
+
+Tag(s)
+
+
+              Inadequate Airworthiness Procedures,
+              Airport Layout,
+              Use of Erroneous Performance Data,
+              CVR overwritten
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Pre Flight Data Input Error,
+              Ineffective Monitoring,
+              Procedural non compliance
+          
+
+
+
+
+RE
+
+Tag(s)
+
+
+              Reduced Thrust Take Off
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 16 September 2019, an Airbus A320 (G-EZWE) being operated by EasyJet on a scheduled international passenger flight from Lisbon to Manchester only became airborne 110 metres before the end of the 3705 metre-long runway 21 at Lisbon during its night takeoff in normal visibility. The remainder of the flight was without further event.
+
+A CCTV screenshot showing the aircraft just after reaching V1. The row of red runway end lights is visible to the right of the aircraft (in the yellow circle). [Reproduced from the Official Report]
+Investigation
+The Investigation as delegated by the Gabinete de Prevenção e Investigação de Acidentes com Aeronaves e de Acidentes Ferroviários (GPIAAF) to the UK AAIB who then carried out a Field Investigation into this Serious Incident. By the time the AAIB became aware of the event relevant CVR data had been overwritten and the FDR was not downloaded as the aircraft operator provided equivalent data from the QAR. CCTV recordings of the takeoff were also obtained.
+It was noted that the 57 year-old Captain, who had been PF for the flight involved, had approximately 16,000 hours flying experience of which approximately 8000 hours were on type. Corresponding details for the First Officer were not given.
+What Happened
+The same crew operated the previous flight from Manchester to Lisbon and had then had a 1 hour 20 minute turnround during which they prepared for the return flight. As required by SOPs, both pilots used their EFBs to calculate the required takeoff performance data and cross-checked their results. During this process, both pilots independently selected what they believed to be the intersection of the departure runway 21 and runway 17/35 as the position likely to provide the shortest possible takeoff distance likely to be offered and calculated that a FLEX (flexible temperature) takeoff would be possible. In fact they had instead both selected the full runway length and their identical error was not picked up during either the initial calculation or during the pre-takeoff check of performance.
+The aircraft subsequently pushed back from its parking gate and, since the crew had not requested a full length departure on start up as required in that case, was cleared to taxi for a departure from the U5 intersection with runway 21, the automatic default in the absence of any other request. The TORA/TODA from this position was greater than the intersection of the two runways which the crew believed they had calculated performance from but 1395 metres less than the full runway length which they had actually used.
+The Captain stated that “the takeoff initially seemed normal but both flight crew realised there was something wrong as they saw the red and white alternate lights of the last 900 m of the runway”. TOGA thrust was not then selected and the aircraft subsequently became airborne with only 110 m of the runway remaining. During the flight the crew advised that they had recognised what had happened and had reported it to the operator after completing the flight.
+
+The takeoff runway annotated with the calculated and actual start of takeoff and the point airborne. [Reproduced from the Official Report]
+Recorded flight data (see the illustration below) showed that the calculated V1 (162 knots) was reached 44 seconds from the beginning of the takeoff following a 1,775 metre ground roll with approximately 570 metres of runway remaining ahead of the aircraft. Five seconds later, the aircraft became airborne approximately 110 metres from the end of the runway. It was calculated that at the speed the aircraft was travelling over the ground, this distance would have been covered in approximately 1.3 seconds. One second later, whilst still over the paved surface of the runway, the aircraft achieved the regulation screen height of 35 feet for a dry runway and crossed the airport boundary at a height of 225 feet agl. The data confirmed that TOGA thrust was not selected at any point.
+The Performance Calculation
+It was noted that the objective of the EFB takeoff performance calculation is to find the maximum takeoff weight or the maximum takeoff thrust reduction (referred to as ‘FLEX’ on this aircraft type) that would, for a given runway and intersection, take into account all the regulatory requirements and the ambient conditions. If, as in the full length case for runway 21 at Lisbon, the runway length is not limiting, a range of valid V1 speeds may be available which allows the calculation process to select a V1 which provides performance margins on both the accelerate-stop and the accelerate-go cases. As might be expected, this process generated a V1 which was significantly higher (162 KIAS) than that which would have been generated for the U5 intersection (142 KIAS) since all the distances involved were 1,395 metres less.
+The ASD which would have been applicable to a takeoff commenced for a full length takeoff was found to be 2,995 metres whereas the ASD available from the U5 intersection was only 2,410 metres. It was noted that “these figures suggest that, had the aircraft been required to stop from near V1, a significant overrun of up to 585 metres could have occurred”. As is evident from the inset photos of the area just beyond the end of the runway in the illustration below, it was noted that there were “several obstructions beyond the runway that could have caused significant damage to the aircraft and its occupants should an overrun have occurred”.
+
+The takeoff with QAR data annotated showing progress along the length of runway used with the overrun area inset. [Reproduced from the Official Report]
+Taxiway Nomenclature at Lisbon
+The airport was “unusual in that it used named ‘Positions’ to designate the available takeoff points on the runways (whereas) it would be more commonplace for an airport to use taxiway nomenclature to describe takeoff points”. Whilst this use of ‘Positions’ is limited to the AIP and not replicated in signage and they are “not generally referred to by ATC”, the AIP is the source used by commercial chart companies to generate the publications which aircraft operators use.
+With runway 21 in use, the preferred departure point for all aircraft, except heavy jets, was ‘Position U’, which was the intersection of the runway with taxiway U5. Pilots must advise ATC on start-up if they require the full length of the runway for departure with this usually only being necessary for heavy aircraft. Access to the runway for a full length departure was made from taxiway S4 which was designated as ‘Position S’. At the time of the investigated event, taxiway S1 was part of the parallel taxiway to the south east of runway 17/35 on the terminal side, taxiway S2 was a continuation of S1 and taxiway S3 was parallel to the southern end of runway 03/21 on its southeastern side and joined taxiway S4 which provided access to the full length of runway 21. These four separately-identified taxiways were collectively referred to as taxiway ‘S’. On the following illustration, the blue line shows the taxiway ‘S’ route to the full length of runway 21 which crosses runway 03/21 between taxiways S1 and S2 so that there were therefore two points on Runway 21 where Taxiway ‘S’ intersected the runway. As a result of investigating two almost identical Serious Incidents at Lisbon less than five months before the one now under investigation (see below) it was noted that the UK AAIB had made Safety Recommendation 2020-03 in January 2020 in an attempt to mitigate the risk of further confusion relating to takeoff positions for runway 21 at Lisbon.
+
+The Lisbon Aerodrome Chart with Taxiways S1, U5 and S4 highlighted (the blue line shows how the full length of runway 21 is reached via taxiways S1/S2/S3/S4). [Reproduced from the Official Report]
+EFB Use for Takeoff Performance Calculation
+It was noted that the individual EFBs for each pilot were mounted in a cradle which allowed it to remain connected to an aircraft system power source but on the day of this event, the cradle on the Captain’s side had been removed as it was broken. The Captain stated that this meant that whilst it “was difficult to use the EFB when it was connected to the aircraft power supply without the usual cradle [...] disconnecting it from the power supply meant only a very short time of operation as the battery was unable to power it for any length of time”. This situation resulted in the EFB having to be hand-held which made use of it “challenging”. UK CAA oversight of EFB use in flight decks was noted to be based on completion of a form to confirm compliance of an initial introduction or a significant change. EasyJet had installed EFBs on its fleet prior to the introduction of this form in July 2019 so had already been granted approval but it had been required to complete one as an ad hoc audit requirement in late 2019. This was noted to have identified a number of deficiencies including the absence of any programme to ensure replacement of EFB batteries, the absence of procedures to ensure the serviceability of EFBs before flight, report any unservisability and notify crews accordingly and the absence of any general maintenance procedures and dispatch guidance for unserviceable elements of the EFB.
+The EFB in use at the operator for takeoff performance calculation required that the pilot identified the runway and the point on it from where the takeoff was to begin. There were only two points available on runway 21 at Lisbon, ‘Position U’ and ‘Position ‘S’. These are named in the software as PSNU and PSNS. It was found that at the time of the event, a NOTAM about an obstacle in the runway 21 climb-out which affected the takeoff performance calculation had resulted in the data supplier adding two more temporary takeoff positions for the runway labelled PSNUTMP and PSNSTMP. The crew reported that they had discussed the likely takeoff point and decided that they could use the S1 intersection if necessary, from which there was a shorter TORA than from U5. They had then made the performance calculation using PSNSTMP as the selection for the S1 intersection despite the fact that S1 was not an approved intersection for departure from the runway. This decision contrary to the applicable procedures was not further explained.
+Whilst it was not possible to explore the incorrect use of the EFB function or the failure to then trap the duplicate error by application of checking SOPs, the Investigation noted that in respect of EFB performance calculations generally, “pilots performing cross-checks often fail to notice errors or differences when the figures are unexpected and incorrect calculations can lead to insufficient thrust, and therefore acceleration, during takeoff”. In terms of then recognising that the acceleration being achieved was below normal, it was noted that “humans are poorly adapted physiologically to discriminate between slightly different acceleration rates”.
+Two previous similar events
+EasyJet had recorded two almost identical Serious Incidents involving its Airbus A320s departing Lisbon runway 21 less than 5 months prior to the one under investigation this time, both of which had been the subject of a UK AAIB Field Investigation published on 16 January 2020 On 24 April 2019, the aircraft became airborne 400 metres before the end of the runway and on 7 May 2019, the aircraft became airborne 350 metres before the end of the runway. In the first event TOGA thrust was not set as the end the runway was approached but whether this was also the case in the second event was not recorded. Both these earlier events occurred in daylight, in contrast to the latest one.
+The Conclusion of the Investigation was formally documented as follows:
+The aircraft took off using incorrect performance data for the intersection used. A selection error was made in the EFB calculation which led the crew to believe that they had calculated performance information for a departure from S1 when in fact they had selected the full length of the runway. In this case, as in the two previous identical incidents, the final barrier of checking the runway distance in the performance calculation against the aerodrome ground chart failed to prevent error. Human performance limitations mean it is difficult for pilots to recognise and react to the performance error once the takeoff has begun, so robust adherence to procedures is a key defence against such incidents occurring.
+The following Safety Action was noted to have been taken as a result of the Investigation findings:
+
+Lisbon Airport: after advising that it intended to rename taxiways to remove the risk of confusion between the Taxiway ‘S’ crossing of runway 21 and its termination at the beginning of runway 21 following the two earlier similar events also investigated by the UK AAIB and involving Easy Jet Airbus A320 flights, it had not done so prior to this third similar event but did so on 5 December 2019.
+Easyjet:
+
+Upgraded the performance software they use and this now shows the crew a pictorial image of the takeoff point used for the EFB calculation.
+Amended the EFB takeoff point selection menu to make it less likely that the intersection between the two runways at Lisbon will be confused with full length of runway 21.
+
+
+The UK CAA decided to revise their EFB compliance checklist to emphasise the need for a periodic battery replacement programme.
+
+The Final Report of the Investigation was published on 6 August 2020. No new Safety Recommendations were made.
+Related Articles
+
+Intersection Take Off: Guidance for Flight Crew
+Use of Erroneous Parameters at Take-Off
+Aircraft Performance
+Reduced Thrust Takeoff
+Electronic Flight Bag (EFB)
+Take-off / Go-around (TO/GA) Mode
+Flight Data Monitoring (FDM)

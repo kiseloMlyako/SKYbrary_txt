@@ -1,0 +1,205 @@
+Electrical Fires
+
+
+
+
+
+
+
+
+
+
+
+  Electrical Fires
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Fire Smoke and Fumes 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Electrical fires on aircraft originate from electrical components. An imminent electrical fire often can be detected by indirect indications or alarm-system sensors before the fire ignites. It is also possible that electrical fires will remain hidden to the flight crew or cabin crew for a prolonged time. in those situations, the electrical fire may become apparent too late for crewmembers to take action to eliminate the threat.
+Because modern commercial transport aircraft typically contain miles of wire inside electrical cables, looms, and wiring harnesses (most of them in hard-to-reach places) the most frequent cause of electrical fires is some type of insulation issue, such as:
+
+Worn insulation — Mainly due to ageing and exposure to heat, worn insulation may be more susceptible to catching fire from overheating; worn insulation also may fall off wires, exposing the metal conductor to short-circuiting risks;
+Torn insulation — Tearing is typically due to improper cable installation that may lead to the cable being repeatedly under mechanical stress, ultimately resulting in the conductive metal being exposed;
+Contaminated insulation — When soaked with oil from any source, insulation is also more likely to catch fire (e.g. from electrical overheating); and,
+Breaks in insulation — Exposed metal conductors (wires touching) inside cables may result in a short circuit or an electrical arc or spark.
+
+Imminent or smouldering/burning electrical fires may be indicated directly or indirectly by the following clues:
+
+Over-voltage warning
+Higher than normal electrical load
+Popped circuit breaker
+White smoke and acrid smell of hot or burning insulation; note, however, that these clues may also be caused by cable/wiring insulation being burned by some other type of fire.
+
+Defences and Best Practices
+Prevention is the best countermeasure against electrical fires, including these actions:
+
+Proper aircraft maintenance: Cables should be checked for signs of ageing or damage at regular intervals and replaced as necessary.
+Lead acid storage batteries containment: These batteries must be contained in an approved battery box with the lid vented to the outside of the aircraft to prevent explosive hydrogen gas from entering the aircraft.
+Electrical component replacement: When replacing electical equipment (e.g., light bulbs), only regulator-approved components should be used. Also, maintenance should make sure the new component fixture is complete and intact.
+Pre-flight inspection: A thorough inspection may reveal evidence (e.g., by sight or smell) of leaked fuel, oil, or hydraulic fluids.
+
+When an in-flight electrical fire is suspected or indicated, common flight crew responses consider:
+
+Emergency landing: Landing immediately at the nearest suitable aerodrome — per international best practices — is usually the best course of action if a fire is suspected, even if there are no visible flames.
+Fire characteristics: Once ignited, electrical fires burn just like most any aircraft fire. One difference is that the heat from the energized electrical wiring or component that ignited the fire might sustain it by continued ignitition. Therefore, the common first step when electrical fire is suspected is to cut the power by turning off the master switch. This removes the ignition source, and if an imminent fire has not started to burn, may lead to elimination of ignition threat.
+Troubleshooting: If electrical power is essential for the flight, some emergency checklists authorize the flight crew to attempt to identify and isolate the faulty circuit by:
+
+Turning all individual electrical switches OFF.
+Turning the master switch back ON.
+Selecting electrical switches that were ON before the fire indication, one at a time, permitting a short time lapse after each switch is turned ON to check for signs of odor from fumes, smoke or sparks.
+
+
+
+(Note that this procedure may have the effect of recreating the original problem. On the other hand, lack of electrical power would require a no-flap landing, manually lowering the landing gear, no normal communication capability and no navigation capability, which could increase risk factors, especially if flying at night or instrument meteorological conditions. See Further Reading below for current best practices in designing emergency checklists for smoke-fire-fumes events.)
+
+Deploying extinguishers: If flames from an electrical fire have already started, cutting the power supply will not be enough, and immediate use of some sort of extinguishing equipment will be necessary. The crew's initial focus should be on aggressively extinguishing the fire with a readily available extinguisher. Water must not be used if the crew believes the fire is of electrical origin.
+Declaring MAYDAY: If time permits, the flight crew should communicate with air traffic control (ATC) before powering down the electrical system for the following reasons:
+
+Declaring an emergency will inform ATC that there is a potentially life-threatening so that ATC will be able to provide direct assistance to the flight crew, or advise the search and rescue (SAR) authorities in case of a forced landing, and alert the aerodrome's rescue firefighting (RFF) authorities to prepare for all landing contingencies.
+By setting secondary surveillance radar (SSR) transponder code 7700, the flight crew will also draw the attention of ATC.
+
+
+Position-reporting beacon: By activating the emergency locator transmitter (ELT), which has its own self-contained power supply, the flight crew automatically will help guide the SAR teams to the location of a forced landing, should that become necessary.
+Portable NAV/COM:  On smaller aircraft, carrying a handheld radio transceiver, with integrated or separate handheld GPS navigation can be very helpful if the aircraft electrical system needs to remain off for optimal safety.
+Evacuating smoke/fumes: Managing the smoke is another important part of dealing with an electrical fire. There is no universal solution. Venting the smoke may improve breathing and vision, but the process may also feed the flames oxygen. If the latter situation happens, the flight crew's best option is to close the vents. Current best practices for aircraft operators to update smoke-fire-fumes checklists on their fleets, as noted, also address the mitigation of toxic fumes.
+
+Accidents and Incidents
+Fire - Electrical Origin
+
+
+B788, London Heathrow UK, 2013On 12 July 2013 an unoccupied and unpowered Boeing 787-8, remotely parked at London Heathrow after an arrival earlier the same day caught fire. An investigation found that the source of the fire was an uncontained thermal runaway in the lithium-metal battery within an Emergency Locator Transmitter (ELT). Fifteen Safety Recommendations, all but one to the FAA, were made as a result of the Investigation.
+
+A388, en-route, north east of Singapore, 2011On 31 January 2011, a Singapore Airlines Airbus A380-800 was in the cruise when there was sudden loud noise and signs of associated electrical smoke and potential burning in a toilet compartment with a corresponding ECAM smoke alert. After a fire extinguisher had been discharged into the apparent source, there were no further signs of fire or smoke. Subsequent investigation found signs of burning below the toilet floor and it was concluded that excessive current caused by a short circuit which had resulted from a degraded cable had been the likely cause, with over current protection limiting the damage caused by overheating.
+
+B772, Cairo Egypt, 2011On 29 July 2011 an oxygen-fed fire started in the flight deck of an Egypt Air Boeing 777-200 about to depart from Cairo with most passengers boarded. The fire rapidly took hold despite attempts at extinguishing it but all passengers were safely evacuated via the still-attached air bridge access to doors 1L and 2L. The flight deck and adjacent structure was severely damaged. The Investigation could not conclusively determine the cause of the fire but suspected that wiring damage attributable to inadequately secured cabling may have provided a source of ignition for an oxygen leak from the crew emergency supply
+
+B788, Boston MA USA, 2013On 7 January 2013, a battery fire on a Japan Air Lines Boeing 787-8 began almost immediately after passengers and crew had left the aircraft after its arrival at Boston on a scheduled passenger flight from Tokyo Narita. The primary structure of the aircraft was undamaged. Investigation found that an internal short circuit within a cell of the APU lithium-ion battery had led to uncontained thermal runaway in the battery leading to the release of smoke and fire. The origin of the malfunction was attributed to system design deficiency and the failure of the type certification process to detect this.
+
+E190, en-route, southwest Vermont USA, 2016On 25 May 2016, an Embraer ERJ 190 experienced a major electrical system failure soon after reaching its cruise altitude of FL 360. ATC were advised of problems and a descent to enable the APU to be started was made. This action restored most of the lost systems and the crew, not having declared an emergency, elected to complete their planned 400nm flight. The Investigation found that liquid contamination of an underfloor avionics bay had caused the electrical failure which had also involved fire and smoke without crew awareness because the smoke detection and air recirculation systems had been unpowered.
+
+
+...further results
+
+
+Electrical Fumes
+
+
+B748, en-route, Persian Gulf, 2021On 22 March 2021, the pilots of a Boeing 747-8F which had just reached its initial cruise level after departing Dubai observed smoke and sparks coming from the window heating system and declared a PAN advising their intention to dump fuel and return to Dubai. With the faulty system switched off, this was accomplished without further event. It was found that the cause of the system malfunction was a design-related vulnerability with a history of recurrence which had not been adequately addressed by the aircraft manufacturer and the FAA as safety regulator following relevant NTSB Safety Recommendations made in 2007.
+
+A320, en-route, northwest Greece, 2017 On 29 September 2017, the crew of an Airbus A320 detected a smell of burning plastic and simultaneously observed black smoke entering the flight deck near the right side rudder pedals. Completion of appropriate response procedures reduced the smoke and a diversion to Athens with a MAYDAY declared was without further event. The origin of the smoke and fumes was traced to the failure of the static inverter which was part of a batch which had been previously notified as faulty but not identified as such by the aircraft operator’s maintenance organisation which has since modified its relevant procedures.
+
+A332, en-route, North Atlantic, 2019On 6 February 2019, an Airbus A330-200 Captain’s Audio Control Panel (ACP) malfunctioned and began to emit smoke and electrical fumes after coffee was spilt on it. Subsequently, the right side ACP also failed, becoming hot enough to begin melting its plastic. Given the consequent significant communications difficulties, a turnback to Shannon was with both pilots taking turns to go on oxygen. The Investigation found that flight deck drinks were routinely served in unlidded cups with the cup size in use incompatible with the available cup holders. Pending provision of suitably-sized cups, the operator decided to begin providing cup lids.
+
+AT76, en-route, east of Cork Ireland, 2016On 24 August 2016, an ATR 72-600 experienced a static inverter failure which resulted in smoke and fumes which were identifiably electrical. Oxygen masks were donned, a MAYDAY declared and after the appropriate procedures had been followed, the smoke / fumes ceased. The Investigation noted a long history of capacitor failures affecting this unit which continued to be addressed by successive non-mandatory upgrades including another after this event. However, it was also found that there was no guidance on the re-instatement of systems disabled during the initial response to such events, in particular the total loss of AC electrical power.
+
+E170, Nuremberg Germany, 2013On 13 March 2013, smoke and fumes were immediately evident when the cable of an external GPU was connected to an ERJ170 aircraft on arrival after flight with passengers still on board. A precautionary rapid disembarkation was conducted. The Investigation found that a short circuit had caused extensive heat damage to the internal part of the aircraft GPU receptacle and minor damage to the surrounding structure and that the short circuit had occurred due to metallic FOD lodged within the external connecting box of aircraft GPU receptacle.
+
+
+...further results
+
+
+Related Articles
+
+Fire in the Air
+In-Flight Fire: Guidance for Flight Crews
+Passenger Cabin Fire
+Checklists and Procedures for Non-Alerted Fire/Smoke/Fume Events
+
+Further Reading
+
+FAA Advisory Circular (AC) 120-80B “Firefighting of General and High-Energy In-Flight Fires,” Mar. 16, 2023.
+FAA AC 25-16: "Electrical Fault and Fire Prevention and Protection," April 5, 1991.
+"In-Flight Electrical Fires," Safety Brief, SB08-04/09, AOPA Air Safety Foundation, 2009.
+"Smoke, Fire and Fumes in Transport Aircraft: Past History, Current Risk and Recommended Mitigations," Royal Aeronautical Society, Fifth Edition, 2018.
+
+
+
+
+
+Categories
+
+
+Fire Smoke and Fumes,
+              Operational Fires
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

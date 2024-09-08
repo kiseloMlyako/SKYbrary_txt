@@ -1,0 +1,315 @@
+GLEX, Liverpool UK, 2019
+
+
+
+
+
+
+
+
+
+
+
+  GLEX, Liverpool UK, 2019
+
+
+
+
+
+
+
+
+
+Summary
+
+On 11 December 2019, a Bombardier BD700 Global 6000 making a night landing at Liverpool suffered a nose wheel steering failure shortly after touchdown. The crew were unable to prevent the aircraft departing the side of the runway into a grassed area where it stopped, undamaged, in mud. The Investigation found that the crew response was contrary to that needed for continued directional control but also that no pilot training or QRH procedure covered such a failure occurring at high speed nor was adequate guidance available on mitigating the risk of inadvertent opposite brake application during significant rudder deflection.
+
+
+
+
+Event Details
+
+When
+
+11/12/2019
+
+
+
+Event Type
+
+
+AW,
+              HF,
+              RE
+
+
+
+
+Day/Night
+
+Night
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOMBARDIER Global Express
+
+
+
+
+
+
+
+
+
+Operator
+
+VistaJet
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Laurence G. Hanscom Field
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Liverpool John Lennon Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Phase of Flight
+
+Landing
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+EGGP
+
+
+
+
+General
+
+Tag(s)
+
+
+              Deficient Crew Knowledge-handling,
+              Flight Crew Training,
+              Inadequate Aircraft Operator Procedures,
+              Inadequate Airworthiness Procedures
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Inappropriate crew response - skills deficiency
+          
+
+
+
+
+RE
+
+Tag(s)
+
+
+              Off side of Runway,
+              Ineffective Use of Retardation Methods
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Landing Gear,
+              Other
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 11 December 2019, a Bombardier BD700 Global 6000 (9H-VJM) being operated by VistaJet on a non-scheduled international passenger flight from Bedford MA to Liverpool during which line training was being carried out departed the side of the runway during its landing roll after completing a normal ILS approach conducted in night VMC. Neither ground fixtures nor the aircraft were damaged and there were no occupant injuries.
+
+The aircraft in its final stopping position. [Reproduced from the Official Report]
+Investigation
+A Field Investigation was carried by the UK AAIB. The CVR and FDR were removed from the aircraft and their data successfully downloaded. The aircraft operator also provided QAR which was the same as that recorded by the FDR. The Nose Wheel Steering (NWS) Steering Control Unit (SCU) was also removed from the aircraft and its data downloaded for analysis.
+It was noted that the 53 year-old Training Captain who was in command had accumulated a total of 11,506 flying hours which included 3,864 hours on type. The Co-pilot, for whom no flying experience information was given, was undergoing route training and the two pilots had been operating together for the past week, operating to Sao Paulo then to Newark before their current duty period which involved positioning the aircraft to Bedford to pick up a passenger for the flight to Liverpool.
+What Happened
+With the Co-pilot acting as PF the flight was described as having been “completely routine”. ATC provided radar vectors towards an ILS approach to 2,285 metre long runway 27 and it was completed normally in accordance with a VREF of 115 KIAS to a normal touchdown on a damp runway surface. The prior intention of the crew was to exit via RET ‘E’ (see the illustration below). Braking was not hard and around 50% reverse thrust was selected. The aircraft operator’s SOP requires the PM to make an 80 knot call and, if the junior pilot is PF for the Captain to then take over control at 60 knots.
+
+The aircraft ground track superimposed on part of the Liverpool Aerodrome Chart. [Reproduced from the Official Report]
+Shortly after touchdown, FDR data recorded a Master Caution at 100 KCAS associated with a NWS FAIL message on the EICAS. Neither pilot recalled hearing this but two seconds after its annunciation, the CVR records the Captain calling “Nose Steering Fail”. The Captain stated that prior to making the 80 knot call, he had detected that the aircraft was deviating to the right and had taken control. Having done so, he had “instinctively applied left rudder to try and keep the aircraft on the centreline” but despite quickly reaching full left rudder deflection, was unable to correct the deviation. He did not recall making any use of differential braking as a means to assist this attempt at correction but did then recall having noticed the NWS FAIL message on the EICAS.
+As the groundspeed continued to reduce, the aircraft began to turn increasingly rapidly towards the right in the vicinity of RET ‘E’ and the Captain was unable to prevent it departing the paved surface at a recorded 40 knots groundspeed following which it travelled approximately 30 metres before coming to a stop. Having informed ATC of their situation, the flight crew started the APU before shutting down the engines and when the RFFS arrived, the crew and passenger vacated using the forward door integral airstairs. Whilst running the shutdown checks, it was noticed that the brake temperatures were lower than normal with the hottest, the right outboard brake, indicating only 2 on a 39 point. It was noted that this scale indicates red if the value exceeds 16.
+Why It Happened
+An examination of the available recorded data indicated that both pilots had made control inputs in response to the observed deviations which followed the NWS failure and it was clear that right brake applications had been made by the Captain at the same as his increasing left rudder input with this brake application being initially supplemented by the same input by the First Officer. The final veer to the right was shown by the data to have commenced at around 70 knots groundspeed and the right main gear left the paved surface 10 seconds after the full left rudder application had been made. The extent of right brake use appeared to have been unintentional.
+Checks on both the rudder and brake systems found them to be fully serviceable. The Onboard Maintenance System was found to have recorded an NWS fault corresponding to the EICAS-annunciated fault which indicated a loss of nosewheel steering and a consequent reversion to free castoring of the nosewheel. After electrical powering the aircraft hydraulic systems, a NWS sense and range check was carried out and the system was found to operate correctly used via both the steering tiller and rudder pedals. No additional system faults were recorded on either the EICAS or the SCU status display so a series of NWS components were removed and sent to the OEM for further testing This identified one fault which would have resulted in a 0.42° steering offset to the left and another in the left hand steering actuator which would have triggered a NWS failure annunciation and thereby reversion to free castoring mode.
+The relevant Flight Crew Operating Manual (FCOM) entry was found to state only that:
+When the steering system is disarmed or with no WOW signal, the nosewheel steering reverts to free castor and shimmy damping to ensure stability within the nosewheel circuit. In the free castor mode of operation, steering is accomplished only through differential braking and differential thrust.
+Simulator testing found that even with a significant crosswind component, which in the case of the investigated event was only 10 knots, “it was relatively straightforward to control the aircraft with a combination of rudder and differential braking”. The effect of inadvertent braking was then examined noting that even relatively light pressure results in brake pressure being applied. It was found that with full rudder pedal deflection applied, “articulation of the opposite foot can apply pressure on the brake pedal and, unless the pilot is conscious of this effect, it is relatively easy to inadvertently apply braking which opposes the sense of the rudder deflection”. Further tests commencing from an on-ground speed of 130 knots applied approximately half brake pedal deflection on one side as the trust levers were retarded to idle with only rudder then used to try and maintain directional control. This was initially successful but as speed reduced became less so and by around 80 knots “full scale rudder deflection was insufficient to overcome the effect of the brake”.
+Checks were carried out to establish the relationship between full rudder pedal displacement and pilot seat position and in particular the potential effect on the braking. These found that if the seat was adjusted towards the maximum forward position, a possibility existed that “a pilot could inadvertently apply brake pedal pressure”. In the light of this finding and those of normal system function other than high speed loss of the NWS system, the relevant content of both the type rating training course and the aircraft operator’s recurrent training provision were examined. It was found that neither included any practical experience of steering the aircraft at high speed with the NWS inoperative. The QRH drill for a NWS failure was only covered in the simulator during type rating training, was only required for a P1 rating issue and was only relevant at taxi speeds. The objective of this drill was stated as being to re-engage the NWS and it contained no handing advice nor was it a memory item. It was found that despatch with the NWS system inoperative was possible under the MEL for aircraft subject to EASA or Transport Canada oversight but not for those subject to FAA oversight. Release to service under MEL provisions refers to advice contained in Supplement 14 of the AFM.
+It was observed that the Captain’s expectation had been that rudder pedal movement would control the aircraft’s direction. When this did not occur, he “would have needed to recognise his inadvertent braking” and either take his foot off the right brake pedal or begin differential braking as detailed in the FCOM. Given that only four seconds elapsed from the aircraft starting to veer right even though full left rudder was being applied and departing the runway and that he had not been trained in the use of differential braking at high speed, "its use did not immediately occur to him”.
+The formally documented Conclusion of the Investigation was as follows:
+As a result of a fault, the NWS went into free castor shortly after touchdown. During the subsequent landing roll, directional control of the aircraft was lost, and the aircraft departed the right side of the runway and onto the grass. The commander, in applying left rudder to try to keep the aircraft straight, had inadvertently applied some right braking. As the aircraft slowed, full left rudder was unable to counteract the effect of this braking.
+Safety Action arising from the investigation findings was noted as having included:
+
+The Aircraft Operator issued a Safety Alert to its pilots which provided guidance on how to ensure that the brake pedals are correctly adjusted for use by each individual pilot to reduce the chances of unintended brake pressure application occurring at speeds above taxiing speed.
+The Aircraft Manufacturer:
+
+amended the QRH and the AFM Non-Normal Procedures for the aircraft type to provide direct guidance on the use of differential braking.
+Recommended to Training Providers that they introduce training for takeoff and landing without Nose Wheel Steering available into their Type Rating and Recurrent Training programmes.
+Added information to the FCOM on the possibility of inadvertent brake application with rudder pedal deflection and issued a Bulletin to all operators to increase awareness of this issue.
+
+
+
+The Final Report was published on 19 November 2020. No Safety Recommendations were made.
+Related Articles
+
+Runway Excursion
+Brakes
+Rudder
+Engine Indicating and Crew Alerting System (EICAS)

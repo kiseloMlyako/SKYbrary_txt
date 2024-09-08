@@ -1,0 +1,241 @@
+UAV, manoeuvring, Poole Dorset UK, 2020
+
+
+
+
+
+
+
+
+
+
+
+  UAV, manoeuvring, Poole Dorset UK, 2020
+
+
+
+
+
+
+
+
+
+Summary
+
+On 19 November 2020, the police operator of a DJI Matrice M210 UA lost control of it over Poole when it drifted beyond Visual Line Of Sight (VLOS) and communication ceased. It was subsequently damaged when colliding with a house in autoland mode. The Investigation found that a partial power failure had followed battery disconnection with its consequences not adequately communicated to the pilot. It faulted both the applicable UA User Manual content and the absence of sufficient UA status and detected wind information to the pilot. A failure to properly define VLOS was identified but not considered directly causal.
+
+
+
+
+Event Details
+
+When
+
+19/11/2020
+
+
+
+Event Type
+
+
+AW,
+              LOC
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+Location
+
+Approx.
+
+Poole Dorset UK
+
+
+
+
+
+
+
+
+
+
+General
+
+Tag(s)
+
+
+              Inadequate Airworthiness Procedures,
+              Ineffective Regulatory Oversight,
+              Unmanned Aircraft Involved
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Significant Systems or Systems Control Failure,
+              Loss of Engine Power,
+              Environmental Factors
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Electrical Power
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Aircraft damage
+
+Major
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 19 November 2020, control of a DJI Matrice M210 UA being flown operationally by the Police over the city of Poole was lost when it drifted beyond visual line of sight (VLOS) in day VMC and communication was lost. The UA was subsequently found to have crashed into a house in autoland mode and sustained damage. Although no personal injury was involved, the accident outcome was considered to indicate that such a risk existed in the event of loss of control over a populated area. 
+Investigation
+A Field Investigation into the Accident was carried out by the UK AAIB. The operator provided the data log files from both the master controller and the aircraft to the Investigation as well as to the manufacturer.  
+What Happened 
+The 38 year-old ‘Remote Pilot’, who had recorded 14 hours UA experience including 5 hours on type, was operating the electrically powered 6.14kg quadcopter over the urban area of Poole for “police purposes”. They were operating in conjunction with an ‘Observer’ who had a slave controller.
+The remote pilot obtained a forecast wind at 400 feet amsl using a UAS weather app which gave it as north westerly at 24 mph. After a pre flight check of the two batteries “for damage, operational use and full charge”, an uneventful flight towards the south-west was completed. Both batteries were then replaced and a second flight was commenced. Control checks were carried out at a height of 33 feet amsl but there was no requirement to check that both batteries were showing a similar reducing charge rate before commencing a climb to the planned operating altitude, in this case 400 feet amsl. 
+As the climb continued whilst flying south-east towards a target location that was 500 metres away, it was stated that good visual sight of the UA was maintained. The pilot checked his controller screen and reported seeing two messages, “Battery communication error” and “Fly with caution, strong wind". He also reported that after seeing that one of the batteries was showing a much lower “state of charge” than the other, he had reacted by trying to fly the aircraft back towards him but without this appearing to happen. He then used the controller map function to check the aircraft orientation and confirmed that it was continuing on the initial track thereafter soon exceeded the pre-set to 500 metre maximum distance from the remote pilot.
+The pilot attempted to activate the ‘Return To Home’ (RTH) command on the controller without success before changing to ‘Sport Mode’ in accordance with the operator’s emergency procedures. He expected this to enable an increased maximum speed of 51 mph which would make it easier to overcome the headwind component. However, selection of this mode cancelled the RTH feature which could not be re-engaged and an attempt to achieve this with the slave controller also failed. 
+By this time, neither the pilot nor the observer could see the aircraft, although the moving map briefly continued to show it tracking in a south-easterly direction (see the illustration below) before both main and slave controllers lost contact with the aircraft. They then drove to the last location shown on the map display and were able to recover communication with the aircraft and obtain its GPS coordinates which enabled them to locate it on the first-floor balcony of an unoccupied house. It was evident that, having collided with the metal railings of the balcony, the right leg of the aircraft had snapped off and all three propeller blades had shattered with one completely detached and lying nearby (see the illustration below). 
+
+The impact position and the final resting position of the aircraft. [Reproduced from the Official Report]
+Analysis of the available recorded data showed that the accident flight (see the illustration below) had in total lasted around 11 minutes with the aircraft flying over a built up area and entering autoland mode when the only battery powering it had reached 23% of its fully charged state, the other one having ceased powering the aircraft soon after takeoff.
+
+The recorded ground track of the aircraft. [Reproduced from the Official Report]
+Why It Happened 
+The recorded information from the accident flight provided more detail on what had gone wrong. In summary, it showed that as the aircraft climbed through an altitude of 266 feet, battery 1 had ceased to power the aircraft, probably due to a physical break in the connection between the battery and battery terminal. This caused its displayed state of charge to freeze at 97% and left battery 2 as the sole power source which explained its faster than normal loss of charge state to 16% at impact.
+The exact wording of the message displayed on the controller shortly after takeoff was stated by the manufacturer to have been “the communication to the battery is abnormal, please land as soon as possible and check if the battery is installed properly”. The effect of this was to cause the total battery charge percentage figure to drop from 97% to 48% which was not displayed on the pilot’s controller. This drop in total battery capacity led to an observed reduction in the maximum pitch attitude subsequently achieved from 25° to 15° which then led to a reduction in the maximum airspeed. The manufacturer stated that this pitch attitude reduction “was to ensure flight safety”.
+The recorded data showed that the (correctly remembered) message ‘high wind velocity, fly with caution’, which followed about half a minute after the battery communication message had been displayed, had occurred with the UA at an altitude of 325 feet and 181 metres and south-east of the operator’s position. It was automatically generated whenever the indirectly calculated wind speed (not displayed on the controller) reached 10 mps (equivalent to 22.4 mph). A further automatically generated message with the same wording occurred which, according to the manufacturer, indicated that the calculated wind speed had reached 12 mps (equivalent to 26.8 mph), was displayed again shortly afterwards. It was noted that none of these messages had been accompanied by an audible alert and that the operators’ had no idea how long they would have remained on the controller screen. 
+The wind speed calculated by the UA once level was then consistently above the forecast wind speed by an average of around 8 mph and exceeded 35 mph for around a third of the flight time. Since the maximum pitch angle had been reduced, the maximum airspeed was limited to much less than the normal 35.8 mph. It was noted that the calculated wind speed was not available on the controller display and any reliability associated with the forecast wind velocity used for mission planning purposes was unknown.
+When an attempt was made to recover the UA by selecting the ‘RTH’ mode, it encountered a significant headwind component and did not complete the turn and instead began tracking downwind. After 90 seconds of this, communication between the controller and the UA was lost. This would normally have automatically activated the ‘Failsafe RTH’ mode, but this response was prevented by the wind and the airspeed consequences of the restricted pitch attitude and after a further 90 seconds at an altitude of 300 feet, it entered ‘Auto Land’ mode. This resulted in it descending with the only functioning battery power source at 23% charge. Impact with the house balcony subsequently occurred with the recorded rate of descent in the final 30 feet recorded as 102 fpm.
+It was found that the UA involved could be controlled via two apps but that the latest version of the applicable “User Manual” available at the time of the accident only provided information on the one not being used and did not provide any information on alert or warning messages displayed when using either app. It was also noted that this Manual does not mention the fact that the aircraft pitch attitude and top speed are restricted below a certain battery charge level and that the manufacturer “was unable to provide further information on the battery charge level concerned or the pitch limit in degrees or the resulting airspeed limit”. 
+Recorded data for the accident flight appeared to limit pitch (and roll) attitude to 15° when modes other than normal were engaged which is 10° less than the limit specified in the User Manual. The Manual, manufacturer website and the applicable “Disclaimer and Safety Guidelines” were also all noted as giving a wind speed of 27 mph as the figure above which “flight should not be undertaken”. However, a different section in the User Manual with the title “Flight Environment Requirements” stated that the aircraft should not be flown in (amongst other conditions) wind speeds exceeding the equivalent of 22.4 mph.
+The UA manufacturer advised that they routinely operated the UA involved out to a distance of 500 metres in part because this was the distance that the UK CAA had “established” in the 8th edition of their Guidance Document (CAP 722) as being the accepted range for VLOS operations. Such operations were regulated by a requirement for a remote pilot to maintain “continuous unaided visual contact” with the UA. The manufacturer claimed that the UA involved was “easily visible” at a range of up to 500 metres but noted that at that sort of range, establishing orientation “requires trial and error” lateral manoeuvring to be performed.  
+The CAA were asked to explain how the figure of 500 metres had been chosen and responded that it was not based on the dimensions of a typical UA at that distance but was a “pragmatic anchor point” provided by “one of their UAS policy experts”. Their view was that if it was necessary to rely on the controller screen to determine the orientation of a UA, “then that would not satisfy VLOS rules”. The Investigation calculated that the accident UA at 500 metres in level flight would represent an angular size of 0.06° by 0.04° which when represented on a piece of paper held at a normal reading distance of 35 cm, the size of the UA minus propellers would be contained within a 0.4 mm x 0.3 mm square. The Investigation took the view that “it is not clear why the CAA considers 500 metres as a normally acceptable distance [...] without specifying what a normal size is which CAP 722 does not do”.  It also noted that CAP 722 “emphasises the importance of being able to avoid collisions but does not state anything about the importance of being able to recover the UA [...] following a loss of position holding or telemetry”. 
+The Conclusions of the Investigation into the accident were summarised as follow.
+There were six ‘Main Causal Factors’ as follows:
+
+Battery 1 became disconnected shortly after takeoff which reduced the UA’s maximum pitch attitude and maximum speed.
+The pilot did not notice that the ‘battery communication’ message included the words ‘land as soon as possible’.
+When the wind measured by the UA exceeded the manufacturer’s wind limit the alert message to the pilot advised him to ‘fly with caution’ instead of to ‘land as soon as possible’.
+The wind at 400 ft was stronger than forecast and at times above the UA’s restricted maximum speed so the pilot could not fly it back towards him.
+The wind speed calculated by the UA was not displayed to the pilot on his controller app so he did not know that the wind limit had been exceeded.
+After communication was lost, the UA entered an autoland mode but it was unable to avoid colliding with a wall.
+
+There were five ‘Contributory Factors' as follows:
+
+The pilot and operator were not aware that the UA’s maximum pitch attitude and maximum speed were restricted at low battery levels as this information is not in the UAS User Manual.
+The pilot may have missed the ‘land as soon as possible’ part of the battery message because it did not stay visible for long enough. An aural alert may have helped draw the pilot’s attention to the seriousness of the message.
+The disconnected battery was still showing a high SOC instead of showing zero or blank which would have been a clearer indication of a battery issue.
+The pilot probably did not fully push battery 1 into place and the UA was not fitted with a battery safety clip which is a new part on the updated version of the UA.
+The pilot’s decided to launch from a position that would require flying downwind in a wind that was close to limits.
+
+Safety Action known to have been taken by DJI whilst the Investigation was in progress was noted as having included ceasing production of the UA model  involved in the accident and replacing it with one which had a battery safety clip and which displayed wind speed on the controller app.
+A total of 4 Safety Recommendations were made as a result of the Investigation as follows:
+
+that DJI amend the DJI Pilot and DJI GO4 apps to warn the remote pilot when the wind limit has been exceeded and that the UA should be landed as soon as  possible. [2022-001]    
+that DJI amend the DJI Pilot and DJI GO4 apps so that an aural alert is triggered when alert messages relating to safety of flight appear. [2022-002] 
+that DJI amend the Matrice 200 series User Manual to provide information on the pitch attitude limiting system, including the new maximum speed which results from the limit, and the battery level at which it triggers; and communicate this change widely to pilots and operators. [2021-003] 
+that the Civil Aviation Authority review the Visual Line of Sight distance figures in CAP 722 and amend the guidance to make it clear that just being able to see an unmanned aircraft is not sufficient for Visual Line of Sight operations and that pilots need to be able to demonstrate that at the distance they are flying, they can manoeuvre it rapidly to avoid a collision and can also land the unmanned aircraft safely following a loss of position-holding without reference to video or telemetry. [2021-004] 
+
+In respect of the final Safety Recommendation, it was observed that whilst the issues identified with the VLOS guidance in CAP 722 “were not a direct factor in this accident [...] the guidance should be improved to help reduce the chance of other types of VLOS fly away accident which could result in injuries to people”.
+The Final Report of the Investigation was published on 7 April 2022.   
+Related Articles
+
+UAS
+Loss of Control
+UAS Rules and Guidance (EU)

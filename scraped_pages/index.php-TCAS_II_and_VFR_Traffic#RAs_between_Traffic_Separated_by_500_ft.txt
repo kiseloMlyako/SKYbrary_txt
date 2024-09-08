@@ -1,0 +1,155 @@
+TCAS II and VFR Traffic
+
+
+
+
+
+
+
+
+
+
+
+  TCAS II and VFR Traffic
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Nets 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Light aircraft, which constitute the bulk of Visual Flight Rules (VFR) traffic, are not normally fitted with Airborne Collision Avoidance System (ACAS), but increasingly, many are fitted with transponders. These are often required for flight in controlled airspace where Transponder is a vital safety tool, and are also useful for indicating emergency situations. Outside controlled airspace, altitude encoding transponders provide a valuable disclosure of aircraft altitude to both ATC and ACAS-equipped aircaft. Even a non altitude-encoding transponder is better than no transponder.
+ 
+Contents
+
+1 Effect of Transponder Setting
+2 RAs between Traffic Separated by 500 ft
+3 TCAS and the Aerodrome Traffic Pattern
+4 Further Reading
+
+Effect of Transponder Setting
+The effect of different transponder settings on TCAS II operation is illustrated on the table below:
+
+
+
+Transponder Setting
+Effect
+Protection
+
+
+
+
+OFF or SBY
+Intruder not detected
+No protection
+
+
+ON
+TA without altitude
+Assists visual contact
+
+
+ALT
+TA/RA
+Full TCAS Protection
+
+
+
+To obtain maximum protection, transponders should always be switched 'ON' with 'ALT' set, unless other instructions are issued by the controller. This applies outside controlled airspace as well as inside.
+Within controlled airspace, the controller will provide the code to be set; outside controlled airspace, code 2000 should be set except where another general code is promulgated or a specific code is issued by ATC.
+RAs between Traffic Separated by 500 ft
+When VFR and Instrument Flight Rules (IFR) traffic is separated by 500 ft, a "Monitor Vertical Speed" RA will be generated even though both aircraft are level at their correct altitude; this alerts the IFR aircraft to the proximity of the VFR traffic. However, deviation from level flight by the VFR aircraft is common, and will generate a "Climb" or "Descend" RA as appropriate if the separation becomes less than 350 ft.
+ 
+TCAS and the Aerodrome Traffic Pattern
+Although traffic separation in the aerodrome traffic pattern is normally provided by the ATCO, TCAS can be effective in alerting the pilot of a potential collision risk.
+ 
+Further Reading
+
+EUROCONTROL ACAS Bulletin 4: TCAS II and VFR Traffic
+
+
+
+
+
+Categories
+
+
+Safety Nets
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

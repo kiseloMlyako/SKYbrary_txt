@@ -1,0 +1,327 @@
+A320, Sydney Australia, 2019
+
+
+
+
+
+
+
+
+
+
+
+  A320, Sydney Australia, 2019
+
+
+
+
+
+
+
+
+
+Summary
+
+On 1 August 2019, an Airbus A320 annunciated an abnormal gear status indication when retraction was attempted after takeoff. Soon afterwards, an aircraft part was observed by an aircraft following the same taxi route as the A320 and recovered. After completing relevant drills, the A320 returned and completed a landing with significant damage to the left main gear which was nevertheless locked down. The runway was vacated and passengers disembarked. The Investigation found that the cause of the problem was the cyclic fatigue of a pin linking the two parts of the left main gear torque link of manufacturing origin.
+
+
+
+
+Event Details
+
+When
+
+01/08/2019
+
+
+
+Event Type
+
+
+AW,
+              LOC
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS A-320
+
+
+
+
+
+
+
+
+
+Operator
+
+Jetstar Airways
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Sydney Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Coolangatta/Gold Coast Airport
+
+
+
+
+
+
+
+Actual Destination
+
+
+
+
+Sydney Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Climb
+
+
+
+
+
+
+
+
+General
+
+Tag(s)
+
+
+              Air Turnback
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Airframe Structural Failure
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Landing Gear
+          
+
+
+
+Contributor(s)
+
+
+              OEM Design fault,
+              Component Fault in service,
+              Corrosion/Disbonding/Fatigue,
+              In flight separation of failed component
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Aircraft damage
+
+Minor
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 1 August 2019, an Airbus A320 (VH-VFN) being operated by JetStar Airways on a scheduled domestic passenger flight from Sydney to Gold Coast annunciated multiple warnings of the landing gear not retracting when so selected shortly after a day VMC takeoff. Recycling the gear did not resolve the situation and soon after this, an unidentified aircraft part was reported and recovered from the same taxiway used by the A320 and its crew were informed. They completed applicable procedures and returned to make a normal landing albeit with some directional control issues unaware that the part found had since been identified as from a main gear leg. Further damage was caused to this gear leg during landing and once clear of the runway, the aircraft was shut down, the left main gear temporarily secured and the aircraft then towed to the gate for passenger disembarkation.
+Investigation
+A Serious Incident Investigation into the event was carried out by the Australian Transport Safety Bureau (ATSB). Relevant data from the flight and prior ones was recovered from the QAR. Additional relevant data was also recovered from the ECAM NVM in respect of annunciations displayed to the crew and copied to the operator’s maintenance control centre by ACARS. 
+The Technical Context
+Each main landing hear (MLG) had an oleo pneumatic strut, the rotation of which was constrained by a torque link on the forward side between the two wheels. The apex pin of this torque link connects its upper and lower parts so as to allow rotational torque loads to be transmitted between the landing gear strut and the axle whilst allowing free vertical movement of the shock absorber contained within the strut (see the illustration below).
+
+An extract from the A320 Illustrated Parts Catalogue (IPC) showing where the Apex Pin fits. [Reproduced from the Official Report]
+What Happened
+It was the first flight of the day for the flight crew and the third for the aircraft which had previously operated a return flight between Sydney and the Gold Coast. After pushback, the aircraft taxied to runway 34R. Whilst this was happening, the crew of a following aircraft on the same taxi route advised ATC GND that they had seen an unidentified item on the taxiway. This was subsequently recovered and identified as likely to be an aircraft part.
+Meanwhile, the A320 had taken off and the crew found that selection of the gear up was followed by abnormal status ECAM messages which included ‘L/G DOORS NOT CLOSED’ and ‘L/G GEAR NOT UPLOCKED’. The Captain elected to continue the climb over the sea and ATC were asked to provide radar vectors to an area where they could troubleshoot the problem. Once in a holding pattern, they then cycled the gear but the fault messages remained. ATC then advised that ‘a large piece of metal’ had been found on a taxiway they had used and the crew responded by advising their intention to return. A minute later, ATC added that they had now been told the recovered part might be from the landing gear to which the Captain replied “that would make sense”. 
+ATC advised that when ready, an approach to 2530 metre-long runway 25 could be expected but received a response requesting 3962 metre-long runway 34L instead because of uncertainty about the potential effect on braking action. A crew call to company maintenance did not elicit any further information about the recovered part and so they followed the available QRH procedures to prepare for the approach.
+Just over 20 minutes after takeoff, the aircraft left the holding pattern and was provided with radar vectors for an approach to land with the crew requesting that the airport RFFS be put on a local standby. At about this time JetStar maintenance concluded that the recovered part was an A320 MLG torque link apex pin (as illustrated above) and advised their concern to the company Maintenance Control Desk about a landing with such a fault. However, whilst this exchange was in progress, the aircraft had safely landed, albeit with the aircraft “pulling to the left”.
+The aircraft cleared the runway and then stopped once clear for a precautionary inspection by the RFFS which found nothing untoward. An inspection by company line maintenance then confirmed that the left MLG torque link apex pin was missing together with two bolts from the associated damper unit (see the illustration below). A brake hydraulic hose was also damaged and leaking fluid so the aircraft was towed slowly to the gate. 
+The following afternoon, the missing head of the apex pin and one of the missing damper bolts were found by airport personnel adjacent to the intersection use by the aircraft to enter the departure runway 34R and 15 days later, the second missing damper bolt was found during a routine FOD inspection of the runway.
+
+The Apex Pin as recovered from the taxiway. [Reproduced from the Official Report]
+
+The upper & lower main gear torque links misaligned in the absence of the apex pin. [Reproduced from the Official Report]
+QAR data confirmed that the aircraft did not successfully complete a full gear retraction sequence on departure, because the aircraft failed to sense the MLG up locks engaging or the gear bay doors closing. The same happened during the subsequent recycling. The data also showed that although during taxi to the departure runway, both wheel brake applications were matched by temperature rises, during the corresponding brake applications made during the landing roll, only the right wheel brake temperature rose. Airbus advised that even with only one main gear brake available, the aircraft “would remain directionally controllable at high speed due to the effectiveness of the fin and rudder and at low speed with the use of nose wheel steering”. It was noted that with medium autobrake set and the brakes of one main gear inoperative, the required braking distance during the landing would be increased by 13% from 1,360 metres to 1,540 metres.   
+Why It Happened
+The failed apex pin was last inserted after a required assessment of play in the hinge joints of the torque link assemblies by disassembly during a 2C Check almost two years earlier but this task had not required a visual or NDT inspection of the apex pin. The apex pin had a 60,000 flight cycle life subject to an assessment of its continued serviceability at the earlier of 10 years or 20,000 cycles but had yet to reach the first in service inspection requirement.
+It became apparent that a number of other apex pins from the same manufacturing batch had also failed before reaching their first in-service check and an investigation by OEM Safran concluded that cracks “initiated during manufacture” had led to the fracture of some apex pins after cyclic fatigue occurred and concluded that these failures "had not been the result of environmental effects in service”. Although only a relatively small number of apex pins had failed in service, the finding that their failure was a result of the manufacturing process had led to Safran modifying the manufacturing process to create “a larger initial machining radius under the apex pin head and thus significantly reduce any stress concentrations under the head that may be induced by the heat treatment process". They also developed a design guidance document for radii in high strength steel parts prior to heat treatment.
+Three Contributing Factors were identified based on the findings of the Investigation, one of which was classified as a Safety Issue and is identified as such: 
+
+During the manufacture of the apex pin, the initial machined profile led to unintended stress concentrations at the quench stage of the material heat treatment process that resulted in the part cracking. The crack was not removed by the final machining process. [Safety Issue]
+Despite apex pins being subject to magnetic particle non-destructive inspections during manufacture, for reasons that could not be identified, this inspection did not detect the crack that was present in the occurrence pin. 
+The head of the apex pin failed due to cyclic structural fatigue, which led to disconnection of the left main landing gear (MLG) torque link. This left the MLG strut free to rotate out of fore/aft alignment. 
+
+Other factors that increased risk 
+
+The MLG brakes failed due to the strut rotating and a wheel contacting and fraying a hydraulic hose. This most likely occurred during take-off. 
+Despite the failed part and aircraft being positively identified by elements within JetStar, a message was unable to be conveyed to the flight crew who returned for landing unaware of the true nature of the undercarriage defect and the associated risks. The additional information would have improved crew decision making. 
+
+Other findings 
+
+The undercarriage failed to fully retract by not engaging the gear uplocks and not permitting the gear doors to fully close. This was likely due to the wheels and axle being out of alignment. 
+The torque link disconnect, the consequential landing gear misalignment and brake failure had the potential to reduce directional control and braking performance on touchdown. However, the degradation was manageable and the aircraft landed safely. 
+The failed apex pin was temporarily reinstalled by engineers to enable the towing of the aircraft off the taxiway and back to a gate for disembarkation. This had the potential to damage evidence on the fracture surface. At that time, the pin shank was the only piece of evidence available to understand the failure mechanism as the pin head had not yet been located.
+
+Safety Action taken whilst the Investigation was in progress was noted as having included the following:
+
+Airbus issued an Alert Operator Transmission (AOT) for the recall or inspection of almost 2000 apex pins like the one which failed and as a result, 19 of these pins were removed from service due to cracking. 
+The European Union Safety Agency issued an AD making the Airbus AOT inspection mandatory.
+JetStar clarified non-normal operational communication guidance for ground crews in the Airport Operations Manual. This included dedicated phraseology for gaining priority on airband frequencies to relay high priority messages. 
+
+The Final Report was released on 8 March 2022.
+Related Articles
+
+Airworthiness
+Quick Reference Handbook (QRH)
+Landing Gear Problems: Guidance for Flight Crews
+Foreign Object Debris (FOD)

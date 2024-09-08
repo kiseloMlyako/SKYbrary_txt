@@ -1,0 +1,163 @@
+ACAS X
+
+
+
+
+
+
+
+
+
+
+
+  ACAS X
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Nets 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+The FAA has funded research and development of a new approach to airborne collision avoidance (which has become known as ACAS X - pronounced “Ay-cas eks” rather than “Ay-cas ten") since 2008. This new approach takes advantage of recent advances in ‘dynamic programming’ and other computer science techniques (which were not available when TCAS was first developed) to generate alerts using an off-line optimisation of resolution advisories. It is the intention that ACAS X will eventually replace TCAS II (ACAS II).
+TCAS II has been in operation for many years and has demonstrated its value in preventing mid-air collisions on numerous occasions. In Europe it is estimated to have reduced the risk of a mid-air collision by a factor of at least about 5.
+ACAS X variants
+As well as the standard ACAS X (known as ACAS XA) variants are under consideration to extend collision avoidance protection to situations and user classes that currently do not benefit from TCAS II:
+
+ACAS XA – The general purpose ACAS X that makes active interrogations to detect intruders. ACAS XA is the baseline system, the successor to TCAS II. ACAS XA /XO standards were published by RTCA DO-385 and EUROCAE ED-256 in September 2018. Amendments to ICAO provisions and regulatory approval for ACAS XA /XO are pending.
+ACAS XO – ACAS XO is an extension to ACAS XA designed for particular operations, like closely spaced parallel approaches, for which ACAS XA is less suitable because it might generate a large number of nuisance alerts. ACAS XA /XO standards were published by RTCA DO-385 and EUROCAE ED-256 in September 2018. Amendments to ICAO provisions and regulatory approval for ACAS XA /XO are pending.
+ACAS XU – Designed for Remotely Piloted Aircraft Systems (RPAS), incorporating horizontal resolution manoeuvres. ACAS XU standards were published in September 2020 by RTCA as DO-386 and by EUROCAE as ED-275. Amendments to ICAO provisions and regulatory approval for ACAS XU are pending.
+ACAS sXU  – ACAS sXU is an extension of ACAS XU intended for small Remotely Piloted Aircraft Systems (RPAS), with wing span less than 50 feet (approximately 15 meters). Work
+	on ACAS sXU Standards has already started and is expected to be completed in 2022.
+ACAS XR (rotorcraft) – A future version of ACAS X intended for rotorcraft (helicopters). At the time of writing, the Standards are expected to be developed by 2024.
+ACAS XP – A future version of ACAS X that relies solely on passive ADS-B to track intruders and does not make active interrogations. It is intended for general aviation aircraft (that are not currently required to fit TCAS II).
+
+TCAS II vs. ACAS XA
+The ACAS XA system will use the same hardware (antennas and displays) as the current TCAS II system and the same range of RAs – as in TCAS II version 7.1 – will be used. There will be no change in the way how RAs are displayed and announced to the pilots. Consequently, pilots and controllers would perceive no change with the transition to the new system, which will be fully compatible with current TCAS II systems. It is the intention that ACAS XAwill eventually replace TCAS II.
+Two of the key differences between TCAS II and the current concept for ACAS XA are the collision avoidance logic and the sources of surveillance data.
+TCAS II relies exclusively on interrogation mechanisms using transponders on-board aircraft to determine the intruder’s current and projected future position. If the tracked aircraft is declared a threat and is also TCAS-equipped, the two TCAS II units coordinate complementary advisories. Current TCAS II advisory logic issues alerts against a potential threat on the basis of time of closest approach and projected miss distance. This relies on a fixed set of rules, modelling the spectrum of pilots’ responses.
+Instead of using a set of hard-coded rules, ACAS X alerting logic is based upon a numeric lookup table optimised with respect to a probabilistic model of the airspace and a set of safety and operational considerations.
+ACAS Xa will not use the Sensitivity Levels which are present in the TCAS II design. However, the same low level RA inhibition will be applied.
+ACAS X Principles
+The ACAS X probabilistic model provides a statistical representation of the aircraft position in the future. It also takes into account the safety and operational objectives of the system enabling the logic to be tailored to particular procedures or airspace configurations. This is fed into an optimisation process called dynamic programming to determine the best course of action to follow according to the context of the conflict. This employs of a rewards versus costs system to determine which action would generate the greatest benefits (i.e. maintain a safe separation while implementing a cost-effective avoidance manoeuvre). Key metrics for operational suitability and pilot acceptability include minimising the frequency of alerts that result in reversals/intentional intruder altitude crossings or disruptive advisories in noncritical encounters.
+The lookup table is used in real-time on-board the aircraft to resolve conflicts. ACAS X collects surveillance measurements from an array of sources (approximately every second). Various models are used (e.g. a probabilistic sensor model accounting for sensor error characteristics) to estimate a state distribution, which is a probability distribution over the current positions and velocities of the aircraft. The state distribution determines where to look in the numeric lookup table to determine the best action to take (which includes the option ‘do nothing’). If deemed necessary, resolution advisories are then issued to the pilots.
+Anticipated benefits of ACAS X
+The following benefits are foreseen through the introduction of ACAS X:
+
+Reduction of ‘unnecessary’ advisories: TCAS II is an effective system operating as designed, but it can issue alerts in situations where aircraft will remain safely separated.
+Adaptability to future operational concepts: Both SESAR and NextGen plan to implement new operational concepts which will reduce the spacing between aircraft. TCAS II in its current form is not compatible with such concepts and would alert too frequently to be useful.
+Extending collision avoidance to other classes of aircraft: To ensure advisories can be followed, TCAS II is restricted to categories of aircraft capable of achieving specified performance criteria (e.g. minimum rate of climb of 2,500 feet per minute), which excludes the likes of General Aviation (GA) and Unmanned Aircraft Systems (UAS).
+Use of future surveillance environment: Both SESAR and NextGen make extensive use of new surveillance sources, especially satellite-based navigation and advanced ADS-B functionality. TCAS however relies solely on transponders on-board aircraft which will limit its flexibility to incorporate these advances.
+Safety improvement: It is envisaged that ACAS X will provide an improvement in safety while reducing the unnecessary alert rate.
+Minimal changes: ACAS X will use the same hardware (antennas, processors, and displays) as the current TCAS II system and the same range of available RAs will be used. Consequently, pilots and controllers would perceive no change with the transition to the new system, which will be fully compatible with current TCAS II systems.
+
+ACAS Xa safety
+ACAS Xa/Xo is designed to be safer than TCAS II, while improving operational suitability.
+The FAA conducted safety studies during the ACAS Xa standardisation process that indicate ACAS Xa provides overall safety and operational improvements. These studies indicate that ACAS Xa improves safety by 20% on the United States encounter model and reduces the overall alerting rate by 65% on recorded radar tracks in US airspace. The improvement is most visible in case of preventive (Monitor Vertical Speed) RAs where 97% of TCAS II RAs were removed by ACAS Xa resulting in only an ACAS Xa TA. This is attributed to higher quality ADS-B data (used by ACAS Xa rather than active surveillance used by TCAS II) proving a better estimate of present and future state of intruder aircraft.
+A European ACAS Xa validation study concluded that there are several benefits from ACAS Xa compared to TCAS II:
+
+When pilots follow their RAs, ACAS Xa logic provides an increased safety benefit of between 16% and 24% (depending upon whether or not the intruding aircraft have ADS-B out).
+When one pilot does not follow their RA, ACAS Xa provides an increased safety benefit of about 47% .
+ACAS Xa reduces the overall number of RAs by about 60%. 
+
+Related Articles
+
+Airborne Collision Avoidance System (ACAS)
+
+Further Reading
+
+NetAlert 17: ACAS X – the future of airborne collision avoidance
+NetAlert 23: An update on – ACAS X
+NetAlert 24: ACAS XA - moving forwards
+Next-Generation Airborne Collision Avoidance System, Mykel J. Kochenderfer, Jessica E. Holland, and James P. Chryssanthacopoulos.
+HindSight 22: The new kid on the block
+ACAS Guide - Airborne Collision Avoidance Systems, March 2022
+European Airborne Collision Avoidance System (ACAS) Xa Change Proposal (CP)1 validation report (EUROCONTROL, 16 June 2022)
+
+
+
+
+
+Categories
+
+
+Safety Nets,
+              Loss of Separation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

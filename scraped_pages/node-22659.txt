@@ -1,0 +1,181 @@
+Reduced Vertical Separation Minima (RVSM)
+
+
+
+
+
+
+
+
+
+
+
+  Reduced Vertical Separation Minima (RVSM)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Separation 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+A program was initiated by ICAO in 1982 involving worldwide studies to assess the feasibility of a reduction of the Vertical Separation Minima (VSM) above FL290 from 2,000 feet to 1,000 feet.
+The principal benefits which the implementation of the reduced VSM were expected to provide were:
+
+A theoretical doubling of the airspace capacity, between FL290 and FL410; and
+The opportunity for aircraft to operate at closer to the optimum flight levels with the resulting fuel economies.
+
+The program relies on the carriage and serviceability of specified aircraft equipment and the existence of appropriate operating procedures to ensure that the risk of loss of separation is no greater than it would be outside RVSM airspace.
+Implementation
+Between 1997 and 2005 RVSM was implemented in all of Europe, North Africa, Southeast Asia, North America, South America, and over the North Atlantic, South Atlantic, and Pacific Oceans.
+Approval for RVSM Operations
+State airworthiness authorities are responsible for verifying that an aircraft is technically capable of meeting and maintaining the stringent altimetry system performance requirements. Crews must be trained in appropriate procedures in RVSM airspace. Providing all these requirements are met, an authority will issue an RVSM Operational Approval. Operators indicate RVSM approval by filing a W in field 10 of the ICAO model flight plan. It is a violation of ICAO European regional supplementary procedures for a non-approved aircraft to file a W. The Regional Monitoring Agency (RMA) is responsible for verifying the approval status of aircraft operating in RVSM airspace and reporting violations to the appropriate state authority.
+An important element of the certification process is the confirmation of the aircraft height keeping performance across the entire operational flight envelope. The flight envelope covers all combinations of speed, altitude and weight/atmospheric pressure ratio that the aircraft would expect to operate across in RVSM airspace. The assessment of the aircraft performance across the flight envelope, together with the service bulletin, continuing airworthiness instructions and the amendment to the aircraft flight manual are collectively known as the RVSM approval data package. Confirmation of the RVSM approval data package is a fundamental requirement before any RVSM operational approval is issued.
+Regulatory Requirements
+
+An operator shall not operate an aeroplane in defined portions of airspace where, based on regional air navigation agreement, a vertical separation minimum 300 m (1000ft) applies unless approved to do so by the Authority (RVSM Approval). EASA IR-OPS SPA.RVSM.100 and SPA.RVSM.110, EU-OPS 1.241 See also EU-OPS 1.872.
+Prior to granting the RVSM approval... the State shall be satisfied that:
+
+a) the vertical navigation performance capability of the aeroplane satisfies the (laid down requirements);
+b) the operator has instituted appropriate procedures in respect of continued airworthiness (maintenance and repair) practices and programmes; and
+c) the operator has instituted appropriate flight crew procedures for operation in RVSM airspace.
+Note: An RVSM approval is valid globally on the understanding that any operating procedures specific to a given region will be stated in the Operations Manual or appropriate crew guidance. (ICAO Annex 6 Part I Chapter 7, Para 7.2.5.)
+
+An operator shall ensure that aeroplanes operated in RVSM airspace are equipped with:
+
+Two independent altitude measurement systems;
+An altitude alerting system;
+An automatic altitude control system; and
+A secondary surveillance radar (SSR) transponder with altitude reporting system that can be connected to the altitude measurement system in use for altitude keeping. (IR-OPS SPA.RVSM.110, EU-OPS 1.872)
+
+
+
+Separation standards within RVSM Airspace
+Within RVSMairspace (between FL290 and FL410 inclusive) the vertical separation minimum is:
+
+1000ft (300m) between RVSM-approved aircraft, and
+2000ft (600m) between non-RVSM approved state aircraft and any other aircraft operating within RVSM airspace.
+2000ft (600m) between non-RVSM aircraft operating as general air traffic (GAT) and any other aircraft within RVSM airspace.
+
+There is no exemption for state aircraft to operate as GAT within RVSM airspace with a 1000 ft vertical separation minimum without an RVSM approval. The absence of such approval does require a separation of 2000 ft to be observed. State aircraft which are exempted from having to meet the RVSM Minimum Aircraft System Performance Specification (MASPS) in Field 18 of the ICAO FPL, shall request special handling by filling “STS/NONRVSM”.
+Formation flights are to be considered non-RVSM compliant irrespective of the RVSM status of the individual aircraft within the formation and are not permitted within RVSM airspace with a 1000 ft vertical separation minimum.
+Contingency procedures when unable to maintain RVSM
+
+The pilots shall notify ATC of any equipment failure, weather hazards such as severe turbulence etc., which may affect the ability to maintain the cleared level or the RVSM requirements. When an aircraft operating in RVSM Airspace encounters severe turbulence due to weather or wake vortex which the pilot believes will impact the aircraft’s capability to maintain its cleared flight level, the pilot shall inform ATC. ATC is required to establish either an appropriate horizontal separation minimum, or an increased vertical separation minimum of 2000ft;
+Where a meteorological forecast is predicting severe turbulence within the RVSM Airspace, ATC shall determine whether RVSM should be suspended, and, if so, the period of time, and specific flight level(s) and/or area.
+When notified by ATC of an assigned altitude deviation of more than 300ft (90 m), the pilot shall take action to return to the cleared level as quickly as possible.
+In the event of a pilot advising that the aircraft is no longer capable of RVSM operations, it is particularly important that the first ATS unit made aware of the failure performs the necessary co-ordination with subsequent ATS units.
+
+RVSM related phraseology
+
+ATC wishes to determine the RVSM status of a flight - CONFIRM RVSM APPROVED
+Pilot response in case that the flight is RVSM approved - AFFIRM RVSM
+Pilot response in case that the flight is not RVSM approved - NEGATIVE RVSM
+Pilot of State aircraft responding that the flight is not RVSM approved - NEGATIVE RVSM STATE AIRCRAFT
+ATC refuses to issue a clearance into RVSM Airspace - UNABLE CLEARANCE INTO RVSM AIRSPACE, MAINTAIN [or DESCEND TO, or CLIMB TO] FL ...
+Pilot reporting severe turbulence / weather affecting ability to maintain RVSM height keeping requirements - UNABLE RVSM DUE TURBULENCE
+Pilot reporting equipment degradation below RVSM requirements - UNABLE RVSM DUE EQUIPMENT
+ATC requesting the pilot to report when able to resume RVSM - REPORT ABLE TO RESUME RVSM
+Pilot ready to resume RVSM after equipment/weather contingency - READY TO RESUME RVSM
+
+Further Reading
+Regulatory:
+
+ICAO Annex 6 Part I Chapter 7 Paras 7.24 - 7.27 and Appendix 2;
+ICAO Doc 9574: Manual on Implementation of a 300 m (1 000 ft) Vertical Separation Minimum Between FL 290 and FL 410 Inclusive;
+Guidance Material on the approval of operators/aircraft for RVSM operations;
+Guidance Material on the approval of operators/aircraft for RVSM operations in the United States;
+IR-OPS SPA.RVSM.100 and SPA.RVSM.110;
+EU-OPS 1.241;
+EU-OPS 1.872;
+
+EUROCONTROL
+
+European Regional Monitoring Agency
+
+
+
+
+
+Categories
+
+
+Loss of Separation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

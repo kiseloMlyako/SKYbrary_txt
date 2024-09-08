@@ -1,0 +1,137 @@
+Icing Certification
+
+
+
+
+
+
+
+
+
+
+
+  Icing Certification
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Certification 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Icing Certification
+Aircraft certification for flight in icing does not necessarily imply fitness for or approval of continuous operations in icing conditions. Oftentimes, the certification may be intended to allow for just a temporary period of operation in icing conditions, during which the horizontal or vertical extent of the icing is vacated.
+Airframe Icing Type Certification
+It is important to note that there is no direct correlation between the presence of ice protection equipment and certification for flight in icing conditions. Ice protection equipment has existed for considerably longer than standards for icing certification, and any such equipment has historically been included in the overall certification process. Many smaller aircraft still in service have thus been designed and manufactured with ice protection equipment installed, or had it added in accordance with a Supplementary Type Certificate (STC) prior to the introduction of an icing certification standard. Although some manufacturers have subsequently opted to obtain icing certification for older designs of general aviation aircraft, others have not. The idea of certificating the ice protection system as a part of the type design while not certificating that type for flight into known icing is still considered by the FAA to be a valid design strategy for small general aviation aircraft. An example of this approach is the US-built Cirrus SR-22.
+Type Certification of large (transport) fixed-wing aircraft is nowadays accomplished under 14 CFR 25.1419 by the FAA or under CS 25.1419 by EASA. These requirements affirm that an aircraft should be able to "operate safely" when the stated definition of icing conditions exist. Although there are methods for determining whether the ice protection provided is adequate, there is currently no requirement to quantify aircraft handling and performance degradations. 
+The Engineering Standard for Icing Certification
+The engineering standards for atmospheric icing is specified in Appendix C of CS 25 / 14 CFR Part Part 25 has been broadly in its present form since it was first developed in the United States in 1955 under the former Civil Aeronautics Board before being transferred into FAR Part 25.1419 in 1965. These provide for two envelopes: the continuous maximum, and the intermittent maximum. These envelopes are defined by liquid water content, droplet size, and air temperature, and specify a horizontal extent for each condition. Between the two, 99.9% of the atmospheric icing environment is characterized. Smaller aircraft first became subject to a comparable standard only with the advent of FAR Part 23 in 1973.
+Appendix C did not address the presence of supercooled large droplets (SLD) - water droplets which persist in subfreezing temperatures and have a median diameter usually defined as greater than 40 microns. Following the fatal loss of control accident to a large twin turboprop at Roselawn, Indiana in 1994, there was a recognition that SLD could be extremely hazardous, and a concerted international effort to improve understanding of their effects and develop corresponding responses occurred. It was claimed during this work that, since 1978, SLD had been involved in around a third of all aerodynamic icing accidents to aircraft of all sizes in the United States. There is now comprehensive guidance on the identification of these conditions in the AFMs of all aircraft engaged in public transport and certificated for operation in icing conditions. Work has been done in both Europe and the USA to define an additional certification standard to cover the SLD case.
+Supercooled large drop (SLD) icing conditions
+The long-established Appendix C conditions were supplemented at CS25 Amendment 16 in 2015 by Appendix O for SLD icing conditions. The corresponding changes have been introduced also by the FAA in Appendix O to 14 CFR Part-25. Appendix O consists of two parts. Part I defines Appendix O as a description of SLD icing conditions in which the drop median volume diameter (MVD) is less than or greater than 40 μm, the maximum mean effective drop diameter (MED) of Appendix C continuous maximum (stratiform clouds) icing conditions. For Appendix O, SLD icing conditions consist of freezing drizzle and freezing rain occurring in and/or below stratiform clouds. Part II defines ice accretions used to show compliance with CS-25 specifications.
+In Appendix O Part I (meteorology) icing conditions are defined by the parameters of altitude, vertical and horizontal extent, temperature, liquid water content, and water mass distribution as a function of drop diameter distribution.
+In Appendix O Part II (airframe ice accretions) CS25 requires that the most critical ice accretion in terms of aeroplane performance and handling qualities for each flight phase must be used to show compliance with the applicable aeroplane performance and handling qualities requirements for icing conditions contained in Subpart B (flight) of CS25. Applicants are required to demonstrate that the full range of atmospheric icing conditions specified in part I of Appendix O have been considered, including drop diameter distributions, liquid water content, and temperature appropriate to the flight conditions (for example, configuration, speed, angle of attack, and altitude).
+Ice crystal and mixed phase icing conditions
+All turbine engines must be certificated for operation in icing conditions on the basis that inadvertent icing encounters are always possible, even for aircraft not certificated for flight in such conditions. Turbine engine certification has historically been focussed on inlet ice protection, which is addressed in CS E-780 in CFR14- Part 33.68.
+Just as the "discovery" of the SLD hazard for airframes led to a recognition of the limitations of the definition of icing conditions in Appendix C, a similar discovery of the hazardous effects of ice crystal icing on turbine engines has led to the investigation of this phenomenon to inform an effective extension of current certification requirements.
+Appendix C conditions were supplemented at CS25 Amendment 16 in 2015 also by Appendix P for ice crystal and mixed phase icing conditions. So far, the corresponding changes have not been introduced in 14 CFR Part-25. CS25 Appendix P provides a depiction of the ice crystal icing envelope. Within the envelope, total water content (TWC) in g/m3 has been determined based upon the adiabatic lapse defined by the convective rise of 90 % relative humidity air from sea level to higher altitudes and scaled by a factor of 0.65 to a standard cloud length of 32.2 km (17.4 nautical miles). Appendix P also displays TWC for this distance over a range of ambient temperature within the boundaries of the ice crystal envelope.
+Related Articles
+
+In-Flight Icing
+Airworthiness
+Aircraft Ice Protection Systems
+Supercooled Water Droplets
+
+Further Reading
+
+Appendix C 'Icing Conditions' to CFR 14 Part 25, FAA, 2014
+Appendix O 'Supercooled Large Drop Icing Conditions' to CFR 14 Part 25, FAA, 2022
+Getting to grips with Cold Weather Operations, Airbus, 2000
+Compliance of Transport Category Aircraft with Certification Requirements for Flight in Icing Conditions, FAA, Advisory Circular (AC) 25-28, 27 Oct. 2014.
+
+
+
+
+
+Categories
+
+
+Certification,
+              Airworthiness
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

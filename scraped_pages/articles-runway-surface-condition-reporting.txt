@@ -1,0 +1,160 @@
+Runway surface condition reporting
+
+
+
+
+
+
+
+
+
+
+
+  Runway surface condition reporting
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Runway Excursion 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Runway surface condition may be reported using several types of descriptive terms such as type and depth of contamination, readings from a runway friction measuring device, an aircraft braking action report, or an airport vehicle braking condition report.
+Issues
+Investigations of reported runway safety events have identified shortfalls in the accuracy and timeliness of runway surface conditions reporting as contributing factors to many runway excursions
+Such shortfalls include lack of standardisation with regard to:
+
+The assessment of the runway surface condition and braking action.
+The compilation and reporting of runway surface conditions to the end-users (flight crews and flight planners), particularly the use of different terminology, format and reports’ timeliness.
+The use of the reported information by flight crews.
+
+Runway safety, particularly runway excursions, remains one of the top aviation safety concerns of the International Civil Aviation Organisation (ICAO). The Flight Safety Foundation in echoing these concerns indicates that the third most common landing excursion risk factor is ineffective braking action, due to runway contamination such as snow, ice, slush, or water.
+Effect
+A discrepancy between the reported runway surface condition and the actual one may affect performance calculations, the use of deceleration devices, the flight crew’s ability to maintain directional control, which can result in a runway excursion, and the flight crew's ability to bring the aircraft to a stop on runway surface, which can result in a runway overrun or excursion.
+Defences
+The ICAO developed an improved global runway condition assessment and reporting format based on the proposals of the Take-off and Landing Performance Assessment Aviation Rulemaking Committee (TALPA ARC). The methodology, intended for global application, relies on the following:
+
+An agreed set of criteria used in a consistent manner for runway surface condition assessment, aircraft (performance) certification and operational performance calculation;
+A unique Runway Condition Code (RWYCC) linking the agreed set of criteria with the aircraft performance data, which can be correlated to the braking action experienced and reported by flight crews; and
+A standardised common terminology for runway surface condition description reported by the airport operator’s runway assessors, air traffic controllers and Aeronautical Information Services (AIS) for use by flight crews.
+
+The TALPA ARC originally developed the Runway Condition Assessment Matrix (RCAM) and its work ultimately resulted in the Global Reporting Format (GRF).
+Solution
+The ICAO Global Reporting Format (GRF) methodology envisages:
+
+The assessment by trained runway assessors and reporting - by means of a uniform Runway Condition Report (RCR) - of the runway surface conditions, including contaminants, for each third of the runway length. This includes contaminants categorisation according to their effect on aircraft braking performance and information coding in a RCAM.
+The use of RCAM by aircraft manufacturers to determine the appropriate performance data for specific runway surface conditions and provision of approved data and guidance material to aircraft operators for the safe operation of the aircraft on dry, wet, and contaminated runway surfaces.
+The provision of the RCR information to the end users (by AIS) in an improved SNOWTAM form.
+The provision of the RCR information to the flight crews by ATS by means of voice communications, CPDLC and Automatic_Terminal_Information_Service_(ATIS). The following elements will be transmitted: runway condition code, type of runway contamination, depth and coverage for each third of the runway, in order from the threshold having the lower runway designation number.
+The use of the reported runway condition data in conjunction with the performance data provided by the aircraft manufacturer to determine - along with other information such as, but not limited to, weather conditions and the weight of the aircraft - if landing or take-off operations can be conducted safely.
+Reports by flight crews of the braking action experienced when different from the expected one.
+
+RCAM and RWYCC
+The GRF comprises an assessment by airport operations staff using an RCAM and the consequent assignment of a Runway Condition Code (RWYCC). The outcome of the assessment and associated RWYCC are transmitted using a RCR forwarded to air traffic services and the aeronautical information services for dissemination to pilots. Pilots use the RWYCC to determine their aircraft’s performance by correlating the code with performance data provided by their aircraft’s manufacturer. This will help pilots to correctly carry out their landing and take-off performance calculations for wet or contaminated runways.
+The RCAM is a matrix allowing the assessment of the runway condition code, using associated procedures, from a set of observed runway surface condition(s) and pilot report of braking action. The method to be used by airport operators to report runway surface conditions when contaminated clearly identifies factors that influence aircrafts take-off and landing performance, particularly braking performance. In addition, the method relates these factors to RWYCC that can be used by flight crews to interpret the runway conditions and support their pre-landing and predeparture assessments.
+RWYCCs are one of the features of the GRF for runway surface conditions. Essentially, the RWYCC is a number, from 0 to 6, which represents the slipperiness of a specific third of a runway and provides a standardised “shorthand” for reporting this information. A RWYCC of 0 corresponds to an extremely slippery runway and 6 corresponds to a dry runway. RWYCCs also serve to enhance all pilots’ situational awareness of where the slipperiest runway conditions and contaminants are located on a runway, and they can be used by pilots to make a time of arrival landing performance assessment.
+Safety benefits
+The RCAM effectively serves as the cornerstone of the GRF and forms a tool that integrates safety benefits for airport and aerodrome operators, aeroplane manufacturers, and flight crews.
+With the implementation of GRF, airport and aerodrome operators report runway surface conditions in accordance with a standardised format that utilizes standardised, globally accepted terminology. This reporting is now integrated with aircraft performance information that is used by flight crews.
+For the last several years, the major manufacturers of transport category aeroplanes have been producing performance information that is based on the TALPA methods that form the basis of GRF; these methods utilise operationally representative landing distances—which is a significant advancement. For aeroplanes that do not have manufacturer-supplied TALPA-based performance information or performance information developed by a third party, a Landing Distance Factors Table is available in Advisory Circular (AC) 700-057, Table 6.
+With the introduction of GRF, flight crews receive benefit from standardised runway surface conditions, which is presented in a format that harmonises with the performance information used to make time-of-arrival landing performance assessments.
+Related articles
+
+Landing on Contaminated Runways
+Runway Surface Friction
+Surface Friction Measurement and Prediction in Winter Operations
+Global Action Plan for the Prevention of Runway Excursions (GAPPRE)
+Global Reporting Format (GRF)
+
+References
+
+New contaminated runway reporting system, Global reporting format, UK CAA website
+The RCAM and Runway Condition Report (RCR), presentation by Nika Meheza Manzi, ICAO, May 2021
+Cracking the Code: Understanding Runway Condition Codes, Transport Canada website, December 2021
+
+
+
+
+
+Categories
+
+
+Runway Excursion
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

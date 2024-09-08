@@ -1,0 +1,335 @@
+B77W, en-route, east of Oman, 2021
+
+
+
+
+
+
+
+
+
+
+
+  B77W, en-route, east of Oman, 2021
+
+
+
+
+
+
+
+
+
+Summary
+
+On 12 September 2021, a Boeing 777-300 in cruise at FL380 and approaching Oman from the east at night experienced a sudden left engine failure. The engine was shut down, a PAN call was made, and the crew diverted to Muscat rather than completing the intended flight to Abu Dhabi. An off-wing examination of the GE90 engine found that the hydromechanical unit of the accessory gearbox had malfunctioned in a way which allowed fuel to mix with the engine oil. This failure had not been anticipated in the applicable Fault Identification Manual, which was amended accordingly.
+
+
+
+
+Event Details
+
+When
+
+12/09/2021
+
+
+
+Event Type
+
+
+AW,
+              HF,
+              LOC
+
+
+
+
+Day/Night
+
+Night
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 777-300ER
+
+
+
+
+
+
+
+
+
+Operator
+
+Etihad Airways
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Shahjalal International Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Abu Dhabi International Airport
+
+
+
+
+
+
+
+Actual Destination
+
+
+
+
+Muscat International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Cruise
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+General
+
+Tag(s)
+
+
+              En-route Diversion,
+              Flight Crew Training
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Flight Crew / Ground Crew Co-operation
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Loss of Engine Power
+          
+
+
+
+
+EPR
+
+Tag(s)
+
+
+              PAN declaration
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Engine - General
+          
+
+
+
+Contributor(s)
+
+
+              Component Fault in service
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Aircraft damage
+
+Minor
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Airworthiness
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 12 September 2021, a GE90-115BG03-powered Boeing 777-300 (A6-ETP) operated by Etihad Airways on a scheduled international passenger flight from Dhaka to Abu Dhabi as EY245 was approaching the Omani coast from the east at night in cruise at FL380 when the left engine suddenly became unstable and its indicated thrust reduced to 40% N1. It was shut down, and with a precautionary ‘PAN’ declared, the flight diverted to Muscat. Indications during the previous flight that the same engine may have had a problem were subject to line assessment prior to departure. However, this did not identify the fault, which subsequently worsened en route and necessitated the shutdown.
+Investigation
+An Investigation was carried out by the UAE GCAA Air Accident Investigation Sector (AAIS) into the engine failure and the circumstances which had delayed the departure of the flight on which it occurred. The flight was providing line training to the first officer, who was completing a differences course to obtain unrestricted clearance to act as a crew member on the 777 after previously being assigned to the 787 fleet. It was noted that the training captain in command, who was acting as PF for the flight, had a total of 12,993 hours flying experience on all types and that the first officer had a total of 3,995 hours flying experience on all types. 
+What Happened
+A little over an hour into the earlier Abu Dhabi to Dhaka flight, made by the same aircraft and crew, an EICAS system status message "High Pressure Turbine Active Clearance Control" was annunciated for the left engine. This did not require any pilot action, so it was just recorded on the OFP and the operator’s MCC was notified. The remainder of the 4½ hour flight was completed normally, and once the passengers had disembarked, a maintenance engineer attended the aircraft and advised the crew that an engine dry run would be required to clear the status message. Once this had been done and the stored status message had been cleared, the maintenance engineer made a corresponding entry in the aircraft Technical Log. The engineer released the aircraft to service, upon which the captain accepted the aircraft for the return flight to Abu Dhabi. 
+Soon afterwards, before boarding commenced, the flight crew received a call from their MCC requesting a second dry run in order to ensure that the status message would not reappear during pushback. The requested run was carried out, and the previous status message did not reappear. However, the flight crew then received an ACARS message informing them about an "oil consumption" message that needed action. The maintenance engineer was summoned and informed the captain that this action would mean a significant delay, which might well be an hour or more. When it became clear that the delay would mean the flight crew would have to accept a discretionary extension to their flight duty period (FDP), the crew sent a message to their OCC advising their agreement to this. They also requested the latest departure time they would be able to accept. They received a reply advising that this time would be 1500 UTC, and this was followed by a new OFP for that time.
+The required work was completed within the time available. However, with six minutes left until 1500 UTC, the engineer’s release of the aircraft to service had still not been made, and the crew advised their OCC. The Captain stated that “at about 1500 UTC, the maintenance engineer completed the Aircraft Technical Log in respect of work carried out and since there was no remaining MEL, CDL or other restriction that prohibited despatch, he had accepted the aircraft." He then notified the OCC by ACARS that the previous "latest departure time" had passed and obtained a 15 minute extension.
+Pushback began at 1520 UTC and the aircraft took off 23 minutes later. The flight was initially uneventful, but after 50 minutes airborne, and having reached the planned initial cruise level, the same EICAS message from the previous flight reappeared, accompanied by another status message: "Engine Overspeed Left Governor." Again, neither required crew action but were recorded and the MCC advised. The flight then continued normally for almost three hours. But as the planned descent from FL380 neared, a series of bangs originating from the left engine were heard. This caused airframe vibration, and an EICAS message of "Engine Thrust Left" appeared, and the left engine N1 reduced to 40% without crew action and displayed in amber. The "Engine Severe Damage" Checklist was run, the left engine was shut down, and the engine-out driftdown procedure was commenced. The most suitable diversion was assessed to be Muscat. The crew completed an engine-out landing there on runway 31L around 25 minutes later. The aircraft was then towed to its assigned stand, which it reached after a further 25 minutes.
+Why It Happened
+Initial inspection of the failed engine found both fuel and oil leaking onto the engine exhaust nozzle. The source of the engine malfunction was investigated off-wing at General Electric by disassembly and this identified a malfunction in the Accessory Gear Box (AGB). This component was then examined in detail in the presence of investigators from the UK AAIB, and the following evidence of abnormal function was found:
+
+Ball bearing damage in the AGB hydro-mechanical unit (HMU). 
+The Hydro Mechanical Unit (HMU) quill shaft had sheared, and its guard, sleeve, seal, housing and O-rings were damaged, which had led to fuel leaking into the engine oil though the two damaged O-rings (see the illustration below). 
+The rate of this leak was established during the HMU test and was found to be consistent with the failure and the consequent leak during flight prior to the engine failure. 
+The migration of fuel into the engine oil had reduced the viscosity of the composite fluid (oil samples taken were found to contain over 90% fuel) and this had damaged the engine’s internal bearings with some of the resulting metal debris present on the engine magnetic chip detector. 
+
+It was concluded that the HMU ball bearing damage had arisen as a result of “handling damage which was evident from the deformation of outer ring raceway” and assembly damage as “the inner ring raceway was found migrated and misaligned”.
+The Investigation also reviewed operational aspects of the events leading up to the engine failure and the flight crew response to it. The former were found to have presented the captain with challenges arising from “the quality of information exchange with the local engineering staff and MCC regarding the maintenance work undertaken,” which he considered relevant to making an informed decision about accepting the aircraft and commencing the return flight. The captain stated during interview that “despite holding some residual reservations about the aircraft status and detail on the maintenance actions undertaken at Dhaka," he had accepted the aircraft based on the standard practice of reviewing the aircraft Technical Log entries, which included an approved engineer’s unrestricted release to service. 
+It was found that the maintenance input at Dhaka prior to departure had been carried out in accordance with the FIM and could therefore not be considered contributory to the subsequent in-flight failure.
+
+An annotated cross section of the Accessory Gear Box. [Reproduced from the Official Report]
+The Cause of the engine failure was formally documented as “the damage in the Accessory Gearbox (AGB) hydro-mechanical unit (HMU) ball bearing which caused the HMU quill shaft to be sheared by accumulated hard particles contamination, handling damage and assembly damage with the inner ring found migrated and misaligned.”
+Safety Action by engine manufacturer General Electric whilst the Investigation was in progress was an enhancement of the Fault Identification Manual to ensure that signs of the AGB malfunction which caused the engine failure would be more readily identified. 
+One Safety Recommendation was issued as a result of the Findings of the Investigation as follows:
+
+that Etihad Airways, in the interests of continuous improvement, conduct a review of the communication protocols between crew members, line engineers, and their MCC relating to reported aircraft defects, in support of aircraft dispatch decision-making efficacy. [SR03/2023]
+
+The Final Report was issued on 17 February 2023.
+Related Articles
+
+Contained Engine Failure
+Aircraft Technical Log
+Aircraft Ground Running
+Fault Isolation Manual (FIM)
+Captain's Aircraft Acceptance
+Aircraft Communications, Addressing and Reporting System

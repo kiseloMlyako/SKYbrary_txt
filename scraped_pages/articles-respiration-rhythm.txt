@@ -1,0 +1,226 @@
+Respiration Rhythm
+
+
+
+
+
+
+
+
+
+
+
+  Respiration Rhythm
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Respiration Rhythm, or more exactly respiration can be measured with a chest-band and a tension sensor, or via ECG sensors, or a thermistor in the nostril. Although not important in itself, the effects of respiration on heart rate mean it has to be measured as an intervening factor.
+Discussion/References
+It is necessary to measure respiration rate to eliminate its effects on heart-rate variability.
+In laboratory tasks, experimental subjects may show a steady respiration rate. In field or simulation studies of ATC, however, controllers talk to aircraft and to each other, at irregular intervals. They usually take a breath before speaking, so that so that regular respiration patterns cannot be found in subsequent analysis. If ‘brute force’ Fourier Analysis is applied to, for example, beat-to-beat heart rate, a low frequency (0.1Hz) element may be isolated which corresponds to the expansion of the chest, although most pre-packaged analytic programs will probably not be able to isolate this element.
+
+
+
+
+Categories
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+Generics
+
+
+Type of method
+Electro-physiology
+
+
+Electrophysiology is data on the controller’s nervous system.
+
+
+Target of method
+Strain
+
+
+Electrophysiological measures inherently measure the state of the controllers’ physical processes, without regard to the ‘objective’ workload, and in consequence measure ‘Strain’.
+
+
+Time Scale of method
+Minutes
+
+
+Respiration rhythms vary around 0.1 to 0.2 Hz, in relevant conditions. It takes some time for a change in circumstances to show up in respiration, and the rhythm may be upset if the controller speaks.
+
+
+Portability of method
+No
+
+
+Electrocardiographic (ECG) measures require attaching the controller to a trolley of recording equipment.
+
+
+Observer Effect
+No
+
+
+Electrophysiological methods in general are not usually subject to observer effects.
+
+
+Context of studies
+
+
+Laboratory studies
+Use
+
+
+ 
+
+
+Simulation studies
+Use
+
+
+ 
+
+
+Field studies
+Caution
+
+
+ 
+
+
+Potential problems with the method
+
+
+Failure risk
+Moderate
+
+
+Any system involving skin electrodes may fail if the electrodes become detached, or the band used to monitor chest expansion may slip. This is particularly likely to happen when the controller being measured makes sudden movements. Controllers tend to make sudden movements at moments of extreme strain, and to be particularly intolerant of interruption at such times.
+
+
+Bias risk
+None
+
+
+Respiration is measured as a check on bias in other measurements.
+
+
+Ethical problems
+Medical
+
+
+Respiration rate is normally used for medical diagnosis. It is made clear, before any simulation that information on the performance or physical state of individual controllers will not be disclosed or quoted in any identifiable form.
+
+
+Costs of the method
+
+
+Staff Cost
+High
+
+
+Electrophysiological methods usually need at least one post-doctoral level supervisor, plus one skilled technician per controller observed.
+
+
+Set-up Cost
+High
+
+
+All medical equipment is inclined to be expensive.
+
+
+Running Cost
+High
+
+
+Electrophysiological measures require the fitting of electrodes for each run. This is a time consuming business. The use of a tension sensor is equally delicate.
+
+
+Analysis Cost
+Moderate
+
+
+The software for the analysis of the effects of Respiration rate on Heart rate is usually included in the proprietary or specially developed software usually necessary for the analysis of heart-rate data.
+
+
+Analysis data
+
+
+Analysis Speed
+Fast
+
+
+Given that the data are in digital form and that suitable software is available, Respiration analysis can be sufficiently fast.
+
+
+Data Automation
+Used
+
+
+Respiration data is usually collected using automatic recording systems.
+
+
+Analysis Automation
+Yes
+
+
+Most data analysis is more or less automated in the current circumstances.
+
+
+Status
+Established
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

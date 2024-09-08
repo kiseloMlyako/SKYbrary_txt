@@ -1,0 +1,255 @@
+ACAS: Guidance for Controllers
+
+
+
+
+
+
+
+
+
+
+
+  ACAS: Guidance for Controllers
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Nets 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TCAS: Guidance for Controllers
+ 
+Description
+This article provides guidance for controllers on what to expect from aircraft responding to an ACAS Resolution Advisory (RA), together with some considerations which will enable the controller to provide as much support as possible to the aircraft concerned, as well as maintaining the safety of other aircraft in the vicinity of the potential collision.
+There is no set of ready, out-of-the-box, rules to be followed universally. As with any unusual or emergency situation, controllers should exercise their best judgment when dealing with the apparent consequences of loss of separation (LOS) between aircraft, including those resulting from ACAS RAs. A generic checklist for handling unusual situations is readily available from EUROCONTROL but it is not intended to be exhaustive and is best used in conjunction with local ATC procedures.
+Useful to Know
+The Airborne Collision Avoidance System (ACAS) is an airborne safety net and an ICAO standard which provides pilots with a system independent of air traffic control to detect the presence of other aircraft which may present a threat of collision. Where the risk of collision is established, the system provides an indication of a vertical manoeuvre that will reduce the risk of collision. It is often used by the flight crew to improve their situational awareness. (See also: Incorrect Use of TCAS Traffic Display). It serves as a last-resort safety net irrespective of any separation standards.
+ICAO Standards and Recommended Practices (SARPs) and procedures on ACAS are contained in: Annex 10, volume IV; PANS-OPS (Doc. 8168) and PANS-ATM (Doc. 4444). The Regional and Supplementary Procedures document (ICAO Doc. 7030) and ICAO Annex 6 specify the ACAS II equipage requirements. Additionally, many aviation authorities (including EASA in Europe, FAA in USA, CASA in Australia, etc.), have mandated, by regulation, the equipage of TCAS II compliant with ICAO SARPS in a variety of aircraft classes.
+According to ICAO (Doc 8168 PAN-OPS, Chapter 3, Section 3.2) in case of a conflict between TCAS RA and air traffic control (ATC) instructions, the ACAS RA always takes precedence (this is mainly because the ACAS uses more accurate information which provides more current and comprehensive picture of the situation).
+On July 1, 2002 over Überlingen, Germany a mid-air collision resulted when the crews of the two airplanes fitted with TCAS II systems were following two different operational concepts, due to lack of standardisation. The crew of one of the airplanes followed the ACAS RA, the other, followed the controllers’s instructions which were in contradiction with the ACAS generated RA. See: T154 and B752, Überlingen Germany, 2002.
+Effects
+An ACAS RA might result in:
+
+Climb or descent without prior warning
+Changes in vertical rates of climb/descent
+Two or more aircraft involved
+Only one aircraft in a conflict pair getting an ACAS RA
+Late notification by pilots regarding RA, after aircraft begin climb or descent (in accordance with the principle aviate, navigate, communicate)
+
+Anticipated Crew Actions (Impact on Crew)
+In the event of an RA the crew is expected to act in accordance with PANS-OPS (Procedures for Air Navigation Services - Aircraft Operations - Volume 1 Flight Procedures - ICAO Doc. 8168 OPS/611):
+
+Respond immediately by following the RA as indicated, unless doing so would jeopardise the safety of the airplane;
+Follow the RA even if there is a conflict between the RA and ATC instruction to manoeuvre;
+Do not manoeuvre in the opposite sense to an RA (In the case of an ACAS-ACAS coordinated encounter, the RAs complement each other in order to reduce the potential for collision. Manoeuvres, or lack of manoeuvres, that result in vertical rates opposite to the sense of an RA could result in a collision with the threat aircraft.);
+As soon as possible, as permitted by flight crew workload, notify the appropriate ATC unit of any RA which requires a deviation from the current ATC instruction or clearance. Unless informed by the pilot, ATC does not know when ACAS issues RAs. It is possible for ATC to issue instructions that are unknowingly contrary to ACAS RA indications. Therefore, it is important that ATC be notified when an ATC instruction or clearance is not being followed because it conflicts with an RA. It should be noted that informing the controller about an RA that does not contradict the ATC clearance is entirely at the discretion of the pilot.
+Promptly comply with any modified RAs;
+Limit the alterations of the flight path to the minimum extent necessary to comply with the RAs;
+Promptly return to the terms of the ATC instruction or clearance when the conflict is resolved;
+Notify ATC when returning to the current clearance.
+
+The following additional notes are important and should be taken into consideration when anticipating the crew’s actions in response to ACAS RA:
+
+Stall warning, wind shear, and ground proximity warning system alerts have precedence over ACAS RA.
+High vertical rate (HVR) encounters - Pilots are advised to use appropriate procedures when climbing or descending to an assigned altitude or flight level, especially with an autopilot engaged. HVR could occur at a rate around 1 500 ft/min throughout the last 300 m (or 1 000 ft) of climb or descent to the assigned altitude or flight level. Caution should be exercised both by pilots and controllers to avoid unnecessary ACAS RA involving aircraft at, or approaching, adjacent altitudes or flight levels.
+
+Suggested Controller's Actions
+When a pilot reports a manoeuvre induced by an RA the controller should remember the following:
+
+The controller shall not attempt to modify the aircraft flight path until the pilot reports “Clear of Conflict”
+The controller shall provide traffic information as appropriate
+Pilots are very busy (Increased workload in the cockpit)
+Pilot would experience stress in the face of conflicting traffic, even if alerted through ACAS traffic advisories
+TCAS II altitude data is more accurate than radar data
+TCAS II evaluates the strength of an RA every second and will change it if necessary
+
+In accordance with PANS-ATM (Procedures for Air Navigation Services - ICAO Doc. 4444, 15.7.3.3), once an aircraft departs from its ATC clearance or instruction in compliance with an RA, or a pilot reports an RA, the controller ceases to be responsible for providing separation between that aircraft and any other aircraft affected as a direct consequence of the manoeuvre induced by the RA. The controller shall resume responsibility for providing separation for all the affected aircraft when:
+
+the controller acknowledges a report from the flight crew that the aircraft has resumed the current clearance; or
+the controller acknowledges a report from the flight crew that the aircraft is resuming the current clearance and issues an alternative clearance which is acknowledged by the flight crew.
+
+Following an RA event, or other significant ACAS event, the pilot and the controller should file an air traffic incident report (AIRPROX). As controller, be ready to provide all necessary details to the pilot’s inquiry on the frequency immediately following the particular RA event.
+Based on the provisions of ICAO Doc 4444 (15.7.3.1), the procedures to be applied for the provision of air traffic services to aircraft equipped with TCAS shall be identical to those applicable to non-TCAS equipped aircraft. In particular, the prevention of collisions, the establishment of appropriate separation and the information which might be provided in relation to a conflicting traffic and to possible avoiding action shall conform with the normal ATS procedures and shall exclude consideration of aircraft capabilities dependent on the TCAS equipment.
+Procedures in regard to ACAS-equipped aircraft and the phraseology to be used for the notification of manoeuvres in response to a resolution advisory are contained in the PANS-ATM (Doc 4444), Chapters 15 and 12 respectively. The following phraseology is contained in Doc 4444, Para 12.3.1.2
+Circumstances following an effective ACAS RA, pilot and controller RTF interchange:
+
+After a flight crew starts to deviate from any ATC clearance or instruction to comply with an ACAS RA:
+
+PILOT: [callsign] TCAS RA;
+ATC: [callsign] ROGER;
+ 
+
+After the response to an ACAS RA is completed and a return to the ATC clearance or instruction is initiated:
+
+PILOT: [callsign] CLEAR OF CONFLICT, RETURNING TO.. (assigned clearance);
+ATC: [callsign] ROGER (or alternative instructions);
+ 
+
+After the response to an ACAS RA is completed and the assigned ATC clearance or instruction has been resumed:
+
+PILOT: [callsign] CLEAR OF CONFLICT (assigned clearance) RESUMED;
+ATC: [callsign] ROGER (or alternative instructions);
+ 
+
+After an ATC clearance or instruction contradictory to the ACAS RA is received, the flight crew will follow the RA and inform ATC directly:
+
+PILOT: [callsign] UNABLE, TCAS RA;
+ATC: [callsign] ROGER;
+Training Material
+An EUROCONTROL presentation material has been designed to support the training of people involved in the use of the Airborne Collision Avoidance System (ACAS). However, it is not, per se, designed for the complete training of controllers or pilots. The principal and essential technical and operational features of ACAS are introduced:
+
+TCAS version 7.1 for controllers
+TCAS version 7.1 for pilots
+
+Related Articles
+LOS:
+
+Loss of Separation,
+Loss of Separation - ATCO-induced Situations,
+Loss of Separation - Pilot-induced Situations,
+Accident and Serious Incident Reports: LOS.
+
+Safety Nets
+
+Airborne Collision Avoidance System (ACAS),
+ACAS Resolution Advisory,
+ACAS Regulation and Procedures,
+ACAS Training,
+Incorrect use of TCAS Traffic Display,
+Short Term Conflict Alert (STCA).
+RA Downlink
+
+Related Media
+
+TCAS Awareness Videos
+
+Further Reading
+ICAO
+
+ICAO Annex 10 Volume IV Chapter 4 and Attachment A ;
+Annex 6, Part II - International General Aviation — Aeroplanes (6.14.1 - ACAS II Equipage recommendations)
+PANS-OPS (Procedures for Air Navigation Services - Aircraft Operations - Volume I Flight Procedures - ICAO Doc. 8168 OPS/611)
+ICAO Doc 4444: Procedures for Air Navigation Services (PANS-ATM) Chapter 12 and 15
+Airborne Collision Avoidance System (ACAS) Manual (Doc. 9863) (especially Chapter 5, Operational Use and Pilot Training Guidelines and Chapter 6, Controller Training Guidelines)
+
+EUROCONTROL
+
+ACAS Guide - Airborne Collision Avoidance, March 2022
+Overview of ACAS II - (incorporating version 7.1), Version 3.0 – 12 January 2012
+ATC Refresher Training Manual, ed.1.0, March 2015
+ACAS Bulletins
+
+Safety Nets Newsletters
+
+NetAlert Newsletters;
+
+HindSight Articles
+
+HindSight1 Analysis of an AIRPROX between a B737 and an A340;
+HindSight2 Loss of Separation - an Incident at Paris/Orly;
+HindSight3 Loss of separation: The Blind Spot;
+HindSight4 Loss of Separation - A Lesson for the Instructor;
+HindSight5 Loss of Separation - TCAS and STCA - Not Just Anagrams
+HindSight6 Loss of Separation - Mid-Air Collisions, Elephants, and Systems Approaches
+HindSight10: TCAS II and Level Bust
+
+EASA
+
+IR-OPS CAT.IDE.A.155 - Airborne collision avoidance system (ACAS)
+IR-OPS CAT.OP.MPA.295 - Use of airborne collision avoidance system (ACAS)
+Acceptable Means of Compliance and Guidance Material CAT.OP.MPA.295
+IR-OPS ORO.GEN.160 - Occurrence Reporting
+EASA Safety Information Bulletin SIB No.: 2013-11, ACAS II – Manoeuvres based on Visual Acquisition of Traffic, 19 July 2013
+EU-OPS 1.668: requirement for aircraft to be equipped with ACAS
+EU-OPS 1.398: use of TCAS
+EU-OPS 1.420: requirement to report TCAS RAs
+JAA TGL 11: Guidance for operators on training programmes for the use of ACAS
+
+
+
+
+
+Categories
+
+
+Safety Nets,
+              Loss of Separation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,141 @@
+Automated Weather Observing System (AWOS)
+
+
+
+
+
+
+
+
+
+
+
+  Automated Weather Observing System (AWOS)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Weather 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Automated Weather Observing System (AWOS) is a fully configurable airport weather system that provides continuous, real time information and reports on airport weather conditions. AWOS stations are mostly operated, maintained and controlled by aviation service providers.
+AWOS Measurements
+Depending on the configuration, AWOS measure a combination of the following parameters:
+
+Barometric pressure (in hectopascals (hPa) / inches of Mercury (inHg)), altimeter setting and density altitude
+Wind speed and wind gusts (in knots), wind direction (from which the wind is blowing) and variable wind direction (in degrees of the compass)
+Temperature and dew point (in degrees Celsius)
+Visibility and variable visibility (in metres/miles)
+Sky condition (in oktas), cloud ceiling height (in metres/feet) and liquid precipitation accumulation (in centimetres/inches)
+Precipitation type (e.g. rain, snow, drizzle) identification
+Thunderstorm detection (via a cloud-to-ground lightning detector)
+Freezing rain detection (via a freezing rain sensor)
+Runway surface conditions.
+
+Non-certified sensors may be attached to AWOS systems, but weather data derived from those sensors must be clearly identified as "advisory" in any voice messages and may not be included in any METAR observations.
+Weather Data Dissemination
+AWOS systems disseminate weather data in a variety of ways:
+
+A computer-generated voice message which is broadcast via radio frequency to pilots in the vicinity of an airport. The message is updated at least once per minute, and this is the only mandatory form of weather reporting for an AWOS.
+Optionally, a computer-generated voice message, available over a telephone dial-up modem service. The message is updated at least once per minute.
+Optionally (but frequently done), AWOS messages may be disseminated via ground data link in METAR format, typically once every 30 minutes.
+
+Automated Surface Observing System (ASOS)
+Automated Surface Observing System (ASOS) is another type of an automated weather station, mainly used in the United States. Although similar to AWOS in nature, it is more sophisticated and is designed to provide the necessary information to generate weather forecasts. It serves as the primary climatology observing network in the United States.
+Whereas AWOS data typically includes ceiling and sky conditions, visibility, temperature, dew point, altimeter setting and wind speed, gusts and direction, ASOS can additionally provide the type and intensity of precipitation (rain, snow, freezing rain), and obstructions to visibility such as fog and haze. ASOS can also track wind shifts, peak winds, rapid pressure changes, and the amount of accumulated precipitation.
+These systems generally report at hourly intervals, but in case the weather conditions change rapidly and cross specific thresholds, special observation reports are issued. Reports are typically monitored by Air Traffic Control towers and human observers can edit or augment the automated observations.
+Related Articles
+
+Meteorological Terminal Air Report (METAR)
+Significant Weather Information (SIGMET)
+Wind Velocity Reporting
+Runway Surface Friction
+Lightning Detection Network
+
+
+
+
+
+Categories
+
+
+Weather
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,370 @@
+A346, en-route, near Amsterdam Netherlands, 2005
+
+
+
+
+
+
+
+
+
+
+
+  A346, en-route, near Amsterdam Netherlands, 2005
+
+
+
+
+
+
+
+
+
+Summary
+
+On 8 February 2005 an Airbus A340-600 was 11 hours into its flight from Hong Kong to London Heathrow when the No 1 and No 4 engines ran down in quick succession. A fuel management problem rather than a fuel shortage was then diagnosed but a manual transfer was only partially successful and a diversion to Amsterdam was made on three engines. The Investigation found that the master Fuel Control and Monitoring Computer had failed, that timely warnings of automated fuel control system malfunctions were not provided and that alternate low fuel level warnings were inhibited by inappropriate system design.
+
+
+
+
+Event Details
+
+When
+
+08/02/2005
+
+
+
+Event Type
+
+
+AW,
+              LOC
+
+
+
+
+Day/Night
+
+Night
+
+
+
+Flight Conditions
+
+IMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS A-340-600
+
+
+
+
+
+
+
+
+
+Operator
+
+Virgin Atlantic
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Hong Kong International Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+London Heathrow Airport
+
+
+
+
+
+
+
+Actual Destination
+
+
+
+
+Amsterdam Airport Schiphol
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Cruise
+
+
+
+
+
+
+
+
+Location
+
+Approx.
+
+near Amsterdam, Netherlands
+
+
+
+
+
+
+
+
+
+
+General
+
+Tag(s)
+
+
+              En-route Diversion,
+              Extra flight crew (no training)
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Significant Systems or Systems Control Failure,
+              Loss of Engine Power
+          
+
+
+
+
+EPR
+
+Tag(s)
+
+
+              MAYDAY declaration,
+              Fuel Status
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Indicating / Recording Systems,
+              Engine Fuel and Control
+          
+
+
+
+Contributor(s)
+
+
+              OEM Design fault,
+              Component Fault in service
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Airworthiness
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 8 February 2005 an Airbus A340-600 (G-VATL) being operated by Virgin Atlantic Airways on a scheduled international passenger flight from Hong Kong to London with an augmented crew was en-route in Dutch airspace when the No 1 and No 4 engines ran down in quick succession due to fuel starvation. Only the No 4 engine could be restarted and in view of uncertainty about fuel transfer status, a MAYDAY was declared and a diversion to Amsterdam was then completed on three engines without further event.   
+Investigation
+After delegation of responsibility for an investigation by the Netherlands as the State of Occurrence to the UK Air Accident Investigation Branch (AAIB), it was determined that the event had been sufficiently serious to warrant a ‘Major Investigation’ and the issue of a Formal Report upon its conclusion.
+Both the FDR and CVR were successfully replayed at the AAIB and FDR data was available for the entire flight and the two hour CVR contained recorded date commencing about half an hour before the rundown of the first engine and continuing until after landing. A QAR was also installed on the aircraft and would normally have recorded the same data as the FDR but was found to not to have done so because it was full to capacity prior to the event occurring.
+It was noted that the augmented flight crew involved consisted of a 43 year-old Captain who had a total of 7,000 hours flying experience of which 3,100 hours were on type, a 37 year-old First Officer who had a total of 7,690 hours flying experience of which 4,130 hours were on type and a 31 year-old Relief First Officer with a total of 4,445 hours flying experience of which 380 hours were on type. It was also noted that this flight crew had been scheduled for a series of flight duties over a nine-day period during which they had operated from the UK to Australia in accordance with the operator’s approved FTL (Flight Time Limitation) scheme. The scheduled flight duty period for the investigated flight was 14 hours 15 minutes and the allowable flight duty period, which varied according to the amount of in-flight rest taken, was in excess of this.
+What Happened  
+It was noted that there was one relevant entry in the Technical Log made prior to the departure from Hong Kong and after the previous sector from Sydney to Hong Kong. This stated that the two Fuel Control Monitoring Computers (FCMCs) had been successfully reset at separate times during the previous sector and had both failed again during pre-flight preparation for the flight to London with resets by the flight crew in accordance with the QRH being successful on each occasion. 
+The Investigation was subsequently told that the crew had “noticed a brief flicker on the ECAM of ‘FCMC FAULT’ whilst taxiing out at Hong Kong but were not sure which FCMC was shown and no action was taken”. It was also stated that soon after takeoff, an ECAM alert ‘FCMC2 FAULT’ had been displayed but since there were no ECAM actions associated with this fault, the Captain “decided to delay any attempt at a computer reset until the aircraft had reached its cruise level”. This was subsequently attempted using the computer reset procedure in the QRH but the reset was unsuccessful and the flight had continued with no further fuel system warnings, cautions or messages thereafter.
+About 90 minutes after the Captain returned from his rest period and took over as PF, with the flight now in Dutch airspace and level at FL 380, the No 1 engine failed and the ECAM ‘ENG 1 FAIL’ procedure, which included a prompt to consider relighting an undamaged engine, was actioned but without a relight attempt. After reviewing the aircraft relevant system and status pages, the crew noticed that the fuel contents for the Inner 1 tank, which feeds No 1 engine was reading zero and initially became concerned about the possibility of a fuel leak. The Captain asked the First Officer to ask the (currently resting) Relief First Officer (RFO) to inspect the left wing and engines from the cabin. He then called the SCCM to the flight deck for a briefing and whilst this was in progress, the First Officer drew his attention to the fact that the indicated thrust for the No 4 engine was reducing. The Captain “immediately opened all the fuel cross feed valves and, he thought, also opened the outer tank transfer valve, whereupon the No 4 engine recovered”. Having then seen that the Inner 4 tank contents indication was zero, he reported recognising that there was a fuel management problem. The RFO then reported that he had been unable to see anything abnormal with the No 1 engine and remained on the flight deck. 
+After discussing the options with both First Officers, the Captain decided that “if they were able to relight No 1 engine, they would continue to Heathrow but if not, he would declare a MAYDAY and divert the flight”. Whilst this ultimately unsuccessful attempt to relight was in progress, the Captain noted that “fuel was not coming out of the centre tank and that there was only 2,700 kg in each wing” and had therefore asked the First Officer to transfer fuel manually from the trim and centre tanks into the wing tanks. Eighteen minutes after the No 1 engine had failed, a MAYDAY was declared to ATC and a diversion to Amsterdam requested and acknowledged. 
+The First Officer used the ‘TRIM TANK FUEL UNUSABLE’ QRH procedure to attempt the fuel transfer but could see no evidence that any fuel was being transferred. Believing that fuel transfer was not occurring, he looked for another procedure and tried the FCOM ‘Fuel Trim Tank Transfer Fault’ procedure and found that “although the contents of the centre tank were increasing and fuel appeared to be transferring into it, fuel did not seem to be transferring out of it”. They then tried the ‘FCOM Fuel Centre/Inner Transfer Fault’ procedure in which it was stated that if the centre tank fuel contents are below 35 tonnes, centre tank fuel is unusable. 
+At this time the flight crew “believed that both the centre, trim and outer wing tank fuel contents were unusable” which would have meant that they had only 10 tonnes of useable fuel on board. In fact, fuel transfer was occurring “but because the crew did not see all the indications that they expected on the system display, doubt and confusion concerning the exact fuel status remained in their minds for the rest of the flight”. The diversion to Amsterdam was completed on three engines without further developments and landing there occurred 40 minutes after the No 1 engine failure had occurred.
+Why it happened
+It was noted that fuel on the aircraft type involved is held in eight separate fuel tanks each identified as shown in the illustration below and a collector cell within each of the four inner fuel tanks supplied fuel to the main and standby feed fuel pumps for the corresponding engine. The fuel system is fully automatic in normal operation under the control of two Fuel Control and Monitoring Computers ( FCMCs) which can, if necessary, be overridden by manual selections on the fuel control panel. The normal level for a low fuel warning, which did not occur is 1,000 kg as calculated by the FCMC in use.
+
+Fuel Tank Layout of the A340-600. [Reproduced from the Official Report]
+Following the diversion, the Central Maintenance Computer (CMC) was accessed to obtain a Post Flight Report (PFR) which detailed the flight deck effects and faults detected and recorded by the CMC during the flight. The total quantity of fuel on board at touchdown was found to have been 22,961 kg made up of  2,641 kg, 5,922 kg, 5,370 kg and 2,584 kg in the inner tanks in the order 1-4. The centre fuel tank quantity was 4,325 kg and the trim tank fuel quantity was 2,119 kg but both outer fuel tanks were empty. The aircraft was then comprehensively checked in accordance with advice provided by Airbus and all engines were then started and ground run. With no findings of significance in relation to safe flight, the aircraft was manually refuelled and the aircraft then was positioned to London Heathrow as a non-revenue flight. After this flight, the low-level fuel warnings for the Inner 1 and Inner 4 fuel tanks were confirmed to be working normally and valve operation was confirmed. The two FCMCs, the Fuel Data Concentrators (FDCs), the Flight Warning Computers (FWCs) and the System Data Acquisition Computers (SDAC)s were inspected and removed from the aircraft for further testing. No defects in these computers, their associated wiring, connectors or the security of their installation were found. Both FCMCs passed all of these tests and no faults were found in either of the FDCs. Troubleshooting data from each SDAC was retrieved and no evidence of any unit malfunction relevant to the Investigation was found.
+Considerably more system investigation work eventually concluded that the Master FCMC had been making automatic fuel transfers until 3 hours 20 minutes after takeoff. Had the slave FCMC detected that the master FCMC had failed, it should have taken over from the master FCMC but it had not. This meant that from this point in the flight, the crew were unaware that automatic fuel transfer had stopped mainly due to the lack of any resultant ECAM warnings thereafter. The first of these warnings would have been displayed at the point of fuel transfer system failure when the Inner 1 fuel tank quantity dropped below 17,200 kg with fuel remaining in the centre tank. This warning would have then been shown again just over 1½ hours later when the contents of the same tank dropped below 14,000 kg. This second ECAM action would have then directed the flight crew to use the manual fuel transfer to move fuel from the centre to inner fuel tanks. 
+A little over 4 hours after this second ECAM warning should have occurred, the contents of the Inner 1 tanks dropped below 4,000 kg, which should have initiated a forward transfer of trim tank fuel which, when it did not happen, should have led to an ECAM trim tank transfer fault warning which would have prompted manual transfer. An hour after this third system warning should have occurred, the same tank quantity was down to 2,000 kg at which point automatic transfer from the outer to the inner fuel tanks should have begun. When it did not, a corresponding ECAM fault warning should have been annunciated, which would have required operation of the manual outer tank transfer switch.
+Finally, after a further half hour, the fuel left in this tank was down to 1,000 kg and generated an ECAM ‘INR 1 LO LVL’ warning for which the required ECAM response would have been to open the cross feed valves and to operate all the manual fuel transfer switches on the overhead panel. If  this warning had not been triggered, the next one - ‘CELL 1 NOT FULL’ - should have occurred when the Inner 1 collector cell quantity dropped below 750 litres for which the response would have been to open the cross feed valves manually.
+Since all of these warnings should have been generated by the master FCMC and sent via the FCMC ARINC output buses ‘A’ and ‘B’ to the FWCs, it was concluded that there were only three potential explanations.
+
+Either both FWCs were inoperative (which was not the case since when the No 1 engine ran down, at least one of them correctly triggered a warning and the subsequent failures of affected secondary systems). In any case, full testing of both FWCs had not found any faults or identified any defects in the DMCs to which each FWC communicated.
+Warnings were not generated by the master FCMC but testing of both FCMCs had shown that both were able to correctly compute the subject failures and communicate these on the relevant ARINC output buses.
+The ARINC output buses between the master FCMC and the FWC were inoperative.
+
+This left the most probable explanation for the lack of ECAM warnings as failure of the ARINC output buses A and B from the master FCMC. However, a problem with this explanation was recognised as the system design which treats failure of both ARINC output buses A and B on one FCMC as a failure of that FCMC which would cause the alternative FCMC to take over as master. It was therefore further concluded that both FCMCs had lost their ability to produce warning signals. It was noted that a failure of the master FCMC’s output buses would explain the absence of fuel transfer and the collector cell low quantity warnings since these can only be generated by the master FCMC.  
+A detailed assessment of the Master/Slave FCMC relationship by the Investigation then led to the conclusion that it was possible for a Master FCMC to remain as Master despite losing all of its discrete and ARINC-communicated outputs despite the availability of a Slave FCMC which was fully capable using its own ARINC output busses to trigger the Flight Warning Computers’ (FWCs) to display ‘FCMC1+2 FAULT’ and any other fuel warning messages.
+Observations
+
+In the context of the crew’s use of the hard copy FCOM/QRH as well as ECAM procedures as they sought to resolve the fuel transfer problem they had identified, it was considered that the use of the former in this way to identify and solve system problems in flight “was never intended by the aircraft manufacturer”. The following “human factor consequences” of fuel system complexity were documented by the Investigation:
+
+Fuel transfer within the aircraft is both automated and complex as fuel is used to manage the aircraft’s centre of gravity in flight. Because of the automation and complexity of fuel management, pilots are unlikely to acquire a confident expectation of what is a ‘normal’ fuel distribution during flight. The presentation
+of fuel quantities is in digital format and it needs particular attention to summate and cross-check fuel distributions. For example, to determine the total fuel quantity in one wing, perhaps to evaluate any lateral fuel imbalance, the contents of three tanks have to be added. These factors make it less likely that pilots will notice an ‘abnormal’ distribution without assistance from automatic fault detection.  
+Once the pilots appreciated that the fuel transfer system had malfunctioned without any warning, they partially lost confidence in the ECAM upper and lower displays. However, had they been displayed, transfer arrows on the fuel system synoptic page and/or fuel transfer memos on the upper ECAM display could have restored confidence in their ability to transfer fuel manually. Unfortunately, these symbols were suppressed and so the pilots were uncertain about the efficacy of manual transfer.
+
+In respect of the flight crew’s ability to observe the contents of all fuel tanks at any time during the flight, it was noted that since the FWC did not produce any fuel-related warnings it would not have automatically led to the display of the fuel system page. Therefore, the flight crew would have had to have selected the fuel status page to review the system operation during the incident. The FDR data shows that they did so six times but during these ‘reviews’ the flight crew did not detect a failure of the automatic transfer. The only method of detecting the transfer failure would have been to record the fuel quantity in each tank during each review and compare this review with the previous to detect that correct fuel transfer, particularly from the centre tank to the wing tanks, had occurred. The appropriate context for this observation was, however, considered to be as follows:
+
+The scope of the automation in contemporary Airbus aircraft subtly encourages reliance on the fuel computers and flight warning system to manage and monitor fuel transfer. The information on the CRUISE status page shows the fuel burn by each engine and the total fuel used. This information, coupled with the total fuel on board shown on the upper ECAM display, does not take into account where the fuel is or how much fuel is available to each engine at any one time. Moreover, since no fuel had been lost, comparison of these totals with the fuel loaded and the fuel required to reach destination would not have shown anything amiss. Expressing this issue simply, there was adequate fuel on board but it was not in the right places and the flight crew were not checking its distribution, nor were they required to do so.
+
+Although the Post Flight Report (PFR) produced by the CMC was invaluable as an investigative data source, especially when combined with FDR and CVR data, there  were some limitations to this data which, had they not existed could have assisted in identifying or at least further verifying the analysis based on the available information. In particular, it only showed the first occurrence of a fault so that an intermittent fault or even two separate occurrences of the same fault message of differing origin cannot be identified.
+ Although it turned out not to be directly related to the investigated event, it was noted that at the time it occurred, A340-600 flight deck indications of an ‘FCMC1(2) FAULT’ had been quite frequent across the world fleet for at least three years and had been identified as arising from a system software fault which a number of software upgrades had failed to resolve. A check of the Virgin Atlantic A340-600 fleet found that in the three months prior to the investigated event, almost 40% of flights made by the seven aircraft in the fleet had experienced this fault. In the light of this situation, the prevailing procedure at the operator in the event of this indication had been agreed with Airbus as “a SINGLE FCMC FAULT ECAM caution in flight can be cleared by a single reset there is no requirement for flight crew to raise an entry in the technical log”.’ It was noted that the latest relevant software upgrade, “Flight Load 8” was “about to be fitted” to the operator’s A340-600 fleet and that its primary purpose was to rectify the problem with false ‘FCMC FAULT’ messages.
+
+Useful or effective investigation techniques 
+It quickly became clear during the Investigation that most of the information which would help in finding the root cause would be found within the various system control computers which provided far more information than the nevertheless invaluable data downloaded from the FDR. It was therefore fortunate that the A340-600 was one of the most advanced public transport aircraft in service at the time and, as such, incorporated a large amount of advanced avionics equipment and specifically the fault memory in system control computers. 
+However, whilst these were all useful in understanding what had happened, it was recognised that since they were designed to facilitate in-service troubleshooting rather than accident investigation, they had their limitations for this incidental purpose. It was considered that all accident investigators should be aware of the potential availability of such data in most of the more modern aircraft types and the value of extracting it at the earliest opportunity, noting that “because some computers only produce a hexadecimal readout, the original information may not look useful at first sight but when decoded by the manufacturer, it becomes very useful”. It was also noted that because these control computers exchange data, “it is possible that a computer outwith the suspected system may have clues as to what has happened within the faulty system”, as was particularly evident during this investigation since “the DMCs and FWCs contained information regarding the ARINC data bus status of the FCMCs”. 
+The Airbus-specific usefulness of the Post Flight Report (PFR) was also noted as potentially being of more value than the aircraft Technical Log with “most operators of Airbus aircraft having a system which records each PFR following every flight”. This could, for example, be true of a known repetitive fault which flight crews either choose not to or are instructed not to enter in the Technical Log. In the current Investigation, a review of previous PFRs provided information on the extent to which ECAM ‘FCMC FAULT’ messages had been prevalent would otherwise have been impossible to establish.
+The Investigation determined that the Cause of fuel starvation in fuel tanks Inner 1 and Inner 4 and the subsequent rundown of engine number 1 and engine number 4 was as follows:
+
+Automatic transfer of fuel within the aircraft stopped functioning due to a failure of the discrete outputs of the master Fuel Control and Monitoring Computer (FCMC).
+Due to FCMC ARINC data bus failures, the flight warning system did not provide the flight crew with any timely warnings associated with the automated fuel control system malfunctions.
+The alternate low fuel level warning was not presented to the flight crew because the Flight Warning Computer (FWC) disregarded the Fuel Data Concentrator (FDC) data because its logic determined that at least one FCMC was still functioning.
+The health status of the slave FCMC may have been at a lower level than that of the master FCMC, thus preventing the master FCMC from relinquishing control of the fuel system when its own discrete and ARINC outputs failed.
+
+A total of six Safety Recommendations were made as follows:
+
+that Airbus should review the FCMC master/ slave determination logic of the affected Airbus A340 aircraft so that an FCMC with a detected discrete output failure or ARINC 429 data bus output failure cannot remain the master FCMC or become the master FCMC.  [2005-36] 
+that Airbus should review the logic of the low fuel level warnings on affected Airbus A340 aircraft so that the FDC low fuel level discrete parameter always triggers a low fuel level warning, regardless of the condition of the other fuel control systems. [2005-37] 
+that the European Aviation Safety Agency introduces into CS-25 the requirement for a low fuel warning system for each engine feed fuel tank. This low fuel warning system should be independent of the fuel control and quantity indication system(s). [2005-108]
+that the European Aviation Safety Agency should review all aircraft currently certified to EASA CS-25 and JAR-25 to ensure that if an engine fuel feed low fuel warning system is installed, it is independent of the fuel control and quantity indication system(s). [2005-109]
+that the Federal Aviation Administration should introduce into FAR-25 a requirement for a low fuel warning system for each engine feed fuel tank. This low fuel warning system should be independent of the fuel control and quantity indication system(s). [2005-110]
+that the Federal Aviation Administration should review all aircraft currently certified to FAR-25 to ensure that if an engine fuel feed low fuel warning system is installed, it is independent of the fuel control and quantity indication system(s). [2005-111]
+
+The Final Report of the Investigation was published on 4 September 2007.  
+Related Articles
+
+Fuel Starvation
+Aircraft Fuel Systems
+Fuel Management
+Fuel - In-Flight Management (Abnormal Operations)
+Engine Indicating and Crew Alerting System (EICAS)
+Electronic Centralized Aircraft Monitor (ECAM)
+Quick Reference Handbook (QRH)

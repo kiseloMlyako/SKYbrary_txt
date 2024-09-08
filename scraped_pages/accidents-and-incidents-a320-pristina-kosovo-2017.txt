@@ -1,0 +1,321 @@
+A320, Pristina Kosovo, 2017
+
+
+
+
+
+
+
+
+
+
+
+  A320, Pristina Kosovo, 2017
+
+
+
+
+
+
+
+
+
+Summary
+
+On 1 December 2017, an Airbus A320 made an unintentional - and unrecognised - hard landing at Pristina. As the automated system for alerting outside-limits hard landings was only partially configured and output from the sole available channel was not available, the aircraft continued in service for a further eight sectors before an exceedance was confirmed and the aircraft grounded. The Investigation noted that whilst the aircraft Captain is responsible for recording potential hard landings, the aircraft operator involved should ensure that at least one of the available automated alerting channels is always functional in support of crew subjective judgement.
+
+
+
+
+Event Details
+
+When
+
+01/12/2017
+
+
+
+Event Type
+
+
+AW,
+              HF,
+              LOC
+
+
+
+
+Day/Night
+
+Night
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS A-320
+
+
+
+
+
+
+
+
+
+Operator
+
+Orange2Fly
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Basel/Mulhouse/Freiburg
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Pristina
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Landing
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+BKPR
+
+
+
+
+General
+
+Tag(s)
+
+
+              Non Precision Approach,
+              Event reporting non compliant,
+              Copilot less than 500 hours on Type,
+              CVR overwritten
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Procedural non compliance
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Environmental Factors,
+              Hard landing
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Indicating / Recording Systems
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Aircraft damage
+
+Minor
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Airworthiness
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On Friday 1 December 2017, an Airbus A320, (SX-ORG) being operated by Orange2Fly on a non-scheduled international passenger flight from Basle to Pristina as OTF3564 made a firmer than normal landing at destination in night VMC following a non-precision approach. This landing was assessed by the Captain as ‘positive’ but within limits and therefore not identified as a hard landing until the First Officer discussed concerns privately with one of the operator’s Managers two days later during which time the aircraft had operated 8 more flights. A 3 g landing was then confirmed to have occurred and the aircraft was immediately grounded with the subsequent inspection finding that replacement of all main gear wheels and one of the shock absorbers was required to validate release to service.
+Investigation
+After notification of the event by the Hellenic Air Accident Investigation and Aviation Safety Authority (AAIASB), ten days after the hard landing had occurred, the aircraft was grounded in Kosovo and an Investigation commenced by the Kosovo Aeronautical Accident and Incident Investigation Commission (AAIIC) and notified to all relevant parties on 20 December 2017. Relevant data from the DFDR was available but that on the CVR had been overwritten due to the delay in reporting. It was noted that the Captain, who was PF for the flight, had a total of 10,078 flying hours of which 688 hours were on type and that the First Officer had a total of 7,356 flying hours of which 406 hours were on type.
+Data from the DFDR confirmed that the flight had proceeded normally until the landing. During the landing briefing, the crew had noted the light surface wind (330° at 7 knots) and agreed that a “positive” (i.e. firm) landing should be made because of a notified wet runway (but good braking action) in light rain/snow (a surface temperature of 2° C was being reported). The VOR/DME approach track was offset by 8°and the missed approach point (MAPt) was at 1.5 nm from the threshold where visual alignment with the runway is made.
+It was established that the Captain had disconnected the AP at 2000 feet agl and the approach to the 2500 metre-long runway 35 at Pristina had continued manually with the gear already down and full flaps/slats set. The A/THR (autothrottle) remained engaged and the autobrake was set to medium, the ground spoilers were armed subsequently.
+Visual contact with the runway was obtained at 1000 feet agl the PM confirmed that the approach was stable and it remained so thereafter. At 500 feet agl, the necessary right turn onto the extended runway centreline was made. From the beginning of the flare at 20 feet agl until touchdown, full back side stick was applied and as the pitch angle gradually increased from +2° to +3.5°, the rate of descent decreased from around 880 fpm to around 420 fpm and the airspeed decreased from the target VAPP towards VLS. Touchdown occurred on the runway centreline with (subsequently established) 3.04 g vertical load factor and a 0.3 g lateral load factor, the latter consistent with the aircraft nose being 3° to the left of track.
+A post flight discussion between the pilots and the cabin crew was reported to have accepted the Captain’s assessment that “whilst the landing was a little bit hard it had been within the limits” and no entry about the landing was made in the Aircraft Technical Log. The flight deck Data Management Unit (DMU) was out of paper, so the ‘Load 15’ Report, which is automatically generated (amongst other things) for any landing registering more than 2.6 g was not automatically printed out. Also, as the aircraft’s ACARS was not configured to automatically transmit the report to the aircraft operator’s offices, the aircraft subsequently continued in service, operating a further four return passenger flights between Pristina and Basle. It was noted that absence of paper in an aircraft DMU had been recorded in the aircraft Technical Log 7 days prior to the occurrence of the investigated hard landing. It was also noted that as an MEL allowable category ‘D’ defect, the time before recertification could be up to 120 consecutive days.
+Two days after the hard landing event, the First Officer “had a private talk with the Training Manager of the Operator regarding the night of the incident because he was doubtful about that landing” and after this conversation, action was taken to load paper into the DMU. A ‘LOAD 15’ report was then found to show that a 3.04 g landing had occurred, which exceeded AMM limits and therefore rendered the aircraft subject to detailed inspections before further flight. These found that some inspections and any necessary maintenance action could not be performed at Pristina because of a lack of hydraulic jacks and so Airbus provided an NTO (no technical objection) to facilitate a ferry flight to Craiova, Romania where an approved MRO (Maintenance, Repair and Overhaul) completed the inspections and carried the out replacement of all four main landing gear wheels and the right hand main gear shock absorber. Release to service was certified on 28 December 2017.
+A series of Contributing Factors relevant to the investigated severe hard landing were documented as follows:
+
+The side stick inputs made by the Captain in the few seconds before touchdown - there were several nose up and nose down inputs at very low height.
+A late full back stick applied by the PF at 20 feet agl. This action was too late to change the vertical descent rate, so the hard landing was unavoidable at this point.
+The prevailing weather conditions - it was snowing and the runway was wet.
+The decision of the flight crew to make a positive touchdown resulted in an increased rate of descent.
+Touchdown occurred with a high rate of descent (880 fpm) and was the direct cause of the severe hard landing.
+The Captain had reduced peripheral vision to the left because of the allowable despatch of the flight with his side window heating inoperative.
+
+Three Findings as to Risk were also made:
+
+The flight crew failed to comply with their responsibility to make a report if they think that there has been a hard or overweight landing.
+The absence of paper in the flight deck Data Management Unit which prevented the automatic printout of a hard landing (Load 15) report was allowable under the MEL.
+The aircraft continued to fly 8 more sectors without the inspection which was required and therefore the safety of flight operations may have been compromised.
+
+Two Safety Recommendations were made as a result of the Investigation as follows:
+
+that Orange2Fly should implement an ACARS system or ensure that there will be no shortage of paper in aircraft DMUs. [AAIIC 2018-01]
+that Orange2Fly should provide safety training to flight crew regarding the reporting of a hard or overweight landing. [AAIIC 2018-2]
+
+The Final Report was completed in November 2018 and subsequently released to unlimited access.
+Related Articles
+
+Aircraft Communications, Addressing and Reporting System
+Aircraft Technical Log
+Flight Data Monitoring (FDM)
+Landing on Contaminated Runways

@@ -1,0 +1,373 @@
+B763, en-route, Galicia Spain, 2022
+
+
+
+
+
+
+
+
+
+
+
+  B763, en-route, Galicia Spain, 2022
+
+
+
+
+
+
+
+
+
+Summary
+
+On 8 February 2022, a Boeing 767-300ER inbound to Madrid at FL340 experienced a failure of automatic pressurisation control followed almost three hours later by a failure of manual control and rapidly rising cabin altitude. An emergency was declared and descent made to FL120 where manual control was regained. The flight was completed without recurrence. The failure cause was found to have been water leaking from a tube with a broken clamp which, when it froze, had blocked the air conditioning outflow valve doors. Elements of the system design, scheduled maintenance requirements and fault detection were all identified as deficient.
+
+
+
+
+Event Details
+
+When
+
+08/02/2022
+
+
+
+Event Type
+
+
+AW,
+              HF,
+              LOC
+
+
+
+
+Day/Night
+
+Night
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 737-600
+
+
+
+
+
+
+
+
+
+Operator
+
+Delta Air Lines
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+New York/John F Kennedy International Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Madrid-Barajas Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Cruise
+
+
+
+
+
+
+
+
+Location
+
+Approx.
+
+Galicia, Spain
+
+
+
+
+
+
+
+
+
+
+General
+
+Tag(s)
+
+
+              Deficient Crew Knowledge-systems,
+              Flight Crew Training,
+              Inadequate Airworthiness Procedures,
+              CVR overwritten
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Inappropriate crew response (technical fault),
+              Procedural non compliance
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Significant Systems or Systems Control Failure
+          
+
+
+
+
+EPR
+
+Tag(s)
+
+
+              Emergency Descent,
+              “Emergency” declaration
+          
+
+
+
+
+CS
+
+Tag(s)
+
+
+              Pax oxygen mask drop
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Air Conditioning and Pressurisation
+          
+
+
+
+Contributor(s)
+
+
+              Inadequate Maintenance Inspection,
+              OEM Design fault,
+              Component Fault in service
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Airworthiness
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 8 February 2022, a Boeing 767-300ER (N1602) being operated by Delta Air Lines on a scheduled international passenger overnight flight from New York JFK to Madrid as DAL126 was over the eastern Atlantic Ocean when a failure of the automatic pressurisation system required the crew to revert to manual control. This method of control subsequently failed when still at FL 380 and an emergency was declared and an emergency descent to 10,000 feet initiated. Manual control was regained at FL120 and the emergency was then cancelled and a brief climb to a higher level (FL280) was then made for fuel efficiency and increased terrain clearance without further pressurisation problems before restarting descent into Madrid.
+Investigation
+An Investigation was carried out by the Spanish Commission for the Investigation of Accidents and Incidents (CIAIAC). The CVR and FDR were both removed from the aircraft and their data successfully downloaded but it was discovered that relevant data on the CVR had been overwritten. Information was also obtained from recorded ATC data and from ACARS messaging between the aircraft and Delta’s MCC.
+The augmented flight crew was under the command of a 52 year-old Training Captain who had a total of approximately 12,000 hours flying experience of which 8,835 hours had been flown since beginning employment with Delta including 4,540 hours on type. He was supervising a 48 year-old Captain under training who had a total of approximately 20,000 hours flying experience of which 12,493 hours had been flown since beginning employment with Delta including 5,248 hours on type. The 48 year-old First Officer who had a total of approximately 20,000 hours flying experience of which 2,604 hours had been flown since beginning employment with Delta, all on type. The three pilots had been employed by Delta for twenty two, twenty one and four years respectively.
+What Happened
+Almost three hours into the flight, when over the Atlantic Ocean at FL370, the automatic pressurisation system failed. At this time, the operating flight crew were the Training Captain acting as PM and the First Officer acting as PF. They reverted to manual control of the pressurisation and notified the operator’s MCC of the problem via ACARS. The MCC responded that they suspected that the system outflow valve (OFV) was affected by a water leak but could still be moved manually.
+The flight continued normally until the aircraft was flying over Galicia some 2 hours 40 minutes later when a warning that the Cabin Altitude had exceeded 10,000 feet was annunciated. Almost immediately, ATC called routinely to instruct the flight to descend to FL340. By this time, the PF role was being filled by the Captain under training. The First Officer acknowledged the instruction and the descent was commenced as the crew began the memory items for loss of pressurisation by donning their oxygen masks and establishing communication with each other. The First Officer attempted to control cabin altitude without satisfactory results and when the aircraft reached FL340, the cabin altitude was close to 15,500 feet and still rising. A request for further descent was made and FL300 was approved with ATC requesting if the reason for the request was turbulence, to which the First Officer responded that “they were having difficulties with the cabin pressurisation”.
+In the passenger cabin, passenger and cabin crew oxygen masks had automatically deployed by system design when the cabin altitude exceeded 14,000 feet and the cabin crew had returned to their seats and donned their own oxygen masks noting that all passengers were seated and had put on their masks.  
+The cabin altitude reached approximately 18,400 feet and as the aircraft descended through FL320, an emergency was declared, requesting clearance to descend to 10,000 feet. The Training Captain, who was in the crew rest area, had seen the passenger cabin oxygen masks drop and had returned to the flight deck. The Captain under training told him that an emergency had been declared and they were descending. The First Officer moved to a supernumerary crew seat to allow the Training Captain to occupy the right-hand seat and they both re-fitted their oxygen masks.
+According to the Training Captain, he attempted to regain control of the outflow valve (OFV) during the descent and by the time they levelled off at FL120, he had managed to regain manual pressurisation control of it and the cabin altitude warning had ceased as expected when the cabin altitude had decreased through approximately 8,500 feet as it would be expected to. The cabin crew were contacted and advised that both they and the passengers appeared to be fine. The Training Captain, at the request of the Captain under training informed the cabin crew that they would continue the flight to Madrid and that he would make a PA to explain to the passengers what had happened.
+ATC were informed that control of the pressurisation system had been regained and that the emergency was over. They asked if the aircraft was now able to climb and on being told that it was, flight was cleared to climb to and maintain FL280. Once there, this level was maintained for approximately thirteen minutes. Descent in accordance with normal positioning for a Madrid landing then commenced and half an hour later, the flight landed on runway 13L.
+Why It Happened
+It was found that during the flight prior to the one under investigation, the aircraft had operated from Barcelona to New York, the automatic pressurisation had also failed and after flight completion, the defect had been recorded in the aircraft Technical Log. Maintenance personnel had performed a built-in test equipment (BITE) test on the system Cabin Pressure Controllers (CPCs) but found no corresponding status message registered and therefore confirmed that the system was operating normally. On this evidence, the aircraft had therefore been released to service with no outstanding pressurisation system defect recorded.
+It was noted that the aircraft air conditioning system supplies a constant flow of conditioned air to the cabin and the pressurisation system then controls the cabin altitude by regulating the amount of air that is exhausted through the overboard by controlling the OFV through one of two CPCs. Two are provided to ensure continuity in normal system operation through automatic transfer between them in the event that one malfunctions. In the event that both CPCs fail, reversion to manual control is achieved by direct control of the OFV by the pilot.
+The aircraft was inspected by the operator’s maintenance personnel following its arrival in Madrid and ice was found in OFV (see the illustration below). In greater quantity during flight in sub zero temperatures outside the pressurised cabin area, ice would have initially impeded OFV automatic control and eventually prevented even manual control, But having descended to lower altitudes, function would have been restored as outside air temperature increased.
+
+Residual ice in the OFV – photo courtesy of Delta TechOps. [Reproduced from the Official Report]
+The OFV was shown to be still serviceable and functioning normally when not prevented from doing so by ice. The next stage of the Investigation was to establish how water came to be present in the OFV. There was evidence that water had been leaking from one of the supply lines in the aircraft potable water distribution system which was routed close to the OFV - see the illustration below. The origin of the leak was not immediately obvious but was eventually traced to a broken plastic clamp which was supposed to ensure a water tight link between two sections of pipe (see the second illustration below).
+Since the pressure controller BITE test had failed to register interrupted operation of the pressurisation system Cabin Pressure Controllers (CPCs), it was subjected to functional testing but no faults were found.
+Delta were asked if they had had any similar events and they advised of another on 10 February 2022 in which another Boeing 767-300 operating a Munich-Atlanta flight had to revert to manual pressurisation control and subsequently had a failure of manual control in the later stages of the cruise fairly near to their destination and made an emergency descent after which manual pressurisation control was restored and the flight to Atlanta was completed.
+The CPC OEM was consulted and stated that they would not expect the BITE to detect a fault of the type that occurred because the OFV would no longer be blocked once the worst of the ice had melted. However, they stated that they “would have expected there to have been an indication of an AC MOTOR fault, as the OPV valve was stuck in a particular position and temporarily could not be controlled”.
+Delta advised that the Fault Investigation Manual (FIM) investigation procedure (also included in the AMM) for auto pressurisation inoperative as reported after the previous flight only required the action taken i.e. a BITE test of both CPCs and their reset if no fault has been detected. The guidance provided only required a visual inspection of the OFV if the valve is not functioning normally when manually operated. It was noted that the technician who carried out the BITE test after the aircraft’s previous flight “did not consider the possibility of a water leak and a visual inspection of the OFV was not carried out”. 
+
+The water supply pipe passing close to the OFV. [Reproduced from the Official Report]
+
+The clamp (red) which when closed secured a pipe join. [Photo courtesy of Delta TechOps, reproduced from the Official Report]
+It was found that in November 2013, Boeing had issued SB 767-38A0073 to ensure that the potable water system clamps in a different part of the aircraft to where the OFV was situated would not leak water onto the electronic equipment in the main equipment centre. This SB required the blue plastic clamps to be replaced by purple metal clamps but did not cover other locations where the potable water distribution system passed close to other electro-mechanical equipment such as the OFV.  
+Key Conclusions supported by FDR data
+
+The data showed that after the failure of automatic pressure control, the cabin pressure varied which indicated active manual control of the OFV by the pilots and confirmed that the OFV was responding to the movements commanded. 7½ minutes prior to the appearance of the Cabin Altitude Warning over Galicia, the cabin pressure had begun to decrease and when the warning occurred, it had reached 10 psi. It was concluded that this was when the OFV was finally blocked by ice leading to depressurisation. It is believed that the water froze in either the control arm or the OFV actuator linkage - either would have prevented the motors from closing the OFV.
+The applicable SOP required that the actions required to commence the emergency descent following the Cabin Altitude Warning should have been performed “without delay” but were not taken until six minutes later.
+The decision to climb to FL280 for fuel efficiency reasons once it had been decided to complete the flight as planned was considered to have been questionable given the crew’s awareness that automatic pressurisation control had failed in similar circumstances on two consecutive flights and that a further failure of manual control could not be ruled out. It was considered that as the crew had all recently undergone routine refresher training on the pressurisation system, there was a case for reinforcing crew training related to cabin pressure loss and including the lessons learned from the investigated event.
+
+Cause
+The Investigation concluded that the pressurisation system failure was caused by water leaking from a tube with a broken clamp which, when it froze, blocked the outflow valve doors.
+Three Probable Contributory Factors were identified:
+
+The use of plastic tube clamps in the vicinity of the OFV (section 46), the deterioration of which had previously caused leaks in other incidents in the avionics compartment (section 41), where they had since been replaced by metal clamps.
+The absence of a fault in the BITE ground test performed prior to the flight.
+The fact that there is no requirement to perform a visual inspection of the OFV during Task 803 of 21-31 of the FIM when the automatic pressurisation system becomes inoperative in flight, the manual operation is normal, and the BITE does not detect a fault on the ground.
+
+Safety Action taken by Delta Air Lines as a result of the findings of the Investigation was noted to have included replacement of all plastic clamps in the potable water distribution system with metal ones on all of its B767-300/400 aircraft with this action complete by 9 November 2022.  
+Five Safety Recommendations were made as a result of the Findings of the Investigation as follows:
+
+that Honeywell assess the possibility that the CPC may not register a blockage of the OFV by an external element and the implications that this may entail. [REC 18/23]
+that Boeing considers replacing the CA625 series plastic clamps, whose rupture may affect the OFV. [REC 19/23]
+that Boeing considers incorporating additional measures in Task 803 of 21-31 of the FIM when the automatic pressurisation system becomes inoperative in flight, the manual operation is functioning correctly and the BITE test does not return a fault on the ground, in order to detect a possible OFV blockage. [REC 20/23]
+that Delta Air Lines passes on the lessons learned from this Investigation to all personnel involved in maintenance. [REC 21/23]
+that Delta Air Lines reinforces its crew training on cabin pressure loss and includes the lessons learned from this event in that training. [REC 22/23]
+
+The Final Report of the Investigation was approved on 31 May 2023 but was not released online (simultaneously in both the definitive Spanish version and in English translation) until 11 November 2023.
+Related Articles
+
+Loss of Control
+Loss of Cabin Pressurisation
+Aircraft Pressurisation Systems
+Cabin Altitude
+Bleed Air Systems
+Emergency or Abnormal Situation
+Continuing Airworthiness
+Aircraft Maintenance
+Aircraft Technical Log
+In-Flight Icing

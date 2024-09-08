@@ -1,0 +1,140 @@
+Current Flight Plan (CPL)
+
+
+
+
+
+
+
+
+
+
+
+  Current Flight Plan (CPL)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+The flight plan, including changes, if any, brought about by subsequent clearances.
+Source: ICAO Doc 4444 PANS-ATM
+Description
+Simply put, CPL = FPL + ATC. The flight plan (FPL) expresses the intent of how the flight would be performed. It can be amended by change messages (CHG) which are filed by e.g. the pilot or another authorized person. The CHG messages replace or add data in various parts of the original FPL. 
+In most cases the flight follows the CPL rather than the FPL that was filed before departure. The reasons for this is that often either:
+
+an intervention by a controller is necessary, e.g. to change the speed/level/heading in order to:
+
+solve a conflict with another aircraft
+bypass a special use area
+
+
+the pilot has requested (and the controller has approved) a change in the flight plan, e.g. to:
+
+execute a manoeuvre to avoid adverse weather
+fly on a direct route in order to reduce flight delay
+change the cruising level in accordance with the current aircraft performance
+
+
+
+After the deviation is complete, joining the route described in the filed FPL whilst in controlled airspace is again subject to ATC clearance (i.e. this is not done at pilot's discretion).
+Relevant information concerning the CPL is forwarded to the downstream ATS unit(s). This can be done in the form of: 
+
+verbal coordination, e.g. estimates, revisions, supplementary information, etc.
+OLDI messages such as ABI (preliminary information), ACT (electronic estimate), REV (electronic revision), etc.
+CPL messages. These are used when the FPL message has not been received by the downstream ATS unit for some reason.
+
+Related Articles
+
+Flight Plan
+Repetitive Flight Plan (RPL)
+ATC Clearance
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

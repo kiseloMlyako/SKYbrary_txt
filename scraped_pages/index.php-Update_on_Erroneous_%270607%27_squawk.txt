@@ -1,0 +1,128 @@
+Update on Erroneous '0607' squawk
+
+
+
+
+
+
+
+
+
+
+
+  Update on Erroneous '0607' squawk
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Warning Message
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+
+A design deficiency with the Rockwell Collins Mode S TPR-901 transponder can cause it to transmit an incorrect Mode A code (0607), instead of the code entered by the crew, when it is interrogated by radar systems. As the incorrect code is not displayed in the cockpit, the crew are unaware of this problem.
+This deficiency can occur both on the ground and in the air, resulting in a loss of code callsign correlation and flight data on ATC radars. This increases air traffic controllers' workload, reduces their ability to carry out tasks efficiently and has the potential to cause a serious incident. The operation of the Airborne Collision Avoidance System (ACAS) safety net, however, is not affected by this issue.
+This problem was first identified at the end of 2004 and appears to be most prevalent within European airspace, although it has also been observed in airspace outside Europe (e.g. Australia).
+This Safety Warning Message provides an update on the progress of the transponder rectification programme now underway.
+
+Transponder Modification Programme
+
+A hardware modification to rectify this fault has been developed and is available through the implementation of Rockwell Collins TPR-901 Service Bulletin 10.
+Rockwell Collins is responsible for managing the update programme for all affected units. The programme is based upon a database containing the serial number of every transponder shipped to date and it includes a number of milestones leading to 100% modification of the units in the field. An aggressive field modification schedule began at the end of November 2005 and will be completed by 21 November 2006, with priority given to modifying units fitted to aircraft operating in Europe. Globally, in excess of 2,500 aircraft are affected.
+Progress of the field modification programme is closely monitored by EASA and the Mode S & ACAS Programme. To date, the transponder modification programme is on schedule.
+
+Your attention is required
+It is essential that ANSPs alert controllers to this important issue and advise them to consider the following (in the event that an aircraft is affected with the erroneous ‘0607’ code issue):
+
+Thoroughly and systematically check all flight progress displays/strips for possible conflictions prior to issuing instructions.
+If possible, annotate the affected aircraft’s flight progress display/strip in some fashion for the duration of time that it is being controlled, to act as an aide memoir and help the conflict checking process.
+Assess the potential effect on controller workload and conflict detection in deciding when to split ATC sectors.
+Advise subsequent controllers of any persistent observations of the erroneous ‘0607’ code issue involving specific aircraft.
+
+Disclaimer
+© European Organisation for Safety of Air Navigation (EUROCONTROL) September 2006. This alert is published by EUROCONTROL for information purposes. It may be copied in whole or in part, provided that EUROCONTROL is mentioned as the source and to the extent justified by the non-commercial use (not for sale). The information in this document may not be modified without prior written permission from EUROCONTROL. The use of the document is at the user’s sole risk and responsibility. EUROCONTROL expressly disclaim any and all warranties with respect to any content within the alert, express or implied.
+
+
+
+
+Categories
+
+
+Safety Warning Message
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,157 @@
+NOSS Data Verification
+
+
+
+
+
+
+
+
+
+
+
+  NOSS Data Verification
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Management 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ ICAO
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Note: This article is entirely based on the draft International Civil Aviation Organisation (ICAO) NOSS Manual.
+ 
+General
+Data-driven programmes, such as NOSS, should employ rigorous data management techniques and quality checks. Therefore, there is a critical quality control step that occurs subsequent to data collection and prior to data analysis. This step is the “data verification” phase. The data verification phase consists of two stages and serves to assure the quality and consistency of the data, as well as to filter out subjective observations made by observers, before the data is analysed. Data verification is a labour-intensive process that may take up to a week to complete (depending on the size of the NOSS). The result is a reliable set of observation data with consistently coded threats, errors and undesired states that are ready to be analysed.
+The Data Verification Process
+The first stage of the data verification process is an initial review of the observations, conducted by an independent analyst. The analyst should reconcile threats, errors and undesired states coded by observers with those noted during their review. Any discrepancies between what the observer and independent analyst have coded should be discussed during the second phase of data verification.
+The second phase of data verification utilises a group of subject matter experts from the organisation to review the data points collected by the observer. The group reviews the threats, errors and undesired states logged by the observers to affirm that they should be considered in the analysis. In order to do this, it is necessary to have all relevant reference materials available to consult (national and local procedures, letters of agreement, charts, operations bulletins, etc.). Also at this time, potential threats, errors and undesired states that a post-data collection review of the narratives may indicate that the observers failed to log will be discussed and potentially added. For all Threat and Error Management (TEM) components that are included in the data set, the group reviews the coding for each event to ensure proper and consistent coding.
+Additionally, any biases that observers may be bringing to the data may be addressed at this stage to ensure that personal agendas that might compromise the objectivity of the NOSS data are not included in the data set.
+According ICAO NOSS Manual, the data verification process is typically led by the NOSS facilitator and the data analyst. In addition to the facilitator and the analyst, the data verification group consists of three to five subject matter and operational experts. Suitable participants include, but are not limited to, the NOSS project manager, a (unit) procedures specialist and NOSS observers (preferably with a suitable background, e.g. in instruction or procedure development). Consideration should be given to including a senior representative from the controllers' association (with a suitable background similar to that of the NOSS observer), which will enhance the transparency of the process.
+Ideally, the data verification participants would have served as observers and, at a minimum, have attended the NOSS observer training. Whatever the composition of the group, it is important that they be able to have an open and frank discussion of issues that arise during the process.
+Regarding undetermined value of reported data, ICAO suggests that if during data verification doubt arises concerning the validity of a particular observation report, and this doubt cannot be resolved among the participants, the report is simply put aside and not used for further analysis. Experience from the trials has shown however that the number of discarded observation reports during data verification normally is low, e.g. one or two reports out of a total of 100 or more observations.
+Structuring the Data
+Once the data verification process has been completed, the data are ready to be entered into a database. It is recommended that a unique observation number be assigned to every observation — this will be the key identifier across all data sets. A number of tables and variables need to be created in the relational database so that later retrieval and data manipulation are as flexible as possible. In short, separate tables are needed for threats, errors, undesired states and for observations.
+In the threat table, each row is an individual threat as logged by an observer, and the columns refer to the demographics and threat management variables associated with that threat, e.g. the centre/place, time, observation number, description of the threat and how the threat was managed. The number of rows in the table is equal to the total number of threats observed during the NOSS. Similarly for errors and undesired states, separate tables will allow each row to be an individual error (or undesired state) and the columns to contain all associated information, e.g. demographics of when and where it occurred, how it was handled, if it was detected, the outcome and, of course, the observation number that is used as the identifier to link threats and errors from the same observation.
+The observation table differs from the other tables in that each row represents one observation. The number of rows is the total number of observations in the NOSS. As most observations contain more than one threat and more than one error, this information cannot appear on separate rows as with the other tables, but rather the data are summarized so that observation #5 is seen to have 4 threats and 3 errors for example. This table becomes useful for reporting trends across observations, e.g. how many observations had two or more threats, how many observations were error-free, and how many observations at centre X had two or more equipment threats.
+Analysing the Data
+The non-text data (demographics, threat and error codes, outcomes coded numerically) can be exported to a statistical programme that will allow quicker analyses. (Again, each table would be a separate data set in the statistical programme.) Frequencies and percentages can be derived quickly. Questions that can be answered include: What percentage of threats/errors was mismanaged? Of all the threats, how many involved equipment? Which centre had more undesired states? The analyst can also cross-tabulate the different types of errors with outcome to determine what types of errors are more likely to be mismanaged.
+As the analyst becomes more and more familiar with the “peculiarities” of the data (e.g. higher than expected frequencies, high mismanagement rates for certain errors) he or she will go between the numerical data and the tables containing text, refining searches until the issue can be pinpointed. For example, if centre X appears to have a higher number of airborne threats and more mismanaged airborne threats, the analyst can select those observations that had the mismanaged airborne threats and read what the observers wrote in order to get a more comprehensive picture, and draw conclusions. The better the analyst becomes acquainted with the data, the more specific his/her queries will be. As long as the data have been structured in a flexible format, such as suggested above, the answers can be found.
+Finalising the Report
+There are many ways to write a NOSS report. One is to start at the broad level and talk about generic findings for threats, errors and undesired states. From there, more specific findings can be highlighted at the subcategory and even individual TEM component level. Ideally, the report lays out the emerging patterns of strengths and vulnerabilities within the operation in a way that the reader can also see those patterns. From there, suggestions can be made as to targets for investigation and improvement. However, these suggestions should be offered tentatively because it is possible that other individuals in the organisation may interpret things differently or have alternative explanations for the findings. The report is best offered as an “Initial report of findings”. This way, further analyses are possible as other individuals pursue patterns and answers in the data.
+Care must be taken in processing and analysing the data because small mistakes can lead to large inaccuracies in the final product. It is important to double-check all work, and it is preferable if a second individual can review the analyst’s work and look for errors. These reviews need to be at both the analysis and report-writing phase as mistakes at this level could actually be detrimental to the organisation if incorrect information is presented.
+The analysis and report will vary depending on the type and number of working positions observed and what actually occurred in that airspace. The most important factor in ensuring a high quality report is for the analyst/report writer to be intimately familiar with both the data and the narratives in order to extract the maximum amount of information from the NOSS data. At the same time, care must be taken not to draw overly definitive conclusions if there are only limited data highlighting particular issues.
+Structure of the NOSS Report
+It is proposed that, as a minimum, the NOSS report comprises the following sections:
+a) Section 1. Introduction and executive summary
+b) Section 2. Threat profile of the ATS provider
+c) Section 3. Error profile of the ATS provider
+d) Section 4. Undesired state profile of the ATS provider
+e) Section 5. Identified good practices
+f) Section 6. Lessons learned by conducting the NOSS
+g) Section 7. Closing comments
+h) Appendices (may be added as required, e.g. the forms and code books used).
+Consideration should be given to providing a set of "raw data" (i.e. the narratives from the observations) with the report for the purpose of conducting future analyses.
+Related Articles
+
+NOSS
+NOSS Operating Characteristics
+Preparing for NOSS
+Observer Training and Data Collection
+NOSS Results
+
+Further Reading
+ICAO
+
+Draft ICAO NOSS Manual;
+
+EUROCONTROL
+
+EUROCONTROL NOSS web-page
+
+
+
+
+
+Categories
+
+
+Safety Management,
+              SM Methods and Tools
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,211 @@
+Aircraft Oxygen Systems
+
+
+
+
+
+
+
+
+
+
+
+  Aircraft Oxygen Systems
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Flight Technical 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ The Air Pilots
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Importance of Oxygen to Sustain Life
+The Human body is dependent on oxygen. As the altitude increases, the consequent decrease in pressure reduces the amount of oxygen the human body can absorb when breathing. To enable flight at high altitudes either the aircraft cabin has to be pressurised, to replicate the pressure at a lower altitude, or the occupants of the aircraft have to be given supplemental oxygen. At the cruising levels commonly flown by commercial air transport aircraft, loss of pressurisation can quickly lead to incapacitation. The higher the altitude, the lower the Time of Useful Consciousness:
+
+source: Cabin Decompression and Hypoxia by Mark Wolff, PIA Air Safety Publication, 2006. Editor's note: These figures compare with similar tables claiming the USAF as a source - if any member of the SKYbrary community can provide a more authoritative reference, please contact the editor
+Description
+This article describes the systems onboard commercial transport aircraft designed to supply supplemental oxygen to crew and passengers when required to sustain life.
+Oxygen systems are designed to store or to generate a supply of pure oxygen and to regulate, dilute as required and then distribute that oxygen to crew or passengers. Oxygen systems are installed in many military aircraft and in most commercial and business aircraft types. Depending upon the type and the role of the aircraft concerned, the oxygen system(s) may be used for normal operations, to provide supplemental oxygen for specific situations or for provision of emergency oxygen in the event of smoke, fire, fumes or loss of pressurisation.
+Regulations
+National regulations for the provision and use of supplemental or emergency oxygen systems are based on the guidance provided in Annex 6 of the International Civil Aviation Organisation (ICAO) Standards and Recommended Practices (SARPS). In general terms, this guidance first differentiates between pressurised and non-pressurised aircraft and then provides specific requirements based on the altitude at which flight is to be conducted. Some of the more salient items found in the ICAO guidance on oxygen are as follows:
+
+All Aircraft
+
+An operator shall ensure that passengers are made familiar with the location and use of: ... d) oxygen dispensing equipment, if the provision of oxygen for the use of passengers is prescribed...
+
+
+Non-pressurised Aircraft
+
+An aeroplane intended to be operated at flight altitudes at which the atmospheric pressure is less than 700 hPa (see Note 1) in personnel compartments shall be equipped with oxygen storage and dispensing apparatus
+A flight to be operated at flight altitudes at which the atmospheric pressure in personnel compartments will be less than 700 hPa shall not be commenced unless sufficient stored breathing oxygen is carried to supply: a) all crew members and 10 per cent of the passengers for any period in excess of 30 minutes that the pressure in compartments occupied by them will be between 700 hPa and 620 hPa ; and b) the crew and passengers for any period that the atmospheric pressure in compartments occupied by them will be less than 620 hPa
+
+
+Pressurised Aircraft
+
+An aeroplane intended to be operated at flight altitudes at which the atmospheric pressure is less than 376 hPa or which, if operated at flight altitudes at which the atmospheric pressure is more than 376 hPa , cannot descend safely within four minutes to a flight altitude at which the atmospheric pressure is equal to 620 hPa ... shall be provided with automatically deployable oxygen equipment. The total number of oxygen dispensing units shall exceed the number of passenger and cabin crew seats by at least 10 per cent.
+All flight crew members of pressurised aeroplanes operating above an altitude where the atmospheric pressure is less than 376 hPa shall have available at the flight duty station a quick-donning type of oxygen mask which will readily supply oxygen upon demand.
+
+
+
+Note 1: Approximate hPa-altitude equivalents: 700 hPa = 10,000', 620 hPa = 13,000', 376 hPa = 25,000'
+Note 2: National or Regional Authorities use the ICAO guidance as the basis for their regulations. However, these regulations may be more or less restrictive than the SARPS. Consult the appropriate documentation provided by the aircraft State of Registry for specific criteria.
+Equipment
+Flight Deck
+
+Oxygen for the use of the flight deck occupants is normally stored as pressurised gas in one or more tanks or cylinders. In certain aircraft types, oxygen is stored as a liquid (LOX).
+
+The total oxygen capacity must be sufficient to supply all flight deck occupants with adequate oxygen for a defined period of time at an altitude profile specified in the applicable National Aviation Authority regulations. Commonly, the altitude profile will incorporate an emergency descent segment and followed by a period in level flight at a defined altitude.
+A quantity gauge or other means of determining the amount of available oxygen will be incorporated.
+If a LOX system is installed, a LOX converter, which facilitates the transformation of the oxygen from a liquid to a gaseous state, will also be installed.
+
+
+A regulator is installed to reduce storage cylinder pressure to a usable level. Depending upon the aircraft type, regulators can be constant flow or diluter-demand.
+
+Constant flow. The constant flow regulator provides the same output pressure or flow regardless of altitude. The regulator is therefore optimized for a specific altitude. At altitudes lower than the designed optimum altitude, it will provide more oxygen than is actually required. This type of regulator is most often found in non-pressurized aircraft and on portable oxygen systems. A single constant flow regulator is able to control the oxygen flow to all users.
+Diluter-demand. When installed, diluter-demand regulators will be located at each crew position. Depending upon user selection, the diluter-demand regulator can provide 100% oxygen, 100% oxygen under positive pressure or a mixture of oxygen "diluted" with cabin air on a specific, altitude based schedule. As an example, at 8000', the regulator might send 100% ambient air to the mask whereas at 41000', it would provide 100% oxygen. The regulator also works on "demand". That is, the oxygen or air-oxygen mixture only flows into the mask during inhalation. Note that the regulator might be a stand alone unit or it could be incorporated into the mask itself.
+
+
+An oxygen mask is provided at each flight deck station.
+
+The mask could be of the "full face" variety incorporating smoke goggles or a "mouth and nose" type mask with smoke goggles available separately.
+The masks at the pilot stations will incorporate microphones to allow internal and external communications.
+Masks are fitted to the face utilizing various suspension harnesses. For aircraft which routinely fly above 25,000', masks are generally of the "quick-donning" variety. These are designed to allow them to be put on in 5 seconds or less using only one hand and often utilize oxygen system pressure to activate an inflatable harness for quick donning.
+For diluter-demand systems, selectors for normal, 100% and positive pressure maybe incorporated into the mask itself. If not, they will be found on the associated regulator. Diluter-demand oxygen masks are stowed with the selector in the 100% oxygen position and should be reselected to the normal (or diluting) position when mask utilization is required for other than a smoke or fume event.
+
+
+
+Passenger Compartment
+
+In non-pressurised aircraft which routinely fly above 10,000', passenger oxygen is typically provided by either a fixed or a portable system.
+
+Fixed systems draw their oxygen supply from a pressurised cylinder of gaseous oxygen. This can be a dedicated cylinder or it might be the same cylinder that is used to supply the flight deck occupants. An oxygen manifold runs from the cylinder into the passenger compartment via a single regulator. Attachment ports allow passenger oxygen masks to be connected to the manifold. A shutoff valve capable of isolating the passenger compartment is normally incorporated.
+Portable systems consist of a storage tank, a regulator and one or more passenger masks. These will be distributed to the passengers when required.
+
+
+Pressurised aircraft which have a certified maximum altitude of 25,000' or less do not require passenger oxygen systems subject to the aircraft being able to descend to 13,000' or below within 4 minutes of loss of pressurisation. If the aircraft is not capable of achieving the descent profile or the route structure does not allow the descent due to terrain, an oxygen system must be fitted in the aircraft as per the provisions which apply to aircraft which are certified to fly at higher altitudes (above 25,000').
+For pressurised aircraft which are certified to operate above 25,000', emergency oxygen equipment must be available. Some aircraft utilize cylinders of pressurised oxygen to meet this requirement but most types are fitted with chemical oxygen generators.
+
+The emergency oxygen supply must last a minimum of 10 minutes.
+Provisions must be provided in the system to automatically deploy the emergency oxygen masks when the cabin altitude exceeds a pre-determined level, normally 14,000'.
+Sufficient masks must be provided for at least 10% more passengers than there are seats in the passenger compartment. This excess requirement provides masks for small children who may not be assigned a seat and for anyone (such as Flight Attendants) who might not be in their assigned seat at the moment emergency oxygen is required.
+
+
+The most typical passenger oxygen masks consist of a soft, yellow silicone cup fitted with elastic bands for securing the mask to the face. The bands are adjustable to accomodate passengers of different sizes. The mask may also have a clear concentrator or re-breather bag. Depending upon the cabin altitude, the concentrator bag may or may not inflate. Airlines make a point during their safety presentation of pointing out that the bag may not inflate as, in the past, lack of bag inflation has lead some passengers to believe that their mask was not working and to remove it resulting in hypoxia. Due to a potentially limited time of useful consciousness, it is critical that masks be put on immediately and kept on until advised by the crew that it is safe to remove them. Passengers should always don their own mask prior to assisting others (such as children) with their mask.
+
+Discussion
+As per the information presented above, in non-pressurised aircraft, the oxygen system is primarily intended to provide supplemental oxygen when required by altitude and time of exposure. It can also be used, when required, for protection in the event of smoke or fumes. As decompression is not an issue in a non-pressurised aircraft, time of useful consciousness concerns are much less significant and quick donning masks are generally not installed.
+Conversely, the primary purpose of oxygen systems installed in a pressurised aircraft is for emergency use in the event of a decompression. Flight deck oxygen equipment will also be used for fume, smoke and fire events and, dependant upon specifics of the equipment and the state of registry, for supplemental oxygen during certain normal flight profiles. As an example, if quick donning masks are not available, one pilot will be required to wear a mask during flight at altitudes above 25,000'. Above 41,000', the regulations of most states require that one pilot wear an oxygen mask at all times, even when quick donning masks are fitted. This is due to the very limited time of useful consciousness and the associated risk of incapacitation.
+Other oxygen sources carried on pressurised commercial aircraft include supplemental oxygen tank and masks units for medical use and oxygen generator equipped smoke hoods for crew use in the event that it is necessary to fight an on board fire. Depending upon individual passenger medical needs, supplemental oxygen tanks for planned use during the flight may also be carried. Arrangements for these tanks need to be made in advance with the carrier by the passenger concerned.
+Accident & Incidents
+Events held on the SKYbrary A&I database which include reference to the oxygen system include:
+
+
+B772, Cairo Egypt, 2011On 29 July 2011 an oxygen-fed fire started in the flight deck of an Egypt Air Boeing 777-200 about to depart from Cairo with most passengers boarded. The fire rapidly took hold despite attempts at extinguishing it but all passengers were safely evacuated via the still-attached air bridge access to doors 1L and 2L. The flight deck and adjacent structure was severely damaged. The Investigation could not conclusively determine the cause of the fire but suspected that wiring damage attributable to inadequately secured cabling may have provided a source of ignition for an oxygen leak from the crew emergency supply
+
+A332, en-route, North Atlantic Ocean, 2001On 24 August 2001, an Air Transat Airbus A330-200 eastbound across the North Atlantic at night experienced a double-engine flameout after which Lajes on Terceira Island in the Azores was identified as the best diversion and a successful glide approach and landing there was subsequently achieved. The Investigation found that the flameouts had been the result of fuel exhaustion after a fuel leak from the right engine caused by a pre flight maintenance error. Fuel exhaustion was found to have occurred because the flight crew did not perform the QRH procedure applicable to an in-flight fuel leak.
+
+RJ1H, en-route, South West of Stockholm Sweden, 2007On 22 March 2007, climbing out of Stockholm Sweden, the crew of a Malmö Aviation Avro RJ100 failed to notice that the aircraft was not pressurised until cabin crew advised them of automatic cabin oxygen mask deployment.
+
+B744, en-route, South China Sea, 2008On 25 July 2008, a Boeing 747 suffered a rapid depressurisation of the cabin following the sudden failure of an oxygen cylinder, which had ruptured the aircraft's pressure hull. The incident occurred 475 km north-west of Manila, Philippines.
+
+
+
+
+Related Articles
+
+Aircraft Pressurisation Systems
+Chemical Oxygen Generators
+Explosive Depressurisation
+Rapid Depressurisation
+Gradual Depressurisation
+Loss of Cabin Pressurisation
+Hypoxia
+Time of Useful Consciousness
+Pressurisation Problems: Guidance for Flight Crews
+Emergency Descent: Guidance for Controllers
+
+
+
+
+
+Categories
+
+
+Flight Technical
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

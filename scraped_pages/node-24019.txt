@@ -1,0 +1,179 @@
+Risk Assessment
+
+
+
+
+
+
+
+
+
+
+
+  Risk Assessment
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Management 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Risk Assessment is an evaluation based on engineering and operational judgement and/or analysis methods in order to establish whether the achieved or perceived risk is acceptable or tolerable.
+Risk is the assessed potential for adverse consequences resulting from a hazard. It is the likelihood that the hazard’s potential to cause harm will be realised. (ICAO Doc 9859)
+Risk means the combination of the overall probability or frequency of occurrence of a harmful effect induced by a hazard and the severity of that effect. (Regulation (EU) 2017/373)
+Objective
+Risk assessment is performed to determine the magnitude of risk and to establish whether measures are needed to contain it within defined limits. Risk assessment does not represent an end in itself, but should contribute to controlling risks to an acceptable or tolerable level.
+Description
+Amendments to several Annexes to the Chicago Convention applicable since November 2009 introduced harmonised requirements for the implementation of Safety Management Systems (SMS) by aviation service providers. Aircraft operators and other aviation service provider organisations should establish and apply a formal risk management process within the framework of the organisational SMS. Risk management shall ensure that risks are systematically analysed (in terms of probability of occurrence and severity of hazard effects), assessed (in terms of tolerability) and controlled to an acceptable level (by implementation of mitigation measures).
+Aircraft operators and aviation service providers shall also define those levels of management with authority to make decisions regarding safety risks tolerability.
+Risk Assessment is the second step in the risk management process. Once hazards and their effects have been determined during the first step by means of hazard identification, an analysis is required to assess the probability of the hazard effects occurring and the severity of these effects on aircraft operation. ICAO Doc 9859 - Safety Management Manual highlights the importance of distinguishing between hazards (the potential to cause harm) and risk (the likelihood of that harm being realised during a specified amount of risk exposure).
+Risk assessment is based on the evaluation of the following criteria: the severity of a hazard, the probability (frequency) of its occurrence and tolerability of its effects.
+Severity of Hazards
+The ultimate criterion used to assess the severity of hazards is the impact on the safety of an aircraft and its occupants and other persons who may be directly affected. Elements to be considered in the severity assessment would include a number of indicators, such as crew workload, exposure time to the hazard, aggravating factors etc. Another group factors to be taken into account are the means of mitigation that are considered acceptable by the safety regulator, for example the effective use of Airborne Collision Avoidance System (ACAS) as mitigation means for mid-air collision hazard.
+The severity of hazards will be determined by the credible effects on the safety of aircraft, when the outcome of all the weaknesses, potential failures and safeguards (barriers) which may exist in the relevant operational environment have been taken into consideration. For example, the most severe effect (consequence) will only be chosen in such cases when the total system has exhausted its possibilities to affect what continues to happen and only chance determines the outcome, for example the ingestion by aircraft engines of birds greater than they are designed and certificated to withstand and continue functioning where this occurs simultaneously to more than one engine.
+A credible assessment of the severity of hazard effects requires detailed knowledge of the environment of operations and the services (functions) to be performed.
+An example of hazard severity classification matrix is provided in the related article on hazard identification.
+Probability of Occurrence
+The estimation of the probability of a hazard occurring (or in other words the interval of exposure in which a hazard effect may manifest itself) is usually achieved by means of structured review using a standard classification scheme.
+In some cases, data may be available that will allow the making of direct numerical estimate of the probability of occurrence. This is usually the case when estimating the probability of failure of hardware components of a system. Extensive data are often available on historical component failure rates.
+However, the estimation of the probability of occurrence of hazards (and their effects) which are associated with human error is not straightforward. Unless there is a very high capture rate of relevant occurrence data which has been appropriately stratified, it may be difficult to find meaningful empirical data and subjective assessment will then be all that is possible. As with the estimation of the`severity of a hazard, the development of informed judgments from a structured review by people with extensive experience in their respective fields applied to a standard classification scheme will be the best substitute for absolute values.
+The probability classification scheme shown below is extracted from ICAO Doc 9859 - Safety Management Manual. It specifies the probability as qualitative categories, but also includes numerical values for the probabilities associated with each category.
+
+Risk Classification
+Both probability of occurrence of a hazard effect and the severity potential of that effect, need to be taken into account when deciding on the tolerability (acceptability) of a risk. It is a common practice to use a risk classification matrix in support of this two-dimensional judgement.
+An example of a risk classification matrix used in ATS is provided below. It has been extracted from ICAO Doc 9859 - Safety Management Manual. Severity is ranked as Catastrophic, Hazardous, Major or Minor, with a descriptor for each indicating the potential severity of consequences. Probability of occurrence is ranked through five different levels of qualitative definitions, and descriptors are provided for each probability of occurrence.
+
+Numerical values may be assigned in order to weigh the relative importance of each level of severity and probability. A composite assessment of risk, to assist in comparing risks, may then be derived by multiplying the severity and probability values.
+Depending on the approaches and methodologies used, risk can be expressed in various ways, for example:
+
+Number of fatalities for a period of time;
+Loss rates (e.g. number of fatal accidents per kilometres or miles flown/flight hours flown etc.);
+Probability of serious accidents in certain time span or per flight hours flown;
+Expected value of losses versus annual operating revenue;
+Etc.
+
+Throughout the aviation industry, many different versions of risk assessment matrices are available. Some definitions and categorisations vary, but the general concept remains the same. Examples of Risk Assessment and Mitigation in ATM from EUROCONTROL and Predictive Risk Matrix used by Federal Aviation Administration (FAA) for airline operations can be viewed here.
+Tolerability Assessment
+The output from risk classification is used to determine the risks the organisation should act upon. Decision making will require clearly defined criteria about acceptable or tolerable risk and unacceptable risk (see “Acceptable Level of Safety” in Safety Planning article). The assessment of tolerability (acceptability) is critical in making rational decisions to allocate the limited organisational resources against those risks posing greatest threats and this process often may require a cost-benefit analysis. ICAO explains the process of defining risk tolerability by the following:
+“Having used a risk matrix to assign values to risks, a range of values may be assigned in order to categorise risks as acceptable, undesirable or unacceptable. These terms are explained below:
+
+Acceptable means that no further action needs to be taken (unless the risk can be reduced further at little cost or effort);
+Undesirable (or tolerable) means that the affected persons are prepared to live with the risk in order to have certain benefits, in the understanding that the risk is being mitigated as best as possible;
+Unacceptable means that operations under the current conditions must cease until the risk is reduced to at least the tolerable level.”
+
+Various strategies and approaches can be used by aircraft operators and aviation service providers in order to reduce the unacceptable risks to tolerable levels. This third and very important step of risk management is discussed further in the Risk Mitigation article.
+Quantitative and Qualitative Methods for Risk Assessment
+According ICAO Doc 9859 - Safety Management Manual, there are many options - formal and less formal - to approach the analytical aspects of risk assessment. For some risks, the number of variables and the availability of both suitable data and mathematical models may lead to credible results with quantitative methods (requiring mathematical analysis of specific data). However, ICAO states that few hazards in aviation lend themselves to credible analysis solely through quantitative methods. Typically, these analyses are supplemented qualitatively through critical and logical analysis of the known facts and their relationships.
+Federal Aviation Administration in Advisory Circular 150/5200-37 (Introduction to SMS for Airport Operators), suggests that determination of severity should be independent of the probability of occurrence, and vice versa, the probability of occurrence should not be considered when determining severity. Over time, quantitative data may support or alter the determinations of severity and probability, but the initial risk determinations will most likely be qualitative in nature, based on experience and judgment more than factual data.
+Related Articles
+
+Hazard Identification
+Bow Tie Risk Management Methodology
+
+Further Reading
+ICAO
+
+ICAO Doc 9859 - Safety Management Manual, Fourth Edition - 2018
+ICAO Integrated Safety Management website;
+
+EUROCONTROL
+
+Safety Regulatory Requirement - ESARR 4, Risk Assessment and Mitigation in ATM;
+Draft Advisory Material for the Establishment of a Risk Classification Scheme for the Design of the ATM Functional System;
+FAA/EUROCONTROL ATM Safety Techniques and Toolbox;
+
+Others
+
+FAA Advisory Circular No.120-92B, Safety Management Systems for Aviation Service Providers;
+FAA Advisory Circular No.150/5200-37A, Safety Management Systems for Airports.
+Transforming Risk Management, FAA
+Common Safety Methods (CSM) on Risk Evaluation and Assessment presentation from SASI session, June 2009
+
+
+
+
+
+Categories
+
+
+Safety Management,
+              Safety Management System
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

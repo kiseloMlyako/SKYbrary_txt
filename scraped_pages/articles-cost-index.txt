@@ -1,0 +1,122 @@
+Cost Index
+
+
+
+
+
+
+
+
+
+
+
+  Cost Index
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CI
+Definition
+The ratio of fuel costs to all other costs.
+Description
+Cost Index (CI) is nothing new - most Flight Management System have been using it in some format for years.
+The lower the CI, the more "importance" the machinery places on saving fuel. Low cost indexes will result in lower climb speed, (both indicated and mach), lower cruise speed, a generally higher cruise altitude, a later descent and a slower descent mach/speed. The higher CI's will result in the opposite.
+A given cost index will result in a specific still air True Airspeed at altitude - however, it is normal for the FMS to adjust the mach number (MN) by .01 when the head wind or tail wind components exceed a programmed threshold value - ie, the airplane will slow down with a tail wind, speed up with a headwind (automatically) by .01 mach in an effort to minimize the fuel burn. More sophisticated flight planning programs will show this change on a leg by leg basis and will file the speed change as part of the ATC flight plan.
+For oceanic flying, a MN is assigned as part of the clearance. In this case, to maintain time based separation, the crew MUST fly the mach assigned and the automatic speed adjustment should be disabled or overridden.
+There is great variation between operators on the CI that they use for a given type or in a given situation. For example, one airline generally uses a CI of around 9 in the A320 which results in a climb speed of about 290, a cruise speed of about .76 and a descent speed of about 260. However, if the aircraft is running late, the crew may use a CI of 50 or more which would give speeds of 320, .79 and 330 for the same phases.
+As the CI will vary from operator to operator and may also vary between flights of the same operator, the air traffic controller cannot assume that all aircraft of the same type will perform in the same fashion during any given phase of flight. If he or she wants them to, an assigned speed must be given.
+Further Reading
+
+Increasing Range of Speeds for Same Aircraft Type - Safety Alert
+Fuel Conservation Strategies: Cost Index Explained by Bill Roberson, Senior Safety Pilot, Flight Operations, Boeing
+Ryanair Cost Index Policy, effective 27 Oct 2012 - notification letter to ANSPs
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

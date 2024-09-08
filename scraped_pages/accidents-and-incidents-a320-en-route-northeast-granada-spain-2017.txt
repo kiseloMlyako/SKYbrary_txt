@@ -1,0 +1,330 @@
+A320, en-route, northeast of Granada Spain, 2017
+
+
+
+
+
+
+
+
+
+
+
+  A320, en-route, northeast of Granada Spain, 2017
+
+
+
+
+
+
+
+
+
+Summary
+
+On 21 February 2017, an Airbus A320 despatched with the APU inoperative experienced successive failures of both air conditioning and pressurisation systems, the second of which occurred at FL300 and prompted the declaration of a MAYDAY and an emergency descent followed by an uneventful diversion to Alicante. The Investigation found that the cause of the dual failure was likely to have been the undetectable and undetected degradation of the aircraft bleed air regulation system and whilst noting a possibly contributory maintenance error recommended that a new scheduled maintenance task to check components in the aircraft type bleed system be established.
+
+
+
+
+Event Details
+
+When
+
+21/02/2017
+
+
+
+Event Type
+
+
+AW,
+              LOC
+
+
+
+
+Day/Night
+
+Night
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS A-320
+
+
+
+
+
+
+
+
+
+Operator
+
+Vueling
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Málaga
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Barcelona/El Prat Airport
+
+
+
+
+
+
+
+Actual Destination
+
+
+
+
+Alicante-Elche Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Cruise
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+General
+
+Tag(s)
+
+
+              En-route Diversion,
+              CVR overwritten
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Significant Systems or Systems Control Failure
+          
+
+
+
+
+EPR
+
+Tag(s)
+
+
+              Emergency Descent,
+              MAYDAY declaration
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Air Conditioning and Pressurisation,
+              Bleed Air
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Aircraft damage
+
+Minor
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Airworthiness
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 21 February 2017, an Airbus A320 (EC-HTD) being operated by Vueling on a domestic passenger flight from Malaga to Barcelona as VLG2116 with the APU inoperative experienced successive failures of both air conditioning and pressurisation systems, the second of which occurred at FL300 and prompted the declaration of MAYDAY and an emergency descent followed by an uneventful diversion to Alicante during which one of the inoperative systems was successfully reinstated.
+Investigation
+An Investigation was carried out by the Spanish Commission for the Investigation of Accidents and Incidents (CIAIAC). Both the CVR and FDR were removed from the aircraft and downloaded but it was found that relevant data on the CVR had been overwritten after the operator had failed to ensure that the recording was preserved before authorising a subsequent non-revenue flight by the aircraft to enable the completion of maintenance consequent upon the in-flight failure.
+It was noted that the 39 year-old Captain had a total of 5,000 flying hours which included 4,710 hours on type all obtained since joining Vueling for his first employment as a transport pilot over 6 years previously. The 36 year-old First Officer, who had been PF for the flight, had a total of 5,700 flying hours which included 616 hours on type. He also had a still-current type rating for the ATR42/72.
+It was noted that the aircraft and crew were operating their fourth and final sector of the day aware that the APU was inoperative. When passing 1600 feet less than a minute after takeoff, an ECAM annunciation of abnormal pressure in the left bleed air system and an associated air conditioning and pressurisation pack fault occurred. A reset was successful but four minutes later passing approximately FL 120, the same ECAM messages appeared but this time a reset was not possible. It was decided to continue the flight but in view of the absence of the APU to cruise at FL300 rather than the flight planned FL 380 and this was requested from ATC due to a “minor fault in the pressurisation system” and approved.
+Approximately ten minutes later, almost immediately after the aircraft had levelled off at FL300, the same ECAM messages were displayed for the right bleed air system and in response, the crew initiated an emergency descent, declared a MAYDAY to ATC and were cleared initially to descend to FL110. During this descent, an unsuccessful attempt was made to reinstate the right bleed air system. After initially requesting a diversion to Malaga the crew then changed this to Alicante which, although slightly more distant, was assessed as more suitable given terrain considerations. The maximum cabin altitude reached during the descent was 6,700 feet and the crew did not consider the donning of oxygen masks necessary. The diversion to Alicante was without further event, although at FL 070, a second attempt to reinstate the right bleed air system was successful. After a VOR approach to runway 10 at Alicante, the aircraft landed just under half an hour after MAYDAY status had been declared and it was then cancelled.
+It was noted that although an OEB procedure was temporarily applicable to the bleed air fault annunciation in place of the displayed ECAM procedure on the particular A320 involved, the Captain had been aware of this. It was also noted by the Captain that although it is possible to select the engine version on the full flight simulators used for Vueling pilot training, “there is no option to modify the software version used by ECAM to display faults”.
+Maintenance Issues
+
+It was noted that the APU had been de-activated eleven days prior to the flight under investigation because of the low time left on one of its Life-Limited Parts (LLP) pending maintenance action. It was eventually replaced on 4 March 2017.
+It was found that during an ‘A’ Check carried out 18 months prior to the event flight by the airline’s maintenance provider, sister airline Iberia, the installed left bleed air system Pressure Reducing Valve (PRV), a type ‘E’ valve, had been replaced with a type ‘G’ PRV. According to the applicable IPC, the type ‘G’ PRV had a part number which was not allowable on the particular aircraft involved because its air conditioning and pressurisation system was not at the required modification level. The Investigation attempted to determine if the presence of the incorrect PRV had been causal or contributory to the malfunctions which had occurred and to do so “relied on the statements provided by the manufacturer of the aircraft (Airbus) and the PRV (Liebherr), the operator (Vueling) and the maintenance services provider (Iberia)”. However, the result of this attempt was inconclusive.
+Analysis of both malfunctioning PRVs by OEM Liebherr found that they “showed wear and signs of leaks and indicated that the wear on some components was more than expected considering the number of cycles”. However, Iberia’s Reliability Department advised that their data showed that these on-condition components in the A320 fleet generally lasted longer than the OEMs guaranteed minimum installed life with “no concern that they fail more often than they should”.
+The Operator advised that the reason why the CVR and FDR were not automatically removed and quarantined on arrival in Alicante was that the maintenance system in use classified the aircraft as “dispatchable” and any associated diversion as “precautionary” based on severity criteria. This did not take into account the definition of a Serious Incident or the corresponding regulatory guidance supporting this definition.
+The maintenance system had recorded a number of faults involving a PRV on the aircraft involved during the last 15 flights which had not also been visible to the pilots on the ECAM so that they had no basis on which to enter a defect for the attention of maintenance in the Aircraft Technical Log with the assessment of repetitive malfunctions being dependent on such entries.
+The Investigation found that “the bleed regulating system on this aircraft model is a closed system that does not allow detecting wear of its components over time” and considered that although no evidence could be found that would link any components directly to cause, “the condition in which the PRVs and Temperature Limitation Thermostats found (on the aircraft involved) was worse than expected considering the number of flight cycles”.
+
+The Cause of the event was formally documented as "most likely the undetectable and undetected degradation of the bleed regulation in the aircraft”.
+It was also determined that the correct version of Pressure Regulating Valve (PRV) was not installed in the aircraft’s No. 1 engine due to a failure to identify the correct component in the IPC during earlier maintenance.
+Safety Action taken as a result of the event and relevant to the findings of the Investigation whilst it was in progress was noted as having included the following:
+
+Vueling took the following action:
+
+Any MAYDAY declaration was added to the list of events in the Continuing Airworthiness Management Exposition (CAME) which require an automatic quarantining of both the CVR and FDR and a similar requirement was added to the OM.
+A new system of assessment for repetitive defects based on the data automatically obtained by the maintenance system was introduced to replace dependence on defect entries made in the aircraft Technical Log.
+An assessment of the practice of intentionally preventing use of an APU to avoid reaching the limits on LLPs was carried out and a requirement that such action should only occur subject to checking the Airbus Statement of Airworthiness Compliance or, if the APU component affected is part of its engine, the APU manufacturer.
+An inspection of every PRV installed on A320 aircraft operated by Vueling was carried out to ensure their compatibility with the modification status of the aircraft on which they were installed was carried out. After eight aircraft had been initially identified as potentially fitted with incompatible PRVs and grounded, three PRVs with an incompatible Part Number were found and replaced.
+
+
+Iberia (the maintenance provider for the airline) created a new SOP to control “Rotable/Repairable Component Replacement” in response to the finding that an incorrect PRV had been installed on the aircraft involved.
+
+One Safety Recommendation was made as a result of the Investigation as follows:
+
+that Airbus, as the manufacturer of the aircraft, establish a scheduled maintenance task to ensure that the operating ranges of the components in the aircraft’s bleed system are checked. [REC 06/18]
+
+The Final Report of the Investigation was approved on 28 February 2018 and subsequently published in English translation in July 2018.
+Related Articles
+
+Continuing Airworthiness
+Aircraft Maintenance
+Aircraft Technical Log
+Maintenance Error Management System
+Aircraft Bleed Air Systems
+Aircraft Pressurisation Systems

@@ -1,0 +1,215 @@
+Aircraft Certification for Bird Strike Risk
+
+
+
+
+
+
+
+
+
+
+
+  Aircraft Certification for Bird Strike Risk
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Certification 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Although the great majority of reported bird strikes have little or no effect on continued safe flight, a small number of encounters, usually with flocks of birds and especially flocks of large birds, can damage aircraft or their engines so badly that they cannot continue to fly.
+Current aircraft certification standards therefore include requirements to demonstrate both airframe and engine resistance to bird impact. The standards which apply are those in place at the time of introduction of a new aircraft type or engine. Experience of accidents and incidents has led to progressively tougher requirements although, as with most certification standards, grandfather rights are applied so that new requirements are not retrospectively applied to in-service aircraft and engines. The standards established by both the U.S. Federal Aviation Administration (FAA) and European Union Aviation Safety Agency (EASA) are essentially similar but are not yet fully harmonised. However, new aircraft and engine types have to meet both, so the more demanding of each applies in each instance. Assurance that certification standards have been met is achieved by various means including ground testing using dead birds of specified weights and quantities, at representative impact speeds.
+Bird Impact Forces
+For any given impact, the most important determinant of damage potential is the speed of impact. This is because the kinetic energy, which has to be absorbed by the airframe or within the engine, is the product of mass and the square of the speed. Clearly, the speed of the aircraft, rather than that of the bird, makes up nearly all of the closing speed of impact so that, except for very small aircraft, aircraft speeds are directly proportional to the damage potential for collision with a particular object. Civil aircraft speeds are generally at their lowest where most birds are found - near the ground - but increase progressively with altitude until the bird hazard disappears at somewhere above FL200. What has been convincingly demonstrated from incident data analysis is that, although the number of recorded bird impacts reduces rapidly with altitude, the greater the altitude, the greater the proportion of bird strikes which produce major damage.
+Apart from speed, a number of factors have been identified as influencing the damage a bird impact can cause. These are all considered during the design of both aircraft and engines in an attempt to understand the robustness of structures and engines to bird impact from first principles as well as to prepare to meet certification standards. They include, with the most common simplifying assumptions shown in parenthesis:
+
+Bird weight
+Bird density
+Bird rigidity (deformation by 50% of its shape)
+Angle of impact (90 degrees)
+Impact surface shape (flat)
+Impact surface rigidity (no deformity)
+
+It is also important to understand that the kinetic energy which is absorbed by an airframe during an impact is converted into an effective force on that airframe based upon the distance over which the impact is delivered. This notional distance is the product of the various simplifying assumptions listed above. The only additional assumption required to calculate impact force is that mass = weight.
+Structural damage is, therefore, proportional to impact force rather than the quantity of kinetic energy absorbed. The forces are large. A 6.8kg goose impacting an aircraft doing 200 kts can be assumed to exert a force of over 16 tonnes. The effect of proportionality from the square of the airspeed is illustrated by the fact that the same 6.8 kg bird hitting an aircraft doing 250 kts can be assumed to exert a force of nearly 26 tonnes and hitting an aircraft doing 280 kts one of over 32 tonnes. Whilst these figures are approximations, their order of magnitude and their concentration over a very small area means that there is little prospect of "hardening" any engine or airframe to completely resist such a force, and certification standards tend to address the containment of the effects of bird impacts.
+Engine Certification Standards
+Current standards, for both multiple and single bird ingestions into a single fixed-wing aircraft engine, exist in equivalent form in 14 CFR Part 33-77 and in EASA Airworthiness Code CS-E 800 ’Bird Strike and Ingestion’. There are no standards which consider the ingestion of a bird into more than one engine on a multiengine type on the grounds that this a very low risk. However, an Airbus A320 accident in New York in 2009 did demonstrate that it is not impossible that two large birds in a group can be ingested simultaneously by a large transport aircraft and cause sufficient damage to make flight completion impossible.
+The basic requirements for engine ingestion were revised in 2000 to take account of both evidence of an increase in the size of birds impacting aircraft and issues raised by the development of very large inlet, high bypass-ratio engines. The requirements, to be demonstrated by testing, are as follows:
+
+That at a typical initial climb speed and take off thrust, ingestion of a single bird of maximum weight between 1.8 kg and 3.65 kg dependent upon engine inlet area shall not cause an engine to catch fire, suffer uncontained failure or become impossible to shut down and shall enable at least 50% thrust to be obtained for at least 14 minutes after ingestion. These requirements to be met with no thrust lever movement on an affected engine until at least 15 seconds have elapsed post impact.
+That at a typical initial climb speed and takeoff thrust, ingestion of a single bird of maximum weight 1.35 kg shall not cause a sustained thrust or power loss of more than 25%, shall not require engine shutdown within 5 minutes and shall not result in a hazardous engine condition.
+That at a typical initial climb speed and take off thrust, simultaneous ingestion of up to 7 medium sized birds of various sizes between weight 0.35kg and weight 1.15 kg, with the number and size depending upon the engine inlet area, shall not cause the engine to suddenly and completely fail, and it shall continue to deliver usable but slowly decreasing minimum thrust over a period of 20 minutes after ingestion. [Engines with inlet sizes of less than 0.2 m2 (300 square inches) only have to meet the standard for a single bird of this weight]
+That at a typical initial climb speed and takeoff thrust, simultaneous ingestion of up to 16 small sized birds of weight 0.85kg, with the number dependent upon the engine inlet area, shall not cause the engine to suddenly and completely fail, and it shall continue to deliver usable but slowly decreasing minimum thrust over a period of 20 minutes after ingestion. [Direct testing to this standard may not be required if the medium-bird multiple standard is demonstrated or if this bird size can pass the inlet guide vanes into the rotor blades]
+
+Airframe Certification Standards
+Current standards for the impact of a single bird with a large aircraft airframe exist in both 14 CFR Part 25-571 and in EASA CS-25.631 as design requirements for which means of compliance are provided. This is that an aeroplane must be capable of continued safe flight and landing after hitting a 1.8 kg bird at the more critical of:
+
+Vc (cruise speed) at mean sea level or
+85% of Vc at 8000 feet altitude.
+
+The FAA (only) has an additional requirement under 14 CFR Part 25-631 that an aeroplane must be capable of continued safe flight and a subsequent normal landing after the empennage structure has been impacted by an 3.6 kg bird at cruise speed (Vc) at mean sea level.
+In addition, both EASA CS-25 and 14 CFR Part 25 require that:
+
+Windshield integrity after single bird impact requires that the inner ply must be non-splintering and the panes directly in front of the pilots must withstand, without penetration, a 1.8 kg bird at cruise speed at mean sea level
+Pitot Tubes must be far enough apart to preclude damage from a single bird impact
+
+Under EASA CS-23.775 and 14 CFR Part 23.775, smaller aircraft are required only to have limited windshield integrity - a demonstrated single bird impact resistance of up to 0.91 kg at maximum approach flap speed and at least one pane with sufficient forward vision remaining to allow continued safe flight.
+Under 14 CFR Part 29-631, Helicopters are required only to have a structure which will ensure that continued safe flight and landing is possible after impact with a single bird of up to 1 kg weight at the lesser of Vne and Vh at 8000 feet above mean sea level.
+Future Directions
+A number of concerns have been quite widely voiced about the contribution of certification to the mitigation of the risk of hazardous bird strikes:
+
+The case of bird ingestion into more than one engine at the same time is not addressed directly and it is clearly extremely difficult to meaningfully estimate the probability of such an occurrence. However, it has been observed that, since some of the current standards only require that a damaged engine can be safely shut down, this circumstance should be more fully considered when determining the acceptable outcome of ingestion into single engines, especially for the twin engine case.
+It has been noted that the potential effects of bird strikes on modern electronic flight control systems and flight deck instrument displays have not yet been fully assessed.
+
+Both EASA and the FAA have indicated that these matters remain under review at varying levels of priority.
+Concerns have also been expressed in the past about the risk of injury and damage to persons and objects on the ground from falling engine nacelle debris consequent upon the engine vibration which often follows a major bird strike. After nacelle debris fell from an aircraft departing London Heathrow in 1997, this subject was discussed and a related Safety Recommendation was made. See B741, vicinity London Heathrow UK, 1997.
+The other issue, which has been raised in relation to certification to protect against unacceptable outcomes of aircraft bird impact, is the apparent absence of a co-ordinated approach from the standpoints of aircraft certification, aircraft operational matters (like speed and vertical profile) and the management of bird prevalence (the dichotomy between the strongest risk management options within airport perimeters and arguably the greatest risks to aircraft safety beyond the airport perimeter).
+Accidents and Incidents Involving Bird Strike
+Engine Damage
+
+
+A20N, Atlantic City NJ USA, 2021On 2 October 2021, an Airbus A320neo ingested a large bird into its right engine (a Pratt & Whitney PW1100G) during takeoff at Atlantic City and a high speed rejected takeoff followed. When leaked fuel pooling within the engine cowling subsequently ignited, an on-runway emergency evacuation was completed with the fire service in attendance. The Investigation identified the ingested bird as a bald eagle with a mass above the applicable certification standard and the fuel leak a secondary consequence of a fan blade broken by bird impact. Engine component design improvements to address the fire risk following large bird ingestion are being developed.
+
+A333, vicinity Orlando FL USA, 2013On 19 January 2013, a Rolls Royce Trent 700-powered Virgin Atlantic Airbus A330-300 hit some medium sized birds shortly after take off from Orlando, sustaining airframe impact damage and ingesting one bird into each engine. Damage was subsequently found to both engines although only one indicated sufficient malfunction - a complete loss of oil pressure - for an in-flight shutdown to be required. After declaration of a MAYDAY, the return to land overweight was completed uneventfully. The investigation identified an issue with the response of the oil pressure detection and display system to high engine vibration events and recommended modification.
+
+B752, Denver CO USA, 2011On 26 September 2011, a Boeing 757-200 being operated by United Airlines on a scheduled passenger flight from Chicago to Denver experienced a left engine bird strike during deceleration after landing on runway 35R at destination in normal day visibility. The affected engine ran down as the aircraft cleared the runway and was shut down after a report of smoke being emitted from it. The aircraft was stopped and the remaining engine also shut down prior to a tow to the assigned terminal gate for passenger disembarkation. None of the 185 occupants were injured but the affected engine was severely damaged and there was visible evidence that some debris from it had impacted the aircraft fuselage.
+
+AN72, Sao Tome, Sao Tome & Principe, 2017On 29 July 2017, an Antonov AN-74 crew sighted several previously unseen large  eagles rising from the long grass next to the runway as they accelerated for takeoff at Sao Tome and, concerned about the risk of ingestion, made a high speed rejected takeoff but were unable to stop on the runway and entered a deep ravine just beyond it which destroyed the aircraft. The Investigation found that the reject had been unnecessarily delayed until above V1, that the crew forgot to deploy the spoilers which would have significantly increased the stopping distance and that relevant crew training was inadequate.
+
+B738, Rome Ciampino Italy, 2008On 10 November 2008, a Boeing 737-800 about to land at Rome Ciampino Airport flew through a large and dense flock of starlings, which appeared from below the aircraft. After the crew had made an unsuccessful attempt to go around, they lost control due to malfunction of both engines when full thrust was applied and a very hard impact half way along the runway caused substantial damage to the aircraft. The Investigation concluded that the Captain s decision to attempt a go around after the encounter was inappropriate and that bird risk management measures at the airport had been inadequate.
+
+
+...further results
+
+
+Airframe Damage
+
+
+A320, en route, southeast of Omaha USA, 2022On 19 November 2022, an Airbus A320 was descending below 13,000 feet towards its destination of Omaha, clear of clouds at night and at 290 knots, when an explosive decompression occurred as a result of bird strike damage. An emergency was declared, and once on the ground, three locations where the fuselage skin had been broken open were discovered. The structural damage was assessed as substantial, and the aircraft was withdrawn from service for major repairs. The birds involved were identified by DNA analysis as migrating Snow or Ross’s Geese, the former of which can weigh up to 2.6kg.
+
+B739, en-route, east of Denver CO USA, 2012On 31 July 2012, a Boeing 737-900 struck a single large bird whilst descending to land at Denver in day VMC and passing approximately 6000 feet aal, sustaining damage to the radome, one pitot head and the vertical stabiliser. The flight crew declared an emergency and continued the approach with ATC assistance to an uneventful landing. The bird involved was subsequently identified as a White Faced Ibis, a species which normally has a weight around 500 gm but can exceptionally reach a weight of 700 gm. The hole made in the radome was 60 cm x 30 cm.
+
+DH8C, Kimberley South Africa, 2010On 16 July 2010, a South African Express Airways Bombardier DHC 8-300 hit an animal during a night landing at Kimberley after a passenger flight from Johannesburg. The nose landing gear took a direct hit and collapsed but after a temporary loss of directional control, the runway centreline was regained and the aircraft brought to a stop. The Investigation found wildlife access to the aerodrome was commonplace and the attempts at control inadequate.
+
+PC9, Manoeuvring, Warbelow Germany, 2012On 27 September 2012, a civil-operated Pilatus PC9 facilitating military target training for ground forces sustained structural damage to one wing when it struck an Osprey whilst at high speed and low level. The aircraft immediately became uncontrollable and the pilots did not have time to activate their ejector seats before the aircraft crashed and was destroyed. The Investigation noted that there were no relevant bird strike tolerance requirements for civil aircraft and attributed the accident systemically to use of such aircraft for target training and their operation at high speeds in airspace with a high bird strike risk.
+
+C500, vicinity Wiley Post Airport, Oklahoma City OK USA, 2008On 4 August 2008, a Cessna 500 on a business charter flight encountered a flock of very large birds shortly after take off from a small Oklahoma City airport. Wing damage from at least one bird collision with a force significantly greater than covered by the applicable certification requirements made it impossible for the pilot to retain control of the aircraft. Terrain impact followed. Both engines also ingested a bird. The Investigation noted that neither pilot nor aircraft operator were approved to operate commercial charter flights but concluded that this was not directly connected to the loss of the aircraft.
+
+
+...further results
+
+
+Further Reading
+EASA
+
+Bird Strike Damage and Windshield Bird Strike (2009)
+
+FAA
+
+Advisory Circular AC 33.76-1B: Bird Ingestion Certification Standards, FAA, 2023
+
+
+
+
+
+Categories
+
+
+Certification,
+              Wildlife Strike,
+              Airworthiness
+
+
+
+
+
+
+
+
+
+Related Articles
+
+Bird Strike
+Airworthiness
+Wildlife Strike
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

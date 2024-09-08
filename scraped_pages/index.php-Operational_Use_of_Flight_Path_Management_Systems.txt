@@ -1,0 +1,219 @@
+Operational Use of Flight Path Management Systems
+
+
+
+
+
+
+
+
+
+
+
+  Operational Use of Flight Path Management Systems
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Design Philosophy 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+The Final Report of the Flight Deck Automation Working Group was published by the FAA in the autumn of 2013. It is an extremely thorough evidence-based assessment of the problems which have accompanied the rapid advance in the level of automation. It is also the first comprehensive review of the subject since a 1996 FAA Report on “Interfaces between flightcrews and modern flight deck systems”.
+Underlying themes identified by the Working Group include:
+
+complexity (in systems and in operations);
+concerns about degradation of pilot knowledge and skills
+integration and interdependence of the components of the aviation system.
+
+The Report also notes that since the Working Group completed its data collection and analysis “several accidents have occurred where the investigative reports identified vulnerabilities in the events that are similar to those vulnerabilities identified in this report".
+A series of 28 interconnected data-driven findings led to the Group agreeing a total of 18 similarly interconnected Recommendations as follows:
+Recommendation 1 - Manual Flight Operations
+
+Operational Use of Flight Path Management Systems
+Develop and implement standards and guidance for maintaining and improving knowledge and skills for manual flight operations that include the following:
+
+Pilots must be provided with opportunities to refine this knowledge and practice the skills;
+Training and checking should directly address this topic; and
+Operators’ policies for flight path management must support and be consistent with the training and practice in the aircraft type.
+
+This should be done in an integrated manner with related recommendations.
+Recommendation 2 - Autoflight Mode Awareness
+For the near term, emphasize and encourage improved training and flightcrew procedures to improve autoflight mode awareness as part of an emphasis on flight path management. For the longer term, equipment design should emphasize reducing the number and complexity of autoflight modes from the pilot’s perspective and improve the feedback to pilots (e.g. on mode transitions) while ensuring that the design of the mode logic assists with pilots’ intuitive interpretation of failures and reversions.
+Recommendation 3 - Information Automation
+Develop or enhance guidance for documentation, training, and procedures for information automation systems (e.g. Electronic Flight Bags (EFBs), moving map displays, performance management calculations, multi-function displays) or functions:
+
+Describe what is meant by Information Automation and what systems, equipment are included,
+Define terms associated with Information Automation,
+Develop guidelines concerning the content and structure of policy statements in Flight Operations Policy Manuals for Information Automation, and
+Develop operational procedures to avoid information-automation-related errors.
+
+Recommendation 4 - FMS Documentation, Design, Training, and Procedures for Operational Use
+In the near term, develop or enhance guidance for flightcrew documentation, training and procedures for FMS use. For the longer term, research should be conducted on new interface designs and technologies that support pilot tasks, strategies and processes, as opposed to machine or technology-driven strategies.
+Recommendation 5 - Verification and Validation for Equipment Design
+Research should be conducted and implemented on processes and methods of verification and validation (includes validation of requirements) during the design of highly integrated systems that specifically address failures and failure effects resulting from the integration.
+Recommendation 6 - Flight Deck System Design
+Flightcrew training should be enhanced to include characteristics of the flight deck system design that are needed for operation of the aircraft (such as system relationships and interdependencies during normal and non-normal modes of operation for flight path management for existing aircraft fleets). For new systems, manufacturers should design flight deck systems such that the underlying system should be more understandable from the flightcrew’s perspective by including human-centred design processes.
+Recommendation 7 - Guidance for Flightcrew Procedures for Malfunctions
+Develop guidance for flightcrew strategies and procedures to address malfunctions for which there is no specific procedure.
+Recommendation 8 - Design of Flightcrew Procedures
+For the near term, update guidance (e.g., Advisory Circular (AC) 120-71A) and develop recommended practices for design of SOPs based on manufacturer procedures, continuous feedback from operational experience, and lessons learned. This guidance should be updated to reflect operational experience and research findings on a recurring basis. For the longer term, conduct research to understand and address when and why SOPs are not followed. The activities should place particular emphasis on monitoring, cross verification, and appropriate allocation of tasks between pilot flying and pilot monitoring.
+Recommendation 9 - Operational Policy for Flight Path Management
+Operators should have a clearly stated flight path management policy as follows:
+
+The policy should highlight and stress that the responsibility for flight path management remains with the pilots at all times. Focus the policy on flight path management, rather than automated systems.
+Identify appropriate opportunities for manual flight operations.
+Recognize the importance of automated systems as a tool (among other tools) to support the flight path management task, and provide operational policy for the use of automated systems.
+Distinguish between guidance and control.
+Encourage flightcrews to tell Air Traffic “unable” when appropriate.
+Adapt to the operator’s needs and operations.
+Develop consistent terminology for automated systems, guidance, control, and other terms that form the foundation of the policy.
+Develop guidance for development of policies for managing information automation.
+
+Recommendation 10 - Pilot-Air Traffic Communication and Coordination
+Discourage the use of regional or country-specific terminology in favor of international harmonization. Implement harmonized phraseology for amendments to clearances and for reclearing onto procedures with vertical profiles and speed restrictions. Implement education and familiarization outreach for air traffic personnel to better understand flight deck systems and operational issues associated with amended clearances and other air traffic communications. In operations, minimize the threats associated with runway assignment changes through a combination of better planning and understanding of the risks involved.
+Recommendation 11 - Airspace Procedure Design
+Continue the transition to PBN operations and drawdown of those conventional procedures with limited utility. As part of that transition, address procedure design complexity (from the perspective of operational use) and mixed equipage issues. Standardize PBN procedure design and implementation processes with inclusion of recommended practices and lessons learned. This includes arrivals, departures, and approaches.
+Recommendation 12 - Flight Deck Design Process and Resources
+Ensure that appropriate human factors expertise is integrated into the flight deck design process in partnership with other disciplines with the goal of contributing to a human-centred design. To assist in this process, an accessible repository of references should be developed that identifies the core documents relevant to “recommended practices” for human-centred flight deck and equipment design. Early in the design process, designers should document their assumptions on how the equipment should be used in operation.
+Recommendation 13 - Pilot Training and Qualification
+Revise initial and recurrent pilot training, qualification requirements (as necessary) and revise guidance for the development and maintenance of improved knowledge and skills for successful flight path management. As part of the implementation of this recommendation, improve the oversight of air carriers and Part 142 Training Centres.
+Recommendation 14 - Instructor/Evaluator Training and Qualification
+Review and revise, as necessary, guidance and oversight for initial and recurrent training and qualification for instructors/evaluators. This review should focus on the development and maintenance of skills and knowledge to enable instructors and evaluators to successfully teach and evaluate airplane flight path management, including use of automated systems.
+Recommendation 15 - Regulatory Process and Guidance for Aircraft Certification and Operational Approvals
+Improve the regulatory processes and guidance for aircraft certification and operational approvals, especially for new technologies and operations, to improve consideration of human performance and operational consequences in the following areas:
+
+Changes to existing flight deck design through Supplemental Type Certificates (STCs), Technical Standard Orders (TSOs), or field approvals, and
+Introduction of new operations or changes to operations, to include implications for training, flightcrew procedures, and operational risk management.
+
+Recommendation 16 - Flight Deck Equipment Standardization
+Develop standards to encourage consistency for flightcrew interfaces for new technologies and operations as they are introduced into the airspace system. Standards should be developed which establish consistency of system functionality (from an airspace operations perspective) for those operations deemed necessary for current and future airspace operations.
+Recommendation 17 - Monitor Implementation of New Operations and New Technologies
+Encourage the identification, gathering, and use of appropriate data to monitor implementation of new operations, technologies, procedures, etc. based on the specified objectives for safety and effectiveness. Particular attention should be paid to human performance aspects, both positive and negative.
+Recommendation 18 - Methods and Recommended Practices for Data Collection, Analysis and Event Investigation That Address Human Performance and Underlying Factors
+Develop methods and recommended practices for improved data collection, operational data analysis and accident and incident investigations. The methods and recommended practices should address the following:
+
+When reviewing and analysing operational, accident and incident data, or any other narrative-intensive dataset, ensure that the team has adequate expertise in the appropriate domains to understand the reports and apply appropriate judgement and ensure that the time allotted for the activity is adequate.
+Explicitly address underlying factors in the investigation, including factors such as organizational culture, regulatory policies, and others.
+Provide guidance on strengths and limitations of different data sources and different methodologies and taxonomies.
+Encourage the use of multiple, dissimilar data sources to provide better coverage of events.
+Encourage the wide sharing of safety related information and analysis results, especially lessons learned and risk mitigations.
+
+Read the full Report: Operational Use of Flight Path Management Systems, 5 Sept, 2013
+Further reading
+
+EASA Automation Policy - Bridging Design and Training Principles
+Flight Crew Reliance on Automation, UK CAA Paper (2004)
+A Practical Guide for Improving Flight Path Monitoring: Final Report of the Active Pilot Monitoring Working Group, Flight Safety Foundation (FSF), November 2014.
+Advisory Circular (AC) 120-123, Flight Path Management, FAA, 21 Nov. 2022.
+
+
+
+
+
+Categories
+
+
+Design Philosophy,
+              Air Ground Communication,
+              Human Factors Training,
+              Human Behaviour
+
+
+
+
+
+
+
+
+
+Related Articles
+
+Flight Path Monitoring
+Automated Cockpit Guidelines (OGHFA BN)
+Crew Resource Management (CRM)
+Line Oriented Flight Training
+Prioritisation for Pilots
+Human Error Types
+Perception in ATC
+Technical Competencies
+Cockpit Automation - Advantages and Safety Challenges
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

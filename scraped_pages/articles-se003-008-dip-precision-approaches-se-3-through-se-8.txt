@@ -1,0 +1,427 @@
+SE003-008 DIP - Precision-Like Approaches (SE-3 through SE-8)
+
+
+
+
+
+
+
+
+
+
+
+  SE003-008 DIP - Precision-Like Approaches (SE-3 through SE-8)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+CAST Safety Enhancements 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ CAST
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ CAST
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SE-3, 4, (5), 6, 7, and 8 3/17/00
+Implementation Plan For Precision-Like Approach Implementation "21st Century Instrument Approaches"
+Statement of Work
+The purpose of this plan is to identify the means by which all flight crews can fly an appropriate stabilized vertical path to the runway end, for all instrument approach procedures, thereby reducing the possibility of a controlled flight into terrain accident. The Plan will direct or encourage the aviation community to:
+
+Identify criteria for the development of appropriate stabilized continuous descent approach procedures to the runway end for all instrument approaches and air carrier aircraft types,
+Address any changes necessary to ensure adequate training and certification of flight crews,
+Address any changes necessary for certification and authorization of aircraft and procedures,
+Take advantage of existing aircraft capabilities to improve approach and landing safety to the maximum extent practical, and
+Transition to use of new and evolving aircraft capabilities that can further improve approach and landing safety at the earliest practical time.
+
+In the interest of safety, the industry should discontinue the use of step-down or "dive-and-drive" Non-Precision* approach procedures as soon as, and wherever, possible. It should be made clear to all pilots and operators that the industry should, at the earliest possible date, develop procedures and train pilots to fly a stabilized continuous descent approach procedure. This would include procedures such as the constant rate descent that can be flown by all types of aircraft and use of the modern vertical navigation capability (VNAV) by some existing and most new aircraft types.
+Further safety and operational enhancements can be achieved through the appropriate use of features and functionality available now or in the near future on the commercial aircraft fleet. Existing airplanes used in commercial operations worldwide have varying operational capabilities and limitations. These various capabilities should be utilized and the limitations accounted for. Various strategies must be developed and employed to improve the overall safety of approach operations.
+The operational capabilities of the worldwide fleet may be represented as a continuum but, for the purpose of this project, the airplanes have been categorized as:
+Classic airplanes
+airplanes typically equipped with electro-mechanical flight instruments, basic navigation capability (i.e. VOR, DME, ADF and possibly first generation Inertial Navigation System (INS)).
+Standard airplanes
+airplanes with multi-sensor RNAV Flight Management Systems (FMS), Electronic Flight Instruments and Electronic Map Displays (the majority of airplanes produced during the past fifteen years).
+Advanced airplanes
+airplanes equipped similar to the Standard airplanes but with advanced navigation capabilities (e.g. GPS sensors and RNP) and possibly enhanced situation awareness systems such as Terrain Awareness Warning System [TAWS - a.k.a. E-GPWS].
+The underlying strategy is to use the capabilities that are already available in the airplane to the greatest extent while creating operational benefits to encourage equipage with more capable functionality. All strategies need to be promulgated internationally if the full safety benefits are to be realized.
+Lead Organization for Overall Coordination
+The primary thrust of this safety initiative is to introduce and utilize operational capabilities that are already available. The increased capabilities will occur naturally over time, because new production airplanes will come with better equipment installed and standard and classic airplanes will be retrofitted or retired. The challenge is to accelerate the introduction of increased capability and to operationally authorize the more capable equipment. The timeline for the elements described below will contribute to the safety goal of an 80% reduction in the commercial accident rate by 2007.
+Outcomes
+ Figure 1.
+Operators are able to fly stabilized approaches with better vertical situation awareness and improved vertical descent path tracking capability in the final instrument approach segment.
+ Figure 2. Current and Projected Number of Air Carrier Classic, Standard, and Advanced Aircraft Types.
+Outputs
+For the purpose of this initiative, instrument approaches and navigation capability can be broadly categorized in the following table. The table shows current or potential aircraft approach navigation capability for each of the Classic, Standard or Advanced aircraft types:
+Table: 1.
+
+AIRCRAFT NAVIGATION CAPABILITY
+
+
+Instrument Approach Type
+Classic
+Standard
+Advanced
+
+
+
+
+NPA* with Vertical Angles
+X
+X
+X
+
+
+RNAV-3D
+ 
+X
+X
+
+
+RNP-RNAV
+ 
+ 
+X
+
+
+xLS (ILS, MLS, GLS)
+X
+X
+X
+
+
+
+For example, all types of air carrier aircraft can potentially fly procedures such as current VOR or NDB approaches using some type of constant vertical descent rate (or angle) method, even though the particular method may or may not be the same for each aircraft class. All aircraft types are capable of flying a VOR approach with a published vertical angle, using open loop constant vertical speed. The Standard aircraft can fly the VOR approach and the RNAV-3D approaches using barometric vertical navigation (VNAV) based on a published vertical angle. Only the advanced aircraft are capable of using the better RNAV method of flying an instrument approach using an accurate level of RNP combined with an associated specific VNAV defined path. All types of aircraft can currently fly the ILS and could also fly the equivalent best method GLS (e.g., xLS) procedures, if a GPS capable Multi-mode receiver (MMR) is installed, and a Ground Based GNSS Augmentation System (GBAS) is available.
+Note
+The terms Precision Approach (PA) or Non-precision approach (NPA) used in this plan are used only for historical and continuity reasons, as a convenience to readers familiar with traditional U.S. and ICAO instrument approach classification. The use of the terms PA and NPA are being considered for eventual phase-out from operational use as authorities and operators are each able to develop and use more modern and a better suited classification schema and terminology. The phase-out is necessary to properly address the wide variety of instrument approach operations now possible with increasing use of RNAV, multi-sensor NAV systems, RNP, GNSS, and various forms of GNSS augmentation (GLS). The FAA/JAA/Industry All-Weather-Operations Harmonization effort, and related updates to FAA AC 120-28 and AC 120-29 and JAA JAR OPS-1 and JAR AWO, are evolving this concept.
+The outputs of this plan are described below based on the category of instrument approach as described in the table above. Additionally, a set of the outputs that apply across categories of approach is described under the General heading. These are specific outputs that may need to be integrated to form a cohesive set of products and a consistent time scale.
+Several of the outputs can (and should) be broken down into more detail. The more detailed portions are likely to be accomplished by different organizations, depending on their roles and responsibilities. For each of the outputs, it is intended that the first organization listed under Resources will be responsible for coordination of the output completion.
+For some issues, the item is shown even though it is already considered to be "complete," in order to provide a comprehensive description of related actions that are expected to happen within both FAA and industry.
+General (applies to all categories of instrument flight procedures) (1-7, 9-11 SE-3)
+
+Develop criteria to support the inclusion of vertical angles on existing procedures.
+Resources: AFS-400
+Timeframe: Complete
+Actions: In Change 17 of TERPS.
+
+Develop NOS Charting Specs to depict angles and TCH:
+Resources: AFS-400, ATA-100, NOAA
+Timeframe: Complete
+Actions:
+
+Update pilot and ATS information to explain the revised instrument procedures
+Resources: AFS-400, NOS, Jeppesen, ATA, Employee groups, ATS
+Timeframe: 90 days
+Actions: AIM, Informational/charting bulletins, and other documents as appropriate.
+
+Develop a plan and initiate implementation for procedure production/revision to address criteria described above - (e.g. start with Part 139 airports, runways > 5000’, then all others), including:
+
+Determine which vertical angle (vertical paths) and visual guidance slope indicators (VGSI) do not coincide, and revise the VGSI or specified path so that they do coincide.
+Determine which instrument procedures do not accommodate a nominal 3 degree slope between FAF and Runway threshold + TCH. Move FAF altitude, adjust step-down constraints or fixes, or adjust descent angles, altitudes, or waypoint/fix/navaid locations as necessary so that the procedures can best provide for a continuous descent at an appropriate angle (above 3 degrees).
+For every instrument approach, define an appropriate vertical angle and code it in the navigation database and depicted on the charts.
+
+Resources: AVN, AFS-400, AVR (Human Factors), AAF, ARP, ATA-100, NOS, Jeppesen, NIMA - (Aeronautical Information Services)
+Timeframe: 120 days
+ Actions: Produce the plan that includes the elements below, and initiate implementation:
+a. Ensure appropriate operational (i.e. pilot) input in the design of instrument procedures.
+b. Conduct research necessary to determine human factors guidelines for design of instrument procedures.
+c. Appropriately apply technology, including high precision terrain/obstacle databases and high speed automated procedure design tools, to produce instrument procedures in a more timely manner with less error.
+d. Make greater use of electronic means to transmit and distribute instrument procedures.
+e. Implement instrument procedure development priorities that reflect the needs of the entire aviation community. Priorities should be set at a national level with input from general, business, military and commercial aviation.
+f. Instrument procedure program staffing and funding levels should accurately reflect the flight procedure workload, i.e. maintenance of current procedures, development/flight inspection of new three-dimensional RNAV procedures, and responding to special industry requests.
+g. Deal effectively and proactively with private developers of instrument procedures.
+
+Develop a plan and initiate implementation for organizational processes to ensure that appropriate (developed in accordance with agreed-upon FAA standards and criteria) privately-developed “special” procedures are made available for public use (as public procedures or equivalent mechanism) in a timely manner.
+Resources: AFS-400, AVN, ATA, Employee Groups
+Timeframe: 120 days
+Actions: Produce the plan and initiate implementation.
+
+Crew Procedures/Training. Develop crew procedures and training program to promote new instrument procedures in lieu of existing procedures. The training and crew procedures should address current issues (examples: notifying the pilot when the aircraft reverts out of VNAV Path, the integrity of navigation database).
+Resources: ATA, Air Carriers, Employee Groups, AFS
+Timeframe: one year
+Actions: Carriers update training programs.
+
+Crew certification/qualification and checking: Develop standards for FAA evaluation of compliance with new training and procedures.
+Resources: AFS-200, AFS-600, AFS-800
+Timeframe: 120 days.
+Actions: Revise Handbook for Aviation Safety Inspectors, and update appropriate PTS (Practical Test Standards) if needed.
+
+Develop a plan and initiate implementation to install VGSI at each runway end used by air carriers (priority for highest risk runways). (SE-4)
+Resources: AAF (Airways Facilities), Airports (Headquarters), ATA, Employee groups, AFS, AND
+Timeframe: 120 days.
+Actions: Determine human resource and budgetary requirements. Determine prioritized site selection and time phase plan for installation.
+
+Complete, issue and implement AC120-29A, Criteria For Approval Of Category I And Category II Weather Minima For Approach.
+Resources: AFS-400/200
+Timeframe: 120 days for AC completion and issuance.
+Actions: Complete draft of AC, complete coordination internally within FAA, issue finalized AC, and issue all necessary implementing instructions to field offices (e.g. FAA Order 8400.10 associated HBATs), TERPS guidance.
+
+Assess and refine the crew interface and interaction requirements for use of these instrument procedures. This should include consideration of flight instrumentation (e.g. PFD/ND, FMS/CDU), status (e.g. ANP or other data for monitoring when ANP (or equivalent) is not available), deviations (e.g. RNAV/LNAV/VNAV), and alerting (e.g., system performance degradation, mode reversions, deviations, etc). Based on these requirements, develop/update and implement operational and airworthiness criteria/guidance for design, training/qualification, and crew procedures.
+Resources: AFS-200, AFS-400, AVR (Human Factors), AEG, AIR-100, Transport Airplane Directorate, ATA, NBAA, manufacturing industry (e.g., AIA, AECMA), Employee Groups, appropriate ARAC committees
+Timeframe: Three years
+Actions: Conduct analysis or research necessary to identify requirements. Develop, update and implement operational and airworthiness criteria and guidance.
+
+Non-Precision Approach with Vertical Angles (may apply to classic, standard or advanced airplanes)
+Crew Procedures/Techniques: Develop crew procedures/techniques to fly stabilized approach procedures that replace “dive and drive” procedures.
+Resources: ATA, employee group, AFS-200, AFS-400, AFS-600, AFS-800
+Timeframe: 6 months
+Actions: Tailor existing crew procedures/techniques to individual carriers operational requirements.
+
+Establish a plan to ensure installation of DME at airports where significant numbers of classic air carrier aircraft are still expected to operate, or where particularly vulnerable procedures are located. (SE-5)
+Resources: AAF, Airport (Headquarters), ATA, Employee groups, AFS, AND
+Timeframe: 3 years. (CAST changed to 120 days for plan (0731/00))
+Actions: Implement.
+
+
+RNAV 3-D Instrument Approach Procedures (applies to standard and advanced airplanes): (SE-6)
+13. FAA Order 8260.48 criteria for charts that include 3D RNAV minima and charting specs for publication of charts which include 3D RNAV minima
+Resources: AFS-400
+Timeframe: Complete.
+Actions: Implement.
+14. Provide procedure development criteria to support FMS equipped aircraft to use LNAV and VNAV.
+Resources: AFS-400, AVN-200, AVN-100, ATA, Employee Groups
+Timeframe: Complete.
+Actions: Implement.
+15. Revise the various PTS, FSB reports, and pending FAR Part 1 (definitions), 14 CFR Part 61, 91, and 121 Subparts N & O to address use of modern navigation systems and revised instrument procedures.
+Resources: AFS-200, AFS-400, AFS-600, AFS-800, AEG
+Timeframe: 3 years
+Actions: Criteria updated to reflect new approach procedure terminology.
+16. Implement general-purpose use of "harmonized" approach minima developed by the FAA/JAA AWO Harmonization Working Group.
+Resources: AFS, AWO HWG
+Timeframe: 14 months
+Actions: Revise applicable TERPS sections.
+17. Develop production plan and initiate implementation for 3D RNAV approach procedures, prioritized based on risk for Part 139 runways, runways>5000, all others.
+Resources: AVN, AFS-400, ATA-100, NOS, Jeppesen, NIMA
+Timeframe: 6 months
+Actions: Team to produce plan.
+18. Rename GPS procedures at Part 139 airports as RNAV procedures and include vertical guidance.
+Resources: AVN, AFS
+Timeframe: Currently in progress, complete in 3 years.
+Actions: Implement.
+19. Issue policy to allow POIs to authorize operators to fly GPS procedures as RNAV in properly equipped airplanes.
+Resources: AFS-400, AFS-200, ATA, Employee Groups
+Timeframe: 6 months.
+Actions: Implement.
+20. Develop a plan and initiate implementation for a minimum number of approach charts to runway end with multiple minima, (suitable for xLS, RNP, LNAV/VNAV, and LNAV minima). As part of this plan implementation, conduct a research project to address issues of charting, content, etc.
+Resources: AFS-400, AVN-1, AVR (Human Factors), ATA-100, NOS, Jeppesen, NIMA, ARINC, ATA
+Timeframe: 12 months
+Actions: Produce the plan and initiate implementation.
+21. Develop and initiate implementation of a plan to educate FAA inspectors, check airmen, and designated examiners on approved use of advanced instrument flight procedures.
+Resources: AFS-200, AFS-600, AFS-800, Employee Groups, ATA
+Timeframe: 12 months
+Actions: Plan will include implementation timetable, revise guidance material.
+22. To ensure that operators can get the most out of current equipage, develop and initiate implementation of a plan for operational approval of VNAV and RNAV as appropriate. Qualification for use of RNAV by Standard aircraft must be carefully considered and approval must consider whether the aircraft is suitably equipped and whether pilot information, display, and annunciation requirements are met.
+Resources: AFS-400, Employee Groups, ATA
+Timeframe: 12 months
+Actions: Develop guidance to address VNAV and RNAV usage.
+RNP-RNAV Instrument Approach Procedures (applies to advanced airplanes) (SE-7)
+23. Add RNP criteria/guidance to FAA Order 8260.48 (or other document as appropriate), revise OA P 8200.1 Flight Inspection Manual, and other support criteria to provide public use procedures for RNAV/RNP minima.
+Resources: AFS-400, AVN-200, ATA, Employee groups
+Timeframe: 9 months
+Actions: Revise order or other documents as needed.
+24. Develop plan and initiate implementation to develop and update RNP policy and criteria for operational and airworthiness approval, as needed, building on AC 120-29A.
+Resources: AFS-400, AFS-200, AFS-300, AIR, ATA, Employee groups
+Timeframe: 6 months
+Actions: Develop the plan and initiate implementation.
+25. Transition to RNAV/RNP procedure production.
+Resources: AVN, AFS, AVR, industry procedure development resources
+Timeframe: Start within 12 months, complete majority of needed procedures within 7 years.
+Actions: Implement. Consider alternate ways to produce procedures.
+26. Revise the various PTS, FSB reports, and pending updates to FAR 121 Subpart N & O to address use of modern RNP based navigation systems and appropriate use of RNP based instrument procedures
+Resources: AFS-200, AFS-600, AFS-800, AEG
+Timeframe: 36 months
+Actions: Implement.
+27. Issue internal FAA directives (e.g., Notice, Orders and/or HBATs) to communicate RNP procedures and operational approval processes, and address any necessary CMO/operator coordination on implementation of RNP.
+Resources: AFS-200, AFS-400
+Timeframe: 6 months
+Actions: Implement based on AIM material, relevant NOTAMs, etc.
+xLS (ILS, MLS, GLS) (SE-8)
+An xLS laterally and vertically guided approach type is generally the preferred instrument approach method. Nearly all air carrier airplanes are capable of conducting an ILS approached where ILS service is provided. ILS is expected to remain in use for a very long time, and where necessary, may need to continue to be installed (e.g., at newly constructed HUB airport air carrier runways). MLS and GLS capability is being accommodated in the airplane by the introduction of multi-mode receivers. MLS may be needed by certain operators to provide interim capability at particular sites. GLS is expected to provide a long term world wide landing capability. Expeditious implementation of GLS to provide a 3D path to every possible significant air carrier runway end should be an industry wide goal. This is particularly important for significant airports and runways not already served by ILS. The safety benefits from MLS and GLS can only be realized when service is provided, airplanes are equipped and operational authorization is achieved.
+28. Support the development of ICAO SARPS for Satellite Based Augmentation System (SBAS) and Ground Based Augmentation System (GBAS).
+Resources: AFS, AIR, Industry
+Timeframe:
+
+Service to support Category I - 9 months
+Service to support Category II/III - 3 years
+
+Actions: Participate in the ICAO GNSSP
+29. Refine and validate the international operational concept for GLS.
+Resources: AFS, FAA/JAA All Weather Operations Harmonization Working Group [AWOHWG]
+Timeframe: Two years
+Actions: Refine and update AC 120-29A, AC 120-28D, JAR-OPS 1 and JAR AWO based on AWOHWG Future Work Program and initial application of criteria
+30. Develop the business case for the integration of SBAS and GBAS capability into current airplanes and for retrofit into in-service airplanes.
+Resources: Operators, Manufacturers and Suppliers with support from AFS, AIR and ASD
+Timeframe: Five Years
+Actions:
+
+Develop a Roadmap for progressive migration to GLS
+Identify the constraints and enablers for implementation
+
+Relationship to Current Aviation Community Initiatives
+Coordination is needed among many groups, including the following groups:
+
+ATA FMS/RNAV Task Force
+ATA Chart and Data Display Committee
+FAA/JAA All Weather Operations Harmonization Working Group
+ALPA Engineering & Air Safety
+Government/Industry Aeronautical Charting Forum
+CAFT:
+
+CNS/ ATM Focus Team
+
+
+RTCA SC-181: Navigation Standards
+RTCA SC-159: GPS (Global Positioning System)/GLONASS
+RTCA/DO-229 Wide Area Augmentation System
+ICAO Obstacle Clearance Panel
+ICAO Global Navigation Satellite System Panel
+Certification Select Committee
+Human Factors Harmonization Working Group
+
+As this long list illustrates, there are a number of groups addressing different aspects of the goal. However, the groups are not always moving in concert, or working to the same set of principles.
+Airline Activity with RNAV - a few airlines are implementing these approaches (US Airways, Alaska, and Continental), and are seeing benefits already. US Airways is using over 300 approved RNAV approaches in lieu of traditional non-precision* approaches. Alaska is using beneficial RNAV/RNP approaches in many cases because of operational necessity.
+For example, Continental has been using VNAV on the 777 and 757 fleets, since summer ’99, as the standard approach method. They are transitioning the 737 fleet to RNAV. They are actively pursuing RNAV at airports such as Houston (KIAH), Midway (PMDY), Anchorage (PANC), and Newark (KEWR), all with VNAV guidance. KEWR is seen as a definite capacity maintenance program with ultimate added flights per hour with existing facility. This procedure will start as visual, then provide improved minima as experience is gained.
+Other operators are very interested in using these approaches to gain the safety benefits realized by the airlines using them.
+Performance Goals & Indicators for Outcomes: (all by 2007)
+Performance goals are target levels of performance expressed as a tangible, measurable objective against which actual performance can be compared within specified time frames, including goals as quantitative standards, values, or rates. Performance goals may be applied to processes, outputs, and outcomes. An example of a performance goal is "reduce the rate of landing accidents resulting in personal injuries to fewer than 1 in 10 million landings by the year 2001."
+Measure the number of commercial carriers that have adopted these new procedures:
+
+all ATA member carriers will use approach procedures outlined in this project.
+all NACA member carriers will use approach procedures outlined in this project.
+all non-ATA, and non-NACA member carriers will use approach procedures outlined in this project.
+all new instrument procedures will be either xLS, or RNAV.
+
+All new instrument procedures will be developed as either xLS, or RNAV. In the unusual event that a new traditional approach is needed for use by Classic aircraft (e.g., at a newly constructed runway), when necessary, it will be developed as a combined procedure (e.g., "RNAV or VOR", with a suitable VNAV path defined. The procedure should have RNP based minima available for use by suitable qualified RNP capable aircraft).
+All new instrument procedures (arrival, approach, and departure) will be designed with RNP criteria.
+Compare CFIT accident rate to rates over similar time periods.
+Crews using these new procedures to have “no fault” reporting system to gather data to determine effectiveness, missed approach rate, and other pertinent data to evaluate effectiveness and preference over previous methodology. (NASA ASRS, ASAP, etc.). Data use (or is it “used”) can verify reduction in incident rate equal to or greater than overall effectiveness values.
+Flight crews and operators should have an available means to note necessary refinements or improvements in flight deck navigation systems or displays, to better support instrument procedures flown or expected future procedures (e.g., refinements pertaining to FMS, EADI, PFD, ND, Alerting systems, or Annunciations). Similarly, flight crews and operators should have available a means to note necessary refinements or improvements to instrument procedure depiction (e.g., charts). This feedback means would permit timely adjustments or improvements to be made using an iterative process, for flight deck or navigation system design, instrument procedure formulation, charting development, or for development of flight crew operational procedures.
+Performance Goals & Indicators for Outputs: (all by 2007)
+
+Use FOQA data to verify the incident rate of CFIT accidents is reduced by the amounts predicted (overall effectiveness) in CFIT JSAT report for the interventions assigned to this project. Air carriers should report results periodically.
+Compare rates of usage of advanced equipment to utilize these procedures.
+Complete changes to regulations by 2003.
+Complete changes to notices by 2002.
+Complete changes to Advisory Circulars by 2002.
+Complete changes to 8400.10 Aviation Inspectors Handbook by 2002
+Complete changes to Flight Inspection Manual by 2002.
+Develop feedback on industry compliance with new procedures through cooperative reporting program by 2001.
+
+Programmatic Approach
+Organizational Strategy
+Small group (plan development team) to establish implementation plan—this plan. Team members of development plan will represent all stakeholders in process and have skill sets to craft a viable plan with minimized cost and maximum effectiveness.
+Stakeholder buy in will be solidified by CAST process. (Key element)
+Lead Organization will establish Specific Structure for Implementation and Process Control. Performance ratings tied to project objectives. Key people from different parts of FAA should work in one coordinated effort, until project completion.
+Stakeholders outside corporate structure of lead organization will also commit people to work in a similar structure - either on temporary assignment to lead organization or under their authority at another location.
+An oversight Group is needed to ensure review of progress - a group that can ensure the product is produced, in concert with Certification Select Committee and with the principles described in this document.
+Implementation Activities
+
+Organize events in time related context.
+Determine which events are serial/parallel in context with others.
+Determine requirements (people/costs) to develop plan within timeframe.
+Obtain necessary resources to accomplish goals.
+Use operations research techniques and process control to monitor progress.
+Use information-sharing tools to maximize knowledge of ongoing efforts within implementation team.
+Scheduled conference calls, internet usage, scheduled project updates with target goals.
+
+Accountability
+To ensure the recommendations that are adopted by the CAST are implemented as intended, an oversight function should instituted as a subgroup of the JIMT to provide technical review of the DIP products. This oversight function should include the appropriate expertise from industry and government.
+Related Safety Enhancements
+
+SE003: Precision-Like Approaches - Vertical Angles
+SE004: Precision-Like Approaches - Vertical Glide Slope Indicators (VSGI)
+SE005: Precision-Like Approaches - Distance Measuring Equipment (DME)
+SE006: Precision-Like Approaches - Area Navigation (RNAV) 3D
+SE007: Precision-Like Approaches - Area Navigation (RNAV) Required Navigation Performance (RNP)
+SE008: Precision-Like Approaches - Landing Systems (ILS, MLS, GLS)
+
+Related Outputs
+
+SE003-008: Aviation Systems Standards Organization Implementation Plan
+
+Related SKYbrary Articles
+
+Continuous Descent
+Continuous Descent Final Approach (CDFA)
+
+
+
+
+
+Categories
+
+
+CAST Safety Enhancements,
+              CAST DIPs
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

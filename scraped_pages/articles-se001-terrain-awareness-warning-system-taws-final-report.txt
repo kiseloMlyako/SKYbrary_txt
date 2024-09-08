@@ -1,0 +1,153 @@
+SE001: Terrain Awareness Warning System (TAWS) - Final Report
+
+
+
+
+
+
+
+
+
+
+
+  SE001: Terrain Awareness Warning System (TAWS) - Final Report
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+CAST Safety Enhancements 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ CAST
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ CAST
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Implementation of Terrain Awareness and Warning System (TAWS) - Final Report to CAST
+Hop Potter, AFS-210, 5-24-06
+What is TAWS?
+TAWS is a stunning success in preventing one of the most persistent causes of fatalities in commercial air transportation, controlled flight into terrain, or CFIT. TAWS is an enhancement to the ground proximity warning system (GPWS) required in U.S. air carrier operations since 1974. TAWS exploits modern technology to include a forward-looking function together with the previously existing GPWS functions. That crucial improvement provides a flight crew with sufficient information and alerting to detect a potentially hazardous terrain situation well in advance of an encounter or an accident (TAWS is also known as enhanced ground proximity warning system, or EGPWS).
+There has not been a single CFIT accident involving a U.S. registered airplane equipped with TAWS. This perfect record comprises operations under parts 121, 135, and 91.
+What is CFIT?
+CFIT is an accident in which a properly functioning aircraft under the control of a fully certificated and qualified crew is flown into terrain (or water, or obstacles) with no apparent awareness on the part of the crew. At the time that the Commercial Aviation Safety Team (CAST) first convened, CFIT was the #1 cause of fatalities in commercial aviation (Loss of control has since taken over as the #1 cause).
+Background
+CFIT accident prevention was the highest-priority target of the safety agenda undertaken by the CAST. The crash of American Airlines flight 965, a Boeing 757, caused CFIT to be a particularly high-profile hazard in the public perception. On December 20, 1995, that airplane hit a ridge northeast of Cali, Colombia, while on an approach to land. The accident destroyed the airplane and caused 159 fatalities. Subsequently, among others, the National Transportation Safety Board (NTSB) issued Safety Recommendation A-96-101 to the FAA, as follows:
+Examine the effectiveness of the enhanced ground proximity warning equipment and, if found effective, require all transport category aircraft to be equipped with enhanced ground proximity warning equipment that provides pilots with an early warning of terrain.
+
+The FAA commissioned two studies by the Department of Transportation’s Volpe National Transportation Systems Center. Those studies resulted in a finding that 95-100 percent of the accidents analysed could have been prevented if EGPWS, later known as TAWS, had been installed and operating.
+The TAWS rule
+The FAA issued a new rule on March 29, 2000, 14 CFR section 91.223, Terrain awareness and warning system. Attachment A. Companion rules were 121.354 Attachment B and 135.154 Attachment C.
+The rules provide a formula for compliance, with variables including the date of manufacture of an airplane, the number of its passenger seats, and the operating part under which it is flown. Constants among the rules include the following:
+
+applies to airplanes (not rotorcraft or other aircraft)
+applies to turbine-powered airplanes (turbojets and turboprops)
+applies to U.S.-registered airplanes
+prescribes the technical standards specified in TSO-C151, as revised
+sets an absolute compliance deadline of March 29, 2005
+
+TSO (Technical Standards Order) -C151 has been revised twice, and is currently posted as TSO-C151b, 12/07/99, at this FAA public website.
+The scope of the TAWS safety benefit in U.S. commercial aviation: 95% plus
+Since the March 29, 2005, compliance deadline, most estimates peg the safety benefit in the high 90-percent range. In other words, at least 95% of the passengers and crew carried by U.S. air carriers are now protected by TAWS. And the TAWS performance record is perfect: There has not been a single CFIT accident involving a U.S.-registered airplane equipped with TAWS (Unofficially, the FAA’s Office of Accident Investigation knows of no such accident anywhere in the world with TAWS installed).
+What’s next for TAWS?
+ICAO has adopted a TAWS standard that is more complicated than the U.S. TAWS rules, but is generally consistent with them. Annex 6 includes the following absolute deadline:
+By January 1, 2007, all turbine-engined aeroplanes of a maximum certificated take-off mass in excess of 5,700 kg or authorized to carry more than nine passengers, shall be equipped with a ground proximity warning system which has a forward looking terrain avoidance function.
+
+NTSB has challenged the scope of FAA regulations which currently limit the TAWS requirement to airplanes. A crash of a helicopter operating at night over the Gulf of Mexico prompted that challenge. The helicopter was transporting eight oil service personnel to a drilling ship. The captain, copilot, and eight passengers aboard the helicopter were killed, and the helicopter was destroyed by impact forces. The NTSB issued the following recommendation A-06-19 to the FAA:
+Require all existing and new U.S. registered turbine powered rotorcraft certificated for six or more passenger seats to be equipped with a terrain awareness and warning system.
+
+The FAA plans to evaluate the TAWS equipment currently fielded. The concern is that the current equipment must be well suited for helicopter applications and appropriate to the flight regime. Equipment must have a low incidence of “false” or “nuisance” alarms which, if present, detract from the overall safety benefit of the equipment when installed in helicopters. If current equipment is deemed fully suitable, the FAA will consider rulemaking to mandate installation.
+Related Safety Enhancements
+
+SE001: Terrain Awareness Warning System (TAWS)
+
+Related DIP
+
+Implementation Plan for SE-1 Terrain Awareness Warning System (TAWS)
+
+Related Outputs
+
+SE001: Terrain Awareness Warning System (TAWS) - Rule
+SE001: Terrain Awareness Warning System (TAWS) - Technical Standard Order
+
+
+
+
+
+Categories
+
+
+CAST Safety Enhancements,
+              CAST Outputs
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

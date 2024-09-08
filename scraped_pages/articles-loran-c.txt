@@ -1,0 +1,136 @@
+LORAN-C
+
+
+
+
+
+
+
+
+
+
+
+  LORAN-C
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+LORAN-C was a medium range hyperbolic radio navigation system, operated by the US Coast Guard, which allowed a receiver to determine its position by using multilateration principles to compare the difference in reception time of low frequency radio signals transmitted by a group of fixed, land-based radio beacons. In each group or "chain" of beacons, there was one "Master" and 2 to 5 "Secondary" or slave transmitters. In the main, the LORAN system was decommissioned in 2010 but some components of the system have been kept in service as a backup to the Global Positioning System (GPS).
+History
+The LORAN, or LOng RAnge Navigation, system was developed in the United States during World War II. It was similar to the British GEE system but used lower frequency radio waves to give it a longer range of as much as 1500 miles. This longer range also resulted in lower accuracies, in the order of 10's of miles, but this was deemed acceptable as it was decided that GEE could be used for short range navigation whilst LORAN would be utilised for longer range. LORAN was first used by ships and aircraft in the Atlantic theatre but eventually found more extensive use in the Pacific.
+Acceptance of the longer range, lower accuracy parameters for LORAN demanded a shift to lower frequencies which could reflect off of the Ionosphere at night providing "over the horizon" capabilty. Over time, advances in technology improved receiver accuracy and reduced unit costs. Corresponding advances in other technologies improved the methodology for synchronising the signals from the master and secondary sites thus allowing the distances between the beacons of a given chain to be increased. As the accuracy of a hyperbolic system increases with increased baseline distance between the beacons, these changes improved the accuracy of the LORAN system.
+LORAN used multilateration principles of difference in time of signal arrival from different stations to determine position. In the post-war years, this methodology was combined with technologies that measured the phase shift of those signals which vastly improved the fix accuracy. This improved system was designated Loran-C and the original LORAN system redesignated Loran-A. As the Loran-C system expanded, the original system declined but some chains remained in service until as late as 1980, largely due to a surplus of cheap, discarded Loran-A receivers.
+System Components
+Loran-C combined two different techniques, multilateration and phase shift, to provide a signal that was both long-range and highly accurate. Components of the system included a ship or aircraft borne receiver and multiple chains of Master and Secondary transmitter sites. At the peak of operation, there were nearly 30 individual transmission chains, each consisting of 3 to 6 beacons, plus the Loran-C compatible Russian CHAYKA system in the worldwide LORAN navigation system.
+Signal Transmission
+Loran-C transmitters were organized into chains of 3 to 6 stations, a Master and a variable number of Secondary stations. The Loran-C navigation signal was a carefully structured sequence of brief radio frequency pulses transmitted on a carrier wave centered at 100 kHz. All Secondary stations radiate pulses in bursts of eight, whereas the Master signal, for identification purposes, has an additional ninth pulse burst. The sequence of signal transmissions consists of a pulse group from the Master station followed at precise time intervals by pulse groups from each of the Secondary stations. The time interval between the reoccurrence of the Master pulse is called the Group Repetition Interval (GRI). Each Loran-C chain had a unique GRI. As all Loran-C transmitters operated on the same frequency, the GRI was the key by which a receiver could identify and isolate signal groups from a specific chain.
+The GRI for a specific chain was chosen on the basis of:
+
+Baseline lengths between Master and Secondaries
+Number of slave (Secondary) stations in the chain
+Geography
+Consideration for potential interference with other nearby chains
+Skywave cross-rate interference
+Duty cycle of the transmitters
+
+To refine the signal and to make phase difference measurements possible, the carrier phase of selected pulses was reversed in a predetermined pattern. This pattern was different for each transmitter (Master and Secondaries) in a given chain and was repeated every two GRI's. Simply stated, phase coding determined whether the first peak in the pulse was upwards or downwards.
+Signal Reception
+Loran-C receivers combined two different techniques, multilateration and phase shift resulting in the capability to produce a highly accurate fix. The basic measurements made by Loran-C receivers was to determine the time difference of arrival (TDOA) between the Master signal and the signals from each of the Secondary stations of a chain. Each TDOA value was measured to a precision of about 0.1 microseconds (100 nanoseconds) or better. As a rule of thumb, 100 nanoseconds corresponds to about 30 metres. The TDOA between each of the Master and Secondary station pairs corresponded to a specific hyperbolic line of position (LOP). The intersection of the LOP's from two or more Master-Secondary pairs established the position of the receiver.
+The multilateration (or hyperbolic) navigation fix thus obtained was then further refined using measurement of the pulse phase difference between the station pairs.
+Related Articles
+
+Area Navigation Systems
+Omega
+Multilateration
+Hyperbolic Navigation
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

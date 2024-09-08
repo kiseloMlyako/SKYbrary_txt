@@ -1,0 +1,248 @@
+Operation without a Transponder or with a Dysfunctional Transponder
+
+
+
+
+
+
+
+
+
+
+
+  Operation without a Transponder or with a Dysfunctional Transponder
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Separation 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Operation of an aircraft without a transponder, or with a dysfunctional one, constitutes a single threat with the potential to “pass” through all the existing safety barriers up to “see and avoid”. Transponder failure can occur due to a number of reasons. These can include incorrect input data, electrical faults, and simple SSR-transponder communication problems, such as a bit flip (a random and unintended change of an information bit value from 0 to 1 or vice-versa).
+Transponder Failure Types
+The most common transponder failure types classified by feature are:
+
+Mode A code only (Aircraft Identifier);
+Mode C information only (Altitude data);
+Mode S 24-bit address only, which may result in unidentified aircraft being present on the situational display or a wrong surveillance track to flight plan correlation;
+Total failure (A, C & S), which may result in the aircraft disappearing from the controller's situational display.
+Partial loss of transponder functionality (e.g. operational at reduced power limiting transponder detection by ATC radar and/or other aircraft).
+
+The most common transponder failures classified by the severity of the failure are:
+
+Total loss (feature not available);
+Corrupted (feature operating but wrong data output);
+Intermittent (feature working with interruptions);
+Duplicated (two or more aircraft transmitting the same information).
+
+The transponder failure can be characterised by a feature failure and a severity element. Of course, some combinations are inappropriate (e.g. duplicated mode C).
+Possible Outcomes and Impact on Operations
+Depending on the circumstances, the following may occur following a transponder failure:
+
+Incorrect assumption about the aircraft level (which may result in a loss of separation event);
+ATC clearance issued to a wrong (not intended) aircraft;
+ATC system considering a surveillance track to be fake, therefore 'dropping' it;
+ATC system producing numerous false alerts;
+Loss of communication;
+Incomplete controllers'situational awareness;
+Airspace infringement;
+Loss of separation;
+Possibility of a CFIT;
+Inefficient planning and conflict detection by air traffic controllers;
+Inefficient/compromised TCAS operation.
+
+Typical Scenarios
+A total loss of transponder information may happen due to a number of factors, e.g.:
+
+Poor surveillance coverage (e.g. due to terrain, low altitude or surveillance sensor failure);
+Transponder technical failure;
+Other avionics failure (e.g. a restart of an aircraft system leading to the transponder being switched to standby mode);
+Flight crew not turning the transponder on;
+Flight crew accidentally switching the transponder to standby mode;
+Flight crew switching transponder to standby mode after miscommunication with the controller.
+
+Intermittent or corrupted mode C signal may be caused by various technical faults of the on-board equipment or by radar detection failures. Duplicate Mode S addresses although unlikely, may happen due to:
+
+Technical fault in the avionics;
+Transponder being transferred from one aircraft to another.
+Incorrect Mode S address of newly delivered or registered aircraft (due to block allocation of addresses to aircraft within a state);
+
+ATC system failures may sometimes result in outcomes similar to transponder failure, e.g.:
+
+Flight level data of surveillance tracks being swapped (e.g. if an aircraft is right above/below another);
+A surveillance track being dropped (e.g. if an aircraft is right above/below another).
+
+Prevention Barriers
+Prevention barriers are designed to reduce the probability of occurrence of the event (operation without or with a dysfunctional transponder).
+Following the company SOPs and the aircraft/avionics manufacturer’s service bulletins to timely address any problems. Moreover, the aircraft operator should follow the maintenance schedule established by the manufacturers in order to reduce the probability of equipment failures, including transponder-related ones.
+Repairable mitigation barriers
+Mitigation barriers are designed to reduce the impact of the event after it has already happened. A mitigation barrier is called “repairable” when a failure has reduced the effectiveness of a barrier in the system, but certain actions may still be able to restore the effectiveness of this barrier. The main repairable mitigation barriers types are:
+
+Application of transponder code validation procedures on first contact;
+More effective flight plan data;
+Tactical conflict management:
+
+Regular air situation scanning by ATCO;
+Use of primary radar data, if available;
+Detection of transponder failure by flight crew;
+Built-in alerting functions for the transponder failure at the flight deck
+Built-in alerting function in the automated ATM system issuing warning when under specific circumstances the surveillance track data, and respectively, the track to flight plan correlation is lost.
+
+
+
+The total loss of transponder information may sometimes be mitigated by the availability of primary radar data. However, if false primary tracks appear too often, a “real” track may be considered to be fake. This is especially true when no other data is available (e.g. information from the previous sector).
+New and Existing Mitigation Barriers
+The following generic barriers could mitigate the effects of operation without or with dysfunctional transponder:
+
+Design and strategic planning:
+
+Airspace design – e.g. using de-conflicted RNAV routes;
+Procedure design taking account of potential transponder malfunction;
+Appropriate ATC system design and calibration;
+
+
+Sector capacity planning reducing the probability of very high ATC workload periods;
+Use of voice reporting by flight crews;
+Tactical conflict management:
+
+Alert for change in track status;
+Use of voice reporting;
+
+
+ATC collision avoidance - collision avoidance via procedural control;
+Crew collision avoidance - see and avoid practiced by flight crew.
+
+Accidents and Incidents
+The following events in the SKYbrary database include transponder operation as a contributory factor:
+
+
+B738 / E135, en-route, Mato Grosso Brazil, 2006On 29 September 2006, a Boeing 737-800 level at FL370 collided with an opposite direction Embraer Legacy at the same level. Control of the 737 was lost and it crashed, killing all 154 occupants. The Legacy's crew kept control and successfully diverted to the nearest suitable airport. The Investigation found that ATC had not instructed the Legacy to descend to FL360 when the flight plan indicated this and soon afterwards, its crew had inadvertently switched off their transponder. After the consequent disappearance of altitude from all radar displays, ATC assumed but did not confirm the aircraft had descended.
+
+F15 / E145, en-route, Bedford UK, 2005On 27 January 2005, two USAF-operated McDonnell Douglas F15E fighter aircraft, both continued to climb and both passed through the level of an Embraer 145 being operated by British Airways Regional on a scheduled passenger flight from Birmingham to Hannover, one seen at an estimated range of 100 feet.
+
+
+
+
+
+
+A320 / JAB4, vicinity Ballina NSW Australia, 2020On 28 November 2020, in uncontrolled Class ‘G’ airspace, an Airbus A320 inbound to and in contact with Ballina and an en-route light aircraft tracking abeam Ballina both listening out on a shared Common Traffic Advisory Frequency (CTAF) did not recollect hearing potentially useful CTAF calls and converged on intersecting tracks with the light aircraft TCAS only selected to Mode ‘A’. The A320 received a TCAS TA but neither aircraft visually acquired the other until the minimum separation of 600 feet with no lateral separation occurred. Changes to the air traffic advisory radio service in the area were subsequently made.
+
+B752, vicinity Atlanta GA USA, 2011On 11 March 2011, a Delta AL Boeing 757 departed Atlanta GA with no secondary radar indication visible to ATC and also failed to make contact with departure radar after accepting the frequency transfer instruction. During the eight minutes out of radio contact, it successively lost separation against two light aircraft and another passenger aircraft as it followed the cleared RNAV departure routing for eight minutes until the crew queried further climb on the TWR frequency and were invited to select their transponder on and contact the correct frequency.
+
+F2TH / GLID, vicinity St Gallen-Altenrhein Switzerland, 2017On 15 October 2017, a Falcon 2000EX on base leg for an easterly ILS approach at St Gallen-Altenrhein came into close proximity with a reciprocal track glider at 5000 feet QNH in Class ‘E’ airspace in day VMC with neither aircraft seeing the other until just before their minimum separation - 0.35 nm horizontally and 131 feet vertically - occurred. The Investigation attributed the conflict to the lack of relevant traffic separation requirements in Class E airspace and to the glider not having its transponder switched on and not listening out with the relevant ATC Unit.
+
+E170 / F900, en-route, east of Varna Bulgaria, 2015On 30 June 2015 the crew of an en route Embraer 170 failed to notice that their transponder had reverted to Standby and the ATC response, which involved cross border coordination, was so slow that the aircraft was not informed of the loss of its transponder signal for over 30 minutes by which time it had already passed within 0.9nm of an unseen Dassault Falcon 900 at the same level. The Investigation found that the Embraer crew had failed to follow appropriate procedures and that the subsequent collision risk had been significantly worsened by a muddled and inappropriate ATC response.
+
+H25B / AS29, en-route / manoeuvring, near Smith NV USA, 2006On 28 August 2006, a Hawker 800 collided with a glider at 16,000 feet in Class 'E' airspace. The glider became uncontrollable and its pilot evacuated by parachute. The Hawker was structurally damaged and one engine stopped but it was recovered to a nearby airport. The Investigation noted that the collision had occurred in an area well known for glider activity in which transport aircraft frequently avoided glider collisions using ATC traffic information or by following TCAS RAs. The glider was being flown by a visitor to the area with its transponder intentionally switched off to conserve battery power.
+
+B738 / C172, en route, near Falsterbo Sweden, 2014On 20 July 2014, the pilot of a VFR Cessna 172 became distracted and entered the Class 'C' controlled airspace of two successive TMAs without clearance. In the second one he was overtaken by a Boeing 738 inbound to Copenhagen with less than 90 metres separation. The 738 crew reported a late sighting of the 172 and seemingly assessed that avoiding action was unnecessary. Although the 172 had a Mode C-capable transponder, it was not transmitting altitude prior to the incident and the Investigation noted that this had invalidated preventive ATC and TCAS safety barriers and compromised flight safety.
+
+
+
+
+Related Articles
+
+EUROCONTROL TOP 5 Operational Safety Priorities
+Transponder
+Mode S
+Aircraft Mode S Transponders - Incorrect and Missing Data - EASA Safety Information Bulletins
+Best Practice - Use of Transponder
+ATC Loss of Transponder Signal
+Transponder failure types
+Aircraft without Transponder – Mitigations
+An aircraft without transponder – Guidance for Controllers
+Impact of transponder failure on safety barriers
+
+Further Reading
+
+Operational Safety Study: Risk of operation without a transponder or with a dysfunctional one, by EUROCONTROL SISG)
+Operational Safety Study: Impact on ATC from a loss of aircraft transponder function - safety considerations, EUROCONTROL, March 2019
+
+
+
+
+
+Categories
+
+
+Loss of Separation,
+              Airspace Infringement
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

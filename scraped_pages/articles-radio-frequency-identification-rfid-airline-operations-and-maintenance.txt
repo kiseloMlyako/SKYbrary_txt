@@ -1,0 +1,150 @@
+Radio Frequency Identification (RFID) in Airline Operations and Maintenance
+
+
+
+
+
+
+
+
+
+
+
+  Radio Frequency Identification (RFID) in Airline Operations and Maintenance
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Airworthiness 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Radio Frequency Identification (RFID) is automatic identification technology that has to come into broad acceptance across multiple industries, including aviation. It brings benefits beyond bar code technology. Where bar codes need light to transmit and receive data, RFID uses radio waves to transfer data to/from an RFID tag.
+How it Works
+The specific function of these radio waves is that they go through, around, in, under, and behind objects to reach a tag. The technology can also see hundreds of tags per second, so it appears to gather data instantaneously. That enables an entirely new set of opportunities for the airline. Examples include quickly determining if every airplane seat has its life vest underneath, or if security has been breached on any life vest boxes. Other examples include reading if any oxygen generator in the Passenger Service Units will expire in the next month, or if all the medical kits are still sealed.
+The handheld portable RFID readers usually come with the capability to read bar codes as well as RFID tags. This is extremely useful to use both technologies in conjunction with each other.
+
+RFID Tag (Source: Guidance on Introducing RFID, IATA May 2013)
+Inside the tag, the chip converts the radio wave into DC power, converts a radio-frequency (RF) signal to useful information, stores data in four separate memory banks, handles sophisticated communications with the reader, checks error codes on every communication, decodes passwords, and carries out other specialised functions.
+A complete RFID system requires several components: an RFID tag (chip + tag antenna), an antenna to send out and listen for radio signals, a reader connected to the antenna to decode the digital signals, and a computer system to control the process and store/use the data from the tag.
+RFID Use in Airline Operations and Maintenance
+This section shows a list of some of the RFID opportunities in the airline operational area:
+
+Baggage handling/baggage tags (see IATA Resolution 753 below)
+Catering
+Cargo handling
+Ground Service Equipment
+Passenger ticketing
+Employee badges
+Security Process
+
+The Maintenance & Engineering (M&E) functions rely on knowing exactly which item was installed at which location on which aircraft by exact serial number – not just a part number. RFID can quickly, easily, and correctly identify that serial number from a tagged part with no human mistakes to invalidate the data. Such data is currently stored in the airline’s official System of Record, but with the advent of industry standards and high memory, RFID tags this data, which can also be stored on the part as a portable traceability record.
+IATA Resolution 753
+International Air Transport Association (IATA) Resolution 753 (R753) on baggage tracking, effective 1 June 2018, requires IATA member carriers to maintain an accurate inventory of passenger baggage by monitoring the acquisition and delivery of baggage. The intent of R753, according to IATA, is to encourage airlines to further reduce mishandling by implementing cross-industry tracking for every baggage journey. Implementation of R753 is being driven by IATA, Airlines For America (A4A) and Airports Council International (ACI).
+Under terms of R753, and a similar A4A resolution, member carriers of the two organisations are obligated to demonstrate delivery of baggage when custody changes; demonstrate acquisition of baggage when custody changes; provide an inventory of bags upon departure of a flight; and be capable of exchanging this information with other members or their agents as necessary.
+In addition, R753 sets a minimum of four recorded bag tracking points:
+
+Acquisition of the bag from the passenger by the member carrier or its agent;
+Delivery of the bag to the aircraft;
+Delivery and acquisition of the bag between member or their agents when custody changes between carriers; and,
+Delivery of the bag to the passenger.
+
+RFID technology is not required by R753, but IATA recommends that its members use it because it is more effective than bar code technology. RFID scanning is listed as one of the acceptable methods for recording and tracking bag data in the IATA Resolution 753/A4A Resolution 30.53 Implementation Guide, available on the IATA website. The other technologies deemed acceptable for baggage tracking include laser scanning, manual recording, optical character recognition (OCR), and other technologies such as Bluetooth, Wi-Fi or GPS, according to the guide.
+Related Articles
+
+Airworthiness - The System
+Certification of Aircraft, Design and Production
+Health and Usage Monitoring System (HUMS)
+
+Further Reading
+
+IATA Joint Resolution 753, effective 1 June 2018 (download requires form completion).
+IATA Resolution 753/A4A Resolution 30.53 Implementation Guide, Issue 3.0, 13 Nov. 2017 (download requires form completion).
+
+
+
+
+
+Categories
+
+
+Airworthiness,
+              Ground Operations
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

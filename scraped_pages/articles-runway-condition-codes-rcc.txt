@@ -1,0 +1,135 @@
+Runway Condition Codes (RCC)
+
+
+
+
+
+
+
+
+
+
+
+  Runway Condition Codes (RCC)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Runway Excursion 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Runway Condition Codes are values on runway contamination reported to pilots by an airport’s Automatic Terminal Information Service (ATIS).
+Description
+Any contaminant on a runway, such as standing water, snow, or ice, can affect the braking action and controllability of aircraft as they take off or land. Pilots must take this into account while calculating performance factors such as takeoff decision speed, takeoff distance, and landing distance.
+The International Civil Aviation Organization (ICAO) has adopted a standardised system for reporting the condition of runways to pilots, and for pilots to report the resulting braking action. This overall system is called the Runway Condition Assessment Matrix (RCAM).
+Within the RCAM, Runway Condition Codes, ranging from 6 to 0, indicate the condition of the runway surface. A dry runway is indicated by a 6. A wet runway, or a runway with light snow or slush, is indicated by a 5. Compacted snow is indicated by a 4. Higher levels of dry or wet snow are indicated by a 3. Slush and standing water are indicated by a 2. Ice is indicated by a 1. Wet ice or water on top of compacted snow is indicated by a 0. 
+RCC numbers are issued for each third of a given runway. So, for example, a wet runway with compacted snow along the last third would be reported as 5/5/4. Pilots receive these reports from the Automatic Terminal Information Service (ATIS). Normally, ATIS reports an RCC only if the RCC is 5 or less.
+The RCAM system replaces earlier methods of reporting runway conditions, which included surface friction reports based on a value represented by the Greek letter Mu (pronounced “mew"). Mu values ranged from 0 to 100, with 100 representing the greatest braking action. Generally, Mu values were not reported unless they were 40 or less, and there was no official correlation between a given value and the expected braking action.
+Further Reading
+Runway Surface Condition Reporting and RCAM, presentation slide deck, 19 April 2016
+
+
+
+
+Categories
+
+
+Runway Excursion
+
+
+
+
+
+
+
+
+
+Related Articles
+
+Runway Surface Friction
+Surface Friction Measurement and Prediction in Winter Operations
+Landing on Contaminated Runways
+Global Action Plan for the Prevention of Runway Excursions (GAPPRE)
+Runway Excursion
+Runway Surface Condition Reporting
+Global Reporting Format (GRF)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

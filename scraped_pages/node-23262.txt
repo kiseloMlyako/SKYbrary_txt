@@ -1,0 +1,124 @@
+Air Data Computer (ADC)
+
+
+
+
+
+
+
+
+
+
+
+  Air Data Computer (ADC)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Flight Technical 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+An air data computer (ADC) is an essential avionics component found in aircraft. This computer, rather than individual instruments, can determine the calibrated airspeed, Mach number, altitude, and altitude trend data from an aircraft's Pitot Static System. In some very high speed aircraft equivalent airspeed is calculated instead of calibrated airspeed.
+Air data computers usually also have an input of total air temperature. This enables computation of static air temperature and true airspeed.
+In Airbus aircraft the air data computer is combined with altitude, heading and navigation sources in a single unit known as the Air Data Inertial Reference Unit (ADIRU). This has now been replaced by the Global Navigation Air Data Inertial Reference System (GNADIRS).
+In simpler aircraft including helicopters the air data computers, generally two in number, and smaller, lighter and simpler than an ADIRU, may be called Air Data Units, although their internal computational power is still significant. They commonly have the pitot and static pressure inputs, as well as outside air temperature (OAT) from a platinum resistance thermometer and may control heating of the pitot tube and static vent to prevent blockage due to ice. As on simpler aircraft without a fly by wire system, the outputs are typically to the cockpit altimeters or display system, flight data recorder and autopilot system. Output interfaces typically are ARINC 429, Gillham or even IEEE1394 (Firewire). The data provided may be true airspeed, pressure altitude, density altitude and OAT, but with no involvement in aircraft attitude or heading, as there are no gyroscopes or accelerometers fitted internally. These devices are usually autonomous and do not require pilot input, merely sending continuously updated data to the recipient systems while the aircraft is powered up. Some, like the Enhanced Software Configurable Air Data Unit (ESCADU) are software configurable to suit many different aircraft applications.
+Accidents and Incidents
+
+B752, en-route, Northern Ghana, 2009 - On 28 January 2009 the commander of a Boeing 757-200 became aware of a the failure of his ASI early in the night takeoff roll on a scheduled passenger flight. He decided to continue the takeoff and deal with the problem whilst airborne. After passing FL180 the crew selected the left Air Data switch to ALTN, believing this isolated the left Air Data Computer (ADC) from the Autopilot & Flight Director System (AFDS). Passing FL316, the VNAV mode became active and the Flight Management Computers (FMCs), which use the left ADC as their input of aircraft speed, sensed an overspeed condition and provided a pitch-up command to slow the aircraft. The commander, uncertain as to what was failing, disengaged the automatics and lowered the aircraft’s nose, then handed over control to the co-pilot. A “MAYDAY” was declared and the aircraft returned to Accra without further event.
+B763, en-route North Bay Canada, 2009 - On 19 June 2009 a Boeing 767-300 was level at FL330 in night IMC when the Captain’s altimeter and air speed indicator readings suddenly increased, the latter by 44 knots. The altimeter increase triggered an overspeed warning and the Captain reduced thrust and commenced a climb. The resultant stall warning was followed by a recovery. The Investigation found that a fault within the phase locked loop (PLL) circuitry of the ADC had resulted in sudden and erroneous airspeed and altitude indications on the Captain’s instruments.
+
+Related Articles
+
+Altimetry System Error
+Unreliable Airspeed Indications
+Cockpit Voice Recorder (CVR)
+Flight Data Acquisition Unit (FDAU)
+Quick Access Recorder (QAR)
+
+
+
+
+
+Categories
+
+
+Flight Technical
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

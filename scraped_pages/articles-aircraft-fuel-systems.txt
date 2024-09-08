@@ -1,0 +1,219 @@
+Aircraft Fuel Systems
+
+
+
+
+
+
+
+
+
+
+
+  Aircraft Fuel Systems
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Flight Technical 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+An aircraft fuel system enables fuel to be loaded, stored, managed, and delivered to the engine(s) of an aircraft.
+General Description
+Fuel systems differ greatly from aircraft to aircraft due to the relative size and complexity of the aircraft. In the most basic form, a fuel system will consist of a single gravity-feed fuel tank with the associated fuel line connecting it to the aircraft engine. In a modern, multi-engine passenger or cargo aircraft, the fuel system is likely to consist of multiple fuel tanks which may be located in the wing or the fuselage (or both) and, in some cases, in the empennage. Each tank will potentially be equipped with internal fuel pumps and have the associated valves and plumbing to feed the engines, allow for refueling and defueling, isolate the individual tanks, and in some applications, allow for fuel dumping or for optimisation of aircraft centre of gravity.
+Light Single Engine GA Aircraft
+Small piston-engine powered aircraft often have a single-tank fuel system. On newer aircraft, two fuel tanks, with one in each wing, are more common. A two-tank system requires additional components to allow controlled provision of fuel to the single engine. Fuel tank boost pumps may or may not be incorporated, depending upon the location of the tanks.
+The fuel is piped from the tanks through fuel lines to a fuel control valve which is commonly referred to as the fuel selector valve. This valve serves several functions and will potentially have Left, Right, Both and Off selections. Left, Right and Both allow for fuel to be fed to the engine from either the left tank or the right tank individually or from both at the same time. This facility allows the pilot to balance the fuel tanks or to "trim" the aircraft laterally. The Off selection provides for a fuel shutoff valve in the event of an engine fire or to prevent unwanted fuel migration when the aircraft is not in operation. In some installations, the shutoff function is provided by a separate valve located downstream from the fuel control valve.
+Light Twin-Engine GA Aircraft
+Adding a second engine to an aircraft, by necessity, increases the complexity of the fuel system and its management. Additional features normally found in small multi-engine aircraft include in-tank fuel pumps, a more robust fuel quantity indicating system, and the provision for fuel "crossfeed". Refueling is still normally accomplished on a tank by tank basis.
+Crossfeed allows for fuel from one wing tank to be burned by the engine on the other wing. In some cases, the fuel is routed directly from the tank to the engine while in others, it is transfered from one wing tank to the opposite wing tank before feeding to the engine. The crossfeed provision allows the pilot to use all of the fuel on board and to maintain lateral balance limitations in the event that a failure results in single-engine operations.
+Multi-engine Turboprop and Turbojet Aircraft
+Increasing the size and complexity of an aircraft will normally result in corresponding changes to the fuel system. These changes are likely to include more system automation, more fuel tanks, specific AFM requirements with respect to fuel distribution in flight and the sequence in which the tanks are to be filled on the ground or their contents used in flight, a reliable system indication and alerting system, provisions for "single-point" refuelling and defuelling and, in larger aircraft, provision for fuel dumping and/or for centre of gravity optimisation through fuel movement in flight.
+Enhancements to the fuel system commonly found on aircraft of this category include:
+
+Single point refueling/defueling - the refuelling hose is connected to a single point on the aircraft, usually located underwing or somewhere on the fuselage, and all tanks are fuelled or defuelled by means of a manifold connecting to all tanks
+Fuel pump redundancy - multiple fuel pumps in each tank to ensure fuel is accessible in the event of a single pump failure
+Robust fuel management, indicating and warning systems - depending upon the aircraft, these can include:
+
+fuel quantity by tank
+total fuel quantity remaining
+fuel used
+estimated fuel remaining at intended destination
+fuel temperature by tank
+automatic selection of most appropriate fuel tank dependant upon phase of flight
+automatic fuel transfer
+warnings and cautions for items such as:
+
+low fuel quantity
+low fuel pressure
+fuel pump failure
+low fuel temperature
+
+
+
+
+Provision of fuel tanks in the outer portion of the wings to reduce wing bending. The fuel in these tanks is generally not burned until late in the flight
+Provision in the fuel system to supply an Auxiliary Power Unit (APU)
+Automated in-flight transfer of fuel from the wing tanks to trim tanks in the horizontal stabiliser. Moving the fuel to the trim tank optimizes the centre of gravity and reduces the fuel burn
+Fuel dumping provisions. In the event of an unexpectedly early landing, excess fuel can be dumped to reduce the aircraft landing weight to or towards the permitted MLW
+
+Threats
+There are a number of fuel-related threats to safe aircraft operation. In addition to those described in the Fuel Management article, there are several threats related to the misuse or to the malfunction of an aircraft fuel system that must also be considered. These include:
+
+Fuel Leak - Fuel can leak at the engine, from the tank, or from anywhere in between due to fuel tank or fuel line rupture.
+Fuel Imbalance - Fuel imbalance can occur as a result of improper refueling techniques, poor fuel management, engine failure, or fuel leak.
+Mechanical failure of a fuel pump.
+Fuel Freezing - In gas turbine-powered jet aircraft flown at high altitude for long periods, fuel temperature can be a critical factor. Minimum allowable fuel temperatures are less likely to be a factor on the operation of turboprop aircraft. The temperature at which fuel freezes will depend on the prevailing pressure and on the type and specification of fuel carried. In GA aircraft, Piston Engine Induction Icing or carburettor icing is the most common form of fuel freezing.
+Electrical failure - may limit the availability of fuel pumps and fuel system indications
+Fuel dumping causes two main concerns:
+
+Fuel dissipation - in order for the fuel to dissipate in the air (and thus mitigate pollution on the ground) ICAO Doc 4444 (PANS-ATM) states that the level used should not be less than 6000 ft.
+Fuel ingestion - in order to prevent other aircraft from ingesting the fuel being dumped, the following separation minima apply:
+
+10 NM horizontally, but not behind the aircraft dumping fuel
+at least 1000 ft above or 3000 ft below for aircraft that are within 15 minutes or 50 NM behind the aircraft dumping fuel
+
+
+
+
+
+Effects
+
+A fuel leak from an engine can often be resolved by shutting down the affected engine. A tank leak due to a rupture in the tank will result in the loss of some or all of the fuel in that tank. If a fuel line is ruptured, it could result in some fuel being unuseable.
+An uncorrected fuel imbalance can lead to difficulty in controlling the aircraft.
+A pump failure could result in the inability to use the fuel in the affected tank. This may be mitigated by a second (or even a third) pump in the same tank.
+Fuel freezing can lead to loss of power due to fuel starvation and potentially can result in engine failure.
+In the event of electrical failure, some, or potentially all, fuel tank boost pumps will be lost. In most aircraft, gravity fuel feeding is only possible from some of the fuel tanks. Descent may be required to comply with the maximum allowable fuel gravity feed altitude. Diversion may be required due to unusable fuel.
+
+Defences
+
+In all cases comply with the manufacturer's limitations and recommendations as published in the Aircraft Flight Manual (AFM) and in the Operations Manual as replicated in the Quick Reference Handbook (QRH) or the equivalent ECAM or EICAS displays.
+WARNING - the misidentification or mishandling of a fuel leak can potentially lead to depletion of all fuel on board the aircraft. Use the QRH or other appropriate checklist to carefully identify and isolate the leaking component.
+Where possible, maintain the aircraft wing-to-wing fuel balance within limits by referring to the QRH or other appropriate checklist
+Fuel pump circuit breakers should NOT be reset in flight.
+In light aircraft, use carburettor heat as appropriate. In larger aircraft at high altitude, if the fuel temperature approaches its freezing point, pilots can descend to warmer air, increase the aircraft speed to increase the Total Air Temperature, or transfer fuel to a tank containing warmer fuel.
+
+Accidents & Incidents
+
+
+B789, en-route, west of Mangaluru India, 2021On 31 October 2021, a ‘Fuel Imbalance’ message occurred on a Boeing 787-9 soon after departing Bangkok at night but attempted fuel transfer was unsuccessful. A ‘Fuel Disagree’ message subsequently appeared and use of available system checklists indicated that there was a fuel leak from the left engine or tank. Left engine shutdown was therefore accomplished and a MAYDAY diversion to an overweight landing at Goa followed. The Investigation determined that the leak was actually from the right side fuel tank and attributed crew misdiagnosis to inadequate fuel system malfunction checklists and deficient crew guidance and training on fault diagnosis.
+
+AS50, manoeuvring, southwest of Alta Norway, 2019On 31 August 2019, all six occupants of an Airbus AS350 B3 being used for a sightseeing flight in northern Norway were killed after control was suddenly lost and the helicopter impacted the terrain below where the wreckage was immediately consumed by an intense fire. The Investigation found no airworthiness issues which could have led to the accident and concluded that the loss of control had probably been due to servo transparency, a known limitation of the helicopter type. However, it was concluded that it was the absence of a crash-resistant fuel system which had led to the fatalities.
+
+B763, Auckland New Zealand, 2019On 27 July 2019, a fuel configuration advisory was annunciated on a Boeing 767-300 about to depart Auckland as a result of wing tank imbalance. Having established there was no evidence of a fuel leak, they planned to correct the imbalance in flight but then delayed this until it had exceeded the permitted limits. The fault was only verbally reported after flight and the aircraft continued to operate without centre tank use with maintenance remaining unaware of the fault for several days. The cause of imbalance was a fuel system fault subject to a crew response which was not followed.
+
+C550, en-route, north of Savannah GA USA, 2019On 9 May 2019, a Cessna 550 level at FL 350 experienced an unexplained left engine rundown to idle and the crew began descent and a diversion to Savannah. When the right engine also began to run down passing 8000 feet, an emergency was declared and the already-planned straight-in approach was successfully accomplished without any engine thrust. The ongoing Investigation has already established that the likely cause was fuel contamination resulting from the inadvertent mixing of a required fuel additive with an unapproved substance known to form deposits which impede fuel flow when they accumulate on critical fuel system components.
+
+AT45, vicinity Esbjerg Denmark, 2016On 27 March 2016 an ATR 42-500 had just departed Esbjerg when the right engine flamed out. It was decided to complete the planned short flight to Billund but on the night IMC approach there, the remaining engine malfunctioned and lost power. The approach was completed and the aircraft evacuated after landing. The Investigation found the left engine failed due to fuel starvation resulting from a faulty fuel quantity indication probably present since recent heavy maintenance and that the right engine had emitted flames during multiple compressor stalls to which it was vulnerable due to in-service deterioration and hot section damage.
+
+
+...further results
+
+
+Related Articles
+
+Refuelling and Defuelling Risks
+Post Crash Fires
+Ignition of Fuels
+Fuel Management
+Fuel - Regulations
+Fuel - Flight Planning Definitions
+Fuel - Preflight Planning
+Fuel Starvation
+Fuel Exhaustion
+Fuel Starvation, Stress, Fatigue and Nonstandard Phraseology (OGHFA SE)
+In-Flight Fuel Imbalance Error (OGHFA SE)
+
+Further Reading
+
+Maintenance Briefing Notes: Aircraft Centre Tank (ACT) fuel leak by Airbus
+EASA SIB No 2018-08: In-Flight Fuel Management — Phraseology for Fuel-Related Messages between Pilots and Air Traffic Control, May 2018
+
+
+
+
+
+Categories
+
+
+Flight Technical,
+              Airworthiness
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

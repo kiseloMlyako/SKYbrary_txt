@@ -1,0 +1,136 @@
+Localiser Performance with Vertical Guidance (LPV)
+
+
+
+
+
+
+
+
+
+
+
+  Localiser Performance with Vertical Guidance (LPV)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Localiser Performance with Vertical Guidance (LPV) is defined as an Approach with Vertical Guidance (APV); that is, an instrument approach based on a navigation system that is not required to meet the precision approach standards of ICAO Annex 10 but that provides both course and glidepath deviation information.
+Description
+Localiser Performance with Vertical Guidance (LPV) is a subset of Area Navigation (RNAV) Approach minima that are available at some locations in various parts of the world. Approaches to LPV minima have characteristics which are very similar to an Instrument Landing System (ILS) approach. The fundamental difference between the two is the source of the guidance signals. Whilst an ILS is a ground-based approach, necessitating the associated transmitters and antennae for each individual runway, the source for RNAV LPV guidance is the space based Global Navigation Satellite System (GNSS) which can be used to simultaneously provide the guidance to an unlimited number of aircraft conducting concurrent approaches at multiple locations.
+RNAV GNSS approaches that can be conducted down to LPV minima are characterised by a coded Final Approach Segment (FAS) data block. The FAS is defined laterally by the Flight Path Alignment Point (FPAP) and Landing Threshold Point/Fictitious Threshold Point (LTP/FTP), in essence, an accurately defined runway threshold location and an equally accurate position on the extended centreline. It is defined vertically by the Threshold Crossing Height (TCH) and Glide Path Angle (GPA). The FAS of an LPV approach may be intercepted by an approach transition, such as Precision-Area Navigation (P-RNAV), the initial and intermediate segments of an RNAV or RNP Approach, or via radar vectoring to intercept the extended FAS.
+To provide the necessary accuracy to conduct an approach to LPV minima, the GNSS signal must be refined by a Satellite Based Augmentation System (SBAS) system, be it the Wide Area Augmentation System (WAAS), the European Geostationary Navigation Overlay Service (EGNOS) or another space based augmentation system. These extremely accurate augmentation systems can provide the required lateral and vertical approach guidance down to a decision altitude (DA) with provision for a slight "duck under" in the event that a Go Around is required. As in an ILS, the angular guidance of an LPV approach becomes narrower and more sensitive as the aircraft approaches the runway. To enable use of LPV minima, the aircraft must be fitted with both an LPV capable Flight Management System (FMS) and a compatible SBAS receiver.
+Capability
+LPV minima take advantage of the high accuracy guidance and increased integrity that an SBAS (WAAS, EGNOS etc) provides to the basic GNSS signal. The SBAS generated angular guidance allows the use of the same approach design criteria that is used for ILS approaches. LPV minima may have a decision altitude (DA) as low as 200 feet height above touchdown zone elevation with associated visibility minimums as low as 1/2 mile, when the terrain and airport infrastructure support the lowest allowable minima.
+Implementation
+RNAV approaches, inclusive of those with LPV minima, have been designed and certified for use at numerous European, U.S. and Canadian airports. In many cases, the newly implemented approaches allow for the equivalent of Category I ILS capability at locations which previously could not support, or justify the cost of, an ILS installation. Additional approaches are being designed and added year over year. As of June 2019, there were almost 4000 RNAV approaches with LPV minima within the United States, of which more than 1100 serve airports which previously did not have an ILS capability.
+Authorisation
+The lateral guidance provided by LPV is equivalent to a localizer, and the protected area associated with the approach is considerably smaller than that provided for current LNAV or LNAV/VNAV approaches. Aircraft authorisation to fly to LPV minimums is based on a statement in the Aircraft Flight Manual (AFM) that the installed equipment supports LPV approaches. Operator approval and crew training requirements vary by National Aviation Authority (NAA).
+Related Articles
+
+Global Positioning System (GPS)
+Satellite Based Augmentation System (SBAS)
+Ground Based Augmentation System (GBAS)
+Wide Area Augmentation System (WAAS)
+European Geostationary Navigation Overlay Service (EGNOS)
+GBAS Landing System (GLS)
+
+Further Reading
+EASA
+
+AMC 20-28 - Approval and Operational Criteria related to Area Navigation for Global Navigation Satellite System approach to Localiser Approach with Vertical guidance minima using Satellite Based Augmentation System
+
+FAA
+
+AC 90-107 -Guidance for Localizer Performance with Vertical Guidance and Localizer Performance without Vertical Guidance Approach Operations in the U.S. National Airspace System
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

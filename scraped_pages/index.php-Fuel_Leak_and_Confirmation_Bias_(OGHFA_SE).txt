@@ -1,0 +1,207 @@
+Fuel Leak and Confirmation Bias (OGHFA SE)
+
+
+
+
+
+
+
+
+
+
+
+  Fuel Leak and Confirmation Bias (OGHFA SE)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+OGHFA 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ Flight Safety Foundation
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Incident as a Situational example
+Your twin-engine passenger airplane departs from a European airport for a short scheduled flight. It has previously been assigned as reserve for an aircraft on a longer flight which ended up taking place normally, and thus is loaded with 8.5 tons (17,000 lb) of fuel. This quantity is more than enough for the short 50-minute flight, which requires only 4.7 tons (9,400 lb). Therefore you do not request a top-up. The takeoff is uneventful and 12 minutes into the flight, on reaching cruise altitude, your attention is drawn to a fuel warning: the left wing tank is lighter than its counterpart on the right wing by 1.5 tons (3.000lb). All engine parameters are nominal.
+What‘s your next move?
+You consult the airplane quick reference handbook (QRH) and follow the appropriate procedure to re-establish balance between the two wing tanks. The cross-feed valve between the tanks is opened, and the left pumps are switched off. Once balance is re-established, the cross-feed valve is closed, the pumps turned on and you start to analyze the situation.
+You note an inconsistency between the initial fuel on board (FOB) reading on the left instrument and that on the right in relation to the totals (fuel used and fuel remaining). This confirms there is an anomaly somewhere.
+What’s your diagnosis of the situation at this moment?
+At this stage, you have four possible reasons for the anomaly:
+
+A left tank fuel leak
+The initial fuel on board prior to departure was less than the stated 8.5 tons (17,000 lb). The airplane was left unattended the afternoon prior to the flight waiting for a call to serve as a reserve. You found the airplane in a different ramp location than the one you were given. This created some doubt about what happened in the intervening period and about possible left engine tests by maintenance personnel.
+When you took over the airplane on the ramp, the refueling hose was connected to the left wing tank. Since no fuel was supposed to have been loaded, it is possible that fuel was removed inadvertently.
+A fuel quantity indicator (FQI) malfunction. You are aware that this equipment has been causing problems for some time.
+
+In order to check these hypotheses, you ask another captain flying as a passenger to help you. Rated on the airplane, he twice observes the left wing, dimming all the interior cabin lights and using a flashlight. No sign of any fuel leak is seen given the poor visual conditions.
+During this observation from the cabin, you recheck the fuel levels twice and note the FOB is falling rapidly. You conclude the problem results either from a fuel leak or from an FQI malfunction.
+The possibility of a fuel leak remains unconfirmed because nothing else confirms it — fuel flow and fuel used are nominal. There are no outside traces of a possible leak, especially considering its apparent volume. All these facts, in addition to the doubts associated with the FQI, contribute to leaving a large degree of uncertainty as to the causes.
+So what’s your decision?
+You ask the other pilot returning from the wing inspection to remain on the flight deck to monitor the fuel status.
+The balance between the tanks is reached, and the system is reconfigured into the initial state with the cross-feed valve closed.
+After 34 min of flight, the left tank low-level fuel flag comes up, indicating that there are only 750 Kg (1,650 lb) remaining. The cross-feed valve is opened. The airplane is on descent around 40 nm from the destination airport.
+Because you are close to the end of the flight, you continue toward your destination after briefly considering a diversion.
+One-and-a-half minutes later, following an additional fuel check showing the fuel level constantly decreasing at a high rate, you realize that there is a risk of emptying both tanks through the leak using the cross-feed valve.
+Do you confirm your preceding diagnosis?
+You decide to close the valve. You are certain now there is a significant leak.
+Thirty nine minutes into the flight, descending on approach through 6,400 ft, the left engine shuts down. You follow the procedures for engine failure and engine shutdown, except for the cross-feed valve, and you make an emergency call to ATC.
+You continue the approach on one engine, deliberately above the glide path in case the right engine stops too.
+The rest of the approach and the landing are uneventful. There are only 800 Kg (1,760 lb) remaining in the right wing tank when the airplane stops at the ramp.
+Data, Discussion and Human Factors
+Incident management
+The flight crew encountered a situation in which the fuel flow and the fuel-used values seemed correct and the fuel remaining on board was out of range. They could not determine the origin of the abnormal evolution in the fuel level.
+Twelve minutes into the flight, a first message attracted the crew’s attention to a 1,500-Kg (3,300 lb) imbalance between the right and left wing tanks, without any particular procedure to follow.
+The crew applied the balance procedure in the QRH and opened the cross-feed valve and switched off the left pumps. No other checks were required and none were performed.
+The crew then discussed briefly the possible origins of this imbalance. The two main options were a fuel leak and a failure of the FQI.
+Because such a large fuel leak, if it was indeed the origin of the problem, is quite a rare event, because they could not see evidence of such a leak, even after an inspection of the left wing by a pilot, and because the history of problems with the FQI was known, the crew tended to believe the problem was an FQI malfunction.
+The pilots believed the information on the imbalance was untrue since in their mind it originated from a faulty sensor. In that case, they should have stopped the procedure they started following from the QRH since it logically would have led to an imbalance on the opposite side. This is further evidence of the uncertainties the crew were facing. The pilots chose the explanation that used the least resources.
+This behaviour is characteristic of confirmation bias often encountered by those under stress when the situation calls for a lot of energy. Without knowing the exact cause of the problem, they tended to believe that indications were erroneous because they were coming from a faulty indicator.
+Right from the beginning, this ambiguity in the decision-making process, plus the fact that the QRH was not explicit enough as far as the steps to follow after the first advisory message, distorted the crew’s analysis of the situation until the left engine shut down.
+Perhaps because the crew started with an inappropriate analysis from the onset, and perhaps because the QRH proposed a simple action in response to the advisory message, the crew did not fully use the other information available to confirm the fuel leak. This other information included the FOB value confirming the total fuel in the various tanks and the slight airplane inclination to the right. Also, nothing else, such as an excessive fuel consumption alarm or warning, was pushing the crew to undertake a systematic failure-mode analysis.
+If the crew had suspected a leak from the onset of the problem, the on-board documentation would have confirmed the hypothesis. On the contrary, the imbalance procedures did not provide the crew with an “attention grabber” in case of imbalance due to a fuel leak. The application of standard procedures in fact aggravated the imbalance.
+The fact that the airplane was loaded with more fuel than required for the short flight contributed to giving the crew a false sense of security. If the airplane had been loaded with the correct amount of fuel, the outcome of the situation would have been very different and much more dramatic.
+When the warning on the low fuel in the left tank came on, the display provided the crew with the procedure to be followed. The crew applied it immediately, without any additional checks, in accordance with airline directives. The cross-feed valve was opened, contributing to an increase in the flow to the leak.
+According to the flight manual, the procedure is preceded by a warning against opening the cross-feed valve if a leak is suspected. The crew was not required to consult this manual in flight but would have had time. However, this warning was not indicated on the displays the crew was using.
+The low fuel display was coming from another source than the suspected FQI. This was another cue to confirm the fuel leak. It was the intervention of the third pilot, who remained on the flight deck, that led to the closure of the cross-feed valve, which saved fuel for the remainder of the flight.
+Decision-making process
+The pilots rapidly became aware of the imbalance between the wing tanks when they were still near the departure airport. Then they were faced with a situation they could hardly explain, considering the bias they had started with. As we have seen, they never really determined the true nature of the problem until late into the flight.
+It should also be noted that the captain did not contact the airline dispatch center to help him analyze the situation. This was probably because on such a short flight, the workload was already high, and calling someone else would have increased it, due to the additional communication involved and possible interference with on-board procedures.
+The decision by the captain to call on additional resources, such as the other pilot present in the cabin, was a key decision. His presence allowed them to complete the analysis of the situation and his comments and advice, helped the captain to make more appropriate decisions.
+Organizational and Design Aspects
+A 1,500-Kg (3,300 lb) fuel imbalance on a short 50-minute flight for a mid-size airplane is a significant anomaly. Presenting this situation as merely “advisory” is inappropriate since such a message could mean it was only a minor issue.
+Additionally, the advisory nature of the alert did not increase the crew’s awareness of the risks associated with the fuel leak, and the on-board documentation was not very explicit. The documentation did not warn the crew of the risks.
+The documentation contained no procedure relating to the solving the problem of imbalance. It was considered to be so basic and obvious that it was not included.
+After the flight, the airplane was inspected and the source of the leak was found. Four of the six integrated bolts on the cover of the high-pressure fuel pump filter were damaged. Maintenance had replaced the filters the morning of the flight. The damage was due to excessive torque force on the bolts because the operation was done without a torque meter.
+Had the simple prevention strategies and lines of defense discussed below been followed to avoid the initial bias, decision making would have been improved and the incident could have been avoided.
+Prevention Strategies and Lines of Defense
+Although the pilots were all experienced they did not identify the imbalance as a fuel leak, likely for the following reasons:
+
+None of them had ever experienced such a large fuel leak
+There was no information in operations and training manuals on the symptoms of tank imbalance
+Current training did not provide this knowledge.
+
+Few resources were available to crews to aid in the quick identification of fuel leaks. There was very limited training for positive recognition and correct identification of such a failure.
+Improve crew fuel system knowledge and training on identifying fuel leaks as well as awareness of the associated risks.
+Specifically related to this incident, the crew needed to ask important questions before taking any action to balance the fuel tanks. What was the reason behind the imbalance and how long would the rebalancing take? The cause needed to be clearly understood, and tank rebalancing monitored constantly.
+Fuel-tank balancing is a significant operation. It must be clearly understood before acting.
+For the sake of completeness, and aside from actions in human factors, the airline and the manufacturer have taken steps to improve procedures since the incident:
+
+The QRH was amended the day after the incident to include a warning concerning fuel leaks
+Explicit fuel imbalance procedures, including the monitoring of balancing action, were introduced
+Exercises concerning fuel leaks were added to training
+Maintenance procedures on the engine were amended to warn mechanics of the torque limitations for filter cover bolts.
+The high-pressure pump fuel filter cover fasteners on the airline’s entire fleet were inspected. It resulted in 17 percent of parts being changed.
+
+Summary of Key Points
+This incident was preventable if the pilots had recognized they had a large fuel leak. A human factors analysis of this situation concentrated on the following:
+
+A large fuel leak may remain invisible
+An unconfirmed fuel leak is difficult to analyse and diagnose. A large amount of time can be wasted exploring options. Time is critical when dealing with non-replaceable resources such as fuel
+Time is the critical factor when a fuel leak is suspected. Do not delay planning for contingencies
+Manage pressures, stress and distractions due to unexpected events
+Be aware of confirmation bias and actively search for cues challenging the current understanding of the situation.
+
+Additional OGHFA Material
+Briefing Notes:
+
+Situational Awareness
+Stress and Stress Management
+Decision Making
+Organizational Threat Management
+Threat Management Training
+
+Visuals:
+
+Situational Awareness
+Stress Management
+
+Checklist:
+
+Decide - Checklist
+
+
+
+
+
+Categories
+
+
+OGHFA,
+              Situational Examples,
+              Human Factors
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

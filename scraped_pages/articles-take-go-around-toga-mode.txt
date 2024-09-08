@@ -1,0 +1,127 @@
+Take-off / Go-around (TO/GA) Mode
+
+
+
+
+
+
+
+
+
+
+
+  Take-off / Go-around (TO/GA) Mode
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Flight Technical 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Take-off/Go Around (TO/GA) is an autopilot/autothrottle setting activating take-off or go-around thrust. Depending upon aircraft type, it may be activated by depressing a switch or by manually moving the thrust levers to the appropriate position.
+Description
+If installed, the TO/GA switches are usually located on the thrust levers. The switch is the same for both take-off (TO) and go-around (GA) modes. By pressing the TO/GA switches when autothrottle is engaged, the thrust lever servo-actuators are activated and they advance the thrust levers at a preset rate in order to reach the position for take-off or go-around.
+
+Figure 1: TO/GA Switches, Source: “Flight instruments & automatic flight control systems” by David Harris
+On aircraft in which the TO/GA mode is selected manually such as current Airbus types, the thrust levers must be moved to the TO/GA detent (usually full forward) by the pilot flying.
+Take-off (TO) Mode
+During take-off, pressing the TO/GA switch or advancing the thrust levers to the TO/GA position will command the engines to increase their RPM to the calculated N1 or engine pressure ratio (EPR). Many modern aircraft are capable of carrying out a Reduced Thrust Takeoff in which the power needed by the engines for take off is pre-determined by the crew based on a number of factors such as runway length, wind speed, temperature, and the weight of the aircraft. At the thrust reduction altitude (minimum of 400' AGL) the thrust is reduced, either by manual selection of the thrust lever position or by selection of an appropriate vertical mode on the Mode Control Panel (MCP) or manufacturer equivalent. One of the advantages of having such a system during take-off is the ability to reduce wear and tear on the engines by only using as much power as is actually required to meet takeoff and climb obstacle clearance criteria.
+Go-around (GA) Mode
+Another very important function of the TO/GA mode is to initiate the transition of the autopilot/autothrottle system from approach mode to go-around mode. Once on approach, with the manufacturer's arming conditions met (generally configuration and radio altimeter height dependent), pressing the TO/GA button or advancing the thrust levers to the TO/GA position will result in the auto-thrust advancing the engines to maximum available thrust, the approach mode disengaging and the flight director commanding a climb on the current heading. Activation of the TO/GA mode does not normally result in disengagement of the autopilot. If engaged, the autopilot will follow the flight director commands at an appropriate speed. Pilot selections on the MCP may be required to ensure compliance with missed approach routing and altitude.
+Related Articles
+
+Autopilot
+Autoland
+
+Further Reading
+
+"Flight instruments & automatic flight control systems”, by David Harris, Blackwell Science Ltd., 2004
+"Aircraft electricity and electronics", by Thomas K. Eismin, Ralph D. Bent, James L. McKinley, McGraw-Hill Education 1994
+
+
+
+
+
+Categories
+
+
+Flight Technical
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

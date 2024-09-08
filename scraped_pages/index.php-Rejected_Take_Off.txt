@@ -1,0 +1,202 @@
+Rejected Takeoff
+
+
+
+
+
+
+
+
+
+
+
+  Rejected Takeoff
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Runway Excursion 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RTO
+Description
+The actions taken when it is decided to abandon the takeoff and stop an aircraft during the takeoff roll.
+The Go/Stop Decision
+In the event of an engine malfunction, the recognition of a significant abnormality, or an ATC instruction to stop the aircraft during the take off roll, transport aircraft in Performance Category ‘A’ should be able to safely reject the take off if the decision to do so is made at a speed not greater than the correctly calculated decision speed (V1).
+A successful rejection should be achieved if the response is immediate and is completed in accordance with prescribed procedures (SOPs). After V1, a reject should only be considered if there is a strong reason to believe that the aircraft will not fly.
+Depending on Operator SOPs, a call of "STOP" ("ABORT', "REJECT") to reject a takeoff, based on stated criteria, will usually be able to be made by either pilot. However, in some cases, the actions following such a call will be only for the pilot in command to take, regardless of which pilot is PF.
+Continuing the Take Off after V1
+Once a correctly calculated V1 has been exceeded, the takeoff must be continued and should allow the aircraft to get safely airborne and climb away. This explicitly covers the case of a single engine malfunction or failure up to V1 provided that the prescribed crew actions in respect of that failure are correct. However, there are certain situations (see below) where it may be found at Vr that it is simply not possible to get airborne and there is no effective solution available. In this case there is no option but to reject the take off despite the likelihood that a runway overrun of some sort will result.
+The Significance of Speed in respect of the decision to reject a take off
+Most aircraft manufacturers specify an airspeed - usually 80 knots or 100 knots - which defines the transition between the low speed and the high speed part of a takeoff roll and represents a change in the expected use of a "stop" call. This speed is usually in the vicinity of the speed where directional control using the rudder becomes effective. The prescribed speed has to be called out by PM from their own airspeed indication and the call must receive a prompt response from the PF. The fact that this call also functions as a validation that both pilots have similar airspeed indications and as a pilot incapacitation check means that the determination of the speed takes all three purposes into consideration.
+High Speed RTO
+Whilst a successful rejection of takeoff from V1 is achievable in all but exceptional and very specific cases (see below), it is universally recognised that the closer the speed gets to V1, the greater the risk involved in a decision to stop. Therefore, once at high speed, it is usually specified that the takeoff will only be rejected for major malfunctions such as an engine failure or fire - or at the discretion of the pilot in command in the event that a similarly serious situation is perceived. In many modern aircraft types, the annunciation of non-critical alerts during the high speed part of the takeoff roll and in initial climb is inhibited to preclude unnecessary distraction.
+Low Speed RTO
+Prior to the prescribed speed check call, it is envisaged that the takeoff will normally be rejected for any significant malfunction or abnormal situation. Within this lower speed range, it is likely that directional control will be largely dependent on use of the nose gear steering system. However, speeds in this range will usually be well below the applicable Vmcg - the speed at which sufficient rudder authority to maintain directional control is available and so it is important for a pilot carrying out any low speed rejected takeoff to be ready to make any necessary control inputs to the nose gear steering system via the tiller provided.
+Tyre Failure on the Takeoff Roll
+Tyre failure during the takeoff roll has been the cause of inappropriate decisions to reject a takeoff. Failure of a tyre will result in a longer than calculated stopping distance due to the loss of braking force on the associated wheel. It also has the potential to lead to additional tyre failure if a high speed rejected takeoff is then made due to the brake temperatures which a high energy stop will create. One aircraft manufacturer, Airbus, has made a generic recommendation that, for a single tyre failure with no evidence of collateral damage, the takeoff be continued if the speed is greater than V1 minus 20 knots. However, any decision to reject a takeoff in excess of the speed cross check call which is not mandated in the applicable SOPs should be taken only when there are clear indications that the safety of the flight is at risk if a takeoff is continued.
+Rejected Takeoffs and Runway Excursions
+The main reasons why runway excursions occur during rejected takeoffs can be categorised as:
+
+the decision to reject the takeoff is made after V1 and there is insufficient runway length left to come to a stop on it.
+the flight crew actions required to achieve a rejected takeoff are not carried out in a sufficiently prompt and/or comprehensive manner.
+stopping devices are not used to their full capacity.
+directional control is not maintained during the takeoff roll.
+it is found at Vr that it is impossible to achieve rotation.
+
+Solutions
+Runway Excursions arising from rejected takeoffs can therefore usually be avoided if Operating Procedures for the loading and take off of aircraft are robust and rigorously applied.
+The V1 call must be made in such a manner that the verbalisation is complete as the speed is achieved. Stopping action must be initiated promptly. Stopping devices must be used to their full capability until such time that it is certain that the aircraft will stop before the end of the runway. Unless there is a clear indication that the aircraft will not fly, a reject must not be initiated after V1.
+However, for large aircraft, there is usually a significant gap between V1 and Vr so that if, at Vr, it is found impossible to physically achieve rotation, there may be no alternative but to reject the takeoff. It is this scenario, on limiting runway lengths, which accounts for many of the most serious runway excursions arising from rejected takeoffs. Often, the problem with rotation is attributed to aircraft total weight or Centre of Gravity being different to that understood by the flight crew, due to differences in the distribution or weight of the actual load and that indicated on the certified load and trim sheet. A similar circumstance may result from takeoff using incorrect aircraft performance calculations or ASI speed bug settings, although a viable flight crew emergency response to these cases may be available by means of a prompt increase to maximum available thrust/power.
+Aircraft Loading procedures must be properly specified, and there must be checks that the aircraft has been loaded in accordance with the documentation supplied to the flight crew. Particular care in is required where the provision of this service is by a contractor and especially so where such a contractor supplies equivalent services to other operators using the same staff, since the contractual requirements of all operators may not be the same. Where flight crews use electronic flight bags (EFBs) to calculate take off performance, special attention should be given to the applied SOP and to crew training to ensure that both crew fully understand EFB use.
+Application of SOPs
+All the relevant Flight Crew SOPs must be clearly specified and applied, particularly:
+
+Cross checking take off performance calculations and the corresponding setting of ASI speed bugs.
+Both flight crew must be fully satisfied that the prevailing runway surface conditions correspond to the assumptions which have been made in their take off performance calculations.
+There must be unambiguous requirements governing crew calls of abnormal conditions during the takeoff roll and the degree to which the aircraft commander then has the discretion to reject or continue the takeoff.
+There must be accurate calls of standard speeds during the takeoff by PM and a check that both principal ASIs are indicating the same figure at the designated check speed (usually 80 KIAS or 100 KIAS).
+
+Simulator Training
+Once robust flight crew SOPs are in place, the most effective way for an Operator to ensure that flight crew are likely to respond to a rejected take off decision and its execution in the expected way is practice. This means ensuring that the plan for both initial and recurrent aircraft type simulator training and assessment includes unexpected scenarios in which a rejected takeoff may be the only expected response or a judgement call. Both stop-go takeoff decisions and the response to stop decisions should be covered. These unexpected events should include evidence of malfunctions other than total engine failure - as examples, a transient aberration in the operation of a single engine combined with tyre failure and loss of directional control, unexpectedly slow aircraft acceleration and ATC instructions given after reaching high speeds. The ability to made prompt and rational decisions on stop-go should be trained and validated - evidence of indecision should an indication that more training is required. The 'unable to rotate at Vr' case should also be included, with the cause being variously the wrong take off speeds or thrust set, the effect of a microburst or of the effect of a mis-loaded aeroplane.
+Accident and Incident Reports
+Runway Excursion Accidents and serious incidents which include Runway Excursion (Overrun on Take Off) as an outcome:
+
+
+B738, Yerevan Armenia, 2021On 23 July 2021, the takeoff roll of a Boeing 737-800 making an intersection departure from Yerevan on a non revenue positioning flight using reduced thrust in daylight exceeded the length of runway available by 81 metres but was undamaged and completed its intended flight. The Investigation found that the Onboard Performance Tool when preparing for departure had been wrongly configured but that when the crew realised there was insufficient runway length left to reject the takeoff, the thrust had not been increased and the response had been the commencement of a slow rotation 20 knots before the appropriate speed.
+
+A320, Sharjah UAE, 2018On 18 September 2018, an Airbus A320 crewed by a Training Captain and a trainee Second Officer departing Sharjah was cleared for an intersection takeoff on runway 30 but turned onto the 12 direction and commenced takeoff with less than 1000 metres of runway ahead. On eventually recognising the error the Training Captain took control, set maximum thrust and the aircraft became airborne beyond the end of the runway and completed its international flight. The Investigation attributed the event to the pilots’ absence of situational awareness and noted that after issuing takeoff clearance, the controller did not monitor the aircraft.
+
+DHC6, Jomsom Nepal, 2013On 16 May 2013, a DHC6-300 on a domestic passenger flight made a tailwind touchdown at excessive speed in the opposite direction of the of 740 metre-long runway to the notified direction in use and, after departing the runway to one side during deceleration, re-entered the runway and attempted to take off. This failed and the aircraft breached the perimeter fence and fell into a river. The Investigation identified inappropriate actions of the aircraft commander in respect of both the initial landing and his response to the subsequent runway excursion and also cited the absence of effective CRM.
+
+B738, Lisbon Portugal, 2021On 3 March 2021, a Boeing 737-800 departing Lisbon only just became airborne before the end of runway 21 and was likely to have overrun the runway in the event of a high speed rejected takeoff. After a significant reporting delay, the Investigation established that both pilots had calculated takeoff performance using the full runway length and then performed takeoff from an intersection after failing to identify their error before FMS entry or increase thrust to TOGA as the runway end was evidently about to be reached. 
+
+CRJ2, Charleston WV USA, 2010On 19 January 2010, PSA Airlines CRJ 200 began take off from Charleston with an incorrect flap setting. After late crew recognition, a rejected take off was commenced at V1+13KIAS and an overrun into the EMAS bed at approximately 50knots followed. It was noted that had the overrun occurred prior to installation of the EMAS bed, the aircraft would probably have run down the steep slope immediately after the then-available RESA. The flap setting error was attributed non-adherence to a sterile flight deck. The late reject decision to an  initial attempt to correct the flap error during the take off.
+
+
+...further results
+
+
+Related Articles
+Runway Excursion
+
+Runway Excursion
+Rejected Take Off: ATC Considerations
+Engineered Materials Arresting System
+Global Action Plan for the Prevention of Runway Excursions (GAPPRE), 2021.
+
+Further Reading
+Airbus Flight Operations Briefing Notes
+
+“Revisiting the stop or go decision”
+“Understanding take off speeds”
+
+Flight Safety Foundation
+
+Reducing the Risk of Runway Excursions - Report of the Runway Safety Initiative
+Runway Excursion Risk Assessment Tool
+Rejected Takeoff (OGHFA SE)
+Takeoff Weight Entry Error and Fatigue (OGHFA SE)
+ALAR Briefing Note 8.4 - Braking Devices
+ALAR Briefing Note 8.5 - Wet or Contaminated Runways
+
+FAA
+
+FAA Takeoff Safety Training Aid
+
+Ohio State University
+
+Rejected Take Offs - Causes, Problems and Consequences
+
+NLR
+
+Rejecting Takeoff after v1...Why does it (still) happen?
+
+
+
+
+
+Categories
+
+
+Runway Excursion,
+              Overrun on Take Off,
+              Veer Off
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

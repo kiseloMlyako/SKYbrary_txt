@@ -1,0 +1,405 @@
+B789, en-route, eastern Belgium, 2017
+
+
+
+
+
+
+
+
+
+
+
+  B789, en-route, eastern Belgium, 2017
+
+
+
+
+
+
+
+
+
+Summary
+
+On 29 April 2017, a Boeing 787-9 which had just reached cruise altitude after despatch with only one main ECS available began to lose cabin pressure. A precautionary descent and PAN was upgraded to a rapid descent and MAYDAY as cabin altitude rose above 10,000 feet. The Investigation found that aircraft release to service had not been preceded by a thorough enough validation of the likely reliability of the remaining ECS system. The inaudibility of the automated announcement accompanying the cabin oxygen mask drop and ongoing issues with the quality of CVR readout from 787 crash-protected recorders was also highlighted.
+
+
+
+
+Event Details
+
+When
+
+29/04/2017
+
+
+
+Event Type
+
+
+AW,
+              HF,
+              LOC
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+Not Recorded
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 787-9 Dreamliner
+
+
+
+
+
+
+
+
+
+Operator
+
+British Airways
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+London Heathrow Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Delhi/Indira Gandhi International (IGI) Airport
+
+
+
+
+
+
+
+Actual Destination
+
+
+
+
+London Heathrow Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Cruise
+
+
+
+
+
+
+
+
+Location
+
+Approx.
+
+25 nm east of Brussels
+
+
+
+
+
+
+
+
+
+
+General
+
+Tag(s)
+
+
+              Air Turnback
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Flight / Cabin Crew Co-operation
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Significant Systems or Systems Control Failure
+          
+
+
+
+
+EPR
+
+Tag(s)
+
+
+              MAYDAY declaration,
+              PAN declaration
+          
+
+
+
+
+CS
+
+Tag(s)
+
+
+              Pax oxygen mask drop
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Air Conditioning and Pressurisation,
+              Indicating / Recording Systems
+          
+
+
+
+Contributor(s)
+
+
+              Inadequate Maintenance Schedule,
+              Contributing ADD,
+              Component Fault after installation
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Non-aircraft damage
+
+Yes
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+Yes
+
+
+
+Ditching
+
+Yes
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Airworthiness
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 29 April 2017, a Boeing 787-9 Dreamliner (G-ZBKF) being operated by British Airways on a scheduled international passenger flight from London Heathrow to Delhi with an augmented crew was in the cruise at FL350 in unrecorded day flying conditions when an EICAS indication of increasing cabin altitude occurred. Due to despatch with one Environmental Control System (ECS) inoperative, a descent was initiated, a PAN and then, as cabin altitude exceeded 10,000 feet, a MAYDAY was declared and an air turnback was made to London Heathrow without further event.
+Investigation
+A Field Investigation was carried out by the UK AAIB. Relevant recorded data was available from the duplicated Enhanced Airborne Flight Recorders (EAFR), flight data for the entire flight and CVR audio from climbing through FL110 eastbound until the end of the flight. Useful data were also available from the aircraft’s Central Maintenance Computing Function (CMCF) and from the Aircraft Health Monitoring (AHM) system, a ground-linked service that generates messages which can also be accessed by a flight crew but do not on their own require any action by them.
+It was noted that the 50 year-old Captain had a total of 14,200 flying hours of which 1238 hours were on type. The experience of the First Officer was not documented.
+What Happened
+It was established that the intended flight sector was rostered for a three-pilot crew and although initially planned as an ETOPS flight, had to be re-planned as a non-ETOPS flight after the flight crew noticed on boarding the aircraft that the Technical Log contained an ADD in respect of the left Air Conditioning System which had been disabled in accordance with the MEL. An amended flight plan with a maximum altitude of FL 350 (which allowed the overhead crew rest areas to be used during the flight) was filed and the necessary additional two tonnes of fuel was uploaded.
+At FL200 during the climb, the third pilot left the flight deck for the flight crew rest area and 25 minutes after takeoff, the aircraft reached FL350. Two minutes later, an EICAS annunciation of ‘CABIN ALTITUDE PRESSURE BLOCK’ occurred and it was seen that the cabin altitude was increasing at about 300 fpm and that both outflow valves were indicating closed. After discussing remedial options, the crew initially requested a descent to FL310 to see if the cabin altitude would stabilise and upon receipt of the required clearance, began a descent in FLCH mode at idle thrust. However, the cabin altitude continued to increase and the Captain asked the First Officer to contact the Cabin Service Director (CSD) to brief her on the situation and request that cabin service be suspended.
+When the cabin altitude continued to increase, the Captain declared a PAN to ATC and as he did so, the cabin altitude reached 10,000 feet and the EICAS cabin altitude warning was activated. This coincided with the First Officer speaking to the CSD which resulted in some confusion on the part of the CSD as to whether the cabin crew should go onto oxygen or (as intended) just seat themselves near an oxygen mask. On completion of this exchange, the First Officer joined the Captain on oxygen and they completed the QRH memory items for Cabin High Altitude, including manual deployment of the cabin oxygen masks. The PAN was upgraded to a MAYDAY and a rapid descent to FL100 was made. Passing FL 258, the cabin altitude reached a maximum of 10,429 feet before beginning to reduce.
+During the descent the CSD, wearing a portable crew oxygen system, entered the flight deck to clarify the situation but was unable to return to the cabin until the aircraft was levelled at FL100 when, having confirmed that the cabin altitude was at 7,000 ft and reducing, the flight crew removed their oxygen masks and completed the QRH checklist for Cabin High Altitude. The Captain asked the CSD to advise the third pilot, who had remained in the flight crew rest area on a fixed ‘drop down’ oxygen mask, that he could return to the flight deck and directed that the cabin crew and passengers could remove their oxygen masks “if required”.
+The cabin altitude continued to reduce to below 4000 feet where it stabilised and having reviewed the aircraft status, the Captain decided to return to Heathrow. On the way back, which proceeded without further event, approximately four tonnes of fuel was jettisoned to facilitate a landing below MLW.
+From a cabin crew perspective, the abnormal circumstances resulted in some confusion. Although the instruction to the cabin crew to cease cabin service and return to their seats had been communicated to the forward (First Class) cabin, before this message could be passed on to the rest of the cabin crew, the cabin oxygen masks were deployed. This deployment was automatically accompanied by a Pre Recorded Announcement (PRA) which contained instructions on how to don the oxygen masks. However, the volume of the PRA was so low that it could not be heard above the background cabin noise level and “as a result of not hearing the PRA, and in the absence of any other serious indications of depressurisation, the cabin crew were confused as to what was happening”. Many of them thought that the oxygen masks had deployed inadvertently and they just returned their cabin service carts to the galleys and took their seats there instead of following their prescribed actions in the event of depressurisation. It was reported that “the passengers appeared unaware of the emergency [and] some remained asleep and many did not fit their oxygen masks”. It was noted that some of those who did fit their masks did so incorrectly.
+As cabin crew awareness of the situation developed, they began shouting instructions to the passengers to fit their oxygen masks and due to the uncertainty of the situation, the CSD fitted a portable oxygen system and went into the flight deck to ascertain what was happening. At this time, several other members of the cabin crew also used portable oxygen systems, with a number reporting afterwards that these systems were “difficult to extract from their stowage locations and use due to the ‘cumbersome’ oxygen bottle”. Some also reported finding it difficult to tell whether they were working correctly.
+During the return to Heathrow several members of the cabin crew and some passengers reported having felt unwell, although none required medical attention in flight or on arrival back at Heathrow.
+The Air Conditioning System Malfunction
+It was noted that the 787 air conditioning and pressurisation system uses four electrically-driven centrifugal impellers, which are called ‘Cabin Air Compressors’ (CACs). Two CACs identified as L1 and L2 and two CACs identified as R1 and R2 provided compressed air to the left and right side of the cabin respectively. Left and right side air conditioning units can each function with only a single CAC per side operating. Each side also has a single recirculation fan.
+After the aircraft’s arrival in Heathrow after its previous flight, a Technical Log entry made by the off-going Captain in respect of a pressurisation system abnormal status message was investigated by engineering. Although they were unable to find a cause for the message, they did find that the L2 CAC shaft had failed and part of it was missing. After removing the inlet of the L1 CAC for comparison with the L2 CAC, they found that the missing material from the L2 CAC was in its inlet and had damaged its blades. With little time to go before the scheduled departure, the aircraft was released to service with the left AC system disabled, in accordance with the MEL.
+After the turnback of the Delhi-bound aircraft to Heathrow, a further examination of the system was monitored by the AAIB and it was found that the right-hand inner recirculation duct was disconnected from the lower right-hand recirculation fan and once the duct and fan had been removed, it was apparent that the coupling and seal joining the two had been incorrectly aligned when last assembled. It was deduced that this had then led to damage to the left L1 CAC.
+It was found that the right-hand side recirculation fan had been changed 11 days prior to the incident flight and that on the aircraft’s first flight following this intervention, the aircraft’s ground-based Aircraft Health Monitoring (AHM) system generated “Maintenance Alert Message 21-0209-C740”. This message indicated that a ‘high leakage/low inflow’ of the cabin pressurisation system had been detected. Engineering assessed this message and set up a work request to carry out a pressurisation leak check of the aircraft which was recorded in the aircraft electronic flight log with latest completion to be by 5 May 2017. During the 15 further flights prior to the incident flight, the same Maintenance Alert Message was generated by the AHM system but the work request latest completion date was not altered. It was noted that the engineer who worked on the air conditioning system prior to release to service for the incident flight was in possession of documentation that included all outstanding maintenance activity including the outstanding requirement for a pressurisation leak check by 5 May 2017. However, it was found that it “was not a requirement that engineers review this particular information as it was included for information purposes only”.
+In summary, it could therefore be concluded that the loss of cabin pressure in flight had been due to a number of interrelated factors impinging on the serviceability of the Environmental Control System (ECS):
+
+Incorrect fitment of the sleeve and coupling joining the replaced recirculation fan to the inner recirculation duct in the right air conditioning (AC) system which allowed a leak of cabin air.
+The failure of maintenance to identify that the continuing air leakage, which persisted as a consequence of this incorrect fitment of the sleeve on the right AC system, would affect the pressurisation system performance if the aircraft were flown with the left AC unit disabled.
+Fracture of a component (the tie-rod) within the L2 CAC of the left air conditioning system which was found to have resulted from a manufacturing quality control failure.
+Damage to the L1 CAC of the left AC system as a result of ingestion of part of the failed L2 CAC tie-rod and its nut which disabled the left AC system before the incident flight commenced.
+
+Other observations included:
+
+Whether further physical movement of the components of the incorrectly fitted right AC system fan/duct coupling had occurred during the incident flight after the right system was required to pressurise the aircraft on its own was not known.
+The incorrect work on the right AC system fan/duct coupling was partly a consequence of the inaccessibility of those components and the lack of tactile feel enabling an incorrectly assembled coupling to be easily identified.
+The fact that the AHM “Maintenance Alert Message 21-0209-C740” - which had been generated because of the incorrect installation of the replacement recirculation fan - did not result in any priority action appeared to have been influenced by the perception of a high frequency of data and messages received on the 787 AHM system.
+The manufacturing quality shortfall which led to the left AC system L2 CAC component failure was attributed to a batch problem and addressed as such.
+The potential for damage to the L1 CAC resulting from the ingestion of the failed part of the L2 CAC was not explicitly considered during the original system Fault Mode Effects Analysis (FMEA) carried out by the manufacturer although other system-level failures that could cause the loss of both CACs in one pack had been considered and accounted for at the design stage.
+The procedures for release of the aircraft to service prior to the incident flight were correctly followed but did not ensure that the operating system would continue to function with the normal level of reliability. Although the individual who authorised this release to service had access to information on the status of the right AC system, they were unaware of the incorrect fitment of the fan/duct coupling or its influence on the performance of the right hand pressurisation system.
+
+The Cabin Decompression Pre-Recorded Announcement (PRA)
+The fact that this announcement had been almost inaudible to most occupants was a matter of concern. The apparent lack of an PRA to accompany oxygen mask drop was noted to have “caused confusion amongst the cabin crew as to the exact nature of the situation” and had resulted in their initial response being “uncoordinated and ineffective, with the majority of the cabin crew reacting by returning their service carts to the galleys”. Fortunately, the relatively low cabin altitude exceedance to just over 10,400 feet had been only brief and “prompt flight crew action reduced the possibility of medical effects on cabin crew and passengers”. However, had the cabin altitude continued to climb, it was noted that “the effects of not donning oxygen masks would have been more serious”.
+It was noted that this PRA is intended to be output at a peak level equivalent to someone shouting and that if a cabin PA is made from the flight deck whilst a PRA is playing, the PRA is paused until the live PA has finished. However, it was found that after such a PRA resumption, the amplitude of the cabin PA system was reduced to a level just above normal conversation due to a software fault not previously appreciated.
+EAFR CVR Audio Recording Quality
+It was noted that a completed NTSB Investigation into a Boeing 787-8 event in 2013 had identified a number of deficiencies in the quality of the EAFR CVR audio recordings and concluded that “The poor audio recording quality of the enhanced airborne flight recorder could impede future aircraft investigations because the recorded conversations and other cockpit sounds might be obscured”. Because of this finding, the NTSB made a corresponding Safety Recommendation (A-14-126) to the FAA to “require Boeing to improve the quality of (1) the enhanced airborne flight recorder radio/hot microphone channels by using the maximum available dynamic range of the individual channels and (2) the cockpit area microphone airborne recordings by increasing the crew conversation signals over the ambient background noise”. It was noted that as of April 2018, this Safety Recommendation was still ‘OPEN’ and that the same replay speech quality issues were present when the EAFR replays relevant to the latest event were made. It was further noted that both the ATSB and the BEA France had also experienced the same issues during their investigations of Boeing 787 events.
+However, during the current Investigation, it was also found that there was a significant difference in the normal dynamic recording range when the flight crew were using oxygen mask rather than headset microphones and that replay was corrupted by interference in the form of intermittent extraneous noise. The current Investigation found that that this problem was caused by the combination of an attenuated sidetone signal introduced to solve an unrelated problem with the headset microphone signal and the oxygen mask microphone signal, the latter having a much higher amplitude. It was noted that Boeing “was aware of this during certification, but considered that it was acceptable”.
+Issues were also identified with the effectiveness of certification requirements for the Boeing 787 EAFC CVR system, both the certification of the EAFR itself, which was certified by its manufacturer as meeting the requirements of the corresponding Technical Standard Order (TSO) C123B and the certification of the CVR system as installed in an aircraft by the FAA under CFR Part 25 Subpart F 25.1457. The latter was also the subject of an NTSB Safety Recommendation (A-14-127) as a result of the same investigation referred to above in which the FAA was asked to “either remove the current exception to EUROCAE ED-112A, “Minimum Operational Performance Specification for Crash Protected Airborne Recording Systems” chapter I-6 in TSO 123B, “Cockpit Voice Recorder Equipment,” or provide installers and certifiers with specific guidance to determine whether a cockpit voice recorder installation would be acceptable”. The outstanding systemic issue as seen by Boeing was that the evaluation of installed CVR systems remains subjective given that that neither EAD-112 nor its successor EAD 112A provided any guidance on how to measure installed CVR performance objectively rather than subjectively.
+It was noted that there are a number of objective analysis techniques that can be applied to audio recordings ensure that a minimum standard of speech intelligibility is achieved for CVR replay. It was also noted that both ED112 and its successor ED-112A specify one such technique, a ‘Speech Transmission Index’ (STI) test, in which an acceptable result must be obtained before the certification of a CVR unit. However, under prevailing EASA regulations, this test was not also applicable to the performance of the CVR system when installed on an aircraft.
+The Investigation also identified a software problem related to the volume of the cabin decompression pre-recorded announcement (PRA) in the passenger cabin which is being addressed by the Operator’s safety action.
+The formally-documented Conclusions of the Investigation were presented in three subject areas as follows:
+1) Loss of cabin pressure
+The inability of the aircraft to maintain normal cabin pressure was found to have been caused by the right lower recirculation fan becoming detached from the inner duct, which allowed air from the AC unit to leak to atmosphere rather than provide the required cabin pressure on a sector where the left air conditioning system had been disabled before flight.
+When the aircraft was operated during the incident flight with only the right air conditioning system available, the system did not have sufficient capacity to overcome the effect of the leak. It was concluded that the lower right recirculation fan had not been correctly attached to the inner duct when the fan had been installed on 18 April 2017.
+2) Cabin Pre Recorded Announcement (PRA)
+The deployment of the oxygen masks in the cabin was accompanied by the cabin decompression PRA. However, the level of the PRA was reported as not being audible. The apparent lack of an accompanying PRA caused confusion amongst the cabin crew as to the exact nature of the situation and the initial response by the cabin crew was uncoordinated, with some passengers not donning their oxygen masks. The cause of the low volume of the PRA was subsequently identified as a software issue in the cabin audio system, whereby the volume of the announcement was attenuated following use of the cabin address system from the flight deck.
+3) CVR performance
+It has been found that digital ‘spikes’ evident in the crew channels, as identified by the NTSB during the readout of the EAFRs fitted to the 787-8 involved in the Boston post-flight fire in 2013, were introduced by the EAFR manufacturer’s ground replay software, IGS. This issue has now been resolved and the AAIB has communicated this to other accident investigation laboratories.
+The NTSB has previously identified other deficiencies in the quality of the CVR recordings on the Boeing 787 and issued Safety Recommendation A-14-126 to address these. The AAIB has in the current investigation now identified that ATC communications can be masked when the flight crew are using the oxygen masks, due to the disparity in the recorded dynamic range of the sidetone and oxygen mask signals.
+It is noted that testing of the installed performance of CVR systems is currently largely subjective and has led to variation in their performance.
+Three Safety Recommendations were made as a result of the Investigation as follows:
+
+that that Federal Aviation Administration require Boeing to modify the audio system fitted to the Boeing 787, so that sidetone signals recorded on the cockpit voice recorder crew channels are not masked when flight crew oxygen mask microphones are in use. [2018-008]
+that the European Aviation Safety Agency initiate a review to consider whether a repeatable and objective analysis technique can be applied to audio recordings to establish consistent installed performance of cockpit voice recorder systems. [2018-009]
+that the European Organization for Civil Aviation Equipment (EUROCAE) amend their document ‘Minimum Operational Performance Specification for Crash Protected Airborne Recorder Systems’ (currently ED-112A) to include a repeatable and objective analysis technique to establish consistent installed performance of cockpit voice recorder systems. [2018-010]
+
+Safety Action taken as a result of the investigated event was noted as having included the following:
+
+Boeing has:
+
+revised the AMM installation procedure for the two recirculation fans
+made changes to its Fault Isolation Manual (FIM) in respect of the appropriate response to AHM “Maintenance Alert Message 21-0209-C740” so that it now includes checking for recent maintenance activity on the cabin pressurisation system, including the recirculation fans
+made changes to the triggers for AHM ‘Maintenance Alert Message 21-0209-C740’ so that only alerts that are “deemed valid” are presented to aircraft operators.
+
+
+The Aircraft Operator has:
+
+revised its process for dealing with AHM “Maintenance Alert Message 21-0209-C740”
+advised that it is updating the audio system software fitted to its Boeing 787 fleet to prevent the volume of the cabin decompression PRA from being attenuated.
+
+
+The Manufacturer of the 787 In Flight Entertainment System (which was the source of the inaudible PRA announcement) has undertaken to provide a software update to correct the failure to provide PRA source audio levels at the value specified by the Cabin Audio System OEM, Thales.
+
+The Final Report of the Investigation was published on 12 July 2018.
+Related Articles
+
+Loss of Cabin Pressurisation
+Pressurisation Problems: Guidance for Flight Crews
+Cockpit Voice Recorder (CVR)
+Aircraft Oxygen Systems
+Crew Resource Management
+Aircraft Maintenance
+B788, Boston MA USA, 2013

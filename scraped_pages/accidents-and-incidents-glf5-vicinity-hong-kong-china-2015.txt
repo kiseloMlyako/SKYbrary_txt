@@ -1,0 +1,305 @@
+GLF5, vicinity Hong Kong China, 2015
+
+
+
+
+
+
+
+
+
+
+
+  GLF5, vicinity Hong Kong China, 2015
+
+
+
+
+
+
+
+
+
+Summary
+
+On 13 January 2015, a Gulfstream G550 approaching Hong Kong on a positioning flight suddenly began rapidly descending without clearance and came within 500 feet of the sea surface before a recovery triggered by an EGPWS ‘PULL UP’ Warning had been accomplished. The Investigation found that the excursion resulted from an inadvertent and unrecognised elevator trim switch input which caused the autopilot to disconnect and that initiation of a recovery was delayed by the continued failure of all three pilots on the flight deck to determine the control status of the aircraft and was hindered by their ineffective CRM.
+
+
+
+
+Event Details
+
+When
+
+13/01/2015
+
+
+
+Event Type
+
+
+CFIT,
+              HF
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+IMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+GULFSTREAM AEROSPACE Gulfstream 5
+
+
+
+
+
+
+
+
+
+Operator
+
+Hanergy Jet
+
+
+
+Flight Origin
+
+
+
+
+Beijing Capital International Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Hong Kong International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Descent
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+VHHH
+
+
+
+
+General
+
+Tag(s)
+
+
+              Extra flight crew (no training),
+              PIC less than 500 hours in Command on Type,
+              Copilot less than 500 hours on Type,
+              CVR overwritten
+          
+
+
+
+
+CFIT
+
+Tag(s)
+
+
+              Vertical navigation error
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Inappropriate crew response (automatics),
+              Ineffective Monitoring,
+              Ineffective Monitoring - PIC as PF
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Number of Non-occupant Fatalities
+
+0
+
+
+
+Number of Occupant Fatalities
+
+0
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 13 January 2015, a Gulfstream G550 (B-8256) being operated by Hanergy Jet, on a charter positioning flight from Beijing Capital to Hong Kong as HHG305 with only four crew members on board was being radar vectored towards an ILS approach to runway 07L in day IMC when it suddenly began to descend rapidly below its cleared altitude of 2,000 feet and a recovery was only commenced after an EGPWS ‘PULL UP’ Warning with the aircraft reaching less than 500 feet above the sea. A subsequent approach and landing was completed without further event. There was no damage to the aircraft or injuries to the occupants. After completion of the flight, the Captain made a defect entry in the aircraft Technical Log in respect of a “potential operational problem with the horizontal stabilisers”.
+Investigation
+After notification from ATC, a Serious Incident Investigation was carried out by the Accident Investigation Division of the Civil Aviation Department of the Government of the Hong Kong SAR. Recorded data relevant to the Investigation was recovered from the DFDR and QAR but relevant data on the 2-hour CVR was overwritten during the subsequent flight to Beijing.
+It was found that the 48 year-old Captain, who had been PF for the sector concerned, had a total of 13, 619 flying hours which included 283 hours on type. The 29 year-old First Officer had a total of 1,810 flying hours which included 143 hours on type. A 47 year-old Relief Captain was also included in the crew and was occupying the supernumerary crew seat in the flight deck. He had 14,400 hours total flying experience which included 508 hours on type. Both Captains had been released to fly the G550 in command after completing the conversion requirements in September 2012 and, after gaining a year’s experience on type, both had been further trained and qualified as Line Training Captains on the type in November 2013.
+DFDR data showed that at just over 9nm from touchdown whilst on a closing radar heading to the ILS approach to runway 07L and shortly after levelling at 2,000 feet QNH in accordance with its ATC clearance, the aircraft’s pitch reduced significantly and a descent from that altitude rapidly reached a rate of 3,800 fpm. At 1,583 feet agl, an EGPWS ‘SINK RATE’ Alert was annunciated but the descent continued and at 692 feet agl, an EGPWS PULL UP Warning occurred. The Captain stated at interview that he had found the control column “unusually heavy to pull” when seeking to arrest the sudden descent and added that both the First Officer and the Relief Captain had tried to assist, the latter by leaning forward and trying to help by pulling the control column on the left hand side as well as advancing the thrust levers. He stated that collectively, they “eventually managed to pull the control column sufficiently to regain control of the aircraft attitude”. DFDR data showed that the aircraft came to within 499 feet of the sea at about 7 nm from the intended landing runway and that just 48 seconds had elapsed from the point where the AP had been disengaged until the aircraft recovered to a positive rate of climb.
+Maintenance actions in response to the Captain’s post-flight Technical Log entry reporting a “potential operational problem with the horizontal stabilisers” which included functional checks of both the horizontal stabiliser and the elevator, did not identify any aircraft defect. The Investigation found no evidence that aircraft loading, meteorological circumstances or any other airworthiness issue had contributed to the excursion or the ability of the crew to recover from it and therefore continued by focusing on a review of the actions of the flight crew.
+It was noted that ‘normal’ (manual) or ‘abnormal’ (automatic or un-commanded) disengagement of the G550 AP is determined by “specific default conditions together with respective annunciations and aural alerts”. Pilot action to directly disengage the AP triggers both a 2½ second amber blinking annunciation of the AP annunciator on the PFD and a single low/high/low chime. An automatic disconnect triggers a red blinking annunciation on the PFD and a single low/high/low chime. The former must be cancelled by the flight crew using the AP quick disengagement switch on the control column.
+The G550 Pitch Trim System is conventionally configured and employs two mechanically actuated elevator trim tabs which can be manually or electrically controlled. Manual trim control is achieved by rotation of the elevator trim control wheels located on either side of the central pedestal and electrical trim control is achieved by use of the elevator trim switches on the outboard horn of each control column (see the illustration below) which control movement of the trim tabs through the elevator trim servo and bracket. These control column elevator trim switches are “dual/split-switches”, both halves of which must be moved in unison for a trim change signal to be generated. If they are held long enough for the pitch trim control limits (+21°or -7°), this will result in the annunciation of an Elevator Trim Up/down message.
+
+The outboard control column horn showing the central electric pitch trim control switch. [Reproduced from the Official Report]
+Since there was no DFDR record of an automatic AP disengagement during the excursion nor were any “AP Fail” and/or “Elevator Trim Fail” messages, an un-commanded electric trim input could be discounted. The most likely scenario was therefore that a manual input to the control column elevator trim switch led (as per system design) to a ‘normal’ AP disengagement and eventually triggered the “Elevator Trim Down Limit” message. DFDR data also allowed the elimination of full nose-down pitch trim having been commanded by the AP which left manual inputs as the only probable source.
+Nothing was found during the crew interviews or other findings to discount the likelihood that AP ‘normal’ disengagement and full nose-down pitch trim were caused by the Captain’s unintentional input to the control column elevator trim switch.Situational awareness of all three pilots thereafter appeared to have been materially deficient. In particular, there was no evidence to suggest that any of the pilots on the flight deck had appreciated that the abnormal pitch trim setting was the cause of the control problem. Both the First Officer and the Relief Captain “commented that the PF was not pulling the control wheel effective enough and seemed to be fixated on it with little response during the incident”. Had this not been the case, it was considered that it might have been possible to recover the situation with much less height loss.
+Three Causal Factors were formally documented as a result of the Investigation as follows:
+
+Trim Movement and Autopilot Disengagement. It is probable that during the critical phase of approach, inadvertent pilot input was applied to the elevator trim switch causing the AP to disengage and the pitch trim to move to full nose-down limit. The trim balance on the aircraft’s pitch was (thereby) upset leading to a nose-down pitch moment.
+Insufficient Situational Awareness. The pilots at the controls did not recognise the AP disengagement and pitch trim status through the flight control response or the Flight Control Synoptic display in a timely manner. Vital time was lost in comprehending the situation which resulted in an excessive rate of descent.
+Ineffective Crew Resource Management. Necessary recovery actions by the pilots were hindered due to ineffective CRM, which consequentially escalated the height loss situation.
+
+Two Safety Recommendations were made at the conclusion of the Investigation as follows:
+
+that Hanergy Jet should review and strengthen flight crew training on situational awareness, monitoring of aircraft status with particular emphasis on the AP and pitch trim systems, their effects on flight control, and avoidance of inadvertent input to any aircraft systems. [2017-1]
+that Hanergy Jet should review and enhance its CRM training to ensure more effective communications and coordination in the flight deck for the handling of abnormal situations. [2017-2]
+
+The Final Report was published on 21 June 2017.
+Related Articles
+
+Controlled Flight Into Terrain (CFIT)
+Cross-checking Process
+Crew Resource Management
+Terrain Avoidance and Warning System (TAWS)
+Situational Awareness

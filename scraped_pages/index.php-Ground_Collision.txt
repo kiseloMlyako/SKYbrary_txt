@@ -1,0 +1,212 @@
+Ground Collision
+
+
+
+
+
+
+
+
+
+
+
+  Ground Collision
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Ground Operations 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Ground Collision (GCOL) - a collision that occurs while an aircraft is taxiing to or from a runway in use.
+Source: ICAO
+Note: The definition includes collisions with an aircraft, person, ground vehicle, obstacle, building, structure, etc., but excludes ground collisions resulting from events categorized under Runway Excursion (RE), Wildlife Strike, or Ground Handling (RAMP). RAMP events are defined as occurrences during, or as a result of, ground handling operations.
+Description
+ICAO references GCOL an Occurrence Category, which are categories used to classify occurrences (i.e. accidents and incidents) at a high level to permit analysis of the data in support of safety solutions. It is important to note that ICAO categorizes pushback/powerback/towing events as RAMP events. Collisions that occur while an aircraft is moving under its own power in the gate, ramp or tiedown area (other than powerbacks) are coded as GCOL.
+The GCOL occurrence category is one of several categories – the others being abnormal runway contact (ARC), Bird Strike (BIRD), Runway Excursion (RE), Runway Incursion (RI), loss of control on the ground (LOC-G), collisions with obstacles (CTOL), and undershoot/overshoot (USOS) – that ICAO classifies as runway safety-related. Runway safety events have been identified by ICAO as one of three high-risk accident categories. The other high-risk categories are Loss of Control-Inflight (LOC-I) and Controlled Flight into Terrain (CFIT).
+EUROCONTROL’s Safety Improvement Sub-Group (SISG), in its “Operational Safety Study: Controller Detection of Potential Runway and Manoeuvring Area Conflicts,” defines ground collision as a distinct safety event in which an aircraft impacts (or is struck by) another aircraft, vehicle or object in the aerodrome’s manoeuvring area.
+Scenarios
+The SISG analysed 20 ground safety events comprising both RIs and ground collisions. Some events were accidents, some were incidents, and some yielded “lessons learned” relevant to mitigating the risks of both RIs and GCOLs. Below are are some examples of the areas and risk issues reviewed.
+GCOL-relevant research about departing/landing on a taxiway (not a runway) explored these risk issues:
+
+Landing/departing on a taxiway after a non-conformance with ATC clearance due to spatial/positional confusion; and,
+Landing/departing on a taxiway after non-conformance with ATC clearance due to a misinterpretation [of clearance] or [misheard] clearance.”
+
+GCOL–relevant research about incorrect aircraft movement on the aerodrome manoeuvring area explored these risk issues (any issues involving pushback/powerback would be considered RAMP):
+
+Aircraft takes taxi route with potential conflict after an incorrect ATC clearance;
+Aircraft enters on to manoeuvring area with potential conflict after an incorrect ATC clearance;
+Aircraft takes incorrect taxi route after a non-conformance with ATC clearance due to spatial/positional confusion;
+Aircraft incorrectly enters onto manoeuvring area after a non-conformance with ATC clearance due to spatial/positional confusion;
+Aircraft takes incorrect taxi route after non-conformance with ATC clearance due to a misinterpretation [of clearance] or [misheard] clearance
+Aircraft incorrectly enters onto manoeuvring area after non-conformance with ATC clearance due to a misinterpretation [of clearance] or [misheard] clearance;
+Aircraft takes incorrect taxi route due to poor [ crew resource management (CRM) ] or [forgotten] planned action; and,
+Aircraft incorrectly enters onto manoeuvring area runways without ATC clearance due to poor CRM or [forgotten] planned action.
+
+Contributory Factors
+The following are factors that may contribute to GCOL events:
+
+Failure of stakeholders to proactively ensure that aircraft are not involved in collisions with other aircraft when moving on the manoeuvring area, and that the jet engine exhaust gases from large aircraft do not create a threat for small aircraft;
+Failure to ensure safe parking and docking of aircraft;
+Failure to proactively mitigate the risk of impact damage to parked aircraft or to ensuring that a maintenance inspection — even for apparently minor impact — is conducted prior to any further flight operations;
+Failure to provide adequate signage, markings and lighting that enable aircraft flight crews to comply with taxy clearances; and,
+Failure to train — at a level of quality consistent with aviation professionals — the various types of unlicensed contractors and subcontractors who conduct and supervise aircraft ground-handling tasks on the manoeuvring area and/or in the vicinity of an aircraft parking stand or gate.
+
+Defences and Solutions
+The following ATC safety barriers — when deployed and employed correctly — are effective in “alerting ATC to a runway incursion or a ground safety event in sufficient time for ATC to act in order to prevent a ground collision" (SISG):
+
+Direct visual detection of conflict on the manoeuvring area,
+Indirect detection using remote camera displays,
+Detection following a pilot/vehicle driver report,
+Detection using basic surface-movement radar,
+Detection using an advanced surface movement guidance and control system (A-SMGCS Level 1) or based on an alert from A-SMGCS Level 2; and,
+Detection after an alert from an Integrated Tower Working Position (ITWP) or from aerodrome infrastructure that detects aircraft entry onto the runway (e.g., magnetic loops or lasers);
+
+The SISG credited three safety barriers as those most often stopping a developing ground collision: conflict resolution by an air traffic controller alerted by a pilot or vehicle driver (especially when vehicles display high-visibility flashing/strobing lights in all visibility conditions), the controller’s own “belated (last-minute)” visual detection of a conflict, and the pilot’s “belated (last-minute)” visual detection of a conflict. Effective risk mitigation during taxi operations depends on aircraft commanders exercising their full responsibility for safety during this phase of flight.
+Assuming that ATC maintains situational awareness and issues a correct taxi clearance — and the aircraft flight crew complies with clearances or standard routings — the highest risk of wing tip collision occurs when multiple aircraft are holding or taxiing in the manoeuvring area (e.g., near a runway entry point, changing the queuing order (especially at night) or moving without benefit of visible taxiway centrelines; Flight crews of swept-wing aircraft must stay alert to the physical clearance during a turn in which the wing tip describes an arc greater than the normal wingspan due to the geometry of the aircraft and the arrangement of the landing gear.
+Air traffic controllers should be attentive and proactive in providing progressive taxi instructions if flight crews seem unfamiliar with the aerodrome manoeuvring area or have difficulty because of a particularly unintuitive procedure or a temporarily complex layout (e.g., taxiways closed due to construction work or recently changed taxiway diagram or signage).
+Accidents & Incidents
+Aircraft–Aircraft
+
+
+B752, Keflavik Iceland, 2019On 28 October 2019, a Boeing 757-200 bound for Keflavik after an overnight flight was advised that a previously-landed aircraft had partially overrun the end of the only available 3,054 metre-long runway which was therefore closed. With the other runway also not available and braking action at alternate Reykjavik unavailable, the absence of other diversion options with the fuel remaining obliged the flight to commit to landing on the closed runway which was only obstructed at its far end. ATC required an emergency declaration and then gave a ‘land at pilot’s discretion’ clearance and an uneventful landing followed.
+
+B773 / B752, London Heathrow UK, 2022On 28 September 2022, a Boeing 777-300 taxiing for departure at London Heathrow collided with an arriving Boeing 757, which had turned onto its assigned gate prior to the stand entry guidance system being available without informing ATC. The 757 was taxiing as cleared, following the illuminated taxiway centreline lighting. The airport AIP entry stated that in the absence of stand entry guidance, aircraft must remain on the taxiway centreline. The Investigation noted that lack of stand entry guidance is a common occurrence at this airport and needs to be addressed by all those involved.
+
+B763 / B737, Tel Aviv Israel, 2018On 28 March 2018, a Boeing 767-300 and a Boeing 737-700 were being simultaneously pushed back in darkness from adjacent parking positions as cleared. Their respective tailplanes collided, causing substantial damage. The investigation found that the 737 clearance conflicted with both a previously issued clearance to the 767 and with the actual location of the 737. It also found that the controller’s error had been compounded because the wing walkers tasked with monitoring both pushbacks were in the drivers’ cabs because it was raining. A context of systemic ramp operations inadequacy was identified as contributory.
+
+B789 / B744, Amsterdam Netherlands, 2019On 13 February 2019, a Boeing 787 departing Amsterdam was given a non-standard long pushback by ATC in order to facilitate the use of its stand by an incoming flight and when a Boeing 747 was subsequently given a normal pushback by a single tug driver working alone who was unaware of the abnormal position of the 787 and could not see it before or during his pushback, a collision followed. The Investigation concluded that the relevant airport safety management systems were systemically deficient and noted that this had only been partially rectified in the three years since the accident.
+
+A20N / A320, Amsterdam Netherlands, 2019On 3 February 2019, two aircraft which had just landed on adjacent parallel runways almost collided during their taxi in after one failed to give way to the other at an intersection as instructed, causing the other to perform an emergency stop which was achieved just in time to avoid a collision. Whilst not attributing direct cause to other than the crew of the aircraft which continued high speed taxiing as the intersection was approached, having noted that all taxiway lighting at Amsterdam is permanently lit at night, a range of factors were identified which had facilitated the error made.
+
+
+...further results
+
+
+Aircraft–Object/Vehicle
+
+
+B752, Keflavik Iceland, 2019On 28 October 2019, a Boeing 757-200 bound for Keflavik after an overnight flight was advised that a previously-landed aircraft had partially overrun the end of the only available 3,054 metre-long runway which was therefore closed. With the other runway also not available and braking action at alternate Reykjavik unavailable, the absence of other diversion options with the fuel remaining obliged the flight to commit to landing on the closed runway which was only obstructed at its far end. ATC required an emergency declaration and then gave a ‘land at pilot’s discretion’ clearance and an uneventful landing followed.
+
+B734, East Midlands UK, 2021On 16 June 2021, a Boeing 737-400 was taxiing for departure at night after push back from stand when the ground crew who completed the push back arrived back at their base in the tug and realised that the tow bar they had used was not attached to it. The aircraft was prevented from taking off and it was then found that it had taxied over the unseen towbar and sustained damage to both nose gear tyres such that replacement was necessary. The Investigation concluded neither ground crew had checked that the area immediately ahead of the aircraft was clear.
+
+B738 / Vehicle, Palma Spain, 2020On 19 July 2020, a Boeing 737-800 was instructed to reject its night takeoff on runway 24R at Palma after the driver of an airport vehicle already on the same runway in accordance with its own clearance heard the takeoff clearance being issued to the 737 and advised the controller of his position. The Investigation found that the TWR controller involved had not adhered to relevant procedures set out in the applicable Operating Manual and the provisions of the Air Traffic Regulation in regard to the use of phraseology, active listening and surveillance of the airport manoeuvring area.
+
+B738 / B738 / B752, Birmingham UK, 2020On 8 September 2020, an airport maintenance team driving at night on the centreline of the active runway at Birmingham were unaware that an inadequately secured 2 metre-long ladder had fallen from their pickup truck. Three aircraft then landed in the following half hour narrowly missing the ladder before it was discovered and the runway closed. The Investigation found that a more suitable alternative vehicle was available and that the completely inadequate method used to secure the ladder in their vehicle had failed to restrain it when the vehicle accelerated after passing the aiming point markings in the touchdown zone.
+
+B789, Oslo Norway, 2018On 18 December 2018, a Boeing 787-9 was instructed to taxi to a specified remote de-icing platform for de-icing prior to takeoff from Oslo. The aircraft collided with a lighting mast on the de-icing platform causing significant damage to both aircraft and mast. The Investigation found that in the absence of any published information about restricted aircraft use of particular de-icing platforms and any markings, lights, signage or other technical barriers to indicate to the crew that they had been assigned an incorrect platform, they had visually assessed the clearance as adequate. Relevant Safety Recommendations were made.
+
+
+...further results
+
+
+Related Articles
+
+Ground Operations
+Occurrence Category Taxonomy
+Wing Tip Clearance Hazard
+Advanced Surface Movement Guidance and Control System (A-SMGCS)
+Surface Movement Radar
+Controller Detection of Manoeuvring Area Conflicts
+Controller Detection of Manoeuvring Area Conflicts – Safety Barriers
+Controller Detection of Manoeuvring Area Conflicts – Guidance for Controllers
+
+Further Reading
+
+Operational Safety Study: Controller Detection of Potential Runway and Manoeuvring Area Conflicts Edition 1.0, by EUROCONTROL Safety Improvement Sub-Group, 1 December 2015.
+Runway Safety Program - Global Runway Safety Action Plan, by International Civil Aviation Organization (ICAO), First Edition, November 2017
+Ground Accident Prevention (GAP) Program by Flight Safety Foundation, 2003.
+Airside Safety Handbook by Airports Council International, 4th edition, 2010.
+Aircraft Ground Handling and Human Factors: A Comparative Study of the Perceptions by Ramp Staff and Management by NLR Air Transport Safety Institute, NLR-CR-2010-125, 2010.
+Ground Vehicle Operations to Include Taxiing or Towing an Aircraft on Airports, Advisory Circular (AC) 150/5210-20A, U.S. Federal Aviation Administration (FAA), 1 September 2015.
+Operational Safety on Airports During Construction, AC 150/5370-2G, by FAA, 13 December 2017.
+ISAGO Standards Manual, 7th Edition, by International Air Transport Association (IATA), IATA Safety Audit for Ground Operators (ISAGO), February 2018.
+"What’s on Your Runway? — NOTAMs enhanced with airport diagrams help pilots mitigate risks during U.S. runway/taxiway construction." by Wayne Rosenkrans, Flight Safety Foundation AeroSafety World, July 2012.
+
+
+
+
+
+Categories
+
+
+Ground Operations
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

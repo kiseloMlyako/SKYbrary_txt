@@ -1,0 +1,198 @@
+Regulation 1207/2011 Requirements for the performance and the interoperability of surveillance for the SES
+
+
+
+
+
+
+
+
+
+
+
+  Regulation 1207/2011 Requirements for the performance and the interoperability of surveillance for the SES
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Single European Sky 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Note: This Regulation was repealed by Regulation 2023/1770 and is no longer in force.
+Commission Implementing Regulation (EU) No (EU) No 1207/2011 of 22 November 2011 laying down requirements for the performance and the interoperability of surveillance for the single European sky - text published in the Official Journal of the European Union
+Subject Matter and Scope
+This Implementing Regulation,adopted by the European Commission, lays down requirements on the systems contributing to the provision of surveillance data, their constituents and associated procedures in order to ensure the harmonisation of performance, the interoperability and the efficiency of these systems within the European air traffic management network (EATMN) and for the purpose of civil- military coordination.
+The Regulation applies to the surveillance chain consisting of:
+
+airborne surveillance systems, their constituents and associated procedures;
+ground-based surveillance systems, their constituents and associated procedures;
+surveillance data processing systems, their constituents and associated procedures;
+ground-to-ground communications systems used for distribution of surveillance data, their constituents and associated procedures.
+
+This Regulation also establishes requirements for the carriage and operation of specified airborne surveillance equipment, and the dates by which qualifying aircraft must be equipped by.
+Summary
+The key objective of the EC IR No 1207/2011 is to establish performance, interoprability, spectrum protection and safety requirements for surveillance and implement all necessary facilitating procedures.
+In addition to a range of performance and interoprability requirements to be fulfilled by the ANSPs, the Regulation requires aircraft operators to ensure that all aircraft operating IFR/GAT in Europe comply with the applicable Mode S Elementary Surveillance (ELS) requirements. The applicability dates for this requirement are notified as:
+
+8th January 2015 for “new” aircraft;
+7th December 2017 for retrofit.
+
+Aircraft with a certificated take-off mass greater than 5,700 kg and/or with a maximum true air cruising speed greater than 250 knots are required to be compliant with Mode S Enhanced Surveillance (EHS) and, through the carriage and operation of an extended squitter transponder, with Automatic Dependent Surveillance Broadcast (ADS-B) Out requirements in support of ground and airborne surveillance applications. The applicability dates for these requirements are notified as:
+
+8th January 2015 for “new” aircraft;
+7th December 2017 for retrofit.
+
+Local mandates to extend the ADS-B Out carriage to all IFR/GAT in areas where ADS-B is used for surveillance are permitted.
+In establishing these requirements the Regulation also ensures that airborne installations are “future proof”, i.e. they will be able to support all surveillance techniques currently used or planned for use.
+The Regulation introduces a mandatory requirement for safety assessment of existing surveillance systems, except for the airborne surveillance systems. Any changes to existing systems or implementation of new systems must be preceded by a safety assessment, including hazard identification, risk assessment and mitigation.
+With regard to the airborne surveillance systems, certification processes complying with Regulation (EC) No 216/2008 shall be considered as acceptable procedures for the conformity assessment of constituents and verification of systems if they include the demonstration of compliance with the applicable interoperability, performance and safety requirements of this Regulation.
+Amendment
+This Regulation was amended by Regulation 1028/2014 of 26 September 2014. This amendment was intended to provide the operators with sufficient additional time to equip new aircraft with ADS-B ‘Out’ and Mode S Enhanced Surveillance (EHS) capability.
+This Regulation was amended by Regulation 2017/386 of 6 March 2017. This amendment gave operators additional time to comply with the equipment requirements. The new applicability date for operators to comply with the transponder requirements was set to 07.06.2020. This date was also applicabe to State aircraft.
+This Regulation was amended by Regulation 2020/587 of 29 April 2020. The most notable changes were:
+The requirement to ANSPs to inform the operator in case of observed deviation from the performance requirements and for the operator follow-up actions is removed.
+The transponder equippage requirements are updated by:
+
+extending the deadline to 7 December 2020 (instead of 7 June 2020). This applies to both civil and State aircraft.
+extending the scope of the requirements to include aircraft with an individual certificate of airworthiness first issued on or after 7 June 1995 (instead of before 8 January 2015).
+requirements to aircraft with an MTOM exceeding 5 700 kg or with a TAS greater than 250 knots will not apply if:
+
+they are being flown to undergo maintenance;
+they are being flown for export;
+their operations will be ceased by 31 October 2025.
+
+
+a provision is added that operators of aircraft with a first certificate of airworthiness issued before 7 December 2020 are to comply with the equippage requirements by 7 June 2023 if they have established an approprate retrofit programme and have not benefitted from any Union funding for this purpose.
+a provision is added that aircraft with temporarily inoperative transponders, may be operated in the SES airspace for a maximum of 3 consecutive days. This also applies to State aircraft.
+changing the provision for compliance with ICAO Annex 10 by requiring compliance with Volume IV, including all amendments up to No 77 (instead of up to 85, which was considered to impose an undue economic burden).
+
+The provision allowing Member states to impose ADS-B carriage requirements is removed.
+The provision that the equipment is to be checked at least every two years is removed.
+The assignment of 24-bit ICAO addresses by Member States is to comply with Annex 10, Volume III including all amendments up to No 90 (was previously up to No 85).
+The aircraft exemption provisions was removed.
+A provision was added that for non-equipped State aircraft the indicators SUR/EUADSBX or SUR/EUEHSX or SUR/EUELSX (or an appropriate combination of those) is to be included in Item 18 of the flight plan.
+Annex II (transponder capability requirements) was amended by:
+
+changing the provision for compliance with ICAO Annex 10 by requiring compliance with Volume IV, including all amendments up to No 77 (instead of up to 85, which was considered to impose an undue economic burden).
+the continuity requirements for transponders supporting Mode S and ADS-B were removed.
+
+Annex IV (requirements for formal arrangements between ANSPs) was amended by:
+
+removing the requirement to include the communications means used to exchange the surveillance data.
+removing the requirement to include quality requirements for the surveillance data.
+consolidating (summarizing) the requirement to include the agreed service levels.
+
+A consolidated version of the Regulation can be found here. It includes amendments by Regulation 1028/2014, Regulation 2017/386 and Regulation 2020/587.
+Entry into Force
+The Regulation took effect in December 2011. Article 4, Article 5(1) and (2) and Article 7(1) - (all listed below) apply with effect from 13 December 2013.
+Article 4
+'Performance requirements
+
+Air navigation service providers shall ensure seamless operations within the airspace under their responsibility and at the boundary with adjacent airspaces by applying appropriate minimum requirements for the separation of aircraft.
+Air navigation service providers shall ensure that systems referred to in points (b), (c) and (d) of Article 2(1) are deployed as necessary to support the minimum requirements for the separation of aircraft applied in accordance with paragraph 1.
+Air navigation service providers shall ensure that the output of the surveillance chain referred to in Article 2(1) complies with the performance requirements set out in Annex I provided that the airborne constituent functions used are compliant with the requirements set out in Annex II.
+If an air navigation service provider identifies an aircraft whose avionics exhibit a functional anomaly, he shall inform the operator of the flight of the deviation from the performance requirements. The operator shall investigate the matter before the next flight is initiated and any rectification necessary shall be introduced in line with normal maintenance and corrective procedures for the aircraft and its avionics.
+
+Article 5 Interoperability requirements
+
+Air navigation service providers shall ensure that all surveillance data transferred from their systems identified in points (b) and (c) of Article 2(1) to other navigation service providers complies with the requirements set out in Annex III.
+Air navigation service providers when transferring surveillance data from their systems identified in points (b) and (c) of Article 2(1) to other air navigation service providers, shall establish formal arrangements with them for the exchange of the data in accordance with the requirements set out in Annex IV.
+
+Article 7 Associated procedures'
+
+Air navigation service providers shall assess the level of performance of ground based surveillance chain before putting them into service as well as regularly during the service, in accordance with the requirements set out in Annex V.
+
+Note: This Regulation was repealed by Regulation 2023/1770 and is no longer in force.Commission Implementing Regulation (EU) No (EU) No 1207/2011 of 22 November 2011 laying down requirements for the performance and the interoperability of surveillance for the single European sky (OJ, 23.11.2011)
+Further Reading
+European Commission
+
+EUR-Lex Portal: Regulation 1207/2011 (available in different languages and file formats)
+Air Transport Portal of the European Commission - Single European Sky
+
+
+
+
+
+Categories
+
+
+Single European Sky,
+              SES Implementing Rules
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

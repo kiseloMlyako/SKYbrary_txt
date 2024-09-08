@@ -1,0 +1,222 @@
+Muscle Tension
+
+
+
+
+
+
+
+
+
+
+
+  Muscle Tension
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+It is generally accepted that muscle tension varies in response to mental strain in certain muscles. Muscle tension can be measured using surface electrodes, which detect the discharge of individual muscle fibres.
+Discussion/References
+References to the use of the method in ATC or similar situations.
+As far as we can discover, no systematic attempts have been made to use muscle tension to evaluate strain on controllers.
+
+
+
+
+Categories
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+Generics
+
+
+Type of method
+Electro-physiology
+
+
+Target of method
+Strain
+
+
+Electrophysiological measures inherently measure the state of the controllers’ physical processes, without regard to the ‘objective’ workload, and in consequence measure ‘Strain’.
+
+
+Time Scale of method
+Minutes
+
+
+Muscle Tension shows up in response to present, or sometimes anticipated stress.
+
+
+Portability of method
+No
+
+
+Electromyography (EMG) measures require attaching the controller to a trolley of recording equipment. Although R/T or Infra-red free-movement systems are available, they suffer from transmission problems in simulator or control room environments.
+
+
+Observer Effect
+No
+
+
+Electrophysiological methods in general are not usually subject to observer effects.
+
+
+Context of studies
+
+
+Laboratory studies
+Avoid
+
+
+ 
+
+
+Simulation studies
+Avoid
+
+
+ 
+
+
+Field studies
+Avoid
+
+
+ 
+
+
+Potential problems with the method
+
+
+Failure risk
+High
+
+
+Any system involving skin electrodes may fail if the electrodes become detached. In addition, some individuals are more or less affected physiologically by ‘mental’ strain, and some show no measurable variations in muscle tension.
+
+
+Muscle tension may be affected by physical movements of the controller. In principle, a muscle should be selected that has no part in normal physical activity related to the task, but in practice, it is difficult to find one.
+
+
+Ethical problems
+Medical
+
+
+It is made clear, before any simulation that information on the performance or physical state of individual controllers will not be disclosed or quoted in any identifiable form.
+
+
+Costs of the method
+
+
+Staff Cost
+High
+
+
+Electrophysiological methods usually need at least one post-doctoral level supervisor, plus one skilled technician per controller observed.
+
+
+Set-up Cost
+Moderate
+
+
+All medical equipment is inclined to be expensive.
+
+
+Running Cost
+High
+
+
+Electrophysiological measures require the fitting of electrodes for each run. This is a time consuming business.
+
+
+Analysis Cost
+High
+
+
+The software for the analysis of muscle tension is not highly developed. It will usually be necessary to examine EMG traces, either conventional chart recordings or digitally cumulated values, “by hand” for each exercise.
+
+
+Analysis data
+
+
+Analysis Speed
+Slow
+
+
+The necessity of manual examination makes the analysis relatively slow.
+
+
+Data Automation
+Used
+
+
+Muscle tension data is collected using automatic recording systems.
+
+
+Analysis Automation
+Used
+
+
+Most data analysis is more or less automatised in the current circumstances. However, the use of muscle tension as an indicator for strain at present requires a certain subjective element, which slows down the overall process.
+
+
+Status
+Dubious
+
+
+Dubious - currently rejected.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,240 @@
+Operation Type Taxonomy
+
+
+
+
+
+
+
+
+
+
+
+  Operation Type Taxonomy
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+ICAO ADREP 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ ICAO
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ ICAO
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+The ADREP operation type taxonomy is a set of terms used by ICAO to categorize an occurrence by the type of flight which was conducted and to allow safety trend analysis on these categories. The ADREP operation type taxonomy is part of the ICAO accident data reporting system (ADREP).
+Terms
+Commercial Air Transport (CAT)
+Scheduled Commercial Air Transport (SCAT)
+Air services:
+
+involving the transport of passengers, cargo or mail for remuneration or hire, and
+open to use by the general public, and
+operated according to a published timetable or with such a regular frequency that it constitutes an easily recognizable systematic series of flights which are open to direct booking by members of the public.
+
+Detailed options available for scheduled commercial air transport are:
+
+SCAT-IP: International Passengers
+SCAT-DP: Domestic Passengers
+SCAT-IC: International Cargo
+SCAT-DC: Domestic Cargo
+
+Non-Scheduled Commercial Air Transport (SCAT)
+Charter flights and special flights performed for remuneration other than scheduled commercial flights.
+Detailed options available for non-scheduled commercial air transport are:
+
+NSCAT-IP: International Passengers
+NSCAT-DP: Domestic Passengers
+NSCAT-IC: International Cargo
+NSCAT-DC: Domestic Cargo
+
+Other Commercial Air Transport (CAT-O)
+Any other commercial air transport flights like air taxi, emergency medial services, ferry/positioning flights etc.
+Non Commercial Air Transport
+General aviation (GA)
+All civil aviation operations other than scheduled air services and non-scheduled air transport operations for remuneration or hire or aerial work.
+Aerial work (AW)
+An aircraft operation in which an aircraft is used commercially or non commercially for specialized services such as agriculture, construction, photography, surveying, observation and patrol, search and rescue, aerial advertisement, etc.
+State flight (SF)
+An aircraft operation in which an aircraft is used for military, customs, police or other state internal services.
+ECCAIRS Mapping
+The above terms are an exact subset of the ECCAIRS Operation Type taxonomy. The mapping is as defined below. When reporting to ICAO, using the specific operations submitted through the free text field, mapping may be performed to a lower level term in ECCAIRS.
+
+Mapping into ECCAIRS
+
+
+ADREP Code
+ECCAIRS field Name
+ECCAIRS Field ID
+
+
+
+
+CAT
+Commercial Air Transport
+1000000
+
+
+SCAT
+Scheduled air service
+1010000
+
+
+SCAT-IP
+Scheduled international passenger flight
+1010101
+
+
+SCAT-DP
+scheduled domestic passenger
+1010201
+
+
+SCAT-IC
+scheduled international cargo flight
+1010102
+
+
+SCAT-DC
+scheduled domestic cargo
+1010202
+
+
+NSCAT
+non scheduled revenue operations
+1020000
+
+
+NSCAT-IP
+non scheduled international passenger flight
+1010101
+
+
+NSCAT-DP
+non scheduled domestic passenger
+1010201
+
+
+NSCAT-IC
+non scheduled international cargo flight
+1010102
+
+
+NSCAT-DC
+non scheduled domestic cargo
+1010202
+
+
+CAT-O
+Other commercial air transport
+1040000
+
+
+GA
+General Aviation
+2000000
+
+
+AW
+Aerial Work
+3000000
+
+
+SF
+State flights
+4000000
+
+
+
+Rules
+
+Only one operation type allowed per aircraft
+
+ 
+Further Reading
+
+ECCAIRS 4.2.8 - Aviation operations, 17 September 2010
+
+
+
+
+
+Categories
+
+
+ICAO ADREP
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

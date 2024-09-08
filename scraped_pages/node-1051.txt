@@ -1,0 +1,229 @@
+Level Bust
+
+
+
+
+
+
+
+
+
+
+
+  Level Bust
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Level Bust 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Level Bust is defined as any unauthorised vertical deviation of more than 300 feet from an ATC flight clearance.
+Within Reduced Vertical Separation Minima (RVSM) airspace this limit is reduced to 200 feet. (EUROCONTROL - HEIDI)
+Definitions applied by other organisations are similar but sometimes refer to a deviation of 300 feet or more.
+The level bust issue only relates to aircraft in controlled airspace or a designated ATZ outside controlled airspace and under either radar or procedural ATC control.
+Description
+A Level Bust or Altitude Deviation occurs when an aircraft fails to fly at the level to which it has been cleared, regardless of whether actual loss of separation from other aircraft or the ground results.
+A Level Bust can result in Loss of Separation between aircraft or between an aircraft and the terrain or a ground obstruction such as a mast, potentially leading to Controlled Flight Into Terrain CFIT. 
+Level busts are becoming less dangerous because improvements in technology such as better Short Term Conflict Alert (STCA) and Mode S have improved the ability of controllers to safely manage any consequent loss of separation. Furthermore, the availability and proper use of  Airborne Collision Avoidance Systems (ACAS) provides a final safety net which significantly reduces the risk of a Mid-Air Collision, and Terrain Avoidance and Warning Systems (TAWS) have also reduced the risk of a level bust resulting in a CFIT accident.
+The move to Flexible Use Airspace (FUA), the absence of ACAS on many military aircraft and the high performance of many military jet aircraft, means that the consequences of level busts involving military aircraft are more difficult to manage.
+A potential loss of separation resulting from the air traffic controller (ATCO) assigning an inappropriate altitude or flight level in a flight clearance does not constitute a level bust because no deviation from the flight clearance occurs; however for completeness, examples of situations in which the action of the ATCO could contribute to a level bust are listed in this article.
+Types of Level Bust
+The following types exclude involuntary transient departure from acquired levels attributable to the effects of turbulence:
+
+aircraft both accepts a clearance and sets/records it correctly but then does not follow it [flight management error (usual) or technical fault (rarely)]
+aircraft accepts a clearance correctly but then sets it incorrectly without the error being picked up by the crew [flight management error]
+aircraft reads back clearance incorrectly and this error is not picked up by ATC so it is then recorded/set and followed [ATC error]
+
+
+
+aircraft is unable to react fast enough to a late reclearance and passes through new cleared level [ATC error]. See the scenarios in the separate article Level Bust - ATCO Induced Situations.
+aircraft follows clearance with the wrong altimeter sub scale setting
+
+
+
+aircraft departs cleared flight level without clearance to do so.
+
+
+
+aircraft accepts a level clearance intended for another aircraft (call-sign confusion).
+
+Threats
+
+Loss of separation from other aircraft, which may result in collision.
+Collision with an obstacle or the ground (CFIT), especially as a result of having the wrong altimeter sub-scale setting. This can happen when an aircraft descends in a low pressure area with standard pressure (1013) set.
+Injury, especially to cabin crew or passengers, occasioned by violent manoeuvres to avoid collision with other aircraft or the ground.
+
+Mitigations
+
+Standard Operating Procedures (SOPs), both on the flight deck and in the ATCU, which detail procedures to be followed to reduce the chance of level bust.
+
+Flight deck routines on multicrew aircraft should include rigorous procedures for cross-checking/confirming cleared altitude, readback, and altitude set on FMS by the monitoring crew members, and include callouts, such as "1000 feet to go" and "approaching level".
+
+
+Onboard aircraft equipment designed to warn of potential collision with other aircraft (ACAS/TCAS) or with the ground (GPWS or EGPWS).
+Ground-based equipment designed to warn of potential collision with other aircraft, such as STCA, or provide more information on intentions of the aircraft (e.g. Mode S)
+
+Contributory Factors
+Factors which contribute to the risk of a level bust occurring:
+
+Only one pilot/crew member on the ATC frequency;
+ATCO work-load;
+Interruption/distraction;
+Holding Patterns;
+Airspace Procedure/Design;
+Pilot Workload;
+Low atmospheric pressure setting;
+Expectation of a particular level;
+Deviation from SOPs.
+
+Factors which increase the risk of collision following a level bust:
+
+Volume of traffic.
+High Rates of Climb or Descent;
+
+Accidents and Incidents
+A list of all LB-related accidents and incidents on SkyBrary can be found here.
+Solutions
+
+Avoiding Level Busts
+
+a focus by both flight crew and ATCOs on effective Air-Ground Communication especially in terms of radio discipline and the particular importance of the Cross-checking Process and the read-back/hear-back process. For flight crew, the overall principles of effective Crew Resource Management (CRM) are particularly relevant as is the rigourous application of SOPs related to altimeter subscale setting and to the receipt and pre-selection of altitude re-clearances. For ATCOs, the principles of Team resource management are important.
+
+
+Mitigating the consequences of Level Busts is achieved by maximising the effective use of both flight crew and ATM Safety Nets.
+
+For Flight crew, Situational Awareness in respect to other traffic in the vicinity can be enhanced by passive monitoring of other aircraft on the COM frequency in use and by passive monitoring of the TCAS display and active monitoring of it if a TCAS TA or preventive TCAS RA occurs. If a corrective TCAS RA occurs then, it is essential that it is actioned as required, that ATC are advised of any deviation from clearance as soon as practicable and that any deviation is limited to the requirements of the RA.
+For ATCOs, Situational Awareness can be enhanced by actively assessing the most critical separation margins implied by the clearances given and by maximising the use of Mode S data if displayed. These actions may allow a likely level bust to be identified. If one or more TCAS RAs occur then a constant awareness of the general disposition of traffic may enable ATCOs to prevent secondary effects of RA deviation(s) following a level bust.
+
+
+
+SKYclip
+
+
+
+
+
+
+
+
+
+
+
+ Read more
+
+
+
+
+Level busts (SKYclip)
+
+
+
+
+
+
+
+
+
+
+Further Reading
+EUROCONTROL
+
+TCAS mitigation of risk of collision resulting from a level bust, a HINDSIGHT 10 article
+
+EUROCONTROL has produced a wide range of valuable material raising awareness of, and addresssing the causes of, the Level Bust issue, including Safety Letters, an important series of briefing notes (also part of the Level Bust Toolkit), a number of articles in HindSight - EUROCONTROL, an Action Plan, Posters and more. For a complete list of material available on the SKYbrary Bookshelf, see the article Level Bust Products.
+Airbus Briefing Notes
+
+Airbus Supplementary Briefing Note - Preventing Altitude Deviations and Level Busts;
+
+UKCAA
+
+CAP 710 - On the Level;
+
+
+
+
+
+Categories
+
+
+Level Bust
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,420 @@
+A333, vicinity Brisbane Australia, 2018
+
+
+
+
+
+
+
+
+
+
+
+  A333, vicinity Brisbane Australia, 2018
+
+
+
+
+
+
+
+
+
+Summary
+
+On 18 July 2018, an Airbus A330-300 failed to reject its night takeoff from Brisbane despite the absence of any airspeed indication for either pilot. A PAN call was made as a climb to FL110 continued. Once there, preparations for a somewhat challenging return were made and subsequently achieved. The Investigation noted multiple missed opportunities, including non-compliance with several procedural requirements, to detect that all pitot mast covers had remained in place and was extremely concerned that the takeoff had been continued rather than rejected. Flawed aircraft operator ground handling procedures and ineffective oversight of contractors were also deemed contributory.
+
+
+
+
+Event Details
+
+When
+
+18/07/2018
+
+
+
+Event Type
+
+
+GND,
+              HF,
+              LOC
+
+
+
+
+Day/Night
+
+Night
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS A-330-300
+
+
+
+
+
+
+
+
+
+Operator
+
+Malaysian Airlines
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Brisbane Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Kuala Lumpur International Airport
+
+
+
+
+
+
+
+Actual Destination
+
+
+
+
+Brisbane Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Take Off
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+YBBN
+
+
+
+
+General
+
+Tag(s)
+
+
+              Air Turnback,
+              Inadequate Aircraft Operator Procedures
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Flight Crew Visual Inspection,
+              Inappropriate crew response - skills deficiency,
+              Inappropriate crew response (technical fault),
+              Plan Continuation Bias,
+              Procedural non compliance,
+              Stress
+          
+
+
+
+
+GND
+
+Tag(s)
+
+
+              Ramp crew procedures
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Degraded flight instrument display,
+              Flight Management Error
+          
+
+
+
+
+EPR
+
+Tag(s)
+
+
+              PAN declaration
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Aircraft damage
+
+Minor
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 18 July 2018, an Airbus A330-300 (9M-MTK) being operated by Malaysia Airlines on a scheduled international passenger flight from Brisbane to Kuala Lumpur as MH 134 got airborne in night VMC at approximately 175 knots despite the fact that neither pilot had any airspeed indications throughout the 45 second takeoff roll. Thereafter, it took an hour to resolve the resultant aircraft control flight management problems and complete a return to an overweight landing which was accompanied by minor damage to the main landing gear bay doors caused by runway surface contact due to their non-retraction after free-fall landing gear extension had been necessary.  
+Investigation
+A Serious Incident Investigation into the event was carried out by the Australian Transport Safety Bureau (ATSB). Relevant data was obtained from the FDR and the CVR as well as recorded data from both ATC data and Brisbane Airport CCTV. 
+It was noted that the Captain, had been employed by Malaysia Airlines for 25 years, had a total of 14,411 hours flying experience which included 555 hours on type after transferring from the operator’s Boeing 737 fleet in May 2017. Exercising the privileges of his Air Transport Pilot Licence (ATPL) was restricted by the requirement that he must fly only as or with a Co-Pilot. The First Officer had a total of 6,544 hours flying experience which included 4,582 hours on type. He had been employed by the operator since 2009, initially on the Boeing 737 before transferring to the Airbus A330 fleet in 2011. Both pilots had arrived in Brisbane two days earlier and had an adequate rest period which precluded any fatigue.  
+The Malaysia Airlines’ LAE who performed the “transit check” on the aircraft prior to its departure from Brisbane had qualified 18 years previously after serving an apprenticeship with the airline. The contracted “Support Engineer” who was also involved in preparing for the flight’s departure was also recorded as having 18 years experience as a LAE. The “Leading Hand” and “Despatch Coordinator” employed by Menzies Aviation, Malaysia Airlines’ contracted ground handling agent at Brisbane, were both trained and experienced in respect of the Airbus A330 aircraft type.  
+What Happened
+After the aircraft had arrived at Brisbane approximately three hours earlier, the operator’s contracted “support engineer” at Brisbane placed covers on the aircraft’s three pitot masts. These covers were not removed during the subsequent inspections prior to departure, including the one performed by the Captain of the aircraft. The attempt to take off with these covers still fitted meant that no airspeed indications were available to the pilots and this was displayed to both pilots once the actual speed exceeded 50 knots. No attempt to reject the takeoff was made and it was continued until the aircraft became airborne after a 45 second takeoff roll. Shortly after this, the crew made a PAN call on the TWR frequency but the controller did not hear it and instead instructed the flight to change frequency. On doing so, the PAN call was repeated and responded to. The climb was continued to FL110 and the aircraft was then manoeuvred at that level whilst performing various actions which included shutting down all three air data systems. The latter automatically activated a safety function called the Back Up Speed Scale (BUSS) which displayed a ‘safe flight envelope’ on the pilots’ PFDs in place of airspeed tape or red flag (see the illustration below). By use of this system and associated airspeed management procedures, the flight was then positioned onto an approach. With all air data systems shut down, normal landing gear extension was not available and a free fall extension was used and a landing followed after approximately an hour airborne. The main landing gear doors, which do not retract after a free fall gear extension, were slightly damaged by runway contact and nose wheel steering was not available. The aircraft therefore remained on the runway until a tow to the designated gate could be arranged. Only after an engineer boarded the aircraft after landing did the crew realise the reason for the lack of any airspeed indications.
+
+The ‘BUSS’ which replaces the PFD airspeed tape when Air Data Systems are off. [Reproduced from the Official Report]
+Why It Happened
+The Investigation made a comprehensive examination of the circumstances which enabled this sequence of events to occur.
+
+Arrival of the aircraft and initial ground activities
+
+CCTV showed the aircraft arriving at its assigned gate from Kuala Lumpur three hours prior to the scheduled flight departure time (STD) of the return flight which would be operated by a different flight crew. It was noted that artificial lighting in the area where the aircraft was parked “provided good visual conditions, particularly around the forward part of the aircraft”. CCTV footage showed that the ground handling contractor Menzies Aviation did not perform an “arrival walk round” in accordance with their contract with the airline. The airline’s Brisbane-based LAE arrived at the airport after about 40 minutes and began the “maintenance transit check” required by the operator. After a further 15 minutes, another LAE from “Aircraft Maintenance Services Australia” (AMSA), a contractor used by the airline to escort the company LAE and support him in respect of non-certifying tasks as required, arrived at the aircraft and fitted covers to the three pitot masts. He stated that he had then been to the flight deck and informed the company LAE of his action but noted they had “not acknowledged what had been said” or made a corresponding entry in the Technical Log whilst he was still there. Although he stated that he “normally expected” such an acknowledgement, he had not questioned this. The company LAE, who was only temporarily covering Brisbane for the second of two consecutive daily turnrounds, did not recollect the support engineer advising of covers being fitted and added that he was “unaware of the common and recommended practice for the use of pitot mast covers at Brisbane” on account of a local problem with wasps entering pitot masts.
+
+Engineering Activities
+
+The support engineer facilitated LAE access to the apron (required because he did not have a local security pass) and was instructed by them to add oil to the engines and the hydraulic system. The company LAE then conducted the external inspection component of the transit check during which CCTV showed that he had shone a torch on the area of the two left side pitot masts for about four seconds whilst walking towards the nose of the aircraft. He then appeared to look at the area where the right side pitot mast was located.
+The company LAE reported noticing that these covers were fitted to the aircraft and stated that he had intended to talk to the support engineer about them but had then forgotten to do so. About an hour later, refuelling supervised by the company LAE, which took about half an hour, commenced. On its completion, both engineers returned to the flight deck and the company LAE passed the fuel uplift note to the flight crew and certified in the Technical Log that the transit check was complete. The support engineer asked the LAE if there were any further tasks required and was told that they were no longer required. Both engineers left the flight deck at 2246. The company LAE then took the cabin seat he had been assigned for his positioning flight back to Kuala Lumpur.
+It was found that there was no arrangement, formal or informal, for the support engineer to remain with the aircraft and he had returned to the office with some paperwork before going to assist some colleagues at another aircraft. He stated that he had intended to return to the Malaysian aircraft but was then assigned a rectification task on the other aircraft. By the time he was able to return, the aircraft had already departed.
+It was noted that the Malaysia Airlines transit check requirements included another inspection, an “engineering pre-departure walk-around inspection”, which was intended to ensure (among other things) that pitot mast covers had been removed and all doors and hatches were secured just prior to departure. The support engineer reported that they had understood from their tasking as provided by the company LAE that the pre-departure walk-around would be done by the ground handlers since they were responsible for despatch whereas the company LAE stated that they had assumed that the support engineer was responsible for dispatch coordination and would conduct the final walk-around. Both engineers agreed that the company LAE had not instructed the support engineer to perform a final walk-around nor had he asked about it.
+
+Flight Crew Pre Flight Activities
+
+The two pilots arrived at the aircraft about an hour and 10 minutes prior to the STD shortly before refuelling began. No outstanding defects of relevance to the forthcoming flight were found in the Technical Log. It was agreed that the First Officer would be PF for the flight which meant that the Captain was responsible for checking that the gear pins and pitot covers were all in the flight deck stowage provided and for conducting the external pre flight check. It transpired that pitot covers “were not routinely carried with the operator’s aircraft and were not carried on this occasion” with both pilots subsequently stating that they had not seen pitot mast covers in use in any normal flight operations and had not been advised of their exceptional use in Brisbane.
+The Captain commenced his external inspection about 25 minutes prior to the STD and was recorded on CCTV briefly shining a torch over one of the left side pitot masts. He did not inspect the right side of the nose and at interview “did not recall seeing any pitot covers fitted”. The Investigation considered the Captain’s “walk-around path, torch use (particularly dwell time on check items) and total time taken” as likely to have “omitted many of the required check items (and) was conducted without due attention”.  
+Following the Captain’s return to the flight deck, the pilots compared their V speed calculations and agreed that the V1 was 153 KIAS and the VR as 160 KIAS. The First Officer then called for the Before Start checks which the Captain commenced by what on the CVR sounded like “gear pitot covers” but could also have been “gear pins and covers”. The First Officer immediately responded to this with “removed”’.  
+
+Dispatch and Taxi 
+
+Ten minutes prior to STD, the main passenger door was closed and the airbridge retracted. The ground handling contractor had a team of their employees under the control of a ‘leading hand’ to deal with all non-engineering aspects of the departure and take responsibility for coordinating the dispatch. However, the assigned leading hand was found not to have received any operator-specific training and “believed that they were not qualified to perform coordination of the dispatch”. For that reason, it was found that just before the aircraft was due to depart, they had arranged for another Menzies ground handler from another Menzies team to coordinate the dispatch. 
+According to the recollection of both individuals, the leading hand had asked if the new coordinator was “good to do the headset”’ and received a “thumbs up” signal. It was noted that Menzies procedures required the assigned dispatch coordinator to conduct a final walk-around before departure but the leading hand had not advised the newly assigned dispatch coordinator that a dispatch walk-around of the aircraft had not yet been conducted. The dispatch coordinator reported having assumed that as the aircraft appeared to be ‘ready to go’ at the time of the handover - the airbridge had been removed, the tug was connected and its driver was in the cab - the walk around had already been done.
+CCTV evidence confirmed that no ‘dispatch walk-around’ had been conducted and the dispatch coordinator put on their headset for communication with the flight crew and with the leading hand waited near the nose gear for pushback to be approved. The CVR recorded the First Officer asking the dispatch coordinator to confirm that ground checks were complete and received an affirmative response. Pushback then commenced two minutes ahead of the STD. The tug driver could not see the pitot mast locations as seated and the leading hand remained close to where the nose gear had been and “appeared to look in the general direction of the aircraft for about 18 seconds before turning to take equipment away from the bay”.
+The dispatch coordinator walked alongside the nose gear until the pushback was complete and would not have been able to look behind and above towards the location of the pitot masts. However, when the dispatch coordinator subsequently stood back on the left hand side of the aircraft to show aircraft nose gear steering pin to the Captain as required (and recorded on CCTV) the left side pitot mast covers and their streamers would have been visible to him.
+During the relatively short subsequent taxi for a full-length take-off from runway 01, the pilots “were mostly engaged in conversation that was not pertinent to the flight” although this was terminated about three minutes before takeoff commenced.
+
+Takeoff
+
+Because of very light surface wind speed, it was considered that the recorded groundspeed was probably very similar to airspeed, especially for the first 1,000 feet, so it was used as an approximation to airspeed during the flight.
+A rolling reduced thrust takeoff was commenced and at 42 knots, the Captain called thrust set. At this point, both PFDs should have had an airspeed reading which by design is active above 30 knots but there was none and at 50 knots, red speed flags appeared on both PFDs where the speed indication should have been and almost immediately, the Captain was recorded on the CVR as saying “ah, speed, speed” which was taken to indicate that he was aware of a speed indication problem. There was no response from the PF until the Captain was recorded making the Airbus standard 100 knot call which is required as a cross check of the two pilots’ airspeed indications. Over the next 5 seconds, both pilots clearly recognised the absence of their airspeed indications but no stop call was made by either and acceleration continued with the First Officer calling “go to ADR 3” and the Captain responding with “okay”. Fifteen seconds after the Captain had called 100 knots, the calculated V1 was passed and three seconds later, the First Officer initiated rotation. Calls of “positive climb” from the Captain and “gear up” from the First Officer followed as height increased through around 120 feet agl.
+Both pilots subsequently stated that they had not been aware of a “speed anomaly” until 100 knots - and the Captain did not recall making the 100 knot call. Recorded data showed that both PFDs continued to show red speed flags until rotation was tentatively commenced when one or both PFDs displayed the airspeed tape with an erroneous airspeed close to the minimum displayable speed of 30 knots. It was suspected that both displays had, for a while, then “intermittently transitioned between unrealistically low airspeeds and the red speed flag” and that possibly such transitions between successive one-second data points may have appeared as ‘flickering’.
+The First Officer reported that he had commenced rotation by judging the aircraft position relative to the end of the runway (and possibly by also referencing the groundspeed display). It was noted that a normal rotation involves increasing pitch towards 15° until lift-off, the same action as required by the memory items of the ‘Unreliable Speed Indication’ Checklist (which was not called for). These items also require thrust to be set to TOGA. The First Officer “did not announce an intention to maintain a certain thrust setting or pitch angle” but did subsequently report having maintained maximum continuous thrust (MCT) (which was the same thrust lever detent as that for the ‘FLEX’ takeoff and one setting below TOGA) and initially limited the pitch to 12.5° in order to reduce the risk of a tail strike. CVR data showed that the PM Captain had not confirmed or announced any deviations from the pitch attitude and thrust settings listed in the memory items of the Unreliable Airspeed procedure.
+
+Airborne   
+
+The First Officer maintained control in manual flight (having advised in response to the Captain’s query that the AP was inoperative and the second of the First Officer’s PAN calls was responded to. The aircraft was levelled off at FL110 and the First Officer obtained an ATC clearance to remain there to allow troubleshooting to be undertaken. At this time, various changes to the configuration of the Air Data Reference (ADR) systems were made and after the Captain had taken over as PF, all three ADRs were switched off. This led to the activation of the Back Up Speed Scale (BUSS) which thereafter provided a good substitute for missing PFD airspeed tape. Some relatively minor complications resulted from this including the need for manual control of cabin altitude, the substitution of pressure altitude with GPS altitude, the need for free-fall landing gear extension and a prohibition on use of the spoilers and speedbrakes.
+The controller asked the crew about their intentions and when they advised that they had no airspeed information, he responded with an offer to pass groundspeed information by providing regular groundspeed updates, which was accepted. The Captain commenced descent and the crew agreed on an ILS approach to runway 01 with a 20 mile final approach. Aware that Operator policy required the Captain to fly the approach and landing in “abnormal situations”, the pilots discussed the matter and the Captain concluded that it was better for him “to effectively monitor and manage the unfamiliar situation personally” therefore delegate the PF role to the First Officer who in any case had significantly greater experience on the A330. The subsequent approach and landing were completed without any further or unexpected complications. 
+In the absence of airspeed data, flap and gear limiting speeds were unavailable during both initial climb and approach and subsequent calculations using airspeed estimates based on groundspeed, wind data, and atmospheric data indicated that the maximum flap extension speed was most likely exceeded by up to 14 knots during the climb through 4,000 ft, and by up to 5 knots during the descent through 7,500 ft. It was concluded that the maximum landing gear extension speed was probably not exceeded and in both cases, the required precautionary inspections did not subsequently identify any damage. It was also confirmed from FDR data that at no point in the flight had the aircraft approached an aerodynamic stall condition.
+An extensive analysis of all the factual findings was performed and the principal conclusions were encapsulated in the extensive list of “contributing factors” reproduced below. Perhaps the most telling aspect of the event was that the aircraft was allowed to take off when ample opportunity to reject the takeoff was available. It was observed that the PM Captain failed to assertively announce the presence of the speed indication problem or clearly specify its nature which delayed the First Officer’s response. As the speed continued to increase, it was concluded that “limited coordination between them had reduced their capacity to interpret the situation and make a decision early enough to safely reject the takeoff”. It was also apparent that the prescribed responses to unreliable airspeed in the air do not assist the identification of and response to an unreliable (or absent altogether) airspeed during the takeoff roll for one or both pilots given the reliance on a cross-check at, in this case, the relatively high speed of 100 knots.
+A total of 21 Contributing Factors were formally documented based on the findings of the Investigation. Ten of these were classified as Safety Issues and are identified as such:
+
+In the absence of clear instruction or guidance, the Aircraft Maintenance Services Australia support engineer fitted pitot probe covers to the aircraft shortly after its arrival, as was done for some other airlines to mitigate the threat of wasp infestation. Later, the engineer left to perform tasks on another aircraft and did not return to the aircraft prior to its departure as intended. 
+ Due to miscommunication or error, a Technical Log entry was not made following the fitment of pitot probe covers. As a result, when the Technical Log was reviewed prior to flight, the presence of pitot probe covers was not detected. 
+The Malaysia Airlines engineer saw the pitot probe covers fitted to the probes during the transit check, about 2 hours before departure, and intended to ask the support engineer to remove them. However, associated with the limitations of prospective memory, the operator’s engineer subsequently did not remember to do so. 
+The Captain did not expect, or detect, the presence of the pitot mast covers during their pre-flight exterior inspection (walk-around). They did not include a number of the required check items, including the right side pitot mast and looked at the left side pitot mast area (only) briefly.
+The Malaysia Airlines engineer did not perform a final walk-around inspection of the aircraft, including a check for pitot mast covers, as required by the transit check that the engineer had certified as complete. The engineer assumed that the walk-around would be completed by the support engineer and/or ground handlers.
+The Menzies Aviation person assigned as dispatch coordinator for the aircraft handed over that duty to another person immediately before pushback, and neither person conducted the required dispatch walk-around. This was the last procedural opportunity to identify the presence of pitot mast covers before the flight.
+The aircraft was released for flight with covers fitted to all three pitot masts, preventing the air data systems from measuring airspeed.
+There was limited and ineffective communication between the Captain and First officer in response to the speed flag on each of the primary flight displays (which appeared at about 50 knots groundspeed during the takeoff). This significantly reduced their coordination and capacity to interpret the situation with the limited time available.
+While independently trying to diagnose a rare and unfamiliar problem during takeoff, the flight crew experienced high cognitive workload, time pressure, and stress. This reduced their capacity to effectively interpret the situation and make a decision early enough to safely reject the takeoff.
+The Airbus guidance provided in the flight crew techniques manual and other manuals for assisting A330 flight crews to decide whether to continue or reject a take-off did not discuss unreliable airspeed indication scenarios. [Safety Issue]
+In the Airbus A330, there was no auditory alert associated with nil or unreliable airspeed from two or more sources during take-off (a high workload, critical phase of flight). Comparatively, other critical failures provide both visual and auditory indications. [Safety Issue] 
+Although suitable for use in most situations, the streamers attached to the pitot mast covers supplied and used for A330 operations by Aircraft Maintenance Services Australia provided limited conspicuity due to their overall length, position above eye height and limited movement in wind. This reduced the likelihood of incidental detection of the covers, which is important during turnarounds. [Safety Issue]
+Some Aircraft Maintenance Services Australia (AMSA) engineers extended the use of pitot probe covers (to mitigate the threat of wasp infestation) to operators that did not explicitly require it, including Malaysia Airlines. This increased the likelihood of error associated with the use of pitot mast covers because AMSA engineers were not controlling the engineering activities and were not permitted to make Technical Log entries. [Safety Issue] 
+Aircraft Maintenance Services Australia did not have a reliable method to account for tooling and equipment (such as pitot mast covers) prior to aircraft dispatch when providing non-certifying engineering support. [Safety Issue] 
+Menzies Aviation staff did not consistently carry out the required arrival and pre-departure aircraft checks of Malaysia Airlines aircraft, and Menzies Aviation audit processes were not effective at evaluating compliance with these requirements. [Safety Issue] 
+Malaysia Airlines flight crew and engineers did not fully complete the required aircraft inspections. [Safety Issue] 
+Malaysia Airlines did not clearly specify the division of engineering responsibilities between Malaysia Airlines and Aircraft Maintenance Services Australia engineers at Brisbane, leading to ambiguity with regard to who should conduct the final walk-around portion of the transit check. This risk was increased by the operator commencing and continuing flights to Brisbane with interim ground handling and engineering arrangements that varied from usual industry practice. [Safety Issue] 
+Malaysia Airlines did not develop and disseminate guidance and procedures about the use of pitot mast covers to flight crews and engineers, and there was limited awareness among those groups of the need for pitot mast covers at Brisbane Airport. [Safety Issue]
+The Malaysia Airlines risk assessment for the recommencement of operations into Brisbane had numerous errors and omissions that potentially reduced its effectiveness.
+Although Malaysia Airlines identified the potential risk of pitot mast obstruction by wasps at Brisbane, and decided to address the risk with the use of pitot mast covers, it did not effectively communicate risks and required actions between departments and follow them through to completion.
+Malaysia Airlines’ processes for the management of change did not follow recommended industry practices, and its risk and change management processes were not detailed and clear enough to assure: 
+
+the appropriate level of involvement of subject matter expertise and safety groups. 
+­ that risk controls were implemented and monitored. [Safety Issue]
+
+
+
+Safety Action taken in respect of the event was noted to have included, in summary only, the following which addressed most of the detailed Safety Issues detailed in the Final Report:
+
+Malaysia Airlines:
+
+­ added procedures requiring the placement of a placard on the flight deck as a visual alert for flight crews when pitot probe covers are fitted 
+­ made changes to engineering arrangements at Brisbane, reducing the likelihood of error 
+­ published a flight safety bulletin to flight crew about vigilance during walk-rounds
+­ made numerous changes to the change and risk management processes. 
+
+
+Airbus:
+
+­ implemented additional flight crew training standards about unreliable airspeed on takeoff, including walk-rounds, airspeed monitoring, systems knowledge, and non-technical skills
+­ added guidance to the flight crew techniques manual on the importance of airspeed monitoring on take-off
+­ commenced a review of airspeed indications in A330 and other aircraft types. 
+
+
+Menzies Aviation implemented improvements to its internal auditing programme.
+
+In conclusion a series of Safety Messages based on the Investigation Findings included the following:
+At first glance, an observer might be puzzled as to how multiple checks can fail to detect the fitment of pitot mast covers before flight, or how a flight crew can complete a take-off without any valid airspeed being displayed. This occurrence illustrates how a range of individually straightforward factors can combine to nullify multiple critical safety barriers. 
+For all individuals working in the aviation industry, the occurrence shows that coordination and diligence can make a difference. On the night, several individuals as well as their counterparts on other occasions acted as though the conduct of various external aircraft inspections was someone else’s responsibility; in fact, all had separate, key roles in detecting problems with the aircraft before departure. Had all such inspections been conducted diligently it is very likely that the pitot probe covers would have been seen and subsequently removed.  
+Most of these problems could have been resolved with better communication. Nevertheless, the working environment allowed errors and miscommunications to occur and propagate because individual responsibilities and work processes were not well-defined. 
+For flight crew, the occurrence also highlights the importance of vigilance, communications and decision-making in adverse circumstances. Had the flight crew reacted more quickly, the take-off could have been rejected at low speed. Flight crews need to bear in mind the typical symptoms associated with unreliable airspeed on take-off in order to detect this situation as early as possible and reject the take-off if still safe. If uncertain of the aircraft’s proximity to the decision speed when an anomaly is detected, Airbus flight crews should immediately apply full take-off thrust and attain 15° pitch attitude when they feel that the aircraft is close to the rotation speed to maximise aircraft performance.
+ 
+However, the flight crew’s delayed response vividly illustrates the falsity of the assumption that flight crews will always act as expected. Accordingly, the contribution of aircraft warning and indication systems design, combined with flight crew training and guidance, must be considered. Flight crews need to have information presented in a way that the importance of an adverse event, and possibly the right decision, is immediately apparent. 
+ 
+From an organisational perspective, the occurrence shows how inconsistent approaches between multiple interacting organisations can have safety implications that are hard to predict. As the ATSB has stated before, it is important to ensure that procedures are harmonised to increase the likelihood that potential problems or mistakes are detected before causing harm. Local variations to procedures should be formalised to reduce the risk of the inconsistent completion of tasks, and to improve the organisation’s ability to identify and address potential safety concerns. In addition, with operators increasingly relying on external engineering and ground handling support, the ATSB encourages anyone in the aviation industry to identify procedural problems for review and enhancement.
+
+The 165 page Final Report was released on 16 March 2022. Following the publication of a Preliminary Report on 30 August 2018, a series of “Updates” on progress were then issued prior to this Final Report. 
+Related Articles
+
+Unreliable Airspeed Indications
+Pitot Static System
+Flight Crew Pre Flight External Check
+Rejected Take Off
+Ground Handling

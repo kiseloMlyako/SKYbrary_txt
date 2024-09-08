@@ -1,0 +1,423 @@
+A320, vicinity Paris CDG France, 2022
+
+
+
+
+
+
+
+
+
+
+
+  A320, vicinity Paris CDG France, 2022
+
+
+
+
+
+
+
+
+
+Summary
+
+On 23 May 2022, an Airbus A320 came within six feet of the ground without crew awareness during a go around from a RNP BaroVNAV approach after failing to obtain visual reference. The descent below minimum altitude followed use of an incorrect QNH passed by ATC but not identified as such. The lack of an EGPWS warning was due to the non-current EGPWS version for which upgrading had not been mandated. It was concluded that the regulatory intention in Europe to transition from ILS to RNP approaches had not led to any recognition of the potential impact on operational safety.
+
+
+
+
+Event Details
+
+When
+
+23/05/2022
+
+
+
+Event Type
+
+
+AGC,
+              CFIT,
+              HF
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+IMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS A-320
+
+
+
+
+
+
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Stockholm/Arlanda
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Paris/Charles de Gaulle Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Phase of Flight
+
+Missed Approach
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+LFPG
+
+
+
+
+General
+
+Tag(s)
+
+
+              Altimeter Setting Error
+          
+
+
+
+
+AGC
+
+Tag(s)
+
+
+              Incorrect Readback missed,
+              Phraseology
+          
+
+
+
+
+CFIT
+
+Tag(s)
+
+
+              No Visual Reference,
+              Vertical navigation error
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              ATC clearance error,
+              Procedural non compliance,
+              Pressure altimeter setting error
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+Air Traffic Management
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Airworthiness
+Air Traffic Management
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 23 May 2022, an Airbus A320 (9H-EMU) being operated by Airhub Airlines for Norwegian Air Sweden on a scheduled international passenger flight from Stockholm to Paris CDG as NSZ4431 conducgted a go around from its day IMC RNP BaroVNAV approach to runway 26R at destination during which it came within a validated distance of six feet from terrain without any flight crew visual reference or EGPWS warning. A further similar approach was then flown using the same incorrect altimeter subscale setting but this time, weather conditions had improved and after becoming visual, the aircraft was repositioned onto the correct vertical profile for an uneventful landing. MSAW activations occurred during both approaches but ATC response was slow and tentative. A total of 178 passengers and crew were on board the aircraft. 
+Investigation
+The day after the event occurred, the airport ATS unit reported it to the French Civil Aviation Accident Investigation Agency, the BEA who immediately commenced a Serious Incident Investigation. In view of the potential seriousness of the event, the BEA proceeded rapidly to assemble as much factual information as possible but by the time the actual seriousness of what had happened became clear, relevant data on both the CVR and the FDR were no longer available so equivalent data from the QAR was obtained. Relevant recorded ATC data were available. A Preliminary Report to communicate the initial findings of the Investigation which included six Safety Recommendations was subsequently published on 11 July 2022. These Safety Recommendations have been re-stated in the Final Report issued upon the completion of the Investigation and are included at the end of this summary along with six more  Safety Recommendations.  
+It was noted that the operator of the aircraft, Airhub Airlines, was a Malta-based AOC-holding subsidiary of the Lithuanian-based ACMI (Aircraft, Crew, Maintenance, & Insurance) company GetJet Airlines. The aircraft was being operated with the Captain acting as PF and under an ACMI contract with Norwegian Air Sweden and using their RTF callsign ‘Rednose’.
+The 37 year-old Captain was a Lithuanian national who had a total of 5,878 hours flying experience all acquired on the A320 since 2013 and including 2,529 hours in command. He had obtained his ATPL in November 2015 after about two years as a First Officer on type and had begun working for Airhub Airlines as a self-employed contract pilot seven months prior to the investigated event. The 42 year-old First Officer was a Spanish national who had a total of 2,221 hours flying experience of which 947 hours were on type. He had begun his airline pilot career on the Boeing 737 in 2018 before a short period of employment by a European operator followed by a period not flying until obtaining work as a self-employed contract pilot with GetJet Airlines and its Airhub Airlines subsidiary eight months prior to the investigated event.
+The 43 year-old Intermediate APP controller had been qualified for 19 years and after initially being assigned to an en-route control centre for seven years had then moved to the Paris CDG control unit where, after unit training, she been unit-qualified since 2009. She had been in position for both the approaches made.  The 46-year old North TWR controller for the first approach had after training been first appointed to the Paris CDG control unit in 2001 and he had since gained additional supervisory qualifications. The 29 year old North TWR Assistant Controller who had taken over after the first approach had completed his basic training in 2015 and become a qualified controller at the Paris CDG control unit in 2018 and an OJTI qualification in 2019.
+
+
+What Happened
+Aware from a NOTAM check that the destination ILS was out of service, the crew briefed for an RNP approach using VNAV/LNAV minima (charted as 752 feet QNH) since their aircraft was not equipped to fly to RNP LPV minima. RNP approach procedures at Paris CDG did not require flights cleared to use an RNP procedure to declare the minima being used unless an LPV approach was intended.
+The crew stated that they had copied the ATIS which had included BKN cloud at 1,500 feet, visibility 10km and QNH 1001 hPa. However throughout their first approach they had then remained “in cloud, without visual references, experienced moderate turbulence and flown through heavy rain, using the wipers at high speed”.   
+
+Once working the CDG Intermediate APP controller, the flight was cleared (in English) to descend to 6,000 feet on 1011 hPa instead of the correct 1001 hPa and this QNH was read back as given. Two minutes later, the same controller re-cleared the flight to 5,000 feet hPa and for the “full RNP approach” to runway 27R whilst repeating the same incorrect QNH. A minute later, the same controller was recorded giving the same descent and approach clearance in English to an inbound EasyJet flight but again using the wrong QNH of 1011 hPa. However, this crew provided a readback using the correct QNH 1001 hPa which the controller did not notice. Almost immediately, she then issued a further clearance (in French) to descend to 5,000 feet to an Air France flight but this time used the correct QNH of 1001 hPa which was correctly read back by the crew.
+Shortly afterwards, the aircraft reached the approach FAF with the altimeters indicating 4,889 feet on the incorrect QNH - the actual altitude was approximately 4,623 feet - and was instructed to change to  the North TWR frequency. On checking in there, a landing clearance and wind check was subsequently given and the clearance was correctly read back. Half a minute later, as the descent on track continued, the radio altimeter height indication on the pilot’s PFDs  became live as the aircraft passed 2,500 feet agl. Two minutes later, passing 1,000 feet aal, the required approach stabilisation height, with 3.1 nm to go to the runway threshold, the indicated barometric altitude based on the incorrect QNH was 1,395 feet and  the aircraft was fully configured and at the applicable VAPP of 139 KCAS. The radio altimeter reading at this time was 837 feet agl. Apart from the consequences of descending on a vertical profile approximately 280 feet below the one required by the RNP procedure for which the flight had been cleared, the approach was essentially ‘stabilised’ throughout with a rate of descent of between 710 and 740 fpm.
+Forty three seconds later, an ATC MSAW activation occurred in the North TWR with the aircraft.1.5nm from the runway threshold and passing an indicated 919 feet QNH - the actual altitude based on the correct QNH at this time was 645 feet  - and the radio altimeter was showing 239 feet agl (point 1 on both the next two Illustrations). Nine seconds later, the aircraft reached an indicated altitude equivalent to the company DA for the approach of 802 feet but with the actual altitude being 537 feet and the radio altimeter showing 122 feet agl. The crew subsequently stated that having had no visual reference because of heavy rain, they had determined that a go-around should be initiated. At the same time, (nine seconds after the MSAW had activated) the TWR controller called to say that they had “just had a ground proximity alert, are you okay? Do you see the runway?” (point 2) but the crew stated that they had not heard this call. As the controller was still speaking, with the aircraft at 52 feet agl, FDR data showed that the AP had been disconnected and the PF Captain had pitched up using the full side-stick deflection (point 3). However, it was a further three seconds before TOGA thrust was selected (point 4) at exactly the time when the minimum terrain clearance of 6 feet agl was recorded. No EGPWS activation occurred during this near-CFIT episode but both pilots did confirm that they had heard the radio altimeter-sourced calls at 2,500 feet and at 1,000 feet.
+The go around was announced to ATC (point 5) with the aircraft still in cloud and not visible to ATC as it climbed through 378 feet agl. The controller responded by clearing the flight to continue climbing to 5,000 feet on QNH 1001 hPa which was read back accompanied by the incorrect QNH of 1011 previously given which was not detected by the controller (point 6). It was noted that during these exchanges relating to the go around, the TWR controllers had been unable to see the aircraft although “after a few seconds, they had seen it coming out of the clouds, at low height, with a pitch-up attitude”. At about this time, the South TWR Assistant Controller had advised the North TWR Assistant Controller that the 27R approach lights had not been switched on despite the sudden deterioration in the weather. This oversight was rectified after about 20 seconds and then, as a consequence of the MSAW activation and the failure to switch on the approach lighting, the North TWR controller was replaced by the North TWR Assistant controller who was replaced by a new Assistant Controller.
+
+An annotated flight path of the final stages of the first approach[Reproduced from the Official Report]
+When the flight had reached downwind, it was transferred back to the CDG Intermediate Approach frequency to be positioned for another approach. The same controller as the flight had previously spoken to on that frequency advised the crew to expect another RNP approach to runway 27R. This was subsequently commenced without the flight being given or requesting confirmation of the QNH and the same incorrect QNH of 1011 hPa which had originally been given by the APP controller remained set. On being transferred back to the North TWR and cleared to land, the crew asked if the approach lights were on and this was confirmed.
+
+The vertical profile of the first approach as actually flown and as it should have been with the same numerical markers as used in the plan view of the flight path above it [Reproduced from the Official Report]
+Although the second approach was again flown below the correct profile because the incorrect QNH was still set, it was again ‘stabilised’ and flown at the correct VAPP of 140 KCAS with the AP engaged. The correct and as-flown vertical profiles for this second approach are as shown in the illustration below with position 7 indicating the occurrence of a new MSAW activation in the North TWR with 3.1 nm from the runway which the controller advised to the flight four seconds later. The crew indicated that although they had heard this call, they had not understood the reason for it at the time and the First Officer had replied that they were on the correct flight path (which at that time they were not). However, within a few seconds, the aircraft had emerged from cloud allowing the crew to see the runway and visually correct their flight path onto the correct approach path. An uneventful landing then followed.
+
+The vertical profile of the second approach as actually flown (dark blue line) and as it would have been indicated with the incorrect QNH still set (light blue line). [Reproduced from the Official Report]
+The Context
+It was noted that a suitably equipped aircraft could have made use of the RNP approach clearance given to fly to LPV minima using 3D satellite navigation not available to the aircraft involved and therefore avoided the need to use a vertical profile dependent on use of the correct QNH, but that the aircraft involved was not so equipped. It was also noted that, as with all landing clearances for an RNP approach, the applicable MDA or DA is only known to the flight crew and the controller’s landing clearance applies to whichever type of RNP approach is being flown.  
+It was noted that the pilots’ FDs included a Vertical Deviation Indicator VSD which allowed the crew to see the extent of any deviation from the FMGC-generated approach vertical profile on the altitude scale  within the range +/- 150 feet but of course the FMGC path was derived from the incorrect QNH set.
+The unexpectedly adverse weather encountered during the first approach was confirmed by a post flight analysis conducted by the French Meteorological Service to have been caused by heavy rain falling from Cb cloud characterised by “strong vertical development” which had significantly reduced visibility for a period of about ten minutes in a sudden change from the most recent weather report the crew had heard. This continued during the second approach but by then, the worst affected area no longer included the final part of the approach which by then had similar conditions to those prevailing over the northern part of the airport.
+Why it happened
+
+The root cause of the near accident was the failure of the controller to pass the correct QNH and the absence of a procedural requirement at the ATS Unit concerned to subsequently re-advise it once an aircraft was fully established on an RNP (or any other) approach. However, although the flight crew SOPs did not appear to have considered a situation where both pilots’ altimeters had indications based on the same incorrect subscale setting, there were indications on the PFD.
+The absence of a ‘TOO LOW TERRAIN’ alert from the predictive Premature Descent Alert (PDA) which is included in the Terrain Clearance Floor (TCF) function in the aircraft’s Honeywell EGPWS was found to have been in accordance with the equipment’s configuration which had been installed when the aircraft was completed in 1999. A subsequent software update in 2003 extended the TCF envelope and would have resulted in a terrain proximity alert at around 200 feet agl (see the first illustration below) but software updating was not mandatory. It was, however, noted that an EGPWS based on the latest and still current 2017 RTCA TAWS minimum standard for triggering a PDA on a barometric approach using a QNH 10 hPa too high would not have provided any PDA. (see the second illustration below) making the Honeywell 2003 EGPWS safer in the circumstances of this event than later equipment meeting the new standard.
+
+
+The aircraft intended and actual vertical profile showing the Honeywell EGPWS actual (coloured orange) PDA airspace and the addition to it (coloured mauve) made from 2003
+
+A number of other factors affected the sequence of events following the initiating QNH communication error and the subsequent narrowly-avoided terrain impact:
+
+The Airbus FCOM was found to stipulate that “the crew must keep the radio altimeter in their scan during the approach and landing” which did not happen. It was further noted that “no call out or specific criteria associated with monitoring the radio altitude parameter are included in the LNAV/VNAV or LPV SOP”.
+
+
+
+
+The procedure vertical profile (green), the profile flown (grey), the alerting envelope provided by the Honeywell 2003 enhancement, the current regulatory alerting envelope (dark blue),  the alerting envelope provided by the current minimum standard (red) and the alerting envelope active for the approach under investigation (light blue).[Reproduced from the Official Report]
+
+ 
+
+The aircraft operator’s operational documentation on RNP approaches using LNAV/VNAV minima reliant on baro-VNAV was found to mention the risks of flight deck altimeters having different settings, but made no mention of the risk of having the same incorrect QNH setting on both altimeters.
+In the case of a RNP approach with LNAV/VNAV minima reliant on BaroVNAV, QNH setting, errors cannot be detected by altitude-distance cross-checks against values provided on the approach chart. However, there was a procedural requirement for a cross-check of the QNH received direct from a controller with another source of information such as the ATIS, METAR or via a specifically requested confirmation from ATC. This was not followed.
+Where available, a MSAW system could be considered as one of the last CFIT-prevention barriers. At Paris CDG, the standard procedure for a controller when a flight is not being radar vectored is to immediately advise an aircraft that triggers an MSAW activation that a terrain alert has been generated, instruct its crew to immediately check their flight level or altitude and give them the QNH.  This standard MSAW phraseology was not used by the controllers after activation during either approach. In particular, there was no instruction to check their altitude nor was the QNH given.
+Whilst the applicable ATC procedures required the controller to give the QNH to a flight with its first descent clearance based on it, there was no further requirement to repeat an unchanged QNH prior to landing.
+Initial interviews conducted with Paris CDG controllers suggested that “the emergency phraseology associated with a MSAW is not perfectly known nor understood by controllers”.
+Initial interviews conducted with Paris CDG controllers suggested that “the importance of the QNH for approaches using the BaroVNAV function, with respect to the risk of CFIT, may be underestimated and not clearly understood by controllers”.
+Overall, following the initial failure of ATC to pass the correct QNH to the flight prior to the first approach, the Investigation discovered after an analysis of air traffic controller activity that despite “a normal operation context in terms of traffic, manning of positions and weather conditions, and in the absence of any malfunction, a large number of air traffic control errors were observed over a short period of time” and “had consequences of varying degrees”. 
+
+
+
+Seven Contributory Factors to the hazardous approach conducted were identified as follows:
+
+In respect of two barometric approaches being flown with an incorrect altimeter setting:
+
+human error in the exchanges communicating the QNH, the probability of which can never be reduced to zero;
+operating procedures for crews and air traffic controllers that are not very robust, or even ineffective against this threat;
+on-board and ground systems that are not very robust, or even ineffective against this threat.
+
+
+In respect of the aeroplane descending to a near collision with the ground (near-CFIT):
+
+the approach lights not being illuminated;
+the absence of an on-board ground proximity warning, even though the TAWS system was operating in accordance with its design;
+the late triggering of the Minimum Safe Altitude Warning (MSAW) system, even though the system was operating in accordance with its design;
+a late and inadequate reaction by the air traffic controller to the triggering of this MSAW alert. The insufficient training of controllers with respect to the actions to be taken in response to this alert contributed to this inappropriate reaction.
+
+
+
+Taking both these sets of identified Contributory Factors into consideration,   the Report observed that although the potential CFIT risk from an incorrect altimeter setting during a barometric approach “has been known about for decades” the predominance of ILS approaches is likely to have led to it being overlooked whereas GNSS approaches using barometric vertical guidance to not less than 250 feet aal have been promoted as an improvement on non precision approaches without vertical guidance and “in particular as a replacement for ILS approaches” without an effective assessment of the operational safety implications despite overall safety requirements having become “increasingly stringent” during this period.
+Safety Lessons of potential relevance to both aircraft manufacturers and aircraft operators and to ANSPs arising from the findings of the Investigation were identified, in summary, as follows:
+Aircraft Manufacturers and Aircraft Operators:Flight crew SOPs do not necessarily emphasise the importance of altimeter subscale setting for an approach or the potential CFIT risk in the event of an incorrect setting and such approaches were “relatively frequent”. However, since most of these were ILS approaches unaffected by an incorrect QNH except for the DA, significant incidents have usually been confined to barometric approaches. However, whilst both Airbus and the aircraft operator involved have modified their procedures in response to various points raised during the Investigation these changes are, for the most part, also applicable to other operators and to aircraft built by other manufacturers.
+In order to reduce the prevalence of incorrect altimeter settings, it was observed that SOPs for barometric approaches could be changed by:
+
+adding a reminder of the importance of the altimeter setting and the safety risks in the event of an incorrect setting common to the altimeters;
+preventing  an incorrect altimeter setting on both main altimeters by,  for example: 
+
+presetting the QNH on the main altimeters or on the standby instrument, when preparing the approach after receiving ATIS information in particular, confirming the altimeter setting with an external source (e.g. ATIS, METAR, FMS, confirmation from air traffic control etc.) when changing the barometric reference on approach;
+reducing the crew's workload on final approach as much as possible, in particular by limiting altitude-distance cross-checks to the most appropriate points such as the FAF and the Step Down Fix (SDF)).
+
+
+
+It was also observed that aircraft operators could ensure they were able to identify instances of incorrect altimeter setting in the OFDM system and that operators with legacy-standard EGPWS installed on their aircraft could update its software to match the latest standards. 
+Air Navigation Service Providers 
+The operating procedures for air traffic controllers as prescribed by international regulations, require them to provide the applicable approach altimeter setting to a flight descending for an approach only twice, which often will be initially via an ATIS recording and subsequently when issuing the first altitude clearance below the  TL. During the investigated event, no altimeter setting information was given to the crew after the exchanges concerning the go-around or during the remainder of the flight.  Whilst this was in compliance with international regulatory requirements and State ATC operating procedures and regulations, it led to the second approach being carried out with the same incorrect altimeter setting as the first one. This could have been avoided if flights intending to conduct barometric approaches, were provided with the QNH for a third time, for example when a flight makes its first contact with TWR.
+Related Safety Action taken whilst the Investigation was in progress was noted to have included the following:
+
+Airhub Airlines added the identification of incorrect altimeter setting event to its OFDM system and changed its approach SOPs to require that pilots must confirm the QNH with the latest ATIS or METAR at or prior to leaving the TL.
+The DNSA (the French State ANSP) published provisional national directives requiring TWR controllers to give the QNH on first contact during RNP approaches and requiring the systematic execution of a go-around following a MSAW activation during an RNP approach. It also returned to the use of standard MSAW communications phraseology as defined in SERA and ICAO documents.
+Airbus updated relevant altimeter setting procedures and checks in the FCOM and FCTM for all their aircraft types including, in the case of the FCTM the addition of a new paragraph on the importance of altimeter setting and of the comparison of the value initially obtained  with that subsequently given by ATC and a note that “unexpected radio altimeter behaviour may be the sign of an incorrect altimeter setting”. Annex 3 to the Final Report summarises these changes.
+The DSAC (the French Civil Aviation Safety Directorate) published a Safety Leaflet on the risks of incorrect altimeter settings during BaroVNAV and non precision approaches.
+
+The six Safety Recommendations made in the Preliminary Report were as follows:
+
+that Paris-Charles de Gaulle Air Traffic Services ensure without delay that controllers are aware of the importance of the QNH for approaches using the baro-VNAV function with respect to the risk of CFIT. [FRAN-2022-005] 
+that Paris-Charles de Gaulle Air Traffic Services ensure without delay that controllers are aware of the importance of checking that the information read back by flight crews is correct. [FRAN-2022-006] 
+that Paris-Charles de Gaulle Air Traffic Services ensure without delay that controllers strictly use the standard phraseology in case of an MSAW and provide the QNH information. [FRAN-2022-007] 
+that Paris-Charles de Gaulle Air Traffic Services implement without delay a procedure for controllers to mitigate the risk of an incorrect QNH being used by flight crews during approaches using the baro-VNAV function, possibly by repeating the QNH at an appropriate time during the approach. [FRAN-2022-008] 
+that Airhub Airlines ensure without delay that their flight crews are made aware of the importance of the QNH setting for approaches using the baro-VNAV function, with respect to the risk of CFIT. [FRAN-2022-009] 
+that Airhub Airlines implement without delay a procedure to mitigate the risks of an incorrect QNH setting affecting both altimeters during approaches using the baro-VNAV function, possibly by cross-checking the QNH with another source of information, in particular with the ATIS information when available or by asking the controller for confirmation of the QNH. [FRAN-2022-010]
+
+Six additional Safety Recommendations were made on completion of the Investigation. These cover the identified critical need to avoid or quickly detect use of an incorrect QNH when a BaroVNAV approach is conducted in IMC by an aircraft with a legacy version of EGPWS installed and weaknesses in safety management at the ANSP involved in ensuring that QNH is correctly communicated and any errors in its use from whatever origin are detected before a hazardous situation results:
+
+that the International Civil Aviation Organisation, in collaboration with the manufacturers, authorities and operators, carry out an overall reassessment of the CFIT risk and the associated mitigation measures, in connection with the threat of an incorrect altimeter setting for BaroVNAV approach operations. These measures could consist of updating the standards and recommended practices and associated documents and defining incentives, or even stipulations, to ensure the development of new safety barriers or the improvement of existing ones. [FRAN-2024-006]
+that the European Commission, in collaboration with the European Union Aviation Safety Agency, analyse and reassess the risks associated with the changes induced by the IR-PBN Regulation 2018/1048 and in particular those linked to the use of an incorrect altimeter setting during a barometric approach, and take appropriate measures to maintain the targeted level of safety of final approach operations in Europe in 2030. [FRAN-2024-007]
+that the European Union Aviation Safety Agency require that air traffic control units can systematically detect an incorrect altimeter setting, in particular in the towers and approach units and define the associated phraseology for the air traffic controllers. [FRAN-2024-008]
+that the European Union Aviation Safety Agency, in coordination with the FAA and RTCA, study the revision of the Minimum Operational Performance Specifications (MOPS) applicable to TAWS for Premature Descent Alerts (PDA), in order to take into account at least a standard 3° vertical profile offset by around 280 feet to the published vertical profile, representing an error of 10 hPa on a barometric approach. [FRAN-2024-009]
+that the French Air Navigation Services Directorate (DNSA) ensure that, at national level, the continuation training of air traffic controllers guarantees that they master the emergency procedure relating to a MSAW alert. [FRAN-2024-010]
+that the French Air Navigation Services Directorate (DNSA) introduce methods or tools for the objective assessment of air traffic controllers' on-the-job work for the purpose of improving the safety management system. [FRAN-2024-011]
+
+The 153 page Final Report was simultaneously published in both English and a definitive French language versions on 11 July 2024. Separately issued Annexes 1, 2 and 3 to the Report provide, respectively:
+
+the revised approach SOPs introduced by the aircraft operator involved 
+a Meteo France report on short term (within 30 minutes) change in QNH 
+updated Airbus SOPS post occurrence
+
+A video reconstruction of the event has also been provided:
+
+
+
+
+
+
+
+
+
+
+
+ Read more
+
+
+
+
+Near collision with the ground during a barometric approach with an incorrect QNH
+
+
+
+
+
+
+
+
+
+
+Related Articles
+
+Controlled Flight Into Terrain (CFIT)
+Altimeter Setting Procedures
+Altimeter Pressure Settings
+Required Navigation Performance (RNP)
+Minimum Safe Altitude Warning (MSAW)
+Terrain Avoidance and Warning System (TAWS)
+Read-back or Hear-back
+Standard Phraseology
+Situational Awareness
+Terrain Awareness

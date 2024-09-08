@@ -1,0 +1,150 @@
+ICAO SHELL Model
+
+
+
+
+
+
+
+
+
+
+
+  ICAO SHELL Model
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Organisation and Human Performance 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+ICAO SHELL Model, as described in ICAO Doc 9859, Safety Management Manual, is a conceptual tool used to analyse the interaction of multiple system components. It also refers to a framework proposed in ICAO Circular 216-AN31.
+The concept (the name being derived from the initial letters of its components, Software, Hardware, Environment, Liveware) was first developed by Edwards in 1972, with a modified diagram to illustrate the model developed by Hawkins in 1975.
+One practical diagram to illustrate this conceptual model uses blocks to represent the different components of Human Factors. This building block diagram does not cover the interfaces which are outside Human Factors (hardware-hardware; hardware-environment; software-hardware) and is only intended as a basic aid to understanding Human Factors:
+
+Software - the rules, procedures, written documents etc., which are part of the standard operating procedures.
+Hardware - the Air Traffic Control suites, their configuration, controls and surfaces, displays and functional systems.
+Environment - the situation in which the L-H-S system must function, the social and economic climate as well as the natural environment.
+Liveware - the human beings - the controller with other controllers, flight crews, engineers and maintenance personnel, management and administration people - within in the system.
+
+According to the SHELL Model, a mismatch between the Liveware and other four components contributes to human error. Thus, these interactions must be assessed and considered in all sectors of the aviation system.
+Liveware
+
+The critical focus of the model is the human participant, or liveware, the most critical as well as the most flexible component in the system. The edges of this block are not simple and straight, and so the other components of the system must be carefully matched to them if stress in the system and eventual breakdown are to be avoided.
+However, of all the dimensions in the model, this is the one which is least predictable and most susceptible to the effects of internal (hunger, fatigue, motivation, etc.) and external (temperature, light, noise, workload, etc.) changes.
+Human Error is often seen as the negative consequence of the liveware dimension in this interactive system. Sometimes, two simplistic alternatives are proposed in addressing error: there is no point in trying to remove errors from human performance, they are independent of training; or, humans are error prone systems, therefore they should be removed from decision making in risky situations and replaced by computer controlled devices. Neither of these alternatives are particularly helpful in managing errors.
+Liveware-Liveware
+(the intertface between people and other people)
+
+This is the interface between people. In this interface, we are concerned with leadership, co-operation, teamwork and personality interactions. It includes programmes like Crew Resource Management (CRM), the ATC equivalent - TRM (TRM), Line Oriented Flight Training (LOFT) etc.
+Liveware-Software
+(The interface between people and software)
+
+Software is the collective term which refers to all the laws, rules, regulations, orders, standard operating procedures, customs and conventions and the normal way in which things are done. Increasingly, software also refers to the computer-based programmes developed to operate the automated systems.
+In order to achieve a safe, effective operation between the liveware and software it is important to ensure that the software, particularly if it concerns rules and procedures, is capable of being implemented. Also attention needs to be shown with phraseologies which are error prone, confusing or too complex. More intangible are difficulties in symbology and the conceptual design of systems.
+Liveware-hardware
+(The interface between people and hardware)
+
+Another interactive component of the SHELL model is the interface between liveware and hardware. This interface is the one most commonly considered when speaking of human-machine systems: design of seats to fit the sitting characteristics of the human body, of displays to match the sensory and information processing characteristics of the user, of controls with proper movement, coding and location.
+Hardware, for example in Air Traffic Control, refers to the physical features within the controlling environment, especially those relating to the work stations. As an example the press to talk switch is a hardware component which interfaces with liveware. The switch will have been designed to meet a number of expectations, including the probability that when it is pressed the controller has a live line to talk. Similarly, switches should have been positioned in locations that can be easily accessed by controllers in various situations and the manipulation of equipment should not impede the reading of displayed information or other devices which might need to be used at the same time.
+Liveware - Environment
+(The interface between people and the environment)
+
+The liveware - environment interface refers to those interactions which may be out of the direct control of humans, namely the physical environment - temperature, weather, etc., but within which aircraft operate. Much of the human factor development in this area has been concerned with designing ways in which people or equipment can be protected, developing protective systems for lights, noise, and radiation. The appropriate matching of the liveware - environmental interactions involve a wide array of disparate disciplines, from environmental studies, physiology, psychology through to physics and engineering.
+Related Articles
+
+Pilot Equipment Interface
+Controller Position Design
+Human Factors Analysis and Classification System (HFACS)
+Heinrich Pyramid
+James Reason HF Model
+PEAR Model
+
+
+
+
+
+Categories
+
+
+Organisation and Human Performance,
+              Human Performance Modelling
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

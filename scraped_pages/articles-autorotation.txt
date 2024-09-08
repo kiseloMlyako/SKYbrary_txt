@@ -1,0 +1,185 @@
+Autorotation
+
+
+
+
+
+
+
+
+
+
+
+  Autorotation
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Theory of Flight 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ The Air Pilots
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Autorotation is a condition of helicopter flight during which the main rotor of a helicopter is driven only by aerodynamic forces with no power from the engine. It is a manoeuvre where the engine is disengaged from the main rotor system and the rotor blades are driven solely by the upward flow of air through the rotor. In other words, the engine is no longer supplying power to the main rotor. A vector of the rotor thrust in a helicopter is used to give forward thrust in powered flight; thus, where there is no other source of thrust in a helicopter, it must descend when in autorotation. Autorotation is a means by which a helicopter can be landed safely in the event of an engine failure.
+Autorotation Following Engine or Tail Rotor Failure
+The most common reason for an autorotation is an engine failure (or failure of both engines in the case of a twin-engined helicopter) but autorotations can also be performed in the event of a complete tail rotor failure, since there is virtually no torque produced in autorotation. (Although in this case the engine[s] must be shut down in the final stages of the approach to prevent an engine torque response as the landing is made.)
+If the engine fails, the freewheeling unit automatically disengages the engine from the main rotor allowing the main rotor to rotate freely. Essentially, the freewheeling unit disengages anytime the engine RPM (ERPM) is less than the rotor RPM (RRPM).
+The manufacturer specifies a minimum and maximum RRPM for each helicopter type. The normal RRPM range is marked on the RPM gauge as a green arc, with permitted cautionary ranges marked in yellow or amber and enclosed by a red mark indicating the minimum and maximum permitted.
+At the instant of engine failure, the main rotor blades are producing lift and thrust by a combination of their angle of attack and velocity. When engine power fails, the drag component will rapidly reduce the rotor speed. The flight manual will stipulate a minimum RRPM, below which, if the rotor speed reduces, it may be impossible to recover RRPM to a flight value: the rotor will stall entirely and cease to rotate. The pilot must, therefore, if engine power fails, immediately reduce collective pitch (and thus decrease both lift-induced and blade profile drag), as a result of which the helicopter begins an immediate descent, thus producing an upward flow of air through the rotor system. This upward flow of air through the rotor changes the lift and drag vectors along the span of the blades to produce an inboard section where the drag acts in the plane of rotation of the blades: and thus keeps them turning. This provides sufficient thrust to maintain rotor RPM throughout the descent, whilst also producing some lift. Nevertheless, rates of descent in autorotation are typically 1500-2000 fpm in many helicopters, and may be higher in some. Since the tail rotor is driven by the main rotor transmission during autorotation, balance is maintained as in normal flight.
+
+During autorotation upward flow of air through the rotors maintains RPM
+Several factors affect the rate of descent in autorotation: density altitude, gross weight, airspeed and RRPM:
+
+At high density altitudes, rate of descent will be higher because the air is less dense.
+
+
+High gross weights will increase both rate of descent and RRPM.
+
+
+At IAS below the recommended minimum rate of descent IAS, RRPM will be towards the lower end of the permitted range, and at higher IAS the RRPM may be towards the top end of the permitted range.
+
+The primary control of the rate of descent is airspeed. Higher or lower airspeeds are obtained with cyclic stick control of pitch attitude, just as in normal flight.
+In theory, the pilot has a choice of airspeeds to vary the angle of descent, from a vertical descent to maximum range, which is the minimum angle of descent. Rate of descent is high at zero airspeed and decreases to a minimum at approximately 50 to 70 knots for most light and medium helicopters, depending upon the particular helicopter type and the factors just mentioned.
+As the airspeed increases beyond that which gives minimum rate of descent, the rate of descent increases again. Such conditions may give rise to additional range in autorotation, and, as RRPM rises with increasing airspeed, the RRPM may be controlled at a reduced value (within the Flight Manual limits) by using additional collective pitch: this will normally maximise range.
+Similarly, in turns, due to the increased blade loading, RRPM will tend to rise, and the pilot may need to use small increases of collective pitch to keep RRPM within the manufacturer’s specified limits.
+When landing from an autorotation, the energy stored in the rotating blades is used to decrease the rate of descent and make a soft landing. A greater amount of rotor energy is required to stop a helicopter with a high rate of descent than is required to stop a helicopter that is descending more slowly. Therefore, autorotative descents at very low or very high airspeeds are more critical than those performed at the minimum rate of descent airspeed.
+Additionally, there will be a speed in autorotation above which the aft-dragging sections of the rotor blades extend along the blade span to the extent that the rotor will now begin to slow markedly. This airspeed will normally be expressed as a Flight Manual airspeed limitation for autorotation. Since RRPM is at its lowest value in a zero airspeed or low airspeed autorotation, and there is no effective airspeed for a flare manoeuvre prior to touchdown (discussed below), there may be insufficient inertia in the rotor system to dissipate the rate of descent before touchdown. This is particularly the case in helicopters with low-inertia rotor systems, such as, commonly, the R22, Rotorway models, Enstrom models and some others. Secondly, the range speed autorotation puts the helicopter into a configuration that will need to be modified in a timely manner in order for the pilot to execute an autorotative (or Engine-Off) landing. The helicopter will need to be decelerated to a suitable ground speed for touch down and ground-run along the landing area, either on its skid or wheeled undercarriage.
+The practical application of autorotation training is analogous to the ‘Practice Forced Landing Without Power’ carried out by aeroplane pilots. Just as in the aeroplane case, the helicopter pilot may simply re-apply power to initiate a go-around at any height, and (except in cases where the throttle must be manipulated by the pilot in co-ordination with an application of collective pitch) in most cases this will simply be matter of raising the collective lever and setting climbing power, with an appropriate adjustment of the pitch attitude.
+During autorotation the helicopter remains fully maneuverable, and a combination of turns and / or airspeed alterations may be used to adjust the flight path and to manoeuvre the aircraft to a suitable landing area.
+Autorotations to touch-down, or engine-off landings (EOL) are practiced routinely in almost all single-engine helicopters and are a required manoeuvre for skills tests. When conducting EOL training the instructor or examiner will retard the throttle or inhibit the engine governing system, so that the engine remains at idle power when the collective lever is raised. These manoeuvers are thus properly called simulated engine-off landings (SEOL), as the engine is not actually shut down.
+Autorotative Landing Technique
+Where turns are carried out in order to make good the chosen landing area, the aim should always be for the helicopter to be lined up with the landing area by no later than 300 ft agl in steady autorotation, at the recommended IAS (which will normally be a few knots higher than the minimum rate of descent IAS in order to maximize the benefits of the flare, discussed below). At a suitable height (typically between 40 and 100 ft depending on helicopter type) airspeed is reduced to a comfortable speed for a run-on landing using a decelerative, nose-up flare attitude. The flare has the benefit both of reducing forward speed and increasing RRPM during the flare, which will increase the stored energy in the rotor: necessary to cushion the touchdown. The additional lift created during the flare reduces the rate of descent. The speed at touchdown and the resulting ground run depends on the rate and amount of flare. The greater the degree of flare and the longer it is held, the slower the touchdown speed and the shorter the ground run. The slower the speed desired at touchdown, the more accurate the timing and speed of the flare must be, especially in helicopters with low inertia rotor systems.
+Since the flare will normally increase RRPM, the pilot may (except in helicopters with low-inertia rotor systems) raise the collective lever slightly at the end of the flare. (The small increase in collective pitch is often known as a ‘check’.) This will have the effect of using some of the additional RRPM to give some extra rotor thrust, which will both decrease rate of descent and provide more deceleration, since the rotor thrust is acting opposite to the direction of forward movement.
+The flared attitude cannot be held until touchdown, otherwise the tail of the helicopter will strike the ground first. Thus once the flare has been completed, the pilot must re-select a level pitch attitude using the cyclic stick prior to touchdown.
+In the latter stages of the EOL, the helicopter is in the level attitude, with a relatively low forward airspeed, and with only the remaining inertia in the rotor to assist the pilot in making a gentle touchdown. The pilot will have to raise the collective lever to use some or all of the remaining lift energy in the rotor system to cushion the touchdown.
+It is essential that the cyclic and pedals are co-ordinated throughout the flare and touchdown, so that the helicopter touches down running straight. After touch-down the cyclic and collective lever should not be moved until the landing run is complete and the helicopter comes to a stop. However, the yaw pedals should be used, if necessary, to ensure the ground-roll remains straight.
+Air Exercise: Straight-In Autorotation to EOL
+
+Autorotation technique
+A Straight-In Autorotation to SEOL is often used to practice the final stages of a touchdown autorotation. Given that in a practice forced landing the aim is always to be wings-level and at the recommended IAS for an EOL by 300 ft agl, from that point on the procedure, and in particular energy management of the RRPM, is generally the same.
+Refer to figure above (position 1). From level flight at the manufacturer’s recommended airspeed, at above 500 feet AGL and heading into the wind, smoothly, but firmly, lower the collective pitch lever to the full down position, maintaining RRPM in the green arc.
+Coordinate the collective movement with the yaw pedals to maintain balance and use the cyclic stick to adjust the pitch attitude to select and maintain the desired airspeed. In piston engined helicopters, once the collective is fully lowered, decrease throttle to ensure a clean split of the needles. After splitting the needles, readjust the throttle to keep ERPM above normal idling speed, but not high enough to cause rejoining of the needles. The manufacturer often recommends the ERPM to set. Different engine management techniques may be specified in the flight manual for turbine-engine helicopters and others with engine-governing systems.
+At position 2, the aircraft should be in autorotation at the recommended autorotative IAS, with IAS steady, RRPM in the green sector, and with the helicopter in balance.
+At approximately 40 to 100 feet above the surface, or at the height recommended by the manufacturer (position 3), the flare is begun, selecting a decelerative attitude with sufficient aft cyclic stick to reduce forward airspeed and decrease the rate of descent. Care must be taken in the execution of the flare so that the cyclic stick is not moved rearward so abruptly as to cause the helicopter to climb, nor should it be moved too slowly, as there will then be little flare effect to help arrest the descent. The flare may be a ‘once only’ manoeuvre to a defined nose-up pitch attitude, or progressively applied, but so as to avoid any extreme pitch attitude. The RRPM should increase during the flare, and a marked increase in RRPM allows the pilot to make a small upwards movement (or ‘Check’) of the collective lever to maximise both lift and deceleration with the helicopter in the flared attitude.
+As the ground clearance between the helicopter tail and the ground reduces, and forward speed has decreased to an apparent fast runner’s pace, (position 4), the cyclic is moved forward to place the helicopter in the level fuselage attitude for landing. The height at this time should be approximately 8 to 15 feet AGL, depending on the height recommended by the manufacturer. Extreme caution should be used to avoid an excessive nose high and tail low attitude below 10 feet.
+At this point only the remaining inertia in the rotor system remains to provide lift and the helicopter will be descending with low forward speed (position 5). The pilot must increase collective pitch, as necessary, to check the descent and cushion the landing. The yaw pedals are used to maintain heading as collective pitch is raised, due to the reduction in RRPM and the resulting reduced effect of the tail rotor.
+After touchdown, and after the helicopter has come to a complete stop, the collective lever is lowered to the full-down position. No attempt should be made to try to stop the forward ground run with aft cyclic, as the main rotor blades can strike the tail boom at low RRPM. Rather, by lowering the collective slightly during the ground run, more weight is placed on the undercarriage, slowing the helicopter.
+To summarise the EOL technique from a steady-state autorotation at the recommended IAS: FLARE (or F-L-A R-E), CHECK (except low inertia rotor systems) LEVEL, and CUSHION.
+Common Errors in Autorotation
+
+Failing to use sufficient antitorque pedal when power is reduced.
+Lowering the nose abruptly when power is lost. Unloading the rotor system causes further loss of RRPM, and the accelerative attitude may result in excessive gain in IAS and increase in Rate of Descent.
+Failing to maintain RRPM within Flight Manual limits during the descent.
+Failure to maintain the recommended IAS at which the flare is effective
+Flaring at the wrong height.
+Flaring too aggressively or not aggressively enough.
+Terminating the flare too high and / or…..
+
+….application of up-collective lever at an excessive height, resulting in a hard landing, loss of heading control, and possible damage to the tail rotor and to the main rotor blade stops.
+
+
+Failing to level the helicopter before touch-down.
+
+Accidents and Incidents
+
+AS32, en-route, North Sea Norway, 1998: On 20 October 1998, in the North Sea, an Eurocopter AS332L Super Puma operated by Norsk HeliKopter AS, experienced engine failure with autorotation and subsequent lost of height. The crew misidentified the malfunctioning engine and reduced the power of the remaining serviceable engine. However, the error was detected just in time for the crew to recover control of the helicopter.
+
+Related Articles
+
+Wake Vortex Generation by Helicopters
+Vortex Ring
+Helicopter SMS Toolkit
+Offshore Helicopter Safety Review 2014 UK CAA
+
+Further Reading
+
+Helicopter Flying Handbook (FAA-H-8023-21B), FAA, 2019
+Autorotation Management and Training, EASA Community Network | Rotocraft
+EASA Helicopter Flight Instructor Guide, EASA, Issue 4, 2022
+
+
+
+
+
+Categories
+
+
+Theory of Flight,
+              Helicopter Safety
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,152 @@
+Aeronautical Frequency Protection from Interference
+
+
+
+
+
+
+
+
+
+
+
+  Aeronautical Frequency Protection from Interference
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Air Ground Communication 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+The most important concept in aeronautical frequency management is the “designated operational coverage”, abbreviated as DOC. The DOC of a frequency assignment is the volume of airspace where the use of that frequency is protected from interference from other frequency assignments.
+DOCs are expressed as a circle or a polygon with a maximum and a minimum flight level, therefore their geometrical forms are cylinders or prisms.
+
+Typical designated operational coverage volumes.
+The frequency planning rules, used to plan new frequency assignments, prescribe the minimum distance between the DOCs of two frequency assignments using the same frequency. This distance is required to ensure protection from interferences.
+Effects of close assignments
+Because of the constant demand for new frequency assignments in Europe, frequencies are re-used as much as possible. Therefore the probability that the same frequency is re-used at the minimum distance is currently very high. In those cases, if the frequency is used outside of the DOC of the assignment, interferences may be experienced in neighbouring DOCs using the same frequency.
+The effects of radio interference on the ATS provision and aircraft operations are described in more details in Radio Interference.
+Typical scenarios
+The diagram below illustrates two DOCs using the same frequency and located at the minimum distance. When aircraft A transmits outside of the DOC, aircraft B will be interfered with (i.e. it will hear the transmissions from aircraft A) even though aircraft B is inside of its DOC. Aircraft A will also be able to hear transmissions from aircraft B.
+
+Aircraft A causing interference in aircraft B.
+In the above case, the controller responsible for aircraft A will still be able to communicate with the aircraft and will not be aware that harmful interferences are caused to aircraft B. In most cases, the controller responsible for aircraft B will not be aware of the interference from aircraft A, as the interference is received only in the air. Therefore aircraft B could be simultaneously receiving instructions from the controller and interference from aircraft A, which could lead to misinterpretation of the instructions.
+Another common scenario of harmful interference is the incorrect use of frequencies when collapsing sectors and coupling frequencies. For instance, in the situation depicted below, the TWR and APP frequencies may be collapsed at night. If the DOC of the TWR frequency covers only the TWR sector and at night this frequency is coupled to the APP frequency, the departing traffic can be using the TWR frequency well outside its DOC and this would cause harmful interference to other frequency assignments using the same frequency.
+
+Harmful interference due to collapsing sectors and coupling frequencies.
+Contributory factors
+Early transfers of communications that take place outside the DOC of the frequency assignment are common causes of sporadic harmful interferences.
+Solutions
+Airspace planners should be aware of the precise DOCs of all frequencies and should take into account that they may be used outside the associated ATC sectors’ airspaces and in particular when collapsing ATC sectors.
+Further Reading
+ICAO
+
+ICAO EUR Doc 011 - Definition of DOC and frequency planning rules
+
+EUROCONTROL
+
+DOC poster for pilots
+NM Radio Frequency Function
+
+
+
+
+
+Categories
+
+
+Air Ground Communication
+
+
+
+
+
+
+
+
+
+Related Articles
+
+Radio Interference
+Blocked Transmissions / Undetected Simultaneous Transmissions (USiT)
+Radio Discipline
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,143 @@
+System-wide Information Management (SWIM)
+
+
+
+
+
+
+
+
+
+
+
+  System-wide Information Management (SWIM)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+SWIM consists of standards, infrastructure and governance enabling the management of ATM related information and its exchange between qualified parties via interoperable services.
+Source: ICAO Doc 10039: Manual of SWIM Concept
+Description
+The present-day flight planning provisions suffer from some important limitations regarding flight information sharing, advanced notification, inconsistent flight information, information security and the flexible use of information.
+A net-centric and secure environment, based on a globally consistent and unambiguous set of information elements, is needed to overcome the existing deficiencies and achieve a 4D trajectory-based globally interoperable ATM system.
+4D trajectory based ATM systems have a number of data-related requirements. These include, but are not limited to:
+
+a secure architecture with trusted sharing of information system-wide;
+early provision of intent data;
+collaborative decision making support;
+high automation support requiring machine readability and unambiguous definition of information items.
+
+SWIM Principles
+Both the SESAR and the NextGen efforts are aligned on key objectives with regard to the management of flight information:
+
+Information must be shared securely on a system-wide basis;
+Pertinent information will be available when and where it is required;
+Information may be personalized, filtered, and accessed, as needed;
+The system will include all tenets of cybersecurity to include confidentiality, integrity, availability and protection of data, networks and control systems, continuity of operations and secure interoperable communications;
+Authentication for user access;
+Initial quality of the information will be the responsibility of the originator; subsequent handling will not compromise its quality;
+Information sharing can be adjusted to mitigate any proprietary concerns;
+Information management will use globally harmonized information attributes.
+
+SWIM Implementation Alternatives
+Basically there are two ways to introduce SWIM and achieve its objectives:
+
+Establish a dedicated centralized flight data processing system that is supposed to act as a server;
+Connect individual flight data processing systems into a wide array network.
+
+The latter approach seems more likely to be implemented as it makes use of existing systems and provides more reliability and robustness (a failure of a central server generally has a greater impact on a network than a failure of several elements in a peer-to-peer network).
+Further Reading
+
+SESAR
+
+
+
+
+
+Categories
+
+
+General,
+              SESAR
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

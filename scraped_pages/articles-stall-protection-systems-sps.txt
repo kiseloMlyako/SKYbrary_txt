@@ -1,0 +1,149 @@
+Stall Protection Systems (SPS)
+
+
+
+
+
+
+
+
+
+
+
+  Stall Protection Systems (SPS)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Control 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Operating an aircraft in the stalled flight region can lead to loss of control. To prevent this from happening, aircraft certification requirements establish that the subject aircraft demonstrate sufficient stall warning margin and effectiveness.
+Stall warning systems (SWS) and stall protection systems (SPS) are designed to satisfy the regulatory stall warning requirements.
+Background
+Stick pushers were originally developed to address crashes in aircraft susceptible to Deep Stall - generally T tail configuration aircraft in which the airflow over the elevators would be blocked by the wing in the event of a stall, thus making the aircraft unrecoverable. The pusher was incorporated to prevent this by pushing the nose down in the event that the aircraft reached the triggering angle of attack (AoA). The system is found in many corporate and commercial pattern aircraft
+How SPSs work
+SPSs limit the actual aircraft AoA to a specific AoA. This is achieved by a "pusher system" (stick pusher) to forcibly reduce the angle of attack and prevent a stall. 
+SPSs normally consist of at least two independent computers with two or more independent AoA sensors. Both computers must issue stall warnings, and both have to agree to push. Normally, the pilot is required to test the operation before every flight as it is preferrable to have SPSs that fail safe— with no push— than SPSs that push inadvertently.
+A dual-channel SPS computer monitors the following inputs:
+
+Angle of attack (AoA) - LH, RH angle of attack vanes;
+Lateral acceleration = internal reference system (IRS);
+Flap position; and
+Pressure altitude - air data computers (ADCs)
+
+The SPS uses these inputs to continuously calculate AoA trip points while in flight. The AoA trip points are biased with the lateral accelerometers (sideslip and skid), flap position and pressure altitude.
+SPSs allow pilots to extract maximum performance from the aircraft for any given set of flight conditions, without the risk of stalling or remaining in a high drag state for a prolonged period of time. The maximum AoA command may be scheduled as a function of aircraft configuration, aircraft icing state, flight conditions and other relevant parameters. The maximum AoA command cannot be readily overridden by the flight crew through inadvertent or habitual, reflexive action.
+How they compare with SWSs
+Stall warning systems (SWS) provide visual, audible, and/or tactile (stick shaker) indications to the pilot that the aircraft is approaching the stall AoA. SWSs do not affect the pilot's control of the aircraft, and as such, the pilot may elect to ignore the stall warning system and command the aircraft into the stall (or uncontrolled) flight region.
+SPSs, conversely, prevent the aircraft from entering the stalled flight region by taking control of at least some of the flight control surfaces from the pilot and actuating the flight control surfaces to maintain the aircraft in the region below the stall AoA. Generally, stall protection systems prevent the aircraft AoA from exceeding the stall AoA so that the wing retains predictable lift characteristics and pilot manipulation of the control surfaces remains effective, with the exception that manipulation of the control surfaces that would cause the aircraft to exceed the stall AoA is prevented.
+Editor's Note: The crew should initiate approved recovery techniques at the first indication of an impending stall.
+ 
+References
+
+Boeing Aircraft Stall Protection Patent
+EASA Equivalent Safety Finding - Enhanced Stall Protection
+Stall Warning Systems (AvWeb website)
+
+
+
+
+
+Categories
+
+
+Loss of Control,
+              Flight Technical
+
+
+
+
+
+
+
+
+
+Related Articles
+
+Stall Warning Systems
+Stall Recovery
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

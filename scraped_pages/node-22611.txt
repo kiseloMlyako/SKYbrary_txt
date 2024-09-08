@@ -1,0 +1,187 @@
+Airspace and Procedure Design
+
+
+
+
+
+
+
+
+
+
+
+  Airspace and Procedure Design
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Level Bust 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+The proper planning and design of routes, holding patterns, airspace structure and ATC sectorisation in both terminal and en-route airspace can be effective in reducing the likelihood of level bust incidents. The converse is also true: poorly designed airspace can create situations where a level bust incident is more likely to occur within an air traffic management (ATM) system.
+In an ideal world, airspace design would make it possible for arriving, departing and en-route flights to operate so that they did not have to cross one another, or climb and descend through each other’s levels. Furthermore, approach and take-off flight paths would be free of obstacles. Unfortunately, however, this “ideal” design environment is seldom possible, which means that airspace designers need to take steps to reduce the likelihood of level busts in the above circumstances.
+Effects
+While not actually causing them, poorly designed airspace can increase the risk of loss of separation, level bust, and Controlled Flight Into Terrain (CFIT).
+Typical Scenarios
+
+A standard instrument departure (SID) requires pilots to level at an intermediate altitude until passing a specified point. The pilot fails to stop at this intermediate altitude and loses separation with an aircraft above.
+A SID is based on an off-airfield DME. The pilot does not notice this and becomes confused when the DME range decreases rather than increases.
+A non-precision approach begins at a fix defined by bearing and distance from a radio facility. The pilot has difficulty flying to this fix and descends the aircraft outside the calculated safety zone.
+A non-precision approach specifies a descent path by means of a series of fixes and corresponding check heights. The descent path consists of a series of steps rather than a continuous descent and the pilot has difficulty in establishing a stabilised approach.
+
+Contributory Factors
+
+The extent of the navigation, communication and surveillance infrastructure;
+Terrain surrounding the aerodrome;
+Other ATS routes, prohibited, danger and restricted areas;
+Proximity of other aerodromes and other airspace structures;
+Requirements to ensure environmental mitigation (e.g. noise abatement procedures).
+
+Defences
+
+Airspace and procedure design should follow the principles laid down in ICAO Doc 8168 (PANS-OPS) and Doc 4444 (PANS-ATM). PANS-OPS provides criteria for the design of instrument approach, holding and departure procedures. PANS-OPS provisions also cover en-route procedures where obstacle clearance is a consideration. PANS-ATM provides procedures for air navigation services, whose basic tenets form the basis of airspace design.
+EUROCONTROL Manual for Airspace Planning provides guidance material for airspace design and PANS-OPS Procedure design. This is supplemented by Guidance Material for the design of Terminal Procedures for Area Navigation (DME, GNSS, Baro-VNAV and RNP RNAV).
+The introduction of airspace procedures and design should be planned. This implies identifying and addressing all relevant stakeholder interests; carrying out an impact assessment; and carrying out a safety assessment. This also implies the introduction of changes in an organised manner which reduces the likelihood of design solutions creating operational difficulties for either pilots or ATCOs.
+Changes introduced to existing terminal area procedures as well as SIDs and STARs should be properly validated, prior to implementation.
+Sufficient time should be allowed in the planning process to allow for necessary ATCO and pilot training.
+When RNAV terminal area procedures are designed (excluding the final approach and missed approach segment), procedures should be designed using P-RNAV criteria in accordance with guidance material published by EUROCONTROL.
+Make use of procedure-design tools.
+
+Accidents and Incidents
+This sections contains occurrences where airspace design has been considered to have contributed to the event.
+
+
+B789 / A332, vicinity Sydney Australia, 2022On 28 September 2022, a Boeing 787-9 and an Airbus A330-200 were successively cleared for takeoff from Sydney having been instructed to follow the same SID and climb to the same level - FL280. The A330 climbed faster than the controller anticipated and turned towards the next waypoint inside the preceding aircraft, resulting in a loss of separation. The Investigation found that the SID concerned did not provide separation assurance to aircraft with different performance characteristics because aircraft had to satisfy two separate conditions prior to turning which meant the turning point was not a fixed position.
+
+B738 / B738, en-route, south of Écija Spain, 2019On 16 July 2019, a Boeing 737-800 inbound to Malaga and another Boeing 738-800 inbound to Seville and under area radar control lost separation after the Malaga-bound aircraft was unexpectedly given radar headings to extend its destination track miles after early handover to a control  sector which it had not yet entered. With no time to achieve resolution, the two aircraft, both descending, came within 1.3 nm of each other at the same level. The Investigation attributed the conflict to an overly-permissive Letter of Agreement between Seville Centre and Malaga Approach and recommended that it be revised to improve risk management.
+
+A320 / E195, vicinity Brussels Belgium, 2018On 23 February 2018, an Embraer 195LR and an Airbus A320 on SIDs departing Brussels lost separation after the 195 was given a radar heading to resolve a perceived third aircraft conflict which led to loss of separation between the two departing aircraft. STCA and coordinated TCAS RA activations followed but only one TCAS RA was followed and the estimated minimum separation was 400 feet vertically when 1.36 nm apart. The Investigation found that conflict followed an error by an OJTI-supervised trainee controller receiving extended revalidation training despite gaining his licence and having almost 10 years similar experience in Latvia.
+
+B738 / DV20, vicinity Reus Spain, 2019On 12 May 2019, a Boeing 737-800 making its second procedural ILS approach to runway 25 at Reus came into conflict with an opposite direction light aircraft as the latter approached one of the designated VFR entry points having been instructed to remain well above the altitude which normally ensures separation of IFR and VFR traffic. The collision risk was resolved by TCAS RA promptly followed by the 737. The Investigation concluded that limiting the TWR radar display to the ATZ for controller training purposes had resulted in neither the trainee controller nor their supervisor being aware of the risk.
+
+AT72, vicinity Stockholm Bromma Sweden, 2010On 21 August 2010 a Golden Air Flyg ATR 72 under ATC control in Class C airspace was vectored close to three parachutists who had been dropped from a helicopter as part of an air show because of confusion between the ATC unit with responsibility for the incident airspace and the adjacent unit to which that responsibility had been delegated because it was nearest to the air show site. Additional confusion was caused by poor R/T practice by both ATC units and by different portrayal of a holding pattern on charts held by ATC and he flight crew.
+
+B752/GLID, vicinity Glasgow UK, 2011On 23 July 2011 a Boeing 757 in Class E airspace east of Glasgow in VMC encountered a glider ahead at the same altitude and deviated right to avoid a collision. The glider, climbing in a thermal, had not seen the 757 until it passed during avoiding action. The closest proximity was estimated as 100 metres at the same level as the glider passed to the left of the 757 in the opposite direction. Since the circumstances were considered to have demonstrated a safety critical risk by the UK CAA, an interim airspace reclassification Class D was implemented
+
+F2TH / GLID, vicinity St Gallen-Altenrhein Switzerland, 2017On 15 October 2017, a Falcon 2000EX on base leg for an easterly ILS approach at St Gallen-Altenrhein came into close proximity with a reciprocal track glider at 5000 feet QNH in Class ‘E’ airspace in day VMC with neither aircraft seeing the other until just before their minimum separation - 0.35 nm horizontally and 131 feet vertically - occurred. The Investigation attributed the conflict to the lack of relevant traffic separation requirements in Class E airspace and to the glider not having its transponder switched on and not listening out with the relevant ATC Unit.
+
+F50 / P28T, vicinity Friedrichshafen Germany, 2016On 21 April 2016, a Fokker F50 under radar control in Class ‘E’ airspace was almost in collision with a VFR Piper PA28 after they closed on a constant relative bearing when inbound to Friedrichshafen in VMC. After only being able to locate the PA28 on their TCAS display, the F50 crew implemented a lateral avoidance manoeuvre which prevented generation of an RA. The Investigation concluded that special ATC procedures in place due to busy traffic because of an annually-held trade fair at Friedrichshafen had entailed “systemic risk” and also identified inadequate controller coordination as contributory to a near collision.
+
+H25B / AS29, en-route / manoeuvring, near Smith NV USA, 2006On 28 August 2006, a Hawker 800 collided with a glider at 16,000 feet in Class 'E' airspace. The glider became uncontrollable and its pilot evacuated by parachute. The Hawker was structurally damaged and one engine stopped but it was recovered to a nearby airport. The Investigation noted that the collision had occurred in an area well known for glider activity in which transport aircraft frequently avoided glider collisions using ATC traffic information or by following TCAS RAs. The glider was being flown by a visitor to the area with its transponder intentionally switched off to conserve battery power.
+
+A320 / B738, vicinity Dubai UAE, 2012On 22 April 2012, an Airbus A320 and a Boeing 737 came into close proximity near Dubai whilst on the same ATC frequency and correctly following their ATC clearances shortly after they had departed at night from Sharjah and Dubai respectively. The Investigation found that correct response by both aircraft to coordinated TCAS RAs eliminated any risk of collision. The fact that the controller involved had only just taken over the radar position involved and was only working the two aircraft in conflict was noted, as was the absence of STCA at the unit due to set up difficulties.
+
+DH8A, vicinity Svolvær Norway, 2010On 2 December 2010, a DHC8-100 crew briefly lost control of their aircraft after encountering a microburst and came very close to both the sea surface and a stall when turning onto night visual final at Svolvær during an otherwise uneventful circling approach. After recovery from 83 feet agl, involving an unplanned change of control, an uneventful diversion to an alternate followed. Commencement of an investigation was delayed by failure to report the event at all initially, or fully. It was found that during loss of control, airspeed had dropped to 72 knots and rate of descent had exceeded 2,200 fpm.
+
+A343 / GLID, en-route, north of Waldshut-Tiengen southwest Germany, 2012On 11 August 2012, the augmenting crew member in the flight deck of an Airbus A340 about to join final approach to Zurich in Class 'C' airspace as cleared suddenly saw a glider on a collision course with the aircraft. The operating crew were alerted and immediately executed a pronounced avoiding manoeuvre and the two aircraft passed at approximately the same level with approximately 260 metres separation. The Investigation attributed the conflict to airspace incursion by the glider and issue of a clearance to below MRVA to the A340 and noted the absence of relevant safety nets.
+
+D328 / R44, Bern Switzerland, 2012On 2 June 2012, a Dornier 328 and a commercially-operated Robinson R44 helicopter came into close proximity within the airport perimeter whilst both were departing from Bern in VMC as cleared. The Investigation attributed the conflict to inappropriate issue of clearances by the controller in a context of an absence of both a defined final approach and take off area and fixed departure routes to the three designated departure points.
+
+RJ1H/UNKN, vicinity Malmo Sweden, 2009On 13 October 2009, an Avro RJ100 being operated by Malmo Aviation on a scheduled passenger flight from Stockholm Bromma to Malmo in day VMC came into proximity with a unseen light aircraft crossing below which activated a TCAS RA which was followed. The flight crew were unaware that they were outside controlled airspace at the time. No abrupt manoeuvring occurred and none of the 85 occupants were injured.
+
+AS50 / PA32, en-route, Hudson River NJ USA, 2009On August 8, 2009 a privately operated PA32 and a Eurocopter AS350BA helicopter being operated by Liberty Helicopters on a public transport sightseeing flight collided in VMC over the Hudson River near Hoboken, New Jersey whilst both operating under VFR. The three occupants of the PA32, which was en route from Wings Field PA to Ocean City NJ, and the six occupants of the helicopter, which had just left the West 30th Street Heliport, were killed and both aircraft received substantially damaged.
+
+
+
+
+Further Reading
+ICAO Documentation:
+
+Doc 8168 (PANS-OPS);
+Doc 4444 (PANS-ATM);
+
+EUROCONTROL Guidance material
+
+Manual for Airspace Planning Volume 2 - Common Guidelines;
+
+EUROCONTROL Level Bust Toolkit
+
+Level Bust Briefing Note ATM4 - Airspace and Procedure Design;
+
+
+
+
+
+Categories
+
+
+Level Bust
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,152 @@
+CPDLC Design and Implementation Safety Considerations
+
+
+
+
+
+
+
+
+
+
+
+  CPDLC Design and Implementation Safety Considerations
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+This article describes the safety issues related to the design and implementation of Controller Pilot Data Link Communications (CPDLC). The main objectives are to provide an idea why certain choices are made during the development process and to identify best practices for CPDLC development and deployment.
+There are a number of decisions to be made when developing a new CPDLC system. All of them offer some benefits but also may present a number of safety or financial issues. Resources are limited, therefore the balance between safety, technical features and economic feasibility is the key to producing a good CPDLC system.
+Use of Free Text Messages
+Description: The use of free text allows users to send messages
+Benefits: Greater flexibility; more options in case of non-standard situations (e.g. in case of loss of radio communication).
+Issues: Increased chance of misunderstanding or ambiguity (e.g. due to grammar or spelling mistakes).
+Advice: If a choice is made that this feature will be implemented, special training of the staff is to be considered, both for language skills and system operation (how and when to use free text messages).
+Use of Optional Messages
+Description: There is a list of standard but optional messages. Their inclusion in the CPDLC system is subject to local implementation decision.
+Benefits: In general, a larger set of available messages gives users more options.
+Issues: In general, a larger set of messages makes the system more complex to learn and operate; the costs are higher and there is no guarantee that the other party supports operational use of the extended message set. A more complex system is usually more likely to have stability issues.
+Advice: General decisions such as “All optional messages will be supported” or “No optional messages will be supported” should be avoided. The careful consideration of all possible messages (based on local particularities) is a better course of action.
+Use of Complex Messages
+Description: It is technologically possible to allow the transmission of multi-element clearances and requests (e.g. (call sign) PROCEED TO (point), CLIMB TO FL (flight level), CLIMB AT (assigned rate) MINIMUM).
+Benefits: More options for controllers and pilots (they may choose between one multi-element message or several single-element messages). Issues: If only one element of a multi-element message cannot be complied with/granted, a negative response will be sent to the whole message, resulting in higher workload (extended communication). Also, ambiguity is more likely (e.g. due to inadequate training crew may not send the unable response when the request or clearance can only be partially accommodated).
+Advice: The option to use complex messages should only be implemented if a dedicated analysis shows that the benefits outweigh the shortcomings. If this feature is to be included, special staff training is advised.
+Transfer with Open Dialogues Within the Same Data Authority
+Description: Open dialogues are to be resolved (e.g. by voice, cancelled, etc.) when transferring the control of an aircraft to a new data authority (i.e. new ATS unit). When transferring aircraft between different sectors within the same data authority (ATS unit) it is possible to transfer the open dialogue to the receiving sector.
+Benefits: Seamless operations – no need for pilots to re-issue requests or controllers to re-issue instructions or clearances; reduced workload, especially for controllers.
+Issues: Poor inter-sector coordination can lead to a variety of undesired situations (e.g. loss of separation, unexpected maneuver, etc.).
+Advice: This option is to be used after careful consideration. The decision criteria should be whether the reduction of workload outweighs the probability of human error. Also, special training is advised if this option is to be implemented (different procedures apply depending on whether the operations are inter-sector or inter-unit).
+CPDLC Coverage
+Description: CPDLC coverage (especially when the adjacent ATS units have not implemented CPDLC) determines how far from the unit boundary an aircraft is able to log on to the CPDLC system and depends on the equipment used.
+Benefits: Better coverage means that aircraft can log on earlier and equipment failures can be detected earlier.
+Issues: The further the coverage, the higher the costs (both for initial development and maintenance)
+Advice: CPDLC coverage should not be extended unreasonably. System designers should provide the minimum standard requirements.
+Human-Machine Interface (HMI)
+There are no strict rules referring to the HMI; therefore different approaches can be used. This section provides some general advice in the field based on user experience:
+
+The use of the aircraft (track) label for input of CPDLC messages reduces the chance that a message is sent to the wrong aircraft.
+The use of the aircraft (track) label for showing the CPDLC status (e.g. aircraft logged on, CPDLC failure, message being uplinked/down linked etc.) makes it easier for controllers to monitor CPDLC activities, detect failures earlier and respond promptly to aircraft requests.
+A place (e.g. a dedicated menu) that includes all CPDLC features would help people familiarize with the system capabilities and will provide a place where any CPDLC-related task can be performed.
+Most features should be available from more than one place, e.g. a CPDLC menu (easier to find) and a shortcut (easier to use).
+Confirmation before sending each message would reduce the number of wrong messages being sent; however will increase workload and message exchange time.
+
+Related Articles
+
+Controller Pilot Data Link Communications (CPDLC)
+CPDLC General Safety Considerations
+
+Further Reading
+
+ATC Data Link Operational Guidance for LINK 2000+ Services
+Link 2000+ Programme Website
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

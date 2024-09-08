@@ -1,0 +1,198 @@
+Take-off without ATC Clearance
+
+
+
+
+
+
+
+
+
+
+
+  Take-off without ATC Clearance
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Air Ground Communication 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Take-off without ATC Clearance is an aerodrome-related safety event that is somewhat similar to Landing without ATC Clearance. Both involve air traffic control, typically happen during critical and high-workload stages of the flight, and can result in similar hazardous outcomes (e.g. runway incursion, loss of separation, collision, etc.).
+The main difference between the two events (aside from the flight phase) are the causal factors involved. Landing without ATC clearance can be caused by one or more of a variety of factors - loss of communication, loss of situational awareness (e.g. unintentional use of an incorrect runway, taxiway or even aerodrome), poor communication, high workload, etc. In the takeoff without ATC clearance scenario, poor pilot-controller communication (e.g. improper phraseology) is by far the most common precursor. Normally, if a flight crew finds out that there is a communication failure during the taxi phase, they will return to apron to investigate and will not attempt to take off. Also, while the inadvertent use of a wrong runway (or a taxiway) for take off sometimes happens, it is impossible to imagine that a pilot would try to use a wrong aerodrome.
+Note: this article does not examine scenarios in which a valid takeoff clearance is given but is not followed correctly due to the aircraft being in the wrong place (i.e., attempting takeoff from a taxiway or from a wrong runway).
+Consequences
+Taking off without ATC clearance may lead to:
+
+Runway Incursion - The aircraft may have been cleared only to the runway holding point. Also, at relatively complex aerodromes, taking off may mean crossing other runways.
+Rejected Take Off - The tower controller would likely observe the aircraft starting the take-off roll and may instruct the crew to cancel it.
+Loss of Separation - If the take-off without clearance is not aborted, either because of lack of communication or due to the pilots non-compliance with the instruction (e.g. for safety reasons), there is a chance that the aircraft that has just taken off will come into close proximity with other traffic in the vicinity of the aerodrome.
+Aborted landing(s) for aircraft on final. This may happen as a consequence of a runway incursion.
+Increased workloads for controllers and pilots due to the sudden change of plan. At busier aerodromes, several aircraft may need to be given avoiding-action instructions or other clearance amendments (e.g. orbits/holding patterns).
+
+Contributing Factors
+
+Call sign confusion (i.e., the flight crew of one aircraft taking a clearance intended for another one) - This is more likely to happen at complex aerodromes with more than one runway.
+Incorrect phraseology - The most notorious example of this is the use of the word take-off in a phrase not related to a take-off clearance but instead to a different type of ATC clearance; see (the B742 / B741, Tenerife Canary Islands Spain, 1977 accident). A distorted ATC message containing the word "take off" can easily be misinterpreted as a takeoff clearance.
+Expectation bias - For example, the instruction "for departure contact tower" issued by the GND controller might be misinterpreted as "after departure contact tower." This was the case in the B738, Eindhoven Netherlands, 2012 occurrence.
+Cockpit workload - The pre-takeoff part of the flight is a time of high workload for pilots, and there is risk that they will fail to notice the absence of a clearance or "will assume" that their take-off clearance has been issued.
+
+Safety Barriers
+
+Strict adherence to SOPs - If in doubt whether a take-off clearance has been received, the flight crew should clarify the situation with the tower controller.
+Radiotelephony discipline - While standard phraseology and proper communication techniques should be followed at all times, the following aspects must be stressed in relation to the risk of takeoff without ATC clearance:
+
+The phrase take off should only be used by ATC when issuing or cancelling a take-off clearance. In all other instances departure or airborne should be used.
+A blocked frequency often means that two aircraft (usually with similar call signs) have accepted the same clearance. The controller should promptly intervene in such circumstances to clarify the situation. Pilots, if in doubt whether a clearance was meant for them, should clarify rather than assume.
+Incorrect readback detection. An incorrect readback may mean that the pilot has confirmed what he or she thought they heard or expected to hear (e.g., line up, cleared for take-off) and not the actual clearance (e.g., line up and wait).
+Unambiguous hold short, line up and take off clearances - If the controller has any doubt that the crew might interpret the clearance incorrectly, they should emphasise (restate) the relevant part of the clearance. If the flight crew has any doubt about whether or not the clearance received contains a take-off part they should seek clarification instead of assuming "the most probable" scenario.
+
+
+Proper handling of conditional clearances - Normally, conditional clearances should be used by ATC for line up clearance, and not for take-off clearance. Controllers should explicitly state that a further (take-off) clearance is to be issued at a later time.
+Controller vigilance - If the controller observes that an aircraft has just started its take-off roll and there is any safety concern, the controller should instruct the flight crew to stop immediately. If the error is detected early enough, the rejected take off will have no negative impact on flight safety (operational efficiency may suffer, however, as the aircraft may need to lose time to taxi back to the beginning of the runway).
+
+Accidents and Incidents
+
+
+E190 / LJ60, Boston USA, 2023On 27 February 2023, an Embraer 190 was flaring for an imminent night touchdown on runway 04R at Boston in normal visibility when a Learjet 60 began takeoff from intersecting runway 09. As the Embraer descended through 30 feet AGL, the Learjet entered runway 04R, taking two seconds to cross it. The incursion had triggered an ATC alert and just after the crossing, the Embraer was instructed to go around and did so from around 10 feet AGL. The Investigation found that the Learjet crew correctly read back their line up and wait clearance but then took off without clearance.
+
+A359, Barcelona Spain, 2020On 24 October 2020, an Airbus A350-900 took off in daylight from runway 07R at Barcelona without a clearance to do so when an Airbus A320 was on approach to land on runway 02 which involves an approach path that crosses over runway 07R and lateral separation was reduced to 2.8nm. The Investigation attributed the inadvertent failure to await clearance to “some form of reduced alertness” on the part of the crew.
+
+CRJ2 / B773, Toronto Canada, 2019On 9 August 2019, a Bombardier CRJ-200LR about to depart Toronto which had read back and actioned a clearance to line up on the departure runway then began its takeoff without clearance and only commenced a high speed rejected takeoff when a Boeing 777-300 came into view crossing the runway ahead. A high speed rejected takeoff was completed from a maximum speed of around 100 knots. The Investigation concluded that an increased crew workload, an expectation that a takeoff clearance would be received without delay and misinterpretation of the line up instructions led to the premature initiation of a takeoff.
+
+B738, Eindhoven Netherlands, 2012On 11 October 2012, the crew of a Ryanair Boeing 737-800 did not change frequency to TWR when instructed to do so by GND whilst already backtracking the departure runway and then made a 180° turn and took off without clearance still on GND frequency. Whilst no actual loss of ground or airborne safety resulted, the Investigation found that when the Captain had queried the receipt of a take off clearance with the First Officer, he had received and accepted a hesitant confirmation. Crew non-compliance with related AIP ground manoeuvring restrictions replicated in their airport briefing was also noted.
+
+C25A / Vehicle, Reykjavik Iceland, 2018On 11 January 2018, a privately-operated Cessna 525A Citation with a two-pilot English-speaking crew made a night takeoff from Reykjavik without clearance passing within  less than a metre of a vehicle sanding the out-of-service and slippery intersecting runway as it rotated. The Investigation noted that the takeoff without clearance had been intentional and due to the aircraft slipping during the turn after backtracking. It also noted that the vehicle was operating as cleared by the TWR controller on a different frequency and that information about it given to an inbound aircraft on the TWR frequency had been in Icelandic.
+
+
+...further results
+
+
+
+
+
+
+Categories
+
+
+Air Ground Communication
+
+
+
+
+
+
+
+
+
+SKYclip
+
+
+
+
+
+
+
+
+
+ Read more
+
+
+
+
+Landing without ATC Clearance (SKYclip)
+
+
+
+
+
+
+
+
+
+Related Articles
+
+Landing without ATC Clearance
+ATC Active Listening
+Standard Phraseology
+Line Up
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

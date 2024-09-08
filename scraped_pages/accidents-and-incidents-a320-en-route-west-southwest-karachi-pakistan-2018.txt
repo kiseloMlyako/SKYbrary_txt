@@ -1,0 +1,332 @@
+A320, en-route, west southwest of Karachi Pakistan, 2018
+
+
+
+
+
+
+
+
+
+
+
+  A320, en-route, west southwest of Karachi Pakistan, 2018
+
+
+
+
+
+
+
+
+
+Summary
+
+On 5 March 2018, the crew of an Airbus A320 in descent towards Karachi observed a slow but continuous drop in cabin pressure which eventually triggered an excessive cabin altitude warning which led them to don oxygen masks, commence an emergency descent and declare a PAN to ATC until the situation had been normalised. The Investigation found that the cause was the processing of internally corrupted data in the active cabin pressure controller which had used a landing field elevation of over 10,000 feet. It noted that Airbus is developing a modified controller that will prevent erroneous data calculations occurring.
+
+
+
+
+Event Details
+
+When
+
+05/03/2018
+
+
+
+Event Type
+
+
+AW,
+              HF,
+              LOC
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS A-320
+
+
+
+
+
+
+
+
+
+Operator
+
+Etihad Airways
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Abu Dhabi International Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Karachi/Jinnah International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Cruise
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+General
+
+Tag(s)
+
+
+              PIC less than 500 hours in Command on Type,
+              Copilot less than 500 hours on Type
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Significant Systems or Systems Control Failure
+          
+
+
+
+
+EPR
+
+Tag(s)
+
+
+              Emergency Descent,
+              PAN declaration
+          
+
+
+
+
+CS
+
+Tag(s)
+
+
+              Pax oxygen mask drop
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Air Conditioning and Pressurisation
+          
+
+
+
+Contributor(s)
+
+
+              Component Fault in service
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Airworthiness
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 5 March 2018, an Airbus 320 (A6-EIF) being operated by Etihad Airways on an international passenger flight from Abu Dhabi to Karachi as EY200 was in the cruise at FL 370 in day VMC when the crew noticed a slow rise in cabin altitude. Shortly before it reached the threshold for an excessive cabin altitude warning, the crew donned oxygen masks, commenced an emergency descent and declared a PAN to ATC until the situation had been dealt with. The flight continued on track to the intended destination and the remainder of the flight was without further event.
+Investigation
+An Investigation was carried out by the UAE GCAA Air Accident Investigation Sector (AAIS) using DFDR and CVR data and data read from the Non Volatile Memory (NVM) in both Cabin Pressure Controllers. Data from the QAR, which recorded cabin differential pressure and cabin altitude, neither of which were recorded on the DFDR, were also accessed.
+It was found that the 52 year-old Captain had a total of 16,552 hours flying experience including 368 hours on type and had been acting as PF for the investigated flight. He was accompanied by a 27 year-old First Officer who had a total of 776 flying hours of which 446 hours were on type.
+It was established that during the flight climbing to and cruising at FL 370, the flight had proceeded normally. However, as it passed FL 283 in the subsequent descent a little over an hour after takeoff, the crew saw that the cabin altitude had begun to increase at about 300 fpm and decided to level off at FL 270 to see if this made any difference. It did not and cabin altitude continued to increase so the Captain decided to continue descent and with the aircraft descending through FL 257, he decided that the crew should don their oxygen masks as the indicated cabin altitude was still increasing and had reached almost 9,000 feet.
+The Captain then gradually increased the rate of descent in ‘open descent’ mode and passing approximately FL 220, the First Officer informed ATC that the flight “was performing an emergency descent due to cabin pressure failure and declared a PAN-PAN”. ATC approved descent to FL 110 and as it continued a warning of excessive cabin altitude appeared on the ECAM passing FL 192 as the indicated cabin altitude exceeded the 9,550 feet threshold for this warning with the aircraft about 45 nm west-south west of its intended destination. The corresponding checklist was run but the indicated cabin altitude continued to rise and, as the aircraft continued descent through approximately FL 164, the crew decided to deploy the passenger oxygen masks manually. After doing this and confirming that their interphone communications were unaffected, the Captain instructed the passengers to use the masks and the cabin crew then ensured that all passengers had done so.
+Once the aircraft had descended below FL 100, the crew removed their oxygen masks and ATC were informed that the emergency descent had been completed and cancelled the PAN-PAN. One minute later, the aircraft had reached FL 080 and ECAM excessive cabin pressure altitude warning ceased so having established from the cabin crew that the passengers were all ‘fine’, he briefed the Senior Cabin Crew Member ( SCCM) that passengers could remove their oxygen masks and that the problem encountered was over and that a normal landing could be expected. The crew selected manual mode on the cabin pressure control and subsequently saw that the cabin altitude was descending slowly.
+When below the 5000 feet TA, and descending as cleared to 3000 feet, the crew noted that the cabin altitude was a little higher than the aircraft altitude and on reaching 3000 feet ATC approved remaining at that altitude to allow it to ‘catch up’. Once the cabin altitude was lower than the aircraft altitude, the crew reset the cabin pressure control to automatic, but when this resulted in the cabin pressure beginning to rise again, it was returned to manual and the First Officer confirmed that he would ensure it reached zero for landing. The remainder of the flight was then completed without further event.
+ 
+
+The aircraft route showing the ground track of the flight. [Reproduced from the Official Report]
+The Technical Investigation
+A comparison of the recorded aircraft and cabin altitudes during the descent was made from the available data and is shown below.
+
+An annotated comparison of aircraft and cabin altitudes during the descent. [Reproduced from the Official Report]
+A review of maintenance action in respect of the aircraft’s cabin pressure system for the six week period prior to the investigated event found that there had been a series of problems with cabin pressure control but only some could be associated with the automatic control. A detailed assessment of all recent relevant maintenance intervention consequent upon problems reported with pressurisation control noted that they had followed the appropriate documented procedures. However, it was clear that despite this, these interventions’ actions had not been able to identify the root cause of reported cabin pressurisation problems, some of which may have been related to those on the investigated flight.
+A very complex technical investigation eventually confirmed that the warning of an excessive cabin altitude had been correctly identified (in accordance with system design) by the ‘standby’ no 2 cabin pressure controller (CPC2). The cause of the inappropriate cabin altitude control was found to have been the faulty performance of the ‘active’ cabin pressure controller (CPC1). Although ‘serviceable’, this controller had, on the flight involved, “not used the correct value to regulate the cabin altitude towards the (correctly input) scheduled landing field elevation of 96 feet” but had instead “used a corrupt landing field elevation of about 10,576 feet”. Since it was shown that the correct landing field elevation would have been received by CC1, it was considered that “the root cause of this event was within the control mechanism of CPC1” and isolation of the cause of this was then attempted.
+The focus moved to the “moving average filters” which are “commonly used for smoothing an array of sampled data”. This approach was taken because, in the case of the installed CPCs, “the chosen software implementation of moving average filters was (known to be) vulnerable to bit corruption in the memory cell, with a potential effect that could persist indefinitely” and one of these filters was central to the scheduled landing pressure logic. It was stated by the OEM that a bit corruption of the scheduled landing pressure “has a visible effect only in the descent mode” although this could take place earlier without having one, in which case it would be dormant until the affected CPC entered descent mode. Once a bit corruption occurs, it only remains present until the next reset of the CPC which means that a corrupted memory event which occurred when the CPC concerned was in ‘standby’ during one flight may not become apparent until it next becomes the ‘active’ controller and descent mode is activated.
+Two potential causes for the bit corruption which it was deduced had occurred were considered possible. The first was a ‘Single Event Upset’ (SEU) in one of the memory cells of CPC1 and the second was data corruption caused by fatigue in the soldered joints in two particular integrated circuits (IC202 and IC703) on its main circuit board. Both of these mechanisms were noted as being a possible source of data processing malfunctions which, because of their intermittent nature, would be difficult to identify in service.
+The Operational Aspects
+It was recognised that the crew had been faced with a situation which had not been envisaged when the available information and guidance for cabin altitude control malfunctions were developed. Nevertheless, it was noted that they had detected the first signs of a problem early on and that it was evident that both pilots had “maintained good situational awareness” throughout. However, the early manual deployment of the passenger oxygen masks as a precautionary measure was “believed by the Investigation to have been unnecessary”. Overall though, with this sole exception, it was found that both pilots had followed all SOPs throughout and had implemented all necessary checklists, including the abnormal and emergency checklist, for the cabin pressurisation failure.
+The formal statement of Cause of the event was "the slow depressurisation of the cabin during descent due to the number one cabin pressure controller (CPC1) processing corrupt landing field elevation data".
+Two Contributory Factors were also identified as follows:
+
+Cabin Pressure Controller 1 (CPC1), as the system that was controlling the cabin pressure control system did not trigger an excessive cabin pressure warning while controlling the cabin towards the (relatively) higher altitude of the landing field elevation at a cabin altitude rate of 300 to 400 feet per minute. However, Cabin Pressure Controller 2 (CPC2) triggered the excessive cabin altitude warning when the cabin altitude reached the warning threshold. The landing field elevation used by CPC2 was 96 feet, which was approximately the destination airport elevation.
+The corrupted memory of CPC1 was most probably caused either by a Single Event Upset (SEU) in one of the memory cells of CPC1, or by erroneous data caused by fatigue in soldered joints on the Integrated Circuits on the main board of CPC1.
+
+Safety Action was taken as follows as a result of the Investigation:
+
+Airbus is developing a Cabin Pressure Controller that will avoid the issue of memory corruption or the submission of erroneous data to the CPC but no timescale for availability could yet be advised.
+Etihad Airways introduced enhanced monitoring of Cabin Pressure Controller (CPC) performance until such time as Airbus make a more reliable CPC available.
+
+Two Safety Recommendations were made as a result of the Investigation as follows:
+
+that Etihad Airways promulgate details of this Incident to all flight crew members and include appropriate aspects of the Incident in flight crew training. In particular, the action of the flight crew, which was not in accordance with the SOP in manually deploying the oxygen masks should be referred to in the distributed information and training. [SR12/2019]
+that Airbus should issue a technical publication to be shared with all A320 operators explaining the current CPC issue as experienced in this Incident. [SR13/2019]
+
+The Final Report of the Investigation was issued on 22 April 2019.
+Related Articles
+
+Aircraft Pressurisation Systems
+Loss of Cabin Pressurisation
+Cabin Altitude
+Aircraft Oxygen Systems

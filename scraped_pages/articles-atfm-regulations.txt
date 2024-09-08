@@ -1,0 +1,162 @@
+ATFM Regulations
+
+
+
+
+
+
+
+
+
+
+
+  ATFM Regulations
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+ATFM regulations are capacity management measures taken to ensure that safety is not compromised due to excessive controller workload. They are implemented when the traffic demand in an airspace or an aerodrome is forecast to exceed the available ATC capacity and are applicable to flights departing from specific countries, mostly in Europe.
+
+
+
+
+ 
+
+CopyrightEUROCONTROL
+ 
+
+CopyrightEUROCONTROL
+
+
+
+
+
+The place of ATFM regulations in the sytem for capacity shortfall solutions (left). A map showing the ATFCM area (grey) and ATFCM adjacent area (right).
+The complex European airspace as well as the high (and increasing) volume of traffic requires constant improvement of the ATS network in order to keep up with demand. Long-term solutions, such as training more controllers, airspace optimisation, building new aerodromes/runways and equipment improvement (increased automation and new controller tools) increase capacity but usually need many years to implement. Optimizing the existing resources by e.g. sector management or rerouting of traffic flows is beneficial (the available capacity is used better) but cannot always address the issue of peak demand (e.g. when too many aircraft need to arrive at a certain aerodrome hub or when several traffic flows coincide in a particular en-route sector). In these situations, short-term measures such as STAMs or AFTM regulations need to be introduced.
+Regulations can be used to protect airspace volumes as well as aerodromes. The traffic is restricted by allocating CTOTs to selected flights. The process of selecting which flights would receive a CTOT and what the exact time would be is done by the Network Manager and takes into account the flight plans and the imposed regulations. The goal is to manage the traffic in such a way as to avoid overload while at the same time the total delay is minimized. For example, if a flight is assigned a CTOT due to an en-route sector, alternative route (e.g. passing through other, less congested sectors) or flight profile (e.g. a lower cruising level) can be offered in order to avoid the bottleneck and increase efficiecy (minimize the delay).
+Regulations do not affect all flights, the exceptions being:
+
+flights that are already airborne.
+flights departing outside the ATFCM area and the ATFCM adjacent area.
+ATFM-exempted flights (e.g. flights carrying Heads of state, search and rescue flights, etc.). The list of exemption criteria can be found in the respective national AIPs and ICAO Doc 7030: Regional Supplementaty Procedures, EUR section. This information is available in Item 18, indicator STS of the flight plan, e.g. "STS/HEAD".
+flights belonging to exempted traffic flows. When specifying the parameters of the ATFM regulation, the FMP officer can choose to exclude certain flights (e.g. domestic flights, flights between specific city pairs, etc.).
+
+In order for the process to be effective, operators are required to file flight plans that may be subject to CTOT allocation at least 3 hours before the estimated off-block time (EOBT).
+Implementation, Modification and Cancellation
+The decision for implementation/cancellation and ownership of the ATFM regulation lies with the FMP officer. Nevertheless, the details (e.g. validity period, traffic rates, etc.) are coordinated with the NM and the regulation itself is applied by the NM.
+Regulations can be imposed for various reasons, such as staff shortage, insufficient capacity (sector or aerodrome), weather, accident/serious incident, special events, etc. If none of the standard reasons are applicable, "other" can be used followed by a plain text explanation. In addition, standard remarks are designed for each of the reasons (e.g. for the weather category these could be cloud ceiling, fog/low visibility, thunderstorms, snow removal, etc.).
+In order to facilitate post-operation analysis and general system improvement, the use of specific reasons and standard remarks is strongly encouraged. Reason "other" and plain text remarks are supposed to be used as a last resort when there is no applicable standard solution.
+Once implemented, an ATFM regulation can be modified or cancelled if deemed necessary by the FMP officer. For example, if a regulation due to expected thunderstorms is applied, it is based on a weather forecast that contains some degree of uncertainty. If it turns out that the period of impact or the magnitude of the weather phenomenon is different than forecast, the regulation can be modified accordingly, e.g. the hours can be extended/shortened and the rate of flights can be reduced or increased as necessary. It is also possible to cancel a regulation provided that the reason for activation no longer exists.
+Issues and Considerations
+While ATFM regulations are a quick and reliable tool against traffic overload, there are some aspects that need to be considered when implementing (or modifying/cancelling) one. The most notable of these are:
+
+Delays. ATFM regulations almost always cause delays as it is not feasible to assign CTOTs before EOBT (therefore, the only options are to keep the planned EOBT or delay the flight). This may hava a cascading effect (one flight is late which causes the transfer passengers to miss their connection or delays another flight) and result in disruption of flight operations. This effect can be reduced by carefully examining the regulation impact and using appropriate parameters after careful analysis.
+Bunching. If a strict regulation (i.e. one that reduces the flight rate significantly) is suddenly cancelled or expires, it is possible to have traffic bunching due to the fact that the delayed flights would coincide with the ones that are on time when the regulation is no longer in force. This can be mitigated by modifying the regulation in such a way that the restrictions are gradually lifted (in a matter of several hours).
+Impact on others. When subject to a regulation, operators generally have two choices: comply with the CTOT or use an alternative routing/level. In the latter case, the traffic shifting from one unit to another could cause a (sometimes unexpected) overload in another ATS unit. Additionally, regulations implemented by one ATS unit can easily affect the traffic of other, sometimes remote, ATS units. Constantly monitoring the situation or making an agreement with the Network Manager to assist with this task can reduce the risk of unexpected traffic. This is even truer when dealing with traffic bunches caused by the cancellation of a regulation by another unit.
+Limited impact. Regulations do not affect flights departing outside the ATFCM area and ATFCM adjacent area. This limits the ability to regulate the demand. The effect is stronger in the peripheral airspace because of the information exchange within the ATFCM area (and the centralised collection, processing and distribution of flight data).
+
+Related Articles
+
+Air Traffic Flow Management (ATFM)
+Capacity Management
+Calculated Take Off Time (CTOT)
+Network Manager Operations Centre (NMOC)
+Short Term ATFCM Measures (STAM)
+Flow Management Position (FMP)
+
+Further Reading
+
+NOP Portal
+ATFCM Users Manual
+ATFCM Operations Manual
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

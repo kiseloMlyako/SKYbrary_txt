@@ -1,0 +1,348 @@
+B78X, vicinity Abu Dhabi UAE, 2020
+
+
+
+
+
+
+
+
+
+
+
+  B78X, vicinity Abu Dhabi UAE, 2020
+
+
+
+
+
+
+
+
+
+Summary
+
+On 6 June 2020, a Boeing 787-10 on approach at Abu Dhabi began a low go around from an RNAV(RNP) approach when it became obvious to the crew that the aircraft was far lower than it should have been but were unaware why this occurred until an ATC query led them to recognise that the wrong QNH had been set with recognition of the excessively low altitude delayed by haze limiting the PAPI range. The Investigation found that advice of MSAW activations which would have enabled the flight crew to recognise their error were not advised to them.
+
+
+
+
+Event Details
+
+When
+
+08/06/2020
+
+
+
+Event Type
+
+
+AGC,
+              CFIT,
+              HF
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 787-10 Dreamliner
+
+
+
+
+
+
+
+
+
+Operator
+
+Etihad Airways
+
+
+
+Type of Flight
+
+Public Transport (Cargo)
+
+
+
+Flight Origin
+
+
+
+
+Beijing Capital International Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Abu Dhabi International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Missed Approach
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+OMAA
+
+
+
+
+General
+
+Tag(s)
+
+
+              Altimeter Setting Error,
+              Copilot less than 500 hours on Type,
+              Extra flight crew (no training),
+              CVR overwritten
+          
+
+
+
+
+AGC
+
+Tag(s)
+
+
+              Provision of Aircraft Performance Data
+          
+
+
+
+
+CFIT
+
+Tag(s)
+
+
+              Vertical navigation error
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Inappropriate crew response (automatics),
+              Procedural non compliance,
+              Pressure altimeter setting error
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+Air Traffic Management
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Airworthiness
+Air Traffic Management
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 6 June 2020, a Boeing 787-10 (A6-BMD) being operated by Etihad Airways on a non- scheduled international cargo flight from Beijing to Abu Dhabi as EK9878 with an augmented crew was on short final to runway 31L at destination in day VMC when the Captain observed that the PAPI was showing all red and instructed the First Officer acting as Pilot Flying to go around. Whilst the flight was positioning for a second approach, ATC asked the crew to check their QNH setting and they discovered that they had unknowingly set the QNH incorrectly prior to making the first approach. MSAW alerts triggered during the first approach by the incorrect altimeter setting were not advised to the flight. 
+Investigation
+A Serious Incident investigation was carried out by the UAE GCAA Air Accident Investigation Sector (AAIS). Relevant data were available from the FDR component of both the installed EAFRs and from recorded ATC data but relevant data on the CVR component of the EAFRs was overwritten before the seriousness of the event was recognised which was only after the Captain’s post flight ASR reporting the event was correlated with the OFDM process.     
+The 54 year-old Captain had a total of 20,536 hours flying experience which included 15,074 hours in command on all types with 2,117 of those command hours gained on type. The 35 year-old First Officer who was acting as PF had a total of 8,818 hours flying experience which included 230 hours on type. The augmenting First Officer had a total of 7,965 hours flying experience which included 3,350 hours on type and was on the flight deck for the arrival. The three pilots had respectively recorded 749, 768 and 680 flying hours over the 12 months prior to the investigated event due to significant global reductions in passenger transport flights because of public health concerns arising from the Covid-19 pandemic.
+What Happened
+A little over seven hours after departing from Beijing, where the QNH setting was 1009 hPa, the flight commenced descent from FL 360 with the First Officer as PF. On initial contact with Abu Dhabi APP, the crew confirmed receipt of ATIS information ‘India’ by uplink and that they were following the EMERU 2D STAR. Passing FL 170 at a distance of approximately 20nm from EMERU, APP advised the flight to expect an (RNP AR) RNAV ‘Y’ approach to runway 31L. The Abu Dhabi QNH was not provided verbally by ATC but the ATIS received earlier included a QNH of 999 hPa. Whilst it became clear to the crew that they had both inadvertently overlooked the Flight Crew Operations Manual (FCOM) requirement to preset the arrival QNH on receipt, the circumstances which had led to this were unclear. The fact that Relief First Officer occupying the main flight deck supernumerary crew seat had been in an ideal ‘oversight’ position but had not noticed the evident omission was noted. 
+The flight subsequently established on the RNAV ‘Y’ approach as cleared with the First Officer as PF. As the aircraft descended through 2,670 feet indicated altitude, the radio altimeter became live showing 2,500 feet and the auto callout of “2500” occurred. It was noted that “normally, the difference between the pressure altitude with a correct QNH setting and the radio altitude at Abu Dhabi is less than 100 feet”. Thereafter, the indicated (but incorrect) pressure altitude continued to be higher than the radio altitude with the difference between 150 and 380 feet but went unnoticed. Soon after this, the flight was transferred to TWR although the controller had to repeat the frequency to get a correct readback of it. As the aircraft descended through the (incorrect) indicated altitude of 1,790 feet (1,470 feet radio altitude), the flap lever was moved from the 20 to the 25 detent which completed configuration for landing. TWR was contacted and the flight was instructed to continue the approach. Twenty three seconds later, landing clearance and a wind check were given and after a repeat, it was acknowledged as the aircraft passed 1,000 feet radio altitude with its altimeters showing 1,350 feet. Passing 500 feet radio altitude, the indicated altitude showed 860 feet. The AP was disengaged when the aircraft passed 660 feet indicated altitude (280 feet radio altitude). Only at this point did the Captain become aware that the PAPI was showing four reds and realising that “something was not right” had ordered an immediate go-around. The FDR recorded the TOGA mode becoming engaged when the aircraft was at approximately 1.3 nm from the runway 31L threshold with the (incorrect) indicated altitude showing 570 feet and the radio altitude indicating approximately 210 feet. The lowest recorded height once the go around had been initiated was 202 feet. It was noted that the First Officer had been aware of the all-red PAPI at the time the Captain had called for a go around but had not remarked on this abnormality or called for a go around himself. At this stage, there was no crew understanding of the reason for the premature descent.
+As the aircraft, now back with APP, was approaching the 4000 feet stop altitude applicable to the standard missed approach procedure, the controller informed the flight that the QNH was now 998 hPa and requested the crew to advise when read for radar vectors to an ILS approach to runway 31L. The Captain replied that they were ready for a second approach but did not read back the QNH. The aircraft was then levelled off at an aircraft-indicated 4,000 feet QNH and the APP controller, seeing that the aircraft was actually at 3,700 feet QNH, asked the flight to confirm their altimeter settings. This resulted in the crew realising that they had set the altimeter subscales to an incorrect figure of 1009 hPa instead of the 999 hPa which had been provided on the ATIS when changing to QNH from 1013 prior to the first approach. The correct QNH was set and a corrective climb to 4000 feet was made with ATC formally recording a Level Bust in respect of the missed approach altitude error. The subsequent ILS approach and landing was without further event.
+Discussion
+The error made and the procedural and systemic ways it could have been recognised and corrected were considered:
+
+It was observed that a procedural opportunity for flight crew to detect a materially incorrect QNH arises as the Radio Altimeter (RA) becomes ‘live’ at 2,500 feet agl since the PM is required to monitor the normal auto callout of ‘2500’ (or make the call themselves if the auto callout is inoperative) and the PF, (only) after confirming that the Pressure Altimeter reads approximately 2500 feet aal should respond “Checked”. Thereafter the crew are required to keep the RA in their scan until landing.
+It was discovered during the Investigation that, unknown to the crew, their QNH setting error had led to MSAW activations at the APP controller’s position. The MSAW system assumes that the correct QNH is set and alerts from it are based on that principle. Warnings generated occur visually on the APP radar display and are simultaneously annunciated aurally. Based on a simulation which was time synchronised with the corresponding FDR data, the first MSAW activation lasted 10 seconds and occurred when the aircraft was just inside 9 nm from the runway threshold and passing 3,100 feet on the (actual) QNH. The warning “corresponded to a prediction by the system, which calculated that the aircraft was descending with a high rate of descent close to the configured minimum safe altitude” and ceased when the aircraft entered the “MSAW Inhibition Area”.  The second MSAW activation lasted 45 seconds as the aircraft was descending from 800 feet to 400 feet on the (actual) QNH and ceased when it was at approximately 1.5 nm from the threshold. This second MSAW activation was actually generated by the discrete Approach Path Monitor Warning (APMW) system which was activated because the aircraft had descended below the system glide path angle range limit. The warning continued until deactivation when the aircraft entered the APMW inhibition area at 1.5 nm from the threshold. The reconstructed vertical profile of the final stages of the approach in relation to the 2.8° angle procedure shows the position of the MSAW/APMW activations and the points where they were automatically inhibited.
+
+
+The vertical profile of the RNAV Y procedure compared to the one flown. [Reproduced from the Official Report]   
+
+Despite explicit procedures to the contrary, the APP controller did not advise the crew of the first MSAW activation and in the case of the second, (APMW) activation, by then the aircraft was on the TWR frequency and the controller had no direct display of any MSAW/APMW alerts and was not informed by the APP controller. It was found that there were no procedures covering this and even if there had been, there were none requiring a TWR controller to notify an APMW activation to the aircraft concerned should he be aware of it.
+The late recognition of the all red PAPI prompted a review of the prevailing visibility. The crew reported that during the first approach, they had not been able to see the PAPI clearly when passing the final approach fix (FAF) at 4 nm from touchdown. The Captain stated that during the second approach, at a similar range but at the correct procedure height, it had not been possible to determine the colour(s) of the PAPI when requested by ATC to advise this. It was concluded that the forward visibility on both approaches in the prevailing hazy conditions would probably have been less than the “greater than 10km” (5.4 nm) airport surface visibility being reported by METAR although not as low as the 1.5 nm range at which the all red PAPI indication was recognised on the first one.   
+The availability of a Vertical Situation Display (VSD) at the base of the ND meant that the current flight path angle could be displayed as a function of the vertical speed and ground speed and that the runway and the scaled runway length together with a projection of where the aircraft flight path would intercept the runway would be available. However, despite this opportunity to enhance their vertical situational awareness, the crew made no mention of the VSD and its cues being monitored during the approach or considered for their vertical assessment. It was noted that although operator SOPs required that the VSD was selected on for all RNP AR approaches, no detailed guidance was provided on specific reference to or crosscheck with the VSD during such an approach. The Boeing Flight Crew Training Manual (FCTM) was noted to encourage VSD use “as much as possible during all approaches” but it was “not an obligatory reference for flight crew on approach”. 
+The Relief First Officer did not appear to have noticed anything unusual from their position on the central flight deck supernumerary seat during the descent and approach and was included in the crew to permit the extension of the FDP which would have been allowable with only two pilots on board. The OM-A was found to describe the duties of an augmenting/additional crew member when occupying the flight deck supernumerary seat as an observer as to:
+
+Provide additional monitoring of the flight during [...] critical phases of flight.
+Be alert for any threats and/or errors that have not been trapped by the operating crew. 
+It also required that such monitoring should be “conducted silently” with any observed threats and/or errors being pointed out to the operating crew taking account of any high workload situation so that the operating crew can take the necessary steps to manage the threat effectively. It also cautioned that “the additional crew shall not diminish the synergy of the two-pilot basic crew operation (so that) interruption of the operating crew is only warranted when it is clear that a potentially undesirable aircraft state exists”.
+
+
+
+Effective Investigation of Flight Crew Performance
+It was of concern that the Investigation was hindered by the absence of CVR data which would have enabled the assessment of flight crews’ procedural compliance, workload, distraction, decision-making, situational awareness and fatigue as potential factors. It was recognised in many events categorised as Serious Incidents, a 2 hour CVR requirement for data retention was often, for various reason, insufficient to ensure availability of CVR data for Investigation purposes. It was noted that the General Civil Aviation Authority as UAE State Safety Regulator was in the process of drafting regulations which would require a recording capability of 25 hours for aircraft with a MTOM of more than 27,000 kg with its Certificate of Airworthiness issued on or after 1 January 2022.  
+The Cause of the accident was formally documented as “the incorrect local pressure (QNH) altimeter setting (which led to) a go-around when the aircraft was at a distance of 1.3 nautical miles from the threshold of runway 31L after the flight crew had definitely seen four red precision approach path indicator (PAPI) lights”.
+Six Contributory Factors were also identified as follows: 
+
+The operating flight crew omitted to preset (the correct) QNH value after receiving ATIS information, even though the Commander had confirmed to ATC that the flight had received ATIS Information India which contained the Abu Dhabi QNH of 999 hPa. 
+Prior to and at transition level, the flight crew were fixated on the high-energy management for the descent, such that selecting the barometric setting from the standard pressure of 1013 hPa to the local QNH value was carried out incorrectly.
+ATC did not provide the Abu Dhabi QNH along with the initial descent clearance from a flight level to an altitude, nor was it given when issuing the clearance for the runway 31L RNAV Y approach from the IAF. 
+The VSD and its cues were not used or considered for their vertical profile assessment during approach by the flight crew for monitoring. 
+ATC did not provide instructions to check the QNH setting and the level of the aircraft when the activation of the minimum safe altitude warning was triggered on its radar screen.
+ At higher altitudes, the forward visibility was less than reported due to the presence of haze layer(s) which are commonly associated with temperature inversions in the Middle Eastern region.
+
+Safety Action taken as a result of internal safety investigations after the event and known to the Investigation whilst it was in progress was noted to have included but not been limited to the following:
+Aircraft Operator Etihad Airways:
+
+Introduced a requirement to confirm the QNH prior to the IAF has been incorporated in fleet-wide SOPs for all RNP AR approaches.
+Issued separate (Boeing and Airbus) ‘Abu Dhabi RNAV (RNP) Approach Guides to highlight to crews important aspects of such approaches for presentation as mandatory courses for all pilots along with the completion of a compulsory ‘Abu Dhabi RNAV (RNP) Approach Questionnaire’.  
+Issued a Crew Training publication ‘Incorrect QNH Setting when conducting baro-VNAV approaches’ in order to draw attention to the CFIT risk when flying instrument approach operations with the pressure altimeter sub-scale set to an incorrect pressure setting (QNH).
+After review and endorsement by Boeing, issued updated information on MCP Altitude Setting Techniques when using VNAV for RNP AR Approaches was incorporated into version 2 of the (Boeing) Abu Dhabi RNAV (RNP) Approach Guide.  
+
+ANSP GAL Air Navigation Services (GAL ANS):
+
+The Safety Department produced a Safety Publication LL03/20 in the form of a “Lessons Learned (LL)” on the subject of “Incorrect QNH Setting”.
+In order to reiterate the requirements for the provision of QNH by controllers, Operations Bulletin (OB) 007/20 was published on 24 June 2020 to raise staff awareness of the content of ICAO PANS-ATM section 6.6 in respect of the provision of QNH to arriving aircraft.
+A Supplementary Instruction (SI) 027/20 was incorporated into the Unit ATS-OM.
+Appropriate action was taken on receipt of a request from Etihad Airways Operations that ILS approaches would now their preferred option for arrivals at Abu Dhabi.
+Supplementary Instructions (SI) 027/21 & 029/21 were issued in respect of actions required by APP & TWR controllers in respect of the communication of MSAW alerts generated in respect of any controlled flight. This guidance included a requirement for APP to notify TWR of any MSAW alert observed whilst the traffic involved is under TWR control.
+
+A total of six Safety Recommendations were issued as a result of the Findings of the Investigation as follows:
+
+that Etihad Airways reinforce among pilots the requirement to pre-select the QNH barometric setting after receiving ATIS information for the destination airport. [SR48/2021]
+that Etihad Airways ensure the effectiveness of the safety actions taken as a part of its SMS program. [SR49/2021]
+that Etihad Airways address the amendment of the approach SOPs with more detailed information on specific referencing or crosschecking of the VSD on all baro-VNAV approach operations. [SR50/2021]
+that Etihad Airways reinforce among pilots the requirement of additional monitoring role to be assumed by the additional flight crew in the flight deck as per the Flight Crew Operating Manual  (FCOM). [SR51/2021]
+that GAL Air Navigation Services (GAL ANS) consider the practicability to include the contents of both Supplementary Instructions in the Air Traffic Services Operating Manual as SOPs for its air traffic controllers. [SR52/2021]
+that the General Civil Aviation Authority of the United Arab Emirates (GCAA) consider the practicability of implementing the requirement of 25 hours CVR recording capability for new aircraft with maximum certificated take-off mass (MTOM) of more than 27,000 kg with its certificate of airworthiness issuance on or after 1 January 2022 and also consider having a retrofit program within a certain period for upgrading to a 25 hour CVR recording capability for aircraft registered in the United Arab Emirates with MTOM of more than 27,000 kg with the certificate of airworthiness issuance date before 1 January 2022. [SR53/2021]
+
+The Final Report was issued on 28 September 2021.
+Related Articles
+
+Altimeter
+Altimeter Pressure Settings
+Controlled Flight Into Terrain (CFIT)
+Standard Operating Procedures (SOPs)
+Situational Awareness
+Minimum Safe Altitude Warning (MSAW)

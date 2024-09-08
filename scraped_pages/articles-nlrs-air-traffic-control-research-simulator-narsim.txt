@@ -1,0 +1,114 @@
+NLR's Air Traffic Control Research Simulator (NARSIM)
+
+
+
+
+
+
+
+
+
+
+
+  NLR's Air Traffic Control Research Simulator (NARSIM)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Management 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+NLR's Air Traffic Control Research Simulator (NARSIM) is an air traffic research simulator. Its aim is to evaluate new operational procedures, new controller assistance tools, and new human/machine interfaces. There are six AT consoles and up to 12 pseudo pilot positions, each of which can control up to 15 aircraft. The AT consoles and pseudo pilots are connected by a voice communication net. The computers driving each station are connected to the main NARSIM computer. The NARSIM software simulates most important aspects of a real air traffic control system, including realistic radar information. It has the capability to use actual recorded radar data, computer-generated data, pseudo pilot generated data, or combinations of the three.
+NARSIM has been developed by National Aerospace Laboratory NLR and is integrated with NLR’s Tower Research Simulator (TRS).
+Further Reading
+
+GAIN - Methods & Tools for Safety Analysis in Air Traffic Management.
+
+
+
+
+
+Categories
+
+
+Safety Management,
+              General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

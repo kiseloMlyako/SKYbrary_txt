@@ -1,0 +1,158 @@
+U-space
+
+
+
+
+
+
+
+
+
+
+
+  U-space
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Unmanned Aerial Systems 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+U-space airspace means a UAS geographical zone designated by Member States, where UAS operations are only allowed to take place with the support of U-space services.
+U-space service means a service relying on digital services and automation of functions designed to support safe, secure and efficient access to U-space airspace for a large number of UAS.
+Source: Regulation (EU) 2021/664
+Concept
+U-space is the European system that is being developed to manage UAS (unmanned aerial systems) traffic. It is a set of specific services and procedures designed to ensure safe and efficient access to airspace for UAS. 
+The purpose of U-space is to achieve automated UAS management and integration, allowing for a large series of operations, many of them simultaneous. The process is to be integrated with the current ATM system.
+The first step of establishing U-space is to define and designate U-space airspaces. These are volumes of airspace where, as a minimum, mandatory U-space services will be provided (see section "Services" below for details). The process of U-space airspace designation is done by the EU member states.
+If a U-space airspace is designated within controlled airspace, it must be subject to dynamic reconfiguration. The ATC unit may temporarily limit the area where UAS operations can take place in order to meet manned traffic demand. This is done in order to make sure that manned aircraft which are provided with an air traffic control service and UAS remain segregated. Dynamic airspace reconfiguration is not necessary for VFR flights in airspace class E and for all flights in classes F and G. In these cases, traffic information is to be provided to the affected manned flights.
+The services within the U-space airspace are provided by U-space service providers. Unlike the provision of air traffic control service where only one provider can be responsible for a particular volume of airspace, there may be multiple U-space service providers serving the same U-space airspace. 
+U-space service providers must:
+
+establish arrangements with the ATS providers to ensure adequate coordination of activities and exchange of relevant operational data.
+exchange any information that is relevant for the safe provision of U-space services amongst themselves
+handle air traffic data without discrimination
+
+Note: UAS operators may provide U-space services to themselves. In this case, they must comply with the requirements for both UAS operators and U-space serviece providers.
+Services
+U-space service providers must provide at least the following services within the U-space airspace:
+
+Network identification service, providing the identity of UAS operators and the location and trajectory of UAS during operations.
+Geo-awareness service, providing information on operational conditions, airspace limitations or existing time restrictions.
+UAS flight authorisation service, which ensures conflict-free operations with other UAS operating in the same volume of airspace. The concept is similar to the ATC clearances issued to manned flights.
+Traffic information service, which alerts operators of air traffic that may be found near the aircraft.
+
+Additionally, member states may require that one or both of the following services are also provided:
+
+Weather information service, supporting the flight planning and execution phases and enhancing the performance of other U-space services.
+Conformance monitoring service, warns of non-compliance with the granted flight clearance and informs operators of any deviation from it.
+
+Operations
+Before operating in the U-space airspace, UAS operators must comply with the requirements of Regulation (EU) 2019/947.
+Before each individual flight, the UAS operator must submit an UAS flight authorisation request to its U-space service provider. When ready to start the flight, the UAS operator requests the activation of the authorisation. Upon receiving confirmation from the U-space service provider, the flight may commence.
+UAS operators must comply with the UAS flight authorisation, including the associated deviation thresholds. The U-space service provider may introduce changes to the authorisation during any phase of the flight. They must inform the UAS operators accordingly.
+If unable to comply with the applicable flight authorisation deviation thresholds, the UAS operator must request a new authorisation.
+Related Articles
+
+Unmanned Aerial Systems (UAS)
+ATC Safety Nets for Remotely Piloted Aircraft
+Key Risk Areas of Remotely Piloted Aircraft Systems (RPAS)
+UAS Remote Identification
+UAS Rules and Guidance - EU
+Classification of Airspace
+
+Further Reading
+Related EU Regulations
+
+Regulation 2019/947
+Regulation 2021/664
+Regulation 2021/665
+Regulation 2021/666
+
+
+
+
+
+Categories
+
+
+Unmanned Aerial Systems
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

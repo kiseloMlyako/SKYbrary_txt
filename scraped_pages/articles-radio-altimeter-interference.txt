@@ -1,0 +1,171 @@
+Radio Altimeter Interference
+
+
+
+
+
+
+
+
+
+
+
+  Radio Altimeter Interference
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Flight Technical 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+This article introduces a radio spectrum–based controversy that has engaged many aviation safety stakeholders and industry associations in the United States. These stakeholders recently reached a consensus that introduction of a change to 5G wireless technology — using a reallocated portion of the 3.7–3.98 GHz radio frequency (RF) band — could result in unsafe RF interference to radio altimeters, which sometimes also are called radar altimeters.
+Aviation stakeholders have urged the U.S. Federal Communications Commission (FCC) to protect operation of all radio altimeters by prohibiting the use of this auctioned bandwidth by the wireless industry unless further research and cooperation yield a solution.
+This article expands upon two existing SKYbrary articles — Radio Altimeter and Use of Radio Altimeter — that cover the roles of flight crews and these devices in reducing the risk of controlled flight into terrain and other categories of aircraft accidents. The article also cites similarities of a 2011–2012 clash between U.S. aviation stakeholders and a mobile broadband company over potentially unsafe RF interference to global navigation satellite systems.
+At issue currently is an FCC decision to reallocate a portion of the 3.7-4.2 GHz frequency band, making the frequently spectrum from 3.7-3.98 GHz available for flexible use, including 5G applications by the telecommunications industry.
+Subsequently, RTCA published a report outlining the unresolved safety issues. The report, Assessment of C-Band Mobile Telecommunications Interference on Low Range Radar Altimeter Operations, RTCA Paper No. 258-20/SC239-006, was released in September 202 and filed with the FCC in October 2020.
+For this article, documents were selected from aviation safety and avionics experts, focusing on research findings and risk-mitigation advocacy. Documents were selected from wireless experts who produced counter-arguments to the points raised by aviation stakeholders. The wireless experts essentially denied that RTCA’s research proved any potential harm to radio altimeters, and they urged the FCC to dismiss RTCA’s findings.
+Definitions
+
+Radio altimeter/radar altimeter — Airborne electronic devices capable of measuring the height of the aircraft above the terrain immediately below the aircraft. They operate in the 4.2–4.4 GHz band. Use of the radio altimeter is integral to terrain awareness and warning systems and to the landing of aircraft during CAT 2/CAT 3 approaches, for example.
+5G mobile telecommunications — According to CTIA – The Wirless Association, “5G is shorthand for the next generation of wireless. 5G will use a mix of low-, mid- and high-band spectrum — the invisible radio waves that mobile data travels on. … High-band spectrum will enhance high capacities by using what the industry calls mmWave technology — tiny radio wavelengths, measured in millimeters.
+
+“5G … speeds will allow us to stream high-definition video in seconds and power innovations in fields like virtual reality. 5G will also reduce latency, or the delay that occurs when data is transmitted across distances, to nearly zero. This will allow autonomous vehicles to smoothly interact with each other and for advancements like remote surgery to be possible. And 5G networks will be able to handle 100 times the number of connected devices, enabling the Internet of Things and smart cities.”
+Context
+The 2020 clash over radio altimeter interference echoes a U.S. controversy in 2011–2012. In that case, a startup U.S. company (LightSquared) leased radio spectrum and began to construct satellite-based and ground infrastructure for broadband mobile technology. Aviation experts and telecommunications experts hotly debated whether the proposed system would cause RF interference to global navigation satellite system signals that could not be mitigated.
+Ultimately, the FCC — which had “clearly stated from the outset [of LightSquared’s proposal] that harmful interference to GPS [global positioning system signals] would not be permitted” — stated that it would not lift an earlier order that prohibited LightSquared’s commercial operations “unless harmful interference issues were resolved.”
+Key Arguments
+The Aviation Side
+Flight Safety Foundation’s AeroSafety World summarised the RTCA MSG Report on 22 Oct. 22, 2020 as follows:
+A move by the U.S. Federal Communications Commission (FCC) to allow 5G telecommunications systems to use the 3.7–3.98 GHz frequency spectrum presents a “major risk … of harmful interference” with radar altimeters on civil aircraft, according to new research by RTCA.
+The organization ... said … that if 5G telecommunications systems are permitted to use that frequency band, “the risk is widespread and has the potential for broad impacts to aviation operations in the United States, including the possibility of catastrophic failures leading to multiple fatalities, in the absence of appropriate mitigations.”
+The FCC’s plan calls for the spectrum to be made available for “flexible use,” including 5G, through an auction to new licensees that is set to begin in December [2020].
+RTCA noted in its report that during the rulemaking process, the aviation industry had commented that allowing 5G networks on the frequency band might introduce harmful interference with radar altimeters, which operate worldwide on the 4.2–4.4 GHz aeronautical band.
+“Failures of these sensors,” RTCA said, “can therefore lead to incidents with catastrophic results,” including accidents resulting in multiple fatalities. The RTCA report noted that the aviation industry told the FCC earlier this year that additional study is needed to evaluate the effects on radar altimeters of radio frequency interference from 5G networks operating within the aeronautical GHz band. An RTCA special committee established in April conducted one study aimed at determining the likely extent of interference and the associated risks.
+The radiated power level is about 1 watt, “and thus highly sensitive receivers are required for radar altimeters to function properly,” the report said. “As such, radar altimeters are highly susceptible to [radio frequency] interference entering the receiver, which can negatively impact their performance.”
+Although radar altimeters operate within the aeronautical band, they may be susceptible to interference either within that band or within nearby frequency bands, the report said, adding that the reallocation of the frequency band would result in problems involving not only intentional emissions from 5G transmissions but also “spurious emissions from such systems within the protected 4.2–4.4 GHz radar altimeter band.”
+The report noted that radar altimeters have been installed in civil aircraft since the 1970s, with no substantial issues of harmful radio frequency interference, largely because the 4.2–4.4 GHz aeronautical band has been protected and interference from adjacent bands has been “generally benign and compatible with radar altimeter operations.”
+The introduction of mobile telecommunications networks in the 1990s and their expansion during the next two decades also presented no serious risks, the report said. More recently, however, regulators in the United States and many other countries have made additional parts of the frequency spectrum available for telecommunications to support 5G networks. In March, the FCC ordered the reallocation of 3.7 to 3.98 GHz for new flexible use, including 5G networks. As a result, plans call for those frequencies to be auctioned beginning in December.
+RTCA said its members were prepared to work with regulatory authorities and industry representatives on additional analysis of the risks and development of methods of risk mitigation.
+“Given the extent to which the safe interference limits are exceeded and the breadth of the impacts to aviation safety, the risk of harmful interference to radar altimeters cannot be adequately mitigated by the aviation industry acting alone,” the report said, adding that the participation of the mobile wireless industry also will be needed.
+Aviation Associations
+On 17 Nov. 2020, a letter (see References) from 14 U.S. aviation industry associations to members of the U.S. Congress said, in part, “Radar altimeters are deployed on tens of thousands of civil aircraft in the United States and worldwide to support several critical safety-of-life aircraft functions throughout multiple phases of flight. … Using technical information supplied by the mobile wireless industry and radar altimeter manufacturers, a quantitative evaluation of radar altimeter performance regarding RF interference from future 5G networks in the 3.7–3.98 GHz band was conducted [by the 5G Task Force formed by RTCA Special Committee 239], as well as a detailed assessment of the risk of such interference occurring and impacting safety. … We are concerned that without this congressional intervention [to protect the frequency bands used by radar altimeters and] to understand potential implications and ramifications, decisions will be made with a frightening lack of understanding of aviation requirements.”
+Wireless Industry
+On 27 Oct. 2020, CTIA submitted to the FCC docket a response letter to the RTCA MSG Report. The following explanations of its positions and counter-arguments are from this filing:
+
+“As an initial matter, the [FCC] concluded in the C-Band Order that the 3.7 GHz Service technical rules and the spectral separation of at least 220 megahertz from radio altimeter operations “are sufficient to protect aeronautical services in the 4.2-4.4 GHz band.” The [FCC] “nonetheless agree[d] with [aviation interests] that further analysis is warranted on why there may even be a potential for some interference given that well-designed equipment should not ordinarily receive any significant interference (let alone harmful interference) given these circumstances.”
+CTIA quoted an FCC finding about radar altimeters that “[w]e expect the aviation industry to take account of the RF environment that is evolving below the 3980 MHz band edge and take appropriate action, if necessary, to ensure protection of such devices.”
+CTIA disputed the methodology of the RTCA report, including non-identification of radar altimeter models tested by Texas A&M University’s Aerospace Vehicle Systems Institute (AVSI), the researchers’ choice of least-likely aircraft landing scenarios, unwarranted margins for RF interference–tolerance thresholds, and inclusion of radar altimeter models that have not been certified for 40 years, are outdated, and possibly are out of service in current aircraft fleets.
+CTIA questioned RTCA’s understanding of C-Band 5G–radar altimeter coexistence given that “RTCA is an aviation organization, it has no representation from the wireless industry, and it is not a cross-industry multi-stakeholder group.” Also, challenged was RTCA non-inclusion or minimal of wireless industry feedback to its draft version of the report.
+
+References
+Aviation Position Papers
+
+RTCA. RTCA Paper No. 274-20/PMC-2073, “Assessment of C-Band Mobile Telecommunications Interference Impact on Low Range Radar Altimeter Operations.” Oct. 7, 2020. RTCA refers to this paper as the “RTCA MSG Report.”
+RTCA. “Re: Ex parte Presentation, Expanding Flexible Use of the 3.7–4.2 GHz Band, GN Docket No. 18-122.” Letter to Marlene H. Dortch, Secretary, U.S. Federal Communications Commission from Terry McVenes, President and CEO, RTCA, Inc. and Dr. David Redman, Director, Aerospace Vehicle Systems Institute, November 19, 2020.
+Joint letter from 14 U.S. aviation associations to Senator Roger Wicker, Chairman, and Senator Maria Cantwell, Ranking Member, of the U.S. Senate Committee on Commerce, Science, and Transportation; and Representative Peter DeFazio, Chairman, and Representative Sam Graves, Ranking Member, of the U.S. House of Representatives Committee on Transportation and Infrastructure, November 17, 2020. The letter was signed by the Aerospace Industries Association; General Aviation Manufacturers Association; Aircraft Electronics Association; Aircraft Owners and Pilots Association; Experimental Aircraft Association; National Air Transportation Association; Helicopter Association International; National Business Aviation Association; Airborne Public Safety Association; Airlines for America; Air Line Pilots Association, International; Radio Technical Commission for Aeronautics; Regional Airline Association; and National Air Traffic Controllers Association.
+
+Telecommunications Position Papers
+
+Letter from CTIA — The Wireless Association to Marlene H. Dortch, Secretary, U.S. Federal Communications Commission regarding Ex Parte Presentation, Expanding Flexible Use of the 3.7–4.2 GHz Band, GN Docket No. 18-122, October 27, 2020.
+“What is 5G: A Brief Explainer,” by Riley Davis, CTIA—The Wireless Association, website blog, posted February 1, 2018.
+
+Related Articles
+
+Airborne Collision Avoidance System (ACAS)
+Interference to GNSS Signals
+
+Further Reading
+
+“Equipment Matters,” ACAS II Bulletin No. 23, June 2018.
+“RTCA Sees ‘Widespread’ Risks to Aviation in Plan for Shared Radio Frequency Spectrum — Opening the spectrum to 5G telecommunications could interfere with radar altimeter operations, report says.” by Linda Werfelman, AeroSafety World, October 29, 2020.
+“U.S. Government Says No to LightSquared” by Wayne Rosenkrans, AeroSafety World, March 2012, p. 11.
+“LightSquared Alleges ‘Rigged’ GPS Testing” by Wayne Rosenkrans, AeroSafety World, February 8, 2012.
+“LightSquared on Track — GPS specialists race the clock to resolve concerns about harmful interference from a new U.S. wireless broadband network.” by Wayne Rosenkrans, FSF AeroSafety World, April 2011.
+
+
+
+
+
+Categories
+
+
+Flight Technical
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

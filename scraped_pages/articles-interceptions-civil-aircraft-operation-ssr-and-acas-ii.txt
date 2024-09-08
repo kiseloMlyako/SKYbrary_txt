@@ -1,0 +1,157 @@
+Interceptions of Civil Aircraft - Operation of SSR and ACAS II
+
+
+
+
+
+
+
+
+
+
+
+  Interceptions of Civil Aircraft - Operation of SSR and ACAS II
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Reminder Message
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Synopsis
+EUROCONTROL has learnt of incidences where flight safety has been compromised and unnecessary TCAS Resolution Advisories (RAs) triggered during interceptions of civil aircraft because of misunderstanding regarding the operation of aircraft transponders and the properties of ACAS II.
+ICAO PROVISIONS - ACAS II
+
+PANS OPS (Doc 8168, Vol I),
+
+Definitions: “Airborne collision avoidance system (ACAS). An aircraft system based on secondary surveillance radar (SSR) transponder signals which operates independently of ground-based equipment to provide advice to the pilot on potential conflicting aircraft that are equipped with SSR transponders.”
+Chapter 3, § 3.1.1 “Resolution Advisories (RAs)… propose vertical manoeuvres that are predicted to increase or maintain separation from threatening aircraft.”
+
+
+Annex 6, § 6.18.2: “…all turbine-engined aeroplanes of a maximum certificated take-off mass in excess of 5,700 kg or authorized to carry more than 19 passengers shall be equipped with an airborne collision avoidance system (ACAS II).”
+
+ICAO PROVISIONS - INTERCEPTION OF CIVIL AIRCRAFT
+
+Annex 2, Chapter 3, § 3.8.1, Note. “As interceptions of civil aircraft are, in all cases, potentially hazardous, the Council has formulated special recommendations which Contracting States are urged to apply in a uniform manner”.
+Annex 2, Appendix 1, Attachment A, § 3, 3.2: “An aircraft equipped with an airborne collision avoidance system (ACAS), which is being intercepted, may perceive the interceptor as a collision threat and thus initiate an avoidance manoeuvre in response to an ACAS resolution advisory. Such a manoeuvre might be misinterpreted by the interceptor as an indication of unfriendly intentions. It is important, therefore, that pilots of intercepting aircraft equipped with a secondary surveillance radar (SSR) transponder suppress the transmission of pressure-altitude information (in Mode C) replies or in the AC field of Mode S replies) within a range of at least 37 km (20 NM) of the aircraft being intercepted.” (Note: Bold text is EUROCONTROL emphasis)
+ICAO Doc 9863: Airborne Collision Avoidance System (ACAS) Manual, Appendix 7
+
+“A7.2 ADVICE FOR NON-MODE S-EQUIPPED FIGHTER AIRCRAFT
+A7.2.1 Arrangements to be used by military fighter aircraft for covert intercepts
+A7.2.1.1 When closing in on an aircraft to be intercepted, the military pilot disables Mode C. (Some military users switch the transponder off or to “Standby” resulting in no reply to any interrogation.) In this procedure, the lack of altitude information will prevent all RAs.
+A7.2.1.2 At least under peace-time conditions, Mode A transmissions should be enabled at all times to make the fighter aircraft visible for SSR/IFF ground radar systems (but without altitude information).
+A7.2.2 Arrangements to be used by military fighter for demonstrative intercepts
+A7.2.2.1 During this type of intercept, it is highly desirable to avoid RAs, even though the intercepted aircraft detects the approaching Interceptor. There is no other alternative for non-Mode S-equipped fighters than to eliminate the altitude value in Mode C messages. In this case, only the framing pulses will be transmitted. If there is no altitude value in the Mode C messages, ACAS will detect the military aircraft, but only TAs can be generated. Ground-based systems can track the fighter aircraft, but without altitude information.
+A7.2.2.2 There should be an indication on the control panel or the IFF function display of the fighter aircraft when the altitude reply information is inhibited in this way.
+ 
+A7.3 ADVICE FOR MODE S-EQUIPPED FIGHTER AIRCRAFT
+A7.3.1 Covert intercepts are intended to prevent the fighter from responding to ACAS interrogations while the fighter can still respond to ATC ground-based interrogations.
+A7.3.1.1 In this case, the intercepting pilot will select an Intercept Mode. Under these conditions all replies to UF0 (short air-air surveillance) and UF16 (long air-air surveillance) interrogations will be suppressed. Nevertheless the fighter’s transponder will respond to all ground-based ATC system interrogations. Therefore, the fighter remains visible to ATC.
+A7.3.1.2 The fighter with activated Intercept Mode will continue to be a threat to all ACAS-equipped aircraft, if the Intercept Mode is not cancelled after the end of the mission.
+A7.3.2 Demonstrative intercepts are intended to keep the Interceptor visible to both the intercepted aircraft and to ground surveillance.
+A7.3.2.1 To avoid that an ACAS-equipped aircraft generates an RA against an approaching Mode S-equipped fighter, the height value in ACAS replies (DF 0 or 16) must be suppressed, but replies are still available for Mode S ground interrogations. If there is no altitude information in the replies to ACAS interrogations, the fighter will be recognized by ACAS, but only TAs can be generated. For ground-based Mode S interrogators there will be no difference from the normal behaviour, and the controllers have control of the whole air situation.
+A7.3.2.2 A software change will be necessary to military Mode S transponders on fighter aircraft, and when the Intercept Mode is enabled there should be an indication within the pilot’s normal viewing area.”
+Analysis
+Regarding the actions when an RA is generated, according to PANS OPS, Chapter 3, § 3.2,(c) “…in the event of an RA, pilots shall respond immediately by following the RA as indicated, unless doing so would jeopardize the safety of the aeroplane.” So, pilots will ‘’follow the RA’’.
+Regarding the suppression of Mode C data, the situation varies between those aircraft that are Mode S-equipped and those that are not. For the latter, depending on the type of intercept being conducted, the intercepting aircraft’s SSR Mode C should be inhibited as per ICAO Doc 9863, § A7.2. This will preserve flight safety whilst still permitting the prosecution of the intercept.
+However, for those fighter aircraft that are Mode S-equipped the picture is less clear. Only very few air forces’ interceptors currently have the Mode S Intercept Mode available and pilots of these aircraft can follow the advice in ICAO Doc 9863, § A7.3 above. This de-activates the air-to-air communication of Mode C data but preserves the air-to-ground link so that controllers can still see the interceptor and its altitude. For those Mode S-equipped fighters that do not have Intercept Mode capability, the issue is that Mode S continues to send out altitude information to all air and ground receivers even if the Mode C element is suppressed.
+The solution to this difficulty, adopted by a number of air forces, is for the interceptor to switch OFF the Mode S transponder, in toto, at the appropriate point in the interception. The pilot can still relay altitude information to the military control authority who in turn can advise their civilian counterparts. To enable this to happen safely there needs to be explicit and detailed cooperation and coordination between the military authorities controlling the interceptor and the civilian authorities controlling the intercepted aircraft (as is required by ICAO Annex 2).
+Finally, military flight crews should also be aware that, since ACAS II will not track any aircraft with a vertical rate in excess of 10,000ft/min, operating outside these parameters during an intercept will render ACAS II ineffective.
+Your Attention Is Required
+State Military and Civil Authorities are invited to take note of the subject and ensure that their national regulations and administrative directives related to the interception of civil aircraft comply with Annex 2 and follow the advice contained in ICAO Doc 9863.
+Aircraft Operators and Air Navigation Service Providers are invited to note the subject for information and awareness.
+Further Reading
+
+SKYbrary - Airborne Collision Avoidance System (ACAS)
+EUROCONTROL ACAS II (TCAS II v.7.1) Training Brochure for pilots and controllers.
+ICAO Annexes 6 and 10 (Volume IV).
+ICAO Doc 4444, PANS ATM.
+ICAO Doc 9433 - Manual concerning Interception of Civil Aircraft: (4.1.2.16, Note).
+
+Disclaimer
+© European Organisation for Safety of Air Navigation (EUROCONTROL) December 2011. This alert is published by EUROCONTROL for information purposes. It may be copied in whole or in part, provided that EUROCONTROL is mentioned as the source and to the extent justified by the non-commercial use (not for sale). The information in this document may not be modified without prior written permission from EUROCONTROL. The use of the document is at the user’s sole risk and responsibility. EUROCONTROL expressly disclaim any and all warranties with respect to any content within the alert, express or implied.
+
+
+
+
+Categories
+
+
+Safety Reminder Message
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

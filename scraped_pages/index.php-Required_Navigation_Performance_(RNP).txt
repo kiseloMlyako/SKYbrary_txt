@@ -1,0 +1,137 @@
+Required Navigation Performance (RNP)
+
+
+
+
+
+
+
+
+
+
+
+  Required Navigation Performance (RNP)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Separation 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Required Navigation Performance (RNP) is a family of navigation specifications under Performance Based Navigation (PBN) which permit the operation of aircraft along a precise flight path with a high level of accuracy and the ability to determine aircraft position with both accuracy and integrity. RNP offers safety benefits by means of its precision and accuracy and it reduces the cost of operational inefficiencies such as multiple step-down non-precision and circling approaches.
+RNP vs RNAV
+Under the PBN concept, in addition to the RNP navigation specifications there exists the area navigation (RNA) family of navigation specifications. RNAV and RNP navigation specifications are substantially very similar; they only differ in relation to the performance monitoring and alerting requirement which applies to RNP navigation specifications. This means that if the RNP system does not perform the way it should then an alert should be provided to the flight crew. In practical terms what this means is that air traffic control (ATC) can have greater confidence in the track keeping performance of the aircraft and this greater confidence translates into being able to place routes closer together.
+Level of performance and requirements
+RNP refers to the level of performance required for a specific procedure or a specific airspace block. An RNP of 0.3 means the aircraft navigation system must be able to calculate its position to within a circle with a radius of 3 tenths of a NM. The aircraft is required to have both aircraft and operational approval for RNP and the operator must know the level of monitoring provided. FMS equipment with GPS multi-sensor capability meeting TSO-C146 (SBAS/WAAS GPS) meets basic RNP requirements, when installed in an RNP-compliant aircraft installation. The FMS is a key component of an RNP compliant installation. The aircraft operator has to ensure that the aircraft meets the requirements for the specific approval being sought. An operational approval issued by one certification agency will typically be accepted by all, but the operator should ensure that the aircraft meets the requirements for the specific approval being sought or risk denial of access or violation.
+RNP specifications
+The International Civil Aviation Organization’s (ICAO) PBN Manual identifies seven navigation specifications under the RNP family: RNP4, RNP2, RNP1, Advanced RNP, RNP APCH, RNP AR APCH and RNP 0.3.
+RNP 4 is for oceanic and remote continental navigation applications. RNP 2 is for en-route oceanic remote and en-route continental navigation applications. RNP 1 is for arrival and initial, intermediate and missed approach as well as departure navigation applications. Advanced RNP is for navigation in all phases of flight. RNP APCH and RNP AR (authorisation required) APCH are for navigation applications during the approach phase of flight. RNP 0.3 is for the en-route continental, the arrival, the departure and the approach (excluding final approach) phases of flight and is specific to helicopter operations.
+On-board performance monitoring and alerting
+The on-board performance monitoring and alerting requirements for RNP 4, RNP 2, Advanced RNP, RNP 1 RNP APCH and RNP 0.3 have common terminology and application. Each of these RNP specifications includes requirements for the following characteristics:
+
+Accuracy: the accuracy requirement defines the 95% total system error (TSE) for those dimensions where an accuracy requirement is specified. The accuracy requirement is harmonised with the RNAV specifications and is always equal to the accuracy value. A unique aspect of the RNP specifications is that the accuracy is one of the performance characteristics that is monitored.
+On-board performance monitoring: the aircraft, or aircraft and pilot in combination, is required to monitor the TSE, and to provide an alert if the accuracy requirement is not met or if the probability that the TSE exceeds two-times the accuracy value is larger than 10⁻⁵. To the extent operational procedures are used to satisfy this requirement, the crew procedure, equipment characteristics, and installation are evaluated for their effectiveness and equivalence.
+Aircraft failures: failure of the aircraft equipment is considered within airworthiness regulations. Failures are categorised by the severity of the aircraft level effect, and the system must be designed to reduce the likelihood of the failure or mitigate its effect. Both malfunction (equipment operating but not providing appropriate output) and loss of function (equipment ceases to function) are addressed. Dual system requirements are determined based on operational continuity (e.g. oceanic and remote operations). The requirements on aircraft failure characteristics are not unique to RNP specifications.
+Signal-in-space failures: Signal-in-space characteristics of navigation signals are the responsibility of the ANSPs.
+
+Related Articles
+
+Performance Based Navigation (PBN)
+Area Navigation (R-NAV)
+Global Navigation Satellite System (GNSS)
+
+Further Reading
+
+Air Pilots Safety Briefing Note 08: "Understanding RNP Approaches"
+European GNSS Contingency/Reversion Handbook for PBN Operations: Scenarios and Options. PBN Handbook No.6, EUROCONTROL, Feb 2019
+Introducing Performance Based Navigation (PBN) and Advanced RNP (A-RNP), EUROCONTROL, January 2013.
+Performance-based Navigation Manual (advance 4th ed.), ICAO, 2012.
+Understanding Required Navigation Performance (RNP) and Area Navigation (RNAV) Operations, Universal Avionics Systems Corporation, October 2013.
+
+
+
+
+
+Categories
+
+
+Loss of Separation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

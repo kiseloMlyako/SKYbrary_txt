@@ -1,0 +1,202 @@
+Engine Failure in Cruise
+
+
+
+
+
+
+
+
+
+
+
+  Engine Failure in Cruise
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Aircraft Emergency & Unusual Situations
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Modern jet engines, both the turbofan and turboprop variants used in most current generation aircraft, are extremely reliable. These engines are subject to regularly scheduled inspections and maintenance and are designed for operational lifespans in the thousands of flight hours. However, as is the case with any piece of machinery, these engines can fail. Catastrophic failures, either contained or uncontained, occasionally occur and may result in an associated fire. Engine malfunctions or component failures can also occur and these can require that the crew shut down an engine in flight.
+"Cruise" is the phase of flight that occurs between climb and descent. The largest percentage of total flight time typically occurs in cruise. An engine is rarely producing its maximum rated thrust during cruise and failures during the cruise phase are rare. However, they can, and do, occur due to mechanical failure, inappropriate maintenance practices or certain atmospheric conditions such as high level ice crystal icing.
+Consequences
+The failure of an engine whilst in cruise has numerous potential ramifications. These can include, but are not limited to:
+
+Loss of thrust - most modern commercial aircraft incorporate two engines in their design. Loss of an engine therefore results in the loss of 50% of the available thrust. This loss of thrust will most often result in:
+
+Inability to maintain planned altitude - descent will usually be necessary. In areas of particularly high terrain, escape routes could be an operational necessity
+Inability to maintain planned airspeed
+Reduced climb capability, most critically during a go around
+
+
+Loss of electrical generation capability - loss of an engine will result in the associated loss of a fitted engine driven generator. Alternate electrical generation capability, such as an Auxiliary Power Unit (APU) may be available and should be used as appropriate
+Loss of hydraulics - The loss of an engine will result in the loss of any hydraulic pump fitted to that engine. Depending upon the hydraulic system architecture for the aircraft type, the loss of a pump could result in the loss of one of the (multiple) hydraulic systems incorporated into the design. That loss could result in any of:
+
+Degradation of flight control capability or effectiveness
+Loss of normal landing gear extension
+Loss of normal brake system or system enhancements such as anti-skid or autobrakes
+Loss of nose wheel steering capability
+
+
+Loss of pneumatics - Bleed air is normally drawn from the engine compressor to supply the pneumatic system. Loss of an engine can lead to the degradation of the following:
+
+Aircraft pressurisation capability
+Ice protection capability
+
+
+
+Pilot Response
+Whilst an engine failure in cruise is an uncommon occurrence, it can, and does, happen. The event, in itself, is unlikely to lead to loss of control unless the emergency is mishandled by the flight crew. Pilot prioritisation should follow the mantra Aviate, Navigate, Communicate.
+
+Aviate - First and foremost, fly the aircraft! Maintain attitude and speed control. If unable to maintain altitude, commence a descent using either drift down or emergency descent procedures as appropriate to the location and situation. Action appropriate memory drills and then complete the EICAS, ECAM or QRH procedures as appropriate to the aircraft type.
+
+
+Navigate - If appropriate, follow the applicable escape route to avoid high terrain. ICAO Doc 7030 directs the following actions in the event that an aircraft experiences a sudden malfunction rendering it unable to maintain the cleared altitude:
+
+Initiate a turn away from the assigned route or track before initiating the descent (note that in very congested airspace, this may not be advisable (see article Emergency Descent in High Traffic Density Situations) and that in some regions, such as the North Atlantic, there are specific contingency procedures to be followed. Certain regions of Europe have, in their AIPs, denoted that an emergency descent should be conducted on their cleared track unless an immediate conflict exists)
+Advise the appropriate air traffic control unit as soon as possible of the emergency descent
+Set the transponder code to 7700 and select Emergency Mode on the Automatic Dependent Surveillance (ADS) / Controller Pilot Data Link Communications (CPDLC) equipment as appropriate
+Turn on all exterior lights
+Watch for traffic both visually and with reference to ACAS/TCAS (if equipped)
+Coordinate further intentions with the appropriate ATC unit
+
+
+Communicate - Declare the emergency using the appropriate Emergency Communications protocols - "MAYDAY, MAYDAY, MAYDAY” or “PAN PAN, PAN PAN, PAN PAN” - as appropriate. Note that, although "communicate" is third on the priority list", declaration of the emergency should occur before, or as soon as possible after, leaving an assigned altitude without clearance. In this circumstance, phraseology such as "MAYDAY, MAYDAY, MAYDAY, (callsign) engine failure, descending out of FLxxx, Standby" could be used to forewarn ATC of the emergency and immediate action being taken, but also to advise them that you currently do not have the capacity to engage in further explanation. Note that in remote areas, such as oceanic airspace, when the aircraft is not in VHF voice contact with ATC, the immediate notification should be broadcast on frequencies 121.5 and 123.45 to alert nearby aircraft and then followed up with ATC, via CPDLC or HF radio, as time permits.
+
+Diversion
+A diversion decision should be a fundamental component of the flight crew thought process following an engine failure in cruise. Many manufacturers will include some associated direction in their checklists, be they ECAM or QRH based. For example, the statement "LAND ASAP" (colour coded in some cases) might be included as part of the checklist. If colour coded, red would indicate as soon as possible and amber as soon as practical. Many Operators also provide diversion guidance within their Operations Manual. Whilst some latitude might be provided in the case of aircraft with more than two engines, twin engine aircraft will normally be expected to divert unless the planned destination is in close proximity.
+Diversion is, fundamentally, a Safety of Flight decision and should be treated with the priority it deserves. Once the initial actions, as outlined in the preceding section, have been completed, the flight crew focus should be the diversion decision. In the case of Extended Range Operations or a mountainous terrain escape route, the diversion airports and profiles are preplanned. In all other cases, it will be a crew decision to identify the most suitable diversion aerodrome. Within reason, "most suitable" is not synonymous with "closest". Factors such as weather, runway length, approach capability, RFFS, passenger handling capability, and operational impact should all be given due consideration whilst keeping in mind that the primary focus must remain the safe recovery of the aircraft. In unfamiliar airspace, ATS can provide a wealth of information to the crew. Once the decision has been made, and the diversion initiated, the In-Charge flight attendant should be briefed, using the Company approved format, so they, in turn, can brief the cabin crew and prepare the cabin for the ensuing landing. The briefing should include items such as:
+
+Type of emergency
+Evacuation expectation
+Signals
+Time to landing
+Special instructions
+
+The Company should also be advised so they can coordinate services at the diversion airport. If appropriate and the capability exists, consideration should be given to dumping excess fuel.
+You will note that, to this point, nothing has been written about trouble shooting the failure or attempting to relight the engine. Modern engines rarely, if ever, fail without cause and, unless the failure was somehow crew induced or as a result of a clearly identifiable problem or external phenomena, a relight attempt is unlikely to be successful. Whilst it is well within the prerogative of the crew to attempt a relight if deemed prudent, in most cases, this process should be delayed until after the diversion decision has been taken and the diversion initiated.
+Summary
+Modern jet engine design, manufacturing and maintenance practices have resulted in highly reliable engines which have a very low failure rate. That said, failures will occasionally occur. Pilots should be prepared for that eventuality, in any phase of flight, and should be mindful of the aviate, navigate, communicate prioritisation of their immediate actions. Once the emergency has been secured, a timely and appropriate diversion decision will aid in reducing the follow-on risk and help to ensure that a safe outcome for the passengers, crew and aircraft is achieved.
+Accidents and Incidents
+
+A333, en-route, southeast of Alice Springs Australia, 2016 On 16 August 2016, an Airbus A330-300 right engine failed just over two hours into a flight from Sydney to Kuala Lumpur. It was eventually shut down after two compressor stalls and increased vibration had followed ‘exploratory’ selection of increased thrust. A ‘PAN’ declaration was followed by diversion to Melbourne, during which two relight attempts were made, in preference to other nearer alternates without further event. The Investigation found that delayed shutdown and the relight attempts were contrary to applicable procedures and the failure to divert to the nearest suitable airport had extended the time in an elevated risk environment
+B773, en-route, Bering Sea, 2013 On 2 July 2013, a Korean Air Lines Boeing 777-300 experienced an uncommanded in-flight shutdown of one of its GE90-115B engines while crossing the Bering Sea. The crew made an uneventful diversion to Anadyr Russia. The Korean Aviation and Railway Accident Investigation Board (ARAIB) delegated investigative duties of this event to the National Transportation Safety Board (NTSB) which identified the cause of the failure as a manufacturing process deficiency which could affect nearly 200 similar engines
+B763, en-route, near Ovalle Chile, 2005 On 2 January 2005, a Boeing 767-300 being operated by Air Canada on a scheduled passenger flight in day VMC from Toronto to Santiago, Chile was approximately 180 nm north of the intended destination and in the cruise at FL370 when it suffered a run down of the left engine which flight deck indications suggested was due to fuel starvation. A MAYDAY was declared to ATC and during the subsequent drift down descent, with the cross feed valve open, the failed engine was successfully restarted and the flight was completed with both engines operating without further incident
+B773, Singapore, 2016 On 27 June 2016, a Boeing 777-300ER powered by GE90-115B engines returned to Singapore when what was initially identified as a suspected right engine oil quantity indication problem evidenced other abnormal symptoms relating to the same engine. The engine caught fire on landing. The substantial fire was quickly contained and an emergency evacuation was not performed. The cause of the low oil quantity indication and the fire was a failure of the right engine Main Fuel Oil Heat Exchanger which had resulted in lubrication of the whole of the affected engine by a mix of jet fuel and oil
+CRJ2, en-route, east of Barcelona Spain, 2006 n 27 July 2006, a Bombardier CRJ200 being operated by Air Nostrum on a scheduled passenger flight from Barcelona to Basel, Switzerland in night VMC, suffered a sudden left hand engine failure and an associated engine fire when passing FL235 some 14 minutes after take off. An air turn back was made with indications of engine fire continuing until just three minutes before landing. An evacuation using the right hand exits was ordered by the Captain as soon as the aircraft had come to a stop and had been promptly actioned with the RFFS in attendance. There were no injuries to the 48 occupants during the evacuation and the only damage was to the affected engine
+A332, en-route, North Atlantic Ocean, 2001 On 24 August 2001, an Air Transat Airbus A330-200 eastbound across the North Atlantic at night experienced a double-engine flameout after which Lajes on Terceira Island in the Azores was identified as the best diversion and a successful glide approach and landing there was subsequently achieved. The Investigation found that the flameouts had been the result of fuel exhaustion after a fuel leak from the right engine caused by a pre flight maintenance error. Fuel exhaustion was found to have occurred because the flight crew did not perform the QRH procedure applicable to an in-flight fuel leak
+
+Related Articles
+
+Drift Down Procedure
+Emergency Descent: Guidance for Flight Crews
+Emergency Descent: Guidance for Controllers
+Engine Failure: Guidance for Controllers
+Fuel Dumping: Guidance for Flight Crews
+Fuel Dumping - Guidance for Controllers
+Uncontained Engine Failure
+Engine Failure During Takeoff - Multi-Engine Transport Category Jet Aircraft
+North Atlantic Operations - Contingency
+
+Further Reading
+EUROCONTROL
+
+Guidelines for Controller Training in the Handling of Unusual/Emergency Situations
+
+
+UK CAA - Safety Regulation Group
+
+CAP 745 - Aircraft Emergencies - Considerations for air traffic controllers
+
+
+Airbus Flight Operations Briefing Notes
+
+Handling Engine Malfunctions
+
+
+
+
+
+Categories
+
+
+Aircraft Emergency & Unusual Situations
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

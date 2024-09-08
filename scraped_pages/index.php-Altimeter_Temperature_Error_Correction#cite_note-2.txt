@@ -1,0 +1,202 @@
+Altimeter Temperature Error Correction
+
+
+
+
+
+
+
+
+
+
+
+  Altimeter Temperature Error Correction
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Weather 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Altimeter Temperature Error Correction is applied to altimeters to compensate for error caused by deviation from International Standard Atmosphere (ISA) conditions. 
+Current generation flight management system (FMS) units that support Vertical Navigation and provide for all axis global navigation system approaches also compensate for temperature. Pilots should confirm that this is the case on their aircraft and know when corrections are not required. If in doubt, apply corrections for low temperature.
+Description
+Pressure altimeters are calibrated to ISA conditions. Any deviation from ISA will result in error proportional to ISA deviation and to the height of the aircraft above the aerodrome pressure datum.
+According to ICAO PANS OPS (Doc 8168) "The calculated minimum safe altitudes/heights must be adjusted when the ambient temperature on the surface is much lower than that predicted by the standard atmosphere. In such conditions, an approximate correction is 4 per cent height increase for every 10°C below standard temperature as measured at the altimeter setting source. This is safe for all altimeter setting source altitudes for temperatures above –15°C. For colder temperatures, a more accurate correction should be obtained according to the guidance provided in section 4.3 "Temperature corrections".
+When temperature is LESS than ISA an aircraft will be LOWER than the altimeter reading.
+For example, if the OAT is - 40 °C then for a 2000 ft indicated altitude the true altitude is 1520 ft thus resulting in a lower than anticipated terrain separation and a potential obstacle-clearance hazard.
+
+Effect of Outside Air Temperature (OAT) on True Altitude - source: Airbus Approach & Landing Briefing Note (see further reading section)
+When To Apply Corrections
+As a general rule, when the aerodrome temperature is 0°C or colder, the temperature error correction must be added to all published minimum IFR altitudes:
+
+DH/DA or MDH/MDA and step-down fixes inside the final approach fix (FAF).
+All low altitude approach procedure altitudes in mountainous regions (terrain of 3000 ft AMSL or higher)
+
+If the MDAs/DAs are 1000 ft Height Above Airfield (HAA) or higher then corrections should be applied when the temperature is 10°C or colder.
+According to ICAO PANS OPS Chapter 4 "Altimeter Corrections", the pilot-in-command is responsible for the safety of the operation and the safety of the aeroplane and of all persons on board during flight time (Annex 6, 4.5.1). This includes responsibility for obstacle clearance, except when an IFR flight is being vectored by radar.
+When pilots intend to apply corrections to the FAF crossing altitude, procedure turn or missed approach altitude, they must advise ATC of their intention and the correction to be applied.
+Pilots may refuse IFR assigned altitudes if altitmeter temperature error will reduce obstacle clearance below acceptable minima. However, once an assigned altitude has been accepted, it must not subsequently be adjusted to compensate for temperature error.
+Publication of Cold Temperature Corrections
+In accordance with Annex 15, Appendix 1 (Contents of Aeronautical Information Publication), States should publish in Section GEN 3.3.5, “The criteria used to determine minimum flight altitudes”. If nothing is published, it should be assumed that no corrections have been applied by the State.
+Considering that, in ECAC airspace, most of the States are experiencing temperatures that require correction for minimum flight altitudes, it is recommended that such information is not omitted, and in case of no cold temperature correction applied, a clear statement to that effect is made in AIP GEN 3.3.5.
+Determination of Temperature Corrections
+When designing the structure of airspace where air traffic control is provided, an ATS authority will have to consider annual and seasonal variation of temperature when establishing the minimum flight altitudes.
+The analysis of recorded meteorological data will be the basis for considering how the effect of cold temperatures should be mitigated in operations. Such an activity will indicate the magnitude of the correction required to operate within a given temperature range.
+According to the airspace requirements and the surrounding environment, an airspace designer may consider a lower temperature as a reference for establishing the minimum flight altitudes.
+The combination of concept of operations, airspace requirements and temperature range will indicate which of the following approaches would be appropriate for a given environment:
+
+Annual - In areas where the temperatures recorded are not too low, and the seasonal variation is minor, it would be possible to calculate the cold temperature correction in accordance with historical meteorological data and publish the resulting minimum levels accordingly in the AIP. All minimum altitudes should then include the cold temperature correction which would be known to pilots.
+
+It could be that some isolated higher obstacles will be subject to special arrangements (providing a protection around the obstacle rather than raising overall the minimum flight altitudes).
+This approach has the benefit of having one set of values for minimum vectoring altitudes[1] applicable for the entire year.
+
+Seasonal - The low temperatures are normally recorded within a defined period of the year. When the low temperatures experienced are significantly low during this season, the buffer necessary to accommodate an annual application of cold temperature correction may lead to a less efficient use of the airspace. In such cases the appropriate ATS authorities may consider a dual set of minimum flight altitudes: one applicable during “warm season” and one during the “cold season”. The activation of one or the other set of values can be indicated in the State’s AIP such as: “from 1 December to 31 March the cold temperature values for minimum flight altitudes are applied”.
+
+The set of values for minimum vectoring altitudes a controller must use in cases documented in ICAO Doc 4444, PANS-ATM, § 8.6.5.2 [2] would be provided/activated accordingly.
+
+Daily - The cold temperature corrections can also be updated on a daily basis using the coldest temperature forecast for the day as the baseline. The supervisor will use the table/methodology as provided by the appropriate ATS authority to ascertain the set of minimum vectoring altitudes a controller will use that day.
+
+The State will publish in AIPs that correction for low temperature effect are applied, when necessary, by ATC.
+
+
+
+
+Tactical - When full integration of the methodology for cold temperature correction in the ATS system is performed, the controller will be provided with the appropriate information on the CWP.
+
+The State will publish in AIP that correction for low temperature effect are applied, when necessary, by ATC.
+
+
+
+A common aspect for the first two solutions is that they will not cover temperatures lower than those in the selected range. Therefore, they should be supplemented with specific procedures for temperatures lower than those in the selected range.
+Minimum Sector Altitude
+Currently, there is not a European-wide common procedure to deal with adjustments to Minimum Sector Altitudes (MSAs). Some regulators do not specify adjustments to MSAs and consequently ATC providers do not apply a temperature correction to published MSAs for cold temperatures. It is the flight crew reponsibility according to the provisions of ICAO PANS OPS referred above.
+Some operators advise flight crews to add 1000 ft to the MSA when the temperature is - 30 °C or colder. (RAF FIH)
+Minimum Vectoring Altitude
+MVAs are established for use by the Air Traffic Controller (ATCO) when Air Traffic Control (ATC) provide a surveillance service (usually radar). Each MVA chart contains sectors large enough to accommodate the vectoring of aircraft within the sector at the MVA. The minimum vectoring altitude in each sector provides 1000 ft above the highest obstruction in non-mountainous areas and 2000 ft above the highest obstacle in designated mountainous areas.
+According to ICAO PANS OPS, minimum vectoring altitudes shall be corrected for temperature. The temperature correction shall be based on seasonal or annual minimum temperature records. In turn, ATC authorities are required, as per ICAO PANS ATM, 8.6.5.2, Note 2, “to provide the controller with minimum altitudes corrected for temperature effect”.
+
+Editor's notes:
+
+^ In cases where minimum vectoring altitudes are not established by the airspace designers and the controllers use (according to local procedures) a specific set of minimum flight altitudes (AMA, minimum flight level en route) or surveillance minimum altitudes when vectoring aircraft, the ATS authority should provide the corrected values for such set of minimum altitudes.
+^ ICAO Doc 4444, PANS-ATM, § 8.6.5.2: “When vectoring an IFR flight and when giving an IFR flight a direct routing which takes the aircraft off an ATS route, the controller shall issue clearances such that the prescribed obstacle clearance will exist at all times until the aircraft reaches the point where the pilot will resume own navigation. When necessary, the relevant minimum vectoring altitude shall include a correction for low temperature effect.
+Note 1.— When an IFR flight is being vectored, the pilot may be unable to determine the aircraft’s exact position in respect to obstacles in this area and consequently the altitude which provides the required obstacle clearance. Detailed obstacle clearance criteria are contained in PANSOPS (Doc 8168), Volumes I and II. See also 8.6.8.2.
+Note 2.— It is the responsibility of the ATS authority to provide the controller with minimum altitudes corrected for temperature effect.”
+	ATM Procedures Development Sub-Group of EUROCONTROL Network Operation Team considers that “the controller shall issue clearances such that the prescribed obstacle clearance will exist at all times until the aircraft reaches the point where the pilot will re-join the flight planned route, or a published ATS route or instrument procedure”.
+
+Related Articles
+
+Use of Radio Altimeter
+Terrain Avoidance and Warning System (TAWS)
+Minimum Vectoring Altitude (MVA)
+Minimum Sector Altitude (MSA)
+Minimum Obstacle Clearance Altitude (MOCA)
+
+Further Reading
+EUROCONTROL
+Cold Temperature Correction Guidance and Tool
+
+Guidelines for Cold Temperature Corrections by ATS
+Cold Temperature Correction Tool - This electronic tool (Excel Workbook) provided in conjunction with the Guidelines for Cold Temperature Corrections by ATS is intended to assist airspace designers and ATS authorities, in general, to assess how temperature correction can be most effectively accommodated in the airspace design, to identify which temperature ranges would provide the most efficient utilization of a given volume of airspace. The tool provides three spreadsheets where the user may calculate the value of the correction required for a given set of parameters, the possibility to calculate the effect of the cold temperature on the minimum vectoring altitude and the possibility to assess a the correction for temperature banding.
+
+Transport Canada
+
+Nav Canada - Canada Air Pilot (eCAPGEN), pages 35 and 36.  - Cold Temperature Corrections
+
+Others
+
+Flight Safety Foundation ALAR Briefing Note 3.1 — Barometric Altimeter and Radio Altimeter
+Airbus ALAR Briefing Note 3.1 — Barometric Altimeter and Radio Altimeter
+Royal Air Force Flight Information Handbook
+IFALPA Briefing Leaflet: Cold Temperature Corrections, December 2014
+see also ICAO Doc 8168 - PANS-OPS, Volume 1, Chapter 4 and associated tables.
+
+
+
+
+
+Categories
+
+
+Weather,
+              Controlled Flight Into Terrain,
+              General Aviation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,180 @@
+ATC Safety Nets for Remotely Piloted Aircraft
+
+
+
+
+
+
+
+
+
+
+
+  ATC Safety Nets for Remotely Piloted Aircraft
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Nets 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+This article briefly describes the principal air traffic control (ATC) safety nets relevant to operation of remotely piloted aircraft systems (RPAS), including examples of relevant priorities of air navigation service providers (ANSPs). The article’s examples focus on regions or States other than the European Union and the United States to reflect today’s worldwide interest among aviation safety professionals.
+The article aims to encourage understanding of factors that determine when ATC safety nets protect or do not protect different categories of drones. Another intent is to point out that a number of experts contend that ATC safety nets — an operational necessity for manned-aviation industry sector for at least 20 years — now should be regarded similarly by unmanned-aviation stakeholders, where applicable. The article includes examples of ATC safety nets being cited essentially as “backup systems” to normal risk mitigations in civilian drone flight operations — in a similar manner as protecting manned aircraft.
+EUROCONTROL has advocated ATC safety nets for 20 years for manned aviation, and now also aims to optimise safety of RPAS flights.
+Definitions
+The following definitions come from ICAO’s March 2017 concept of operations (CONOPS) that focuses entirely on future international RPAS flights, beyond visual line of sight under instrument flight rules (IFR).
+
+ATC safety net — In describing ATC safety nets, ICAO said, “Safety nets monitor aspects of the operational environment and generate an alert if a safety risk exists or remedial action is necessary to assure flight safety. They comprise: (a) those installed in the aircraft for use by flight crew and/or the aircraft itself, for example, an airborne collision avoidance system (ACAS); and, (b) those deployed in ground-based systems, such as those used by air traffic controllers — for example, short term conflict alert (STCA) [and] minimum safe altitude warning (MSAW). … Safety nets are designed to serve as a last line of defence and are not intended to replace conventional systems, such as for surveillance.”
+Remotely piloted aircraft system (RPAS) — An unmanned aircraft piloted from a remote pilot station. (ICAO currently considers RPAS as a subset of UAS, meaning unmanned aircraft systems of all types; UAS includes RPAS, autonomous aircraft and model aircraft.) In its latest publications, ICAO applies the term RPAS for UAS that operate under Instrument Flight Rules (IFR) or will do so in the future. ICAO working groups and other stakeholders also use the word drone to refer to small UAS that will operate below 500 ft, remotely-piloted or otherwise, by compliance with newly approved UAS traffic management (UTM) services operated by private entities.
+
+Key Background Issues
+Potential technical issues and consequences have been identified by experts and safety management systems. Further studies are underway, as a result, for the following specific issues where noted:
+
+Early insights from ICAO — In a 2012 presentation about two future ATC safety net enhancements, ICAO stressed that IFR RPAS risks in non-segregated airspace must be considered proactively. Its arguments were: “Enhancements to airborne and ground safety nets are clearly technology based and will depend upon the evolution and development of surveillance and system processing capabilities. The need to serve 4D trajectory operations and accommodate trajectory conformance monitoring in all dimensions should provide the impetus to redefine safety net algorithms to fit future operations. … By their nature, safety nets are designed specifically for and implemented in particular airframes and ATC centres, therefore interoperability is essential."
+
+“Hence, the development of safety nets, including the derivation of algorithms and operational procedures, should be harmonized globally. Equally, an awareness and mitigation of common failure modes … is necessary. Deployment of airborne safety nets could benefit from widespread implementation of ADS-B, with backwards compatibility between the ADS-B versions. Developments in ATM automation should build in capability for the various system alerts and flexibility in their local programming to fit particular site considerations.”
+
+ICAO RPAS Concept of Operations — The CONOPS, without explicitly listing ATC safety nets by that term, assumes that RPAS — like manned aircraft — must benefit from various “safety systems used to satisfy operational requirements and mitigate failures.” It notes that “The extent and sophistication of operational safety systems will vary depending on the intended use and complexity of the operational environment. Examples of particular importance in enabling international IFR operations include systems for detecting other aircraft and hazards; providing voice and data communication with ATC; and providing surveillance information to ATC (i.e., [data from the] pressure-altitude reporting transponder, ADS-B or MLAT [ Multilateration ]). … On the aerodrome surface, RPAS will interact with ATC much the same as manned operations.”
+Two classifications of RPAS — A committee working paper on emerging issues from ICAO’s 13th Air Navigation Conference in October 2018 describes a fundamental difference that makes it hard to sterotype RPAS and small UAS operations. One broad category of RPAS is being treated, or will be treated, by ATC as closely as possible to manned aircraft. The other broad category of RPAS is being treated, or will be treated, much differently. Therefore, UAS/RPAS operators will need to determine case-by-case whether an ATC safety net would protect their RPAS operation.
+
+The working paper explains: “There are two distinct threads to [non-segregated, unmanned aircraft system (UAS)] integration: IFR RPAS operations; and UAS traffic management (UTM). The IFR RPAS operations will be almost transparent to the ATM system. UTM services are anticipated to be initially deployed in airspace below 500 ft which, although largely in uncontrolled airspace, is not unmanaged. Consequently, UTM needs to safely and securely interface and integrate with ATM.” For small UAS operations under visual flight rules (VFR), “ICAO should prioritise the harmonisation and standardisation of detect and avoid (DAA) capabilities, specifically the collision avoidance (CA) and remain well clear (RWC) functions,” the paper said. “We call upon ICAO to prioritise the harmonization and standardisation of DAA capabilities required by IFR RPAS, specifically the CA and remain well clear functions.”
+
+UTM without ATC safety nets — The CONOPS stresses what it calls “important differences” between air traffic conflict management for small UAS, even though conflict management resembles its ATM equivalent for RPAS. The document said, “The needs for strategic deconfliction and for collision avoidance (CA) are greater but, in principle, the same as for manned aviation. However, as the need for separation provision is less clear, the detect and avoid (DAA) performance will be of prime importance, especially if the UTM concept allows self-separation and CA to all hazards.”
+RPAS integration with ATC safety nets — The CONOPS points out the need for ATC safety net–like capabilities without using the term. It said, “One of the key elements needed to enable RPAS integration is DAA. … The key function needed is the CA function, as a safety net that supports the pilot’s responsibility for the safety of the flight, in all airspace classes, and requires a capability against cooperative and non-cooperative targets.”
+Combined ADS-B — Reports from 2019 ICAO meetings of stakeholders from the Asia-Pacific region said that combining real-time data from automatic dependent surveillance–broadcast (ADS-B) with other means of surveillance for aircraft separation (such as radar, flight plan track and ADS-Contract) has been successful. ADS-B data increasingly are shared among ICAO member states, often from airspace near their common flight information region (FIR) boundaries, through formal agreements. One report added, “All [ATC] safety net features (minimum safe altitude warning [MSAW], short term conflict alert [STCA], medium term conflict alert [MTCA] , route adherence monitoring [RAM] and danger area infringement/restricted area intrusion warning [DAIW/RAI] , etc.) should possess the same responsiveness as equivalent radar safety net features.”
+Mode S — Various SKYbrary articles explain capabilities called Mode S (i.e., “select” mode) aircraft downlink aircraft parameters (DAPs). DAPS data greatly widen the ANSP’s options for implementing ATC safety nets, which function for any compliant aircraft, according to ICAO’s Mode S Downlink Aircraft Parameters Implementation and Operations Guidance Document, Edition 1.0, March 2019.
+
+The options for this software application, which is installed in ATC secondary surveillance radar (SSR) systems, include a legacy process called Mode S elementary surveillance (Mode S ELS) or the upgraded Mode S enhanced surveillance (Mode S EHS). In Europe, for example, Mode S ELS is rapidly being superseded by Mode S EHS, EUROCONTROL said.
+Mode S ELS key benefits for ATC safety nets are “[improved] accuracy of multi-surveillance tracking and safety nets with more accurate target detection from Mode S radars and high resolution in altitude reporting; and [ability] to process more aircraft tracks than conventional Mode A/C radars.” Also relevant are unambiguous aircraft identification, better performance in congested airspace compared with mode A/C radars and mode 3/A transponder codes, and a higher level of data integrity.
+Mode S EHS key benefits for ATC safety nets are “further [improving] the accuracy of safety nets, e.g. short-term conflict alert (STCA), through the provision of more accurate aircraft tracks; [and allowing] the implementation of new safety nets in the ATM automation system for cross-checking selected aircraft vertical intention (i.e., selected altitude) with the ATC controller’s instruction as well as verifying the barometric pressure setting applied in the aircraft,” the guidance document said.
+“Ground automation systems can use DAPs information for a wide variety of uses, such as for tracking, safety net processing, situational awareness, en-route meteorological information sharing, and so on.”
+
+Mode S RPA address limitations and potential interference — In April 2019, the ICAO Surveillance Panel summarized industry concerns “about some of the technical limitations associated with large numbers of [RPAs] attempting to make use of current Mode S surveillance avionics. Particular focus has been on the topics of 24-bit aircraft address availability for RPAS and potential 1090 MHz congestion from RPAS,” according to ICAO’s meeting report. The panel noted that the existing avionics design could allocate 24-bit aircraft addresses for up to 16,177,214 aircraft, adding “If there were no growth in [for example, U.S. RPA] fleets, then a maximum of 600,000 aircraft addresses would be available. As of 2 April 2018, there were over 150,000 registered RPAS in the U.S. Projections of RPAS growth in the U.S. indicate that it is likely that there will be over a million such vehicles by 2025.”
+
+Moreover, the ICAO Surveillance Panel’s proposed guidance to member States, based on research conducted for the U.S. Federal Aviation Administration (FAA) to date, notes that “large numbers of RPAS (one RPAS per 2 square kilometres) operating at low altitudes (less than 500 ft above ground level) in a typical high-density terminal airspace (760 ADS-B–equipped aircraft operating within a 200 nm radius and from ground level to Flight Level 180) can interfere with ADS-B ground station reception of aircraft ADS-B reports when the transmit power of each RPAS is 1 watt or higher.” In comparison, ICAO-compliant ADS-B avionics will transmit at 70–125 watts, the report said.
+The key findings, the conclusion and a “future work” section, summarized in an AIAA paper, at the time were disputed by the FAA. FAA obtained further independent analyses of a separate concern: effects of RPAS traffic density and transmission power on air-to-air and air-to-ground uses of ADS-B on 978 MHz — according to the ICAO Surveillance Panel. The panel noted that other findings initially disputed by the FAA included a scenario in which 1,400 RPAs operating within 800 square miles below 500 ft above ground level (AGL). The scenario “causes ADS-B ground stations to become blinded from seeing manned aircraft ADS-B reports,” the Surveillance Panel said in its summary. The other ADS-B frequency, 1090 MHz, already is more congested than the 978 MHz frequency, and studies are underway in other ICAO member states to find solutions, its report added.
+The ICAO Surveillance Panel, given these uncertainties, also proposed to advise ICAO member states to conduct their own RF spectrum–congestion analyses “to determine how RPAS operations might impact the performance of ANSP surveillance systems” and then “to consider whether or not to prohibit such equipage, and under what circumstances. …
+“States should consider the degree to which the operation of RPAS may or may not require air traffic services as defined by ICAO. For example, if RPAS are operating in uncontrolled airspace, then the use of ICAO-compliant aeronautical surveillance equipment by RPAS may not be justified.” Similarly, if RPAs are not operating near manned aircraft “the use of ICAO-compliant aeronautical surveillance equipment by RPAS may not be justified.”
+
+RPAS in ICAO block upgrades — Other developments likely to influence ATC safety nets are one step to initially integrate RPAs into non-segregated airspace, and another step to implement procedures to operate RPAs in non-segregated airspace. In The Aviation System Block Upgrades: The Framework for Global Harmonization — finalized by ICAO in July 2016, the first step “implements refined operational procedures that cover lost command and control (C2) link (including a unique squawk code for lost C2 link), as well as enhanced detect and avoid technology.” The second step implements transparent management of RPAS by “continuing to improve the certification process for RPAs to operate on the aerodrome surface and in non-segregated airspace just like any other aircraft.”
+Airborne collision avoidance aboard drones — ACAS Xu and ACAS sXu are two versions of the airborne collision avoidance system as parts of the multipurpose ACAS X generation. ACAS Xu and ACAS sXu have been designed for installation in RPAs and small UAs, respectively. As of August 2019, all ACAS X versions awaited issuance of ICAO standards and recommended practices.
+
+Progress Outside Europe and the United States
+India
+In August 2014, India described its Kolkata FIR Upper Airspace Harmonisation Project, an advanced air traffic services automation system with redundant infrastructure initially capable of integrating data from 35 radar sites, 32 ADS-B ground stations and 10 multilateration sensors. “The system has provided advanced safety net features which have detected conflicts and alerted the controllers,” the report said. “The safety nets consisted of short-term conflict alert, medium term conflict detection, minimum safe altitude warning, area proximity warning, etc. … [and they] enhanced air safety to a great extent. The unique feature of downlinked aircraft parameters (DAPS data) using Mode S would display cockpit parameters to controllers, thereby making them situationally aware of aircraft intention(s).”
+Hong Kong
+In August 2017, the Civil Aviation Department of Hong Kong presented its risk-based implementation of interoperability for air traffic management systems (ATMSs). Its report said, “The new ATMS provides a set of 10 [ATC] safety net functions in order to improve the alerts and confidence levels for controllers. … [The first] three functions with imminent need for safe operation — namely, short term conflict alert (STCA), special use airspace intrusion warning (SUAIW) and cleared level adherence monitoring (CLAM) — were identified and put into operation.” The timetable anticipated complete ADS-B ground-receiver coverage for the Hong Kong FIR by the end of 2017. This ATMS upgrade also supports integrating signals/data from primary surveillance radar, secondary surveillance radar and ADS-B receivers, enabling controllers “to positively locate all aircraft within their detection range, including those with a failed transponder,” the report said.
+New Zealand
+In April 2019, Airways New Zealand presented a report on the impact to New Zealand’s ATC and ATC safety nets of small UAS, and upgrades to its Airshare program that address limitations in handling unexpectedly high UAS traffic volume and the related ATC-workload — “especially at control towers where ATC are responsible for authorizing [UAS] flights within the local control zone and providing separation or traffic information as required.” A UTM provider also was selected to “ensure safe integration of UAS into the existing aviation system across both controlled and uncontrolled airspace” to address causes of events such as “126 reported incidents of unauthorized UAS operating in controlled airspace, usually in close proximity to aircraft or airports.” Airways New Zealand, in the process, identified the need for surveillance of all non-cooperative UAs. Requested UTM features are expected to function somewhat similarly to ATC safety nets, providing defences to UAS intrusions with drone-identification devices, correlation of each UA to its flight plan, automatic warnings to ATC and UA tracking by ATC. “If the UAS infringes the [Airshare software’s computed protection] buffer, the operator and ATC receive a warning. Based on this type of technology, a lot of approvals could be automatic with no contact or involvement with ATC required,” the report said.
+Australia
+An April 2019 report by Australia said that the nation’s air traffic controllers, equipped with overall ATM enhancements, are now addressing aircraft loss of separation events. “Australia continues to make greater use of ADS-B and Mode S following investment by airspace users and the air navigation service providers,” its report said. This includes “improvements to safety net conflict alerts, including a five-minute look-ahead time conflict alert – generally in non-surveillance airspace.” Authorities also reported that work in progress will increase the nation’s use of Mode S DAPs data for ATC safety net alerting and for display to the controller. The first application of Mode S DAPS data and ADS-B “selected altitude” data from all compliant aircraft generates alerts to ATC whenever these data are mismatched to the cleared flight level (CFL) data on controllers’ traffic surveillance displays.
+Singapore
+In April 2019, the Civil Aviation Authority of Singapore (CAAS) told regional counterparts that it had replaced its last Mode A/C terminal radar with a Mode S radar in September 2017. “All CAAS’s secondary surveillance radars are now Mode S radars,” the report said. “Recognising the improved safety and operational benefits arising from the use of ADS-B in remote areas beyond radar coverage [e.g., over the South China Sea], CAAS embarked on data-sharing collaborations with its counterparts in Indonesia, the Philippines and Vietnam. In September 2018, the ADS-B and VHF coverage in the northwestern part of the Singapore FIR was expanded as a result of a further collaboration agreement between Vietnam and Singapore. An ADS-B collaboration project is currently underway between Brunei and Singapore.” The nation’s other major ATC enhancements are expanded use of Mode S DAPs to couple aircraft with their flight plans and to display to the controllers: ACAS resolution advisory notifications from aircraft, final state selected altitude (FSSA), indicated airspeed, Mach number and magnetic heading. “An alert will be presented to the controller via the [displayed] aircraft label for aircraft with an executive flight level–FSSA mismatch. … Upgrading also includes the capability to process DAPs by the multi-sensor tracking system and [to process ATC] safety net functions of the ATM automation system,” the report said.
+China
+In April 2019, the Air Traffic Management Bureau (ATMB) of the Civil Aviation Administration of China (CAAC) shared with regional counterparts its experience in ATC surveillance system implementation. This work included actions likely relevant to ATC safety nets and RPAS/UAS. Application of Mode S DAPs data has been an important aspect, and “CAAC positively promotes the application of Mode S DAPs, [taking on] the task of compiling the Mode S DAPs of aircraft in ICAO’s Asia and Pacific (APAC) Region,” the presentation said. “The use of DAPs data was initially limited to functionality available from Mode S (ELS) data items such as flight ID, ICAO unique address and altitude. In August 2013, ATMB/CAAC added [Mode S EHS] ‘selected altitude’ data to the Chengdu Area Control Centre’s ATM automation system.” The ATMB’s short list of near-term ATC challenges includes newly required surveillance of UAS aircraft, the presentation said.
+References
+
+Remotely Piloted Aircraft System (RPAS) Concept of Operations (CONOPS) for International IFR Operations, ICAO, March 2017.
+ICAO Approach Path Monitor Safety Net, Asia/Pacific Seamless ATM Plan Review 2016.
+Charting the Future: 2015 Air Navigation System Plan, Nav Canada, September 2015,
+
+Related Articles
+
+4D Trajectory Concept
+Mode S
+Safety Nets
+
+Further Reading
+
+NETALERT 25 — The Safety Nets Newsletter, by EUROCONTROL, Number 25, August 2019.
+Safety Nets: A Guide for Ensuring Effectiveness, EURPCONTROL, August 2017.
+Safe operation of drones in Europe: Update on EASA’s activities, issued by EASA, April 2018.
+
+
+
+
+
+Categories
+
+
+Safety Nets,
+              Unmanned Aerial Systems
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

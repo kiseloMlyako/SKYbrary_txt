@@ -1,0 +1,187 @@
+Hydraulic Problems: Guidance for Controllers
+
+
+
+
+
+
+
+
+
+
+
+  Hydraulic Problems: Guidance for Controllers
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Control 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+There is no set of ready, out-of-the-box rules to be followed universally. As with any unusual or emergency situation, controllers should exercise their best judgment and expertise when dealing with the apparent consequences of on-board hyrdraulic problems and the possible outcomes. A generic checklist for handling unusual situations is readily available from EUROCONTROL but it is not intended to be exhaustive and is best used in conjunction with local ATC procedures.
+Description
+This article provides guidance for controllers on what to expect from an aircraft experiencing hydraulic problems and some of the considerations which will enable the controller not only to provide as much support as possible to the aircraft concerned, but also maintain the safety of other aircraft at or in the vicinity of an aerodrome and of the ATC service provision in general.
+Useful To Know
+The hydraulic systems are the “muscles” of most modern aircraft. Hydraulic power is extensively used whenever the needed force is beyond human strength and/or the period of application is prolonged. Pressure is applied to liquid as media to transfer energy to specific points - various mechanical devices act as transformers, converting applied pressure, or a fraction of it, into movement, torque, etc. The movement of the pilot’s stick in a contemporary airliner initiates a series of control signals to actuators and other devices that transfer right amount of force to the proper control surface.
+As the hydraulic systems are of paramount importance for the safe flight, many design steps are taken to ensure reliability, redundancy and control. Often three independent hydraulic systems are in presence. They are fitted with different sources of power/pressurization, run in different lines and exchange pressure/liquid only under controlled conditions.
+Effects
+Depending on the extent of damage to the hydraulic system(s), the following effects might appear:
+
+Difficulties with extending/retracting of landing gear;
+Lack of autopilot;
+Partial control over different control surfaces;
+Reduced braking capability upon landing;
+Lack of control over thrust reversers;
+Loss of nose wheel steering making it difficult or impossible to clear the runway after landing;
+Partial/total loss of control while flying.
+
+Anticipated Impact on Crew
+The crew that experiences problems with hydraulics might face the following:
+
+Downgraded flight characteristics - the crew could have difficulties controlling the aircraft that might vary from light to severe if all hydraulic systems are not present;
+Increased stress in the cockpit - the crew would need to perform some preliminary checks to estimate the extent of reduction of the normal characteristics of the aircraft;
+Increased time allowance - additional time might be needed in order to check the status of the problem and to initiate the required mitigations. It should be noted that some of the situations are present in SOPs or other documents with proper check-lists, but others may necessitate an ad hoc solution;
+Manual flying - major damage of hydraulics would usually affect the auto-pilot functions;
+Immediate landing - after assessing the situation, the crew could decide to carry out an immediate landing at the nearest (suitable) airport.
+
+Suggested Controller's Actions
+Best practice embedded in the ASSIST principle could be followed: (A - Acknowledge; S - Separate, S - Silence; I - Inform, S - Support, T - Time)
+A - acknowledge the hydraulics problem, ask for the crews’ intentions when the situation permits, and establish whether the crew is able to control the aircraft;
+S - separate the aircraft from other traffic, prioritise it for landing (allow long final if requested), keep the active runway clear of departures, arrivals and vehicles;
+S - silence the non-urgent calls (as required) and use separate frequency where possible;
+I - inform the airport emergency services and all concerned parties according to local procedures;
+S - support the flight experiencing hydraulics problems with any information requested and deemed necessary (e.g. type of approach, runway length and aerodrome details, etc.);
+T - provide time for the crew to assess the situation, don’t press with non urgent matters.
+What to Expect
+An ATCO might expect the following:
+
+Larger margins of adherence to cleared flight level;
+Non standard phraseology used by the flight crew to describe the problem, e.g. we lost green (yellow, blue) hydraulics, or we lost 1 (2, standby) hydraulics etc., depending on the aircraft manufacturers' labeling system;
+Sudden descent or climb;
+Wider radius of turns with smaller rate of turn;
+High approach speed;
+Lack of autopilot (effect on CAT-landings);
+Partial control over different control surfaces;
+Reduced braking capability upon landing;
+Runway excursion/blockage;
+Post-landing fire, airframe damage.
+
+What to Provide
+The ATCO should be able to provide:
+
+Time and space - Provide increased separation between the affected aircraft and all others. Expect non-routine manoeuvres.
+Information about nearest and nearest suitable airports - runway length and direction, operational status, etc;
+Weather information - Updated weather information provided by ground communication channels;
+Navigational help - depending on the circumstances, radar vectors could be required;
+Additional Information - for example: type of emergency support at requested airport.
+
+Defences
+
+Clear and precise communication - every effort should be made to present all available information and receive all details that might be needed by crew, emergency staff, etc;
+Effective personnel management - additional staff might be required to handle the informational flow and provide better service to the affected aircraft;
+Fast coordination - crucial information should be delivered to all affected parties without delay. Information focal points should be pre-defined and tested for conformance.
+
+Related Articles
+
+Hydraulic Systems
+Hydraulic Problems: Guidance for Flight Crews
+Brake Problems: Guidance for Controllers
+Landing Gear Problems: Guidance for Controllers
+
+Further Reading
+
+Guidelines for Controller Training in the Handling of Unusual/Emergency Situations, EUROCONTROL
+ATC Refresher Training Manual, ed.1.0, March 2015
+CAP 745, Aircraft Emergencies, Considerations for air traffic controllers
+Skybrary - Accident and Serious Incident Reports - DC10, Sioux City USA, 1989
+FAA Safety Recommendation Report - Emergency Training for Air Traffic Controllers
+
+
+
+
+
+Categories
+
+
+Loss of Control,
+              Flight Technical,
+              Aircraft Emergency & Unusual Situations,
+              Guidance for Controllers
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

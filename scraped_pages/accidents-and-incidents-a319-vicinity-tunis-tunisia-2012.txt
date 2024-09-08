@@ -1,0 +1,307 @@
+A319, vicinity Tunis Tunisia, 2012
+
+
+
+
+
+
+
+
+
+
+
+  A319, vicinity Tunis Tunisia, 2012
+
+
+
+
+
+
+
+
+
+Summary
+
+On 24 March 2012, an Air France Airbus A319 Captain continued descent towards destination Tunis at high speed with the landing runway in sight well beyond the point where a stabilised approach was possible. With 5nm to go, airspeed was over 100 KIAS above the applicable VApp and the aircraft was descending at over 4000fpm with flaps zero. EGPWS activations for Sink Rate, PULL UP and Too Low Terrain apparently went unnoticed but at 400 feet agl, ATC granted a crew request for a 360° turn. The subsequent approach/landing was without further event. Investigation attributed the event to “sloppy CRM”.
+
+
+
+
+Event Details
+
+When
+
+24/03/2012
+
+
+
+Event Type
+
+
+HF,
+              LOC
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS A-319
+
+
+
+
+
+
+
+
+
+Operator
+
+Air France
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Paris/Charles de Gaulle Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Tunis-Carthage
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Descent
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+DTTA
+
+
+
+
+General
+
+Tag(s)
+
+
+              Approach not stabilised,
+              Approach Unstabilised after Gate-GA
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Inappropriate crew response (automatics),
+              Ineffective Monitoring,
+              Manual Handling,
+              Plan Continuation Bias,
+              Procedural non compliance,
+              Ineffective Monitoring - PIC as PF
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Flight Management Error,
+              Flight Envelope Protection Activated
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 24 March 2012, an Airbus A319 (F-GRHU) being operated by Air France on a scheduled passenger flight from Paris CDG to Tunis as AF2184 attempted a visual contact Instrument Landing System (ILS) approach in day Visual Meteorological Conditions (VMC) with insufficient track miles. Lack of stabilisation culminated in an Terrain Avoidance and Warning System (TAWS) PULL UP activation and a low altitude orbit on final approach before a visual circuit was carried out to a normal second approach and a successful landing. There were no occupant injuries and no resultant aircraft damage.
+Investigation
+An Investigation was carried out by the French Bureau d'Enquêtes et d'Analyses (BEA) using data from the QAR, ATC R/T recordings and testimonies. The Cockpit Voice Recorder (CVR) was record of the event was overwritten.
+It was noted that the aircraft commander had been promoted to Captain on the A320 four years previously after 11 years as a Co-pilot and had accumulated 1700 hours in type in command. The First Officer had 1700 hours experience on the A320 with Air France.
+A reconstruction of the flight was made using all available evidence. The diagram below shows the achieved vertical profile based on FDR data from 35nm out when the aircraft was still above FL200. The aircraft commander was the PF and after initially descending the aircraft in V/S mode at 1000 fpm, but after a change of runway from 29 to 19, he selected ‘OPEN DES’ Mode and a speed of 300 KIAS with the air brakes deployed. At this point and cleared for an ILS approach to runway 19, FDR data showed that the aircraft was passing FL207 and was 33 nm from the threshold of the landing runway. With 20 nm to go and, the selected speed was reduced to 240 knots which reduced the rate of descent. The AP was disconnected passing FL100 and the aircraft was established on the ILS LOC at a range of approximately 8nm when passing 6000 feet QNH with a speed of 250 knots. Since this put the aircraft at about 3400 feet above the ILS GS, the crew applied the prescribed procedure for capture of the ILS GS from above - but ignored the stipulation that this procedure should not be used if the rate of descent exceeds 2500fpm. At a range of 5nm, the passing altitude was 2640 feet, the speed was 240 knots and the rate of descent was 4400fpm. The flaps were still retracted. The thrust levers were selected to Idle and the aircraft was cleared to land.
+Eight seconds later, the PM advised ATC that they were “a little above the path” and requested a 360° turn to the right. The controller asked for this request to be repeated whilst the PF re-engaged the A/THR and AP “so that the latter could intercept the glide path”. QAR data showed that this action was followed by an EGPWS ‘SINK RATE’ Alert as the AP captured the ILS GS when 2.8nm from the runway and passing 836 feet agl but the aircraft continued descent below it at 2500 fpm and 220 knots. An EGPWS ‘PULL UP’ Warning was then annunciated followed by a ‘TOO LOW TERRAIN’ Alert. ATC then approved a 360° turn to the left, which was acknowledged by the PM and the descent was arrested with a minimum of 398 feet reached. Flaps 1 was selected, the air brakes were retracted and the AP was disconnected but the left turn was not commenced and the controller repeated the clearance. FDR data showed that after 13 seconds had elapsed since the flaps 1 selection, the thrust levers were selected to TO/GA. Thereafter “the crew carried out a left-hand aerodrome circuit at an altitude of 2000 feet then a visual approach for runway 19 with ILS support” and landed “without further problems”.
+The various recorded parameters during the descent and approach are shown on the diagram below:
+
+The achieved vertical profile showing high forward and vertical speeds (reproduced from the Official Report)
+The Investigation established from crew interviews that neither pilot had at any time considered a go around in accordance with the published missed approach procedure and that the primary focus of the PM had been on the 500 feet agl stabilised approach gate. In respect of the lack of the expected response to the EGPWS warning and alerts, the Captain stated that he had only heard the ‘Sink Rate’ alert and the Co-pilot stated that he had not heard any of the calls.
+It was found that the whole of the cruise had been taken up with non-operational conversation which had been followed by the late commencement of the descent which also occurred prior to the approach briefing. Both pilots admitted that, with hindsight, effective CRM had been absent during the descent. It was concluded that the PF had focused on his “objective of stabilisation at 500 feet agl” and had completely failed to share his approach strategy with the PM. And whilst the latter had “quickly noticed the deviations in relation to the glide path (and) informed the PF several times”, he had then given up trying to propose any alternative to him because “his respect of the Captain’s position took priority over his monitoring and support role”.
+In respect of the SOPs requiring a sterile flight deck below 10,000 feet, the Investigation considered that “this incident shows that personal preoccupations (can be) considered as a disruption which may…affect crew alertness and therefore the conduct of flight in complete safety” and that “in the same way, a non-sterile (flight deck) above FL100 may lead to errors in managing the start of descent and disrupt the continuation of the descent as well as the approach”.
+It was found that “the Air France operations documentation describes the normal operating procedures for managing descent and approach, but does not give any criteria for missed ILS approaches before the stabilisation floor”. In this respect, the Investigation noted the comprehensive guidance contained in the Airbus Flight Operations Briefing Note “Descent and Approach Profile Management”
+The formal Conclusion of the Investigation was that the unstabilised approach had been due to:
+
+The crew’s decision to undertake and continue an approach that required a glide path interception from above in conditions that did not offer a high chance of success;
+Sloppy Crew Resource Management in terms of planning and cooperation, after a change of runway that made it impossible for the crew to:
+
+define and apply a strategy that would make it possible to adapt the flight path in an appropriate manner
+share sufficiently early the decision criteria for a missed approach.
+
+
+
+The Final Report was published in English translation on 20 December 2013 having been initially released in French on 14 June 2013. No Safety Action was recorded and no Safety Recommendations were made but the Report drew attention to one of the five Safety Recommendations made after an earlier BEA Investigation into another Air France unstabilised approach: A343, vicinity Paris CDG France, 2012 (LOC HF)
+
+that EASA ensure that the national authorities ensure that all operators define explicit operational limits in their documentation providing pilots with assistance in the decision before intercepting the glide path from above. [FRAN-2013-005]
+
+Further Reading
+
+Stabilised Approach
+Energy Management during Approach
+Flying a Manual Go-around
+SE040: Envelope Protection – New Designs
+Crew Resource Management
+Continuation Bias
+Cross-checking Process
+Airbus Flight Operations Briefing Note:Descent and Approach Profile Management

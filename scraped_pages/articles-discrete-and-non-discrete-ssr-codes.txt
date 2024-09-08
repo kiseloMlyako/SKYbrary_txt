@@ -1,0 +1,155 @@
+Discrete and Non-discrete SSR Codes
+
+
+
+
+
+
+
+
+
+
+
+  Discrete and Non-discrete SSR Codes
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Discrete code. A four-digit SSR code with the last two digits not being "00".
+Source: ICAO Doc 4444 PANS-ATM
+Description
+Discrete SSR codes are usually assigned by air traffic controllers and non-discrete codes are normally used either at pilot's discretion (e.g. in case of an emergency) or when no discrete code has been assigned (e.g. when the aircraft takes off from an aerodrome where no ATS is provided). It should be noted that exceptions exist for both cases. Sometimes controllers assign non-discrete codes. An example of this is the use of conspicuity code 1000 in the European Union for Mode S equipped aircraft who will remain within Mode S airspace until landing (note that the use of this code may have a different meaning in other countries). The opposite is also possible, i.e. pilots sometimes use a discrete code based on e.g. an AIP provision. For example, in the United States, gliders not in contact with an ATC facility should squawk 1202.
+Discrete Codes
+Discrete SSR codes are used in a way that ensures the same code is not assigned to two aircraft in the same airspace at the same time. If this is achieved, they can be used for identification, i.e. the procedure a controller uses to make sure that a target on the situational display matches an aircraft in flight. For this to work properly, a system of code assignment which ensures that each aircraft in a given portion of airspace is assigned a discrete code must be in place.
+The SSR code should, whenever possible, be retained throughout the flight. Unfortunately, in busier airspaces this is not achievable. Therefore, it is often necessary to instruct the pilot to change the SSR code so as to avoid duplication. This procedure comes at the cost of increased workload for both pilots and controllers, busier frequencies and increased probability of human error. To mitigate these effects, various system support tools are introduced, e.g.:
+
+creation of a centralised system for code distribution (e.g. the CCAMS (Centralised Code Assignment & Management System) in Europe). Such systems collect flight data for large volumes of airspace, analyze it and come up with a solution that optimizes the number of required SSR code changes
+features in the ATS automaded systems that inform the controller when an SSR code change is necessary. In this case, the ATS system is usually directly connected to the centralised system for code distribution
+use of CPDLC, which reduces the communication workload and the chance of human error
+
+Non-discrete Codes
+There is a total of 64 non-discrete codes. They are never used for identification by definition. Some of them have been reserved for special situations worldwide or within large volumes of airspace (e.g. over the European Union, the USA, Canada, Australia, etc.). The following three are reserved internationally:
+
+7500 - used to indicate specifically that the aircraft is the subject of unlawful interference
+7600 - used to indicate that the aircraft has experienced air-ground communication failure
+7700 - used to indicate that the aircraft is in a state of emergency
+
+Often the same non-discrete code may have different meanings in different countries. This is defined in the relevant national documents, e.g. AIPs. For example, as mentioned above, conspicuity code 1000 is used in the EU (pronounced "one thousand" in accordane with Regulation 2016/1185) for Mode S equipped aircraft that will remain within Mode S airspace until reaching their destination. These aircraft can be reliably identified by their Mode S callsign. This procedure reduces the number of necessary SSR codes as well as the number of SSR code changes. In Canada, on the other hand, SSR code 1000 is used for IFR flights in low-level airspace (i.e. below 18 000 ft ASL) if no other instruction has been received from ATC.
+National documents often contain procedures for the assignment of non-discrete codes to flights matching specific criteria, e.g.:
+
+when no explicit ATC instruction has been issued
+VFR flights
+IFR flights
+special (e.g. SAR) flights
+military flights
+flights in uncontrolled airspace, etc.
+
+Automated ATS systems often handle tracks with non-discrete codes in special ways, e.g.:
+
+Track labels for codes 7500/7600/7700 are not affected by the application of filters
+Duplicated SSR code warnings are not displayed for non-discrete codes
+A text string (e.g. EMG, VFR, etc.) in the label or a different colour may be used to indicate such codes
+
+Related Articles
+
+Transponder
+Identification
+Misidentification
+Duplicated SSR Code
+Plots, Tracks and Labels
+Correlation
+
+Further Reading
+
+ICAO Doc 4444 PANS-ATM
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

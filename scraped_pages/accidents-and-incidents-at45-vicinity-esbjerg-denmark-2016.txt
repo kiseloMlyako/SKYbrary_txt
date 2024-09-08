@@ -1,0 +1,365 @@
+AT45, vicinity Esbjerg Denmark, 2016
+
+
+
+
+
+
+
+
+
+
+
+  AT45, vicinity Esbjerg Denmark, 2016
+
+
+
+
+
+
+
+
+
+Summary
+
+On 27 March 2016 an ATR 42-500 had just departed Esbjerg when the right engine flamed out. It was decided to complete the planned short flight to Billund but on the night IMC approach there, the remaining engine malfunctioned and lost power. The approach was completed and the aircraft evacuated after landing. The Investigation found the left engine failed due to fuel starvation resulting from a faulty fuel quantity indication probably present since recent heavy maintenance and that the right engine had emitted flames during multiple compressor stalls to which it was vulnerable due to in-service deterioration and hot section damage.
+
+
+
+
+Event Details
+
+When
+
+27/03/2016
+
+
+
+Event Type
+
+
+AW,
+              HF,
+              LOC
+
+
+
+
+Day/Night
+
+Night
+
+
+
+Flight Conditions
+
+IMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+ATR ATR-42-500
+
+
+
+
+
+
+
+
+
+Operator
+
+DAT LT
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Esbjerg
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Billund
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Climb
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+EKEB
+
+
+
+
+General
+
+Tag(s)
+
+
+              Extra flight crew (no training),
+              Inadequate Aircraft Operator Procedures,
+              Inadequate Airworthiness Procedures
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Procedural non compliance,
+              Stress
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Loss of Engine Power,
+              Aerodynamic Stall
+          
+
+
+
+
+EPR
+
+Tag(s)
+
+
+              Emergency Evacuation,
+              Fuel Status
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Fuel,
+              Indicating / Recording Systems
+          
+
+
+
+Contributor(s)
+
+
+              Maintenance Error (invalid guidance available),
+              Component Fault after installation
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Non-aircraft damage
+
+Yes
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+Yes
+
+
+
+Ditching
+
+Yes
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 27 March 2016, the right PW127E engine of an ATR 42-500 (LY-DAT) being operated by Danu Oro Transportas on the second sector of a scheduled passenger flight from Stavanger to Billund via Esbjerg for Danish Air Transport flamed out soon after takeoff. After deciding to complete the intended short flight to Billund, the left engine then malfunctioned and lost power on approach to Billund and the aircraft was evacuated due to suspected risk of fire after a successful landing had been completed. It was subsequently found that there was no fire - the flames seen arising from a series of compressor stalls - and there were no injuries to the 13 occupants.
+Investigation
+After receiving notification of the event from the Copenhagen ACC, the Danish Accident Investigation Board (AIB) carried out an Investigation. Relevant data was recovered from both the SSCVR and the SSFDR. Most of the conversation on the flight deck was found to have been conducted in Lithuanian and assistance with translation was required. It was found that the SSFDR did not - and was not intended to - record a number of parameters which would have been of interest including engine fuel flow, engine NL, propeller blade angle, fuel quantity and the position of the power management switch, the bleed air switch and the condition levers. However, the NVM of the Multi Purpose Computer (MPC) which stored flight data and transferred it to the SSFDR also contained a useful history of automatically generated reports of fuel system faults.
+It was established that the event flight was the third of a three sector scheduled passenger flight sequence which had begun at Billund from where the aircraft had flown to Stavanger and then set out to return to Billund via Esbjerg. The first two sectors were completed normally and were the final line check flights for the left-hand seat pilot, a newly promoted trainee Captain. Having arrived at Esbjerg, the trainee was advised that he had passed the Check and took over as commander for the final flight back to Billund. The Check Captain remained on the flight deck in the supernumerary crew seat.
+It was noted that the operating crew and the Check Captain all held Lithuanian licences. The 39 year-old Captain had a total of 3,228 flying hours including 3,073 hours on type of which 100 hours had been obtained during the Captain upgrade training he had just successfully completed. The 52 year old Captain acting as First Officer, who had been PF for the flight under investigation, had a total of 12,731 flying hours which included 7,485 hours on type of which 5,906 had been in command.
+What Happened
+Prior to departure from Billund, the aircraft had been refuelled and the fuel on board for departure recorded in the Aircraft Technical Log was 2,805 kg and no further fuel uplift occurred.
+Having arrived at Esbjerg from Stavanger, the crew were informed by the Aerodrome Flight Information Service (AFIS) there that the latest weather report for Billund was giving visibility as 800 metres in fog, touchdown RVR 1500 metres and vertical visibility 200 feet with a temperature and dew point both 4°C. The AFIS also provided the Esbjerg weather which included visibility 3000 metres in mist and BKN cloud at 200 feet with the temperature 4°C and the dew point 2°C.
+The flight departed soon afterwards but passing approximately 560 feet agl after takeoff from runway 26, the right engine flamed out. The ‘Automatic Takeoff Power Control System’ (ATPCS) increased power on the left engine to compensate and began an automatic propeller feathering sequence but this was interrupted by the crew changing the power management selection from “TO” to “CLB”. The appropriate checklist memory items were performed and the right hand propeller was feathered manually. No attempt was made to restart the engine, although the fuel quantity indication system still indicated that there was “more than 500 kg of fuel in the right fuel tank” and the applicable emergency procedure stated that if no engine damage was suspected, a restart should be attempted.
+Having reviewed the situation, during which the CVR showed that the Check Captain had said a MAYDAY should be declared but the operating crew had then said this was not necessary, the Captain decided that no emergency would be declared and that the originally-planned 10 minute flight to Billund would be continued rather than making a return to Esbjerg. He then advised the Esbjerg AFIS of the failure and their intentions and made a PA to the passengers about the emergency and his decision to continue to destination. Once in the cruise at 3,000 feet QNH, a restart of the right engine was attempted but it was not successful.
+The flight was transferred to Billund APP who advised that they would provide radar vectors to the runway 27 ILS there. The ATIS weather showed a slight deterioration compared to that received at Esbjerg with OVC cloud at 100 feet and touchdown RVR down to 1200 metres but APP subsequently advised that the previous landing aircraft had reported having had the approach lights in sight at 200 feet agl, effectively the applicable DH for the Cat 1 ILS which it was intended to fly.
+The flight was transferred to TWR once established on the ILS and then, on short final, an audible compressor stall involving significant torque fluctuation - a drop from 55% to 35% then up to 75% within 4 seconds - occurred to the left engine. The First Officer “removed his left hand from the left power lever, grabbed the control wheel with both hands and manually disconnected the autopilot without a callout”. Three seconds later a second audible compressor stall occurred, this time with a drop in torque from 74% to 35% then back to 55% over 5 seconds. The Captain responded by moving the left engine power lever forward to set 100% torque, also without a callout. Following stabilisation, the power lever was reduced to its previous position and shortly afterwards, a report of fire from the left engine was received from the cabin crew. Finally, after a gap of 21 seconds, a third compressor stall occurred during which the torque dropped from 76% to 25 %. In response, the left engine was again advanced, this time to 116% before being retarded to flight idle and during this third compressor stall, the flight crew subsequently reported having seen flames coming from the left engine.
+The Captain made a PA “Brace for impact, emergency landing” and after becoming visual, a normal touchdown on runway 27 occurred less than 30 seconds after the third compressor stall. After vacating the runway onto taxiway ‘C’, the aircraft was stopped, the left engine shut down, the emergency services requested and an emergency evacuation ordered and completed. On arrival at the scene, the AFRS found that “no fire was present”.
+The Right Engine Failure
+It was noted that fuel quantity indications on the flight deck for each tank were derived from the level of fuel detected by means of an electrical capacitance system which relied on five probes per tank. A repeat of the same indication was also available externally on the refuelling panel. The flight deck fuel quantity indicators each had a low level light which would illuminate if the detected fuel quantity in a tank was less than 160 kg and would trigger a Master Caution and an illumination of the fuel light on the CAP. An optional modification was available under SB ATR-42-28-0033 which provided a source independent of the fuel quantity indication system for the low level indication but this was not installed on the aircraft.
+It was confirmed that the in flight engine failure had occurred due to an empty right fuel tank. The indicated fuel quantity for the right fuel tank had been higher than the actual quantity of fuel in the tank because of a malfunction which was eventually traced to a faulty connector on the no. 3 probe in that tank. Since there had been no recorded or detected defects in respect of fuel quantity indication prior to a ‘C’ Check carried out between 14 December 2015 and 9 February 2016 where work had included the removal and subsequent reinstallation of all fuel tank probes, it was considered probable that the connector fault had been introduced during this Check. The associated AMM Job Instruction Card for the AD did require a test following installation of fuel quantity probes but “did not clearly stipulate a requirement for maintenance personnel to then verify that the physical fuel quantity corresponded to the indicated fuel quantity” and the faulty fuel quantity indication was not then detected once the aircraft had returned to service for the two weeks prior to the flight under investigation.
+It was noted that on two occasions following the return from maintenance, a defect entry in the aircraft Technical Log had included reports of the ‘FUEL’ system light on the CAP illuminating multiple times but with no associated specific system indications and that one of these entries had noted that it only happened when the right fuel pump was on. These reports were cleared the first time by replacing the right engine fuel filters and the second, the day prior to the investigated flight, by raising an ADD for an “electrical fuel pump fault”, a category ‘C’ MEL item allowing a maximum of 10 days in service. The aircraft manufacturer’s ‘Troubleshooting Manual’ (TSM) did not include any procedure for illumination of the FUEL light on the CAP without any concurrent fuel system fault indication.
+The Left Engine Malfunction
+It was confirmed that the successive compressor stalls that had occurred shortly before the single engine landing had been performed had not been “provoked” by any crew action. It was also noted that the crew interpreted flames from the engine exhaust duct which typically accompany compressor surges as evidence that the engine was on fire.
+It was established that a compressor stall should “only occur when the left engine was running in bleed air off configuration” because the engine design included an ‘Intercompressor Bleed Valve’ (IBV) for that express purpose. It was noted that this condition was met because the required actions after the failure of the right engine had included selecting left engine bleed air to ‘off’. It was noted that a defect recording a compressor stall had been raised and then rectified during the ‘C’ Check by replacing the IBV and its adjustment mechanism and the rectification verified by engine ground run.
+It was noted that the engines installed were intended to be kept serviceable by an “on-condition” maintenance program with the left engine having operated 4,975 hours since overhaul with no hot section inspection having been performed in that time.
+It was possible to replicate a compressor stall when the power lever was moved quickly forward with bleed air selected off. A range of engine-related parts were then replaced but the problem remained so the engine was removed from the aircraft and a full borescope inspection performed. This showed that there was “significant hot section deterioration” including HPT blade damage which rendered them out of limits and required engine repair. The engine manufacturer analysed the engine performance run sheets and determined “that the rotor speeds and the relationship between Nh and Nl rotor speeds was very low (which) made the engine susceptible to compressor stall”. This was then found to be supported by data from the on-condition maintenance programme.
+Flight Operations Issues
+The Investigation considered that there were “operational deficiencies” in the operation of the aircraft both in general and during the investigated flight which included:
+
+The performance of fuel management recording in the aircraft Technical Log by the operator’s flight crew was found to “show significant variation in fuel calculations” and it was noted that there were “no procedures on how to manage fuel calculations”.
+There were no procedures to ensure that fuel calculations were able to identify a fault in the fuel quantity indication system and nor were there any procedures specifying at what point in a problematic fuel quantity situation a manual fuel check was required. It was noted that had such a requirement been defined it “would most likely have revealed the faulty fuel quantity indication system”.
+The failure to declare a MAYDAY to ATC following the right engine flame out was directly contrary to the fact that this situation required the performance of an emergency checklist as well as being similarly contrary to the same suggestion from the Check Captain.
+An emergency declaration to ATC could have allowed prioritised airspace, a dedicated radio channel and rescue services on standby which would have reduced flight crew workload, which instead had “remained high and stressful during the flight”.
+Because only the memory items of the ‘Engine flame out at take off’ Checklist were performed prior to then running the ‘Single engine operation’ Checklist, the attempt at a restart, which occurs in the non-memory items in the flame out checklist, only occurred after the single engine operation checklist and when it was unsuccessful, the single engine operation checklist had to be run again which “unnecessarily increased flight crew workload”.
+The attempted restart of the right engine ten minutes after the flameout was prompted not as a checklist item but by “a discussion over the cause of the engine failure”.
+Neither pilot recognised that engine compressor stall was the reason for the loud bangs and the flames reported by the cabin crew and witnessed by themselves.
+
+It was accepted that the absence of callouts and non standard power lever control when both pilots made potentially significant interventions in response to the onset of left engine compressor stalls on short final at Billund could reasonably be attributed to the extraordinarily high workload at that time because of both the marginal weather conditions there and the malfunctioning of the available single engine for unknown reasons.
+The Causes of the engine malfunctions experienced were found to be as follows:
+
+The right engine flameout occurred due to fuel starvation arising from an incorrect indication of fuel quantity. This was attributable to a fuel quantity indication system error arising from a fault with one of the probes in the right fuel tank which had probably been introduced when maintenance personnel removed and reinstalled all the probes in that tank during a scheduled ‘C’ Check completed just over a month earlier.
+The left engine was found to be particularly susceptible to compressor stall because of “high deterioration and damage to the hot section”.
+
+Four Contributory Factors to the right engine flameout were identified as:
+
+At the time of performance of the heavy maintenance check, it was not a clear requirement in the aircraft manufacturer’s job instruction card, to perform a verification of the accuracy of the fuel quantity indication system after removal and installation of a capacitance probe.
+At the time of the serious incident, the TSM did not describe a procedure for illumination of the FUEL light on CAP without associated local alert.
+At the time of the serious incident, the operator did not have procedures on how to manage fuel calculations.
+At the time of the serious incident, the operator did not have fuel quantity inaccuracy limitations requiring manual checks of fuel quantity.
+
+Safety Action taken as a result of the findings of the Investigation was noted as:
+
+The Aircraft Manufacturer amended Chapter 28 of the ‘Trouble Shooting Manual’ in respect of the recommended response to an illuminated FUEL light on the flight deck CAP with no warning on the FUEL system panel and no amber ‘LO LVL’ caution light illuminated on the Fuel Quantity Indicator (July 2017) and issued a revised AMM job instruction card for the removal and installation of fuel quantity or fuel temperature / quantity probes (July 2018).
+The Aircraft Operator completely revised their OM Part ‘B’ procedure for recording fuel on board based on guidance material provided by the aircraft manufacturer.
+
+The Final Report was released on 28 February 2019. No Safety Recommendations were made.
+Related Articles
+
+Loss of Control
+Flame Out
+Compressor Stall
+Fuel Starvation
+Aircraft Fuel Systems
+Fuel Quantity Indicating System (FQIS)
+Fuel Management
+Fuel - In-Flight Management (Abnormal Operations)
+Emergency and Abnormal Checklist

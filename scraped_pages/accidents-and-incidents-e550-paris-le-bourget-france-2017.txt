@@ -1,0 +1,326 @@
+E550, Paris Le Bourget France, 2017
+
+
+
+
+
+
+
+
+
+
+
+  E550, Paris Le Bourget France, 2017
+
+
+
+
+
+
+
+
+
+Summary
+
+On 27 November 2017, an Embraer EMB 550 crew ignored a pre-takeoff indication of an inoperative airframe ice protection system despite taxiing out and taking off in icing conditions. The flight proceeded normally until approach to Paris Le Bourget when the Captain was unable to flare for touchdown at the normal speed and a 4g runway impact which caused a main gear leg to pierce the wing followed. The Investigation found that the crew had failed to follow relevant normal and abnormal operating procedures and did not understand how flight envelope protection worked or why it had activated on approach.
+
+
+
+
+Event Details
+
+When
+
+27/11/2017
+
+
+
+Event Type
+
+
+AW,
+              HF,
+              LOC
+
+
+
+
+Day/Night
+
+Night
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+EMBRAER EMB-550 Legacy 500
+
+
+
+
+
+
+
+
+
+Operator
+
+L39 Engineering
+
+
+
+Type of Flight
+
+Private
+
+
+
+Flight Origin
+
+
+
+
+Moscow/Domodedovo International Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Paris/Le Bourget Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Landing
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+LFPB
+
+
+
+
+General
+
+Tag(s)
+
+
+              Inadequate Airworthiness Procedures,
+              Landing Flare Difficulty,
+              Deficient Crew Knowledge-systems,
+              PIC less than 500 hours in Command on Type,
+              Copilot less than 500 hours on Type,
+              Use of Erroneous Performance Data
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Inappropriate crew response - skills deficiency,
+              Procedural non compliance
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Flight Management Error,
+              Hard landing,
+              Flight Envelope Protection Activated,
+              Aircraft Flight Path Control Error
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Flight Controls,
+              Ice and Rain Protection
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Aircraft damage
+
+Major
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 27 November 2017, an Embraer EMB 550 Legacy 500 (RA-02788) being operated by L39 Engineering on a private international positioning flight from Moscow Domodedovo to Paris Le Bourget made a very hard touchdown off an ILS approach to runway 27 at destination in night VMC which resulted in substantial damage to the aircraft landing gear, part of which had penetrated the wing structure but there was no injury to the three crew members on board.
+
+The right main landing gear leg protruding through the wing. [Reproduced from the Official Report]
+Investigation
+An Investigation into the Accident was carried out by the French Civil Aviation Accident Investigation Agency, the BEA. Relevant data was successfully downloaded from both the FDR and CVR and significant information which was not recorded on the FDR was obtained from the data captured by the Onboard Maintenance System (OMS). It was noted that the 44 year-old Captain had a total of “more than” 1,507 hours flying experience of which 151 hours were on type after obtaining a type rating in October 2016. The 42 year-old First Officer had a total of 5,000 hours flying experience of which just 26 hours were on type.
+What Happened
+Prior to departure from Moscow, icing conditions prevailed and following “light freezing drizzle" during the night, a thin film of ice covering the aircraft meant that de-anti icing treatment had to be carried out. Before subsequently starting the engines the crew set the ICE PROT MODE selector to ‘ALL’ instead of to ‘AUTO’ which the Before Start Checklist requires. As a result, an ‘A-I WINGSTAB FAIL’ alert appeared on the EICAS during start. In response, the crew reported “trying to re-initialise the system” but they did not follow the applicable AFM procedure and left the ice protection control panel set to ‘ALL’ instead of resetting it to ‘AUTO’. When the alert remained in icing conditions, they did not action the ‘STALL PROT ANTICPATE’ checklist as directed and instead continued with their intended departure.
+Approximately five minutes after takeoff, a ‘STALL PROT ANTICIPATE’ warning was displayed. According to the available FDR data, this warning then remained on for the rest of the flight. No action was taken in response because “as the rest of the equipment was operating normally, the crew thought that it was a system error”.
+The destination descent and approach were flown with the Captain as PF. An ILS 27 approach to runway was made in night VMC at a speed of between 120 and 130 knots. Passing 2,200 feet QNH and fully established on ILS for runway 27 at Le Bourget, the AoA limiter protection activated itself and the AP automatically disengaged. Following this, the aircraft was allowed to descend sufficiently below the ILS GS to activate the EGPWS Mode 5 ‘glideslope’ aural alert. The Captain increased thrust and regained the correct flight path, the AoA limiter protection temporarily ceased and AP was re-engaged. Passing around 1000 feet QNH, the AoA limiter protection became active again and caused the AP to disconnect. The First Officer reminded the Captain to keep the speed above the minimum allowed with the AoA protection active. AoA protection, a function of Normal Mode in the aircraft FBW system, is part of the automated flight envelope protection system and limits the angle of attack when appropriate.
+The Captain subsequently found that he could not increase the aircraft pitch attitude enough to flare sufficiently for touchdown despite making a full nose-up deflection on the side stick. As a result, a nose-first touchdown occurred with a 1,350 fpm rate of descent and a recorded 4g vertical acceleration. Although they were not aware of this at the time, this caused the right main landing gear to rupture and its upper rear hinge to penetrate the wing and puncture the upper wing surface. After a normal rollout, the runway was vacated and the aircraft was stopped on a taxiway so that the Captain could “check for damage”. The Captain subsequently stated that at that time, “he had not understood why he had not been able to flare”.
+A full examination of the aircraft subsequently disclosed that the upper rear attachment fitting of the right landing gear had sheared following a vertical acceleration during the landing which was recorded as reaching 4g with the aircraft slightly inclined to the right.
+Why It Happened
+The applicable SOP for operation in icing conditions requires ICE PROT MODE selector must be set to ALL only after engine start whereas FDR data confirmed that it had been selected to this position before engine start which was why the ‘A-I WINGSTAB FAIL’ alert was annunciated. The Before Takeoff Checklist also includes an item to check that no CAS messages are displayed in the EICAS. The A-I WINGSTAB FAIL alert that was displayed “assumes that the ICE PROT MODE selector is set to AUTO” and does not enable the flight crew to re-initialise the ice protection system if the warning has appeared during engine start-up with the selector set to ALL and has then remained illuminated. In this case, the ICE PROT MODE selector must be set to AUTO and the system then re-initialised by cycling the WINGSTAB button on the ice protection system control panel to OFF and then ON. The crew’s ad hoc attempt to re-initialise the ice protection system in the case when the warning had appeared when starting engines with the selector set to ALL and the resultant A-I WINGSTAB FAIL message had remained on the EICAS was not valid. It would have been necessary to set the ICE PROT MODE selector to AUTO and then re-cycle the WINGSTAB button.
+In any case where an A-I WINGSTAB FAIL message is displayed and the aircraft is operating in icing conditions - as in the accident flight - the ‘STALL PROT ANTICIPATE’ abnormal procedure, which involves making a full flap landing, adding 30 knots to the calculated VREF and applying a factor of 1.7 to the landing distance, is mandatory. For the approach and landing at Le Bourget, the actual speed was between 120 and 130 knots whereas application of the STALL PROT ANTICIPATE procedure required that an approach speed of 144 knots should be used for an increased landing distance of 1,219 metres which was still well within the runway 27 LDA (Landing Distance Available).
+It was noted that (subject to a corresponding entry being made in the Aircraft Technical Log before beginning the flight) the aircraft type MMEL allows despatch with an A-I WINGSTAB message displayed only if the aircraft is not operated in known or forecast icing conditions, a requirement which was not met for the accident flight.
+The formally documented Conclusion of the Investigation was as follows:
+The crew undertook the flight to Le Bourget airport despite the presence of the A-I WINGSTAB FAIL message and icing conditions at departure from Moscow. The occurrence of the failure is linked to the activation of the ice protection system in the ALL position before engine start-up. The procedure associated with this failure, as written at the time of the accident, did not enable the crew to reinitialize the ice protection system. The BEFORE TAKEOFF procedure and then the consultation of the MEL should have resulted in the crew postponing the flight.
+During the climb, the appearance of the STALL PROT ANTICIPATE message on the EICAS informed the crew of the increase in AoA limiter protection activation speeds. The associated procedure should have led the crew to increase the reference speed by 30 knots during the approach.
+The approach speed selected by the crew was less than the AoA limiter protection activation speed and this protection prevented the Captain from carrying out the flare.
+Three potential Contributory Factors leading to the accident were identified:
+
+Insufficient knowledge on the part of the flight crew as to how aircraft systems functioned, in particular the AoA limiter protection system.
+Incorrect application of both normal and abnormal procedures, in particular the engine start-up normal procedure and the ‘A-I WINGSTAB FAIL’ and ‘STALL PROT ANTICIPATE’ abnormal procedures.
+Incomplete description of the ‘A-I WINGSTAB FAIL’ procedure, in particular the requirement to set the ICE PROT MODE button to AUTO before re-initialising the system.
+
+Safety Action to be taken by Embraer as a result of the event was noted to have included a revision of the Legacy 450 and 500 AFMs to specify that the ICE PROT MODE selector must be set to AUTO in the A-I WINGSTAB FAIL procedure. All other Embraer AFMs have been reviewed to ensure that they do not contain similar omissions which could give rise to a lack of understanding of corresponding procedures.
+The Final Report was published in English translation on 5 August 2020 after the initial and definitive publication in French on 16 June 2020. No Safety Recommendations were made.
+Related Articles
+
+Aircraft Ice Protection Systems
+Emergency or Abnormal Situation
+Emergency and Abnormal Checklist
+Standard Operating Procedures (SOPs)
+Aircraft Flight Manual (AFM)

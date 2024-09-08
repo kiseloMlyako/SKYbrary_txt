@@ -1,0 +1,143 @@
+Risk Assessment of Incidents and ATM Specific Occurrences
+
+
+
+
+
+
+
+
+
+
+
+  Risk Assessment of Incidents and ATM Specific Occurrences
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Management 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Legal Requirements
+Regulation (EU) 2019/317 of 11 February 2019 laying down a performance and charging scheme in the single European sky defines safety key performance indicators and indicators for monitoring the performance of air navigation services in the EU. The following monitoring indicators have been defined:
+
+the rate of runway incursions with a safety impact
+the rate of separation infringements with a safety impact
+
+To support European ANSPs in achieving compliance with the above provisions, EASA has published Acceptable Means of Compliance (AMC) that define what is considered 'safety impact'. At ANSP level, the 2 indicators defined in the Regulation shall include occurrences whose Risk Analysis Tool (RAT) ground severity classification is A, B, or C.  
+According to the AMC with Regulation 2017/373, the results of the risk assessment following the analysis of occurrences are among the items to be reported to EASA. This sets a requirement (albeit indirectly) to perform a risk assessment of occurrences.
+Furthermore, paragraph 5.1.6 of ESARR2 - Reporting and Assessment of Safety Occurrences in ATM requires that “the severity of each occurrence is determined, the risk posed by each such occurrence classified and the results recorded”. Risk assessment shall include, in addition to the determination of the severity, the likelihood of recurrence of such incidents and their most probable consequences.
+Severity Classification Scheme
+The severity classification scheme of occurrences according to the severity of their effect on the safe operations of aircraft and on occupants has been defined in Attachment A to ESARR2.
+The severity of an accident is to be expressed according to:
+
+the level of damage to the aircraft (ICAO Annex 13 identifies 4 levels: destroyed, substantially destroyed, slightly damaged and no damage);
+the type and number of injuries (ICAO Annex 13 identifies three levels of injuries: fatal, serious and minor/none).
+
+The classification scheme for incidents is illustrated in the Table below. It consists of categories of severity for the risk that existed and for the frequency of their occurrence. These are combined as a classification matrix whose columns correspond to the frequency categories and rows correspond to the severity categories.
+The severity classification scheme for incidents considers the actual frequency of each of these occurrences to enable national organisations to determine the level of effort to be placed into the assessment of the occurrence as well as to potentially support the development of trends in safety.
+
+Accident & Incident Severity Definitions
+The classification scheme specifies six severity categories for ATM related occurrences impacting the safe operations of the aircraft: accident, serious incidents, major incidents, significant incidents, no effect and risk not determined. The definitions for each are provided in the table below.
+
+Accident & Incident Frequency Definitions
+The severity classification scheme specifies five qualitative frequency categories. It is recommended that each State initiate the development of quantitative boundaries, which would take into account national traffic volumes and specific operating conditions of the national ATM system (and related sub-systems). The qualitative frequencies are defined in Table below.
+
+Risk Analysis Tool
+The Risk Analysis Tool (RAT) has been developed by EUROCONTROL to support assessment of risk induced by incidents. It has evolved over time to be a sophisticated yet simple mechanism for quantifying the level of risk present in any ATM related incident.
+The RAT allows the analysis of a single event in order to understand the factors involved and then place the event in context with other events. Consequently, it contains components and information that should be appropriate to score severity and risk of recurrence of safety occurrences as required by the EU Regulation 390/2013 - Performance Scheme for Air Navigation Services and Network Functions and ESARR2 – Reporting and Assessment of Safety Occurrences in ATM.
+Related Articles
+
+Risk Analysis Tool (RAT)
+
+Further Reading
+
+Risk Analysis Tool – Guidance material, draft version of January 2013
+
+
+
+
+
+Categories
+
+
+Safety Management,
+              SM Methods and Tools
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

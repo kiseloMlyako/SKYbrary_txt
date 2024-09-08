@@ -1,0 +1,161 @@
+Celestial Navigation
+
+
+
+
+
+
+
+
+
+
+
+  Celestial Navigation
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Astronavigation
+Astro
+Definition
+Celestial Navigation is navigation by observation of the positions of celestial bodies, inclusive of the sun, moon, planets and certain stars.
+Introduction
+Since the beginnings of recorded history, the human race has been finding its way, in some cases over long distances, by observing the relative positions of the sun, the moon and the stars. Early practitioners navigated the sands of the African deserts and oceans between the islands of the South Pacific with nothing more than the stars to guide them. Over time, navigational tools and methodology evolved allowing sailors to reliably find their way across the world's oceans (and return home) and, eventually, the relative position and orientation of various constellations gave way to mathematical (sight reduction) calculation of position based on the use of specific stars or planets. The advent of air travel brought new challenges to long range navigation. Early long range aircraft were often fitted with an astrodome, a "bubble" which protruded from the fuselage, in which a navigator could use a hand-held octant to "shoot" the stars. With the advent of the periscopic sextant, the astrodome became redundant, and further refinements to the instrument, such as a bubble to replace (and eliminate the need for) a visible horizon gave the sextant more versatility. In time, the accuracy to which a skilled navigator could determine their position over the earth's surface, using only the heavenly bodies, improved tremendously.
+With the advent of Inertial Navigation Systems (INS) and long range navigation aids such as LORAN-C and Omega, the use of celestial navigation declined and, with the introduction of the Global Positioning System (GPS), its use in aviation virtually ceased. However, there has been a training resurgence in celestial navigation techniques by a number of world's military organisations as, unlike GPS, celestial navigation is not vulnerable to satellite destruction, cyber attack, electromagnetic pulse or system failure. This article is intended to serve as an introduction to the concepts, terms and methodology associated with celestial navigation.
+Terminology
+As is the case with many disciplines, there is a specific set of terms and definitions that are associated with Celestial Navigation. Some of those terms are as follows:
+
+Air Almanac - A book which provides astronomical data for air navigation. It contains day by day, hour by hour, data for a specific year, together with auxiliary tables and graphs, and a brief explanation of the use of the volume. Data is presented for the Sun, Moon, Aries, planets, and stars.
+Altitude - The altitude of a celestial body is its angular distance above the horizon. By comparing the measured Altitude to the Calculated Altitude for your Estimated Position, a Position Line may be drawn on the map or chart.
+Assumed Position - The Assumed Position is the geographical position in (assumed) Latitude and (assumed) Longitude chosen to facilitate sight reduction
+Azimuth - The Azimuth of a celestial body is the bearing of the body from your position, as measured clockwise from true North.
+Calculated Altitude - The Altitude of a celestial body as calculated from the Estimated Position using Sight Reduction Tables.
+Celestial Equator - The primary great circle of the Celestial Sphere formed by the intersection of the Celestial Sphere and the extended plane of the earth's equator.
+Declination - The angular distance north or south of the celestial equator; the arc of an hour circle between the celestial equator and a point on the Celestial Sphere, measured northward or southward from the celestial equator through 90°, and labelled N or S to indicate the direction of measurement.
+Ecliptic Plane - The circular path on the celestial sphere that the Sun appears to follow over the course of a year.
+Estimated Position - The Estimated Position is the geographical position in (estimated) Latitude and (estimated) Longitude obtained from Dead Reckoning or other piloting techniques indicating the most probable position of the observer.
+First Point of Aries - The location of the Vernal Equinox, that is the point where the sun crosses the equator from South to North. It is one of two places on the celestial sphere where the Celestial Equator and the Ecliptic Plane meet.
+Fixed Position - The actual position of the observer as determined from the point where two or more Lines of Position cross.
+Geographical Position - The Geographical Position of a celestial body it the point on the earth's surface at which the body is directly overhead. This position will normally be expressed in terms of the Greenwich Hour Angle and the Declination of the celestial body.
+Great Circle - The intersection of a sphere and a plane through its center.
+Greenwich Hour Angle (GHA) - The angular distance west of the Greenwich celestial meridian measured westward from the Greenwich celestial meridian through 360°.
+Line of Position (LOP) - A line indicating a series of possible positions of an observer, determined by observation or measurement.
+Local Hour Angle (LHA) - The angular distance west of the local celestial meridian measured westward from the local celestial meridian through 360°.
+Refraction - The bending of light waves as they pass through the atmosphere resulting in the celestial body appearing higher in the sky than it would be if there was no atmosphere. A calculated Altitude assumes that the earth has no atmosphere, so the sextant Altitude has to be corrected for Refraction so that it can be compared to the calculated Altitude. Refraction tables are included in the Air Almanac.
+Sight Reduction Tables - Sight Reduction Tables are sets of tables from which the calculated Altitude and Azimuth of a celestial body may be obtained for a given Estimated Position.
+
+Concept
+It is possible to find your position anywhere on Earth based on the relative positions of two or more celestial bodies, be they the sun, moon, planets or specific stars.
+Celestial mechanics is a precise science which means that, for any heavenly body and for any specific time, the body's exact position in the sky can be precisely pre-calculated. With knowledge of that exact position and by using a sextant to measure the angle between the horizon of the observer and the star, a Line of Position (LOP) can be determined. The intersection of two or more LOPs is enough to determine the observer’s position in latitude and longitude.
+The underlying concept can easily be explained using the analogy of finding your position based on having the values of height and actual position of two or more towers that are visible from your point of observation. If a sextant is focused on the top of one of the towers, an angle can be determined. Using that angle and the known height of the tower, the distance between your position and the tower can be determined mathematically. Plotting that distance on a chart, centred on the position of the tower, would result in a circular line of position (LOP) around the tower. Conducting the same exercise for a second tower would result in a second circle, which will usually intersect the first in two places. It might be possible to eliminate one of those intersects by use of dead reckoning to determine your approximate position but if this is not possible, a sighting of a third tower will eliminate the ambiguity.
+A star in the sky can be used in a similar fashion as one of the towers in the above analogy. Imagine that the earth is at the centre of the celestial sphere upon which all of the heavenly bodies move. As per the terms listed above, the north/south reference, or Celestial Equator, of the celestial sphere is on the same plane as the earth's equator and the east/west reference is on the same plane as the Greenwich meridian. The Geographical Position of the star on the earth's surface can be calculated for any date and time. A terrestrial observer at a point other than the star's Geographical Position can measure the distance on the celestial sphere between the zenith of his own position (point directly overhead) and the star. This distance is the celestial equivalent of the height of one of the towers. If that distance was used as the radius of a circle drawn around the star and that circle then projected back onto the earth, it would provide a circle of position as it did in the tower example above.
+Periscopic Sextant
+The periscopic sextant was developed and optimised for aircraft use. It was designed to be deployed through an articulating mount in the upper fuselage of the aircraft and could be removed when not in use. Features of the periscopic sextant that optimised it for aircraft use included:
+
+An artificial true horizon - From an aircraft, the true horizon cannot be seen. The bubble in the periscopic sextant is, for all intents, a spirit level. If the observer centres the bubble in the eyepiece and then uses the sextant controls to centre the star, or other body, in the bubble, an accurate altitude can be measured.
+Continuous shot capability - Due to the normal pitch and roll of an aircraft in flight, which can be exacerbated by atmospheric conditions, a single shot of a body will not necessarily yield an accurate reading. To overcome this, the sextant is fitted with a mechanism to allow a shot to be taken continuously every second for up to two minutes and to then automatically average the results. In practice, the navigator would normally start the shot one minute prior to the calculated time and finish one minute after that time to obtain the most accurate results possible.
+Adjustable compass ring - As the azimuth of a given body is a known quantity (extracted from the tables), it can be used to conduct a true heading check. With the body centred in the bubble, the variable ring of the compass mount can be adjusted to the azimuth of the body and the true heading of the aircraft read against an index mark on the sextant mount.
+
+Methodology
+The actual mechanism for determining an accurate position, using only the stars for reference points, is much more complex than the above descriptions might imply. The mathematical calculations that are required to calculate azimuth and declination for a specific star for a specific date and a specific time are particularly complex. However, the actual practice of celestial navigation has been greatly simplified as most of the complex calculations have been done on behalf of the navigator and are presented in tabular form in the Air Almanac and the Sight Reduction Tables. As each of the values within the tables are only valid for a specific time, it is critical that the navigator ensures that their timepiece has been accurately synchronised to Coordinated Universal Time (UTC).
+A single heavenly body can be used to check true heading or to calculate a single Line of Position (LOP). To determine the position of the aircraft, two or more LOPs are required, be they from multiple celestial sighting or combinations of celestial and electronic LOPs. The process for carrying out a three star navigation fix involves completing pre-fix calculations and extraction of information from the Almanac, using the sextant to measure the altitude and azimuth of each of the chosen stars and finally, plotting the resulting lines of position. Each navigator might have their own methodology but the process is roughly as follows:
+Pre-Fix
+For the time that a celestial fix is planned, an Assumed Positon is calculated. Longitude, as close as possible to the Assumed Position, is applied to the Greenwich Hour Angle (GHA) of the first point of Aries to produce a whole degree of Local Hour Angle (LHA). The Star Tables are entered with the whole degree of Latitude (from the Assumed Position) and the calculated whole degree of LHA to extract the calculated altitude and azimuth values for the chosen star at the assumed position. In most cases, values are extracted for three different stars with azimuths as close as possible to 120 degrees apart ("3 star fix").
+Sighting
+Typically, the sighting of three stars would take 10 minutes. The astro shots on the different stars were normally spaced at four minute intervals, with each shot commencing one minute before its nominal time and ending one minute after. This left two minutes between shots in which experienced navigators would often start the plotting process. The most easily identifiable star would be shot first as that sighting would also yield a true heading check which, in turn, would provide an absolute reference for the azimuth upon which to sight each of the two remaining stars, making them much easier to find in the night sky.
+Plotting
+For each star, the sextant, or observed, altitude is then compared to the calculated (tabular) altitude. Each star will yield a single position line located perpendicular to the star's azimuth and at a distance from the assumed position that is proportional to the difference between the observed and calculated altitude. If the observed altitude is greater than the calculated altitude, the LOP is on the azimuth towards the star whereas an observed altitude less than the calculated will yield an LOP on the azimuth away from the star. As the second and third shots were not taken simultaneously with the first, they would first have to be corrected for 4 and 8 minutes, respectively, of aircraft movement before they were plotted.
+In an ideal situation, the resulting three lines of position would all intersect at the same point. More typically, however, is that the three LOPs would form a triangle ("cocked hat") at the centre of which was the aircraft position at the time of the first shot.
+Related Articles
+
+Dead Reckoning (DR)
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

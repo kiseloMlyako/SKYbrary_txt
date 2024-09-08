@@ -1,0 +1,163 @@
+Aircraft Electrical Systems
+
+
+
+
+
+
+
+
+
+
+
+  Aircraft Electrical Systems
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Airworthiness 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+An aircraft electrical system is a self-contained network of components that generate, transmit, distribute, utilize, and store electrical energy.
+General Description
+An electrical system is an integral and essential component of all but the most simple of aircraft designs. The electrical system capacity and complexity varies tremendously between a light, piston-powered, single-engine general aviation aircraft and a modern, multi-engine commercial jet aircraft. However, the electrical system for aircraft at both ends of the complexity spectrum share many of the same basic components.
+All aircraft electrical systems have components with the ability to generate electricity. Depending upon the aircraft, generators or alternators are used to produce electricity. These are usually engine-driven but may also be powered by an APU, a hydraulic motor, or a Ram Air Turbine (RAT). Generator output is normally 115-120V/400HZ AC, 28V DC or 14V DC. Power from the generator may be used without modification or it may be routed through transformers, rectifiers or inverters to change the voltage or type of current.
+The generator output will normally be directed to one or more distribution busses. Individual components are powered from the bus with circuit protection in the form of a circuit breaker or fuse incorporated into the wiring.
+The generator output is also used to charge the aircraft battery(s). Batteries are usually either of the lead-acid or NICAD types, but lithium batteries are becoming more and more common. They are used for both aircraft startup and as an emergency source of power in the event of a generation or distribution system failure.
+Basic Aircraft Electrical Systems
+Some very simple single-engine aircraft do not have an electrical system installed. The piston engine is equiped with a magneto ignition system, which is self-powering, and the fuel tank is situated so it will gravity feed the engine. The aircraft is started by means of a flywheel and crank arrangement or by "hand-propping" the engine.
+If an electric starter, lights, electric flight instruments, navigation aids or radios are desired, an electrical system becomes a necessity. In most cases, the system will be DC-powered using a single distribution bus, a single battery, and a single engine-driven generator or alternator. Provisions, in the form of an on/off switch, will be incorporated to allow the battery to be isolated from the bus and for the generator/alternator to be isolated from the bus. An ammeter, loadmeter or warning light will also be incorporated to provide an indication of charging system failure. Electrical components will be wired to the bus-bar, incorporating either circuit breakers or fuses for circuit protection. Provisions may be provided to allow an external power source such as an extra battery or a Ground Power Unit (GPU) to be connected to assist with the engine start or to provide power whilst the engine is not running.
+Advanced Aircraft Electrical Systems
+More sophisticated electrical systems are usually multiple voltage systems using a combination of AC and DC buses to power various aircraft components. Primary power generation is normally AC with one or more Transformer Rectifier Unit (TRU) providing conversion to DC voltage to power the DC busses. Secondary AC generation from an APU is usually provided for use on the ground when engines are not running and for airborne use in the event of component failure. Tertiary generation in the form of a hydraulic motor or a RAT may also be incorporated into the system to provide redundancy in the event of multiple failures. Essential AC and DC components are wired to specific busses and special provisions are made to provide power to these busses under almost all failure situations. In the event that all AC power generation is lost, a static Inverter is included in the system so the Essential AC bus can be powered from the aircraft batteries.
+Robust system monitoring and failure warning provisions are incorporated into the electrical system and these are presented to the pilots when appropriate. Warnings may include, but are not limited to, generator malfuntion/failure, TRU failure, battery failure, bus fault/failure and circuit breaker monitoring. The manufacturer will also provide detailed electrical system isolation procedures to be utilized in the event of an electrical fire.
+In compliance with applicable regulations, components such as Standby Flight Instruments and Aircraft Emergency Floor Path Illumination have their own backup power supplies and will function even in the event of a complete electrical system failure.
+Provisions are virtually always provided for connecting the aircraft electrical system to a fixed or mobile Ground Power Unit (GPU).
+Threats
+
+Generator Failure
+Bus Failure
+Component Failure
+Electrial System Fire
+
+Effects
+
+Loss of some or all of primary power generation capability
+Loss of all components and systems powered by the failed bus
+Loss of an individual component
+Potential loss of aircraft should the fire become uncontrolable, loss of busses; systems or components due to the fire or as a result of electrical isolation procedures; smoke and/or fumes
+
+Defences
+
+Multiple primary generators and, where applicable, secondary (APU) or tertiary (RAT) generator installation. Multiple layers of redundancy greatly reduce the potential for loss of all electrical generation capability.
+Components connected to the bus have individual circuit protection which, in the event of a component failure protect the bus from overload and thus protect the remaining components. A bus failure is more typically the result of a failure of the power source supplying the bus and not the failure of the bus itself. As an example, the failure of a TRU could result in the loss of the DC bus that it powers. Depending upon the system design, provisions for an alternate power source may allow the bus to be restored.
+Circuit breakers (CB) exist to protect the system from overload in the event of a component failure and to prevent a potential fire from developing in the component itself by interrupting the electrical supply. In the event a circuit breaker "pops" in flight, the crew should comply with manufacturer and company policy when deciding whether or not the CB should be reset. Should a reset CB pop a second time, further reset should NOT be attempted. Note that some CB's such as those associated with fuel pumps should never be reset in flight.
+In the event of smoke, fumes or fire from a suspected electrical source, QRH procedures should be applied immediately while concurrently initiating an immediate diversion. If the faulty component cannot be readily identified, the electrical isolation procedure should be followed. Smoke and fume elimination procedures may become a necessity. Land ASAP.
+
+Accidents & Incidents
+
+MD11, en-route, Atlantic Ocean near Halifax Canada, 1998: On 2 September 1998, an MD-11 aircraft belonging to Swissair, crashed into the sea off Nova Scotia following an in-flight electrical fire.
+A321, en-route, Northern Sudan, 2010: On 24 August 2010, an Airbus A321-200 being operated by British Midland on a scheduled public transport service from Khartoum to Beirut experienced, during cruise at FL360 in night IMC, an electrical malfunction which was accompanied by intermittent loss of the display on both pilots’ EFIS and an uncommanded change to a left wing low attitude. De-selection of the No 1 generator and subsequent return of the rudder trim, which had not previously been intentionally moved, to neutral removed all abnormalities and the planned flight was completed without further event with no damage to the aircraft or injuries to the 49 occupants.
+A319, London Heathrow UK, 2009: On 15 March 2009, an Airbus A319-100 being operated by British Airways on a scheduled passenger flight from London Heathrow to Edinburgh experienced an electrical malfunction during the night pushback in normal ground visibility which blanked the EFIS displays following the second engine start and produced some electrical fumes but no smoke. The engines were shut down, a PAN was declared to ATC and the aircraft was towed back onto the gate where passengers disembarked normally via the airbridge.
+B752, Chicago O’Hare IL USA, 2008: On 22 September 2008, a Boeing 757-200 being operated by American Airlines on a scheduled passenger flight from Seattle/Tacoma WA to New York JFK lost significant electrical systems functionality en route. A diversion with an emergency declared was made to Chicago O’Hare where after making a visual daylight approach, the aircraft was intentionally steered off the landing runway when the aircraft commander perceived that an overrun would occur. None of the 192 occupants were injured and there was only minor damage to the aircraft landing gear.
+
+Related Articles
+
+Electrical Problems: Guidance for Controllers
+Accident and Serious Incident Reports: FIRE
+Fire in the Air
+
+Further Reading
+
+Boeing article: Flight Crew Response to In-Flight Smoke, Fire, or Fumes
+FAA Advisory Circular 120-80A “In Flight Fires”
+UK CAA Paper 2002/01 A Benefit Analysis for Enhanced Protection from Fires in Hidden Areas on Transport Aircraft
+see also FAA "Lessons Learned from Transport Airplane Accidents" dashboard (threat: Uncontrolled Fire/Smoke)
+
+
+
+
+
+Categories
+
+
+Airworthiness,
+              Flight Technical
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

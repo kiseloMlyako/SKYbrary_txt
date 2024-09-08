@@ -1,0 +1,154 @@
+Air-Ground Communication
+
+
+
+
+
+
+
+
+
+
+
+  Air-Ground Communication
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Air Ground Communication 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Two-way communication between aircraft and stations or locations on the surface of the earth.
+Source: ICAO Annex 10 - Aeronautical Communications
+Voice Communications
+Voice/audio communications between an aircraft and the ground are traditionally accomplished using radio telephony, broadcasting and receiving on:
+
+VHF (very high frequency). The frequency band 117.975 - 137.0 MHz is allocated for this purpose and is the most commonly used in civil aviation.
+HF (high frequency). These frequencies (3 - 30 MHz) allow the radiowaves to bend and follow the surface of the earth or to be reflected by the ionosphere thus reaching great distances. The HF band is therefore used in oceanic communications.  
+UHF (ultra high frequency). These frequencies (generally defined as 300 MHz - 3 GHz) are used for military aircraft communications.
+
+Alternatively voice communications can be conducted using SATCOM, including VOIP through the Internet.
+For further information, see the separate article "Air-Ground Voice Communications"
+Data Communications
+Data can be passed between an aircraft and a ground station using:
+
+Aircraft Communications, Addressing and Reporting System
+CPDLC
+Automatic Dependent Surveillance Broadcast (ADS-B)
+Automatic Dependent Surveillance - Contract (ADS-C)
+Mode S
+Transponder
+
+Visual Communications
+Communications can be accomplished visually using, for example, and Aldis[1] Lamp to flash messages between aircraft and ground stations in Morse Code or through standard conventions associated with emergency situations.
+Light signals and pyrotechnics can be used to issue simple instructions to aircraft in flight or on the manoeuvring area. This is sometimes used by aerodrome control towers as a backup in case of radiocommunication failure. For example, a steady green light means "Cleared to land" for traffic in the air and "Cleared for take-off" for traffic on the ground. A red pyrotechnic would mean "Notwithstanding any previous instructions, do not land for the time being".
+Further Reading
+
+ALLCLEAR? Toolkit
+Bureau d’Enquêtes et d’Analyses (BEA) Incidents in Air Transport No 10 - Aerodrome Traffic
+
+References
+
+^ A signal lamp (also called an Aldis lamp, named for its inventor Arthur C. W. Aldis) is a visual signaling device for optical communication (typically using Morse code) - essentially a focused lamp which can produce a pulse of light.
+
+
+
+
+
+Categories
+
+
+Air Ground Communication
+
+
+
+
+
+
+
+
+
+Related Articles
+
+Selective Calling System (SELCAL)
+Military Interception Signalling
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

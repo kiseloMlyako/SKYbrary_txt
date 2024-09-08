@@ -1,0 +1,201 @@
+The Handover-Takeover Process (Operational ATC Positions)
+
+
+
+
+
+
+
+
+
+
+
+  The Handover-Takeover Process (Operational ATC Positions)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Separation 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+This article describes the proces of handover-takeover (HOTO) of operational ATC positions. It explains the basic principles of the process, the controller rotation types, the safety issues and the measures that can prevent or mitigate the associated risks.
+Handover-Takeover Principles
+The procedures for handover-takeover are usually different depending on the workplace (TWR, APP or ACC) and vary significantly from one ANSP to another. There are however some common principles that are adopted in most cases:
+
+Handover commences in "clean" situations, i.e. there is no emergency or abnormal situation developing and the conflicts are either solved or a plan for their resolution has been made.
+The relieving controller is supposed to arrive earlier and the relieved controller is supposed to remain near the working position until they are certain that the new controller's situational awareness is at the desired level.
+Check-lists are used so that vital information is not neglected or omitted.
+The handover-takeover process is not supposed to coincide with a change of the ATC sector configuration.
+
+Controller Rotation
+Controller rotation is an essential part of the handover-takeover process.
+The main types of rotation are "swap position", "one relieving controller" and "two relieving controllers".
+Swap position
+There are no relieving controllers. The two controllers swap their roles (executive becomes planner and vice-versa). There are two ways to do this:
+
+Swap physical position. The controllers swap both positions and roles. In this case no reconfiguration of the system is necessary but the controllers need to adjust the new position to their personal preferences.
+Swap logical position (role). The controllers remain in their positions but switch roles. This has the benefit of retaining their personal settings but poses a number of configuration challenges and is not suitable for some positions (e.g. TWR and APP) which have different equipment for different roles.
+
+One relieving controller
+A relieving controller comes to the sector and replaces one of the controllers in position. The relieved controller leaves for a break. This change offers the advantage of having one "old" controller with complete situational awareness which helps in case some information is skipped during the handover/takeover. An issue here is that the controllers may need to adapt their personal settings each time.
+There are three main ways to do the process:
+
+New-to-Hot-to-Cold. The relieving controller replaces the executive (hot) who, in turn, replaces the planner (cold). This method has the advantage to put the "fresh" controller on the "hot seat". The downside is that the relieved controller may need to stay for some time at the working position in heavy traffic situations.
+New-to-Cold-to-Hot. The relieving controller replaces the planner (cold) who, in turn, replaces the executive (hot). The advantage in this situation is that the handover-takeover from planner to executive is considerably shorter (since the planner-to-be-executive is supposed to have full situational awareness) allowing the relieved controller to go on a break even in complex traffic situations. The disadvantage is that there is a higher risk that the new executive is actually not fully aware of the situation.
+Swap of position. The relieving controller replaces the executive controller and then both controller swap their roles without moving to another physical position. This has the advantage of less personal setting adjustment but at the cost of more complex configuration switching.
+
+Two relieving controllers
+Two relieving controllers come to the sector, replacing both controllers in position. The relieved controllers leave for a break. This is done mostly when a new shift starts working. This situation "forces" a more thorough handover-takeover process because both the relieved controllers leave after the process is complete. However, it is possible that both new controllers have no full situational awareness with the relieved controllers no longer available. Therefore this type of replacement should be avoided whenever possible.
+Other Rotation Types
+In some cases it is possible that "non-standard" replacements take place, e.g. a controller is relieved from their position and goes to different sector to relieve another controller. While these can have a positive impact on the efficient use of the available personnel, they may cause safety concerns (in the example case the controller moving from one sector to the other will probably have difficulties adjusting their mindset to the new sector).
+Safety Issues
+A number of safety issues arise during the handover-takeover process. Some of them are equipment-related while others are caused by human factors. The most notable of these are:
+
+insufficient information exchanged between controllers during a position swap (e.g. a controller is moving from an executive to a planner position, or the executive and planner controllers swap positions);
+lack of a sufficient overlap time between arrival of the relieving controller and the departure of the relieved controller;
+relieved controller in a hurry to leave or, relieving controller in a hurry to control;
+handover is a social event, a moment when ATCOs exchange greetings and may be an opportunity to chat, so disturbing the formal transfer of traffic information;
+lack of pre-briefing of the ATCOs;
+lack of common team briefing and organization at the start of the shift;
+adjustment of personal settings (usually done by the contoller) or system settings (usually done by the supervisor);
+too many simultaneous handovers-takeovers (affecting several sectors);
+the handover process affecting both controller positions;
+the need to adjust the controller mindset to a new situation (e.g. a new sector or a new role).
+
+Prevention and Mitigation
+There are three main areas where improvements may prevent or mitigate the handover-takeover related risks - people, equipment and procedures.
+People
+
+Handover time: Allow sufficient time for handover.
+Training: Handover should be practised during all phases of training including refresher training.
+Availability and preparedness: Operational staff should make themselves available and prepare for the takeover (e.g. familiarisation with new procedures, environment, weather, expected demand, work plans, etc.) prior to approaching the operational position.
+Workload and information transfer: Where available, the supervisor should be responsible for determining the timing. All handover/takeovers should be conducted at a time when doing so will not compromise the information transfer (i.e. during demand troughs). Supervisor may monitor transfers in complex situations.
+Staff assessment: Operational staff assessment should include handover process on a regular basis.
+
+Equipment (tools)
+
+Checklist(s): Checklist(s) should be available at all operational positions.
+Handover form / briefing note: Standardised handover form should be available to describe critical information e.g. weather, facilities, staffing, and equipment status.
+Reminders: Consider introducing support tools to provide reminders to the controllers (e.g. bleep).
+Personal settings: The possibility to store and easily recall personal settings helps the controller adapt to their new position and role more quickly.
+
+Procedures
+
+Describe the process: Development and formal description of standard and reasonably detailed handover-takeover procedure
+Follow checklist: As a routine task, operational staff should follow the checklist. A ‘uniform’ way of working for all members having the same endorsement which should reduce the problems where teams have distinctly different ways of working.
+Handover form: The handover form should be completed.
+Signing off/in procedure: Signing off and signing in procedure should be in use to acknowledge that everything is done.
+Adjacent operational positions: Avoid simultaneous handover of adjacent operational positions.
+Number of handovers: Where possible minimise the number of handovers (need to compromise between need for regular breaks and need to minimise hazardous activity like a handover/takeover).
+Sector opening: Minimise the number of handovers before/after sector opening (e.g. when sectors are collapsed or de-collapsed). All handovers/takeovers should be conducted at a time when doing so will not compromise the information transfer.
+Roster design: Time for position handover should be built into the roster.
+Controller rotation: The rotation pattern should be carefully considered so that the optimal one is chosen. Generally, simultaneous replacement of both positions or controllers leaving one sector and starting to work on another one without a break may lead to reduced situational awareness.
+
+Accidents and Incidents
+
+C525 / P180, south west of Sion Switzerland, 2012 - On 22 March 2013, a Cessna 525 inbound to Sion on a VFR clearance was flown into conflict with an IFR Piaggio P180 departing the same airport in compliance with its clearance and the prescribed separation between the two aircraft was lost in the vicinity of FL140. The Investigation concluded that an inappropriate ATC tactic had been employed in an attempt to achieve separation and recommended the development of a new procedure to better facilitate separation between IFR and VFR traffic in the airspace where the conflict occurred.
+A320 / B738, vicinity Dubai UAE, 2012 - On 22 April 2012, an Airbus A320 and a Boeing 737 came into close proximity near Dubai whilst on the same ATC frequency and correctly following their ATC clearances shortly after they had departed at night from Sharjah and Dubai respectively. The Investigation found that correct response by both aircraft to coordinated TCAS RAs eliminated any risk of collision. The fact that the controller involved had only just taken over the radar position involved and was only working the two aircraft in conflict was noted, as was the absence of STCA at the unit due to set up difficulties.
+A320/B738, vicinity Delhi India, 2013 - On 2 September 2013, a B737 crew were not instructed to go around from their approach by ATC as it became increasingly obvious that an A320 departing the same runway would not be airborne in time for a landing clearance to be issued. They initiated a go around over the threshold and then twice came into conflict with the A320 as both climbed on similar tracks without ATC de-confliction, initially below the height where TCAS RAs are functional. Investigation attributed the conflict to ATC but the failure to effectively deal with the consequences jointly to ATC and both aircraft crews.
+RJ85 / Vehicle, Gothenburg Sweden, 2011 - On 8 September 2011, a Brussels Airlines Avro RJ85 on the take off roll at Gothenburg came close to collision with a vehicle which the subsequent investigation found had been issued with clearance to enter the same runway as a result of controller error in the context of non-essential conversation. The vehicle saw the approaching aircraft just before entering the runway and stopped just clear of the runway approximately 40 metres ahead of the point at which it became airborne.
+
+Related Articles
+
+ATM Sector Management
+Handover/Takeover of Operational ATC Working Positions/Responses
+
+Further Reading
+
+Safety Survey Report - Handover-Takeover in ATS, by Belgocontrol, June 2016
+HindSight 9 - Case Study - BSA or Triumph?
+Study Report on Selected Safety Issues for Staffing ATC Operations, by EUROCONTROL, December 2006
+Aviation Occurrence Investigation 200701982 "Breakdown of separation", December 2007
+Handover Takeover - EUROCONTROL E-learing course (requires login)
+
+
+
+
+
+Categories
+
+
+Loss of Separation,
+              Organisation and Human Performance
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

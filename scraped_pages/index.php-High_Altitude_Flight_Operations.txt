@@ -1,0 +1,171 @@
+High Altitude Flight Operations
+
+
+
+
+
+
+
+
+
+
+
+  High Altitude Flight Operations
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Control 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ The Air Pilots
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+A large number of modern jet aircraft, of all sizes and including Very Light Jets (VLJs)s, routinely cruise at high altitudes.
+The record of Accidents and Serious Incidents which have accompanied this increase in high altitude flight has suggested that pilot understanding of the aerodynamic principles which apply to safe high-altitude flight may not always have been sufficient. This applies particularly to attempts to recover from an unexpected loss of control. The subject is introduced in this article and covered in comprehensive detail in the references provided.
+From a practical point of view, ‘high altitude’ operations are taken to be those above FL250, which is the altitude at above which aircraft certification requires that a passenger cabin overhead panel oxygen mask drop-down system has to be installed. Above this altitude a number of features begin to take on progressively more significance as altitude continues to increase:
+
+There is a continued reduction in the range of airspeed over which an aircraft remains controllable;
+True airspeed (TAS) (and therefore aircraft momentum) increases with altitude. However, the effectiveness of the aerodynamic controls and natural aerodynamic damping are both dependant upon indicated airspeed (IAS) and remain largely unchanged. Therefore, the ability of the aerodynamic flight controls to influence flight path or to recover from an upset is progressively reduced as altitude increases;
+In the event of depressurisation, the time of useful consciousness for occupants deprived of oxygen reduces dramatically - see the separate articles on Loss of Cabin Pressurisation, and Hypoxia.
+At very high altitude, occupants are exposed to slightly increased cosmic radiation. This is covered by the separate article "Cosmic Radiation".
+
+This article focuses on aerodynamics and aircraft handling.
+Total Drag and Going Too Slowly
+
+Total Drag Curve
+The key to an understanding of the practical implications of high altitude flight is an understanding of the Total Drag curve and the relationship between its two primary components, Induced Drag and Parasitic Drag. Induced drag is directly related to lift production and is greatest at low speeds and high angle of attack. Conversely, parasitic drag increases in proportion to the square of the aircraft speed. Total drag, at any given speed, is the sum of its two components and, as can be demonstrated graphically, its minimum value occurs where the induced drag and parasitic drag curves intersect. The speed corresponding to the point of minimum total drag is known as the minimum drag speed or Vimd (sometimes Vmd) and will vary as a function of aircraft weight. Obviously, level flight at speeds greater than or less than Vimd is possible.
+To fly slower than Vimd, a greater angle of attack is necessary and an increase in thrust is required to compensate for the increase in induced drag caused by the increased angle of attack. Angle of attack can be increased to the point that there is insufficient thrust available to maintain level flight or until reaching the wing's stall angle of attack, whichever occurs first. Conversely, increasing speed above Vimd requires a reduction in the angle of attack to maintain level flight. Additional thrust will be required to offset the increase in parasitic drag produced due to the additional speed that is required to enable the airfoil to generate the equivalent amount of lift at a lower angle of attack. At speeds above Vimd, the aeroplane is in stable flight whereas at speeds below Vimd, an aeroplane is in unstable flight.
+The question of stability is illustrated by the effect of any encounter with air turbulence. If this occurs when an aircraft is in the stable flight regime and the power/ thrust setting is not altered, it will result in increased drag and reduced aircraft airspeed; this reduces drag so that airspeed eventually returns to the previous value. If an aircraft is in the unstable fight regime, a similar disturbance would cause a decrease in airspeed and so increased drag; this would result in a further decrease in airspeed unless the power/thrust setting were increased; the lower speeds would mean increased drag which would result in a further decrease in airspeed. This is referred to as being on the "back side of the drag curve". Since the applicable True Airspeed for a ‘low speed’ stall increases as altitude increases, and the reference speed for higher altitude flight is Mach Number rather than Indicated Airspeed, the minimum cruise speed as altitude increases begins to approach the Mmo (the maximum operating Mach Number).
+Mmo and Risk of Mach Stall
+Certification of aircraft types includes the setting of Mmo[1]. This is based upon setting a suitable margin from the Critical Mach Number (Mcrit), at which airflow over a wing becomes transonic, that is, reaches the local speed of sound, and forms shock waves. These shock waves induce Wave Drag and disturb previously smooth airflow leading to a loss of lift and. potentially, to Mach stall. The margin between this upper limit and the prevailing TAS for a low speed stall, which increases as altitude increases and air density decreases, narrows with an increase in altitude resulting in a flight regime often referred to as Coffin Corner. It also means that the normal cruise speed at high altitude will be nearer to Mmo. Any exceedence of Mmo at high altitude will bring the aircraft closer to the critical Mach Number and to the risk of a Mach stall.
+Variation in Cruise Speed
+Slower cruising speeds are often used as a means to save fuel, but this will mean routinely flying closer to the minimum drag speed (Vimd); this gives less time to recognise and respond to any speed loss and eventual risk of a stalled wing condition.
+Small changes in either ‘External Factors’, such as variable winds, increased drag in turns, turbulence from any source, ice accretion or ‘Internal Factors’ such as use of anti-icing, un-commanded thrust rollback or engine malfunction can lead to loss of airspeed. Heavily damped autothrottles, designed for passenger comfort, may not always apply thrust aggressively enough to prevent a slowdown which places the aircraft on the back side of the drag curve. Close monitoring is essential.
+Optimum Cruise Altitude
+The optimum cruise altitude is that at which a given thrust setting results in the corresponding maximum range speed. The optimum altitude is not constant and changes over the period of a long flight as atmospheric conditions and the weight of the aircraft change. A large change in temperature will significantly alter the optimum altitude with a decrease in temperature corresponding to an increase in altitude. At the optimum altitude, operating costs will be minimum when operating in the most economical (ECON) mode; it is also the cruise altitude for minimum fuel burn when in the Long Range Cruise (LRC) mode. In both cases, optimum altitude increases with reducing aircraft weight. If the aircraft is at its maximum certified level or the altitude is operationally capped, speed reduction as weight decreases will help to maintain a minimum fuel burn profile.
+Maximum Altitude
+Maximum operating altitude is determined by reference to three basic characteristics which are unique to each aircraft type. It is the lowest of:
+
+Maximum Certified Altitude as stated in the Aircraft Flight Manual (AFM) (This is usually structural and is most often defined by pressurisation load limits on the fuselage. However, a component maximum operation envelope may impose lower limits, especially when dispatching under Minimum Equipment List (MEL) relief).
+Thrust Limited Altitude at the prevailing aircraft operating weight and environmental conditions - the altitude at which sufficient thrust is available to provide a specific minimum rate of climb (this is the usual controlling limit especially when turning and available thrust may be very small).
+Buffet limited maximum altitude at the prevailing aircraft operating weight and environmental conditions - the altitude at which a 1.3g loading from turning, manoeuvring or turbulence may be experienced without encountering buffet associated with either low speed stall or Mach stall (low speed pre-stall buffet occurs at increasingly high IAS as altitude increases whereas the pre-Mach stall buffet occurs at a decreasing IAS so that the margin between the two is progressively reduced with increase in altitude).
+
+Mass and Balance Effects on Handling Characteristics
+For conventional airplanes, a C of G towards the aft limit of the mass and balance envelope means less longitudinal stability whereas an aircraft with a C of G near the forward limit means greater longitudinal stability. Since an airplane is dependent on the elevator to provide pitch control, the forward C of G limit occurs at a point where the increase in stability will not exceed the ability of the elevator to provide this control. If the C of G moves forward, additional force is required on the elevator to raise the nose up causing the stall speed to increase. The relative longitudinal instability which comes when the C of G is near the aft limit means that the inherent susceptibility to loss of control is greater. Less effort is required by the tailplane to counteract the nose down pitch moment of the wing and this results in less induced drag on the entire aircraft and thus maximises efficient flight.
+Stalls
+The wing can be stalled at any airspeed, true or indicated, and at any altitude, and aircraft attitude has no absolute relationship to the onset of an aerodynamic stall. If the wing angle of attack exceeds the stalling angle of attack, the wing will stall. Successful recovery from a full stall often involves a very different technique to that required for the recovery from the approach to one. Training for recovery from an incipient or near-stalled condition has in the past often emphasised minimum altitude loss as a goal by focusing on the application of a rapid increase in thrust without consideration of the overiding imperative to reduce aerofoil angle of attack to ensure that a fully stalled condition is avoided. For the less frequently trained fully stalled condition, the overriding imperative is to un-stall the wing by reducing the angle of attack and this is likely to involve a reduction in aircraft pitch well into the negative with the concomitant loss of altitude that this implies. Engine thrust may be significantly lost during an aerodynamic full stall of the wing for as long as the air intake to the engines is disrupted by the high angle of attack which is implied by the condition. In all cases, it is vital that pilots understand the differences between the actions required to recover from an incipient stall and those required to recover from a full stall and that they are able to apply them correctly.
+High Altitude Handling Considerations
+
+Stay alert! The high altitude environment in not a place for complacency. The available flight envelope between low and high speed buffet may be quite limited and manoeuvering induced loads or external forces such as windshear or turbulence can result in an exceedence or, potentially, an upset.
+Avoid flight at speeds at or below minimum drag speed (Vimd). Speeds below Vimd are referred to as on the "back side of the drag curve" and are inherrently unstable. In this regime, an external force, such as turbulence, which causes a speed reduction will result in further speed decay if additional thrust is not immediately applied. If not immediately arrested, the speed decay will continue and could result in stall or the necessity to initiate a descent to regain airspeed.
+Use of V/S mode in climb can lead to a critical loss of airspeed and potentially to a stall. Be aware of the climb capabilities of the aircraft - trying to comply with a restrictive Air Traffic clearance such as "be level in two minutes" could also result in a critical reduction in airspeed. This is because in V/S mode, the vertical speed selected has priority over speed. If too high a rate of climb is selected, when the aircraft thrust limit (usually CLIMB - CL, CL1 or CL2) is reached, rate of climb will continue to take priority and speed will decay as the autopilot attempts to sustain climb rate, running the risk of a stall.
+Monitor the outside air temperature (OAT). Optimum altitude is reduced by an increase in OAT. If an increase in temperature is encountered while in level flight, buffet margins will be reduced and a descent may be necessary.
+Be aware that although an aft centre of gravity improves fuel economy, it also reduces aircraft longitudinal stability and increases susceptibility to upset.
+Be smooth. When assuming manual control at high altitude be aware that there is less aerodynamic flight control damping due to the thinner air. Avoid over controlling as it could potentially lead to an upset. Avoid bank angles beyond 15 degrees as the additional drag could exceed the thrust available and lead to a speed decay. Conversely, be aware of the fact that in a confirmed upset or stall situation, full control deflection may be required to regain control of the aircraft.
+Understand and be able to recognise the difference between an incipient (approaching) stall and a full stall.
+Know the difference in the actions required to recover from an incipient stall as compared to those required to recover from a full stall.
+Recognise that, in the event of a full stall, stall recovery is the priority. Altitude recovery is secondary and can only be achieved after successful stall recovery.
+
+Related Articles
+
+Stall
+Aerodynamic Stall Awareness and Avoidance
+Recovery from Unusual Aircraft Attitudes
+
+Note
+
+^ Whenever a limiting speed is expressed in terms of Mach number, it is expressed as an "M speed", e.g. Mmo is maximum operating limit Mach number whereas Vmo is maximum operating limit speed in knots,.
+
+Further Reading
+
+FAA AC 61-107B Operations of Aircraft at Altitudes Above 25,000 feet MSL or Mach Numbers Greater than 0.75 (2013)
+ICAO Amendment No.3 to PANS-TRG (Doc 9868) - Chapter 7, Upset Prevention and Recovery Training, April 2014
+FAA AC 120-111 Upset Prevention and Recovery Training, April 2015
+FAA AC 120-109A Stall Prevention and Recovery Training, January 2017
+
+
+
+
+
+Categories
+
+
+Loss of Control,
+              Theory of Flight
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

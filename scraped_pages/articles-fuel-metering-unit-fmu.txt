@@ -1,0 +1,119 @@
+Fuel Metering Unit (FMU)
+
+
+
+
+
+
+
+
+
+
+
+  Fuel Metering Unit (FMU)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Controlling the proper fuel-air mixture is essential for the safe and efficient operation of gas turbine engines. If the mixture suddenly becomes too rich (i.e. too much fuel is added to the combustion chamber), excessive heat will be produced that could damage the engine. If fuel flow is rapidly reduced then the airflow could blow the flame out of the combustion chamber. 
+The Fuel Metering Unit (FMU) regulates the fuel supply by controlling the fuel pump and monitoring various parameters. The goal is to maintain the desired fuel-air mixture ratio. This ensures that the engines receive the right amount of fuel at all times, optimizing their performance and fuel efficiency.
+The FMU is typically located in close proximity to the engines, as this allows for shorter fuel lines and reduces the risk of pressure loss or contamination. It consists of a metering valve and a pressure regulator. The former controls the fuel flow rate and the latter maintains a constant fuel pressure. The metering valve adjusts the fuel flow based on inputs from the engine control systems, ensuring that the engines receive the correct amount of fuel for their current operating conditions.
+The FMU receives inputs from other systems, such as the Engine Control Unit (ECU), to determine the appropriate fuel delivery rate based on factors like engine speed, altitude, and temperature. By continuously monitoring these parameters, the FMU ensures that the engines receive the precise amount of fuel required for optimal operation.
+One important aspect of the FMU’s operation is fuel density compensation. It uses temperature and pressure sensors to measure the density and adjusts the fuel flow accordingly, compensating for any variations. Thus, it ensures that the engines receive the appropriate fuel flow regardless of external factors.
+Related Articles
+
+Full Authority Digital Engine Control (FADEC)
+Electronic Engine Control (EEC)
+Fuel Starvation
+
+
+
+
+
+Categories
+
+
+General,
+              Flight Technical
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

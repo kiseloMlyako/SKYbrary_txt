@@ -1,0 +1,161 @@
+Stand Entry Guidance Systems
+
+
+
+
+
+
+
+
+
+
+
+  Stand Entry Guidance Systems
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Ground Operations 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ The Air Pilots
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+There is a huge variety of stand entry guidance (SEG) systems in use, which may be a marshaller with bats or lighted wands or a number of different fully- or semi-automated systems. The automated systems may provide azimuth (centreline) guidance or stop position information or both. Some modern systems can automatically identify aircraft type and this information is illuminated above the guidance information (e.g. "B747") to inform the pilot that guidance will be type specific; they also incorporate warnings (e.g. "STOP") if the system goes off line or if entry speed is too fast (e.g. "Slow Down") >10km/6kt. Some systems require the ground staff to configure the guidance system for the aircraft type and sometimes, the pilot must determine which marks on a generic display are applicable to his particular type.
+With no international or regional standardization of automatic SEG systems, different systems may be installed at different terminals at the same airport or even in different stands on the same terminal. Flight crews may find the relevant information for any particular gate difficult to locate. Late allocation or changes of gate may make it impracticable for flight crew to pre-brief themselves on unfamiliar systems without stopping the aircraft prior to proceeding onto stand (as indicated in AAIB Bulletin 12/2009 in Further Reading).
+If at any time a pilot is not satisfied that the system in use is providing clear and correct guidance then the aircraft should be stopped and assistance sought.
+Gate Allocation
+A stand identifier should be passed to the flight crew before approaching the parking stand. Whatever type of guidance system is in use, it is important to check that the stand displays the correct stand identifier and, where displayed, the correct aircraft type. Airport procedures should specify which aircraft types are permitted to use which gates, though this does not necessarily mean the information is published where it is available for operating flight crew. Flight Crew on board documentation should provide equivalent information. Allocation of an appropriate gate will depend upon the Flight Plan having been filed with the correct aircraft type and variant. Errors in this area are particularly common when a flight operates on a stored RPL and an aircraft substitution, even just a variant, is made.
+Responsibility for aircraft safety
+Procedures for ground staff for the activation of fully-automatic or semi-automatic SEG for arriving aircraft should require that the full marked gate area for aircraft use is clear of all obstructions, surface contamination and FOD. However, neither this nor the correct application of SEG activation procedures can be assumed. It is often difficult to establish if the gate area is clear from the flight deck, especially when it is dark. The aircraft commander (or other authorized person with clearance to conduct out of service aircraft ground re-positioning of an aircraft under its own power) has responsibility for the safety of the aircraft as it arrives at the gate. Prior to stand entry, the appropriate stand guidance system should be confirmed switched on and selected for the correct aircraft type. If this is not the case, the pilot should not attempt to “self-park” and should not enter the parking area until the stand guidance system has been switched on; partially entering the stand area before the SEG system is functioning may cause it to give erroneous information once it its available. ATC should be kept fully informed if the aircraft is unable to fully park for any reason.
+Many automatic and semi-automatic guidance systems are ‘calibrated’ for the pilot occupying the left hand seat only. When a marshaller is used, the marshaller usually assumes that the person steering the aircraft is seated in the left hand seat, so as the aircraft approaches the stop point the marshaller will move to the side to be visible to the person in the left hand seat. This is particularly relevant when parking wide-body aircraft.
+Azimuth Guidance
+Azimuth guidance may be achieved simply by following a painted/lighted taxiway line or with the assistance of a marshaller. To allow monitoring, it is desirable that a marshaller stands where they can be seen by both pilots. Guidance may be provided by various forms of` left / right indications on an illuminated head-of-gate display. There are two basic types; the system may rely on optical alignment with the pilot’s eye, in which case it can only be used from the left hand seat, or sense the position of the aircraft and display guidance information that might be used by either pilot. Examples are as follows:
+
+AGNIS (Azimuth Guidance for Nose-In Stands) has two vertical, parallel light bars. Both appear green when the aircraft is on the stand centreline but, if it is displaced to the left or right, the light on that side turns red, inviting the pilot to turn towards the green light to regain the centreline.
+
+
+APIS++ (Aircraft Parking and Information System) uses a laser system and displays an arrow like pattern that points in the direction to be steered together with closing rate and stopping guidance; a second display may be provided aligned with the right hand seat so the aircraft can be steered from either seat and allowing monitoring of lateral guidance and distance to go/closure rate by the Pilot Monitoring.
+
+
+Safedock senses the aircraft position using a scanning laser; it not only provides guidance but can compare the characteristics of the detected aircraft with stored parameters to confirm that the aircraft is of the selected type, although the system cannot distinguish between aircraft types with similar profiles. An electronic display with arrow like pointers showing the direction to steer provides guidance. Because this does not depend on alignment with the pilot’s eye it can be used from either seat and allows monitoring.
+
+Stop Guidance
+A marshaller will provide stopping guidance usually by reference to ground markings, which may not be visible to the pilots. The crew may have no way to be sure that the marshaller is aware of the correct aircraft type, particularly at night, so in addition to the usual attention to potential obstructions it is especially important to be sure that the correct stopping point is achieved.
+On some stands a mirror allows the pilot to see the ground markings beneath the aircraft and can stop with the nosewheel on the appropriate mark. In this case mirror reversed aircraft type markings are needed for ease of reading, possibly in addition to the usual ones. Monitoring is not possible. Ground markings, usually on the left side of the aircraft only, may consist of lines annotated with the aircraft type which are aligned with the pilot at the stopping point.
+A simple but more accurate system is the Side Marker Board. This board is positioned so that it is alongside the flight deck, the aircraft should be stopped when the marker appropriate to the aircraft type is abeam the pilot. With care, this may be used from either seat, and monitoring is possible. PAPA (Parallax Aircraft Parking Aid) has a horizontally slotted black marker board mounted to one side of the head of the stand. Behind the marker board, a vertically oriented white fluorescent light shines through the slot and appears to traverse the slot as the aircraft moves forward. Marks on the board identify the correct alignment of the light according to aircraft type. Generally the alignment between the illuminated light and the marks on the board is not perpendicular to the stand centerline so the system can only be used from the LHS and accurate monitoring is not possible. Any lateral displacement from the stand centerline will cause an incorrect stopping position indication.
+With both Side Marker Board and PAPA, the board is offset from the gate centreline and so the pilot must continually switch attention between it and the azimuth guidance.
+Alternatively, the stop position may be indicated (independently of azimuth guidance) by means of a stand alone ‘traffic light’ system, which is often operated by remote control from the ramp or by an automatic system. APIS++ and Safedock have displays that provide similar indications. The display shows the aircraft type. Distance to go and rate are displayed in the form of a bar that rises up the display. When the correct position is reached ‘STOP’ will be displayed. If the stop position is passed then ‘TOO FAR’ will be displayed. Additionally the display may simply show the distance to go in metres and other information.
+Visual Aids Handbook
+These systems are described in more detail in Chapter 4 of the UK CAA ‘Visual Aids Handbook’ (CAP 637) described in Further Reading, with marshalling signals described in Chapter 6.
+Emergency Stop Systems
+All light-display stop position indicator systems are provided with emergency stop buttons at both ramp level and on the air bridge platform for ground staff use. Staff must take care to distinguish these buttons from potentially similar stop buttons for the moveable airbridge that cut its electrical power supply; it the wrong one is pressed, power to the SEG system control and display may also be lost, including illumination of the emergency stop element.
+Hazards and their avoidance
+Given the variety of different SEG systems with apparently similar indications, crews should ensure they understand which SEG system they are using and what to expect under normal operation.
+Flight crew need to check that the SEG system markings/displays correspond to their aircraft type.
+Flight crew operating more than one aircraft type variant or who may have recently undergone type conversion need to be absolutely sure they cross check the appropriate type/variant they are operating with what is marked / displayed on the SEG system.
+Whenever an aircraft is taxyed onto a gate, it should be done at a very low speed and the aircraft braking system status should be checked upon arrival at the turn-in point to ensure that this system is functioning normally.
+Fixed rather than moveable air bridges are less common than they used to be. When they are encountered, they are likely to result in closer proximity to moving aircraft than for the more common movable bridges. The closeness of the fixed bridge reduces the margin for error by the person taxying an aircraft onto the gate. Movable bridges will have a stowed position marked on the stand surface; the airbridge should be positioned within the marked area when not in use. If the airbridge is not correctly stowed then the aircraft should not continue towards the parking position.
+Accidents and Incidents
+
+
+B74S, Stockholm Arlanda Sweden, 1996On 14 June 1996, a Boeing 747SP being operated by Air China on a scheduled passenger flight from Beijing to Stockholm was arriving on the designated parking gate at destination in normal daylight visibility when it collided with the airbridge. None of the 130 occupants of the aircraft suffered any injury but the aircraft was  substantially damaged and the airbridge was  damaged .
+
+
+
+
+Related Articles
+
+Ground Collision
+On-Gate Collisions
+Passenger Boarding Bridge
+
+Further Reading
+
+The UK CAA ‘Visual Aids Handbook’ (CAP 637) Chapter 4 - Visual Docking Guidance Systems provides illustrations of SEG systems.
+AAIB Bulletin 12/2009 Boeing 747-436, G-BNLA
+
+
+
+
+
+Categories
+
+
+Ground Operations
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

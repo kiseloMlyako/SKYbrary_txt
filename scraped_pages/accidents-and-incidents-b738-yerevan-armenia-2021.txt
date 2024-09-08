@@ -1,0 +1,324 @@
+B738, Yerevan Armenia, 2021
+
+
+
+
+
+
+
+
+
+
+
+  B738, Yerevan Armenia, 2021
+
+
+
+
+
+
+
+
+
+Summary
+
+On 23 July 2021, the takeoff roll of a Boeing 737-800 making an intersection departure from Yerevan on a non revenue positioning flight using reduced thrust in daylight exceeded the length of runway available by 81 metres but was undamaged and completed its intended flight. The Investigation found that the Onboard Performance Tool when preparing for departure had been wrongly configured but that when the crew realised there was insufficient runway length left to reject the takeoff, the thrust had not been increased and the response had been the commencement of a slow rotation 20 knots before the appropriate speed.
+
+
+
+
+Event Details
+
+When
+
+23/07/2021
+
+
+
+Event Type
+
+
+HF,
+              LOC,
+              RE
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 737-800
+
+
+
+
+
+
+
+
+
+Operator
+
+Spicejet
+
+
+
+Type of Flight
+
+Public Transport (Non Revenue)
+
+
+
+Flight Origin
+
+
+
+
+Yerevan/Zvartnots International Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Delhi/Indira Gandhi International (IGI) Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+No
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Take Off
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+UDYZ
+
+
+
+
+General
+
+Tag(s)
+
+
+              Use of Erroneous Performance Data,
+              CVR overwritten
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Pre Flight Data Input Error,
+              Inappropriate crew response - skills deficiency,
+              Procedural non compliance
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Incorrect Thrust Computed
+          
+
+
+
+
+RE
+
+Tag(s)
+
+
+              Overrun on Take Off,
+              Intentional Premature Rotation,
+              Reduced Thrust Take Off
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 23 July 2021, a Boeing 737-800 (VT-SZM) being operated by SpiceJet on a non revenue positioning flight from Yerevan to Delhi as SG9029 was making a reduced thrust intersection departure from runway 09 in day VMC and an air temperature of 30° in calm conditions when it exceeded the available runway length ahead and despite commencing a premature rotation did not become airborne until about 80 metres beyond the end of the runway. There was no damage to the aircraft or to ground installations. 
+Investigation
+An Investigation was carried out by the Indian DGCA in accordance with Annex 13 procedures. Relevant data was successfully downloaded from the FDR but since the subsequent flight took over five hours, relevant CVR was overwritten.
+It was noted that the 55 year-old Captain had a total of 14,999 hours flying experience, all but 277 hours of which were on type, and that the 26 year-old First Officer had a total of 3,208 hours flying experience, all but 200 hours of which were on type. Earlier the same day the aircraft had operated a non-scheduled passenger flight from Delhi to Yerevan on which both pilots of the flight under investigation had travelled as staff passengers. It was the Captain’s second departure from Yerevan and the First Officer’s first such departure.
+What happened
+The seven aircrew who had operated the outbound non-scheduled passenger flight from Delhi to Yerevan were on board the non-revenue positioning flight back to Delhi as the only passengers. It was decided that the First Officer would act as PF for the takeoff. The Onboard Performance Tool (OPT) indicated that a runway 09 takeoff from intersection ‘B’ could be achieved with Flap 1 and reduced thrust and ATC confirmed that this intersection would be available. The surface wind was calm and the takeoff weight was 56,200kg - 72% of the MTOW. 
+Taxiway ‘A’ leading to near the beginning of runway 09 was closed so GND control issued a taxi clearance to enter the runway via taxiway ‘B’. As the holding point prior to the runway was approached, the flight was transferred to TWR. The controller cleared the flight to enter and backtrack for a full length (3,850 metres) takeoff but on request, a line up to commence takeoff from the taxiway ‘B’ intersection position was approved.
+As the aircraft accelerated through 100 KIAS towards the calculated VR of 144 KIAS during the subsequent takeoff, both pilots saw that the end of the runway was rapidly approaching and realised that there was not sufficient runway ahead to complete a normal takeoff. The Captain subsequently stated that he had then taken over as PF and that passing about 123/124kts he had begun a slow rotation shortly before the “27” runway numbers were reached in order to avoid a tail strike but he had not increased the engine thrust settings.
+He stated that once airborne, the remainder of the flight was uneventful. However when the crew re-checked the OPT/EFB data, they realised that the EFB data had the Taxiway ’B’ intersection located at only 658 metres from the beginning of the runway whereas it was actually much farther down the runway - 2,300 metres from the threshold - which had left only 1,550 metres ahead of the aircraft when it began its takeoff roll.
+
+The Yerevan Aerodrome Chart as portrayed in the AIP. [Reproduced from the Official Report]
+After landing at Delhi, the operating crew made a ’NIL’ defect entry in the aircraft Technical Log and filed a company ASR. An inspection of the aircraft post flight found no abnormalities. Analysis of the FDR data showed that liftoff had occurred 81 metres beyond the end of the runway as the aircraft reached the nominal liftoff pitch attitude of 8.5° for a Flap 1 takeoff after a 32 second takeoff roll. 
+
+A recorded radar picture of the initial climb track with the position on becomig airborne indicated. [Reproduced from the Official Report]
+It was also noted that the intersection departure made had not satisfied the requirements for a rejected take-off at the prevailing weight and of course would not have been sufficient to safely complete a takeoff in the case of an engine failure above V1.
+Why it happened 
+The required distance from the taxiway ‘B’ intersection to reach V1 at the thrust used was 1,773 metres, to reach VR it was 1,829 metres and to achieve a safe rejected takeoff from V1 would have required 2,703 metres whereas the available runway length from that position was only 1,550 metres. The pilots had relied solely on the OPT function of their EFBs for the takeoff performance calculation but it was found during the Investigation that the intersection selected had been entered in the OPT database incorrectly. This had occurred despite a cross checking requirement existing in the Company Performance Engineering Department who were responsible for creating OPT airport data files. 
+Neither pilot had visually considered if the length of runway ahead from the OPT-approved intersection ‘B’ would be sufficient for takeoff nor made any attempt to look at its position on the runway as depicted in the aerodrome chart which was also loaded into their EFBs. This was considered to indicate that an adequate overall review of the layout of Yerevan had not been conducted by either pilot prior to the flight despite the fact this departure was the First Officer’s first takeoff from the airport and only the second one for the Captain.
+It was noted that there were no restrictions on increasing thrust during an emergency situation when additional thrust is needed on both engines. The fact that on taking control, the Captain did not immediately increase thrust but instead opted for an early rotation therefore represented a significant missed opportunity to possibly get airborne before the end of the runway. However, it was considered that the Captain’s failure to do so was likely to have been a consequence of the unexpected sight of the end of the runway much sooner than expected and probably accompanied by a transitory loss of situational awareness. It was recognised that the Captain’s intuitive response in initiating a slow rotation approximately 20 knots early together with the comparatively low aircraft weight and the availability of sufficient paved clearway had averted the risk of an accident. 
+The Probable Cause of the event was determined as “the aircraft did not achieve the required performance as the take-off was initiated from a runway intersection with performance calculated for a much longer runway length than the actual runway length available”.
+ 
+Two Contributory Factors to the event were identified as:
+
+An error in the configuration of the On Board Performance Tool (OPT) in that location of the Taxiway ‘B’ intersection with Runway 09 was erroneously configured in the OPT data and this resulted in the intersection being indicated as a viable option for departure to the operating crew.
+A lack of awareness of the aerodrome layout due to inadequate review of the aerodrome chart by the flight crew.
+
+Safety Action taken by SpiceJet whilst the Investigation was in progress was as follows:
+Corrective Actions
+
+Airport data for Yerevan Airport was revised to remove the runway 09/taxiway ‘B’ intersection departure option from the Boeing OPT application.
+The Performance Engineer who prepared the Yerevan airport database for the OPT and the Performance Engineer who crosschecked the Yerevan airport database for the OPT were provided with corrective training in respect of the findings related to their performance.
+Necessary corrective actions have been taken in respect of the operating flight crew in respect of the findings related to their performance.
+
+Preventive Actions
+
+An Operations Circular was issued which contained specific instructions for flight crew to cross check the OPT intersection data with the Jeppesen 10-9 (aerodrome) charts.
+Jeppesen Airport Data is now being used by the Company as the source of runway data (including intersection data) to populate the OPT which will mitigate the possibility of incorrect data entry to it. 
+
+The Final Report was completed on 5 June 2023 and published the following month. No Safety Recommendations were made.
+Related Articles
+
+Runway Excursion
+Electronic Flight Bag (EFB)
+Aircraft Performance
+Rejected Take Off
+Cross-Checking Process
+Situational Awareness
+Pre-flight Preparation
+
+Further Reading
+
+Electronic Flight Bag Solutions: Onboard Performance Tool, Boeing, July 2012

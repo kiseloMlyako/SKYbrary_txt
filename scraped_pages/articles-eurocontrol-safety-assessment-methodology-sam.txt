@@ -1,0 +1,153 @@
+EUROCONTROL Safety Assessment Methodology (SAM)
+
+
+
+
+
+
+
+
+
+
+
+  EUROCONTROL Safety Assessment Methodology (SAM)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Management 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+The EUROCONTROL Safety Assessment Methodology (SAM) is a framework, a toolbox containing methods and techniques to develop safety assessment of changes to functional systems of the Air Navigation Service Providers (ANSP). SAM presents a general overview of Air Navigation Systems safety assessment from an engineering perspective.
+Overview
+The safety assessment activities included in the scope of SAM can be sub-divided into:
+
+Risk Assessment activities, to identify hazards, and evaluate the associated risk tolerability;
+Safety engineering activities, to select, validate and implement counter measures to mitigate these risks, and
+Safety assurance activities, which involve specific planned and systematic actions that together provide confidence that all relevant hazards and hazard effects have been identified, and that all significant issues that could cause or contribute to those hazards and their effects have been considered.
+
+The objective of the methodology is to define a means for providing assurance that an Air Navigation System is safe for operational use. It is an iterative process conducted throughout the system development life cycle, from initial system definition, through design, implementation, integration, transfer to operations, to operations and maintenance. The iterative process consists of a Functional Hazard Assessment (FHA), a Preliminary System Safety Assessment (PSSA) and a System Safety Assessment (SSA). SAM allows users to perform:
+
+FHA (identify hazards, assess their effects and the related severity);
+PSSA (fault tree analysis, event tree analysis, common cause analysis, etc.);
+SSA (documentation of the evidence, collecting data, test and validation, etc.).
+
+SAM is organised in three levels:
+
+level 1 explains the "what";
+level 2 provides details on "how" to perform a safety assessment;
+level 3 provides real life examples from air navigation service providers and the industry.
+
+SAM has an electronic version - e-SAM - that allows users to navigate through the various documents of the regulatory framework. It works on all MS-Windows platforms. Although there have been many changes in the regulatory framework (successively EU 2096/2005 and CIR.1035/2011), SAM is still relevant for risk assessment and mitigation purposes.
+SAME
+Safety Assessment Made Easier (SAME) is developed by EUROCONTROL as an extension of SAM. While SAM is focused on the negative contribution to risk, SAME also considers the positive contribution of the concept under investigation to aviation safety. It does this by proposing a ‘broader approach to safety assessment’, consisting of complementary success and failure approaches:
+
+The success approach seeks to show that an ATM system will be acceptably safe in the absence of failure;
+The failure approach seeks to show that an ATM system will still be acceptably safe, taking into account the possibility of (infrequent) failure.
+
+In SAME, the safety assessment is driven by a safety argument structured according to system assurance objectives and activities.
+Related Articles
+
+Risk Assessment
+
+Further Reading
+
+Safety Assessment Made Easier presentation from Safety Assessment Training Workshop, 2008
+Success & Failure Approaches- Basics Safety Assessment Training Workshop, 2008
+Safety Assessment- Concepts and FAQs Safety Assessment Training Workshop, 2008
+Safety Assessment: burden or an easy task? SASI Workshop, 2009
+Safety Assessment for Airspace Design October, 2010
+
+Others
+
+Experience Sharing on Safety Assessments- Example From Other Industry : IAEA presentation from SASI Workshop, June 2009
+ATM Strategy of Bosnia and Herzegovina-Safety Assessments October, 2010
+
+
+
+
+
+Categories
+
+
+Safety Management,
+              SM Methods and Tools
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,173 @@
+UAS Remote Identification
+
+
+
+
+
+
+
+
+
+
+
+  UAS Remote Identification
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Unmanned Aerial Systems 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Drone Remote ID
+Remote ID
+Definitions
+
+Unmanned aircraft system (UAS) Remote Identification -- informally called drone remote ID -- is defined by the U.S. Federal Aviation Administration (FAA) as the ability of an unmanned aircraft (UA) or drone in flight to provide identification information that can be received by other parties.
+Direct Remote Identification -- is defined by the European Union Aviation Safety Agency (EASA) as a system that ensures the local broadcast of information about a UA in operation, including the marking of the UA, so that this information can be obtained without physical access to the UA.
+
+Description
+Capability to remotely identify UAs in flight is essential to further breakthroughs in the commercial drone industry. Specifically, it is a key to safety in implementing beyond visual line of sight operations and in integrating UAs into civil airspace formerly available only for manned flight operations.
+Drone remote ID also is expected to lead to greater operator accountability for aviation safety and security. In the United States, with limited exemptions, UAs will be required by FAA to routinely and automatically transmit specific message elements.
+Whether flying a standard remote ID drone or a drone with a removable remote ID broadcast module, the broadcasts must occur from UAS take-off to shutdown. Per FAA, either UA configuration must transmit these message elements:
+
+The unique identifier for the drone;
+The drone’s latitude, longitude, geometric altitude and velocity;
+An indication of the latitude, longitude and geometric altitude of the control station [if standard remote ID drone] or take-off location [if using a drone with a removable remote ID broadcast module];
+A time mark; and,
+Emergency status (applies to standard remote ID drones only).
+
+Remote ID technology and recorded flight data also will yield a realistic picture of volumes of drone activity in a given airspace, such as restricted areas near aerodromes and near other sensitive facilities.
+While anticipating benefits to U.S. flight operations, FAA also expects drone operators in many other countries to enjoy developments equivalent to:
+
+Enhanced situational awareness among UAS pilots operating in the U.S. National Airspace System, pilots of manned aircraft and drones in the vicinity of these operations and airport operators;
+Near real–time situational awareness of the typical UA’s position in the airspace by FAA air traffic controllers, military ATC, national security agencies and federal/state/local law enforcement officers;
+Broadcast message elements that distinguish rule-compliant UAS operators from others identifiable as potentially posing a safety risk or security risk. In June 2021, FAA said on its website that, “Remote ID helps the FAA, law enforcement and other federal agencies find the control station [or take-off location] when a drone appears to be flying in an unsafe manner or where it is not allowed to fly. Remote ID also lays the foundation of the safety and security groundwork needed for more complex drone operations.”; and,
+UAS registration and notification requirements by FAA for readily identifying aircraft, enforcing operator compliance and accountability. FAA’s website says, “All drone pilots required to register their UAS must operate their aircraft in accordance with the final rule on remote ID beginning September 16, 2023, which gives drone owners sufficient time to upgrade their aircraft.”
+
+U.S. Regulatory Requirements
+The FAA issued its Remote ID Notice of Proposed Rulemaking (NPRM) on 31 December 2019 which detailed the technical requirements for Remote ID on unmanned aircraft systems operation in the United States. During the 60-day public comment period, the FAA received more than 53,000 comments on the proposed rule. The final rule was published in the Federal Register on 15 Jan. 2021, with an original effective date of 16 March 2021. Corrections made to the rule and published in the Federal Register delayed the effective date to 21 April 2021. Changes included, for example, shortened manufacturer/operator compliance dates compared with the NPRM and the simpler opportunity for operators of non-standard remote ID drones to obtain a remote ID broadcast module and to retrofit the module to multiple drones that have the same registration number.
+In the FAA’s final rule, drone pilots have the following choices:
+
+Operate a standard remote ID drone, as noted, with built-in capability to broadcast its identification and location information about the drone and its control station/take-off point;
+Operate a drone with a remote ID broadcast module, as noted, providing the add-on flexibility. Note: The remote pilots and other persons responsible must be able to see their drone at all times during flight; or,
+Operate a drone without remote ID equipment only at FAA-recognized identification areas (FRIAs) sponsored by community-based organizations or educational institutions.
+
+EASA Regulatory Requirements
+The European Union’s initial drone-identification regulations, which began to take effect in April 2019, introduced Direct Remote Identification requirements. If a UAS falls under these requirements and already has the specified built-in Direct Remote Identification broadcast function, that satisfies EASA. Otherwise, the operator must provide an equivalent add-on module that:
+
+“Allows the upload of the UAS operator registration number in accordance with Article 14 of Implementing Regulation (EU) 2019/947 and any additional number provided by the registration system. The system shall perform a consistency check verifying the integrity of the full [data] string provided to the UAS operator at the time of registration. In case of inconsistency, the system shall emit an error message to the UAS operator;
+Ensures, in real time during the whole duration of the flight, the direct periodic broadcast from the UA using an open and documented transmission protocol, of the following message elements, in a way that it can be received directly by existing mobile devices within the broadcasting range of at least the following data:
+
+the UAS operator registration number and the verification code provided by the Member State of registration during the registration process unless the consistency check [noted above] is not passed;
+the unique serial number of the add-on module compliant with standard ANSI/CTA-2063-A-2019, “Small Unmanned Aerial Systems Serial Numbers, 2019,” affixed to the add-on and its packaging or its manufacturer’s instructions in a legible manner;
+the time stamp, the geographical position of the UA and its height above the surface or take-off point;
+the route course measured clockwise from true north and ground speed of the UA; and,
+the geographical position of the remote pilot or, if not available, the take-off point.
+
+
+Reduces the UA operator’s ability to tamper with the functionality of the direct remote identification system; and,
+The add-on module will be placed on the market with manufacturer’s instructions providing the reference of the transmission protocol used for the direct remote identification emission and providing instructions to install the module on the UA and to upload the UAS operator’s registration number.”
+
+Related Articles
+
+Unmanned Aerial Systems (UAS)
+UAS Rules and Guidance - EU
+UAS Rules and Guidance - USA
+Loss of Separation
+
+Further Reading
+
+Easy Access Rules for Unmanned Aircraft Systems (Regulations (EU) 2019/947 and (EU) 2019/945), EASA, March 2020.
+Airports Council International-Europe (ACI-Europe), "Drones in the Airport Environment: Concept of Operations & Industry Guidance", April 2020.
+Small Unmanned Aircraft Systems, 14 U.S. Electronic Code of Federal Regulations, Part 107, U.S. Federal Aviation Administration (FAA), current as of 25 June 2021.
+Remote Identification of Unmanned Aircraft, Final Rule, FAA, 15 Jan. 2021.
+UAS Remote Identification Overview, FAA website
+CAP 722 — Unmanned Aircraft System Operations in UK Airspace – Guidance, 8th Edition, U.K. Civil Aviation Authority, 5 November 2020.
+
+
+
+
+
+Categories
+
+
+Unmanned Aerial Systems,
+              Rules
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

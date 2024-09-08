@@ -1,0 +1,135 @@
+Abnormal Aircraft Configuration and FMS Fuel Predictions
+
+
+
+
+
+
+
+
+
+
+
+  Abnormal Aircraft Configuration and FMS Fuel Predictions
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Flight Technical 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+An Abnormal Aircraft Configuration is considered to be a configuration which is not appropriate for the phase of flight. This could occur intentionally such as during a gear down ferry flight or as the result of a system malfunction or failure such as a slat or flap jamb, flap brakes engagement or landing gear failure to retract.
+Description
+The Flight Management System (FMS), fitted in most modern commercial aircraft, has a variety of functions and provides a wealth of useful information. Assuming that the FMS database is current and correct for the aircraft/engine combination, that aircraft specific performance data has been entered and that realistic routing, altitude and wind data has been programmed into the FMS by the crew, the fuel prediction information provided can be used reliably to compare or predict fuel on board versus flight plan fuel for any point on the route of flight. However, under circumstances of Abnormal Aircraft Configuration, the fuel predictions are no longer accurate. Failure to realize this situation has lead crews to make false assumptions about their range and endurance and has been a contributory cause factor in several accidents and incidents.
+Effects
+The fuel prediction logic of the FMS is predicated on the aircraft being in what is considered to be the “normal” configuration for the phase of flight. As an example, the “normal “configuration for the landing gear would be UP from shortly after takeoff until about five miles from touchdown. As there is no direct input from the landing gear to the FMS, the FMS fuel predictions are based on the assumption that the “normal” gear profile has been followed. From this, it is apparent that the fuel predictions will no longer be valid during a gear down ferry or in the event that the gear fails to retract on selection. The same is true for high lift devices such as the flaps or slats.
+In many aircraft types, the FMS will no longer show fuel predictions in the event of an engine failure. However, in the case of an Abnormal Aircraft Configuration, the fuel predictions will continue to be available, are likely to be inaccurate and may lead the crew to an inappropriate decision.
+Defences
+Crews must be aware of the AFM/FCOM information on fuel penalties and limitations for gear down ferry flights. The appropriate amount of fuel must be loaded before flight, the FMS fuel predictions should be ignored and range and endurance must be calculated on the basis of fuel flow indications. In the event of a system failure leading to an Abnormal Aircraft Configuration, crews must be aware of the increased fuel flow during the execution of the ECAM/EICAS/QRH procedures and take the reduced range and endurance into consideration when making their landing/diversion decisions. Manufacturers should make every effort to remind the flight crew of the increased fuel consumption by means of notes and cautions in the ECAM/EICAS/QRH procedures.
+Typical Scenario
+Following a landing gear malfunction on takeoff, the crew was unable to raise the gear. Manufacturer’s procedures were correctly followed and the decision was taken to divert to land at an enroute airport using the FMS fuel predictions. During the transit, it was determined that fuel was being consumed at a greater rate than expected and that the FMS fuel prediction at destination was falling. A closer diversion was selected; however, both engines flamed out due to fuel starvation before arrival causing the loss of the aircraft.
+Contributing Factors
+In the cited scenario, although the crew recognized that the fuel was being consumed faster than the FMS predicted and elected to change their diversion, they did not fully comprehend the urgency of their situation. The FMS fuel prediction for destination was falling because the Fuel On Board input to the FMS was being reduced more rapidly than the FMS programming would have predicted and not because the FMS was considering the gear down configuration. At any point in time, the FMS prediction would be based on the fuel burn from current position to destination for the “normal” configuration for the flight phase and not for the gear down configuration that the aircraft was in. In other words, when the second diversion decision was made, the FMS indicated that there was sufficient fuel on board to make the airfield when, in fact, there was not.
+Solutions
+The ultimate solution to this problem would be for manufacturers to include the configuration of the aircraft as an input to the FMS and to program the FMS to recognise the abnormal configuration and adjust the fuel predictions accordingly.
+A more simplistic solution might be to allow the crew to selectively input the performance penalty into the FMS based on an ECAM/EICAS/QRH procedure. As an example, the fuel burn for a jammed flap configuration might be 1.8 times the normal rate. Providing the FMS capability to allow this factor to be inserted would enable the FMS to make realistic predictions.
+Until a more robust solution is available, crews must be aware that under circumstances of Abnormal Aircraft Configuration, the FMS fuel predictions are no longer reliable and that they must use the manufacturer’s performance penalties and the actual fuel flow to determine the aircraft range and endurance.
+Accidents and Incidents
+
+A310, Vienna Austria, 2000: On 12 July 2000, an Airbus A310 being operated by Hapag Lloyd on a non scheduled passenger flight from Chania to Hannover declared an emergency due to fuel shortage and, after making an en route diversion to Vienna in day VMC, crash landed short of runway 34. None of the 151 occupants were injured during the impact but 26 suffered minor injuries during the subsequent evacuation. The aircraft was damaged beyond economic repair by the effects of the impact but there was no fire.
+
+Related Articles
+
+Fuel - In-Flight Management (Abnormal Operations)
+Fuel - Preflight Planning
+Fuel Management
+Fuel - Regulations
+Landing Gear Problems: Guidance for Controllers
+
+
+
+
+
+Categories
+
+
+Flight Technical
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,158 @@
+Runway Awareness and Advisory System (RAAS)
+
+
+
+
+
+
+
+
+
+
+
+  Runway Awareness and Advisory System (RAAS)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Nets 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Runway Awareness and Advisory System
+Overview
+The Runway Awareness and Advisory System (RAAS) is one of a number of related software enhancements available on later-model Enhanced Ground Proximity Warning Systems. RAAS is designed to improve flight crew situational awareness, thereby reducing the risks of runway incursion, runway confusion and runway excursions.
+Runway Awareness and Advisory System uses airport data stored in the EGPWS database, coupled with GPS and other onboard sensors, to monitor the movement of an aircraft around the airport. It provides visual/aural annunciations at critical points, such as "Approaching Runway 09 Left and confirmation when an aircraft is lined up on the runway prior to takeoff: for example, "On Runway 09 Right, 2,450 metres remaining." In a scenario where a crew inadvertently lines up on a parallel taxiway and commences a take off, an aural alert “On Taxiway, On Taxiway” is provided if the aircraft speed exceeds 40 kts. On approach and after touchdown, the system continues to announce the distance to go until the end of the runway is reached.
+System Description
+Advisories/cautions are generated based upon the current aircraft position as compared to the location of the airport runways, which are stored within the EGPWS Runway Database.
+The aurals can be grouped into two categories:
+
+Routine Advisories (annunciations the flight crew will hear during routine operations) and
+Non-Routine Advisories/Cautions (annunciations the flight crew will seldom or perhaps never hear).
+
+RAAS provides the flight crew with five ‘routine advisories'. Three of these annunciations will be heard by the crew in normal operations, providing increased position awareness relative to the runway during taxi and flight operations. They are intended to reduce the risk of a runway incursion. The two remaining ‘routine’ advisories provide information about the aircraft location along the runway, and are intended to reduce the risk of overruns. The five advisories are:
+
+Approaching Runway - Airborne advisory provides the crew with awareness of which runway the aircraft is lined up with on approach.
+Approaching Runway - On-Ground advisory provides the flight crew with awareness of approximate runway edge being approached by the aircraft during taxi operations.
+On Runway - Advisory provides the crew with awareness of which runway the aircraft is lined-up with.
+Distance Remaining - Advisories enhance crew awareness of aircraft along-track position relative to the runway end.
+Runway End - Advisory is intended to improve flight crew awareness of the position of the aircraft relative to the runway end during low visibility conditions.
+
+In addition, RAAS provides the flight crew with several ‘non-routine’ advisories/cautions. These annunciations are designed to enhance safety and situational awareness in specific situations not routinely encountered during normal aircraft operations. Some of the RAAS advisories include distance information. The unit of measure used for distance can be configured to be either metres or feet.
+
+Approaching Short Runway - Airborne advisory provides the crew with awareness of which runway the aircraft is lined-up with, and that the runway length available may be marginal for normal landing operations. If desired, an additional caution annunciation can be enabled which provides the crew with awareness that the issue has not been resolved when the aircraft is on final approach.
+Insufficient Runway Length - On-Ground advisory provides the crew with awareness of which runway the aircraft is lined-up with, and that the runway length available for takeoff is less than the defined minimum takeoff runway length. If desired, an additional caution annunciation can be enabled which provides the crew with awareness that the issue has not been resolved when the aircraft is on the final stage of takeoff.
+Extended Holding on Runway - Advisory provides crew awareness of an extended holding period on the runway.
+Taxiway Take-Off - Advisory enhances crew awareness of excessive taxi speeds or an inadvertent take-off on a taxiway. If desired, this function can provide a caution annunciation in lieu of an advisory annunciation.
+Distance Remaining - Advisories provide the flight crew with position awareness during a Rejected Take Off (RTO).
+Taxiway Landing - Alert provides the crew with awareness that the aircraft is not lined up with a runway at low altitudes.
+
+Each RAAS function is independently enabled based on a customer specification and, when enabled, the RAAS functions operate automatically without any action required from the flight crew.
+In addition to the aural annunciations provided, visual caution indications may be activated if the appropriate criteria are met. Visual text annunciations can also be configured so they are overlaid on the terrain display for a period of time after the warning is generated.
+Deployment
+RAAS is provided as standard on new production Boeing aircraft and may be retrofitted to approved older aircraft types.
+The current version of RAAS does not provide information on the position of other aircraft or vehicles and does not detect potential conflicts on the taxiways and runways.
+Related Articles
+
+Advanced Surface Movement Guidance and Control System;
+Wrong Runway Use;
+Runway Overrun Prevention System (ROPS)
+Runway Overrun Awareness and Alerting System (ROAAS)
+Global Action Plan for the Prevention of Runway Excursions (GAPPRE), 2021
+
+Further Reading
+
+Product Description SmartRunwayTM/SmartLandingTM Functions of the Enhanced Ground Proximity Warning System - Honeywell, 22 Nov 10. Provides an overview of the suite of optional EGPWS enhancements.
+Improving Runway Safety with Flight Deck Enhancements; article in Boeing Aero, Q1:2011. Provides insight into planned developments including traffic conflict alerting enabled by ADS-B.
+
+
+
+
+
+Categories
+
+
+Safety Nets,
+              Overrun on Landing,
+              Overrun on Take Off,
+              Controlled Flight Into Terrain,
+              Wrong Runway Use,
+              Runway Incursion Safety Nets
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

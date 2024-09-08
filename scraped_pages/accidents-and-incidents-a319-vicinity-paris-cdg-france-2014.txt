@@ -1,0 +1,348 @@
+A319, vicinity Paris CDG, France 2014
+
+
+
+
+
+
+
+
+
+
+
+  A319, vicinity Paris CDG, France 2014
+
+
+
+
+
+
+
+
+
+Summary
+
+On 12 March 2014, an Airbus A319 left engine stopped without any apparent cause on approach to Paris CDG. The crew then started the APU which also stopped. The Investigation found that the cause was engine and APU fuel starvation caused by non-identification of a recurring intermittent malfunction in the fuel quantity indicating system because of a combination of factors including crew failure to record fuel status in line with clear instructions and an inadequate maintenance troubleshooting manual. An inadequately-written abnormal crew drill and the crew’s inadequate fuel system knowledge then resulted in the fuel crossfeed valve not being opened.
+
+
+
+
+Event Details
+
+When
+
+12/03/2014
+
+
+
+Event Type
+
+
+AW,
+              HF,
+              LOC
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS A-319
+
+
+
+
+
+
+
+
+
+Operator
+
+Air France
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Marseille/Provence
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Paris/Charles de Gaulle Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Cruise
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+LFPG
+
+
+
+
+General
+
+Tag(s)
+
+
+              Inadequate Airworthiness Procedures,
+              Inadequate Aircraft Operator Procedures,
+              Deficient Crew Knowledge-systems
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Inappropriate crew response - skills deficiency
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Loss of Engine Power,
+              Flight Management Error
+          
+
+
+
+
+EPR
+
+Tag(s)
+
+
+              “Emergency” declaration,
+              Fuel Status
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Indicating / Recording Systems
+          
+
+
+
+Contributor(s)
+
+
+              Component Fault in service
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 12 March 2014, an Airbus A319 (F-GRHT) being operated by Air France on a scheduled domestic passenger flight from Marseilles to Paris CDG experienced an uncommanded left engine failure as it neared its destination in day VMC followed by a failure of the APU after this had been started in response to the engine failure. An emergency was declared and a landing was subsequently achieved without further event. An empty left fuel tank was found to have been the cause of both failures but just over final reserve fuel was found in the right fuel tank.
+Investigation
+An Investigation was carried out by the French Civil Aviation Accident Investigation Agency, the BEA, based on downloaded CVR and FDR data and crew statements. Neither the overall nor aircraft type and experience of the flight crew involved in the investigated event or that of the previous crew operating the aircraft prior to the crew involved taking over the aircraft were recorded.
+What Happened
+Prior to the flight under investigation, which was the first of four sectors for the flight crew involved, the same aircraft had flown two return flights from Marseilles to Nantes with a different crew. On completion of the third of these sectors, the Captain had made a defect entry in the Aircraft Technical Log to the effect that on taxiing out at Marseilles, the flight deck fuel on board indication had been “showing 300 kg less than expected”. In response, maintenance determined that a sensor in the outer section of the left wing tank had failed and that rectification could be deferred and released the aircraft to service. The flight to Marseilles was reported to have “proceeded normally” and after shutdown, the Captain had calculated a difference between the indicated fuel which had been recorded at the start of the flight as within 20 kg of the indicated fuel on arrival plus the fuel used as indicated on the totaliser, whereas it was subsequently established that “in reality, the difference was 880 kg”.
+The crew taking over the aircraft did not see the off-going crew but the Captain noted reference to the faulty fuel system sensor in the aircraft Technical Log and had also been left an explanatory note by the previous Captain “recording the varying fuel quantity indications according to the different phases of the flight during the last leg from Nantes to Marseille” which showed a maximum deviation of 300 kg. Having noted the indicated fuel on board as 3,780 kg, the Captain arranged for an uplift to 5,000 kg - an additional 1200 kg. The crew stated that they had checked that the fuel uplift had been made as requested and that the fuel was distributed evenly between and within the two wing tanks with the outer tanks in both wings showing full.
+Between FL 150 and FL 180 during the subsequent climb after takeoff on the first sector to Paris CDG, the Captain, who was acting as PF, stated that he had seen that both wing fuel transfer valves, which move fuel from the outer section of each wing tank to the inner section, were open and that at this time, the indicated fuel in each wing had been approximately 1,600 kg. The First Officer did not recall seeing this and the Captain stated that he had not drawn this to the attention of the First Officer because “this indication did not raise any particular concerns for him” given that he had previously seen such indications when inner tank fuel was higher than the theoretical pump activation threshold of 750 kg.
+Fifteen minutes after takeoff whilst still in the climb, an ECAM ‘FUEL L WING TK LO LVL’ message had been annunciated which caused the Fuel System page to open automatically. This message required the crew to refer to an ECAM procedure which, in the absence of any evidence of a suspected fuel leak, instructed them to close the fuel transfer pumps on the side with the low level indication. However, at this point, the ECAM message and the automatically displayed fuel page disappeared. The crew then displayed the Fuel System page again and after noticing that “the fuel quantities fluctuated and then seemed to become consistent again” they reported having “deduced from this that it was an untimely warning” which could be associated with the previously identified FQIS. They had therefore decided that a precautionary check of the Fuel System page every five to ten minutes during the rest of the flight to ensure continued correspondence between the indications of fuel remaining and fuel used and departure fuel would be an appropriate response. They reported that these checks had not disclosed anything unusual.
+Then, as the flight had approached FL 110 during the subsequent descent towards destination, the Captain reported having noticed that the two left side fuel pumps had changed colour to amber on the Fuel System page and shortly after this, passing FL 080, an ECAM ‘FUEL L TK PUMP 1+2 LO PR’ Warning was annunciated. The crew stated that they had carried out the applicable procedure and switched off both pumps but had not also opened the crossfeed transfer because this is not required when below FL110. The Captain stated that the crew had then performed a FORDEC review and decided to complete the flight using gravity fuel feeding but after a further six minutes, with the aircraft now downwind, an ‘ENG 1 FAIL’ warning was annunciated and the left engine stopped. The crew responded with the associated procedure and started the APU but when this also stopped after approximately two minutes and an attempt to restart it had failed, an emergency was declared and a landing with only the right engine functioning followed.
+Why It Happened
+It was noted that, as detailed in the Flight Crew Operating Manual (FCOM), the Fuel Quantity Indicating System (FQIS) of which the core component is the Fuel Quantity Indicating Computer (FQIC) displays fuel on board on the ECAM Engine Warning/Display (EWD) screen and the fuel in each tank on the ECAM System Display (SD) page. Manual magnetic gauges located on the wing lower surface are also available and provide an alternative means to check fuel quantity. The entirely independent Fuel Level Sensing Control Unit (FLSCU) derives quantity indications based on fuel level sensors which, when the weight of fuel in an inner tank is approximately 750 kg, are no longer immersed and a signal is sent to the FLSCU which automatically commands the transfer valves between the inner and outer wing tanks to open and provides a corresponding flight deck indication on both the EWD screen and on the SD page.
+The Investigation found that the FQIS had malfunctioned and provided erroneous information about the amount of fuel in the left tank both prior to and during incident flight. As a result, in the absence of crossfed fuel from the right wing tank, both the left engine and the APU (which is fed from the left wing tank) were starved of fuel. The origin of this indication fault was found to be an intermittent solder defect “caused by voltage variations of an oscillator in the FQIC”. It was also found that when the aircraft arrived at Marseilles on the previous flight operated by a different flight crew, “in the absence of verification by the First Officer, the Captain’s error in his fuel log calculation was not identified”. Had it been, an 880 kg difference would have alerted both flight crews to an apparent FQIC fault. Instead, the new crew, based on the aircraft Technical Log fuel entry and the indicated fuel on board, had no reason to suspect a fuel indication problem.
+During the subsequent flight, the crew had “associated the activation of the low fuel level warning with an untimely warning related to the FQIC malfunction recorded in the Technical Log by the previous crew”. When the fuel pumps then stopped due to fuel starvation and when the left engine shut down after the left tanks became empty, “the crew thought that the two pumps had failed simultaneously” and did not question whether there was any fuel in the left wing until they had completed the flight even when the APU also stopped almost immediately after being started.
+The Investigation found that the procedure for recording fuel figures in the aircraft Technical Log at the time of the investigated event was “not covered by the operational documentation available to pilots (and) pilot training included only a 17-minute module on using the aircraft Technical Log”. An examination of the Technical Log of the aircraft involved and documents related to refuelling over the six weeks prior to the event found that fuel recording errors based on mis-calculation “sometimes of as much as one tonne” were prevalent with crews not following instructions contained in the OM and often entering calculated fuel quantities, not those read from the indicators in the Technical Log after flight. It was considered that such errors suggested that verification of the Captain’s required after flight fuel entry was “not systematically carried out” and that this may partly explain why the problem of intermittent FQIC failure on the aircraft had not been promptly recognised and resolved.
+It was also noted that under the procedures in place at the time, if a low fuel level alert occurred, the X-FEED valve must be opened if a fuel quantity imbalance was observed, provided there was no parallel evidence of a fuel leak based on the fuel quantity information provided by the FQIC. When the fuel low level warning occurred on the incident flight it was observed that “the information provided by the FQIC did not suggest to the crew that there was any leak or imbalance that would require the crossfeed valve to be opened”. This meant in the event of a FQIC malfunction, the associated procedure did prevent fuel starvation of an engine.
+As to the maintenance response to the concerns of the previous crew about flight deck fuel quantity indications, at the time of the event, available maintenance procedures for FQIC failure “dealt only with specific cases (and) no procedures in the Troubleshooting Manual addressed a fuel quantity indicator malfunction/fluctuation in a generic situation […] in which erroneous indications were intermittent”.
+The Investigation considered why the ECAM ‘FUEL L WING TK LO LVL’ message which appeared during the climb out of Marseilles had then almost immediately “disappeared”. After undertaking a review of the evidence available, it was concluded that the only possible explanation was (un-recollected) crew action. The SOP for responding to all ECAM messages normally required crew to terminate an ECAM procedure by pressing the CLR button on the ECAM control panel but should an alert be considered false, the EMER CANCEL button should be pressed instead. Once the EMER CANCEL button has been pressed, pressing the Recall (RCL) button for at least 3 seconds creates a list of alerts inhibited in that way. Since it was established that the RCL button was not pressed on the ground following the event flight and subsequent maintenance action did not preserve the list, “it could not be determined whether the procedure displayed on the ECAM disappeared as a result of the crew pressing the EMER CANCEL button”. However, “examination of the FLSCU and other components of the FQIS did not reveal any failures that could explain this disappearance” and when the aircraft was powered up by maintenance after the event flight, this warning was activated again.
+The Cause of the left engine failure was confirmed to have been fuel starvation after the flight had departed with the crew unaware that the fuel on board was less than they had intended.
+Three Contributory Factors in respect of the left engine failure were identified as:
+
+The many differences and inconsistencies in flight crew entry of fuel figures in the aircraft Technical Log on the ground, probably due to a lack of enough information in the Operations Manual, insufficient training and, in some cases, lack of verification by the First Officer of the Captain’s calculations.
+The difficulty of a crew questioning information considered to be reliable before departure of a flight (confirmation bias).
+An ECAM low fuel level procedure that required crew actions based on erroneous fuel quantity information provided by the Fuel Quantity Indicating Computer FQIC and their lack of knowledge of the independence of the Fuel Level Sensing Control Unit (FLSCU) and the Fuel Quantity Indicating System (FQIS).
+
+Safety Action taken as a result of the event whilst the Investigation was in progress was noted to have included the following:
+Air France:
+
+carried out a fleet check of the accuracy of the FQIC and found no faults on any other aircraft.
+Reminded all its crews how to correctly complete fuel entries in the aircraft Technical Log and of related SOPs, amended the content of the OM Part B to include a detailed procedure for completing the fuel section in the aircraft Technical Log and made the application of these procedures the subject of flight crew training and line checks.
+Introduced a process whereby an aircraft evidencing a significant combination of frequent and severe failures or crew feedback via the aircraft Technical Log or other reporting means was identified to a specific status enabling special monitoring in coordination with the aircraft manufacturer in order to identify and deal with intermittent failures expeditiously.
+
+Airbus:
+
+In May 2016, a new maintenance task was added to the A320 Trouble Shooting Manual to cover fluctuations in fuel quantity indications.
+In June 2015, the terms “unusual“ and “abnormal“ used in the A320 FCOM pre-flight fuel management content on the ‘Before Start Clearance’ were amplified to “clarify” the meaning of these words.
+In March 2015, the A320 FCOM was amended to make it clearer that fuel quantity measurement and the fuel low level alert were derived from completely different sources.
+In December 2015, the A320 cruise fuel monitoring procedure was amended to require checks at least every 30 minutes and reworded to require a check that “the sum of the fuel on board and the fuel used is consistent with the fuel on board at departure” and to remind crews that if this sum is significantly more than departure fuel, they should suspect a fuel quantity over read and if it is significantly smaller or decreased then they should suspect a fuel leak.
+At the end of 2018, a Safety Study resulted in an amendment to the ‘FUEL L(R) WING TK LO LVL’ procedure which deleted the imbalance condition and introduced a requirement to “open the crossfeed valve from the moment that there is no leak”.
+
+The Final Report was published in English translation on 20 February 2020 after the initial and definitive publication in French on 9 January 2020. No Safety Recommendations were made.
+Related Articles
+
+Aircraft Fuel Systems
+Fuel Quantity Indicating System (FQIS)
+Fuel Starvation
+Aircraft Technical Log
+Airworthiness
+Standard Operating Procedures (SOPs)
+Confirmation Bias

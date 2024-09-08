@@ -1,0 +1,185 @@
+Autopilot
+
+
+
+
+
+
+
+
+
+
+
+  Autopilot
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Flight Technical 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+An autopilot is a device used to guide an aircraft without direct assistance from the pilot. Early autopilots were only able to maintain a constant heading and altitude, but modern autopilots are capable of controlling every part of the flight envelope from just after take-off to landing. Modern autopilots are normally integrated with the flight management system (FMS) and, when fitted, the autothrottle system.
+Autopilot software, which is integrated with the navigation systems, is capable of providing control of the aircraft throughout each phase of flight. If an autothrottle/autothrust system is installed, the appropriate thrust may be automatically set during take-off, and is then adjusted automatically as the climb progresses, while the aircraft climbs at the appropriate speed for its mass and ambient conditions. The aircraft then levels at the required altitude or flight level while the power is adjusted to achieve and maintain the programmed speed. At the same time, the aircraft follows the flight plan route. If an autothrottle is not installed, the pilot must make all power adjustments appropriate to the autopilot mode and phase of flight.
+On commencing the descent, the power is adjusted and the aircraft descends at the appropriate speed and on the required routing, leveling as required in accordance with the flight clearance until the approach is commenced. If this is to be a Category III Instrument Landing System (ILS) approach with Autoland, the autopilot controls the aircraft flight path so that it follows the ILS glide path and localiser, adjusting the power to maintain the appropriate speed and commencing the flare as required to achieve a safe landing without the runway being visible until the final stage of the approach. On some aircraft, the autopilot can then guide the aircraft so that it maintains the runway centre-line until it stops.
+At any stage of the flight, the pilot can intervene by making appropriate inputs to the autopilot or the FMS. In an emergency, the pilot can disengage the autopilot and take over manual control, usually by pressing a switch mounted conveniently on the control column (although alternative means of disengaging the autopilot are available). Modern aircraft have another switch or throttle position which allows the pilot to change instantly from approach to go-around mode if necessary. If the aircraft is not fitted with an automatic go-around function, pilots must disconnect the autopilot and fly the missed approach manually.
+The safe and efficient operation of automatic systems relies on clear understanding of the capabilities and the design philosophy of the equipment. Failure to achieve this level of understanding has resulted in several fatal accidents.
+Related Articles
+
+Autoland
+
+Further Reading
+
+OIG Audit Report: Enhanced FAA Oversight Could Reduce Hazards Associated With Increased Use of Flight Deck Automation, 2016
+
+Accidents and Incidents
+The following events involved airworthiness issues associated with the autoflight system:
+
+
+B789, vicinity Hong Kong China, 2019On 18 October 2019, a Boeing 787-9 descending to 4,500 feet to join the ILS for runway 25R at Hong Kong at 15 nm from touchdown failed to establish on the localiser. The autopilot was disconnected and the aircraft manually positioned onto the localiser from the north, establishing at 12 nm with terrain proximity not sufficient to activate the EGPWS. It was found that the deviation was attributable to an anomaly in the aircraft type Autopilot Flight Director System, and a corresponding Alert Service Bulletin was issued by Boeing to replace the faulty system component.
+
+B735, vicinity Madrid Barajas Spain, 2019On 5 April 2019, a Boeing 737-500 crew declared an emergency shortly after departing Madrid Barajas after problems maintaining normal lateral, vertical or airspeed control of their aircraft in IMC. After two failed attempts at ILS approaches in unexceptional weather conditions, the flight was successfully landed at a nearby military airbase. The Investigation found that a malfunction which probably prevented use of the Captain’s autopilot found before departure was not documented until after the flight but could not find a technical explanation for inability to control the aircraft manually given that dispatch without either autopilot working is permitted.
+
+B735, en-route, north northwest of Jakarta Indonesia, 2021On 9 January 2021, a Boeing 737-500 was climbing though 10,700 feet less than five minutes after departing Jakarta in daylight when it began to descend at an increasing rate from which no recovery occurred and 23 seconds later was destroyed by sea surface impact killing all 62 occupants. The Investigation concluded that the departure from controlled flight was unintentional and the result of the pilots’ inattention to their primary flight instruments when, during a turn with the autopilot engaged, an autothrottle malfunction created apparently unrecognised thrust asymmetry which culminated in a wing drop and a consequent  loss of control.
+
+RJ1H, vicinity Zurich Switzerland, 2011On 20 July 2011, the flight crew of a Swiss European Avro RJ-100 on a positioning flight from Nuremburg to Zurich responded inappropriately to an unexpected ‘bank angle’ alert in IMC. Near loss of control followed during which a PAN was eventually declared. The situation was resolved by a belated actioning of the QRH checklist applicable to the failure symptoms experienced. The subsequent investigation attributed the event to inappropriate crew response to a failure of a single IRU and poor manual flying skill whilst the situation was resolved.
+
+A319, Munich Germany, 2017On 3 July 2017, an Airbus A319 sustained significant landing gear damage during the First Officer’s manual landing at Munich which recorded a vertical acceleration exceeding the threshold for a mandatory airworthiness inspection. That inspection found damage to nose and one main landing gear legs and, following Airbus advice, all three were replaced before release to service. The Investigation was unable to explain why neither pilot detected the incorrect pitch attitude and excessive rate of descent in time to take corrective action and noted that a reversion to manual flight during intermediate approach had been due to a technical malfunction.
+
+E190, en-route, southwest Vermont USA, 2016On 25 May 2016, an Embraer ERJ 190 experienced a major electrical system failure soon after reaching its cruise altitude of FL 360. ATC were advised of problems and a descent to enable the APU to be started was made. This action restored most of the lost systems and the crew, not having declared an emergency, elected to complete their planned 400nm flight. The Investigation found that liquid contamination of an underfloor avionics bay had caused the electrical failure which had also involved fire and smoke without crew awareness because the smoke detection and air recirculation systems had been unpowered.
+
+B743, vicinity Tehran Mehrabad Iran, 2015On 15 October 2015 a Boeing 747-300 experienced significant vibration from one of the engines almost immediately after take-off from Tehran Mehrabad. After the climb out was continued without reducing the affected engine thrust an uncontained failure followed 3 minutes later. The ejected debris caused the almost simultaneous failure of the No 4 engine, loss of multiple hydraulic systems and all the fuel from one wing tank. The Investigation attributed the vibration to the Operator's continued use of the engine without relevant Airworthiness Directive action and the subsequent failure to continued operation of the engine after its onset.
+
+UAV, manoeuvring, north of Reims France, 2006On 29 February 2016, control of a 50 kg, 3.8 metre wingspan UAV was lost during a flight test being conducted in a Temporary Segregated Area in northern Belgium. The UAV then climbed to 4,000 feet and took up a south south-westerly track across Belgium and into northern France where it crash-landed after the engine stopped. The Investigation found that control communications had been interrupted because of an incorrectly manufactured co-axial cable assembly and a separate autopilot software design flaw not previously identified. This then prevented the default recovery process from working. A loss of prescribed traffic separation was recorded.
+
+B735, vicinity Perm Russian Federation, 2008On September 13 2008, at night and in good visual conditions*, a Boeing 737-500 operated by Aeroflot-Nord executed an unstabilised approach to Runway 21 at Bolshoye Savino Airport (Perm) which subsequently resulted in loss of control and terrain impact.
+
+A306, vicinity Nagoya Japan, 1994On 26 April 1994, the crew of an Airbus A300-600 lost control of their aircraft on final approach to Nagoya and the aircraft crashed within the airport perimeter. The Investigation found that an inadvertent mode selection error had triggered control difficulties which had been ultimately founded on an apparent lack understanding by both pilots of the full nature of the interaction between the systems controlling thrust and pitch on the aircraft type which were not typical of most other contemporary  types. It was also concluded that the Captain's delay in taking control from the First Officer had exacerbated the situation.
+
+A319, south of London UK, 2005On 22 October 2005, a British Airways Airbus A319 climbing en route to destination over south east England at night in VMC experienced a major but temporary electrical failure. Most services were re-instated within a short time and the flight was continued. However, during the subsequent Investigation, which took over two years, a series of significant deficiencies were identified in the design of the A320 series electrical system and the manufacturer-recommended responses to failures in it and in response, Airbus developed solutions to most of them.
+
+
+
+
+Events in the SKYbrary database which include AP/FD and/or ATHR status awareness as a contributory factor:
+
+
+A346, en route, Clariden Switzerland, 2018On 6 November 2018, an Airbus A340-600 in cruise northbound over the Swiss Alps received an overspeed warning after encountering an unexpected wind velocity change. However, the crew failed to follow the prescribed response procedure. This led initially to a climb above their cleared level, and further inappropriate actions were then followed by PAN and MAYDAY declarations as control of the aircraft was briefly lost in a high-speed descent below their cleared level. The operator subsequently enhanced pilot training realism by providing it in a simulator configured for the aircraft variant operated by the company. The operator also introduced upset recovery training.
+
+A320, vicinity Muscat Oman, 2019On 28 January 2019, an Airbus A320 became unstabilised below 1000 feet when continuation of an ILS approach at Muscat with insufficient thrust resulted in increasing pitch which eventually triggered an automatic thrust intervention which facilitated completion of a normal landing. The Investigation found that having temporarily taken control from the First Officer due to failure to follow radar vectors to the ILS, the Captain had then handed control back with the First Officer unaware that the autothrust had been disconnected. The context for this was identified as a comprehensive failure to follow multiple operational procedures and practice meaningful CRM.
+
+A359, vicinity Paris Orly France, 2020On 4 February 2020, an Airbus A350-900 initiated a go around from its destination approach at 1,400 feet aal following a predictive windshear alert unsupported by the prevailing environmental conditions but the First Officer mishandled it and the stop altitude was first exceeded and then flown though again in a descent before control as instructed was finally regained four minutes later. Conflict with another aircraft occurred during this period. The Investigation concluded the underlying cause of the upset was a lack of awareness of autopilot status by the First Officer followed by a significant delay before the Captain took over control.
+
+B763, en-route, east southeast of Houston TX USA, 2019On 23 February 2019, a Boeing 767-300 transitioned suddenly from a normal descent towards Houston into a steep dive and high speed terrain impact followed. The Investigation found that after neither pilot had noticed the First Officer’s inadvertent selection of go around mode during automated flight, the First Officer had then very quickly responded with an increasingly severe manual pitch-down, possibly influenced by a somatogravic illusion. He was found to have had a series of short air carrier employments terminating after failure to complete training, had deliberately and repeatedly sought to conceal this history and lacked sufficient aptitude and competency.
+
+B738, vicinity Bristol UK, 2019On 1 June 2019, a Boeing 737-800 was instructed to go around after it was observed to be significantly below the vertical profile for its RNAV approach as it reached the procedure minimum descent altitude. Having then climbed less than 300 feet, the aircraft began to descend, reaching 457 feet agl before resuming its climb. The Investigation found that the terrain proximity on approach followed a failure to discontinue a comprehensively unstable approach and the terrain proximity episode during the go around was due to continued following of the Flight Director which was providing guidance based on incorrect mode selections.
+
+B732, vicinity Resolute Bay Canada, 2011On 20 August 2011, a First Air Boeing 737-200 making an ILS approach to Resolute Bay struck a hill east of the designated landing runway in IMC and was destroyed. An off-track approach was attributed to the aircraft commander s failure to recognise the effects of his inadvertent interference with the AP ILS capture mode and the subsequent loss of shared situational awareness on the flight deck. The approach was also continued when unstabilised and the Investigation concluded that the poor CRM and SOP compliance demonstrated on the accident flight were representative of a wider problem at the operator.
+
+B772, San Francisco CA USA, 2013On 6 July 2013, an Asiana Boeing 777-200 descended below the visual glidepath on short finals at San Francisco after the pilots failed to notice that their actions had reduced thrust to idle. Upon late recognition that the aircraft was too low and slow, they were unable to recover before the aircraft hit the sea wall and the tail detached. Control was lost and the fuselage eventually hit the ground. A few occupants were ejected at impact but most managed to evacuate subsequently and before fire took hold. The Probable Cause of the accident was determined to be the mismanagement of the aircraft by the pilots.
+
+A320, vicinity Karachi Pakistan, 2020On 22 May 2020, an Airbus A320 made an extremely high speed unstabilised ILS approach to runway 25L at Karachi and did not extend the landing gear for touchdown. It continued along the runway resting on both engines before getting airborne again with the crew announcing their intention to make another approach. Unfortunately, both engines failed due to the damage sustained and the aircraft crashed in a residential area near the airport and was destroyed by impact forces and a post-crash fire. 97 of the 99 occupants died and four persons on the ground were injured with one subsequently dying.
+
+DH8D, vicinity Belfast City UK, 2018On 11 January 2018, a Bombardier DHC8-400 departed Belfast City with incorrectly-set Flight Director (FD) modes and the Autopilot was then engaged without either pilot noticing that the aircraft was not being flown in accordance with the FD command bar or that the aircraft had then begun to descend. The rate of descent increased unnoticed and reached 4,300 fpm before recovery from a 928 feet minimum height after EGPWS 'DON'T SINK' and 'PULL UP' annunciations. The Investigation found that no target altitude had been entered and noted failure to follow normal operating procedures including on the use of checklists.
+
+B738, Katowice Poland, 2007On 28 October 2007, a Boeing 737-800 under the command of a Training Captain occupying the supernumerary crew seat touched down off an ILS Cat 1 approach 870 metres short of the runway at Katowice in fog at night with the AP still engaged. The somewhat protracted investigation did not lead to a Final Report until over 10 years later. This attributed the accident to crew failure to discontinue an obviously unstable approach and it being flown with RVR below the applicable minima. The fact that the commander was not seated at the controls was noted with concern.
+
+DH8D / B772, vicinity Sydney Australia, 2016On 9 December 2016, a Bombardier DHC8-400 departing Sydney lost prescribed separation against an inbound Boeing 777-200 after its crew failed to ensure that the aircraft levelled as cleared at 5,000 feet and this was exceeded by 600 feet. The Investigation found that the First Officer, as Pilot Flying, had disconnected the autopilot prior to routinely changing the selected airspeed because it tended to disconnect when this was done with altitude capture mode active but had then failed to re-engage it. The Captain's lack of effective monitoring was attributed to distraction as he sought to visually acquire the conflicting traffic.
+
+B752, en route, western Ireland, 2013On 20 October 2013, a Boeing 757-200 Co-Pilot believed his aircraft was at risk of stalling when he saw a sudden low airspeed indication on his display during a night descent and reacted by increasing thrust and making abrupt pitch-down inputs. Other airspeed indications remained unaffected. The Captain took control and recovery to normal flight followed. The excursion involved a significant Vmo exceedance, damage to and consequent failure of one of the hydraulic systems and passengers and cabin crew injuries. The false airspeed reading was attributed by the Investigation to transient Ice Crystal Icing affecting one of the pitot probes.
+
+MD82, en route, west of Wichita KA USA, 2002On 4 June 2002, the crew of an MD82 in the cruise at FL330 with AP and A/T engaged failed to notice progressive loss of airspeed and concurrent increase in pitch attitude as both engines rolled back to thrust levels which could not sustain level flight. The aircraft stalled and a recovery was accomplished with significant altitude necessary before engine thrust was restored and a diversion made. The Investigation attributed the engine rollback to ice crystal icing obstructing the engine inlet pressure sensors following crew failure to use the engine anti-icing as prescribed. Two Safety Recommendations were made.
+
+B773, Dubai UAE, 2016On 3 August 2016 a Boeing 777-300 rejected a landing at Dubai from the runway following a late touchdown after floating in the flare. It then became airborne without either pilot noticing that the A/T had not responded to TO/GA switch selection and without thrust, control was soon lost and the aircraft hit the runway and slid to a stop. The Investigation found that the crew were unfamiliar with the initiation of a go around after touchdown and had failed to follow several required procedures which could have supported early recovery of control and completion of the intended go around.
+
+B735, vicinity Kazan Russia, 2013On 17 November 2013, the crew of a Boeing 737-500 failed to establish on the ILS at Kazan after not following the promulgated intermediate approach track due to late awareness of LNAV map shift. A go around was eventually initiated from the unstabilised approach but the crew appeared not to recognise that the autopilot used to fly the approach would automatically disconnect. Non-control followed by inappropriate control led to a high speed descent into terrain less than a minute after go around commencement. The Investigation found that the pilots had not received appropriate training for all-engine go arounds or upset recovery.
+
+
+
+
+
+
+
+
+Categories
+
+
+Flight Technical
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

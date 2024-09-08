@@ -1,0 +1,251 @@
+Automatic Dependent Surveillance - Broadcast (ADS-B)
+
+
+
+
+
+
+
+
+
+
+
+  Automatic Dependent Surveillance - Broadcast (ADS-B)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Air Ground Communication 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+A means by which aircraft, aerodrome vehicles and other objects can automatically transmit and/or receive data such as identification, position and additional data, as appropriate, in a broadcast mode via a data link.
+Source: ICAO Doc 4444 PANS-ATM
+Description
+ADS-B is a Surveillance technique that relies on aircraft or airport vehicles broadcasting their identity, position and other information derived from on board systems (GNSS etc.). This signal (ADS-B Out) can be captured for surveillance purposes on the ground (ADS-B Out) or on board other aircraft in order to facilitate airborne traffic situational awareness, spacing, separation and self-separation (ADS-B In)
+ADS-B is automatic because no external stimulus is required; it is dependent because it relies on on-board systems to provide surveillance information to other parties. Finally, the data is broadcast, the originating source has no knowledge of who receives the data and there is no interrogation or two-way contract.
+ADS-B is seen as a key enabler of the future ATM Network on both sides of the North Atlantic and elsewhere and will be vital to the achievement of the Single European Sky (SES) and Next Gen performance objectives, including safety, capacity, efficiency and environmental sustainability.
+The SES vision for ground Surveillance foresees, in en-route and terminal areas, the combination of ADS-B with independent Surveillance, the latter provided by Mode S and Wide Area Multilateration (WAM). It is noted that WAM system receivers generally include ADS-B functionality.
+Ground-based traffic separation aided by ADS-B depends on aircraft being equipped with ADS-B Out. Airborne self-separation requires that aircraft be equipped with ADS-B In and a means to effectively display available traffic information to the pilots.
+At airports, a locally-optimised mix of available technologies, i.e. airport Multilateration, Surface Movement Radars and ADS-B, will enable A-SMGCS systems and integrated airport operations. This could include the availability of suitable display of surveillance information on a consolidated display in the form of a moving map in flight decks and in surface vehicles.
+The introduction of ADS-B in the Surveillance infrastructure provides important features which can be exploited by the ATM Network:
+
+Full “Network-wide” Surveillance coverage
+
+Surveillance “everywhere”, i.e. no gaps from gate-to-gate
+Air-to-air Surveillance possible, i.e. traffic situational awareness picture available on board
+The aircraft is integral part of the Network
+Surveillance data provided directly from on-board systems
+
+
+High performance
+Improved safety
+Increased capacity
+Cost-efficiency
+
+Reduced cost of the Surveillance infrastructure (ADS-B is cheaper than radar)
+More efficient flight profiles (in areas where previously surveillance was not cost-effective)
+Fuel savings etc.
+
+
+Environmental sustainability (CO2 reduction)
+Reduced RF pollution (leading to an increased viability of the 1090 MHz datalink)
+Global Interoperability
+Foundation for future ATC applications (spacing, separation, self-separation)
+
+ADS-B is currently being, or already has been, implemented in North America, Europe and other areas worldwide including the Asia/Pacific region.
+Global interoperability is ensured at application level and system level. The standards for ADS-B are being jointly developed by EUROCAE and RTCA. Relevant ICAO documentation is also produced.
+The 1090 MHz Mode S Extended Squitter technology is used worldwide to ensure global interoperability. At local or regional level, other datalink technologies can be considered, e.g. the Universal Access Transceiver (UAT) system introduced in the USA.
+In Europe, Regulation 2023/1770 applies. The EU legislation requires all aircraft operating IFR/GAT in Europe to be compliant with Mode S Elementary Surveillance, whilst aircraft with maximum Take-Off Mass greater than 5700kg or maximum cruising True Air Speed greater than 250kts must be compliant with both Mode S Enhanced Surveillance and ADS-B out requirements. Special provisions (including exemptions) exist for State aircraft.
+Initial ADS-B Applications
+The ADS-B standardisation work is now completed for the initial ADS-B applications, namely all “ADS-B out” and ATSAW applications. It has delivered the Safety, Performance and Interoperability Requirements for:
+
+ADS-B in Non Radar Airspace (ADS-B NRA)
+ADS-B in Radar Airspace (ADS-B RAD)
+ADS-B for Airport Surface Surveillance (ADS-B APT)
+ATSAW In-Trail Procedure in oceanic airspace (ATSAW ITP)
+ATSAW Visual Separation in Approach (ATSAW VSA)
+ATSAW during Flight Operations (ATSAW AIRB)
+ATSAW on the Airport Surface (ATSAW SURF)
+
+In addition, the standardisation of the first spacing application has also been completed with the delivery of the Safety, Performance and Interoperability Requirements for:
+
+Flight Deck Interval Management (ASPA-FIM)
+
+Furthermore, work on the future ADS-B applications (spacing, separation and self-separation) is ongoing or planned by SESAR (Europe) and NextGen (USA). The standards of future applications will be developed also by EUROCAE/RTCA joint work.
+Aircraft Equipment
+The “ADS-B Out” capability on board is enabled by transponders interfaced with the relevant avionics systems (such as GNSS, pressure altimeters etc.). Many aircraft have ADS-B Extended Squitter capability already available packaged with the Mode S Enhanced Surveillance installations already mandated for core-European airspace.
+The “ADS-B In” capability requires a receiver, a processing system (traffic computer) and an HMI unit (often called Cockpit Display of Traffic Information - CDTI). The “ADS-B in” system could be integrated in the Forward Field of view or be in the form of the so-called Electronic Flight Bag (EFB).
+The operational use of ADS-B requires certification and operational approval by the regulatory authorities. The relevant certification documents are EASA AMC 20-24 for ADS-B in Non-Radar Airspace or CS-ACNS for “ADS-B out”.
+Ground Equipment
+The ADS-B data transmitted by the aircraft or airport vehicles are received by the ADS-B Ground stations.
+In most of the cases, the output of the ADS-B Ground stations will be sent to Surveillance Data Processing and Distribution systems where they are fused with inputs from other possible Surveillance sensors (e.g radars, Multilateration) to create a Traffic Situation Picture for the users.
+ADS-B Data
+The ADS-B data transmitted are defined in the relevant standards and certification documents (e.g. EASA AMC 20-24 for ADS-B in Non-Radar Airspace or CS-ACNS for “ADS-B out”). They include (amongst others) the following:
+
+Aircraft horizontal position (latitude/longitude)
+Aircraft barometric altitude (will be the same as for the SSR)
+Quality indicators
+Aircraft identification:
+
+Unique 24-bit aircraft address
+Aircraft identification
+Mode A code (in the case of CS ACNS for “ADS-B Out”)
+
+
+Emergency status
+SPI (special position indicator) when selected
+
+Surveillance Modernisation
+Automatic Dependent Surveillance–Broadcast (ADS-B) and Multilateration (MLAT) are key enablers for the modernisation of the surveillance systems – both infrastructure and applications.
+In Europe, EUROCONTROL’s support for surveillance modernisation focuses on performance-based modernisation and rationalisation of the European ATM Network surveillance. It covers both ground surveillance (such as ADS-B, multilateration and Mode S) as well as airborne surveillance applications. It supports short-term implementations as well as longer-term SESAR projects.
+Surveillance modernisation in Europe progresses as follows:
+In non-radar airspace: implementation of ADS-B as sole means or together with multilateration, using current certified equipment on board thousands of aircraft.
+In radar airspace: implementation of combined multilateration and ADS-B systems. Multilateration is used initially, followed by the additional use of ADS-B. For the use of ADS-B, upgraded ADS-B avionics are required, driven by the Surveillance Performance and Interoperability Regulation (SPI IR) - EU Regulation No 1207/2011 and its amendment(s).
+The European Commission Implementing Regulation (EU) No 1207/2011 and its first amendment 1028/2014, is a mandate for Surveillance Performance and Interoperability in the European airspace.
+The regulation lays down the mandatory carriage and operation of Mode S Elementary Surveillance (ELS) for aircraft operating IFR/GAT (Instrument Flight Rules/General Air Traffic). The applicability dates are set for June 2020.
+The regulation also mandates the carriage and operation of Mode S Enhanced Surveillance (EHS) and ADS-B 1090 MHz Extended Squitter for aircraft operating IFR/GAT and with a maximum certified take-off mass exceeding 5700kg or with a maximum cruising true airspeed capability greater than 250 knots. The applicability dates are set for by June 2020.
+Surveillance moves quickly from sole use of radars to multiple types of sensors. Dozens of multilateration systems and over 1300 ADS-B ground stations have been implemented in more than 25 European States. The European States which are involved in the implementation of ADS-B and/or multilateration include Armenia, Austria, Azerbaijan, Bulgaria, Czech Republic, Cyprus, Denmark, Estonia, Finland, France, Germany, Georgia, Greece, Iceland, Ireland, Italy, Latvia, Netherlands, Norway, Poland, Portugal, Romania, Slovak Republic, Spain, Sweden, Turkey, UK, Ukraine. Most of the implementing States are currently using the multilateration data for operational ATS. In parallel, some European States have started using ADS-B for operational ATS, namely Iceland, Portugal, Norway and UK.
+ADS-B ground receivers are currently used but, from 2019 onwards, space-based ADS-B should also be available for operational use.
+Several thousands of aircraft are already certified for ADS-B operations in Non-Radar Airspace. Furthermore, more than 2500 aircraft are observed (in May 2018) to be equipped with upgraded ADS-B Out avionics, in line with the SPI Implementing Rule. Avionics implementation based on the SPI Implementing Rule covers both Mode S and ADS-B Extended Squitter. This will make the airborne installations “future proof”, i.e. supporting all surveillance techniques currently in use or planned to be used. The ADS-B avionics requirements include transponder upgrade to ADS-B v2 (ED102A/DO260B) and low latency GNSS receiver-transponder wiring.
+Regarding Airborne Surveillance (i.e. Surveillance in the cockpit), initial applications (Airborne Traffic Situation Awareness – ATSAW) have been operational in Europe since February 2012. Since that date, thousands of operational flights have been carried out. This is based on voluntary implementation. Airborne surveillance implementation is expected to grow further, driven by the increasing availability of ADS-B equipped traffic and additional Airborne Surveillance applications delivering benefits to the airspace users.
+The integration and rationalisation of Surveillance systems is ongoing, driven by ADS-B. Two good examples of this are ACAS Hybrid Surveillance on the airborne side and combined ADS-B and multilateration systems on the ground. Surveillance modernisation, including implementation of ADS-B and/or multilateration is happening not only in Europe, but also in all other continents across the world.
+Australia and Canada provide operational ATS based on ADS-B already since 2009. In Australia, ADS-B is required for all IFR operations. ADS-B implementation in Canada is based on operational benefits for ADS-B equipped traffic (for example providing ADS-B based ATS over Hudson Bay, Greenland and airspace above the Atlantic Ocean). Canada considers publishing an ADS-B mandate.
+USA has published an ADS-B Rule, with applicability from 1 Jan 2020, which requires ADS B Out equipage in dedicated airspace (similar to where a transponder is currently required). More than 630 Ground stations have been deployed.
+ADS-B and/or multilateration implementation related work is also being undertaken in all continents worldwide, including:
+
+Africa (Congo, Ethiopia, Guinea, Sierra Leone, Liberia, Namibia, South Africa)
+South and Central America (Brazil, Peru, Trinidad and Tobago)
+Asia (Afghanistan, China, Hong Kong, Fiji, India, Indonesia, Japan, Kuwait, Kyrgyzstan, Malaysia, Philippines, Qatar, Saudi Arabia, Singapore, Taiwan, Tajikistan, Thailand, UAE, Vietnam)
+Oceania (New Zealand)
+
+Further Reading
+
+Safety Performance and Interoperability Requirements for ADS-B in Non Radar Airspace (ADS-B NRA), EUROCAE ED-126 / RTCA DO-303, 2006
+Safety Performance and Interoperability Requirements for ADS-B in Radar Airspace (ADS-B RAD), EUROCAE ED-161 / RTCA DO-318, 2009
+Safety Performance and Interoperability Requirements for ADS-B for Airport Surface Surveillance (ADS-B APT), EUROCAE ED-163 / DO-321, 2010
+Safety Performance and Interoperability Requirements for ATSAW In-Trail procedure in oceanic airspace (ATSAW ITP), EUROCAE ED-159 / RTCA DO-312, 2008
+Safety Performance and Interoperability Requirements for ATSAW Visual Separation in Approach (ATSAW VSA), EUROCAE ED-160 / RTCA DO-314, 2008
+Safety Performance and Interoperability Requirements for ATSAW during flight operations (ATSAW AIRB), EUROCAE ED-164 / DO-319, 2010
+Safety Performance and Interoperability Requirements for ATSAW on the Airport Surface (ATSAW SURF), EUROCAE ED-165 / RTCA DO-322, 2010
+Safety Performance and Interoperability Requirements for Flight Deck Interval Management (ASPA-FIM), EUROCAE ED-195, 2011
+Acceptable Means of Compliance for ADS-B NRA (AMC 20-24), EASA, 2008
+Technical Specification for the ADS-B Ground Station, ED-129, EUROCAE, 2010
+Implementing Rule on Surveillance Performance and Interoperability Requirements (SPI-IR), 2011
+Minimum Operational Performance Standards for 1090 MHz ADS-B and TIS-B, EUROCAE ED-102A / RTCA DO260B, 2009
+ICAO Doc 9871 ‘Technical Provisions for Mode S Services and Extended Squitter’ First Edition 2008
+Global Operational Data Link Document (GOLD): 2nd edition, 26 April 2013; ICAO
+Guidance Material for Mode S-Specific Protocol Application Avionics by R.D. Grappel and R.T. Wiken, MIT Lincoln Laboratory for the USAF, 2007
+ICAO 2015 Annual Safety Report: NAT Region, 2016
+ADS-B Implementation across Europe
+ADS-B and ADS-C Communication in the Light of Digitalisation presentation by O.T.Pleter and C.Constantinescu, September 2018
+
+
+
+
+
+Categories
+
+
+Air Ground Communication,
+              Loss of Separation,
+              General Aviation
+
+
+
+
+
+
+
+
+
+Related Articles
+
+Automatic Dependent Surveillance (ADS)
+Automatic Dependent Surveillance — Contract (ADS-C)
+Single European Sky (SES)
+SESAR
+Global Navigation Satellite System (GNSS)
+Wide Area Multilateration (WAM)
+Mode S
+Advanced Surface Movement Guidance and Control System (A-SMGCS)
+En-route Tracking of Aircraft
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

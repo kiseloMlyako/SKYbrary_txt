@@ -1,0 +1,150 @@
+Airspace Management (ASM)
+
+
+
+
+
+
+
+
+
+
+
+  Airspace Management (ASM)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+A planning function with the primary objective of maximising the utilisation of available airspace by dynamic time-sharing and, at times, the segregation of airspace among various categories of airspace users on the basis of short-term needs.
+Source: Regulation 549/2004
+The process by which airspace options are selected and applied to meet the needs of the ATM community. 
+Source: ICAO Doc 9854: Global ATM Operational Concept
+Description
+The objective of ASM is to achieve the most efficient use of the airspace based on actual needs and, where possible, to avoid permanent airspace segregation while optimizing the network performance. Competing interests for the use of airspace make the process highly complex. When it is necessary to segregate different types of traffic by airspace organization (e.g. aircraft conducting military exercises), the size and shape of the areas and the time regulation are made in such a way as to minimize the impact on operations. To this end, airspace reservations are normally planned in advance with changes made dynamically whenever possible.
+In Europe, ASM is based on the implementation of the flexible use of airspace (FUA) concept and is hierarchically organized into three levels:
+
+Strategic (ASM Level 1) - National and International Airspace Policy
+Pre-tactical (ASM Level 2) - Day-to-Day Allocation of Airspace
+Tactical (ASM Level 3) - Real Time Use of Airspace
+
+Strategic Level
+The strategic level of ASM involves high-level planning activities. For these purposes, a High-Level Airspace Policy Body (HLAPB) is established tasked with:
+
+Formulation and review of the national ASM policy
+Periodical assessment of the national airspace and route network
+Establishment of flexible airspace structures (e.g. SUAs), including performing of relevant safety assessment and periodic reviews
+Coordination of major events such as large scale military exercises that require additional segregated airspace 
+Establishment and review of the procedures for airspace allocation (level 2) and tactical management (level 3)
+
+The HLAPB is normally a joint civil-military body with high level of representation from the military (ministry of defence) and civil (ministry of transport) entities.
+Pre-tactical Level
+The pre-tactical level of ASM involves activities for day-to-day airspace allocation to optimally accommodate the requests of the various airspace users. This is normally done by a joint civil/military airspace management cell (AMC). The degree of discretion and authority of the AMC is determined by the HLAPB at strategic level. 
+The AMC collects the requests for airspace reservation, processes them in accordance with established procedures and priorities and produces the airspace use plan (AUP). 
+The scope of the pre-tactical level is normally from D-6 (i.e. six days before the activities) until D-1 (when the AUP is promulgated). During the period from D-6 to D-2, the available information about the airspace plan is published in the draft AUP. This facilitates coordination in case of conflicting requests so that appropriate solutions could be found in advance.
+After the AUP is promulgated on D-1, modification of the airspace allocation might be necessary due to e.g. cancellations or new requests. In this case, an updated AUP (UUP) is created and promulgated within the period of validity of the AUP.
+Tactical Level
+The tactical level includes activities related to the implementation of the AUP/UUP, such as activation and deactivation of SUAs, reallocation of airspace, resolution of specific airspace problems and situations between civil ATS units and military controlling units. Examples of such situations include OAT flights crossing ATS routes, GAT flights crossing TRAs, deactivation of danger areas due to aircraft in distress needing to pass through that airspace, etc.
+Airspace users, which previously requested airspace, advise the AMC about changed in their planning (e.g. activity completed earlier than planned, cancelled or reduced in time or volume) so that the airspace can be available for additional period(s) than the planned.
+The tactical level of ASM relies on the use of real-time data, including flight data (flight plans, estimates, etc.) as well as controller intentions and plans. System support tools are often available, e.g. electronic coodination features, OLDI messages (e.g. XRQ - crossing request), etc.
+Related Articles
+
+Air Traffic Management (ATM)
+Flexible Use of Airspace
+Special Use Airspace (SUA)
+Civil-Military Interaction in ATM
+
+Further Reading
+
+ASM Handbook for the Application of the Concept of the FUA, EUROCONTROL
+
+
+
+
+
+Categories
+
+
+General,
+              Airspace Infringement
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

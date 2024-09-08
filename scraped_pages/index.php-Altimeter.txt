@@ -1,0 +1,165 @@
+Altimeter
+
+
+
+
+
+
+
+
+
+
+
+  Altimeter
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Flight Technical 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ RMetS
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Two types of altimeter are in common use in aircraft:
+
+Barometric Altimeter; and,
+Radio Altimeter.
+
+This article describes the barometric altimeter.
+Description
+A barometric altimeter consists of a barometric capsule linked to a pointer by a suitable mechanical or electronic system. The pointer moves across the dial in response to changes in barometric pressure. The dial is calibrated in feet, or (less commonly) in metres.
+Barometric altimeters are provided with a pressure setting control and sub-scale (Kollsman window) so that the altimeter may be calibrated according to the appropriate pressure setting to indicate flight level, altitude above mean sea level, or altitude above ground level.
+The altimeter provides an output to the transponder system to enable the transmission of the flight level or altitude to the air traffic control.
+Types of Barometric Altimeter
+Barometric altimeter displays may be of two main types:
+
+Conventional analogue display;
+Electronic display.
+
+The main types of conventional altimeter which have been used in aircraft are:
+
+Three-pointer altimeter;
+Drum-pointer altimeter;
+Counter-pointer altimeter; and,
+Counter drum-pointer altimeter.
+
+The three-pointer altimeter and the counter drum-pointer altimeter are illustrated below.
+ 
+It has been found that the displays of three-pointer altimeters, drum-pointer altimeters and counter-pointer altimeters are capable of being mis-read and several accidents have been attributed to this cause. Accordingly, counter drum-pointer altimeters are the the only type currently approved for use in commercial aircraft. In modern aircraft, conventional instruments are used mostly as standby instruments.
+Modern aircraft are usually equipped with composite Electronic Flight Instrument System displays which combine the functions of several conventional instruments into one. Presentations vary according to the manufacturer's design philosophy. The illustration below shows a typical EFIS display in which the altitude is depicted on a vertical tape to the right of the attitude indicator. In the illustration, the altitude is 5100 ft. The altimeter pressure setting (29.92 in Hz) is depicted in green below the altitude tape.
+
+Regulation
+Day VFR Operations (IR-OPS CAT.IDE.A.125 and Acceptable Means of Compliance and Guidance Material to IR-OPS CAT.IDE.A.125. EU-OPS 1.650)
+An operator shall not operate an aeroplane by day in accordance with VFR (VFR) unless it is equipped with ...
+...
+(c) A sensitive pressure altimeter calibrated in feet with a sub-scale setting, calibrated in hectopascals/millibars, adjustable for any barometric pressure likely to be set during flight;
+...
+(k) Whenever two pilots are required the second pilot’s station shall have separate instruments as follows: ...
+(1) A sensitive pressure altimeter calibrated in feet with a sub-scale setting calibrated in hectopascals/millibars, adjustable for any barometric pressure likely to be set during flight;
+...
+IFR or Night Operations (IR-OPS CAT.IDE.A.130 and Acceptable Means of Compliance and Guidance Material to IR-OPS CAT.IDE.A.130. EU-OPS 1.652)
+An operator shall not operate an aeroplane in accordance with IFR (IFR) or by night in accordance with Visual Flight Rules (VFR) unless it is equipped with ...
+...
+(c) Two sensitive pressure altimeters calibrated in feet with sub-scale settings, calibrated in hectopascals/millibars, adjustable for any barometric pressure likely to be set during flight. These altimeters must have counter drum-pointer or equivalent presentation.
+...
+(k) Whenever two pilots are required the second pilot’s station shall have separate instruments as follows:
+(1) A sensitive pressure altimeter calibrated in feet with a sub-scale setting, calibrated in hectopascals/millibars, adjustable for any barometric pressure likely to be set during flight and which may be one of the 2 altimeters required by sub-paragraph (c) above. These altimeters must have counter drum-pointer or equivalent presentation.
+...
+Related Articles
+
+Pitot Static System
+Altimetry System Error
+
+Further Reading
+
+IR-OPS CAT.IDE.A.125 & 130
+Acceptable Means of Compliance and Guidance Material to IR-OPS CAT.IDE.A.125 & 130.
+EU-OPS 1.650 and EU-OPS 1.652
+JAR TGL-28
+
+
+
+
+
+Categories
+
+
+Flight Technical,
+              General Aviation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

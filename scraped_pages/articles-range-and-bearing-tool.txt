@@ -1,0 +1,215 @@
+Range and Bearing Tool
+
+
+
+
+
+
+
+
+
+
+
+  Range and Bearing Tool
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+The range and bearing tool is a line that connects two points on the situation display and provides information about the distance and the bearing between them. it is incorporated in all modern ATS systems because it is versatile, reliable and easy to learn/work with. It may be called differently depending on the particular system (e.g. RBLINE, R&B line, QDM, etc.) but works more or less in the same way. The controller activates the feature manually by pointing to the points of interest which may be a point on the screen, a waypoint or navaid or an aircraft track. As a minimum, the system calculates the distance and the bearing between the two objects (and displays it as a small label near the line), but often other data is available, e.g.:
+
+the opposite bearing (i.e. the bearing of the first object with respect to the second one)
+a time estimate, if at least one of the objects is moving (i.e. an aircraft)
+
+The tool often incorporates a "snap" feature so that objects, such as aircraft tracks, waypoints or navaids are captured easily. This means that a click "in the vicinity" of an object is considered as made exactly on that object. It should be noted though, that although in most cases this feature is very helpful, it sometimes prevents the controller from placing one of the line ends where they desire.
+Some ATS system features use automated range and bearing lines. For example, when an STCA warning is activated, this may be complemented with a line, connecting the two conflicting tracks and showing the current distance between them.
+Uses
+The range and bearing tool has a variety of practical applications, including:
+
+Measuring distances between points on the screen (e.g. waypoints, navaids, obstacles, towns, specific points of SUAs, airways, trajectories, etc.).
+
+
+
+ 
+
+CopyrightSKYbrary
+
+
+
+
+Measuring the distance between an aircraft and a point, e.g. to calculate an estimate
+
+
+
+ 
+
+CopyrightSKYbrary
+
+
+
+
+Measuring the distances between two aircraft and the point where their trajectories intersect. This information may then be used for conflict detection
+
+
+
+ 
+
+CopyrightSKYbrary
+
+
+
+
+Measuring the distance between the ends of two aircraft speed vectors, e.g. at the CPA to determine whether horizontal separation will be ensured
+
+
+
+ 
+
+CopyrightSKYbrary
+
+
+
+Limitations
+Range and bearing lines are manual tools and thus the result heavily depends on the controller's proficiency with them. The following list contains some examples where the numbers presented may be misleading:
+
+when measuring the distance between the tips of the speed vectors, the snap feature is normally not available. Therefore, imperfect clicking may lead to a false perception of the expected separation. Even a few pixels on the screen may equal a full nautical mile, depending on the range being used.
+
+
+
+ 
+
+CopyrightSKYbrary
+
+
+
+
+correctly judging where the CPA is requires some experience
+
+
+
+ 
+
+CopyrightSKYbrary
+
+
+
+
+the aircraft track may not coincide with the direction of the range and bearing line when a turn is expected before the trajectory intersection point.
+
+
+
+ 
+
+CopyrightSKYbrary
+
+
+
+
+in order to reduce screen clutter with unnecessary information, the time displayed is often calculated to a minute. In almost all cases this means that some rounding is done. Consequently, a time difference of one minute between two aircraft flying to the same waypoint may mean anything between 4 and 10 miles for a common 420-450 kt groundspeed scenario (these groundspeeds correspond to 7-7.5 NM per minute, i.e. a difference of 3.6-3.8 NM (a little more than half a minute) will be rounded up to 1 minute and a difference of 10 NM (a little less than 90 seconds) will also be rounded to 1 minute). It is therefore advisable to either cross-check this reading with another method/tool (e.g. TCT, manual speed/distance calculation, etc.) or to assume the worst-case scenario.
+
+
+
+ 
+
+CopyrightSKYbrary
+
+
+
+Related Articles
+
+Tactical Controller Tool (TCT)
+Conflict Detection
+Conflict Solving
+Basic Controller Techniques: Vectoring
+Vectoring Geometry
+
+
+
+
+
+Categories
+
+
+General,
+              Loss of Separation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

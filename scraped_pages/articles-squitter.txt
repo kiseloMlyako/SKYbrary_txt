@@ -1,0 +1,119 @@
+Squitter
+
+
+
+
+
+
+
+
+
+
+
+  Squitter
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+The term "squitter" refers to a random broadcast of data occurring either intentionally or in response to noise.
+Description
+Mode-S transponders automatically send periodic burst transmissions called "squitters". These transmissions are self generated and are not in response to interrogations from a secondary surveillance radar (SSR) system. The information sent in these burst transmission serves several purposes including:
+
+Airborne Collision Avoidance System (ACAS) - Squitter information includes aircraft location and vertical speed. This information is used by ACAS systems on other aircraft to identify potential conflicts.
+Automatic Dependent Surveillance Broadcast (ADS-B) - An extended squitter is a message or series of messages which broadcast an aircraft's identification, GPS position, projected aircraft trajectory and navigation system status to allow controllers to accurately track the aircraft.
+
+Related Articles
+
+Mode S
+Automatic Dependent Surveillance Broadcast (ADS-B)
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

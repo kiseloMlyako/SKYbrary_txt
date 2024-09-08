@@ -1,0 +1,179 @@
+Performance Based Communication and Surveillance (PBCS)
+
+
+
+
+
+
+
+
+
+
+
+  Performance Based Communication and Surveillance (PBCS)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Performance Based Communications and Surveillance (PBCS) is the combination of the criteria of Performance Based Communication (PBC) and Performance Based Surveillance (PBS). These terms refer to communication and surveillance based on performance specifications applied to the provision of air traffic services.
+The North Atlantic (NAT) airspace has become a capacity bottleneck and traffic continues to increase. New technologies and procedures including Performance Based Communication and Surveillance (PBCS) are being implemented in order to reduce the minimum lateral and longitudinal separation between aircraft, thus increasing NAT airspace capacity. The provision of PBCS in the NAT High Level Airspace (HLA) applies RCP 240 and RSP 180 specifications to the application of 55.5 km (30 nm), 93km (50 nm) and 5 minute longitudinal separation minima and the application of a 42.6 km (23 nm) lateral separation minimum.
+Implementation
+To ensure the continuing safety and efficiency of ATM operations in the NAT HLA, performance based operations and monitoring protocols have been implemented. The Reduce Lateral Separation and Reduced Longitudinal Separation trials have been suspended and replaced by Performance Based Communications and Surveillance (PCBS) criteria . The performance of FANS 1/A (and equivalent), Controller Pilot Data Link Communications (CPDLC) and Automatic Dependent Surveillance - Contract (ADS-C) are monitored in the NAT HLA against the Required Communications Performance (RCP) 240 and Required Surveillance Performance (RSP) 180 specifications.
+As of March 2018 flights have been required to indicate compliance with the RCP 240 and RSP 180 specifications in order to qualify for reduced lateral and/or longitudinal separation minima. This program currently applies only to the reduced separation tracks at the centre of the Organised Track System (OTS) but will be extended to the whole of the NAT HLA in due course. In the future, it is expected that RCP and RSP compliance will also be required in other airspace.
+RCP 240 and RSP 180
+The provision of PBCS in the NAT HLA applies RCP 240 and RSP 180 specifications.
+An RCP specification includes the communication performance requirements that are allocated to system components in terms of the communications to be provided as needed for the proposed operation in the context of a particular airspace concept. . These requirements include:
+
+the associated transaction time (maximum time for a transmission/response)
+continuity (percent probability that the transaction time will be met)
+availability (percent probability that the communication can be initiated)
+integrity (acceptable failure rate/flight hour)
+
+The RCP 240 specification requires:
+
+maximum transaction time - 240 seconds
+continuity - 99.9%
+availability - 99.99%
+integrity - 10-5
+
+Likewise, an RSP specification includes surveillance performance requirements that are allocated to system components in terms of the surveillance to be provided. These requirements include
+
+maximum data delivery time - 180 sec
+continuity -99%
+availability - -99.99%
+integrity - 10-5
+
+Aircraft and Operator Requirements
+The specific requirements for obtaining National Aviation Authority (NAA) for operations in PBCS airspace varies from regulator to regulator. In general terms, the following criteria are applicable.
+Aircraft
+
+The RCP 240 and RSP 180 Special Authorization is specific to each individual airframe.
+The aircraft manufacturer or supplier must:
+
+demonstrate that aircraft system meets the RCP 240 and RSP 180 allocations as per ICAO’s Performance-based Communications and Surveillance Manual (Doc 9869)
+demonstrate that the aircraft meets the RCP 240 and RSP 180 time, continuity, availability and integrity criteria and associated safety requirements
+demonstrate that the aircraft system provides the flight crew with alerts in case of aircraft system or connectivity failures that would cause the aircraft to no longer be capable of meeting the RCP 240 and RSP 180 specification
+identify any specific items related to PBCS capability in the master minimum equipment list (MMEL)
+identify the demonstrated PBCS capability of the aircraft, any associated operating limitations, information and procedures, in the flight manual
+
+
+
+Operator
+
+The operator shall ensure that flight crews and other personnel are trained and qualified in PBCS operations. The training must include both normal operations and the operations and procedures associated with any alerts provided by the aircraft system to indicate failures
+The operator shall ensure that:
+
+the aircraft system has been approved for the intended use in accordance with the RCP 240 and RSP 180 specifications
+the aircraft system is properly maintained
+
+
+
+Related Articles
+
+North Atlantic Operations - Airspace
+North Atlantic Operations - Organised Track System
+Reduced Lateral Separation Minimum (RLatSM)
+
+Further Reading
+ICAO
+
+Performance-based Communications and Surveillance Manual (Doc 9869)
+
+UK CAA
+
+Aeronautical Information Circular Y 011/2018 - Introduction of Performance Based Communication and Surveillance (PBCS) in the ICAO North Atlantic Region
+
+Transport Canada
+
+Advisory Circular 700-41 Performance-Based Communication and Surveillance (PBCS)
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

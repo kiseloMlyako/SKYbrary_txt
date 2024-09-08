@@ -1,0 +1,157 @@
+Altimeter Pressure Settings
+
+
+
+
+
+
+
+
+
+
+
+  Altimeter Pressure Settings
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+QNH
+QFE
+Description
+Aircraft pressure altimeters indicate the elevation of the aircraft above a defined datum. The datum selected depends on the barometric pressure set on the altimeter sub-scale. Sound altimeter setting procedures are an essential tool in ensuring safe separation from the ground and from other aircraft.
+The SI or metric unit of measurement for barometric pressure is the hectopascal (hPa) and this is adopted in respect of altimeter pressure settings in ICAO Annex 5. Variations from the standard shown in the Supplement to ICAO Annex 5 include:
+
+Millibar (mb), (1mb = 1 hPa);
+Inches of mercury (inHg) (in particular North America);
+Millimetres of mercury (CIS and some other south-east European States).
+
+Three references for barometric pressure are in common usage: QNH, QFE and Standard Pressure.
+QNH - The pressure set on the subscale of the altimeter so that the instrument indicates its height above sea level. The altimeter will read runway elevation when the aircraft is on the runway.
+Airfield QNH is obtained by correcting a measured QFE to sea level using ISA regardless of the temperature structure of the atmosphere. As your altimeter is calibrated using ISA, it will indicate altitude correctly at the airfield reference point. At other altitudes, the indicated altitude is likely to be in error, depending on the temperature of the atmosphere.
+
+Figure 1. Altimeter pressure settings
+QFE - The pressure set on the subscale of the altimeter so that the instrument indicates its height above the reference elevation being used.
+In the PANS-OPS Doc 8400, see Q-Codes, QFE is referred to as “Atmospheric pressure at aerodrome elevation (or at runway threshold)”
+QFE is the isobaric surface pressure at the reference point. At other altitudes the altimeter will give an indication of the height above that reference point. With the aerodrome QFE set in the subscale, your altimeter will read zero on the highest point on the runway and at other altitudes will read the height above the airfield elevation. For precision approach runways or for instrument runways when the threshold is 7 ft or more below aerodrome elevation, the QFE may be based on the threshold elevation [ICAO Doc 4444, 4.10.1.2]. With the runway threshold QFE set in the subscale, your altimeter will read zero on the runway threshold.
+With Standard Pressure (1013.2 mb) set, an aircraft altimeter indicates Pressure Altitude (Flight Level), and is used by all aircraft operating above the transition altitude to provide a common datum for vertical measurement. The Standard Pressure is equivalent to the air pressure at mean sea level (MSL) in the International Standard Atmosphere (ISA) (ISA).
+Effects of Temperature on Altimeter Readings
+Pressure to height conversions in altimetry are based on ISA. Independent of temperature, the conversion is 27 ft/hPa in the lower atmosphere (near ground), or 27 ft between each hPa of isobaric surfaces. In non-ISA conditions, altimeter readout may be significantly different than the true altitude of said altimeter. Since cold air is denser than warm air, isobaric surfaces are vertically more constrained towards the ground. Whilst the altimeter measures 27 ft/hPa, true altitude will use a lower ratio, and the altimeter overestimates altitude in colder-than-ISA air. In warm air, however, due to the increased separation between isobaric surfaces greater than 27 ft/hPa, the altimeter will underestimate the altitude.
+It is for flight in colder-than-ISA that particular attention must be paid to true altitude. The altimeter readout, being an overestimate of the actual altitude, may lead crews to think they are higher than they actually are, and can lead to serious incidents if not accidents. Since all altimeters are based on ISA, notwithstanding instrument error, altitude readouts between aircraft will be similar. Therefore with the notable exceptions of flight in mountainous terrain or at low altitudes near the ground, aircraft will fly consistent altitudes regardless of taking into account true altitude.
+See also the article Altimeter Temperature Error Correction
+Definitions
+
+QNH. The altimeter sub-scale setting to obtain elevation when on the ground.
+QFE. The atmospheric pressure at aerodrome elevation (or at runway threshold).
+
+(ICAO, e.g. Doc 4444: PANS-ATM and Doc 8168: PANS-OPS)
+Related Articles
+
+Altimeter Setting Procedures
+International Standard Atmosphere (ISA)
+
+Further Reading
+ICAO:
+
+Annex 5: Units of Measurement;
+Annex 3: Meteorological services;
+Doc 4444: PANS-ATM;
+Doc 8168: PANS-OPS.
+EUR OPS Bulletin 2023_001: Risks related to altimeter setting errors during APV Baro-VNAV and non-precision approach operations, 27 July 2023
+
+EASA
+
+SIB 2023-03: Incorrect Barometric Altimeter Setting
+
+Flight Safety Foundation ALAR Toolkit
+
+Briefing Note 3.1 Approach Hazards Overview
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

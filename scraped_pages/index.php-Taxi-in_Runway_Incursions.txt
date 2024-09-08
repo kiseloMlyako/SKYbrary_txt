@@ -1,0 +1,165 @@
+Taxi-in Runway Incursions
+
+
+
+
+
+
+
+
+
+
+
+  Taxi-in Runway Incursions
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Runway Incursion 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+A taxi-in runway incursion is one where an aircraft which has just landed and which subsequently enters any active runway en route to parking, whether contrary to or in accordance with ATC clearance. Maximum danger comes when two aircraft are present on the same active runway at the same time, despite any late awareness of this circumstance on the part of either the controller(s) or pilots involved.
+Discussion
+An incursion of this type may occur in any ground visibility, by day or by night. It may be a consequence of error by either an aircraft crew failing to follow their acknowledged taxi-in clearance, a failure by ATC to communicate a correct or timely taxi-in clearance or a misunderstanding in respect of the transmission or interpretation of a taxi-in clearance. In general, this type of incursion is almost always caused by a failure of either a controller or a flight crew to respectively issue or comply with a valid taxi-in clearance.
+Increasing attention has been given over the last 20 years to the development of alerting systems which can prevent an incursion which is about to happen or at least prevent it leading to a collision. Alerting systems which provide warnings directly to pilots have proved more effective than those which alert controllers who then have to respond rapidly with effective mitigation. Not only is there an inevitable delay, but there is a risk that an automatic (i.e. routine) instruction to an aircraft to stop may not necessarily be appropriate if that aircraft is already crossing ahead of an aircraft approaching at speed.
+Whilst a post landing incursion can happen at any aerodrome - some incursions involve an aircraft inadvertently re-entering a runway which they have just landed on – a runway layout that requires aircraft to cross another active runway en route to their parking position has an inherently higher risk than one without this requirement. Layouts with parallel runways and / or intersecting runways increase the probability of both ATC issuing conflicting clearances and, occurrence of incursions as a consequence of flight crew errors. However, this will depend on the runway configurations used and the taxi routes from the runways to the parking areas.
+It is important to review the probability of a occurrence of taxi-in incursions based on absolute number rather than using the movement-based rate. It is equally important to do this against a hypothetical baseline in which the only threat is an aircraft becoming lost after deviating from an accepted clearance given at an aerodrome which has a layout that inherently reduces both the probability of an incursion and its potential consequences. The latter is very much related to the point on a runway at which an incursion might occur relative to its length and the type of aircraft using that runway.
+System Defences
+
+Implementing Optimum Airport Design. One of the best risk mitigations applicable to taxi-in incursions is a taxiway system which negates the need for any runway crossings at multiple runway aerodromes by avoiding intersecting runways and by provision of perimeter taxiways at or around the ends of runways. Such a design is found at the five-runway US international airport at Houston, the four runway German international airport at Frankfurt and (with one minor exception) at the five runway US international airport at Atlanta. Another appropriate design component for this type of incursion as well as generally is to ensure that all runway entry points are at 90° angles to the runway.
+Identifying Hot Spots with specific reference to designated taxi-in routes. One of the primary tasks of a Local Runway Safety Teams (LRST) is the identification of Hot Spots and ensuring their effective depiction, via the AIP, on proprietary aerodrome taxi charts.
+All taxi-in routes should be identified in the context of runway use and any points where there is a high probability of an incursion occurring which would have severe consequences and could occur without much prior warning should be identified. The ultimate response or mitigation measure to the alerting action provided by hot spot designation is a detailed redesign of the taxiway/runway system at its immediate location. This is frequently a reactive measure taken as a consequence of a significant runway incursion but should be implemented pro-actively with LRST support. If the crossing of potentially active runways is unavoidable, then taxi-in routes should be as near to the beginning of runways being used for take off as possible and in all cases should ideally cross runways at a 90° angle, and should avoid runway entry for crossing purposes at obtuse angles to the direction of runway in use.
+Installation of appropriate signage, markings and lighting for all designated taxi-in routes. It should be possible to define taxi-in routes which avoid hot spots without unduly restricting operational flexibility.
+Installation of controllable lit stop bars at all entrances to every potentially active runway and their operation during all airport opening hours and in all visibility conditions.
+Installation of systems which provide conflict alerting to controllers such as A-SMGCS at levels 1 and 2 and the FAA ASDE-X system. These alerts must be able to be generated sufficiently far in advance of an incursion to provide a controller with enough time to intervene - which has frequently not been the case in the past. Many of these systems, just as has occurred with Safety Nets which alert controllers to airborne conflicts, have experienced considerable difficulty in balancing nuisance alert generation against activation criteria which ensure sufficient time for an effective response.
+Installation of systems which provide conflict awareness direct to pilots such as the planned A-SMGCS Levels 3 and 4 and the currently deployed FAA Runway Status Lights (RWSL) and FAROS systems.
+Recognition of the value of fitting RAAS to aircraft in the case where an incursion occurs against an aircraft about to land because the alert which the system provides is communicated directly to the pilot.
+
+Operational Defences
+
+ATC - If prevailing visibility from the TWR and controller workload permits, which may be the case at small aerodromes, then visual monitoring may provide early indications that an inbound aircraft has deviated from its clearance. This method is often less successful if the source of the incursion is two incompatible instructions issued by ATC, especially if these have been issued by the same person. Such an error is a common cause of incursions by aircraft taxiing in. If an incursion appears to be imminent or has occurred where positive visual reference is not available from the VCR because of a permanent restriction to the line of sight, low visibility or darkness, then extreme caution should be exercised until the location of all aircraft has been reliably determined. It cannot be assumed that the flight crew of an aircraft which is uncertain of its position will be able to reliably communicate their actual position.
+Flight Crew - Pre briefing the aerodrome layout is extremely important, as is ensuring the PM understands the critical importance of verifying ground position throughout the taxi-in. Monitoring the radio frequency which is being worked and, subject to common language use, building up a mental picture of other aircraft in the vicinity of ones own is always good practice. However, this must be seen as a secondary task and navigating in accordance with the received and acknowledged taxi-in clearances must take priority, especially in low visibility.
+
+Accident and Incident Examples
+All of the following are Serious Incidents rather than Accidents. Whilst not necessarily a representative sample, they have not been selected with any intended bias in respect of causal or contributory factors and show that this type of incursion arises from a wide range of circumstances.
+
+Chicago O'Hare IL USA 1999. A Boeing 747-200 failed to follow its acknowledged clearance after a night landing in normal ground visibility and re-entered the same runway just as a departing Boeing 747-400 was reaching rotation speed. The departing aircraft made an abrupt rotation and immediately banked in order to miss the other 747.
+Providence RI USA 1999. A Boeing 757-200 failed to follow its acknowledged clearance in thick fog at night and re-entered the landing runway shortly before a Boeing 727 got airborne in the same vicinity. The controller then gave a Boeing 737-200 repeated take off clearance on same runway before reliably establishing the actual position of the 757. The 737 refused to take off until the 757 had reached the gate. The airport had no surface movement radar.
+Dallas-Fort Worth TX USA 2001. A Boeing 737-500 entered and crossed an active runway parallel to that which it had just landed ahead of a departing Boeing 737-300. Both aircraft had acknowledged corresponding clearances from the same controller. Upon seeing the departing aircraft approaching, the pilot of the taxiing aircraft increased thrust to attempt to clear the runway. Upon seeing the other aircraft beginning to cross in front, the departing aircraft pilot over rotated abruptly in order to achieve safe clearance but at the expense of a tail strike and subsequently returned to land. None of the controllers present in the VCR reported seeing the incident.
+Manchester UK 2004. A Boeing 737-200 crossed an active runway in normal daylight visibility ahead of a departing Airbus A321, the crew of which made a high speed rejected take off upon sighting the other aircraft when they heard its crossing clearance being confirmed. Both aircraft had been operating in accordance with their acknowledged ATC clearances issued by the same controller. An alert was generated by the conflict detection system but it was visual only and was not noticed.
+Frankfurt Germany 2006. A Boeing 747-200 failed to stop at its acknowledged clearance limit at night in normal visibility and crossed in front of a landing Airbus A320 which on sighting the other aircraft was able to increase deceleration sufficiently to avoid a collision. The crossing aircraft had read back its clearance incorrectly but this had not been noticed by the controller.
+Glasgow UK 2006. A De Havilland Canada DHC-6 entered an active runway on which an Embraer 145 was about to land in normal daylight visibility contrary to its acknowledged clearance limit but upon seeing the other aircraft the crew powered back to the cleared holding point. The Runway Incursion Monitoring system had been incorrectly configured by ATC and so did not provide a useful alert.
+New Chitose Japan 2007. A Boeing 777-200 crossed an active runway on which a Boeing 767-300 had begun a take off in normal night visibility. Upon sighting the crossing traffic, the departing aircraft carried out a rejected take off. Both aircraft had been operating in accordance with their acknowledged ATC clearances issued by the same controller. None of the controllers present in the VCR reported seeing the incident.
+Los Angles CA USA 2007. A Boeing 737-700 began to cross a runway in normal daylight visibility from which an Airbus A320 was taking off because the crew had received a clearance to do after an ambiguous position report following a non-instructed frequency change. When the other aircraft was seen, the aircraft was stopped and the departing A320 passed close by. The AMASS activated, but with insufficient time to enable a useful controller response.
+Seattle-Tacoma WA USA 2008. A Boeing 737-700 failed to stop at its acknowledged clearance limit at night in normal visibility and passed almost directly underneath a departing Airbus A330.Neither aircraft crew had any awareness of the conflict. ASDE-X activated but did not provide a useful warning.
+Allentown PA USA 2008. A Cessna 172 which had just landed missed its runway exit point in normal night visibility but this was not noticed by the controller or promptly reported by the pilot and the controller gave a take off clearance on the same runway to a Bombardier CRJ700. Sighting of the single white navigation light of the Cessna led to a high speed rejected take off during which a deviation to avoid the Cessna was made.
+Perth Australia 2010. A Boeing 737-800 mistook an active runway for the specified runway exit in normal daylight visibility and turned onto it after a confusing intervention from the TWR controller during the landing roll.
+Johannesburg South Africa 2010. A Boeing 737-400 crossed an active runway in normal daylight visibility ahead of a departing Boeing 737-800 which on sighting the other aircraft made a high speed rejected take off. Both aircraft had been operating in accordance with their acknowledged ATC clearances.
+Dubai UAE 2012. An Airbus A320 failed to follow its acknowledged clearance to taxi-in via the central taxiway in reduced but not low daylight visibility and instead of making the necessary turn from the RET used to exit the runway, continued straight ahead where it passed the lit stop bar for the parallel runway at speed before stopping at the edge of the runway just as a departing Boeing 777-300 was about to lift off from close to that position.
+Chicago Midway IL USA 2011. A Boeing 737-700 taxiing in after landing on a parallel runway was about to cross another active runway as cleared when a late sighting of an approaching Learjet taking off led to an emergency stop being executed as the other aircraft passed nearly overhead. The investigation found that the same controller had issued conflicting clearances and that it had been the third similar conflict within six months resulting from an operational error by this controller.
+A319 / A320, Paris CDG France, 2014. The crew of an Airbus A320 taking off from Paris CDG and in the vicinity of V1 saw an A319 crossing the runway ahead of them and determined that the safest conflict resolution was to continue the takeoff. The A320 subsequently overflew the A319 as it passed an estimated 100 feet agl. The Investigation concluded that use of inappropriate phraseology by the TWR controller when issuing an instruction to the A319 crew had led to a breach of the intended clearance limit. It was also noted that an automated conflict alert had activated too late to intervene.
+
+Related Articles
+
+Runway Incursion
+Controller Detection of Manoeuvring Area Conflicts
+Follow Me Vehicle Procedures
+Land and Hold Short Operations
+Runway Holding Point Lighting
+Runway Status Lights (RWSL)
+
+Further Reading
+
+Operational Safety Study: Sudden High Energy Runway Conflict (SHERC), March 2017
+Analysis of reported runway incursion serious incidents - European data sample of 2013 – 2015, EUROCONTROL, Feb 2017
+Analysis of investigated runway incursion accidents and serious incidents - worldwide data sample of 2006 – 2016, EUROCONTROL, Apr 2017
+Final report: Problematic Taxiway Geometry Study Overview, FAA, January 2018
+
+
+
+
+
+Categories
+
+
+Runway Incursion,
+              Preventing Incorrect Presence on Runway
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

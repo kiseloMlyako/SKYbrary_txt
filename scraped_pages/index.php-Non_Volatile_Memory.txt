@@ -1,0 +1,178 @@
+Non Volatile Memory
+
+
+
+
+
+
+
+
+
+
+
+  Non Volatile Memory
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Non Volatile Memory (NVM) is the name given to the ‘flash’ RAM found in many items of solid state avionic equipment fitted to modern aircraft. ‘Non Volatile’ means that, subject to memory capacity, stored data is retained when electrical power is removed. NVM is most often included in a design to aid fault identification and rectification by the provision of a history of recorded fault signals. In a few specific cases where it is used in alerting equipment, it has been envisaged from the outset that such a history might also be of operational use by additionally recording alert activations - Airborne Collision Avoidance System (ACAS) and GPWS/TAWS are the main examples of this and the most likely to be routinely used as data sources for aircraft operators rather than just investigation agencies.
+Equipment with NVM
+Many familiar items of avionic equipment are nowadays of solid state design and incorporate NVM. Apart from QARs (and their associated DFDMUs) fitted for OFDM purposes, which may not necessarily be designed to record much more data than their crash-protected counterparts, examples include, but are not limited to, the following:
+
+DFDMUs (Digital Flight Data Acquisition Unit) in some DFDRs (Digital Flight Data Recorder)
+Full Authority Digital Engine Control (FADEC) units
+Generator Control Units (GCUs)
+Fuel control, management and monitoring units
+Brake control units (BCUs)
+GPS-based navigational equipment
+Engine EECs
+Flight management computers (FMCs)
+Windshear detection equipment
+Cabin Pressure Controllers
+Central Maintenance Computers (CMCs)
+Spoiler Control Units (SCUs)
+Display Control Panels (DCPs)
+Air Data Computers (ADCs)
+Maintenance Diagnostic Computers (MDCs)
+PFDs and MFDs which may store data from AHRS equipment
+(Air Data) Inertial Reference Units (ADIRUs or just IRUs)
+
+Use of NVM for Investigation purposes
+NVM-sourced data may be a useful potential source for incident and serious incident investigation and may, if it survives undamaged and can be located and recovered, provide similarly useful data for accident investigation. However, it is particularly vulnerable to fire / heat damage and where recovery from wreckage is attempted, the equipment units of potential value can be difficult and time consuming to identify.
+The circumstances in which NVM data can be useful, or in some cases even vital, in understanding what happened include:
+
+in many smaller aircraft where no FDR and/or CVR was (required to be) fitted and where establishing a real understanding of causation is often severely compromised by lack of sufficient evidence.
+where parameters useful to a particular investigation are not recorded even on a serviceable FDR - avionic equipment has become increasingly important but its’ relative complexity can make it difficult to investigate how a device was performing where it apparently failed to work as designed unless access to a device functional history is available.
+when all or part of an FDR replay fails due to the effects of accident damage or when one or more channels on an otherwise serviceable recorder are found to have incomplete or entirely missing data because of a prior fault in the FDR itself.
+when the available duration of FDR or CVR recordings does not include a significant part of an event sequence because it has been overwritten. This is especially likely in the case of legacy 30 minute CVRs but also quite common even for 2 hour CVRs when the recorder is not stopped after a Serious Incident, despite such action frequently being an operator SOP.
+
+NVM can inform in respect of both aircraft system faults and pilot actions. The NTSB was amongst the first investigation agencies to record formally, as a side issue in their 2010 Safety Study of accident rates in glass versus legacy cockpit aeroplanes, just how useful NVM data, especially that from PFDs, can be in the investigation of serious incidents and accidents to light aircraft.
+Regulatory Requirements
+Only mandatory Flight Data Recorder (FDR) and Cockpit Voice Recorder (CVR) equipment must be crash protected under EASA CS 25 and FAA Part 25. NVM in other equipment is not afforded any more protection against accident damage than any other part of the aircraft.
+However, in recognition of the important role that NVM has been playing in accident investigations for many years now, it has been suggested by various interested parties that consideration should be given to extending some degree of protection to selected component NVM. The existence of an international standard for light weight flight data recorders, EUROCAE ED-155, has been noted as presenting an opportunity for OEMs to designing their avionics equipment to meet the stated standard for crash hardening and data recording.
+As long ago as 2000, ICAO recognised the opportunity that NVM data may provide for more effective accident investigation by including in the recommended ‘Investigation Field Kit’ provided in their ‘Manual of Aircraft Accident and Incident Investigation’ Doc 9756 anti static containers “for electronic components with non-volatile memory”
+In 2003, the Canadian Transport Safety Board, in their Final Report on the loss of the MD11 near Halifax in 1998 stated as a ‘Safety Concern’ that:
+“The Board is concerned that manufacturers and designers of equipment containing memory devices may not consider the potential use of such devices for accident investigation purposes. These aspects are best considered at the design stage, when improvements in data quantity, quality, and ease of device recognition can generally be included for relatively low cost.”
+Formal and more specific expression of similar views was made the subject of Safety Recommendations by the UK AAIB in their Final Report into a non-fatal offshore helicopter hull loss accident published in September 2011. The recommendations in this report included:
+
+(2011-057), that specifically in respect of helicopters, ICAO introduce a Standard for crash-protected recordings of the operational status of Airborne Collision Avoidance System (ACAS) and Terrain Awareness and Warning System (TAWS) equipment where fitted on helicopters required to carry a flight data recorder.
+(2011-064) in respect of all aircraft, that EASA should establish the feasibility of recording, in crash protected memory, status indications from each avionic system on an aircraft.
+
+ACAS and TAWS NVM
+Software to download ACAS NVM is routinely made available directly to customers and to regulatory and investigatory bodies by OEMs. In the case of TAWS, the more usual practice in the case of customers is to carry out the download at the OEM and supply the results from it. In both cases, OEM expertise can be particularly valuable where it is believed that NVM in damaged equipment may be important and retrievable.
+In both instances, NVM data storage at the point of an alert event is not time / date stamped but is stored in time sequence in memory which is likely to have a significant capacity - often up to 200 TAWS activations. This means that even relatively old events can be found provided that other information is available to help isolate the event recording of interest, which is only likely to amount to of the order of 20 seconds prior to an event until 10 seconds after it.
+Access to NVM data in other equipment for investigation purposes is likely to require the assistance of the OEM and would only normally be pursued in support of a State Serious Incident or Accident Investigation.
+Some examples of NVM use in Annex 13 Investigations
+
+Investigation into a Boeing 767-300 fatal loss of control accident over Thailand in 1991 attributed to uncommanded thrust reverser deployment in flight was able to make use of Engine EEC NVM data to provide essential evidence of causation.
+The investigation of the CFIT loss of a Boeing 757 near Cali, Columbia in 1995 was able to extract useful data from the FMC NVM.
+NVM data from the EECs, APU controller and two of the IRUs was used during the Investigation of the 2002 Boeing 767 CFIT at Busan, Korea to confirm the status of these units in the period prior to the accident.
+Investigation into the cause of a loss of control to a Boeing 717 in the USA in 2005 used NVM data from both ADIRUs and both FCCs to eliminate the possibility that malfunction of any of these units had occurred.
+A delay in the annunciation of warnings that the automated fuel system on an A340 en route from Hong Kong to London in 2005 was malfunctioning was only found and attributed to an ARINC databus failure because of information in the NVM of the Fuel Control and Monitoring Unit.
+NVM data in both the ACAS and the Radio Management and Radio Communication Units of the Embraer Legacy business jet which was in a mid air collision with a Boeing 737 in Brazil in 2006 provided important evidence in respect of operation of both the transponder and the radios in the period leading up to the conflict.
+The investigation into the crash of an Airbus A310 whilst landing at Irkutsk in 2006 and attributed to mismanagement of the thrust levers whilst operating with one thrust reverser inoperative made use of the FADEC NVM to help establish the details of thrust lever movement during the landing.
+Investigation into the crash landing of a Boeing 777 at London Heathrow in 2008 depended on NVM data from various avionic units to eliminate possible causes of the fuel starvation which led to sudden loss of thrust.
+The investigation of a DHC6 CFIT accident in Papua New Guinea in 2009 to an aircraft which did not have, and was not required to have, a crash protected FDR or CVR fitted depended on stored NVM data in a GPS flight following device for reliable evidence of position.
+The process by which an electrical failure led to a fire in a Boeing 777 just after pushback at London Heathrow in 2007 was only able to be established with the help of NVM fault data from the GCUs.
+
+Related Articles
+
+Flight Data Monitoring (FDM)
+
+Further Reading
+
+Chapter 6 of the NTSB Safety Study "Introduction of Glass Cockpit Avionics into Light Aircraft" 2010
+|ICAO Doc 9756 Manual of Aircraft Accident and Incident Investigation Part 1, Appendix to Chapter 2 "Investigation Field Kit" amendment 1, 2004.
+Safety Notice SN–2013/008: Minimising the use of Memory Buffers in Recording Hardware to reduce the possibility of Data Loss, UK CAA, 17 April 2013
+"The use of Enhanced Ground Proximity Warning System (EGPWS) data for Aviation Safety Investigation" Paper presented by N.H. Campbell at the 2005 Joint Meeting of the Australian and New Zealand Societies of Air Safety Investigators
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,370 @@
+B789, Tel Aviv Israel, 2018
+
+
+
+
+
+
+
+
+
+
+
+  B789, Tel Aviv Israel, 2018
+
+
+
+
+
+
+
+
+
+Summary
+
+On 29 March 2018, an augmented Boeing 787-9 crew completed an uneventful takeoff from Tel Aviv on a type conversion line check flight for one of the First Officers in the crew. After getting airborne, the crew found that all performance calculations including that for takeoff had been made on the basis of a Zero Fuel Weight which was 40 tonnes below the actual figure of 169 tonnes. The Investigation found that it was highly probable that automatic reduction in commanded pitch-up when rotation was attempted at too low a speed had prevented an accident during or soon after liftoff.
+
+
+
+
+Event Details
+
+When
+
+29/03/2018
+
+
+
+Event Type
+
+
+HF,
+              LOC
+
+
+
+
+Day/Night
+
+Night
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 787-9 Dreamliner
+
+
+
+
+
+
+
+
+
+Operator
+
+El Al
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Tel Aviv International
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Newark Liberty International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Manoeuvring
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+LLBG
+
+
+
+
+General
+
+Tag(s)
+
+
+              Copilot less than 500 hours on Type,
+              Deficient Crew Knowledge-performance,
+              Extra flight crew (no training),
+              Flight Crew Training,
+              Inadequate Aircraft Operator Procedures,
+              PIC less than 500 hours in Command on Type,
+              Use of Erroneous Performance Data,
+              CVR overwritten
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Pre Flight Data Input Error,
+              Ineffective Monitoring - SIC as PF
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Incorrect Thrust Computed
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Non-aircraft damage
+
+Yes
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+Yes
+
+
+
+Ditching
+
+Yes
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Airworthiness
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 29 March 2018, a Boeing 787-9 (4X-EDB) being operated by El Al on a scheduled international passenger flight from Tel Aviv to Newark as LY 027 which was a line check for one of the First Officers on board completed what was believed by the augmented crew to have been a normal night VMC takeoff from the 4042 metre-long runway 26. However, when reviewing cruise performance, the cruise altitude in the FMC was about 4000 feet higher than expected and it was discovered that the Zero Fuel Weight (ZFW) entered prior to departure had been much lower than the actual ZFW. The data input error was corrected and the flight was completed without further event, although the occurrence was immediately communicated to the Operator. There was no damage to the aircraft and its 300 occupants were unaffected.
+Investigation
+A Serious Incident Investigation was carried out by the Israeli Aviation Accidents and Investigation Office (AIAI) of the Ministry of Transport and Road Safety in accordance with the provisions of ICAO Annex 13. Data were downloaded from the EAFR after completion of the flight but relevant recorded voice data had been overwritten during the flight. It was noted that the airline had been operating the 787 in commercial service for a little over 6 months when the event under investigation occurred and had carried out a comprehensive risk mitigation exercise prior to the introduction to service. It was also noted that the 787 fleet is operated separately from the airline’s 777 fleet.
+The operating crew for takeoff and climb were the aircraft commander, a 52 year-old Check Captain with a total of 24,800 flying hours including 186 hours as a 787 Captain and a 33 year-old First Officer, who had been PF for the departure, with a total of 4176 flying hours including 40 hours on the 787. They had been employed by El Al as pilots for 23 years and 3 years respectively and the flight was a Line Check for the First Officer to complete his type conversion from the 767 conducted by the Check Captain. The relief crew, who were occupying the flight deck supernumerary crew seats for departure were a 58 year-old Captain with a total of 9,970 flying hours including 80 hours as a 787 Captain and a 47 year-old First Officer with a total of 10,112 flying hours including 40 hours on the 787.They had both been employed as pilots by El Al for 3 years.
+What Happened
+It was established that before going to the aircraft, the First Officer on check had conducted a pre-flight briefing based on provisional documentation provided by dispatch and the Captain had requested Company Operations Control Centre (OCC) to obtain approval for a takeoff after the normal night curfew because of the expected late arrival of their aircraft which was subsequently given.
+After boarding the aircraft as soon as was possible just 25 minutes prior to the delayed departure time, which was half an hour before the extended night curfew time, the operating crew carried out preparations on the flight deck whilst the augmenting crew members reviewed the aircraft Technical Log (the Captain) and carried out the external pre-flight check (the First Officer). It was noted that during this time, the operating Captain was “concurrently somewhat occupied with” accommodating a number of priority sub-load passengers who were family members of some of the crewmembers. These prospective passengers included family members of both First Officers and the Relief Captain.
+The operating First Officer partially prepared the takeoff data using the Onboard Performance Tool (OPT) on his iPad, an EFB Class 1 used by all El Al pilots, by using the provisional ZFW and TOW but the Captain did not. The final load sheet arrived prior to initiating FMC data input and a minor change to ZFW was noted by both operating pilots. The Captain then mistakenly entered 128.6 tonnes as the ZFW instead of the correct 168.6 tonnes but immediately noticed what he had done and stated it out loud before (supposedly) making a correction - although actually the incorrect figure remained. The Relief Captain reported having heard the operating Captain mention his error and saw him making a further entry but from where he sat had not been able to see what the new entry was. The operating First Officer was otherwise occupied and remained unaware of this episode. Subsequently, both pilots made independent OPT performance calculations on their personal iPads. Both then entered the final TOW figure from their OPT into the FMC and the Captain also entered his (incorrect) ZFW but the First Officer did not revise his provisional ZFW which was close to the final one. After both pilots subsequently copied the TOW and the ZFW from the FMC CDU into their iPad OPT app, the First Officer noticed that the difference between the TOW and the ZFW on his OPT “did not make sense” without realising that this was because his provisional ZFW was very close to the final one whereas the TOW copied from the FMC was too low by 40 tons. He remarked out loud that “something was strange” but he “did not elaborate” and the Captain did not respond. The First Officer then modified his ZFW value to the wrong value which he saw on the Captain’s EFB OPT screen after which they both made concurrent calculations and compared their (consequently identical) results before the Captain entered the (incorrect) takeoff speeds and thrust setting into the FMC & MCP.
+The engines were started and the aircraft was taxied to departure runway 26 which was entered with 11 minutes to go before the specially extended night curfew time. Takeoff commenced but at the Vr call, the First Officer found the response to his rearward control column movement was “sluggish” and more back pressure than expected was required to achieve liftoff and align the pitch attitude with the HUD takeoff reference line. He also subsequently stated that he had felt that “a relatively long time” had elapsed before the Captain made the “Positive Rate” call. Once the landing gear had been raised and the initial rate of climb had been established, the climb proceeded as usual. Once above 10,000 feet, the Relief Captain went to the crew rest compartment although the Relief First Officer remained on the flight deck.
+Passing approximately 20,000 feet, the crew reviewed the calculated cruise performance and were surprised to find that the FMC-computed optimum cruise altitude was about 38,000 feet which was somewhat higher than the 34,000 feet more typical on long-range flights. It was immediately evident that the ZFW was 40 tonnes too low and that as a result, the TOW was 40 tonnes too low as well. The Captain corrected the error and “immediately realised the severity of the event and its potential risk” since it was now clear that the takeoff had been made with speeds and thrust appropriate for a much lower weight than the actual weight.
+The Captain contacted the Company OCC and requested that senior flight operations managers be informed and the operating crew “conducted a preliminary debriefing” which included an assessment of their fitness to continue the flight in view of the “startling” event after which they concluded that they were. The relief crew returned to the flight deck about 4 hours later and were given a thorough debriefing. Prior to reaching the top of descent, the operating crew again discussed “their mental fitness to conduct the approach” and concluded that they were fit to do so. The flight was completed uneventfully and after engine shut down, the crew tripped the EAFR CB and made a report to download the recorded data for analysis.
+An analysis of the recorded flight data
+The Investigation compared the recorded flight data from the takeoff and climb with that corresponding to the actual gross weight. The formally-documented summary of these findings is as follows:
+
+The aircraft accelerated slowly and reaching the wrong Vr of 154 knots took the same time that on a normal takeoff would take to reach about 175 knots.
+The point along the runway, where the aircraft reached V1 was slightly further than the correct point for the actual weight, but not to an extent that could be noticed by the crew.
+The location of the decision point along the runway would have enabled rejecting the takeoff safely, either in an all-engines or an engine-out scenario, because the aircraft reached the decision point at a speed substantially slower than required.
+The location of the decision speed along the runway, combined with the low Vr and V1, raise a doubt whether the aircraft could lift off in case of engine failure, unless the crew would have increased thrust on the operating engine.
+Since rotation was initiated at a speed close to the stall speed, the aircraft initially did not raise the nose and did not lift off until gaining 13-14 knots above Vr.
+After liftoff the aircraft had a low rate of climb and accelerated due to the ground effect, reaching a height of 35 feet in 13 seconds after rotation, which is twice the normal time.
+The tail-strike protection feature of the flight control system activated for about 4 seconds to reduce the elevator angle until sufficient airspeed had been achieved. As a result, the tail clearance remained greater than the 29-inch minimum specified in the manuals and a tail strike did not occur.
+Aircraft manoeuvre margin during climb did not decrease below the safe margin, because climb speeds were higher than V2 calculated for the actual gross weight.
+Manoeuvre margin during flap retraction could have been substantially affected during retraction from flaps 1 to flaps UP, but in reality there was no hazardous proximity to a stall, apparently due to low load factor associated with acceleration in climb with level wings.
+At its actual gross weight it was not possible for the aircraft to climb to the optimal cruise altitude calculated by the FMC based on the wrong weight.
+
+Human Factors Analysis
+The Investigation included a detailed analysis of the wide range of human factor issues which had or may have had a bearing on what happened including the identification of and discussion of 15 active and/or latent errors, a TEM based analysis and an analysis based on the presence or absence of Safety Barriers. .
+Takeoff Performance calculation errors
+It was noted that although a practical means to provide a Takeoff Performance Management System (TOPMS) had been under examination for over 20 years with NASA first trialling one on a 737 in 1994, and there had been extensive activity following a corresponding Safety Recommendation after the fatal takeoff accident at Halifax, Canada in 2004, no Boeing aircraft currently have such systems installed. It was also noted that such systems would not prevent takeoffs based on incorrect performance calculations if these were, as in this case, a result of incorrect parameter inputs unless they detected low acceleration.
+The Investigation also looked at the recorded prevalence of takeoff performance calculation events at El Al over the previous 10 years and found that:
+
+Between 2008 & 2018 there had been 10 reported events of which 2
+
+were classified as significance “negligible”, 7 as “low” and 1 as “moderate”.
+
+Some of the errors were detected before takeoff and some in retrospect. They included:
+
+Using data for the wrong runway
+Using data for the wrong airport
+Using the wrong flap setting (mostly due to re-calculation following change of conditions)
+Failure to display V-speeds
+Deteriorating conditions not accounted for by the crew
+Entering an incorrect weight
+Entering an incorrect temperature for thrust calculation when using the assumed temperature method for a reduced thrust takeoff
+
+
+
+It was also found that there had been cases where correct performance calculation had then been followed by erroneous thrust application - two instances of a 767 taking off with CLB thrust set and one of a 777 taking off with TO-2 thrust instead of TO.
+The Conclusions of the Investigation were documented in the form of 33 detailed observations which included but were not limited to those presented in summary form below:
+
+After the initial data input error by the Captain, cross checking was inadequate.
+Takeoff with erroneous thrust and speed parameters created a real risk of tail strike or loss of control after liftoff, during initial climb and during flap retraction.
+The aircraft’s automatic Tail Strike Protection (TSP) system worked as intended by delaying the commanded pitch increase during rotation and it is highly probable that it prevented an accident. Elevator deflection angles reduced immediately, the nose was raised and liftoff occurred despite the continued and even increased rearward pulling of the control column. Consequently, the actual tail clearance did not exceed the specified minimum. This automated intervention also contributed to aircraft gaining speed prior to climbing and thus prevented a stall or loss of control.
+The late arrival of the aircraft from its previous flight and the imminent night curfew for takeoffs introduced pressure on the crew when preparing the aircraft for departure. When a final load sheet was provided to the crew for review immediately after they arrived at the aircraft, they entered these weights into the FMC rather than first entering the provisional weights as would normally be done. They consequently skipped checking and updating the provisional figures against the final ones as per the applicable FCOM SOP.
+The First Officer failed to cross check the Captain’s data entries or act to clarify the apparent inconsistency he detected between the takeoff weight and the ZFW. Neither pilot noticed until well into the climb that the gross weight was substantially lower than both the planned weight and the typical takeoff weight for a long-range flight. Overall, communication between the pilots during performance computation was inadequate. There was a high probability that open communication and raising doubts could have led to error detection and correction.
+It is probable that a lack of experience on the 787 in the case of both the operating and augmenting crew contributed to the fact that no one noticed that the computed performance data were unlikely to be correct.
+Acceleration during the takeoff roll was significantly lower than usual. However, the aircraft reached the computed V1 speed, which was 15 knots lower than the speed appropriate to the actual weight, at a point only about 100 feet from what would have been the point derived from a correct calculation because the slow acceleration was offset by the low V1. Whilst none of the crew noticed the slow acceleration, it is recognised that it is difficult to perceive variations in rates of acceleration in darkness.
+In the case of a rejected takeoff at V1, it would have been possible to stop the aircraft on the runway, because the decision point occurred at a similar position to the one which a correct performance computation would have determined, although with a substantially lower decision speed. In the case of engine failure above V1 and a continued takeoff, it is highly probable that the aircraft would not have safely lifted off the runway and that even if it had done so, the climb performance would have been insufficient to safely complete the takeoff, unless the crew had immediately set maximum thrust on the operating engine.
+The rotation speed computed by the crew was lower than minimum unstick speed (Vmu) and was approximately equal to the aircraft stall speed. Because of this, the aircraft only lifted off after gaining additional speed. Upon reaching the calculated (incorrect) Vr, the First Officer had begun pulling the control column aft and the elevators had responded accordingly. Aircraft response was sluggish and pitch only increased once sufficient forward speed was reached after which the aircraft became airborne at a pitch attitude significantly higher than usual and climbed at a slow rate.
+There was no hazardous increase in angle of attack as a result of flap retraction being commanded at lower speeds than required for the actual weight despite the reduced manoeuvre margin.
+The First Officer undergoing his final line check felt confident about his success and the Check Captain inspired a comfortable atmosphere, but it can be reasonably assumed that being a check ride did contribute to increasing the mental workload on the First Officer on the one hand and on the Captain on the other, especially considering the latter’s low experience on the B787.
+The inadequate flight crew teamwork manifested itself in a lack of coordination, a lack of cross checking and flawed internal communication. Although the flight crew felt good about it, it turned out that their perception of their cooperation was incorrect.
+Night departure during hours in which physical and cognitive performance are impaired have the potential to introduce human error attributable to biological clock effects. Any pilot embarking on a night flight may be subject to such effects, but not necessarily aware of them. All crewmembers including the aircraft commander, who had operated a flight the previous night, had sufficient rest time in excess of the minimum required but the impact of regular or accumulated fatigue cannot be ruled out.
+The discussion by the operating crew during the cruise, on their fitness to continue the flight was appropriate and the decision to continue was reasonable. The additional discussion regarding their ability to conduct the approach was also appropriate and again their decision to continue was reasonable, although it is possible that transferring command, cancellation of the Line Check and transferring the approach to the augmenting crew could have been a safer alternative.
+El Al’s all fleets operating procedures had no SOP for cross checking aircraft weight data or for cross checking performance calculations against objective data from external sources. Performance computation on two iPad devices does not constitute effective cross checking because both pilots might be using identical parameters, yielding identical yet potentially incorrect results.
+El Al’s communication between aircraft systems and ground systems did not support transmittal of weight and performance data to the aircraft via data link. Had such a network been in use and the Company’s operating procedures had mandated receipt of weight and performance data by datalink, it is highly probable that the ZFW input error at the root of the investigated occurrence would have been prevented.
+All the pilots except the Check Captain were formally defined by the Company as “inexperienced” on type. The Check Captain was not so defined because he had transferred from the 777 which shares a common type rating with the 787. Pilots’ inexperience with the aircraft they are operating is capable of leading to increased workload, to additional mental pressure and to a reduced capability to detect unlikely flight parameters, in particular when they are subject to time constraints as was the case with this flight.
+The risk mitigation process conducted by El Al when the 787 fleet was established was not sufficiently effective in respect of reducing risk for flights manned by crew combinations having little experience on the new type. The implemented risk mitigation processes were initially based on all new 787 pilots being from the 777 fleet with which the 787 has a common type rating. These processes were not properly revised when this assumption was no longer true.
+The tracking of 787 pilot performance via OFDM was one of the risk mitigation measures for the establishment of the fleet but was inadequate because it was focusing on a narrow aspect of the flight, the aircraft operation at takeoff and landing. It did not cover other operational performance and did not define tracking parameters or irregular frequencies. In any case, tracking was not effective because the data output lacked essential details because of incompatibility between the aircraft parameters and the ground analysis systems.
+Another risk mitigation step defined for the fleet was that there should be a discussion between the Fleet Manager or Chief Pilot and the designated Check Captain prior to any Line Check or Initial Operating Experience flight. It was stated by the 787 Chief Pilot that a general conversation on training flights and checks in general had taken place with the Check Captain involved a few days before the incident flight but that it had not related to this particular Line Check. The Check Captain involved also reported having been unaware of the fact that he would be conducting a Line Check prior to beginning his crew pre-flight briefing on the day. The Chief Pilot stated that the crew rostering for the investigated flight had been “in focus” by fleet management because of the low accumulated type experience of all the pilots involved but that it was decided to refrain from changing it because both Captains were experienced and in the past both of them had held senior flight operations management positions. This decision was approved and it was considered that the fact that a number of crew family members were seeking to travel on the flight may have also been a reason for not changing the roster.
+El Al’s 787 operating procedures did not include any reliable crosschecking of the pitch trim set for takeoff. Mismatched trim values detected during a cross check would necessitate an explanation and thereby support error detection. However, on the investigated flight, the trim value from the FMC happened to be similar to the value on the load sheet.
+The ‘Before Start’ Checklist did not include an item requiring the call out and checking of the calculated engine thrust. Checking of this parameter meets the first criterion for inclusion of an item in the normal checklist, since it is a parameter critical to flight safety and there is no system monitoring if it happens to be incorrect.
+The use of takeoff data cards, which had been considered but not implemented after a 767 event in 2012, may have prevented the investigated event.
+Neither El Al’s procedures nor the State Air Safety Regulations make any reference to the mental fitness of pilots to continue operating after experiencing a serious safety event.
+
+A total of ten Safety Recommendations were made at the conclusion of the Investigation as follows:
+
+that El Al and where applicable other Israeli Airlines should review changes in aircraft scheduling to prevent tight time constraints between aircraft arrival from a previous flight and its departure on the next flight mission, especially when such turnrounds occur near to airport closure times.
+that El Al and where applicable other Israeli Airlines should review means to remove distractions to flight crews during preparations for departure. Such means may include but are not limited to early setting of final fuel quantity, eliminating the requirement to sign the fuelling form, automating the submittal and signing of the load sheet, improving the mechanism for handling service passengers, etc.
+that El Al and where applicable other Israeli Airlines should consider means for cross checking weight and performance data versus an external source, such as receiving it from the dispatcher via data link.
+that El Al and where applicable other Israeli Airlines should consider ways of conducting accurate crosschecking of trim data in Boeing 787 aircraft and, where applicable, for other aircraft types.
+that El Al and where applicable other Israeli Airlines should formulate and include in company procedures a policy regarding continuation of flight following a serious safety event.
+that El Al should conduct a new risk management process and formulate risk mitigation steps for inexperienced crew rostering when converting to the Boeing 787 fleet.
+that El Al should mandate use of a takeoff data card, either hard copy or digital.
+that the Boeing Company should consider adding a takeoff thrust check to the ‘Before Start’ Checklist. (Note: Until a decision by Boeing, it is further recommended that El Al should consider implementing this recommendation on its own.)
+that the Boeing Company should install a takeoff performance monitoring system in transport category aircraft, a system that should be able to alert the crew in a timely and reliable manner of exceeding the conditions required for a safe takeoff, and should support the crew in deciding whether to reject or continue a takeoff.
+that the Boeing Company should install a self-weighing system in transport category aircraft that is able to provide the Flight Management Computer with the actual aircraft weight, or at least an estimate of it which will enable a substantial reduction of the acceptable weight range and will be able to alert the crew to any significant data entry error.
+
+The Final Report was published on 26 November 2018.
+Related Articles
+
+Use of Erroneous Parameters at Take-Off
+Aircraft Load and Trim
+Aircraft Performance
+Cross-checking Process
+Pre-flight Preparation
+The Human Factors "Dirty Dozen"
+B742, Halifax Canada, 2004

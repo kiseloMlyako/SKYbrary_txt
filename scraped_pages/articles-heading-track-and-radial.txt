@@ -1,0 +1,141 @@
+Heading, Track and Radial
+
+
+
+
+
+
+
+
+
+
+
+  Heading, Track and Radial
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+Heading. The direction in which the longitudinal axis of an aircraft is pointed, usually expressed in degrees from North (true, magnetic, compass or grid). (Source: ICAO)
+Track. The projection on the earth’s surface of the path of an aircraft, the direction of which path at any point is usually expressed in degrees from North (true, magnetic or grid). (Source: ICAO)
+Radial. A magnetic bearing extending from a VOR/VORTAC/TACAN. (Source: UK CAA)
+Bearing. The horizontal direction to or from any point, usually measured clockwise from true north, magnetic north, or some other reference point through 360 degrees. (Source: US FAA)
+Description
+Heading Vs. Track
+The heading of an aircraft may be different than its track due to the wind. This difference is called drift angle. For an airliner at cruising speed, it is usually within 5 degrees. Depending on the specific circumstances, however, the drift angle can be bigger. For example, if the aircraft true airspeed is 400 kts, and there is a crosswind of 100 kt, the drift angle will be 15 degrees.
+
+Heading, track and drift angle
+The heading is used for vectoring while the track is not.
+If an aircraft is flying on a specific track then its path is a straight line. If it is flying on a heading, the line may turn to the left or right, depending on the wind change.
+If an aircraft is flying on a track, the heading may need to be adjusted several times to compensate for the drift caused by the wind.
+Radial Vs. Bearing
+The radial is a variant of the bearing. It is always related to the magnetic direction from a radio aid. The bearing is a more general term, because
+
+it can be measured from any point (radio aid, navigation point, aircraft or just a point with coordinates)
+it can be related to any North, not necessarily the magnetic one
+
+Heading Vs. Radial
+The radial gives the relative position of an aircraft to e.g. a VOR. There is no mathematical relation between the radial and the heading (or track) of an aircraft, i.e. one cannot be derived from the other. For example, if an aircraft is on the 360 outbound radial (to the north of the VOR), it could be flying on any heading (or track) albeit for a short time.
+
+Aircraft flying the same heading, being on different radials
+
+Aircraft flying different headings, being on the same radial
+Continuos flight on a radial means that the track of the aircraft is the same as either the inbound or the outbound radial.
+
+Continuous flight on a radial
+Related Articles
+
+Basic Controller Techniques: Vectoring
+Vectoring Geometry
+VHF Omnidirectional Radio Range (VOR)
+Wind
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,182 @@
+Surveillance
+
+
+
+
+
+
+
+
+
+
+
+  Surveillance
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Separation 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+Surveillance radar. Radar equipment used to determine the position of an aircraft in range and azimuth.
+Situation display. An electronic display depicting the position and movement of aircraft and other information as required.
+Source: ICAO Doc 4444 PANS-ATM
+Description
+The concept of surveillance is to have a sensor (or a network of sensors) that detects aircraft, calculates their position, obtains other data (such as identification, level, etc.) and then presents it to the controller on a situation display. The main applicaitons of surveillance are Area control and Approach control, although it is possible to use it in the tower (e.g. A-SMGCS) or in uncontrolled airspace where Advisory Service, Flight Information Service or Alerting Service are provided.
+
+The surveillance chain - sensors (in this example a PSR and an SSR), data processing and a situation display.
+The most common sensors used today are:
+
+Primary Surveillance Radar (PSR). This equipmet emits an electromagnetic wave and determines target position by processing the received reflected wave (the delay is used to calculate the distance and the antenna position provides the azimuth).
+Secondary Surveillance Radar (SSR). This sensor emits special signals that are received by onboard equipment (Transponder) which then emits a reply. The reply is received by the radar antenna and is used to determine aircraft position and the data contained in the reply provides additional information (e.g. level).
+Multilateration (MLAT). This is an array of sensors that uses the transponder replies to calculate aircraft position and extract additional data. The transponder may be activated by an SSR interrogation or by a designated MLAT interrogator. Aircraft position is calculated using the time difference of signal arrival at the different sensors.
+Automatic Dependent Surveillance Broadcast (ADS-B). The aircraft calculates its position using its navigation systems (e.g. GNSS, inertial navigation system (INS), etc.) and transmits it at regular (short) intervals. Unlike SSR and MLAT, no interrogation is necessary. The signal is received and decoded by ground stations and the aircraft position is extracted.
+
+Note: While ADS-C can also be considered (to some extent) to be a suveillance technology, its lower position update rate does not offer the benefits that are commonly associated with surveillance, such as the possibility to use radar vectoring and lower separation minima.
+Surveillance can be dependent or independent based on the place where aircraft position is calculated. If independent surveillance is used, the position is determined by the ground station using the received reply or reflected signal. Examples of such sensors are radars (both primary and secondary) and MLAT. With dependent surveillance, aircraft position is calculated by onboard equipment (e.g. GNSS receiver, INS, etc.) and is then transmitted to the ground station. An example of this principle is ADS-B.
+Surveillance can also be classified as cooperative or uncooperative based on whether or not aicraft systems are necessary. A sensor for uncooperative surveillance can detect aircraft regardless of their equipment. An example is the primary radar. The other three mentioned sensors (SSR, MLAT and ADS-B) all need some information from the aircraft (although MLAT and SSR perform their own position calculation as stated above).
+Individual sensors (or sensor arrays in the case of MLAT) may produce position information in two forms:
+
+Range and bearing relative to the radar (either PSR or SSR). Knowing the position of the sensor, this information can be converted to lattitude and longitude. This recalculation can either be performed on site or the raw data can be forwarded to an external (usually multi-radar) tracker.
+Coordinates (lattitude and longitude) in the case of MLAT and ADS-B.
+
+Important parametres of sensors are position accuracy and refresh rate. The former depends on:
+
+The type of sensor. For example, PSR is normally more precise than SSR in range determination due to the much shorter pulse (pulse length multiplied by the speed of light determines the range accuracy).
+The technology in the sensor itself. For example, an MSSR (monopulse SSR) is more preceise in determining the angular position than the "classic" SSR.
+The relative position of the aircraft and the sensor. Angle determination by radars is proportional to the distance, i.e. azimuths of targets that are closer to the radar are more precise. In MLAT environment, the distance between the sensors and the aircraft is not a factor by itself, but the relative position is very important. Accuracy is greater when the aircraft is in the middle of the array and decreeses if all sensors are on one side of the aircraft. An exception here is ADS-B being an example of dependent surveillance.
+
+Position refresh rate determines how often the picture on the situational display is updated. With radars, this is determined by the antenna rotation speed which means that a typical en-route radar will update each target approximately 6 times per minute (one complete rotation takes about 10 seconds). An aerodrome radar is usually faster with about 10-12 updates per minute (corresponding to a rotation period of 5-6 seconds). ADS-B and MLAT updates are usually much more frequent (e.g. updated every second) but this depends on the particular environment as well. For example, the MLAT update rate depends on the frequency of interrogations in the particular area (i.e. how many SSRs and dedicated interrogators are involved). In the ADS-B case, the update rate depends solely on the onboard equipment. If a multi-radar tracker is used, the position update rate depends on the tracker settings but it is possible to make it more frequent than individual sensor update rates.
+Benefits
+The use of surveillance systems offers a number of benefits to the provision of air traffic services, both in the safety and the efficiency aspects. The most notable of these are:
+
+Better situational awareness for the controller:
+
+Aicraft can be identified on the situation display, i.e. the position of a symbol can be correlated to a pilot report. This provides an additional level of safety against human error.
+The picture on the situational display is updated without the need for the controller or the flight crews to do anything.
+The use of transponders provides additional information (such as identification, level, heading and sometimes intentions e.g. selected level). Also, pilots may use designated codes to indicate an emergency or abnormal situation (e.g. Unlawful Interference, Loss of Communication)
+
+
+The controller is able to confirm whether the instructions are being complied with.
+Aircraft with radio communication failure can be identified and their flight path monitored.
+Reduced separation minima. In a surveillance environment a horizontal separation of 3 or 5 miles is used as opposed to e.g. 10 minutes in the case of procedural control.
+More options for conflict solving. Surveillance system allow the controllers to solve conflicts by vectoring or clearing direct routes which is often more efficient compared to level changes.
+Reduced frequency congestion. In a surveillance environment the need for crew reports is drastically reduced compared to the procedural control scenario.
+Availability of support tools (such as MTCD, TCT and Probe) as well as safety nets.
+Reduced Controller Workload.
+
+Risks and Challenges
+The use of surveillance systems, while beneficial to the aviation industry as a whole, also presents some risks and challenges. These need to be properly addressed in order to safely reap the potential benefits. The most notable of them are:
+
+Sensor failure. If a sensor (e.g. a radar) fails, it is possible that some aircraft would not be visible on the screen anymore. This is mitigated by using multiple sensors with overlapping coverages.
+Transponder failure. Most surveillane relies on the use of transponders. In some countries there are no primary radars which means that in case of a transponder failure (or unintentional swith to STANDBY mode) will cause the track to disappear. This can be mitigated by using PSRs in addition to aircraft-dependent sensors.
+ATS system failure. As with any system it is possible to experience a hardware or software failure. This risk is normally mitigated by having a separate backup system (and sometimes more than one) that can be activated in a matter of seconds. The systems are completely independent with separate computers and power lines. Sometimes different software versions or even systems by different providers are used. This has the advantage of being more robust against software failure (the bug that makes one system inoperative is less likely to do the same with a different software). On the downside, swithing to a different human-machine interface (even if similar) reduces controller performance (the execution of routine tasks takes longer) and therefore, sector capacities may need to be adjusted.
+Incorrect position calculation (by the onboard system) in ADS-B only environment. In this case, the controller woild know that position data is incorrect but it will be difficult to determine the correct one and consequently applying appropriate separation would be problematic.
+Using ADS-B as the only surveillance source has a potential security issue, as it is technically possible to "create" a fake aircraft.
+Data processing delays. Postion calculation, plot extraction and track determination sometimes require complex calculations (especially the MLAT position calculation). While there is an inevitable delay in all surveillance systems, modern computers have reduced it to negligible levels.
+
+Related Articles
+
+Automation and ATM
+En-route Tracking of Aircraft
+Primary Surveillance Radar (PSR)
+Secondary Surveillance Radar (SSR)
+Multilateration
+Automatic Dependent Surveillance Broadcast (ADS-B)
+Radar
+Transponder
+Radar Advisory Service
+
+Firther Reading
+
+Benefits Analysis of Space-Based ADS-B, by the Flight Safety Foundation
+Guidance Material on Comparison of Surveillance Technologies (GMST), by ICAO
+ICAO SARPS and Guidance Documents on Surveillance Systems, a presentation by Onofrio Smarrelli (ICAO CNS officer)
+
+
+
+
+
+Categories
+
+
+Loss of Separation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,125 @@
+Area Proximity Warning
+
+
+
+
+
+
+
+
+
+
+
+  Area Proximity Warning
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Nets 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Area Proximity Warning (APW) is a ground based safety net which uses surveillance data and flight path prediction to warn the controller when an aircraft is, or is predicted to be, flying into a volume of notified airspace, such as controlled airspace, danger areas, prohibited areas and restricted areas. APW is intended to function in the short term, if applicable providing warning times of up to 2 minutes. However, in some operational environments a 2 minute look-ahead time for this safety net may be impractical due to a high rate of unnecessary alerts.
+APW can have one or more roles, such as:
+
+Warn the controller about unauthorised penetration of controlled flights into restricted airspace.
+Warn the controller about unauthorised penetration of uncontrolled flights into controlled airspace.
+
+Many APW systems support both permanent airspace volumes and temporary airspace volumes (e.g. Temporary Segregated Airspace). APW will only alert against a temporary airspace volume when the specific volume is activated in the ATC system.
+Related Articles
+EUROCONTROL APW Specification and Guidance Material
+Further Reading
+
+EUROCONTROL Safety Nets Guide, 21 May 2011
+EUROCONTROL Safety Nets Guide 2017
+
+Safety Nets Newsletters
+
+EUROCONTROL NetAlert Newsletters
+
+
+
+
+
+Categories
+
+
+Safety Nets
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

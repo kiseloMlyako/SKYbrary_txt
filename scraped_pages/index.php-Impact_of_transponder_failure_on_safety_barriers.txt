@@ -1,0 +1,161 @@
+Impact of transponder failure on safety barriers
+
+
+
+
+
+
+
+
+
+
+
+  Impact of transponder failure on safety barriers
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Air Ground Communication 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+This article describes how transponder failure affects the different types of safety barriers and provides an overview of the measures that may mitigate the impact.
+Airborne safety barriers (collision avoidance)
+The most common airborne safety barriers are Airborne Collision Avoidance System (ACAS), also called TCAS, (equipment based) and see-and-avoid practiced by the flight crew (human factor based).
+TCAS is one of the most robust barriers because it is installed on most aircraft and has proven to be highly reliable. Most transponder failures however can render the TCAS (almost) unusable:
+
+A complete transponder failure results in the inability to generate any TCAS alarms. There is no representation of the aircraft experiencing total loss on other aircrafts’ TCAS displays.
+A mode S failure prevents the TCAS from issuing coordinated RAs. Duplicate mode S (although very unlikely to happen within the TCAS small volume of interest) would result in unpredictable and erratic behaviour, especially if the two aircraft are at different levels.
+A mode C failure results in only TAs being available. Intermittent or corrupt mode C might lead to failure to notify the flight crew of a dangerous situation or false alarms being produced. Also, an intermittent reading could be considered by the TCAS as unreliable (and therefore ignored) while corrupt information may lead to unpredictable aircraft behaviour (since TCAS RAs have higher priority than ATC clearances).
+
+See-and-avoid practiced by flight crew is one of the last barriers to prevent a collision. As a result of the high reliability of TCAS, flight crews sometimes rely on their equipment to identify a conflicting aircraft when given traffic information by a controller instead of trying to visually spot it. As a result, the pilots may “correlate” an observed aircraft with the TCAS representation of another aircraft and thus receive a false sense of safety. This, in turn, might lead to the crew not commencing a proper and/or timely avoiding action.
+ATM barriers
+There are some barriers that are not affected by transponder failure. The most notable of them are:
+
+Demand and capacity balancing, including multi-sector planning, is based upon schedules and flight plan data as opposed to track data. Therefore, the impact of an incorrectly operating transponder on flow control and sector loading is classified as negligible.
+Current flight plan data (flight plans, estimates, revisions, etc.). This data is used for procedural control and may therefore be available regardless of surveillance data.
+Primary radar data is an independent source of surveillance information. Although its availability is often reduced due to the decreasing number of operating primary radars and does not provide level information, primary radar data may be used to provide horizontal separation even if no radio contact can be established with the aircraft experiencing transponder failure.
+
+Traffic planning tools (e.g. MTCD, AMAN) use transponder-based information to update predictive tools and form tracks, so would be negatively impacted by a transponder that is not operating correctly. However, as these are prediction tools, an error at this stage is unlikely to lead directly to a loss of separation. Nevertheless, it may impact the planning controller’s task of detecting future conflicts using planned trajectories, leading to incorrect or no action taken to resolve the potential conflict at an early (strategic) stage.
+Air traffic controllers use a variety of tools to provide safe and efficient traffic flow. Planning in advance is essential for achieving these ATM goals. Most tools designed to be used for this purpose are created assuming that failure of some equipment (especially the transponder) is a rare event and have no built-in features to mitigate such an event. As a result, the tools are only partially effective and controller workload is increased significantly even by only one aircraft experiencing transponder failure.
+Transponder failure has various effects on safety nets, based on their logic.
+
+STCA – a complete (or mode C) failure is usually handled by ignoring the aircraft during STCA calculations. This is done in order to reduce false alarms (which tend to reduce the confidence in any system).
+APW – depending on the area in question (e.g. in case it spans from ground level to unlimited) it is possible that an alert is triggered even if no altitude information is available provided that a stable track is established.
+MSAW relies on mode C information to operate. Therefore, intermittent, corrupt or missing information about the aircraft level would prevent it from operating correctly. Depending on local implementation it is possible to mitigate this by manual input of the aircraft level.
+
+In any case, a complete loss of transponder data would render safety nets useless if no primary radar data is available.
+Further Reading
+
+Operational Safety Study: Risk of operation without a transponder or with a dysfunctional one, by EUROCONTROL SISG
+Operational Safety Study: Impact on ATC from a loss of aircraft transponder function - safety considerations, EUROCONTROL, March 2019
+
+
+
+
+
+Categories
+
+
+Air Ground Communication,
+              Loss of Separation,
+              Safety Nets
+
+
+
+
+
+
+
+
+
+Related Articles
+
+Transponder
+Mode S
+Aircraft Mode S Transponders - Incorrect and Missing Data - EASA Safety Information Bulletins
+Best Practice - Use of Transponder
+ATC Loss of Transponder Signal
+Operation without a Transponder or with a Dysfunctional Transponder
+Transponder failure types
+Aircraft without Transponder – Mitigations
+An aircraft without transponder – Guidance for Controllers
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

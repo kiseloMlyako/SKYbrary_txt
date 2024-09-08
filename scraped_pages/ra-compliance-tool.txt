@@ -1,0 +1,315 @@
+Pilot TCAS RA compliance tool
+
+
+
+
+
+
+
+I have read and understood the Disclaimer
+
+
+Please, select the ACAS version
+- Select -TCAS V7.0TCAS V7.1ACAS Xa CP1
+
+      Select the ACAS version on the aircraft by clicking on either the “TCAS V7.0”, “TCAS V7.1”, or “ACAS Xa CP1”
+    
+
+
+
+Initial RA
+
+
+Aural
+
+RA sense
+- Select -UpwardDownward
+
+      Select the RA sense: upwards or downwards.
+    
+
+
+RA strength:
+- Select -
+
+      Select the RA strength (type) from the pulldown menu.
+    
+
+Aircraft vertical rate:
+
+fpm
+
+      Specify the aircraft vertical rate in fpm (ft/min.) at the time when the RA was issued. Precede the number with a minus sign (-) for descent rates.
+    
+
+RA required rate:
+
+fpm
+
+      If the RA requires a specific vertical rate (e.g. Maintain Vertical Speed) enter the rate in fpm (ft/min.). Precede the number with a minus sign 
+(-) for descent rates. 
+
+    
+
+
+
+Evaluation 1
+
+
+                Time of evaluation:
+
+seconds
+
+      Enter the time at which the compliance should be assessed, in seconds after the time when RA was issued.
+    
+
+Achieved vertical rate:
+
+fpm
+
+      Enter the vertical rate in fpm (ft/min.) which was achieved at the time which is assessed. \n Precede the number with a minus sign (-) for descent rates.
+    
+
+
+
+Compliance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Evaluation 2
+
+
+                Time of evaluation:
+
+seconds
+
+      Enter the time at which the compliance should be assessed, in seconds after the time when RA was issued.
+    
+
+Achieved vertical rate: 
+
+fpm
+
+      Enter the vertical rate in fpm (ft/min.) which was achieved at the time which is assessed. Precede the number with a minus sign (-) for descent rates.
+    
+
+
+
+Compliance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Evaluation 3
+
+
+                Time of evaluation: 
+
+seconds
+
+      Enter the time at which the compliance should be assessed, in seconds after the time when RA was issued.
+    
+
+Achieved vertical rate: 
+
+fpm
+
+      Enter the vertical rate in fpm (ft/min.) which was achieved at the time which is assessed. Precede the number with a minus sign (-) for descent rates.
+    
+
+
+
+Compliance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Select -TCAS V7.0TCAS V7.1ACAS Xa CP1
+
+      Select the ACAS version on the aircraft by clicking on either the “TCAS V7.0”, “TCAS V7.1”, or “ACAS Xa CP1”
+    
+
+
+
+Subsequent RA
+
+
+Aural
+
+RA sense
+- Select -UpwardDownward
+
+      Select the RA sense: upwards or downwards.
+    
+
+
+RA strength:
+- Select -
+
+      Select the RA strength (type) from the pulldown menu.
+    
+
+Aircraft vertical rate:
+
+fpm
+
+      Specify the aircraft vertical rate in fpm (ft/min.) at the time when the RA was issued. Precede the number with a minus sign (-) for descent rates.
+    
+
+RA required rate:
+
+fpm
+
+      If the RA requires a specific vertical rate (e.g. Maintain Vertical Speed) enter the rate in fpm (ft/min.). Precede the number with a minus sign 
+(-) for descent rates. 
+
+    
+
+
+
+Evaluation 1
+
+
+                Time of evaluation: 
+
+seconds
+
+      Enter the time at which the compliance should be assessed, in seconds after the time when the subsequent RA was issued.
+    
+
+Achieved vertical rate: 
+
+fpm
+
+      Enter the vertical rate in fpm (ft/min.) which was achieved at the time which is assessed. Precede the number with a minus sign (-) for descent rates.
+    
+
+
+
+Compliance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Evaluation 2
+
+
+                Time of evaluation:
+
+seconds
+
+      Enter the time at which the compliance should be assessed, in seconds after the time when RA was issued.
+    
+
+Achieved vertical rate:
+
+fpm
+
+      Enter the vertical rate in fpm (ft/min.) which was achieved at the time which is assessed. Precede the number with a minus sign (-) for descent rates.
+    
+
+
+
+Compliance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Evaluation 3
+
+
+                Time of evaluation:
+
+seconds
+
+      Enter the time at which the compliance should be assessed, in seconds after the time when RA was issued.
+    
+
+Achieved vertical rate:
+
+fpm
+
+      Enter the vertical rate in fpm (ft/min.) which was achieved at the time which is assessed. Precede the number with a minus sign (-) for descent rates.
+    
+
+
+
+Compliance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Questions or comments? See the Disclaimer for contact information.

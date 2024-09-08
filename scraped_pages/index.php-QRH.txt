@@ -1,0 +1,195 @@
+Quick Reference Handbook (QRH)
+
+
+
+
+
+
+
+
+
+
+
+  Quick Reference Handbook (QRH)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+The Quick Reference Handbook (QRH) contains all the procedures applicable for abnormal and emergency conditions in an easy-to-use format. In addition, performance data corrections are also provided for specific conditions.
+The QRH is a stand-alone document. On the back cover of the QRH, the Normal Checklists are usually also provided. For aircraft not fitted with an Electronic Centralized Aircraft Monitor (ECAM) system or Engine Instruments and Crew Alerting System (EICAS) - or equivalent system the QRH is the sole reference for the management of any abnormal/emergency condition. For aircraft fitted with an ECAM/EICAS, the QRH is used in coordination with the ECAM/EICAS or as a back-up to it.
+Coordinated Use of ECAM/EICAS and QRH
+To understand the design objectives of the QRH, it is worth reviewing the main operating characteristics of the ECAM/EICAS. The ECAM/EICAS features three types of procedures :
+
+Self-contained ECAM/EICAS procedures :
+
+Such procedures are possible whenever the aircraft systems (even under degraded conditions) are able to :
+
+sense/detect a failure condition, activate the caution or warning alert light and display the relevant procedure(s),
+assess the status of pre-conditions for conditional action steps,
+acquire all the inputs required to provide a feedback on crew actions,
+confirm the status of any system(s) reconfiguration(s),
+identify inoperative systems and provide associated limitations or restrictions
+
+
+
+
+
+
+ECAM/EICAS procedures featuring a prompt for the continuation of the procedure in the QRH :
+
+Prompts are used, at any point in the procedure, when aircraft systems are no longer able to acquire all the conditions and signals required to :
+
+trigger the subsequent action steps,
+provide a feedback on crew actions and systems reconfiguration(s),
+determine inoperative systems and associated limitations.
+
+
+
+
+
+
+QRH procedures :
+
+QRH procedures are used whenever the ECAM/EICAS is not able to detect/sense the failure or prevailing condition, e.g. :
+
+in case of loss of electrical power to all ECAM/EICAS components,
+for system malfunctions that are not monitored by the ECAM/EICAS (e.g., FMC failure, PFD or ND failure),
+for conditions that cannot be sensed by any aircraft sensor (e.g., flight in severe turbulence, volcanic ash encounter, bomb on board, ditching, ... ).
+
+
+
+
+
+For aircraft not fitted with an ECAM/EICAS system, all procedures are solely QRH procedures.
+For aircraft fitted with an ECAM/EICAS system, all three types of procedures may be observed, with some variations, depending on successive generations of ECAM/EICAS systems. This requires a coordinated use of the ECAM/EICAS and QRH.
+Conditions permitting (e.g., during cruise), after completing an ECAM/EICAS procedure(s) - as available - and QRH procedures, the flight crew may refer to the expanded abnormal/emergency procedures contained in the AOM/FCOM for possible additional guidance.
+QRH Design Features
+It must be acknowledged that any abnormal/emergency procedure reflects a carefully developed and tested strategy to cope with the prevailing condition. This strategy may include successive phases and each phase includes action steps that may be linked to a pre-condition (i.e. conditional action steps).
+In developing/authoring the QRH, the main challenge is to reflect the dynamic nature of abnormal / emergency procedures, in terms of :
+
+Overall strategy,
+Successive phases,
+Conditional action steps : ■ If .... :
+
+The agreement of both pilots on the ■ If .... conditions is required before performing any conditional action step,
+
+
+Feedback on crew actions,
+Conditional recovery of affected systems,
+Inoperative systems and associated performance limitations,
+Links with other QRH procedures (using a prompt).
+
+More than in any other document, clear and unambiguous layout ergonomics is paramount in the QRH in order to avoid any :
+
+Omission of an action (or action group),
+Performance of an undue/irrelevant/inadvertent action.
+
+The main ingredients of such an error-resistant layout ergonomics are :
+
+The correct identification of preconditions / conditional action steps, using symbols such as or ■ , or ●
+The proper indenting (lateral shift) of actions belonging to the same conditional actions group,
+Adequate spacing between the various phases of the procedure and/or between conditional actions groups.
+
+The error-resistant QRH design should be backed-up/reinforced by adherence to operating golden rules such as the verification of each action result before proceeding to the next action step. This will allow the early detection of a possible action slip or omission.
+Conclusion
+The design and development of the QRH is critical to the proper response to appropriate situations. In aircraft so equipped, it is intimately linked to the ECAM/EICAS for an optimum and integrated use (with some variations depending on the successive generations of ECAM/EICAS systems).
+Each QRH procedure must be seen as a strategy to address a prevailing failure condition and minimize its operational impact in terms of affected systems and/or performance. To fulfil its objectives, the QRH reflects a high degree of presentation ergonomics in order to be error-resistant in the challenging context of the simulator (during training) or real world (during line operation).
+Related Articles
+
+Checklists - Purpose and Use
+Emergency and Abnormal Checklist
+Operations Manual
+Minimum Equipment List (MEL)
+Electronic Centralized Aircraft Monitor (ECAM)
+Engine Indicating and Crew Alerting System (EICAS)
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,146 @@
+Flight Information Region (FIR)
+
+
+
+
+
+
+
+
+
+
+
+  Flight Information Region (FIR)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Global airspace is divided into nine International Civil Aviation Organisation (ICAO) air navigation regions, sometimes called Global Air Navigation Plan regions. Airspace is divided further into Flight Information Regions (FIRs).
+This article notes basic FIR concepts, definitions and terms, and lists a few examples of problems being addressed through the established mechanisms for changing FIRs and upgrading air traffic control (ATC) capabilities.
+Definitions
+The EUROCONTROL ATM Lexicon defines FIR as “An airspace of defined dimensions within which flight information service and alerting service are provided.” EUROCONTROL credits ICAO Annex 2 – Rules of the Air, 2005, as this definition’s official source.
+According to the lexicon, the EUROCONTROL SASS-C Glossary defines an FIR as “A three-dimensional area in which aircraft are under control of usually a single authority. Internally, an FIR is divided into several geographical areas called sectors. Sometimes one or more FIRs have a combined upper area control [i.e., an upper flight information region (UIR)]. SASS-C stands for Surveillance Analysis Support System for ATC-Centre.
+In some cases, FIRs are split vertically into lower and upper sections. The lower section remains referred to as a FIR, but the upper portion is referred to as an Upper Information Region (UIR).
+Details and Procedures
+ICAO groups each FIR within one air navigation region: Africa–Indian Ocean Region (AFI); Asia Region (ASIA); Caribbean Region (CAR); European Region (EUR); Middle East Region (MID); North American Region (NAM); North Atlantic Region (NAT); Pacific Region (PAC); and South American Region (SAM). Each of the nine regions contains a varied number of FIRs. According to ICAO, the geographical boundaries of the current ICAO air navigation regions are defined in Appendix I to the Directives to Regional Air Navigation Meetings and Rules of Procedure for their Conduct (Doc 8144). ICAO Doc 7030, Regional Supplementary Procedures, details the operating procedures for the areas of applicability, specified according to groups of [FIRs] shown in the chart of Doc 7030.” That document also contains FIR technical details and is the official source of each FIR’s respective procedures. Unlike its universally applicable SARPs, ICAO publishes FIR data and procedures to be strictly applicable by ICAO Contracting States to specifically named groups of FIRs.
+Regional Supplementary Procedures also provides the procedural means of implementing the provisions of [PANS-ATM]; the Performance-Based Communications and Surveillance (PBCS) Manual and any regionally agreed procedures supplementing the provisions of Annexes to the [ICAO] Convention and PANS, in airspace over the high seas.”
+Each FIR is managed by a controlling authority that has responsibility for ensuring that air traffic services are provided to the aircraft fling within it. For example, the U.K. Civil Aviation Authority is the controlling authority for the U.K. and NATS provides air traffic services for them.
+According to NATS, “FIRs vary in size. Smaller countries may have one FIR in the airspace above them and larger countries may have several. Airspace over the ocean is typically divided into two or more FIRs and delegated to controlling authorities within countries that border it.”
+Airspace within an FIR (and UIR) is usually divided into pieces that vary in function, size and classification. Classifications determine the rules for flying within a piece of airspace and whether it is ‘controlled’ or ‘uncontrolled’. Aircraft flying in controlled airspace must follow instructions from Air Traffic Controllers. Aircraft flying in uncontrolled airspace are not mandated to take air traffic control services but can call on them when required. (NATS. “Introduction to Airspace.” Airspace Explorer, NATS website.)
+Systemic Solutions to FIR Problems
+Presentations by the ICAO Secretariat in recent years also provide insights into complex FIR-related problems. States within the air navigation regions often have to collaborate to diagnose the problems and to propose amendments to Doc 7030, Regional Supplementary Procedures. ICAO encourages global sharing of such efforts and experiences.
+One such problem was clarifying which entities have lead responsibility for FIRs. This problem has been stated simply as accomplishing an “alignment of air navigation plans and regional supplementary procedures.” In October 2012, a need to align the “areas of applicability” in Regional Supplementary Procedures that did not coincide with the areas of applicability in certain air navigation regions was identified. The objectives were to simplify the procedures for regional performance framework management, and to efficiently plan and implement ICAO’s long-term Aviation System Block Upgrades.
+“In consequence of this non-alignment, the formal responsibility for the regional performance framework management was shared between [ICAO Planning and Implementation Regional Groups (PIRGs)], resulting in unnecessary complexity and considerable duplication of work, time delays due to coordination requirements, inefficiency and potential disharmony in PIRG decisions,” ICAO said. After three years of work, the 2015 completion of a revision to Doc 7030 created new areas of applicability and were expected to overcome the issue.
+Another problem, summarized by the ICAO Secretariat in 2016, was helping stakeholders from a group of Asia and Pacific Regions States to reach a consensus on implementing changes to the minimum longitudinal aircraft separation and the minimum lateral aircraft separation in selected FIRs. The minimum longitudinal proposed separation was 50 nm and the minimum lateral separation was 30 nm. Stakeholders agreed that existing and planned area navigation (RNAV)–based and required navigation performance (RNP)–based distances “should continue, subject to the conditions that: PBCS monitoring is in place; and, performance-based horizontal separation using PBCS designators in flight plans is implemented as soon as practically possible.”
+The agreement also said that these states would conform to common implementation dates using PBCS indicators to establish performance-based separation in adjacent airspace. Again, the entire effort was supported by these states’ joint submission to ICAO of proposals for amendment to Regional Supplementary Procedures and their FIR classifications.
+A related briefing by the States said, “States that apply or plan to apply 30 nm and/or 50 nm longitudinal separation minima and/or 30 nm or 23 nm lateral separation [minima] are urged to implement the ATM system capability to process and use ICAO PBCS flight plan indicators to determine aircraft eligibility for performance-based horizontal separation by not later than 29 March 2018.”
+Moreover, stakeholders agreed to develop a template in 2017 derived from their proposals for amendment to Regional Supplementary Procedures. This was designed not only for their own implementations but for use by any other states implementing PBCS provisions in this manner.
+Other potential FIR risks and issue topics are how air traffic controllers and systems maintain standard aircraft separation during transitions/handovers between adjacent FIRs or FIR sectors. Another is unanticipated flight path changes for weather-related rerouting/flight level changes, emergencies, diversions, etc. Other potential issues are the risks in ATC management of dynamic airspace boundaries, airspace reconfigurations, and integrating legacy technologies with new technologies relevant to FIRs (e.g., operators conducting flights in airspace where traffic separation is dependent on new performance-based communication and surveillance (PBCS), which requires them to insert their required communication performance (RCP) indicators and required surveillance performance (RSP) indicators in their flight plans).
+References
+
+“Appendix 1” to ICAO Doc 8144-AN/874 — Directives to Regional Air Navigation Meetings and Rules of Procedure for their Conduct.
+NAT Doc 007: North Atlantic Operations and Airspace Manual, V.2019-3 (Applicable from July 2019), prepared by the ICAO European and North Atlantic Office on behalf of the North Atlantic Systems Planning Group (NAT SPG).
+NAV Canada 2015 Air Navigation System Plan, September 2015.
+NATS. “Introduction to Airspace.” Airspace Explorer, NATS website.
+
+Related Articles
+
+ICAO Regions
+
+Further Reading
+
+Regional Supplementary Procedures (ICAO Doc 7030) is only available to authorised website visitors through the ICAO Secure Portal.
+“Information on the Revision of the Regional Supplementary Procedures (Doc 7030)” by ICAO Secretariat, Twenty Fifth Meeting of the Asia/Pacific Air Navigation Planning and Implementation Regional Group (APANPIRG/25), Kuala Lumpur, September 8–11, 2014.
+“Uncivil Aviation: Amid negotiations for the reunification of Cyprus, risks of pilot confusion persist in the Nicosia FIR.” by Wayne Rosenkrans, Flight Safety Foundation AeroSafety World, August 2010, pages 40–43.
+“Regulation 551/2004 - Organisation and Use of the Airspace in SES,” by the European Union, Official Journal of the European Union, March 10, 2004. SES is the acronym for Single European Sky.
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,151 @@
+Stick Pusher
+
+
+
+
+
+
+
+
+
+
+
+  Stick Pusher
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Control 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+A Stick Pusher, sometimes referred to as a Stick Nudger, is a device installed in some fixed-wing aircraft to help prevent an aerodynamic stall.
+Description
+The ICAO mandated safety requirements applicable to transport category, fixed-wing aircraft are very demanding both in pre-stall handling qualities and in stall recovery characteristics. Some aircraft are not able to comply with these safety requirements by relying solely on their inherent aerodynamic traits and must, therefore, achieve the equivalent level of safety by other means. There are also a number of aircraft designs which are vulnerable to the deep stall phenomenon which potentially can make the recovery from a stall impossible. To help prevent these aircraft from being exposed to the risks asssociated with entering a stalled condition, the designer may incorporate a stick pusher, which is a stall prevention device, into the aircraft design.
+A stick pusher system incorporates both a passive monitoring component and an active intervention component that consists of an hydraulic or electro-mechanical pusher mechanism. The monitoring component constantly evaluates critical flight parameters such as airspeed, load factor and flap setting against the aircraft angle of attack. If the angle of attack reaches a predetermined value, the intervention component of the system is activated and pushes forward on the elevator control system until the angle of attack is reduced to an acceptable value. The system operates autonomously and without any required action by the pilots.
+A stick pusher is normally incorporated in an aircraft in conjuction with a stall warning system such as a aural alert or a stick shaker. In most circumstances, the warning system would energise prior to the activation of the stick pusher. This would allow the pilots the opportunity to correct the high angle of attack before the intervention of the stall prevention system.
+There are some segments of flight such as the takeoff rotation and the landing flare where activation of a stick pusher system would not be desirable. Most stall protection systems will automatically disable the stick pusher during all or a portion of the associated flight phases.
+As with almost any system, there are potential risks caused by certain failures. In this case, a failure could result in activation of the stick pusher when the flight parameters do not require it. The designer must, therefore, make provision for the flight crew to override an unwanted activation. In some aircraft, the stick pusher can be overpowered by the pilot, while in others, the stick pusher system can be manually disabled by means of a switch which is usually located on the control column.
+Accidents and Incidents
+
+
+AT72, vicinity Tyumen Russian Federation, 2012On 2 April 2012, the crew of an ATR72-200 which had just taken off from Tyumen lost control of their aircraft when it stalled after the flaps were retracted and did not recover before it crashed and caught fire killing or seriously injuring all occupants. The Investigation found that the Captain knew that frozen deposits had accumulated on the airframe but appeared to have been unaware of the danger of not having the airframe de-iced. It was also found that the crew had not recognised the stall when it occurred and had overpowered the stick pusher and pitched up.
+
+AT76, vicinity Taipei Songshan Taiwan, 2015On 4 February 2015, a TransAsia Airways ATR 72-600 crashed into the Keelung River in central Taipei shortly after taking off from nearby Songshan Airport after the crew mishandled a fault on one engine by shutting down the other in error. They did not realise this until recovery from loss of control due to a stall was no longer possible. The Investigation found that the initial engine fault occurred before getting airborne and should have led to a low-speed rejected take-off. Failure to follow SOPs and deficiencies in those procedures were identified as causal.
+
+LJ24, vicinity Bornholm Denmark, 2012On 15 September 2012, a Learjet 24 experienced double engine failure in daylight VMC as it positioned visually on base leg at Bornholm and an emergency was declared. The subsequent handling of the aircraft then led to a stall from which recovery was not possible and terrain impact occurred in a standing crop at low forward speed shortly after crossing the coastline. The aircraft was destroyed and both occupants seriously injured. Investigation established that the engines had stopped due to fuel starvation resulting from mismanagement of the fuel system and had been preceded by a low fuel quantity warning.
+
+AT45, vicinity Prague Czech Republic, 2012On 31 October 2012, the crew of an ATR42 on a handover airworthiness function flight out of Prague briefly lost control in a full stall with significant wing drop after continuing a prescribed Stall Protection System (SPS) test below the appropriate speed and then failing to follow the correct stall recovery procedure. Failure of the attempted SPS test was subsequently attributed to both AOA vanes having become contaminated with water during earlier aircraft repainting at a specialist contractor and consequently being constrained in a constant position whilst the SPS test was being conducted at well above the prevailing freezing level.
+
+B712, en-route, Western Australia, 2006On 28 February 2006, a Boeing 717-200 being operated by National Jet for Qantas Link on a domestic scheduled passenger flight from Paraburdoo to Perth, Western Australia in day IMC experienced an activation of the stall protection system just after the aircraft had levelled at a cruise altitude of FL340. The response of the flight crew was to initiate an immediate descent without either declaring an emergency or obtaining ATC clearance and, as a result, procedural separation against opposite direction traffic at FL320 was lost. The 72 occupants were uninjured and the aircraft was undamaged.
+
+DH8D, vicinity Buffalo NY USA, 2009On 12 February 2009, a Bombardier DHC-8-400 on a night ILS approach to Buffalo-Niagara airport departed controlled flight and was completely destroyed by ground impact and subsequent fire. The Investigation found that the Captain had failed to effectively manage the flight and that his consequent response to a resulting stick shaker activation had been completely contrary to applicable procedures and his training, leading directly to the loss of the aircraft. The aircraft operator s normal approach procedures were also determined to be inadequate and it was noted that prior to the accident, sterile flight deck procedures had been comprehensively ignored.
+
+AT45, vicinity Sienajoki Finland, 2007On 1 January 2007, the crew of a ATR 42-500 carried out successive night approaches into Seinajoki Finland including three with EGPWS warnings, one near stall, and one near loss of control, all attributed to poor flight crew performance including use of the wrong barometric sub scale setting.
+
+
+
+
+Related Articles
+
+Loss of Control
+Stall Warning Systems
+Stall Protection Systems (SPS)
+Stall
+Deep Stall
+
+Further Reading
+NTSB Safety Alerts on General Aviation risks
+
+Safety Alert 19 - Prevent Aerodynamic Stalls at Low Altitude
+
+EASA
+
+EASA SIB 2013-02 - Stall and Stick Pusher Training
+
+
+
+
+
+Categories
+
+
+Loss of Control
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

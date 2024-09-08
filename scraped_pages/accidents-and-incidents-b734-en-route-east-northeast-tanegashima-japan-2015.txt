@@ -1,0 +1,315 @@
+B734, en-route, east northeast of Tanegashima Japan, 2015
+
+
+
+
+
+
+
+
+
+
+
+  B734, en-route, east northeast of Tanegashima Japan, 2015
+
+
+
+
+
+
+
+
+
+Summary
+
+On 30 June 2015, both bleed air supplies on a Boeing 737-400 at FL370 failed in quick succession resulting in the loss of all pressurisation and, after making an emergency descent to 10,000 feet QNH, the flight was continued to the planned destination, Kansai. The Investigation found that both systems failed due to malfunctioning pre-cooler control valves and that these malfunctions were due to a previously identified risk of premature deterioration in service which had been addressed by an optional but  recommended Service Bulletin which had not been taken up by the operator of the aircraft involved.
+
+
+
+
+Event Details
+
+When
+
+30/06/2015
+
+
+
+Event Type
+
+
+AW,
+              LOC
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+Not Recorded
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 737-400
+
+
+
+
+
+
+
+
+
+Operator
+
+Japan Transocean Air
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Naha Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Kansai International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Cruise
+
+
+
+
+
+
+
+
+Location
+
+Approx.
+
+east northeast of Tanegashima
+
+
+
+
+
+
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Significant Systems or Systems Control Failure
+          
+
+
+
+
+EPR
+
+Tag(s)
+
+
+              Emergency Descent
+          
+
+
+
+
+CS
+
+Tag(s)
+
+
+              Pax oxygen mask drop
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Air Conditioning and Pressurisation,
+              Bleed Air
+          
+
+
+
+Contributor(s)
+
+
+              OEM Design fault,
+              Component Fault in service
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Non-aircraft damage
+
+Yes
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Number of Non-occupant Fatalities
+
+0
+
+
+
+Number of Occupant Fatalities
+
+0
+
+
+
+Off Airport Landing
+
+Yes
+
+
+
+Ditching
+
+Yes
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 30 June 2015, a Boeing 737-400 (JA8525) being operated by Japan Transocean Air on a scheduled domestic passenger flight from Naha to Kansai in unrecorded day flying conditions as flight 002 made an emergency descent from the cruise at FL370 to 10,000 feet QNH in daylight when both pressurisation systems failed in quick succession. The flight was subsequently continued to destination without further event.
+Investigation
+An Investigation was carried out by the Japan Transport Safety Board (JTSB). Relevant data was recovered from the DFDR and CVR. It was a noted that the 48 year-old Captain had accumulated 12,213 total flying hours including 8,721 hours on type. The 30 year-old First Officer had accumulated 2,630 total flying hours, most of them - 2,403 hours - on type.
+It was established that approximately half an hour after the aircraft had reached its cruising altitude of FL 370, an indication that the left bleed supply had ceased occurred. Engine anti ice but not airframe anti ice was in use at the time. As the flight crew commenced the procedure for this failure, the same indication was displayed for the right bleed air system and the indication of duct pressure was observed to have dropped to zero. The cabin altitude immediately began to rise and within two minutes of the initial left side loss of bleed air, it had exceeded 10,000 feet and triggered annunciation of a Cabin High Altitude Warning. The crew stopped running the bleed air loss checklist and commenced an emergency descent, donning oxygen masks and manually deploying the passenger oxygen masks. The Captain reported that the indicated cabin altitude had reached a maximum of approximately 16,000 feet. Once the aircraft had descended to and levelled at 10,000 feet, the Captain decided that in the absence of any consequent issues in the cabin, there was no reason why the flight should not continue to its intended destination unpressurised and this was achieved without any apparent further difficulty.
+After a detailed assessment of the aircraft bleed air system, it was concluded that the loss of pressurisation on both systems in quick succession had been initially triggered by malfunction of the pre-cooler control valve in the left-side system which had resulted in insufficient mixing of the high temperature/pressure engine bleed air used for cabin pressurisation and conditioning with cooler (and low pressure) engine inlet fan air in the pre cooler (see the system diagram below). The output from the pre-cooler is normally about 390ºF and if the actual temperature exceeds that of the first system limit switch - 450ºF - this switch should signal the system PRSOV to reduce the amount of high temperature air entering the pre cooler. However, it was found that this would not have happened because the 450° switch was found to be faulty. The temperature of the air leaving the pre cooler would have continued to rise until it reached the setting of the second limit switch - 490 ºF - at which point this switch did function as designed and closed the PRSOV and illuminated the left-side ‘BLEED TRIP OFF’ caution on the flight deck.
+It was concluded that when the loading of the remaining right-side bleed air system increased to compensate for the loss of the left-side system, a similar malfunction of the pre-cooler control valve on the right side system had caused the output bleed air temperature to rise and the 450 ºF limit switch in this system had also malfunctioned leaving the 490 ºF limit switch to close the right side system PRSOV and thereby completely stop the supply of high pressure bleed air to the aircraft cabin. With only inlet fan air at ambient air pressure provided to both Environmental Control System (ECS) Packs, the cabin altitude had then begun to rise quickly.
+
+A diagram of the left side bleed air system. [Reproduced from the Official Report]
+The Investigation found that the pre-cooler control valves and their downstream 450 ºF limit switch in both the left and right side systems had deteriorated to the point of unserviceability. It was noted that a Service Bulletin (SB) with ‘Recommended’ status had been issued nine years earlier after reports of malfunctions in both components which had provided alternatives. The aircraft involved was found not to have received this SB attention.
+The Investigation determined that the Probable Cause of the loss of pressurisation was caused by the complete stoppage of the system air supply from both bleed air systems when their PRSOVs closed automatically because the bleed air exit temperatures exceeded the allowable maximum. The excessive temperature was reached due to malfunctions in both systems’ Pre-cooler Control Valves with the 490º F maximum only being reached because both systems’ 450º F temperature sensors, which were supposed to control PRSOV function, were also faulty.
+Safety Action taken by Japan Transocean Air as a result of this event and known to the Investigation was noted as including the implementation of the already available SB to restore reliable function of the cabin air temperature regulation, the addition of a check on the integrity of Pre-cooler Control Valves at ‘C’ Check and regular inspection of the thermostats on the 450º F limit switches every 16,000 flight hours.
+The Final Report was adopted by the JTSB on 13 October 2017 and published on 26 October 2017. No Safety Recommendations were made.
+Related Articles
+
+Loss of Cabin Pressurisation
+Aircraft Pressurisation Systems
+Cabin Altitude
+Pressurisation Problems: Guidance for Flight Crews
+Aircraft Bleed Air Systems
+Service Bulletin (SB)
+Emergency Descent: Guidance for Flight Crews
+Aircrew Oxygen Mask Utilisation

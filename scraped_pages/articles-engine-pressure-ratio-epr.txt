@@ -1,0 +1,117 @@
+Engine Pressure Ratio (EPR)
+
+
+
+
+
+
+
+
+
+
+
+  Engine Pressure Ratio (EPR)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Engine Pressure Ratio (EPR), in a jet engine, is the ratio of the turbine discharge pressure divided by the compressor inlet pressure.
+Description
+Engine Pressure Ratio (EPR) is a means of measuring the amount of thrust being produced by a jet engine. As there is a finite limit on the amount of pressure that an engine is designed to produce, EPR can be used to provide feedback to the pilot as the thrust lever is moved or to the Full Authority Digital Engine Control (FADEC), when installed, to ensure that engine limitations are not exceeded. An alternate method of limiting engine thrust production is based on compressor/fan speed and is referred to as N1.
+To determine EPR, pressure measurements are taken by probes installed in the engine inlet and at the turbine exhaust. The data from these sensors is sent to a differential pressure transducer which then indicates the ratio of the two pressures on a flight deck EPR gauge. EPR system design automatically compensates for the effects of airspeed and altitude.
+
+Example of an ECAM display with EPR indicator
+Related Articles
+
+N1 Indicator
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

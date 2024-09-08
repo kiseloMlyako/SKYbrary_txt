@@ -1,0 +1,227 @@
+Observed Behaviour
+
+
+
+
+
+
+
+
+
+
+
+  Observed Behaviour
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+In principle, it ought to be possible to learn something about the strain on operators by systematic observation.
+Discussion/References
+Activity analysis and postural analysis are specialised forms of behaviour analysis. They concentrate on the observable actions that make up, or are required by the control task. Much body movement is, however, irrelevant to the task, and may reflect the internal state of the operator.
+It ought, in principle, to be possible to observe operators in action and to deduce from their behaviour (directly observed or video-recorded) the state of stress they are experiencing. Morris (1982) gives a good preliminary survey of the field of gestures, mostly from an Anglo-American viewpoint. Morris et al (1978), however, shows how gestures vary from region to region, which would suggest, as observation confirms, that there are considerable variations in gestures and attitudes between different nationalities. Air traffic controllers and many other operators are trained to appear calm when under great strain. This acquired calm applies to their physical gestures as well as to their voices. Ad-hoc trials on an opportunity basis, where controllers in real-time simulation were presented with unexpected and sometimes bizarre behaviour by the simulated aircraft, produced no observable reaction on the part of the controller.
+A rather coarse measure could be derived from the observation that operators tend to lean forward when concentrating, and back when relaxing. It would probably be possible to automate this form of observation, using video recording and the Noldus Observer system, (Noldus et al, 2000), in the form employed to record animal movements. It might be necessary for the operators to wear identifying reflective patches, on caps or badge holders.
+
+
+
+
+Categories
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+Generics
+
+
+Type of method
+Observation
+
+
+Target of method
+Strain
+
+
+The behaviour which is a response to the tasks of the operator will normally be studied in Postural Analysis (QV). Experienced observers may identify behaviour that reflects strain in the operators.
+
+
+Time Scale of method
+Hours
+
+
+Although individual behaviours take seconds, or minutes, it seems probable that it would require records for an entire exercise to detect significant changes in the behaviour of operators.
+
+
+Portability of method
+Yes
+
+
+Direct observation can easily be transferred from place to place, since the equipment used (clipboard, laptop or palm-top computer) is autonomous and easily portable.
+
+
+Observer Effect
+Yes
+
+
+If an operator is being directly observed by an investigator, he may take more care to use correct procedures. (In practice, this sort of observer effect wears off rapidly, particularly under heavy workload). Precautions can be taken to reduce observer effects, such as observing using a video link.
+
+
+Context of studies
+
+
+Laboratory studies
+Try
+
+
+ 
+
+
+Simulation studies
+Try
+
+
+ 
+
+
+Field studies
+Try
+
+
+ 
+
+
+Potential problems with the method
+
+
+Failure risk
+High
+
+
+Air Traffic controllers, and many other operators who communicate with other people are trained to maintain a calm demeanour at all times. It may well be that there is not sufficient difference in the behaviour of operators under higher or lower workloads to produce an observable difference.
+
+
+Bias risk
+High
+
+
+There are considerable variations in the behavioural styles of different operators. In addition, the operators’ behaviour may be affected by many extraneous factors, some of which may be unknown, and uncontrollable.
+
+
+Ethical problems
+Privacy
+
+
+In addition, care should be taken not to allow the circulation of video clips of embarrassing incidents, etc...
+
+
+Costs of the method
+
+
+Staff Cost
+Low
+
+
+An automated system would presumably not require extensive staffing, particularly if sampling methods can be employed.
+
+
+Set-up Cost
+Low, Moderate, High
+
+
+The set-up cost for paper-and-pencil observation is low, but if sophisticated observation and recording equipment is required the cost may be extremely high.
+
+
+Running Cost
+High
+
+
+If manual observation is needed, skilled observers will be required.
+
+
+Analysis Cost
+Low
+
+
+Provided that data are available in a computer compatible form, analysis costs are unlikely to be high.
+
+
+Analysis data
+
+
+Analysis Speed
+Fast
+
+
+Computer-based analysis is, if properly organised, very fast. If, however, extensive data cleaning is necessary, the time taken may be rather longer.
+
+
+Data Automation
+Difficult
+
+
+The automatic recognition of a variety of gestures, hesitations, displacement activities etc. presents technical and theoretical difficulties.
+
+
+Analysis Automation
+Easy
+
+
+If the data collection can be automated, data analysis should be standard.
+
+
+Status
+Tentative
+
+
+Tentative - under consideration.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

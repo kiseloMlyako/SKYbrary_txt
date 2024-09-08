@@ -1,0 +1,135 @@
+Pitot Static System
+
+
+
+
+
+
+
+
+
+
+
+  Pitot Static System
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Flight Technical 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+An aircraft pitot-static system comprises a number of sensors which detect the ambient air pressure affected (pitot pressure) and unaffected (static pressure) by the forward motion of the aircraft. These pressures are used on their own or in combination with each other to provide indications of various flight parameters.
+
+Diagram of a pitot-static system including the pitot tube, pitot-static instruments and static port
+These include:
+
+Altitude (Altimeter)
+Airspeed (Air Speed Indicator)
+Mach Number (Machmeter)
+Vertical speed (Vertical Speed Indicator).
+
+Pitot and static pressure are also used in other equipment, such as the Autopilot and the Cabin Altimeter.
+Static Pressure
+Static pressure is measured through a number of vents, situated at aerodynamically neutral points on the aircraft fuselage. Vents are sited on either side of the fuselage and feed into a common tube; this has the effect of cancelling out to some extent errors arising from the position of the vents.
+A combination of careful vent siting and accurate calibration reduces errors to an acceptable degree.
+Commercial aircraft have at least two completely independent static systems to provide redundancy in the case of system failure.
+Static vents are often plugged when the aircraft is parked for more than a short period of time to reduce the chance of blockage or contamination. Vents may be electrically heated to prevent blockage by ice.
+Pitot Pressure
+Pitot pressure is measured in a pitot tube or pressure head, which is an open tube facing forward along the axis of the aircraft. The pressure measured in the tube is a combination of static pressure and pressure due to the aircraft forward speed. Pitot tubes are carefully sited to reduce to a minimum error due to the flow of air over the aircraft.
+Commercial aircraft have at least two completely independent pitot systems to provide redundancy in the case of system failure.
+Pitot tubes are normally covered when the aircraft is parked for more than a short period of time to reduce the chance of blockage or contamination. They are invariably electrically heated to reduce contamination by moisture and prevent blockage by ice.
+Air Data Computer
+Most modern aircraft are fitted with an Air Data Computer (ADC). This computer uses inputs from the pitot-static system and from temperature sensors to determine Indicated Airspeed, Mach Number, True Airspeed, Altitude, Vertical Speed, Outside Air Temperature (OAT) and Total Air Temperature (TAT). These data are fed to aircraft systems, especially the Electronic Flight Instrument System.
+Related Articles
+
+Altimetry System Error
+Unreliable Airspeed Indications
+
+
+
+
+
+Categories
+
+
+Flight Technical,
+              General Aviation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

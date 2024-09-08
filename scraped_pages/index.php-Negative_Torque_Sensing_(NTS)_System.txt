@@ -1,0 +1,119 @@
+Negative Torque Sensing (NTS) System
+
+
+
+
+
+
+
+
+
+
+
+  Negative Torque Sensing (NTS) System
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Negative Torque is said to occur when conditions are such that air loading on a propeller causes it to drive the engine to which it is attached vice the normal condition in which the engine drives the propeller.
+Description
+Negative Torque Sensing (NTS) Systems are found on turboprop engines that are equipped with a shaft-driven constant speed propeller as well as in some free turbine constant speed propeller installations.
+If the engine power levers are reduced to flight idle on a shaft driven installation, the blade pitch of a constant speed propeller will reduce towards its minimum or "finest" blade angle in an effort to maintain propeller RPM. If the airspeed is high, the minimum blade angle may not be fine enough to maintain the governed propeller RPM and the air load will begin to drive the propeller causing activation of the NTS system. As negative torque causes significant drag and could result in a mechanical "decoupling" of the engine and propeller, the NTS signal will momentarily activate the propeller feathering system to drive the propeller blades towards their "coarsest" or full feather position in an attempt to reduce the air load on the propeller and to reduce the associated drag. The NTS system will only activate the feathering system long enough to negate the negative torque signal and, without either pilot intervention to increase engine power or a reduction in airspeed, the NTS system will cycle.
+In the event of an engine failure in a free turbine system, the torque produced by the engine drops off dramatically. The NTS system responds to this loss of torque by causing the feathering system to drive the blade angle towards the minimum drag or full feather position.
+Related Articles
+
+Feathering
+Constant Speed Propeller
+Variable Pitch Propeller
+Blade Pitch
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

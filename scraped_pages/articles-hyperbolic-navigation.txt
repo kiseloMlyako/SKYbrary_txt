@@ -1,0 +1,120 @@
+Hyperbolic Navigation
+
+
+
+
+
+
+
+
+
+
+
+  Hyperbolic Navigation
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+A Hyperbolic Navigation System is a system that produces hyperbolic lines (or surfaces) of position by measuring the difference in times of reception or in phase difference between radio signals from two or more synchronized transmitters.
+Discussion
+Assuming that the velocity of signal propagation is relatively constant across a given coverage area, one can use the elapsed time between transmission of a signal and reception of that signal to determine the distance between the transmitter and the receiver. Whilst this absolute timing can, in theory, be used to determine position by measuring the time of reception of two or more radio signals, it is necessary for the receiver to "know" the precise moment at which the transmitted signal was generated. To achieve this, very accurate clocks are required, both at the transmitter and at the receiver, and these must be precisely synchronised. Both technological limitations and excessive cost make the use of absolute time in a mobile receiver impractical. As a consequence, long range radio navigation using differential timing (or differential phase) was developed. These systems are referred to as Hyperbolic Navigation Systems.
+In a differential timing system, there is no requirement for the receiver to be synchronised with the transmitters. Only the signals from the transmitters of a single station (Consol), a chain of stations (LORAN-C) or the entire system (Omega), as appropriate, must be precisely synchronised. This can be achieved by hard-wiring the transmitter sites together, by using a master-slave interrogation-response system or by use of highly accurate and precisely synchronised clocks at each transmitter site. The receiver need not "know" what time a signal was sent; only that the signals of two stations were sent at precisely the same moment. By measuring the difference between the time of reception of the two signals, the position of the receiver can be established to be somewhere on a specific Line of Position (LOP) defined by that time differential. That is, a single measurement reveals a range of possible locations, not a single fix. Measuring the time of reception differential between a second transmitter pair yields a second LOP and where it intersects with the first indicates the location of the receiver.
+This 7 second YouTube video by Cristhian Timoté graphically demonstrates how the hyperbolic Lines of Position between two synchronised transmitters are generated. In the video, two radio transmitters are depicted with concentric circles around each to indicate distances traveled by the radiating signals. The various points at which the circles intersect create a family of hyperbolae, with the straight line, perpendicular to the baseline midway between the transmitters, representing all points with a zero time of reception differential. Each of the other hyperbolic curves represents a specific value for the time of reception differential. For a given time differential, the receiver will be located somewhere on the corresponding LOP. A second LOP from a different receiver pair or from a different navigational tool will be required to pinpoint the receiver position.
+Related Articles
+
+Multilateration
+Global Positioning System (GPS)
+Omega
+LORAN-C
+Consol
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

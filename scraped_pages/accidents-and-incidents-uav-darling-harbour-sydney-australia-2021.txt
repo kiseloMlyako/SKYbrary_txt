@@ -1,0 +1,225 @@
+UAV, Darling Harbour Sydney Australia, 2021
+
+
+
+
+
+
+
+
+
+
+
+  UAV, Darling Harbour Sydney Australia, 2021
+
+
+
+
+
+
+
+
+
+Summary
+
+On 15 January 2021, the pilot of a DJI Inspire 2 UAV being operated on a contracted aerial work task under a conditional permit lost control of it and, after it exitied the approved operating area, the UAV collided with the window of a hotel guest room causing consequential minor injuries to the occupant. The Investigation found that the loss of control was attributable to “strong magnetic interference” almost immediately after takeoff which caused the compass to feed unreliable data to the Internal Management Unit which destabilised its accelerometer and led to the loss of directional control which resulted in the collision.
+
+
+
+
+Event Details
+
+When
+
+15/01/2021
+
+
+
+Event Type
+
+
+AW,
+              HF,
+              LOC
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+General
+
+Tag(s)
+
+
+              Unmanned Aircraft Involved
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Procedural non compliance
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Significant Systems or Systems Control Failure,
+              Environmental Factors,
+              Collision Damage
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Flight Controls,
+              Navigation
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Aircraft damage
+
+Hull loss
+
+
+
+Non-aircraft damage
+
+Yes
+
+
+
+Non-occupant Casualties
+
+Yes
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 15 January 2021, the pilot of a DJI Inspire 2 UAV being operated on an aerial work task by Sky Monkey in day VMC from a position at Darling Harbour Sydney approximately 5 nm north of Sydney Airport lost control of the UAV and subsequently lost sight of it. It was subsequently found to have struck and broken the window of a guest room in a hotel approximately 330 metres west of the takeoff point resulting in its destruction and minor injuries to the occupant of the room from flying glass.
+
+The location of accident close to Sydney City Centre. [Reproduced from the Official Report] 
+Investigation
+An Investigation into the event was carried out by the Australian Transport Safety Bureau (ATSB). Flight data logs were recovered from the UAV controller by the operator and provided to the ATSB. Other flight data logs were also recovered from a Secure Digital (SD) card mounted on-board the UAV. 
+The Context
+The intended area of operation was within the aviation regulator CASA’s Restricted Area R405A which meant that a UAV operator wishing to operate in the area was required to apply for a permit. Such an application had been made and approved and the approval conditions included a radius of operation within 30 metres of a defined location. All flight was also to be not higher than 90 feet above surface level and no operations were permitted within 30 metres of the shoreline of Cockle Bay or within 30 metres of, or over, any vessel not directly associated with the authorised flights or in such a way that the master of any vessel under way would have to take avoiding action. It was noted that this permit did not exempt the UAV operator from the general conditions applicable to such flying which prohibited operation over a populous area, within 30 metres of any person not directly associated with the flying and all beyond visual line of sight (BVLOS) operations. 
+What Happened
+The UAV was being used to fulfil a contract for aerial photography and videography above the water of Cockle Bay at Darling Harbour. After being advised by the client that the subject was ready, the pilot set up the UAV within the Cockle Bay marina and after completing pre-flight checks then completed an uneventful first flight lasting just over 17 minutes.
+After about half an hour, the client advised that a further flight was required and fully-charged batteries were installed and pre-flight checks again completed. Recorded data from the controller which had been used showed that the UAV had initially climbed to about 65 feet agl during which time the pilot reported that the UAV’s retractable legs were raised. The UAV then proceeded in a westerly direction towards the centre of Cockle Bay but approximately 8 seconds of take-off and having only travelled about 5 metres, its pitch attitude decreased to 24° nose down and it rapidly accelerated whilst maintaining direction, altitude and pitch. The last data point recorded by the controller was 184 metres from the take-off location as the aircraft approached the western side of Cockle Bay (see the illustration below). At this point the UAV was at 85 feet agl and travelling at its maximum speed of 50 knots. Heading and speed data recovered from the UAV was consistent with the controller data with a slight difference in altitude data considered likely to be due to one data set using GPS altitude and the other using barometric altitude. 
+
+The UAV flight path from recorded on-board flight data (red) and from the controller (green). [Reproduced from the Official Report]  
+Following the cessation of controller-recorded data, on-board recorded data from the UAV showed that it had continued at its maximum speed on a relatively constant heading and altitude for another 150 metres until it hit the window of a hotel which resulted in it being destroyed and coming to rest on a balcony below the window. The window glass was found to have been 10.38 mm bronze-laminated glass compliant with the applicable manufacturing standard.    
+The pilot’s recollections of the loss of control broadly corresponded to the available flight data in respect of the uncommanded pitch change and acceleration soon after takeoff. They reported having immediately recognised that the behaviour of the UAV was abnormal but attempts to control it had no effect and added that when it was about 30 metres away, the controller screen had frozen and then gone black. Having subsequently lost sight of the UAV, the pilot called the Chief Pilot and the Chief Executive and was subsequently advised by the former that the UAV had collided with a hotel on the western side of Darling Drive. The pilot then proceeded to the hotel involved to brief hotel staff and the attending police officers before returning to Darling Harbour to complete the task using a back-up UAV.  
+Why It Happened
+It was noted that the data transmission system between the controller and the UAV had two independent channels, one for data upload and one for data download so that it was possible for one signal to be lost while maintaining the other. The manufacturer’s analysis of the flight data showed that a number of control inputs made by the pilot were received by the UAV for the duration of the entire flight indicating that the upload signal was maintained. However, the UAV had not responded to any of these inputs.
+The data showed that when the UAV became airborne, the compass was functioning normally but about a second after takeoff, the compass had been “subjected to strong magnetic interference” of unknown origin. Thereafter false signals sent from the compass to the UAV’s Internal Measurement Unit (IMU) had caused its accelerometer measurements to become unstable leading to the loss of directional control.  
+Although the UAV had a “failsafe” ‘Return To Home’ (RTH) function designed to prevent a flyaway in the event of a problem with signals from the controller, this was dependent on the correct functioning of the compass. However, since the signal upload link was therefore functional, the RTH function would not have been triggered. Also, since compass failure was the origin of the control problem, that alone would have rendered the RTH function inoperable.
+The manufacturer did observe that, as per the User Manual, control could be switched manually from the normal fully automated ‘P’ mode which the pilot had been using to the fully manual ‘A’ Mode would have allowed control of the UAV to be regained.
+Related Occurrences
+The Investigation reviewed the ATSB database and found that in the four year period 2017-2020 over one thousand UAV occurrences had been reported of which 94 had been classified as occurrences caused by the partial or complete loss of transmission and/or reception of digital information from the controlling equipment. Outcomes for these occurrences varied, depending on whether the aircraft crashed immediately, flew away, or auto-landed (either on land or in water) with three quarters of them being classified as accidents.
+A single Contributing Factor was identified based on the findings of the Investigation as follows: 
+
+Shortly after take-off the compass failed rendering the aircraft uncontrollable, disabling the Return to Home function and resulting in the collision with a building. 
+
+One Other Factor that increased risk was also identified:
+
+The remote pilot did not follow the emergency procedures outlined in the operations manual and did not comply with the operating limitations outlined in the Civil Aviation Safety Authority approval.
+
+Safety Action taken by the UAV manufacturer as a result of this event was noted to have included updating the User Manuals of a number of products, including the Inspire 2. These changes provide additional guidance on use of the fully manual attitude flight mode in the event of compass interference. 
+The following Safety Message was formulated following the conclusion of the Investigation:  
+While the reliability of Remotely Piloted Aircraft (RPAs) is generally high, they are not infallible. Occurrences reported to the ATSB indicate that UAV fly-away occurrences are not rare. It is therefore important that pilots ensure they are familiar with and well drilled in emergency procedures, as well as being proficient in flying in all flight modes. In the case of a UAV fly-away, whether it is due to a compass failure or loss of signal, there may only be a few seconds in which a pilot can take avoiding action. In the event of a compass failure, switching to the fully manual attitude flight mode may assist regaining control of the RPAS. Whereas, following a loss of signal to the UAV, the last remaining risk control to prevent a fly away are built-in design features such as the Failsafe Return to Home.  
+Remote pilots are also reminded that adhering to operational guidelines and limitations remains important for ensuring the safe operation of UAVs. This is particularly true in populated areas, where risks are potentially elevated. Adhering to the limitations and guidance provided by the regulator will ensure these risks remain as low as reasonably practicable. 
+The Final Report was released on 23 June 2022. No Safety Recommendations were made.   
+Related Articles
+
+Unmanned Aerial Systems (UAS)
+Interference to GNSS Signals
+Introduction to RPAS
+RPAS Pilot Training and Certification
+
+Further Reading
+
+Unmanned Aircraft Systems (UAS), ICAO, 2011
+Manual on Remotely Piloted Aircraft Systems (RPAS), ICAO, 2015

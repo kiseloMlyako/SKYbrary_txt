@@ -1,0 +1,152 @@
+Quantitative Safety Levels
+
+
+
+
+
+
+
+
+
+
+
+  Quantitative Safety Levels
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Management 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+A set of numerical expressions used to define levels of safety. (EUROCONTROL ESARR 3)
+Objective
+Wherever practicable, quantitative safety levels should be derived and maintained for all aviation services, systems and products under the managerial control of the operator/services provider.
+Description
+Quantitative safety levels are data presented in numerical terms in order to help estimate target levels of safety and measure the degree of their achievement in quantitative terms.
+According to ICAO Doc 9859 - Safety Management Manual, “Whenever quantitative safety performance targets are set, it must be possible to measure, or estimate, the achieved level of safety in quantitative terms. Use of quantitative data helps clarify most decisions and should be used where available.”
+Provisions in Annex II of Commission Implementing Regulation (EU) No 1035/2011 of 17 October 2011 (see further reading), and EUROCONTROL ESARR 3 place a requirement on ATS providers in Europe to “...ensure that, whenever practicable, quantitative safety levels are derived and are maintained for all functional systems”.
+Consistent with ICAO standards and recommended practices the Group of Aerodrome Safety Regulators (GASR), has established safety management requirements for aerodrome operators, including: “Whenever practicable, quantitative safety levels shall be derived, maintained and improved for all aviation products and services delivered by the Aerodrome. When quantitative safety levels cannot be derived a qualitative reasoning shall be performed in order to meet the safety objectives”.
+Quantitative safety data is also extensively used in aircraft manufacturing industry. It is essential for determining the airworthiness of aircraft structures and employs a vast amount of mathematically derived expressions. Examples of quantitative expressions of such information are: the airframe life cycles expectancy, the results of analysis of a composite materials used in airframe and engine manufacturing, analytical fatigue estimation of the aircraft components and systems, and many more.
+Quantitative Safety Levels and Safety Performance Targets
+Setting up quantitative expressions for the safety performance targets enables the organisation to better measure and monitor the achieved levels of safety. The usage of reliable quantitative data will also provide a sound basis for management decision making.
+The desired safety outcome (target) may be presented either in absolute or relative terms. It is common practice to use mathematical models for the definition of quantitative safety performance targets, for example to define (estimate) a target rate of safety occurrences of a given severity. However, it is impossible or impractical to quantify some factors.
+Based on quantitative risk assessment, EUROCONTROL has established in ESARR 4 an overall safety performance target for ATM in the ECAC region - the maximum tolerable probability of ATM directly contributing to an accident of a commercial air transport aircraft shall not be greater than 1.55 x 10 -8 per flight hour. This overall safety performance target is used by ECAC states and air navigation service providers in the definition of the national and the service provider’s safety performance targets.
+Quantified Risk Based Approach
+The explanatory material of ESARR 4 requirements, published by EUROCONTROL, lists some important benefits of using quantitative approach in estimating and measuring safety levels:
+
+There is an added value in using quantitative objectives, as it avoids diverging understandings by the various organisations and States on the range of frequencies of occurrences included in a risk classification scheme;
+Quantitative criteria provide a clear target and, when derived and applied to lower level events, allow manufacturers to get on designing their equipment without having to analyse the entire system;
+The safety performance measurement of actual safety occurrences may enable the verification a posteriori of whether or not allocated quantitative objectives are being met;
+In addition to the measurement of accidents and serious incidents rates, the feedback from experience on events of a lower level would enable measurement of the effectiveness of the qualitative risk assessment processes and the identification of related appropriate “good working practices” to be used as acceptable measures to show compliance with quantified objectives.
+
+Quantitative vs. Qualitative
+In case the acceptable level of safety cannot be presented in quantitative terms, the decisions often rely on operational judgment, i.e. qualitative arguments are used. The combination of both sorts of arguments - the quantitative (absolute values, mathematical models, statistical analysis etc.) and the qualitative (e.g. work experience, professional judgement etc.) can be used to provide a solid level of assurance that all identified safety objectives and requirements are met. ICAO Doc. 4444 (PANS ATM) contains a note on safety assessment of changes, which advises that in case, where “… due to the nature of the change, the acceptable level of safety cannot be expressed in quantitative terms, the safety assessments may rely on operational judgment.”
+ 
+Further Reading
+ICAO
+
+ICAO Doc 9859 - Safety Management Manual, Fourth Edition - 2018;
+ICAO Doc 4444 - Procedures for Air Navigation Services;
+ICAO Integrated Safety Management website;
+
+EUROPEAN COMMISION
+
+Regulation 2017/373 - common requirements for ATM/ANS providers, Annex IV;
+
+EUROCONTROL
+
+ESARR3 - Use of Safety Management System (SMS) by ATM Service Providers Safety Regulatory Requirement;
+Safety Regulatory Requirement - ESARR4, Risk Assessment and Mitigation in ATM;
+European Action Plan for Prevention of Runway Incursions, Release 3.0 Appendix G
+Draft Advisory Material for the Establishment of a Risk Classification Scheme for the Design of the ATM Functional System.
+The Analytic Hierarchy Process (AHP) & Aerospace Performance Factor (APF) and The Magic of Measuring: AHP & APF
+ANSP Safety Levels- A Possible Approach presentation by Paula Santos, NAV Portugal, 2012
+
+
+
+
+
+Categories
+
+
+Safety Management,
+              Safety Management System
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

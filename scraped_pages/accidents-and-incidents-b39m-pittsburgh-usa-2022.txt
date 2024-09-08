@@ -1,0 +1,288 @@
+B39M, Pittsburgh USA, 2022
+
+
+
+
+
+
+
+
+
+
+
+  B39M, Pittsburgh USA, 2022
+
+
+
+
+
+
+
+
+
+Summary
+
+On 21 June 2022, a Boeing 737-9 cleared for a visual approach and landing on runway 28C at Pittsburgh landed on the adjacent runway 28L instead. The controller stated that having become aware that the aircraft was lined up with the wrong runway in the absence of any potential hazards, he had decided not to intervene. The crew said that a transient avionics fault on final approach had reduced their opportunity to ensure correct runway alignment but this fault was found to have cleared much earlier. It was noted that runway 28L had sequenced approach lighting whereas 28C had none.
+
+
+
+
+Event Details
+
+When
+
+21/06/2022
+
+
+
+Event Type
+
+
+HF,
+              RI
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 737 MAX 9
+
+
+
+
+
+
+
+
+
+Operator
+
+United Airlines
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Chicago O'Hare International Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Pittsburgh
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Landing
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+KPIT
+
+
+
+
+General
+
+Tag(s)
+
+
+              Visual Approach
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Distraction,
+              Ineffective Monitoring,
+              Ineffective Monitoring - PIC as PF
+          
+
+
+
+
+RI
+
+Tag(s)
+
+
+              Accepted ATC Clearance not followed,
+              Wrong Active Runway
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 21 June 2022, a Boeing 737-9 (N37513) being operated by United Airlines on a scheduled domestic passenger flight from Chicago O'Hare to Pittsburgh as UA2627 in day VMC was cleared for a visual approach to and landing on runway 28C at destination but then inadvertently lined up and landed on runway 28L instead. The controller became aware of the misalignment but decided that as no hazardous consequences would result, they would not intervene.
+Investigation
+An Investigation into this Wrong Surface Landing was carried out by the US National Transportation Safety Board (NTSB). Relevant data from the FDR was successfully downloaded. The 52 year-old Captain, who was acting as PF for the flight, had a total of 15,581 hours flying experience which included a total of 8,380 hours on type. Included in this, he had 1,814 hours in command on type. The 51 year-old First Officer had a total of 5,500 hours flying experience which included 3,141 hours on type. She stated that she had begun flying at United in October 2018.
+What Happened
+After copying the ATIS via ACARS, in preparation for an arrival at Pittsburgh after the one hour flight from Chicago, the First Officer programmed the FMCs for the runway 28C RNAV approach. However on subsequently checking in with Pittsburgh APP when about 25 miles northwest of the airport, the flight was told to expect a visual approach to runway 32 so the Captain re-briefed the approach and the First Officer retrieved the landing data for that runway and input the runway 32 ILS into the FMCs as back up.
+Whilst the flight was on base leg for runway 32, the APP controller then offered the flight radar vectors for a visual approach to runway 28C which was accepted. The Captain selected HDG on the AP whilst the First Officer re-programmed the FMC for the runway 28C RNAV approach. The flight was transferred to TWR on base leg at about 6.5 miles east of the airport and the crew advised the controller about the visual approach to runway 28C and was subsequently cleared to land. The controller stated that when the flight was about 2 miles from touchdown, he realised that it was aligned with the 3,505 metre-long runway 28L instead of the 3,284 metre-long runway 28C and decided that it would be appropriate for it to land on that runway rather than require a go-around since no aircraft or vehicles were on or near it. The Pittsburgh Air Traffic Manager subsequently stated that at this time, the overall traffic volume was assessed to have been “light with routine complexity”.
+The flight crew noted that there had been a temporary loss of FMC displays during the approach and that “attempts to diagnose and restore the FMC's lateral guidance created a distraction at a critical phase of the flight that reduced their opportunity to ensure correct runway alignment”. In fact, the clearance to make an approach to 28C was given after the FMC fault had ceased.
+
+The track of the aircraft as it approached and touched down on runway 28L and taxied in. [Reproduced from the Official Report]
+Why It Happened
+No explanation for the crew error was given but it was noted that whilst both runways 28C and 28L had PAPIs on the left hand side, the runway on which the flight was cleared to land - 28C - was narrower (45 metres wide) than 28L which was 60 metres wide. Also, runway 28C only had runway centreline lights with no approach lighting whereas 28L had MALSR (medium-intensity approach light system with runway alignment lights) approach lighting which as well as full crossbars and threshold lighting also included a sequenced flashing centreline beginning just under 500 metres from the runway threshold which gave the appearance of a ball of light travelling toward the runway.
+The flight was visual with the airport as ATC began positioning the aircraft for an approach. The First Officer stated that they had experienced a transient blanking of the both FMC control displays and the Captain stated that at this time, the PAPI lights for runway 28C were in sight and that he continued the visual approach, disconnecting the AP and A/T when the aircraft “was at an altitude of about 2,300 feet agl”. FDR data showed that disconnect had actually occurred at 2,650 feet as the aircraft turned onto final approach with about 2½ miles to go. Both pilots stated that the FMCs had come back on “when the aircraft was between 700 and 1,000 feet agl”. The Captain stated that at this time he could still see the PAPI lights and had continued visually towards what he had believed was the landing runway. Radar data showed that the aircraft had in fact lined up with runway 28L when on an approximate 6 mile final as it was establishing initial contact with the TWR controller.
+FDR data showed that the brief FMC outage had lasted for 23 seconds and normal output/displays had been restored just over 4 minutes prior to touchdown. These data indicated that the outage had occurred at the end of the downwind leg and that the FMCs had returned to full functionality as the aircraft turned right onto a wide base leg at around 4,000 feet (approximately 3,350 feet agl), much earlier than the pilots had reported (between 700 and 1,000 feet agl). It had been caused by a “known software problem related to vector discontinuity”. 
+
+The flight ground track showing the FMC data loss duration (between the yellow pins) the AP out position as the aircraft turned onto final approach. [Reproduced from the Investigation FDR Data Analysis Report]
+The Investigation noted that a RAAS was installed on the aircraft and that “when enabled, RAAS callouts operate without any required action from the pilots” but that United Airlines had specified that the aircraft should be delivered with airborne alerts which announce the runway that a flight was approaching should be disabled “to minimise any distractions while on final approach and maintain a ‘quiet cockpit’ environment”.
+It was also noted that if a controller becomes aware that an aircraft is aligned with the wrong runway, the applicable ATC procedures require them to “inform the pilot” and either “issue control instructions/clearances” or “if time permits, verify the pilot is aligned with the correct runway” and “issue control instructions/clearances as necessary”. In addition, a controller is permitted “to exercise their best judgment” if they encounter other situations not covered by these requirements.
+The Probable Cause of the event was formally documented as “the flight crew’s mis-identification of the intended landing runway, which resulted in approach to and landing on the wrong runway”.
+A Contributory Factor was identified as “the distraction caused by the dual reset of the flight management computer displays”.
+The Final Report was published on 3 August 2023. No Safety Recommendations were made.
+Editor's Note: The information in the Final Report which was the primary source of the above summary was supplemented where deemed appropriate by reference to the event ‘Docket’ which if required is accessible via the link at the end of the Final Report. 
+Related Articles
+
+Wrong Runway Use
+Runway Incursion
+Flight Management System
+Interruption or Distraction
+Runway Lighting
+Visual Approach Slope Indicator Systems (VASIS)
+Visual Approach
+Flying a Visual Approach

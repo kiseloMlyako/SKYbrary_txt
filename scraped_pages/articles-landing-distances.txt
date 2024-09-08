@@ -1,0 +1,227 @@
+Landing Distances
+
+
+
+
+
+
+
+
+
+
+
+  Landing Distances
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Runway Excursion 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+Landing Distance. The horizontal distance traversed by the aeroplane from a point on the approach path at a selected height above the landing surface to the point on the landing surface at which the aeroplane comes to a complete stop.
+(Source: ICAO Annex 8 Part IIIA Paragraph 2.2.3.3. and Part IIIB Sub-part B Paragraph B2.7 e)
+Landing Distance Available (LDA). The length of the runway which is declared available by the appropriate Authority and is suitable for the ground run of an aeroplane landing.
+Source: EASA AIR-OPS Annex I - Definitions
+Landing Distance at time of arrival (LDTA). Means a landing distance that is achievable in normal operations based on landing performance data and associated procedures determined for the prevailing conditions at the time of landing.
+Source: EASA AIR-OPS Annex I - Definitions
+Landing Field Length Limit. The maximum planned landing weight, as limited by the factored landing distance available at destination or alternate.
+Note: The terms Landing Distance Required (LDR) and Landing Distance Available (LDA) routinely defined in aircraft landing performance documentation are not defined for fixed wing aeroplanes in ICAO SARPs. The ICAO definition for "Landing distance" is usually taken as the basis for the determination of Landing Distance Required (LDR) which is calculated by taking into account the effect of various influencing factors, including aeroplane mass and configuration including MEL-items, pressure altitude, wind, outside air temperature, runway slope and approach speed increments as well as prevailing surface conditions and the extent to which aircraft devices which are available to assist deceleration are deployed. aeroplane mass and configuration (including MEL-items), pressure altitude, wind, outside air temperature, runway slope and approach speed increments as well as prevailing surface conditions and the extent to which aircraft devices which are available to assist deceleration are deployed. With introduction of the Global Reporting Format (GRF) in 2021 the considerations needed regarding landing distance calculation during pre-flight preparation (dispatch) and inflight (enroute) have been adapted.
+Calculation of Landing performance
+Put simply, the LDR must be less than the LDA.
+Already within the dispatch phase of a flight the flight crew has to assess the landing performance of the aircraft both at the destination and the alternate aerodromes (including destination alternate(s), enroute fuel alternate or re-dispatch/re-clearance aerodromes). This is primarily done by determining the landing field length limited weight which in addition to the landing distance consideration also includes missed approach climb gradient considerations. This weight should allow a landing which brings the aircraft to a complete stop within 60-80% of the LDA in dry conditions (depending on aircraft type) and within 115% of the dry-LDA in wet conditions using the most favourable (longest) runway, however assuming maximum manual brake application.
+On top of that flight crews are also required in the dispatch phase to make a runway suitability check by additionally calculating the LDTA for the most likely to be assigned runway taking into account the actual kind of brake application used (e.g. selected autobrake setting), which in marginal cases with wet, slippery wet or contaminated runway conditions may exceed the LDA. In such cases dispatch is only allowed with one or even two alternate aerodrome(s) where a safe landing based on a LDTA assessment can be made.
+Inflight, which means enroute, but not more than 30minutes prior to expected arrival, another assessment of LDTA for both, destination and alternate aerodrome(s), has to be performed by the flight crew to determine the operational LDR. These values shall include a 15% safety margin.
+As mentioned before regulations specify safety factors that must be applied in determination of the landing field length limit and the LDR (see further reading). In general the LDR depends on a number of factors, principally:
+
+The aircraft landing mass;
+The surface wind and temperature;<
+The runway elevation and slope;
+The runway surface conditions (dry, wet, slippery or contaminated); and,
+The condition of aircraft wheel-brakes and braking systems
+The approach speed increment<
+
+Aircraft performance (LDR and landing speed) is calculated by the pilots using printed tables or a computer or an Electronic Flight Bag application. This calculation takes account of the above factors, including additional safety factors. It is assumed for these calculations that the aircraft will be at a specified height (normally 50 ft) crossing the runway threshold at the correct speed, and that aircraft handling will be in accordance with procedures detailed in the AFM and company SOPs.
+Safety factors vary according to the aircraft type (turbo-jet or turbo-prop), the runway conditions (dry, wet, slippery wet or contaminated). Special provisions apply to steep approaches and to short landing operations including specific approval requirements from the competent authority.
+
+Factors Affecting Actual Landing Distance
+Handling.
+Landing an aircraft is a difficult process requiring considerable manual dexterity. The pilot or, int he case of multi-crew aircraft, the flight crew must achieve the following goals:
+
+On passing the runway threshold:
+
+50 ft above runway threshold;
+Aircraft configured for landing as pre-calculated(landing gear down, correct flaps and slats, etc.);
+Correct and steady forward speed (within given AFM or SOP limits);
+Correct descent rate within given AFM or SOP limits);
+Appropriate power setting;
+Wings level or bank within given AFM or SOP limits);
+The distance needed from the 50ft point until touchdown is considered as "air distance".
+
+
+On touch-down:
+
+Brakes applied;
+Power reduced;
+Additional devices deployed (thrust reversers, lift dump, ground spoilers etc.);
+Directional control maintained.
+The distance from main gear touchdown until the deceleration means used in the landing performance calculation are fully deployed is considered as “transition distance” and the distance until the aircraft comes to a final stop is considered as “full braking distance”.
+
+
+
+Unserviceability of any of the devices which affect the aircraft braking (brakes, anti-skid, reverse thrust, lift-dump, etc.) can have a serious effect on landing performance. Note: Dry and wet (including damp surfaces) landing performance calculations usually assume that reverse thrust is not available while slippery wet or contaminated performance calculations may, depending on aircraft certification, assume full reverse thrust available. Considerations for an engine failure during landing flare leading to a reduced deceleration capability might also be applicable in the certification process.)
+Major unserviceability (e.g. engine malfunction) complicates handling considerably; however, any unserviceability, even if not serious on its own, may add to control difficulties.
+The complexity of the landing task (even with Autoland) is such that even in ideal conditions, a perfect landing is virtually impossible, while any deviation from the ideal adds to the actual landing distance needed.
+Runway Surface Conditions.
+The maximum landing mass and the LDR greatly depends on the runway braking conditions. If these have been inaccurately reported or if the runway is wet, slippery wet or contaminated when its condition was reported as being dry, the landing distance achieved will be significantly increased.
+The presence of runway contamination such as standing or running water, snow, slush or ice on the runway has a particularly serious effect on landing performance and if it cannot be cleared, it must be reported as accurately as possible using runway condition codes (RWYCC) as given by the Global Reporting Format. Special techniques must be used by pilots when landing on contaminated runways.
+Weather Conditions.
+The maximum landing mass is also calculated based on the expected wind and temperature. Significant changes to the reported conditions will affect the landing distance achieved, especially in the case of tailwinds.
+Strong cross-winds, turbulence and wind shear make handling difficult and are likely to result in an increased flare and thereby significantly increased landing distance needed.
+Effect of Factors on Landing Distance
+Flight Safety Foundation (FSF) Approach-and-landing Accident Reduction (ALAR) Briefing Note 8.3 — Landing Distances contains the following diagram which shows the approximate effects of various factors on landing distance:
+
+Figure 2 - Landing Distance Factors
+Related ICAO Provisions
+The ICAO provisions are contained in Annex 14, Volume 1, Attachment A, Volume 1, 3. Calculation of declared distances:
+
+The declared distances to be calculated for each runway direction comprise: the take-off run available (TORA), take-off distance available (TODA), accelerate-stop distance available (ASDA), and landing distance available (LDA).
+Where a runway is not provided with a stopway or clearway and the threshold is located at the extremity of the runway, the four declared distances should normally be equal to the length of the runway, as shown in Figure A-1 (A).
+Where a runway is provided with a clearway (CWY), then the TODA will include the length of clearway, as shown in Figure A-1 (B). Where a runway is provided with a stopway (SWY), then the ASDA will include the length of stopway, as shown in Figure A-1 (C).
+Where a runway has a displaced threshold, then the LDA will be reduced by the distance the threshold is displaced, as shown in Figure A-1 (D). A displaced threshold affects only the LDA for approaches made to that threshold; all declared distances for operations in the reciprocal direction are unaffected.
+Figures A-1 (B) through A-1 (D) illustrate a runway provided with a clearway or a stopway or having a displaced threshold. Where more than one of these features exist, then more than one of the declared distances will be modified — but the modification will follow the same principle illustrated. An example showing a situation where all these features exist is shown in Figure A-1 (E).
+
+
+Calculation of declared distances. Source: Annex 14, Volume I - Aerodrome Design and Operations (Figure A-1)
+ 
+
+Some runways are also fitted with an EMAS adjacent to the runway end. However, as this is an additional safety feature intended to mitigate the effects of a possible lateral runway excursion (overrun) only, it may not be taken into consideration for when determining the landing distance available.
+ 
+Accidents and Incidents
+Runway Excursion - Overrun on landing:
+
+
+MD83, Mahshahr Iran, 2020On 27 January 2020, an MD83 made an unstabilised tailwind non-precision approach to Mahshahr with a consistently excessive rate of descent and corresponding EGPWS Warnings followed by a very late nose-gear-first touchdown. It then overran the runway end, continued through the airport perimeter fence and crossed over a ditch before coming to a stop partly blocking a busy main road. The aircraft sustained substantial damage and was subsequently declared a hull loss but all occupants completed an emergency evacuation uninjured. The accident was attributed to the actions of the Captain which included not following multiple standard operating procedures.
+
+DHC6, Miri Sarawak Malaysia, 2020On 7 January 2020, a DHC 6-400 Twin Otter landing at Miri following a visual approach to runway 02 veered off the side of the runway soon after touchdown but encountered no obstructions before coming to a stop on waterlogged grass. The immediate reason for the veer-off was crew failure to ensure the nosewheel steering system, which is not self-centring, was manually centred before landing. However the context for this error was considered to have been poor awareness of the operation of the nosewheel steering system within a wider context of organisational inadequacy in respect of fleet operational safety.
+
+B737, Burbank CA USA, 2018On 6 December 2018, a Boeing 737-700 overran the 1,770 metre-long landing runway at destination by 45 metres after entering the EMAS. Normal visibility prevailed but heavy rain was falling and a 10 knot tailwind component existed. The event was attributed to the pilots’ continuation bias in the face of deteriorating conditions and a late touchdown on the relatively short runway. A lack of guidance from the operator on the need for pilots to re-assess the validity of landing data routinely obtained at the top of descent was identified.
+
+PA46, Courchevel France, 2019On 8 February 2019, a Piper PA46-350P overran the landing runway at Courchevel and collided with a mound of snow which caused significant damage to the aircraft but only one minor injury to a passenger. The Investigation noted the Captain's low level of experience but the investigation effort was primarily focused on the risk which had resulted from a commercial air transport flight being conducted without complying with the appropriate regulatory requirements for such flights and without either the passengers involved or the State Safety Regulator being aware of this.
+
+B738, Calicut (Kozhikode) India, 2020On 7 August 2020, a Boeing 737-800 making its second attempt to land at Calicut off a night ILS approach with a significant tailwind component became unstabilised and touched down approximately half way down the 2,700 metre-long wet table top runway and departed the end of it at 85 knots before continuing through the RESA and a fence and then dropping sharply onto a road. This caused the fuselage to separate into three pieces with 97 of the 190 occupants including both pilots being fatally or seriously injured and 34 others sustaining minor injuries. Significant fuel spillage occurred but there was no fire.
+
+
+...further results
+
+
+
+Related Articles
+
+Tailwind Operations
+Landing Flare
+
+Further Reading
+
+ICAO Annex 8: Airworthiness Part III Chapter 2
+
+EASA
+
+For CAT A aircraft see: IR-OPS CAT.POL.A.230 & 235
+For CAT B aircraft see: IR-OPS CAT.POL.A.330 & 335
+For CAT C aircraft see: IR-OPS CAT.POL.A.435
+See also Acceptable Means of Compliance and Guidance Material to the parts of IR-OPS CAT.POL.A listed above
+EU-OPS 1: Sub-part G, especially EU-OPS 1.510, EU-OPS 1.515 and EU-OPS 1.520 and associated AMCs and appendices relate to Performance Class A operations. Sub-parts H and I contain provisions relating to Performance Group B and C aircraft respectively.
+
+Flight Safety Foundation
+
+ALAR Briefing Note 8.3 — Landing Distances
+
+The Flight Safety Foundation ALAR Toolkit provides useful training information and guides to best practice. Copies of the FSF ALAR Toolkit may be ordered from the Flight Safety Foundation ALAR website.
+
+
+
+
+Categories
+
+
+Runway Excursion,
+              Overrun on Landing
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

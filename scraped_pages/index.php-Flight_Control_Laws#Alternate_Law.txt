@@ -1,0 +1,176 @@
+Flight Control Laws
+
+
+
+
+
+
+
+
+
+
+
+  Flight Control Laws
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Flight Technical 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Modern large commercial transport aircraft designs rely on sophisticated flight computers to aid and protect the aircraft in flight. These are governed by computational laws which assign flight control modes during flight.
+Aircraft with fly-by-wire flight controls require computer controlled flight control modes that are capable of determining the operational mode (computational law) of the aircraft. A reduction of electronic flight control can be caused by the failure of a computational device, such as a flight control computer, an information providing device, such as the Air Data Inertial Reference Unit (ADIRU) or the failure of multiple systems (dual hydraulic failure, dual engine failure etc). Electronic flight control systems (EFCS) also provide augmentation in normal flight, such as increased protection of the aircraft from overstress or providing a more comfortable flight for passengers, by recognizing and correcting for turbulence and providing yaw damping.
+Two aircraft manufacturers produce commercial passenger aircraft with primary flight computers that can perform under different flight control modes (or laws). The most well-known are the Normal, Alternate and Direct Laws plus Mechanical Backup of the Airbus A320-A380. Boeing's fly-by-wire system is used in the Boeing 777. Boeing also has two other, recently in-service, commercial aircraft, the 787 and the 747-8, which use fly-by-wire controls. These newer generation of aircraft use the lighter weight electronic systems to increase safety and performance while lowering aircraft weight. Since these systems can also protect the aircraft from overstress situations, the designers are able to reduce "over-engineering" on various components further reducing weight.
+Design Philosophy
+In older aircraft, control is achieved through the pilot's control column, rudder pedals, trim wheel or throttles that mechanically move cables, pulleys or hydraulic servo valves which in turn move control surfaces or change engine settings. Many newer aircraft replace these mechanical controls with fly-by-wire systems. These aircraft have flight control computers which send electronic signals to operate control surfaces or engine controls, inform the pilot and provide performance information. In older aircraft the pilot's mechanical controls are resisted by the forces acting on the control surface, but nothing prevents the aircraft from stalling, over-speeding or an excessive bank angle at high speed. Fly-by-wire systems limit control surface movements to ensure that aircraft limits are not exceeded.
+Aircraft designers have created a set of flight control modes that include redundant electronics to safeguard against system failures. Failures can occur singly or in combination to render systems inoperative. Pilots must be able to control the aircraft with any or all of the fly by wire protections and control enhancement not functioning. Airbus control law logic allows for a progressive degradation of automatic protections until multiple failures result in an unprotected, direct mode of operation. Limited mechanical control modes are also available to allow continued aircraft control during the reset process following a transient loss of all flight control computers. Boeing's direct mode removes many of the computational 'limitations'.
+Another function of flight control laws is to assess the performance of the aircraft under various conditions, such as takeoff, landing or normal cruise when flight control computers partially or completely fail. Designers build in the ability to by-pass the computers or for the standby systems to operate without the computers.
+Airbus Flight Control Systems
+Airbus aircraft designs subsequent to the A300/A310 are almost exclusively controlled by fly-by-wire equipment. These newer aircraft, including the AIRBUS A-320, A330 Family, A340 Family, A350 and AIRBUS A-380-800 operate under Airbus flight control laws. There are some differences in the electrical architecture, the number and the naming of the flight control computers between types. As an example, the A320 has a total of seven flight control computers - two ELACs (Elevator Aileron Computer), three SECs (Spoilers Elevator Computer) and two FACs (Flight Augmentation Computers) - whereas the A330 has a total of five computers - three PRIMs (Flight Control Primary Computer) and two SECs (Flight Control Secondary Computer). On both aircraft, a single flight control computer is capable of providing complete aircraft control in the most basic of Airbus control laws, Direct Law. Mechanical Back Up is incorporated into the system design to allow limited control of the aircraft while recovering from a temporary total electrical failure.
+The flight controls on Airbus fly-by-wire aircraft are all electronically controlled and hydraulically activated. Some surfaces, such as the rudder and the horizontal stabilizer, can also be mechanically controlled. While in normal flight the computers act to prevent excessive forces in the pitch and roll axes. The following discussion is based on the A330 but much of the information also applies to other Airbus types.
+Information from numerous sources including pilot sidesticks and rudder pedals, the Air Data Inertial Reference Units (ADIRUs), the Landing Gear Control Interface Units (LGCIU), the Slat Flap Control Computers (SFCC), the Flight Management Guidance Computers (FMGC) and the accelerometer is sent to the five flight control computers. There, dependent upon the active control law, the aircraft speed, altitude, configuration, attitude, phase of flight and numerous other parameters, the sidestick and rudder pedal or autopilot commands are interpreted and the appropriate control deflection signals are sent to the control actuators. Two Flight Control Data Concentrators (FCDC) also acquire data from the Primary and Secondary Flight Control Computers and send it to the Electronic Instrument System (EIS) to feed pilot displays and to the Central Maintenence Computer (CMC).
+There are three primary flight control laws - Normal Law, Alternate Law and Direct Law. Alternate Law is further subdivided into Alternate Law 1 and Alternate Law 2. The degradation to one or the other of the Alternate Law options is dependent upon the type of failure. Each of the three laws has different sub modes inclusive of ground mode, flight mode and flare mode. Mechanical Back Up is designed to allow the pilots to maintain control of the aircraft while restoring flight control computers after a complete power interuption.
+Normal Law
+Flight control Normal Law provides three axis control, flight envelope protection and manoeuver load alleviaiton. Normal Law operates in differenct modes depending on the stage of flight. These modes include:
+
+Ground Mode
+Flight Mode
+Flare Mode
+
+Ground mode
+Ground mode is active whilst the aircraft is on the ground. The autotrim feature is turned off and there is a direct relationship between sidestick deflection and elevator response. The horizontal stabilizer is automatically set to 4° up but manual settings (e.g. for center of gravity) override this setting. Immediately after the wheels leave the ground, flight mode progressively takes over from ground mode. The reverse occurs after touch down during the landing phanse.
+Flight Mode
+The flight mode of Normal Law provides five types of protection: pitch attitude, load factor limitations, high speed, high-AOA and bank angle. In addition, Low Speed Protection is available in certain phases of flight. Normal Law flight mode is operational from take-off and remains active until 100 feet above the ground during the landing phase. Failure of certain systems or multiple failures will result in degradation of Normal Law to Alternate Law (ALT 1 or ALT2).
+Unlike conventional controls, in Normal Law flight mode the sidestick provides a load factor proportional to stick deflection which is independent of aircraft speed. When the sidestick is neutral in manual flight, the system will maintain a 1g load factor and the aircraft will remain in level flight with no requirement for the pilot to change the elevator trim, even during a speed or configuration change. For manual turns up to 33° bank, no sidestick back pressure is required as the system automatically trims the aircraft to maintain level flight. The system freezes the auto-trim when the angle of attack becomes excessive, the load factor exceeds 1.3g or when the bank angle exceeds 33°. If these situations occur as the result of a deliberate manoeuvre, the pilot must apply back pressure on the sidestick to maintain the selected attitude. In all cases, Load Factor Protection automatically limits the control inputs so that the aircraft remains within AOM "g" limitations and Pitch Attitude Protection limits the aircraft attitude to a maximum of 30° nose up or 15° nose down.
+High Angle of Attack Protection, which protects against stalling and the effects of windshear has priority over all other protection functions. The protection engages when the angle of attack is between α-Prot and α-Max and limits the angle of attack commanded by the pilot's sidestick to α-Max even with full sidestick deflection. If the autopilot is engaged, it is automatically disengaged with activation of High Angle of Attack Protection. α-Floor (automatic application of TOGA thrust) may be activated by the autothrust system if engagement parameters are met.
+High Speed Protection will engage to automatically recover from high speed upset. There are two speed limitations for high altitude aircraft, VMO (Velocity Maximum Operational) and MMO (Mach Maximum Operational). The two speeds are the same at approximately 31,000 feet, below which overspeed is determined by VMO and above 31,000 feet by MMO. Activation of High Speed Protection results in reducing the positive spiral static stability of the aircraft from its normal 33° to 0° which means that if the pilot releases the sidestick, the aircraft will roll to a wings level attitutde. It also reduces the sidestick nose down authority and applies a permanent nose up order to help reduce speed and recovery to normal flight. Activation of High Speed Protection results in automatic autopilot disengagement. Once the speed has decreased below VMO/MMO, Normal Law is restored and the autopilot can be re-engaged.
+Bank Angle Protection limits the maximum bank angle of the aircraft. Within the normal flight envelope, if the sidestick is released when bank angle is above 33°, the bank angle is automatically reduced to 33°. With full sidestick deflection, the maximum acheiveable bank angle is 67°. If either Angle of Attack or High Speed Protection are active, full sidestick deflection will result in a maximum bank angle of 45°. With High Speed Protection active, release of the sidestick will cause the aircraft to return to a wings level (0° bank)attitude.
+Low Energy Protection is also available while in Normal Law when the aircraft is between 100' and 2000' with flaps set at config 2 or greater. The low energy warning is computed by the PRIMs using parameters of configuration, airspeed deceleration rate and flight path angle. The aural warning "Speed Speed Speed" indicates to the pilot that aircraft energy has become too low and that power must be added to recover a positive flight path angle. α-Floor protection is available and will engage if pilot actions are inappropriate or insufficient.
+Flare mode
+This mode is automatically engaged when the radar altimeter indicates 100 feet above ground and provides for a direct sidestick to elevator relationship. At 50 feet the aircraft trims the nose slightly down requiring the pilot to progressively move the sidestick rearward emulating a conventional control input for landing.
+Alternate Law
+There are three basic reconfiguration modes for the Airbus fly-by-wire aircraft, Alternate Law, Direct Law and Mechanical Back Up. Alternate Law is subdivided into two somewhat different configurations dependent upon the specific failure(s). The ground mode and flare modes for Alternate Law are identical to those modes for Normal Law.
+Alternate Law 1 (ALT1) combines Normal Law lateral mode with Alternate Law pitch modes. Low Energy Protection is replaced by Low Speed Stability meaning that the aircraft no longer has automatic stall protection. At low speed, a nose down demand is introduced based on IAS (instead of AOA) and Alternate Law changes to Direct Law. In addition, an audio "STALL" warning is introduced. α-Floor protection is not available so conventional pilot stall recovery action is required.
+Load Factor and Bank Angle Protections are retained. High Speed and High Angle of Attack Protections enter Alternate Law mode. Pitch Attitude Protection is lost.
+ALT1 control law degradation will result from some faults in the horizontal stabilizer, a single elevator fault, loss of a yaw-damper actuator, loss of slat or flap position sensors or a single air data reference fault. Dependent upon the failure, autopilot may not be available.
+In Alternate Law 2 (ALT2), Normal Law lateral mode is lost and is replaced by roll Direct Law and yaw Alternate Law. Pitch mode is in Alternate Law. Load factor protection is retained. In addition to those protections lost in ALT1 (Pitch Attitude and Low Energy Protection), Bank Angle Protection is also lost. In some failure cases, High Angle of Attack and High Speed Protections will also be lost.
+As is the case with ALT1, some failure cases that result in ALT2 will also cause the autopilot to disconnecnt. ALT2 is entered when both engines flame out, with faults in two inertial or two air-data reference units, with faults to all spoilers, certain aileron faults or with a pedal transducers fault.
+Direct Law
+In Direct Law (DIR), lateral modes are the same as ALT2; that is roll Direct Law and yaw Alternate Law. Pitch control degrades to Direct Law and automatic trim is inoperative requiring stab trim to be adjusted manually by the pilot. Control surface motion is directly related to the sidestick motion. ALL protections are lost.
+In Direct Law, autopilot function is always lost. DIR is entered if there is failure of all three inertial reference units or all three primary flight computers, faults in both elevators or flame out of both engines concurrent with loss of PRIM 1.
+Mechanical Back Up
+In the Mechanical Back Up mode, pitch is controlled by the mechanical horizontal stab trim system and lateral direction is controlled by the rudder pedals operating the rudder mechanically. This mode is intended to allow the pilots to maintain level flight while resetting flight control computers after a temporary total loss of power.
+Boeing Flight Control Systems
+The principles of the Boeing approach to fly-by-wire electronic flight control systems were established with the Boeing 777. The design principle adopted is to provide a system that responds similarly to a mechanically controlled flight control system. Because the B777 system is controlled electronically, it is also able to provide flight envelope protection. The electronic system operates on two levels - there are 4 Actuator Control Electronics (ACE) units and 3 Primary Flight Computers (PFC). The ACEs control actuators (from those on pilot controls to control surface controls and the PFC) and the PFC determines the applicable control laws and provide feedback forces, pilot information and warnings.
+Standard Protections and augmentations
+The 777 flight control system is designed to restrict control authority beyond certain range by increasing the back pressure once the desired limit is reached. This is done via electronically controlled backdrive actuators (controlled by the ACE). The protections and augmentations are: bank angle protection, turn compensation, stall protection, over-speed protection, pitch control, stability augmentation and thrust asymmetry compensation. The design philosophy is: "to inform the pilot that the command being given would put the aircraft outside of its normal operating envelope, but the ability to do so is not precluded." In other words, the flight envelope protection system provides crew awareness of envelope margins and limitations by means of tactile, visual and aural cues and warnings. However, the protection functions of the system do not reduce or limit pilot control authority.
+Normal mode In Normal mode during manual flight, the ACEs receive pilot control inputs and send these signals to the three PFCs. The PFCs verify these signals and utilise information from other airplane systems in order to compute control surface commands. These commandas are then sent back to the ACEs which then send the enhanced signals to the flight control surface actuatos which convert them into analog servo commands. Full functionality is provided including all enhanced performance, envelope protection and ride quality features.
+When the auropilot is engaged, the autopilot system sends commands to the PFCs. The PFCs generate control surface commandas which are sent to the ACEs in the same manner as pilot control inputs. The autopilot commands move the flightdeck controls to provide autopilot feedback to the pilots. If a pilot overrides the autopilot with control inputs, the PFCs will disengage the autopilot and utilise the pilot control inputs. Note that the autopilot is not available should reversion to Secondary or Direct mode occur.
+Secondary mode Boeing Secondary mode is somewhat similar to the Airbus Alternate Law. When the PFCs can not support Normal mode operation due to internal faults or to loss of information from other aircraft systems, they automatically revert to Secondary mode. Reversion to Secondary mode results in the loss of the autopilot and the pilots must control the aircraft manually. The ACEs still receive pilot control inputs and send the appropriate signals to the PFCs. However, due to the degraded mode of operation, the PFCs use "simplified" computations to generate the flight control surface commands. These commands are sent back to the ACEs from where they are sent to the flight control surfaces in the same manner as during Normal mode operations.
+Aircraft handling qualities are affected by the simplified computations or PFC control laws that are utilised in Secondary mode. While all flight control surfaces remain operative, the elevator and rudder are more sensitive at some airspeeds. The following functions are inoperative or degraded during Secondary mode operations:
+
+autopilot
+auto speedbrakes
+envelope protection
+gust suppression
+tail strike protection
+thrust asymmetry compensation
+yaw damping
+
+Direct mode The ACEs automatically revert to Direct mode when they detect the failure of all three PFCs or when they are unable to communicate with the PFCs. Direct mode can also be manually selected by selecting the DISC position on the Primary Flight Computers Disconnect switch. In Direct mode, the PFCs no longer generate control surface commands. Pilot inputs are received by the ACEs and sent directly to the flight control surface actuators.
+Direct mode allows for full aircraft control while in flight and during the landing phase. Aircraft handling characteristics are very similar to those encountered while in Secondary mode. In addition to those functions lost during Secondary mode operations (as listed previously) the manual rudder trim cancel switch is inoperative.
+Mechanical Backup In the event of a complete electrical system shutdown, cables from the flight deck controls to the stabiliser and selected roll spoilers allow the pilots to maintain straight and level flight until the electrical system can be restored.
+Further Reading
+
+Fly-By-Wire
+Electronic Flight Instrument System
+Autopilot
+Airbus fly-by-wire: a process toward total dependability by Taverse, Lacaze and Souyris - Paper presented to ICAS in 2006
+
+
+
+
+
+Categories
+
+
+Flight Technical
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,157 @@
+Automatic Terminal Information Service (ATIS)
+
+
+
+
+
+
+
+
+
+
+
+  Automatic Terminal Information Service (ATIS)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Air Ground Communication 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+The automatic provision of current, routine information to arriving and departing aircraft throughout 24 hrs or a specified portion thereof:
+
+Data link-automatic terminal information service (D-ATIS). The provision of ATIS via data link.
+Voice-automatic terminal information service (Voice-ATIS). The provision of ATIS by means of continued and repetitive voice broadcasts.
+
+(ICAO Doc 4444: PANS-ATM)
+Content of Voice-ATIS Broadcasts
+Voice-ATIS broadcasts normally contain the following information in the order listed:
+
+name of aerodrome;
+arrival and/or departure indicator;
+contract type, if communication is via D-ATIS;
+designator;
+time of observation, if appropriate;
+type of approach(es) to be expected;
+the runway(s) in use; status of arresting system constituting a potential hazard, if any;
+significant runway surface conditions and, if appropriate, braking action;
+holding delay, if appropriate;
+transition level, if applicable;
+other essential operational information;
+surface wind direction (in degrees magnetic) and speed, including significant variations and, if surface wind sensors related specifically to the sections of runway(s) in use are available and the information is required by operators, the indication of the runway and the section of the runway to which the information refers;
+visibility and, when applicable, RVR;
+present weather;
+cloud below 1 500 m (5 000 ft) or below the highest minimum sector altitude, whichever is greater; cumulonimbus; if the sky is obscured, vertical visibility when available;
+air temperature;
+dew point temperature;
+altimeter setting(s);
+any available information on significant meteorological phenomena in the approach and climb-out areas including wind shear, and information on recent weather of operational significance;
+trend forecast, when available; and
+specific ATIS instructions.
+
+Voice ATIS may be transmitted on a dedicated VHF communications frequency or as the voice element of a navigational facility (e.g. VOR).
+At busy airports, separate ATIS broadcasts may be made for arrivals and for departures.
+Use of ATIS
+An important element of an ATIS broadcast is the designator (identifying code), which is a letter of the ICAO spelling alphabet. Designators assigned to consecutive ATIS are in alphabetical order. The pilot listens to the ATIS just prior initial contact and notes the code letter; on check-in, the pilot reports the code letter of the ATIS copied. This enables the controller to confirm that the pilot has copied the current ATIS. Normal practice is for the controller to up-date the pilot if the ATIS or any element of it subsequently changes materially.
+In some cases, Operator procedures predicated on R/T communications safety require that both pilots in multi-crew aircraft remain on the principal ATC frequency once the aircraft is below FL100/10,000ft. This means that ATC must pass any significant changes to the reported ATIS.
+Further Reading
+For full information relating to Voice ATIS and D-ATIS, refer to ICAO Annex 11, Chapter 4, Section 4.3.
+
+
+
+
+Categories
+
+
+Air Ground Communication,
+              Ground Operations
+
+
+
+
+
+
+
+
+
+Related Articles
+Aerodrome Weather Information Service (AWIS)
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,194 @@
+Key Risk Areas of Remotely Piloted Aircraft Systems (RPAS)
+
+
+
+
+
+
+
+
+
+
+
+  Key Risk Areas of Remotely Piloted Aircraft Systems (RPAS)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Unmanned Aerial Systems 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SM ICG
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+This article focuses on key risk areas within one segment of the entire UAS/RPAS domain: small remotely piloted aircraft (RPAs). Routine flights of these aircraft, for countless beneficial purposes, have significantly altered the missions of EUROCONTROL and the world’s other air navigation service providers (ANSPs).
+EUROCONTROL views this segment as a high-priority aviation industry sector because of its size, growth, diversity and the global acceleration of RPA integration into the airspace that historically was reserved and protected for manned aircraft. Key risk areas thus will become regular SKYbrary topics, along with the risk mitigations they demand.
+This article will be revised over time to cover three primary subjects:
+
+Examples from reliable sources of several key areas of risk when remote pilots (and often other mission crewmembers) operate remotely piloted aircraft systems (RPA/RPAS), known in some countries as small unmanned aircraft systems (sUAS), in the vicinity of manned aircraft;
+Recommendations for specialists in manned-aviation safety to pay attention to evolving areas of risk for UAS/RPAS flights, and ideally to participate in developing mitigations. This becomes urgent if evidence reveals that a low-probability, high-consequence threat could impact manned-aircraft operations; and,
+The need to derive practical lessons from expert insights into potential collision damage, including serious injury or death of people in the air or on the ground, from impacts between UAs/RPAs and manned aircraft. For example, after exhaustive testing or analysis of each operator’s unique risk mitigations, several RPAS operators in the United States recently have been approved to conduct low-altitude flights over non-participating individual people and large crowds.
+
+Safety specialists in manned aviation, who may not have kept up with this subject, should become generally familiar with how their UAS/RPAS–counterparts conduct risk management. One aspect of complex RPA missions, for example, is that several crewmembers typically follow instructions from a remote pilot-in-command (RPIC), called the RPAS commander in some countries.
+A 2012 circular for manned aviation professionals, issued by the International Civil Aviation Organisation (ICAO), summarised the correlation of these specialists in part by stating: “The pilot-in-command of a manned aircraft is responsible for detecting and avoiding potential collisions and other hazards. … The same requirement will exist for the remote pilot of an RPA.”
+Definitions
+The following basic ICAO definitions aid any discussion of RPAS key risk areas:
+
+Remotely-piloted aircraft system (RPAS) — ICAO defines this as “A set of configurable elements consisting of a remotely-piloted aircraft, its associated remote pilot station(s), the required command and control links and any other system elements as may be required, at any point during flight operation.” (ICAO Cir 328, Unmanned Aircraft Systems); and,
+Remotely piloted aircraft (RPA)— ICAO defines this as “An unmanned aircraft which is piloted from a remote pilot station [i.e., operated with no pilot on board]: expected to be integrated into the air traffic management system equally as manned aircraft [and for which] real-time piloting control is provided by a licensed remote pilot.” (Annex 2, Rules of the Air)
+
+Context of Identifying RPAS Risk Areas
+Civilian RPAS safety still relies largely on separating RPAs and manned aircraft by enforcing aviation rules and procedures. National aviation authorities (NAAs) in recent decades have established and required segregated airspace for small-RPA operators and military/government RPAS operators.
+Pilots of manned aircraft therefore are very unlikely to experience an airborne encounter (near-collision or collision) with an RPA either in segregated airspace during normal flight or during a typical RPA loss-of-control situation.
+According to several national and international sources, key risk areas for small RPAs and manned aircraft — in cases where both operators have been authorized to share the same airspace — include:
+
+RPA loss of control — The previously cited ICAO circular said, “In the event of total loss of control data-link between the pilot-in-command and the RPA, a back-up mode of operation should enable the RPA to revert to autonomous flight that is designed to ensure the safety of other airspace users.” Loss of control often follows loss of electric power, shifting/detachment of payloads or aerodynamic interference with multirotor propellers and other aircraft-thrust or flight path–control surfaces.
+Loss of RPA electrical power — Accidents and serious incidents involving RPAS have been attributed to the remote pilot’s inability to fully control the outcome of a flight because the flight duration was cut short. Loss of control normally would not occur if independently powered flight controls, autonomous functions and/or control data-links are fitted and function as designed. Nevertheless, emergency intervention by the pilot — even if immediately landing the unpowered RPA is successful — may increase risk of collision with another aircraft or injury to people/property damage on the ground.
+Failure to recognize and respond to flight path deviations — Prohibition of RPAS operation beyond visual line of sight (BVLOS) is the default policy of NAAs for this reason. NAA’s expect remote pilots to control each RPA’s position, altitude and flight path in relation to clouds, other obscurations of vision and proximity to other airspace users in a manner comparable to flying a manned aircraft under Visual Flight Rules (VFR). To be granted a waiver (i.e., an exception to the default rule), the RPAS operator typically must create an acceptable, original safety case that includes a hierarchy of mitigations (such as multiple observers, precise tracking, nearly fail-safe autonomous RPA capability to safely land or terminate unsafe flight, and robust backup systems).
+Inability of the remote pilot to assess in-flight conditions — The defences inherent in flight under VFR can disappear quickly for remote pilots — as for pilots of manned aircraft who are not trained or unequipped to fly under Instrument Flight Rules (IFR) — whenever the RPIC cannot assess whether the visibility and distance from cloud qualify as Visual Meteorological Conditions (VMC).
+Radio frequency interference (RFI) — A high volume of radio frequency traffic, or other RFI sources, in the vicinity of an RPA’s area of flight operations has caused some of the scenarios described above, according to investigation reports of accidents and serious in which RFI reached a level sufficient to override RPAS control-link signals.
+Non-compliance with RPAS regulations — Except for situations in which RPICs are allowed to violate/supersede regulations to resolve an emergency, remote pilots are presumed to be compliant. Reports of accidents and serious incidents sometimes show, however, patterns of behavior that disrupt the safety nets designed to enable RPAS–manned aircraft integration into controlled airspace.
+Careless or reckless RPA flight that endangers the lives or property of other people — Comprehensive public education about personal responsibility for “drone safety” and free tools such as smartphone apps have aimed to curtail actual near misses between RPAs flown by amateur pilots and commercial air transport aircraft. Other measures have included:
+
+collision-prevention features engineered into current RPA models;
+clear restrictions and requirements by NAAs on people who fly RPAs for various purposes (especially in commercial and professional settings);
+government registration of all RPAs; and,
+similar risk mitigations have been implemented in many countries to reduce the incidence of such threatening behaviour.
+
+
+
+(Defences against RPAS-related deliberate criminal acts or terrorism are beyond the scope of this safety article.)
+Evolving Risks in Flying RPAs
+U.S. Federal Aviation Regulations (FARs) Part 107, Small Unmanned Aircraft Systems (sUAS), cover some of the evolving RPAS key risk areas as follows:
+
+The sUA must pose “no undue hazard” to other people, other aircraft or other property in the event of a loss of control of the aircraft for any reason.
+The RPIC must ensure that each assigned visual observer is able to see the sUA as FAA prescribes. FAA also said that any person (typically a remote pilot) manipulating the flight controls of the sUAS for the RPIC, and the visual observer must coordinate their electronic scanning of the airspace where the sUAS is operating for any potential collision hazard, and maintain awareness of the exact position and the altitude of the sUA through direct visual observation.
+Part 107 also states, “A person may not operate or act as a remote pilot in command or visual observer in the operation of more than one unmanned aircraft at the same time.”
+
+EUROCONTROL has described the following risk areas in RPA flights:
+
+“Effective traffic avoidance and collision avoidance probably represent the greatest technical challenge confronting the routine operation of RPAs outside segregated airspace.” Therefore, for example, except during aerodrome operations, any RPAS should be flown a minimum distance of 0.5 nm horizontally or 500 ft vertically from other airspace users, the agency said at the time.
+Loss of the control data-link makes it impracticable for the remote pilot to detect and avoid conflicting traffic, so robust and highly reliable automation must take over to ensure collision avoidance using sense-and-avoid technology.
+If the control data-link is lost, the remaining mitigation — typically an emergency recovery procedure or a flight termination system embedded in software — must mitigate the risk of collision with other airspace users.
+If the remote pilot commands the RPA to enter an autonomous flight mode in this circumstance, or this mode engages automatically, critical aspects of collision avoidance must include:
+
+Situation awareness within air traffic control (ATC);
+RPIC briefing of air traffic controllers on details of the RPA operator’s contingency plan; and,
+The air traffic controller’s immediate intervention by contacting pilots of any conflicting aircraft under ATC surveillance until the RPA has returned to base, landed or harmlessly crashed.
+
+
+
+Immediately terminating any RPA flight that begins to create any collision risk is a specific responsibility of RPICs, intentionally deviating from civil aviation regulations when necessary in the circumstances, as noted previously.
+Accidents and Incidents
+
+UAV, manoeuvring, north of Reims France, 2006: On 29 February 2016, control of a 50 kg, 3.8 metre wingspan UAV was lost during a flight test being conducted in a Temporary Segregated Area in northern Belgium. The UAV then climbed to 4,000 feet and took up a south south-westerly track across Belgium and into northern France where it crash-landed after the engine stopped. The Investigation found that control communications had been interrupted because of an incorrectly manufactured co-axial cable assembly and a separate autopilot software design flaw not previously identified. This then prevented the default recovery process from working. A loss of prescribed traffic separation was recorded.
+
+References
+
+ICAO - Unmanned Aircraft Systems (UAS), Circular 328, International Civil Aviation Organisation (ICAO), 2012.
+“Small Unmanned Aircraft Systems: FAA Should Improve Its Management of Safety Risks” by U.S. Government Accountability Office. GAO-18-110, May 24, 2018.
+ICAO Doc 10019: Manual on Remotely Piloted Aircraft Systems (RPAS), 1st Edition, 2015.
+CAP 722 - Unmanned Aircraft System Operations in UK Airspace – Guidance, 6th Edition, U.K. CAA, March 31, 2015.
+Small Unmanned Aircraft Systems, 14 U.S. Code of Federal Regulations, Part 107, U.S. Federal Aviation Administration (FAA).
+
+Related Articles
+
+Accident and Serious Incident Reports: UAS
+UAS Safety Risk Portfolio and Analysis
+
+Further Reading
+
+Acceptable Means of Compliance (AMC) and Guidance Material (GM) to Annex VI – Part-NCC, European Aviation Safety Agency, 20 February 2015.
+Airports Council International-Europe (ACI-Europe), "Drones in the Airport Environment: Concept of Operations & Industry Guidance", April 2020.
+"Vulnerability of manned aircraft to drone strikes", research project EASA.2020.C04, EASA/Qinetiq, 29 Jan. 2021.
+Drone Incident Management at Aerodromes, Part 1: The challenge of unauthorised drones in the surroundings of aerodromes, EASA, 8 March 2021.
+
+EUROCONTROL Airspace Infringement Initiative
+
+European Action Plan for Airspace Infringement Risk Reduction;
+Airspace Infringement Risk Analysis Part II;
+
+
+
+
+
+Categories
+
+
+Unmanned Aerial Systems
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

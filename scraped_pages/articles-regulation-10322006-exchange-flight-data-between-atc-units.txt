@@ -1,0 +1,159 @@
+Regulation 1032/2006 Exchange of Flight Data Between ATC Units
+
+
+
+
+
+
+
+
+
+
+
+  Regulation 1032/2006 Exchange of Flight Data Between ATC Units
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Single European Sky 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Note: This Regulation was repealed by Regulation 2023/1771 and is no longer in force.
+Commission Regulation (EC) No 1032/2006 of 6 July 2006 laying down requirements for automatic systems for the exchange of flight data for the purpose of notification, coordination and transfer of flights between air traffic control units - text published in the Official Journal of the European Union
+Objective
+The Regulation aims to establish a safe and efficient mechanism for the notification, coordination and transfer of flights between air traffic control (ATC) units based on the automatic exchange of flight data between local flight data processing systems.
+Background
+The general framework of the Single European Sky (SES) needs to be completed by more specific and detailed implementing rules. The European Commission has adopted this regulation in order to support the implementation of the Interoperability regulation, which forms part of the first package of legislation on air traffic management designed to create the SES.
+The EUROCONTROL standard for on-line data exchange (OLDI) was annexed to Commission Regulation (EC) No 2082/2000 adopting EUROCONTROL standards and making its use mandatory within the European Community in the event of procurement of new flight data processing systems. As Regulation No 2082/2000 was repealed with effect from 20 October 2005, it was necessary to update the Community legislation, so as to ensure the consistency of relevant regulatory provisions.
+Summary
+Scope
+This Regulation applies to:
+
+Flight data processing systems serving air traffic control units providing services to general air traffic (GAT);
+Flight data exchange systems supporting the coordination procedures between air traffic services units and controlling military units.
+
+The Regulation should not cover military operations and training.
+Interoperability and Performance Requirements
+Air navigation service providers (ANSPs) shall ensure that:
+
+The systems serving area control centres (ACCs), comply with the interoperability and performance requirements specified in Annex I to the Regulation;
+The letters of agreement between ATC units specify the set of OLDI messages to be exchanged in support of the coordination of flights in accordance with Annex I to the Regulation.
+
+The systems used for automatic exchange of coordination messages between civil ATC units and controlling military units and the messages exchanged shall comply with the interoperability and performance requirements specified in Annex I, Parts A and C of the Regulation.
+Safety Requirements
+Any changes to the existing automatic systems for the exchange of flight data included in the scope of the Regulation or the introduction of new systems shall be preceded by a safety assessment, including hazard identification, risk assessment and mitigation. The safety assessment shall be conducted by the service providers concerned. A number of specific safety requirements, provided in Annex III of the Regulation, shall be taken into consideration in the safety assessment.
+Additional Requirements
+The systems included in the scope of this Regulation shall comply with the requirements concerning quality of service, specified in Annex II of the Regulation relating to:
+
+Availability, reliability, data security and data integrity;
+Process times.
+
+The manufacturers of constituents of the systems included in the scope of this Regulation shall assess the conformity or suitability for use of these constituents in compliance with the requirements set out in Annex IV, Part A of the Regulation.
+ANSPs (or notified bodies) shall conduct verification of the systems included in the scope of this Regulation in compliance with the requirements set out in Annex IV, Part B of the Regulation.
+Entry into Force
+The Regulation entered into force in July 2006. However, it shall apply from:
+
+1 January 2009 to all ATC systems serving GAT in respect of the revision of coordination, the abrogation of coordination, the basic flight data and the change to the basic flight data processes.
+31 December 2012 to all systems for automated data exchange with controlling military units in operation by that date.
+
+Amendment to the Regulation
+On 16 January 2009 the European Commission adopted Regulation No 30/2009 amending Regulation No 1032/2006. The amendment introduces new requirements concerning the capability of automatic systems for the exchange of flight data to support air-ground data link applications in European airspace in accordance with Commission Regulation No 29/2009. In order to enable the next ATC unit to start exchanging data with the aircraft, where area control centres concerned do not have an in-common data link connectivity service, ANSPs are required to implement automated processes related to logon information and communication with the next control centre.
+Note: This Regulation was repealed by Regulation 2023/1771 and is no longer in force.
+Commission Regulation (EC) No 1032/2006 laying down requirements for automatic systems for the exchange of flight data for the purpose of notification, coordination and transfer of flights between ATC units - consolidated text.
+Further Reading
+European Commission
+
+EUR-Lex Portal: Regulation 1032/2006 (available in different languages and file formats)
+Air Transport Portal of the European Commission - Single European Sky
+
+EUROCONTROL
+
+EUROCONTROL Specification for On-Line Data Interchange (OLDI)
+
+
+
+
+
+Categories
+
+
+Single European Sky,
+              SES Implementing Rules
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

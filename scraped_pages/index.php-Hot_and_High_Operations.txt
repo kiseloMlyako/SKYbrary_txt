@@ -1,0 +1,161 @@
+Hot and High Operations
+
+
+
+
+
+
+
+
+
+
+
+  Hot and High Operations
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Theory of Flight 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ The Air Pilots
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Hot and High Operations refer to a combination of aerodrome altitude and temperature which have a detrimental effect on aircraft performance.
+There is no “universal” definition of the concept of “high and hot”. As the possible combinations of altitude and temperature affect the performance of different aircraft to varying degrees, this article will focus on the simplified aerodynamics and consequences of “hot and high” operations and leave it to the reader to apply the information to their specific aircraft and type of operations.
+ICAO Standard Atmosphere (ISA)
+The International Standard Atmosphere (ISA) is a theoretical model which assumes a constant atmospheric pressure of 1013.2 mb (29.92 in), a sea level temperature of 15° Celsius and a lapse rate of 2° per 1000 feet or 6.5° per 1000 meters. This model is the basis for aircraft performance charts which must then be corrected to compensate for the deviation between the theoretical and the actual atmospheric pressure and temperature.
+Definitions
+Aerodrome Elevation – the elevation of the highest point of the landing area (ICAO).
+Pressure Altitude – aerodrome elevation corrected for ambient pressure. Simplistically, if the subscale of the aircraft altimeter is set to 1013.2 mb while the aircraft is on the ground, the altimeter will indicate Pressure Altitude. For example, ambient pressure greater than 1013.2 mb will result in a pressure altitude lower than aerodrome elevation and vice versa.
+Density Altitude – pressure altitude corrected for ambient temperature. Density altitude increases with an increase in ambient temperature.
+Engine Performance
+There are many factors which limit aircraft engine performance. From a pilot perspective, only two of these are critical when determining takeoff performance and maximum takeoff weight. These are: maximum operating temperature and maximum power output.
+Temperature can be measured as Turbine Inlet Temperature (TIT), Exhaust Gas Temperature (EGT), Interstage Turbine Temperature (ITT) or cylinder head temperature, and power can be measured in terms of thrust, torque, fan speed, pressure ratio (EPR) or horsepower.
+At low altitudes and ambient temperatures, the engine will be limited by its rated maximum power output. At high altitudes or temperatures, the engine will be limited by its maximum allowable temperature. The crossover point between power limitation and temperature limitation is a function of the engine and, to an extent, the airframe on which it is installed.
+On older aircraft engines, the pilot is responsible for determining the limiting parameter and manipulating the thrust/power lever to ensure that it is not exceeded. On newer engines with FADEC (Full Authority Digital Engine Control) the engine will limit the power or temperature in accordance with the takeoff conditions. Note that the engine may be flat rated below its maximum capable thrust. In this case, the engine output will be constant and will be limited to the rated thrust up until the point that ambient conditions of altitude and/or temperature result in the engine reaching its limiting temperature. Should the ambient temperature or altitude be increased beyond this threshold, the engine will no longer be capable of producing rated thrust as it is now temperature limited.
+Lift Generation
+In general terms, wing efficiency (lift generation) is a function of density altitude with less lift being produced at higher altitudes. This can result in a reduced maximum takeoff weight as well as a reduction in net climb gradient.
+IAS versus TAS
+To convert indicated airspeed (IAS) to true airspeed (TAS) one must take into account factors such as compressibility, type specific sensor positioning error, altitude and temperature. In simplistic terms, however, at sea level under ISA conditions the two speeds are virtually equivalent. Again, in fairly simplistic terms, the difference between IAS and TAS is approximately equal to 2% IAS/1000 feet AMSL. Thus, using this rule of thumb, an aircraft in flight or during takeoff or landing with an indicated airspeed of 150 kts at a density altitude of 8000 feet would have a TAS of approximately 175 kts (the actual value is 169.5 kts). This will result in a correspondingly higher ground speed in all phases of flight.
+Operational Consequences
+From the above discussion, it is apparent that the operational consequences of “hot and high” conditions could result in any or all of the following:
+
+Engines are “temperature limited” and maximum thrust/torque/power is not available
+Lift generation is reduced
+Maximum takeoff weight may be limited
+The IAS/TAS relationship will result in higher speeds over the ground in all phases of flight
+Due to reduced thrust, lift generation and higher ground speed for a given IAS, takeoff roll will be increased
+Rate of climb will be reduced
+Radius of turn will increase
+Missed approach climb capability will be reduced
+Stopping distance will be increased (stopping distance is related to mass x TAS squared)
+Maximum tyre rotation speed may be compromised on takeoff or on landing
+
+Mitigating Strategies
+In all circumstances, performance calculations must take density altitude into consideration when calculating maximum takeoff weight, climb gradient, missed approach climb gradient and stopping distance.
+In addition, the following items should be considered to reduce the impact of “hot and high” operations:
+
+Plan operations around the coolest time of the day
+Use the runway which provides for the best aircraft performance (usually, but not always, the longest runway)
+Limit payload or plan for an intermediate fuel stop at an en-route airfield.
+Avoid tailwind operations and be mindful of maximum tyre speed
+Allow for increased turn radius when manoeuvring
+Ensure that engine at takeoff thrust/torque/power is meeting charted values
+Where charts are provided, calculate an acceleration/time profile
+Fly the aircraft in accordance with the manufacturer’s guidelines
+
+Related Articles
+
+Inter Tropical Convergence Zone (ITCZ)
+Rejected Take Off
+Use of Erroneous Parameters at Take-Off
+Global Action Plan for the Prevention of Runway Excursions (GAPPRE), 2021
+Aircraft Load and Trim
+
+
+
+
+
+Categories
+
+
+Theory of Flight,
+              Overrun on Landing,
+              Overrun on Take Off
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,279 @@
+Morse Code
+
+
+
+
+
+
+
+
+
+
+
+  Morse Code
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Morse Code is a communications "language" that was initially developed for transmission of letter by letter textual information by wire using the telegraph system. The code has also found wireless applications using signal lamps and audio devices and has also been used in long range radio communications and radio navigation applications.
+History
+During the 1830's, independent development of long range, transmission wire based communications systems was taking place in Europe, England and the United States. Americans Samuel Morse, Joseph Henry and Alfred Vail developed what they called an electrical telegraph system, a system which sent pulses of electricity through wires to activate an electromagnet at the receiving end. The electromagnet could be then caused to make impressions on a paper tape, make a sound or illuminate a light bulb. A standardised transmission code was required to allow practical use of the telegraph system.
+The Code
+Samuel Morse developed the initial facets of the code which bares his name but others contributed to the code as it now exists. The International Morse Code encodes each letter of the basic Latin alphabet, each of the Arabic numerals and a small set of punctuation and procedural signals (prosigns) as a sequence of short and long electrical pulses referred to as "dots" (short) and "dashes" (long) or "dits" and "dahs". The code is depicted in the following table:
+
+
+
+L/N/P/P*
+Morse
+L/N/P/P
+Morse
+L/N/P/P
+Morse
+L/N/P/P
+Morse
+
+
+
+
+A (a)
+· − 
+B (b)
+  −· · · 
+C (c)
+ −· −· 
+D (d)
+−· ·  
+
+
+E (e)
+· 
+F (f)
+  · ·−· 
+G (g)
+ − −· 
+H (h)
+· ·· ·  
+
+
+I (i)
+· · 
+J (j)
+·  −  −  −
+K (k)
+ − · −
+L (l)
+· − · ·  
+
+
+M (m)
+−− 
+N (n)
+  −· 
+O (o)
+ − −−
+P (p)
+· −−·  
+
+
+Q (q)
+ −−· − 
+R (r)
+ ·   −·   
+S (s)
+ ·· · 
+T (t)
+−
+
+
+U (u)
+··  −
+V (v)
+· · ·   −
+W (w)
+   · − − 
+X (x)
+− · ·− 
+
+
+Y (y)
+−· − −
+Z (z)
+  −−· · 
+ 
+ 
+ 
+ 
+
+
+1
+· − −−−
+2
+··  −−−
+3
+· ·· −−
+4
+··· · −
+
+
+5
+· ·  · · · 
+6
+  −· · · · 
+7
+ − −· · · 
+8
+ − −−· ·   
+
+
+9
+ − −−−· 
+0
+ − −−−−
+ 
+ 
+ 
+ 
+
+
+Period [.]
+ ·−  ·−  ·− 
+Comma [,]
+  − −  ··−  − 
+Question [?]
+ ·  · − −· · 
+Exclamation [!]
+ ·−  ·−  − −   
+
+
+Parenthesis Open [(]
+ −  ·−  −  ·
+Parenthesis Close [)]
+  −·−  −   ·− 
+Colon [:]
+ − − −· · · 
+Semi Colon [;]
+−  · −  ·−  ·
+
+
+Start
+  −·  −·  −
+End of Work
+   · · ·   −·  −
+New Page
+  ·  −·  −·  
+Wait
+·  −· ·   ·  
+
+
+Understood
+ · · ·   −·
+Error
+· ·  · · · · ·  · 
+ 
+ 
+ 
+ 
+
+
+
+*Letter/Numeral/Punctuation/Prosigns
+Transmission
+To be effective, specific transmission protocols for the Morse Code are required. The fundamental protocol is the timing of the electrical pulses during transmission. The basic time unit of the code is the dot. The pulse length for the dash is three times that of the dot. The time space between the components of a specific character is equivalent to a dot, that between characters is the length of a dash and that between words the length of two dashes..
+Aviation Applications
+In the early days of aviation, Morse Code was often used for long range communication as it was more reliable than the long range voice circuits of the time. Aircraft carried dedicated radio operators and would often be equipped with a trailing wire antenna which was deployed for use in flight and retracted again prior to landing.
+Ground navigation aids also continuously transmitted their alphanumeric identification in Morse Code, a practice which continues to present day. The station identification, often with the corresponding Morse conversion, is shown on air navigation charts. As an example, the VOR based at Manchester Airport is abbreviated as MCT and that identifier is transmitted in Morse Code on its radio frequency. This practice allows the pilot to confirm that the station(s) they are using is serviceable. Depending upon location, if the facility is out of service or unreliable, the station code might be removed entirely or the facility might transmit the sequence T-E-S-T (− ·  ·· ·  −) to signify that the aid should not be used. To ensure safety of flight, it is essential that the pilot identify the station before using it as a navigation or approach aid. Many modern navigation receivers automatically translate the code into displayed letters facilitating the identification process.
+Related Articles
+
+Air-Ground Communication
+ICAO Phonetic Alphabet
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

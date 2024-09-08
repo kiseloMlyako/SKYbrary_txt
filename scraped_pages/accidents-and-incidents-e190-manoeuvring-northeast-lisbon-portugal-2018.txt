@@ -1,0 +1,414 @@
+E190, manoeuvring, northeast of Lisbon Portugal 2018
+
+
+
+
+
+
+
+
+
+
+
+  E190, manoeuvring, northeast of Lisbon Portugal 2018
+
+
+
+
+
+
+
+
+
+Summary
+
+On 11 November 2018, an Embraer 190-100LR just airborne on a post maintenance non revenue positioning flight became extremely difficult to control as it entered cloud despite the complete absence of any flight control warnings. After reversion to Direct Law, partial normal control was regained and, once visual, the flight was guided to an eventually successful landing. The Investigation found that the aircraft had been released from heavy maintenance with the aileron system incorrectly configured and attributed this primarily to the comprehensively dysfunctional working processes at the maintenance facility involved. Extensive airframe deformation meant the aircraft was a hull loss.
+
+
+
+
+Event Details
+
+When
+
+11/11/2018
+
+
+
+Event Type
+
+
+AW,
+              HF,
+              LOC
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+IMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+EMBRAER ERJ 190-100
+
+
+
+
+
+
+
+
+
+Operator
+
+Air Astana
+
+
+
+Type of Flight
+
+Public Transport (Non Revenue)
+
+
+
+Intended Destination
+
+
+
+
+Minsk International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Manoeuvring
+
+
+
+
+
+
+
+
+Location
+
+Approx.
+
+33 nm north east of Lisbon Airport (LPPT)
+
+
+
+
+
+
+
+
+
+
+General
+
+Tag(s)
+
+
+              Approach not stabilised,
+              Extra flight crew (no training),
+              Inadequate Airworthiness Procedures,
+              Inadequate Aircraft Operator Procedures,
+              Ineffective Regulatory Oversight,
+              Military Fast Jet Formation,
+              En-route Diversion,
+              CVR overwritten,
+              Visual Approach
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Flight Crew Visual Inspection
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Significant Systems or Systems Control Failure,
+              Temporary Control Loss
+          
+
+
+
+
+EPR
+
+Tag(s)
+
+
+              “Emergency” declaration
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Flight Controls
+          
+
+
+
+Contributor(s)
+
+
+              Maintenance Error (valid guidance available),
+              Inadequate Maintenance Inspection,
+              Cross Connection,
+              Dispatch of Unserviceable Aircraft
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Aircraft damage
+
+Hull loss
+
+
+
+Non-aircraft damage
+
+Yes
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Occupant Injuries
+
+Few occupants
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Airworthiness
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 11 November 2018, an Embraer 190-100LR (P4-KCJ) being operated by Air Astana on a non-revenue international positioning flight from Alverca to Almaty, Kazakhstan with a technical stop at Minsk, Belarus as KZR1388 became extremely difficult to control in day IMC almost immediately after takeoff with control repeatedly lost and then regained. After declaring an emergency, the crew was eventually able to partially recover normal control and, after being guided to Beja, a third attempt to land was successful after almost two hours airborne. One of the three company engineers on board as passengers sustained minor injuries and airframe limit load exceedances were substantial enough to place the aircraft beyond economic repair and thus a ‘hull loss’. A runway light was destroyed during the landing at Beja.
+Investigation
+The event was notified to the Portuguese Air and Rail Accident Investigation Agency (GPIAAF) whilst it was still in progress and investigators then travelled to Beja and commenced a detailed examination of the aircraft. The FDR and CVR were both removed from the aircraft but useful data could only be downloaded from the FDR as relevant CVR data had been overwritten. After being initially classified as a ‘Serious Incident’, it was reclassified as an “Accident” when the extent of structural damage became apparent.
+It was noted that three pilots were on the flight deck during the accident flight, the Captain and two First Officers who were all employees of Air Astana and Kazakhstan nationals. The 40 year-old Captain had been with Air Astana for 7 years and had a total of 6,009 hours flying experience which included 4,700 hours on type. The 32 year-old First Officer who had occupied the right seat for most of the accident flight had a total of 2,692 hours flying experience, all except 250 hours of which were on type. The 26 year-old First Officer who had occupied the supernumerary crew seat for most of the accident flight had a total of 3,514 hours flying experience of which 3,084 hours were on type. Three passengers, who were all technicians employed by the aircraft operator, were also on board - the Director of Technical Asset Management, a maintenance technician who had followed the C-Check activity and a logistics specialist. The aircraft had been positioned to Alverca to undergo heavy maintenance - a C2 Check and the incorporation of various SBs at the beginning of October. This was initially expected to take three weeks but was later extended to a month and then into November after problems were encountered. .
+The Accident Flight
+The flight was the first since the completion of the planned maintenance input. The local weather conditions at the time of departure included a 500 feet aal cloud base with solid cloud above and a prevailing surface visibility of around 2000 metres in rain. It was established that following the conduct of the prescribed flight crew pre-flight checks and takeoff from runway 04 at Alverca into what soon became IMC in the wider context of adverse meteorological conditions, the Captain as PF had attempted to engage the AP but had been unable to do so. Almost immediately, the flight crew recognised that the aircraft was not responding normally to pilot inputs intended to control the aircraft flight path. Abnormal aircraft attitudes began to be experienced whilst still in contact with the TWR at Alverca and just over one minute after takeoff, an emergency was declared.
+Thirty seconds after the emergency declaration, the crew activated Direct Law for the flight control system, which removed the Flight Control Module (FCM) from flight surface command so that surface position was then controlled directly in proportion to control column and rudder pedal inputs. Some variation between Direct and Normal Law modes then followed but eventually, the crew decided that Direct Law was the relatively better option. The only fault message annunciated was in respect of the AP, although this was increasingly accompanied by almost continuous abnormal flight attitude alerts as experimental attempts to regain control during unintended extreme manoeuvres were made with high structural loads occurring. Multiple instances of complete loss of control for brief intervals occurred - see the example illustrated below, one of many such upsets during initial part of the flight.
+
+One of the recorded deviations from controlled flight reconstructed from FDR data. [Reproduced from the Official Report]
+On transfer to Lisbon APP, the crew initially contemplated a ditching in the interests of their survival and the avoidance of hazard to those on the ground. On that basis, they made several requests for headings towards the sea for a ditching but were then unable to hold the necessary track and ending up flying north east. Eventually, by comparing passenger observations of aileron surface movement from the cabin with actual control column roll inputs, erratic behaviour of the ailerons was confirmed and the finding validated by reference to indications on the Multi Function Display (MFD) flight controls system page. Roll inputs were thereafter minimised and it was also found by experiment that maintaining FLAPS 1 (Slats 15° / Flaps 7°) provided the best longitudinal control.
+On regaining VMC as they tracked inland, the situation became somewhat easier to control and it was decided to take up an easterly to remain in VMC as ATC began to formulate an emergency plan for diversion to a suitable airport with good weather conditions. The aircraft was joined by two Portuguese Air Force F-16s which helped guide the aircraft to the joint military/civil use airport at Beja which had, in the meantime, been selected as the best emergency landing option. On arrival at Beja, an initial visual approach to the 3450 metre-long main runway, 19R, had to be discontinued when it became unstable. Prior to positioning for a further approach, the Captain decided to switch First Officers because of signs that the one in the right seat thus far had become physically exhausted to the extent of being unwell. With this change completed, a further visual approach to 19R was attempted but also discontinued after becoming unstable.
+A third attempt to land on 19R finally led to a successful landing but on the slightly shorter (2951 metre-long) parallel runway 19L after it proved impossible to prevent the aircraft drifting off the 19R extended centreline on short final. It was noted that upon arriving at the allocated parking position, “all those on board were physically and emotionally shaken”. The aircraft was found to have sustained very substantial damage to its engines, wings, fuselage and all flight control surfaces.
+
+The flight paths of the three approaches to and final landing at Beja. [Reproduced from the Official Report]
+Structural Damage to the Airframe
+During a comprehensive examination of the accident aircraft, it was immediately obvious that a large number of fuselage panels had been damaged. Thereafter the Investigation worked with Embraer, the AMO and the aircraft operator to develop a full damage assessment. The confirmed findings are summarised on the illustration below. However, it was recognised that the overloads experienced were likely to have caused other non-visible damage to the aircraft structure. The very significant structural damage found led to the decision that the aircraft was ‘Beyond Economic Repair’ (BER).
+The Direct Cause
+It was noted that roll control on the aircraft type involved is achieved either by input to the control column in manual flight or, when the AP is engaged, by the commands it generates with aileron movement being assisted by roll spoilers in both cases. The Power Control Units (PCU) which move the aileron surfaces are mechanically controlled and hydraulically powered.
+
+Limit load exceedences on parts of the airframe during the accident flight. [Reproduced from the Official Report]
+A detailed examination of the aircraft flight controls found that the aircraft had been released to service with the aileron control cable system incorrectly installed inverted in both wings. It was noted that the aircraft was on its first flight after completion of a ‘C’ Check which had also included a flight control system modification in accordance with SB 190-57-0038R2 and it was this latter work which had been incorrectly performed and then remained undetected. This SB involved replacing the original pulley system routing for the aileron controls with a more direct routing facilitated by a new cable support which obviated the need for the original cable routing and separation around rib 21 (see the illustration below). This illustration also shows where the cable reversal occurred.
+
+The aileron cable run showing where the cable alignment was incorrectly installed. [Reproduced from the Official Report]
+This work was all carried out by ‘Indústria Aeronáutica de Portugal’ (OGMA), an Aircraft Maintenance Organisation (AMO) which was approved for base maintenance on Embraer 170/190 aircraft under both EASA Part 145 (by Portugal) and under DL-ACC-069 (by the Island of Aruba, a self-governing Caribbean territory designated as a “constituent country within the Netherlands”). It was noted that at the time the accident aircraft was being worked on, the civil aircraft maintenance division of OGMA had “around 120 maintenance technicians in the categories of certifying staff, support staff and non-certified qualified mechanics”.
+It was found that after finishing the required structural work for the new cable routing, the technicians who had removed both cables proceeded with a “temporarily installation” because they had been instructed to work instead on another flight controls SB on the aircraft which involved replacing stainless steel control cables with carbon steel ones. It was, incidentally, found that the documentation of this cable replacement showed that it had been completed on a date when the aircraft configuration would have made this impossible because of the AMM required performance of operational tests using electrical power which was not available at that time.
+The temporary cable reconnection “was carried out by personnel without relevant experience” who, whilst working in accordance with AMM instructions, stated that they had “found them complex and difficult to follow”. A few days later, experienced personnel replaced the temporary cables as installed without detecting any problems in the configuration and since the aircraft was still configured without electrical power, the required operational checks to confirm correct operation of the ailerons were, contrary to instructions in the SB, not immediately performed. When power was eventually connected, the checks were run and a ‘FLT CTRL NO DISPATCH’ message was displayed on the ECAM and removing this message then became the focus and resulted in assistance being sought from OEM Embraer (see later text).
+Throughout the subsequent 11 day troubleshooting process several technical discrepancies, some considered likely to have originated during the previous maintenance input but others during the troubleshooting process itself, were corrected. The process concluded on the day of the accident when the final component was replaced and software loaded. After a total of six power-down/power-up sequences, the ‘FLT CTR NO DISPATCH’ message did not reappear during the applicable flight controls system return to service procedure. It was noted that “none of the involved technicians in the troubleshooting process during the several attempts to remove the message [...] with positive flight control surfaces movement, noticed the erroneous ailerons movement (by direct observation or through the synoptic page) in respect to the given command in the control column”.
+It was noted that although the AMO did have a procedure for final inspection and aircraft handover after a completion of a contracted maintenance input, “it was not effective in detecting the (continued) aircraft mis-configuration”. It was also noted that tests during the course of the Investigation had “confirmed that the ‘FLT CTRL NO eDISPATCH’ message would not result only from an aileron control cable reversal”.
+A Systemically Flawed Performance by the AMO (OGMA)
+Although the OGMAs ‘Maintenance Organisation Exposition’ was, in general, assessed to be “detailed in procedures that cover the maintenance activities for which the organisation is certified (but) relevant gaps were, however, identified”. These concerned the lack of “effective implementation and knowledge of procedures and standards by the different personnel covered by the quality system, from the least qualified up to the top managers” and a comprehensive review by the Investigation found significant problems within workforce management and supervision processes.
+It was considered that these problems were likely to be not unconnected with “a high staff turnover in recent years associated with frequent organisational changes that […] prevented the AMO from retaining adequate technical know-how”. It was observed that “there was no evidence of appropriate technical and organisational preparation by the persons responsible for production within the assigned tasks and responsibilities”. It was also observed during the Investigation that “it was not clear how the organisation identified the organisational or soft skills training needs of the operational staff and management, to (enable them to deal with) the recognised skill and experience deficiencies in each department assumed by the middle management” and that the fact that the allocation of human and material resources to different jobs was unstructured. The result of the latter was found to have been that constant adjustments were required to activity planning leading to “significant interruptions in the production flow and the consequent reallocation of staff/resources or complete team reallocation” during implementation of the aileron system SB and on the subsequent troubleshooting process when EICAS message ‘FLT CTRL NO DISPATCH’ appeared after the work had been completed. The OEMs technical representative was eventually called in to help but although these troubleshooting activities had lasted 11 days, they had not identified the aileron cable reversals nor correlated this situation with the "FLT CTRL NO DISPATCH" message.
+It was noted that each of the two work shifts were under the control of a Team Leader (TL) and that shift handover was performed only between the two Team Leaders “without any relevant information reaching the rest of the team members in a consistent manner”. The general matter of independent (duplicate) inspections of critical systems was examined and it was found that “none of the technicians interviewed by the investigation knew the scope and philosophy of this error detection procedure”. It was also discovered that the required duplicate (independent) checks “were not accomplished according to the procedures established in the (applicable) regulation" in that “critical maintenance tasks relevant to the accident, requiring a close oversight, were mainly signed off by both production shift Team Leaders”. Whilst these persons held valid internal authorisations and certifications to carry out such checks, it was found that “the depth of their technical knowledge and the workload associated with the team management, raised doubts regarding the feasibility of such a number of complex tasks, just performed by the two team leaders”.
+The Investigation also found that “the production process carried out on the accident aircraft was similar, in its weaknesses, to other previous maintenance processes” at the AMO and that “weaknesses in effective production control processes were known across the organisation”. The absence of any regulatory requirement for the AMO to have a Safety Management System at the time the accident aircraft was released to service was noted. There was a “safety department with written procedures on its operation and scope”, but it was found that even after the accident, the attempt to develop a safety reporting culture within the workforce and to communicate best practices had been almost completely ineffective “revealing a lack of commitment by top management in these matters”. Reports were still “few and incipient in scope” and interviews conducted with personnel at different hierarchical levels in the organisation disclosed a lack of any understanding of the philosophy and implementation of safety management including amongst those performing leadership roles.
+Regulatory Oversight of the AMO (DCA Aruba and ANAC Portugal)
+OGMA performed the work on Air Astana’s aircraft and released it to service under its certification by the Aruba Department of Civil Aviation (DCA) rather than the EASA Part 145 certification overseen by the Portuguese National Civil Aviation Authority (ANAC) which it also held. It was noted that the Aruba authority had carried out certification audits on OGMA prior to the commencement of work on the accident aircraft and again during 2019 after the accident. It was found that “none of these audits evidenced problems or significant findings in the organisation”. The Investigation concluded that this fact may have been because “only a close and continuous monitoring of maintenance activities would allow an effective assessment between what was declared in the procedures and that practiced in daily activities”. It was also concluded that the failure of the Aruba audits to make any findings of inconsistency between documentation and reality “may also demonstrate a lack of follow-up of the aircraft operator's contracting of its EASA Part 145 maintenance service providers, in addition to purely observing the legal requirements established by the Aruba Department of Civil Aviation”. It was noted that there was no mention in the Air Astana Engineering Procedures Manual that the requirement in respect of Part 145 had been verified by them or that compliance with this requirement had been verified or audited by their own certification authority.
+It was found that in the first quarter of 2019 shortly after the accident flight had occurred, EASA had, when performing an audit on ANAC in respect of its licensing, certification, authorisations and approval obligations, included oversight of OGMA, approved by ANAC as a Part 145 service provider, as part of its audit activity. It identified a series of shortcomings which the Investigation considered were relevant to the approval of the OGMAs Part 145 Maintenance Organisation Manual (MOM) by ANAC. These included “lack of information regarding the internal authorisations of the certifying staff (CS) and support staff (SS) in their corresponding functions”.
+The Role of the OEM (Embraer)
+It was noted that Embraer, as with any OEM, provided a technical support service to its customers and service centres to ensure the efficient operation of its aircraft. It had been approached by OGMA after the latter had failed to identify a suspected flight controls failure during its own troubleshooting process and had requested help from Embraer. After initial attempts at remote assistance had not led to a resolution of the problem, an on-site Field Technical Representative (FTR) was sent to help with liaison between OGMA and Embraer in respect of what was at that time the undetected incorrect configuration of the aileron system. Eleven days of further troubleshooting action followed but it was found by the Investigation that “at no time was questioned, either by the manufacturer or the AMO, whether the aircraft still maintained the initial certification conditions, given the extent of the maintenance intervention with massive flight control system primary component replacement”. It was assumed that all potentially relevant prior work had been performed correctly and task completion requiring it had been correctly certified in accordance with the requirements of OGMAs Aruba DCA approval and that “possible additional requirements for testing and final aircraft condition validation after major intervention” had also been considered, whether or not regulatory approval was needed.
+The Investigation found that some of Embraer’s technical instructions relevant to aileron control cable removal and installation were complex and presented in such a way that there had been “a high potential for misunderstanding” with the illustrations. In the absence of any adequate graphical differentiation, these were considered by both those directly involved and by other staff not directly involved but who had with relevant experience to be in a “confusing” format. It was also considered that the SB 190-57-0038R2 requirement to completely disconnect both control cables in each semi-wing to accomplish the modification had “facilitated an incorrect reinstallation (by) not complying with the normal certification specifications” (see below).
+Aircraft Type Certification
+Initial Certification of the type in 2005 was by ANAC Brazil for the State of Manufacture. FAA, EASA and other certifications followed based on the initial Brazilian certification. The Investigation noted, using the EASA Certification Standard CS 25.671 (General) and its related AMC that “each element of each flight control system must be designed, or distinctively and permanently marked, to minimise the probability of incorrect assembly that could result in the malfunctioning of the system”. It was also noted that under the AMC for 25.671(b), it was stated that for control systems which, if incorrectly assembled, would hazard the aeroplane, the design should be such that at all reasonably possible break-down points it is mechanically impossible to assemble elements of the system to give (amongst other results) “an assembly which would reverse the sense of the control” and that “only in exceptional circumstances should distinctive marking of control systems be used to comply with the above”.
+It was observed that “as demonstrated by facts, it is possible to invert the Embraer 170/190 aileron controls operation, by the control cables swap in their last section and without an automatic detection or (EICAS) message”. It was, however, accepted that the control cable reversal would have been evident with correct execution of the aileron system operational test, by noting the surface deflection depicted on the Multi Function Display (MFD) flight control system page or by a cross-check of the actual aileron surface deflection against movement of the control columns.
+The Aircraft Operator Context (Air Astana)
+Although Air Astana held an AOC issued by the Republic of Kazakhstan, the accident aircraft was registered in Aruba under “an agreement regarding supervisory duties and functions between the Civil Aviation Committee of the Ministry for Investment and Development of the Republic of Kazakhstan and the Department of Civil Aviation of the Ministry of Tourism, Transportation, Primary Sector and Culture of Aruba”, referred to as the “Specific Aircraft Agreement”. At the time of the accident, Air Astana had no in-house base maintenance capability for their Embraer aircraft and had therefore contracted out such work to an Aruba-certified maintenance organisation. These contracted services were arranged without any prior audit of the maintenance organisation concerned or its quality assurance system. Audits were then conducted with the contract already in place “with apparently satisfactory results and without (identifying any relevant) non-conformances”. The accident aircraft was noted to have been the twelfth maintenance job performed on the basis of a contract based on the SAA (Specific Aircraft Agreement).
+It was noted that as it was “not a legal obligation”, Air Astana did not provide its crews with any procedure for aircraft acceptance following heavy maintenance work such as the ‘C’ Check. In particular, “no meteorological minimums were established for the first flight after such work”. In respect of checks on the correct function of the flight controls, the applicable SOPs replicated the Embraer procedure that “flight controls should be checked for freedom of movement in a smooth and continuous manner” and noted that “a full green box indication on the MFD Flight Control System page is not a requirement for a successful check”. Significantly in the case of acceptance for the accident flight, control direction was not required to be validated, which inspection of the ‘green box indication’ would have facilitated.
+The key Findings of the Investigation were as follows:
+
+The accident aircraft aileron control system was incorrectly installed during the heavy maintenance check, and the incorrect installation impaired the aircraft controllability.
+The aircraft design regarding the ailerons control system configuration showed weaknesses that allowed the inverted installation of the control cables.
+The aircraft manufacturer did not provide proper and clear maintenance instructions for the aileron control system installation and operational checks. The same lack of unambiguous maintenance instructions in documentation was evident regarding the non-detection of the mis-configured aircraft flight controls by physical verification or by digital means during the return to service procedure.
+The AMO quality assurance system failure to detect maintenance deviations because of the absence of an effective system for collecting and processing such data.
+The lack of maintenance teams properly organised by competence and specialties, with proper training and experience and with an adequate management, created or enhanced a latent condition for the timely non-detection of the aircraft mis-configuration. The observed lack of experience is across the organisation, including support staff, certification staff, team leaders and managers.
+The ineffective supervision and control process of maintenance activities meant that the independent nature of “function and sense” as defined in the applicable regulation, was not followed by the AMO and was generally unknown to its maintenance technicians.
+The operator did not adequately oversee the work performed by the maintenance service provider during contracted heavy maintenance activities, including the independent (duplicate) inspection requirements, and technical personnel used and did not ensure that the accident aircraft was returned to service in an airworthy condition.
+The operator had not established an aircraft acceptance procedure after a heavy maintenance input.
+The operator did not establish or provide guidelines to the crew on the conditions for carrying out the positioning flight, after significant maintenance intervention including, among other good practices, the definition of minimum meteorological conditions for the flight.
+During the pre-flight inspection and preparation phase, the aircraft flight crew did not detect the aileron control system configuration reversal resulting from its incorrect installation during maintenance activities and were not generally aware of the scope of the heavy maintenance work or which aircraft systems had been disturbed during it.
+The flight crew, by adopting a teamwork strategy, discussing options with the third pilot present and with the technicians on board as passengers, complemented each other in the necessary actions to face the encountered difficulties and collaborated for an outcome with minimal consequences for all on board.
+
+The Probable Cause of the accident was determined as the improper aileron cable installation in both semi-wings during maintenance activities and the subsequent inadequate independent inspection of the aircraft flight control systems, which resulted in a reversal operation of the aircraft aileron system and led to loss of control in-flight.
+A total of 11 Contributory Factors were also identified as follows:
+
+Insufficient functioning of the AMO quality assurance and failure to implement an effective production oversight, including but not limited to the independent inspection procedures to detect maintenance errors;
+The AMO’s lack of proper risk management based on an effective SMS programme including a reporting system covering maintenance errors;
+The AMO’s lack of maintenance teams properly managed and organised by skills and specialist work areas with the necessary training and experience;
+Weaknesses in the aircraft design, in respect of the aileron control system configuration which made it possible for inverted cables to be installed in both Power Control Unit (PCU) quadrants;
+The aircraft manufacturer’s inaccurate depiction of the complexity and limitations in presentation of the aileron cable routings in maintenance publications;
+The aircraft manufacturer’s lack of proper maintenance instructions to detect the aircraft mis-configuration during the flight controls return to service procedure;
+The OEM’s failure to provide proper (relevant) guidance or best practices to the operator and the AMO regarding aircraft acceptance and return to service after a heavy or complex maintenance input;
+The poor supervision of the AMO by the aircraft operator;
+Deficient maintenance organisation oversight by the supervising (regulatory) authorities, namely on the AMO’s maintenance supervision procedures and occurrence reporting;
+The lack of proper guidance from the aircraft operator to the flight crew regarding aircraft acceptance after a heavy maintenance input;
+The flight crew’s failure to detect the mis-configuration of the ailerons during the operational check procedures following limited SOPs for the highly routine pre-flight checks.
+
+Safety Action:
+Whilst the Investigation was in progress, it was noted the action taken in response to the accident had included the following:
+
+OGMA made changes to their approved instructions and procedures for the aileron control cables replacement task by adding clearer instructions and using figure colouring on the SB 190-57-0038 aileron control cables instructions and also in respect of the operational task to check the aileron positions.
+Embraer revised SB 190-57-0038 to make it compatible with the AMM so that it is not required to remove both aileron cables at the same time and added additional guidance to the AMM in respect of the operational test of the aileron system which ensures a comparison of the actual position of an aileron surface and the command given using the control column.
+Air Astana made changes to its evaluation of potential aircraft base maintenance service providers and the process of contracting those selected. It also adopted a specific new aircraft acceptance checklist to be used following any “significant maintenance intervention” which ensured that crews are aware which systems have been disturbed and changed the normal pre flight controls check so that it now requires that the correct direction of movement following each control deflection is verified.
+
+Safety Recommendations:
+
+that OGMA reviews, within six months, its Quality Assurance System in order to ensure that the processes in place are compliant with the applicable Part-145 requirements and an effective internal auditing system exists to verify their correct implementation. Furthermore, OGMA, having implemented a SMS in 2013, review it in order to ensure that it supports the performance of effective risk management inherent to the activities performed, namely based on the appropriate risk analyses supported by real data from maintenance operations and a system in which occurrence reporting is encouraged and based on just culture principles. [PT.SIA 2020-09]
+that OGMA carries out, within three months, an organisation-wide and exhaustive competencies survey, distinguishing and evaluating each one of its elements and takes appropriate measures to assure that appropriate technicians are assigned to tasks and considers limiting the scope for authorisations and/or supervisory certification to specialisations in which employees have demonstrated the necessary skills. [PT.SIA 2020-10]
+that OGMA reviews, within three months, its policy for activities supervision and them reviews and updates its MOM, ONS-000028 and other applicable procedures as necessary to include specifically inclusion of the independent inspection concept in a way which will fulfil Part 145.A.48 of Regulation (EU) No. 1321/2014. [PT.SIA 2020-11]
+that Embraer establishes, within six months, proper guidance material to support operators and maintenance organisations during the aircraft return to service phase, after a significant or heavy maintenance event, in order to ensure the aircraft certification standards were kept and not affected by complex maintenance tasks and/or task combinations. [PT.SIA 2020-12]
+
+It was determined by the Investigation “that it was not necessary or effective” to issue Safety Recommendations to the Portuguese National Civil Aviation Authority (ANAC) regarding the safety issues related to their AMO oversight process. However, “the Authority, in the exercise of its competence and responsibility must necessarily monitor and oversee the AMO OGMA with a special focus namely, and among other aspects, the gaps in this organisation’s internal Quality Assurance System and their risk management of aircraft maintenance activities identified in the Investigation, in detail:
+
+Quality system,
+Independent inspections follow-up,
+Close follow-up of the tasks performed by maintenance technicians in order to evaluate the task accomplishment according to the manufacturer's manuals and the correct completion of the working documents,
+Competency assessment of maintenance support and certifying staff,
+Technicians' knowledge assessment regarding the organisation's internal procedures,
+Occurrence reporting procedures and their effectiveness,
+Maintenance staff oversight and management process,
+Management and Post Holders competency assessment,
+Management strategies for organisational change (namely the technical and management personnel turnover),
+AMO external maintenance teams’ management.”
+
+It was likewise determined that “the Aruba Department of Civil Aviation (DCA), should, within its responsibilities and the respective certification framework, properly oversee the AMO OGMA in respect of the gaps identified in that area”.
+The Final Report was published on 24 June 2020.
+Related Articles
+
+Loss of Control
+Flight Controls
+Aircraft Maintenance
+Continuing Airworthiness
+Safety Oversight
+Pre-flight Preparation

@@ -1,0 +1,180 @@
+ATC Clearance Error
+
+
+
+
+
+
+
+
+
+
+
+  ATC Clearance Error
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Separation 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+This article describes a particular type of human error - the wrong ATC clearance. This is a situation where an inappropriate or incorrect ATC clearance was issued and does not cover all controller errors, e.g. poor coordination, poor hearback, etc.
+An ATC clearance error can occur due to:
+
+Lapses (e.g. slips of the tongue, forgetfulness, etc.). The situation is assessed correctly, the plan is adequate but is not communicated as intended. An example of this is the controller thinking about issuing a climb clearance for FL 340 but actually saying FL 360. Another example is clearing a Non-RVSM flight to climb 1000 ft below another aircraft within RVSM space. The controller is aware of the applicable separation minimum but for some reason (e.g. distraction, workload, etc.) "forgets" that the aircraft is not RVSM approved.
+Situatuion misinterpretation. The plan itself was good but the result did not match the expectations because of a wrong assumption or perception. An example of this is when a controller vectors the first aircraft to reach the crossing point towards the second aircraft. Instead of solving the conflict this action would lead to firther reduction of the separation.
+
+
+For some reason the controller believes that AFT071 will reach the fix CNF before FOR905 does and based on this assumption vectors FOR905 to get it behind AFT071. Note that the vecror itself was correct except for the fact that it was issued to the wrong aircraft.
+
+Wrong plan. The situation was correctly assessed but the plan itself was flawed. An example here would be assigning an improper vertical speed.
+Wrong execution of the correct plan due to poor controlling techniques. An example would be assignment of rate of climb or descent that would not ensure compliance with the established separaiton minima to the conflicting traffic.
+Blind spot - the controller just did not "see" the conflicting traffic in the close vicinity.
+Poor situational awareness (i.e. the "big picture" is incomplete). For instance, the controller would issue a clearance to solve a conflict and create a new one at the same time. Another example would be accomodating a crew request which creates a conflict.
+
+Contributors
+
+Workload
+Stress
+Interruption or Distraction
+Fatigue
+Lack of knowledge or skills. This risk is usually mitigated by controller training. An abnormal situation, however, may sometimes indicate that training has been inadequate.
+
+Consequences
+ATC clearance errors, if not timely detected and rectified, may result in:
+
+Loss of Separation
+Airspace Infringement
+Runway Incursion
+Increased workload. Even if the error is discovered early enough to prevent it from causing an incident, controller workload is likely to be increased significantly, because
+
+there are fewer good options available.
+there is less time to implement the solution.
+
+
+
+Defences and Mitigations
+Common and efficient defences against ATC clearance errors as well as mitigations to reduce their impact are listed below:
+
+Two controllers working at the same sector (or unit). Human beings make mistakes often but having an additional person at the same sector not only increases capacity but also allows cross-checking between the two controllers. As a result, most ATC clearance errors are detected and rectified well before the situation escalates. By contrast, in single person operations, this important safety net is not available.
+Procedures, e.g. pattern for Flight Progress Strips placement and moving.
+Airspace design, e.g. different waypoints used to separate departing and arriving traffic flows.
+Software enhancements - e.g. Medium Term Conflict Detection (MTCD), Tactical Controller Tool (TCT), Probe (what-if) for area controllers.
+Advanced Surface Movement Guidance and Control System for aerodrome controllers.
+Safety Nets act as mitigation measures, applicable both in the air and on the ground.
+Structured scan. This technique is an important part of any ATCO training.
+Vigilance. Although it is not possible to directly measure or assess it, this remains one of the best defences against errorneous ATC clearances. Procedures to reduce the impact of fatigue, distraction and stress generally provide the foundation of high levels of vigilance.
+
+Accidents and Incidents
+This section contains events that have "ATC Clearance Error" as a contributing factor.
+
+A306 / B744, vicinity London Heathrow UK, 1996 (On 5 April 1996 a significant loss of separation occurred when a B744, taking off from runway 27R at London Heathrow came into conflict to the west of Heathrow Airport with an A306 which had carried out a missed approach from the parallel runway 27L. Both aircraft were following ATC instructions. Both aircraft received and correctly followed TCAS RAs, the B744 to descend and the A306 to adjust vertical speed, which were received at the same time as corrective ATC clearances.)
+A318 / B738, en-route, Trasadingen Switzerland, 2009 (On 8 June 2009, an Airbus A318-100 being operated by Air France on a scheduled passenger flight from Belgrade, Serbia to Paris CDG in day VMC came into conflict with a Boeing 737-800 being operated by Ryanair on a scheduled passenger flight from Nottingham East Midlands UK to Bergamo Italy. The conflict was resolved mainly by TCAS RA response and there were no injuries to any occupants during the avoidance manoeuvres carried out by both aircraft.)
+A319 / B737, Zurich Switzerland, 2002 (On 23 November 2002, an A319, landing on Rwy16 at Zurich Switzerland, narrowly missed collision with a B737-600 cleared for take off on an intersecting runway.)
+A319 / B738 / B738, en-route, near Lausanne Switzerland, 2013 (On 26 May 2013, an A319 in Swiss Class 'C' airspace received a TCAS 'Level Off' RA against a 737 above after being inadvertently given an incorrect climb clearance by ATC. The opposing higher-altitude 737 began a coordinated RA climb from level flight and this triggered a second conflict with another 737 also in the cruise 1000 feet above which resulted in coordinated TCAS RAs for both these aircraft. Correct response to all RAs resulted in resolution of both conflicts after prescribed minimum separations had been breached to as low as 1.5nm when 675 feet apart vertically.)
+A319 / PRM1, en-route, near Fribourg Switzerland, 2011 (On 10 June 2011 an ATC error put a German Wings A319 and a Hahn Air Raytheon 390 on conflicting tracks over Switzerland and a co-ordinated TCAS RA followed. The aircraft subsequently passed in very close proximity without either sighting the other after the Hahn Air crew, contrary to Company procedures, followed an ATC descent clearance issued during their TCAS ‘Climb’ RA rather than continuing to fly the RA. The Investigation could find no explanation for this action by the experienced crew - both Hahn Air management pilots. The recorded CPA was 0.6 nm horizontally at 50 feet vertically.)
+
+ATC clearance errors are sometimes a contributing factor on the ground as well:
+
+A321 / B734, Barcelona Spain, 2015 (On 25 November 2015, an Airbus A321 taxiing for departure at Barcelona was cleared across an active runway in front of an approaching Boeing 737 with landing clearance on the same runway by a Ground Controller unaware that the runway was active. On reaching the lit stop bar protecting the runway, the crew queried their clearance and were told to hold position. Noting that the event had occurred at the time of a routine twice-daily runway configuration change and two previous very similar events in 2012 and 2014, further safety recommendations on risk management of runway configuration change were made.)
+A343 / B763, Barcelona Spain, 2014 (On 5 July 2014, an Airbus A340-300 taxiing for departure at Barcelona was cleared across an active runway in front of an approaching Boeing 767 with landing clearance on the same runway by a Ground Controller unaware that the runway was active. Sighting by both aircraft resulted in an accelerated crossing and a very low go around. The Investigation noted the twice-daily runway configuration change made due to noise abatement reasons was imminent. It was also noted that airport procedure involved use of stop bars even on inactive runways and that their operation was then the responsibility of ground controllers.)
+B737, Gran Canaria Spain, 2016 (On 7 January 2016, a Boeing 737-700 was inadvertently cleared by ATC to take off on a closed runway. The take-off was commenced with a vehicle visible ahead at the runway edge. When ATC realised the situation, a 'stop' instruction was issued and the aircraft did so after travelling approximately 740 metres. Investigation attributed the controller error to "lost situational awareness". It also noted prior pilot and controller awareness that the runway used was closed and that the pilots had, on the basis of the take-off clearance crossed a lit red stop bar to enter the runway without explicit permission.)
+B752 / CRJ7, San Francisco CA USA, 2008 (On 13 January 2008, a Boeing 757-200 and a Bombardier CL-600 received pushback clearance from two adjacent terminal gates within 41 seconds. The ground controller believed there was room for both aircraft to pushback. During the procedure both aircraft were damaged as their tails collided. The pushback procedure of the Boeing was performed without wing-walkers or tail-walkers.)
+B789 / A388, Singapore, 2017 (On 30 March 2017, a Boeing 787 taxiing for departure at night at Singapore was involved in a minor collision with a stationary Airbus A380 which had just been pushed back from its gate and was also due to depart. The Investigation found that the conflict occurred because of poor GND controlling by a supervised trainee and had occurred because the 787 crew had exercised insufficient prudence when faced with a potential conflict with the A380. Safety Recommendations made were predominantly related to ATC procedures where it was considered that there was room for improvement in risk management.)
+
+Related Articles
+
+Basic Controller Techniques: Vectoring
+Basic Controller Techniques: Vertical Speed
+Basic Controller Techniques: Speed Control
+Loss of Separation - ATCO-induced Situations
+Human Error Types
+
+
+
+
+
+Categories
+
+
+Loss of Separation,
+              Human Factors
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

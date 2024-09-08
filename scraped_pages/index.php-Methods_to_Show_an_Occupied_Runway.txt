@@ -1,0 +1,200 @@
+Methods to Show an Occupied Runway
+
+
+
+
+
+
+
+
+
+
+
+  Methods to Show an Occupied Runway
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Runway Incursion 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+This article describes the most common methods used to alert the controllers of an occupied runway. It elaborates on the memory aids, surveillance systems and integrated solutions used for this purpose.
+Controller Memory Aids
+Controller memory aids are simple tools to remind of actions taken by the controllers.
+Advantages
+
+Easy to implement. Introduction of memory aids is usually simple and cost-efficient. No major equipment changes are necessary and implementation can usually be done within short periods of time.
+Simple to use. Generally, using memory aids does not require complicated training.
+Self-sufficient. Memory aids do not rely on external data sources (e.g. radars, transponders, data lines, etc.) to operate.
+
+Disadvantages
+
+Depend on strict procedure adherence. If for some reason the controller decides to postpone using the memory aid, chances are high that they would forget to use it at all (at least within the current situation).
+Increased workload. Using memory aids requires that the controller has to do additional tasks on top of their usual duties. During peak workload situations the controller might forget (or choose not to) follow some procedures if they consider the procedures to be “non-critical”.
+No relation to actual traffic situation. Memory aids do not represent the actual traffic situation but rather the controller’s perception of one. They have little potential to help against ATC clearance non-conformance.
+No automatic alerts. Memory aids do not provide automatic alerts in case of safety risks. For example, a controller may have used the “RUNWAY OCCUPIED” strip but they may still issue a clearance to another aircraft or vehicle for the same runway. If the controller is preoccupied with other things they may not notice the memory aid (due to human error similar to blind spots).
+
+Examples
+
+“RUNWAY OCCUPIED” strip. This may be placed in a dedicated Strip holder of a different colour, usually red, to make it more noticeable.
+Runway Occupied Boxes. Runway occupied boxes are a tool to remind a controller that the runway is occupied by a vehicle. It requires manual input by the controller. The controller places the box on the flight strip board during occasions when a vehicle is authorised to enter the runway. These types of devices normally have a flashing red light to remind the controller that the runway is occupied.
+Runway Occupancy Plate. The Runway Occupancy Plate (ROP) is manually activated and de-activated by the controller and provides a reminder for the controller that a runway is obstructed or closed. The runway occupancy plate is built to physically represent the runway configuration. When the controller switches on the ROP, in addition to a flashing red light, which acts as a memory aid that the runway is obstructed, the wind information is suppressed from the meteorological displays. It is a requirement when giving a take-off or landing clearance to transmit the actual surface wind. If the wind information is not available this will act as a further reminder that the runway is occupied. The wind information remains unavailable until the runway occupancy plate is switched off by the controller.
+
+A dedicated study has shown that although in theory memory aids are expected to be very reliable tools, in practice they tend not to be a successful safety barrier.
+Surveillance Systems
+Surveillance systems use surveillance (usually radar) data to present the controller with a situational picture.
+Advantages
+
+Provide reliable data, especially in low visibility conditions or obscured areas.
+Present the actual traffic situation and provide opportunity to check if a clearance is being correctly followed.
+Do not require controller input to operate, therefore they do not increase controller workload (a controller may choose not to use them and only use procedural control).
+Some versions (e.g. A-SMGCS level 2) provide safety alerts, similar to STCA in area control.
+
+Disadvantages
+
+No alerts for conflicting clearances since there is no controller or pilot intentions input.
+Equipment dependent, e.g. the system may be less effective if some vehicles or aircraft are not equipped or are not using their transponders.
+
+Features
+A-SMGCS covers applications and systems for the air traffic controller, vehicle drivers and the aircraft pilots. Operationally available systems offer:
+
+Controller surveillance display;
+Runway incursion alerts for the controller;
+Selective switching of taxiway lights, stop and hold bars;
+Routing guidance functions;
+Runway protected areas penetration alerts and runway occupied alerts for the vehicle driver.
+
+The most common level of implementation of A-SMGCS across Europe is a Surface Movement Radar together with a Mode S multi-lateration system and a runway incursion alerting system in the air traffic control tower. A-SMGCS technologies can help to prevent runway incursions and conflicts between aircraft and vehicles on the manoeuvring area.
+Examples
+
+Surface Movement Radar. Provides basic surveillance data.
+Advanced Surface Movement Guidance and Control Systems (A-SMGCS) level 1. Provides correlated data for aircraft and vehicles using transponders.
+Advanced Surface Movement Guidance and Control Systems (A-SMGCS) level 2. Provides enhancements to A-SMGCS level 1 by adding e.g. runway incursion alerts.
+
+ITWP
+Integrated Tower Working Position (ITWP) is an enhancement of the surveillance system. It combines surveillance data with controller input (clearances issued).
+Advantages
+
+All general advantages of surveillance systems.
+Allows the creation of tools that provide early warning for manoeuvring area conflicts.
+Checks ATC clearances for creating conflicts well in advance.
+
+Disadvantages
+
+Complicated implementation. The introduction of ITWP requires a lot of research, effort, resources and time. Usually not feasible for smaller aerodromes.
+Increased workload. The input of all issued clearances into the system requires time and effort. This leads to either increased workload, reduced capacity or increased number of controllers necessary.
+Complex. Requires extensive training to operate properly. Also, as with any software system, the more complex the application is, the greater the chance of errors and software bugs.
+Dependent on many data sources. The ITWP requires successful integration of different types of data in order to work efficiently. Weak points (e.g. vehicles or aircraft without transponders, issues with surveillance systems, etc.) have the potential of greatly reducing the effectiveness of ITWP.
+Limited protection against runway incursion. ITWP does not have flight crew intentions input, therefore runway incursion discovery is generally limited to the capabilities already present in A-SMGCS level 2. The system will warn the controller only after the incursion has occurred.
+
+A dedicated study has shown that ITWP has the potential to prevent most conflicts on the manoeuvring area.
+Related Articles
+
+Controller Detection of Manoeuvring Area Conflicts
+Controller Detection of Manoeuvring Area Conflicts – Guidance for Controllers
+Controller Detection of Manoeuvring Area Conflicts – Safety Barriers
+Active Ground Lighting Control
+Flight Operations Risk Assessment Checklist - Active Runway Crossing
+Land and Hold Short Operations
+Landing without ATC Clearance
+Low Visibility Procedures (LVP)
+Taxi-in Runway Incursions
+Advanced Surface Movement Guidance and Control System (A-SMGCS)
+Hot Spots at Aerodromes
+Intersecting Runways Operations
+Runway Incursion and Airport Design
+Runway Status Lights (RWSL)
+
+Further Reading
+
+Operational Safety Study: Controller Detection of Potential Runway and Manoeuvring Area Conflicts, by EUROCONTROL SISG
+EUROCONTROL NM Top 5 Operational Safety Review: Controller Detection of Potential Runway Conflict, by EUROCONTROL, 2022
+
+
+
+
+
+Categories
+
+
+Runway Incursion,
+              Preventing Incorrect Presence on Runway
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

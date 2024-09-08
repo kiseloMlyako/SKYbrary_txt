@@ -1,0 +1,195 @@
+Accident Investigation Techniques - Best Practices
+
+
+
+
+
+
+
+
+
+
+
+  Accident Investigation Techniques - Best Practices
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Management 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+This article gives an overview of the best practices used in aviation occurrence investigation. It also describes the use of some specific equipment, like UAVs and flight simulators, in the process, along with their benefits and limitations.
+As a general rule, the investigation should be
+
+unbiased (i.e. find out what has happened as opposed to proving one's assumptions)
+based on a Just Culture approach (i.e. focus on the lessons to be learned rather than on the person to be punished)
+
+Specific techniques (and relevant rationale) for conducting certain parts of the investigation are provided in the following sections.
+The advise given is derived from shared experience and common sense and is therefore not intended to supplement or supersede relevant local instructions and procedures.
+Evidence Gathering and Examination
+The stages of gathering evidence and their subsequent examination are very important for conducting an objective investigation. The following practices can prove very helpful:
+
+examination of evidence should start only after all of it has been gathered and categorized.
+categorization of evidence is critical for the later stages of the investigation.
+a systematic approach is essential to the success of the investigation. No conclusions should be drawn until all evidence has been examined and compared.
+existing evidence should not be "tailored" to fit the conclusions and contradicting evidence should not be neglected just because it does not fit.
+taking a lot of photos is essential for preserving the scene. This is especially true for the positions of gauges and switches whose position can be unintentionally changed when moved away from the scene.
+creating a sketch of the scene takes little time but can be very useful, especially in the first days of the investigation when computer models are not yet ready.
+
+Interviews
+Most investigations use witness statements to help reconstruct the events. The following practices generally give a better chance for obtaining the most (and most useful) information:
+
+statements need to be taken shortly after the event, otherwise memories may fade.
+no statement should be discarded out of hand. A statement from a witness experienced in aviation is not necessarily the most valuable.
+oral form is preferable to written. Most people do not like writing, and will generally tend to summarize instead of giving as much detail as possible.
+recording the interview (with the person's consent) is preferable to taking notes. This is especially true if the number of witnesses is high, as the interviewer may tent to focus on "interesting" information from certain point on and omit the facts that are being repeated by the other witnesses.
+single interview is preferrable to a group session. Firstly, in a group activity, one (or some) person could influence the others and secondly, some people prefer not to talk in public.
+interruptions are likely to cause the witness to lose their train of thought and crucial information may be missed. The best option is to listen to the whole story and ask for clarification later.
+it is important to make a person feel comfortable during the interview. This would make them more likely to contact the investigator again if they remember something they missed during the interview.
+
+Equipment
+Flight Simulators
+If used properly, flight simulators can help investigators gain a better understanding of what happened during the occurrence through the eyes of the participants.
+It should be noted, however, that the use of simulators is subject to certain limitations. Some situations can be simulated better than others. The investigator needs to be fully aware of the limitations and use other appropriate methods to supplement the simulator results.
+Simulators are very useful for:
+
+recreating aircraft behaviour in most situations (i.e. within the flight envelope).
+recreating certain equipment malfunctions (e.g. engine failure, hydraulic failure).
+recreating events that are related to visibility (e.g. runway incursions, fog, etc.).
+
+Examples of situations where simulators are of limited value are:
+
+situations where high g forces are experienced.
+assessment of the impact of the event on a person (except for the visuals, as stated above).
+some equipment malfucnctions that are not well documented (and therefore not fully simulated).
+events that happen outside the boundaries of the flight envelope (e.g. prolonged high angle of attack stall).
+
+Drones
+Unmanned aerial vehicles (UAVs), popularly refered to as drones, provide investigators with a number of options and advantages, e.g.:
+
+quick deployment. Unlike e.g. police or SAR helicopters, drones are deployable in a matter of minutes after reaching the accident site. Also, the pictures are immediately available.
+full control. The operator (investigator) has a control over the flight path and the viewing angle therefore can position the camera at the optimal position.
+high quality. Modern drones offer high quality cameras with image stabilization.
+easy relaunch, if necessary to take additional footage.
+can be ﬂown closely to trees and wreckage to obtain close-up images without disturbing them with rotor downwash.
+can be easily programed to take a series of geo-tagged and overlapping overhead shots for photogrammetry purposes.
+can operate in low-visibility and low-cloud conditions that would prevent an airplane or helicopter being operated.
+low cost, when compared to other options (e.g. helicopters)
+
+One of the most useful features of drone pictures is the ability to combine them into an orthomosaic image (corrected for both perspective and scale, which has the same lack of distortion as a map) or a 3-d model of the site.
+Conclusions and Recommendations
+During an investigation, it is common to come across hazards that have not been addressed but are not directly related to the occurrence. The conclusions however, should focus on the factors that are related to the event in some way and other channels should be used to rectify the other hazards.
+Once the list of factors and contributors is complete, a list of reccomendations needs to be made.
+Reccommendations should:
+
+be tied to a specific factor or contributor.
+address each and every factor and contributor.
+only address the factors and contributors that caused or are related to the event.
+be focused on the prevention of similar events from happening again.
+avoid punitive actions; these are unlikely to prevent future occurrences but are very likely to limit cooperation in future investigations.
+preferably offer short, medium and long-term solutions.
+be as specific as posssible and avoid generalizations (e.g. procedures for XXX need to be reviewed).
+
+Related Articles
+
+Safety Occurrence Investigation
+Investigation - Final Report
+Just Culture
+
+Further Reading
+
+Benefits of Using Drones at Aircraft Accident Sites, an article in AAIB 2016 Annual safety review
+Flight Simulators and Air Accident Investigation, an article in AAIB 2016 Annual safety review
+A holistic approach to aircraft accident/incident investigation
+Review of Accident and Incident Investigation Models and Alternative Techniques by C. Johnson, 2013
+The Investigative Process, U.S. NTSB website
+
+
+
+
+
+Categories
+
+
+Safety Management,
+              Safety Management System,
+              Accident Investigation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

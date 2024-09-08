@@ -1,0 +1,382 @@
+DH8D / P180, en-route, near Kelowna BC Canada, 2019
+
+
+
+
+
+
+
+
+
+
+
+  DH8D / P180, en-route, near Kelowna BC Canada, 2019
+
+
+
+
+
+
+
+
+
+Summary
+
+On 3 January 2019, prescribed vertical separation was lost between a Bombardier DHC8-400 and a Piaggio P180 on converging cruise tracks at FL 220 and only restored after a resulting TCAS RA was followed. The Investigation found both aircraft were being flown in accordance with their clearances and that the controller involved had not been aware of corresponding traffic and conflict alerting system activations. A specific traffic display fault which arose from failure to follow a routine software upgrade procedure correctly and the shift supervisor failing to recognise the need to act as controller when workload increased were assessed contributory.
+
+
+
+
+Event Details
+
+When
+
+03/01/2019
+
+
+
+Event Type
+
+
+HF,
+              LOS
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOMBARDIER Dash 8 Q400
+
+
+
+
+
+
+
+
+
+Operator
+
+WestJet
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Calgary International Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Nanaimo Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Cruise
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+PIAGGIO P-180 Avanti
+
+
+
+
+
+
+
+
+
+Operator
+
+Private
+
+
+
+Type of Flight
+
+Private
+
+
+
+Flight Origin
+
+
+
+
+Spokane International Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Kamloops Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Cruise
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Distraction,
+              Procedural non compliance
+          
+
+
+
+
+LOS
+
+Tag(s)
+
+
+              Required Separation not maintained,
+              ATC Error
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Air Traffic Management
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 3 January 2019, a Bombardier DHC8-400 (C-FSWE) being operated by WestJet Encore on a scheduled domestic flight from Calgary to Nanaimo as WEN3109 and in the cruise at FL 220 lost prescribed separation in day VMC against a privately-operated Piaggio P180 (N990RS) flying from Spokane to Kamloops at the same level as their tracks converged. In the absence of any ATC intervention, the DHC8 received and actioned a resultant TCAS RA to DESCEND which subsequently restored the prescribed minimum separation between the two aircraft. 
+Investigation
+An Investigation was carried out by the Canadian Transportation Safety Board (TSB). It was quickly apparent that the two aircraft involved had been flying in accordance with their respective clearances prior to the avoiding action taken in response to the TCAS RA which had been the sole action taken which resolved the loss of separation. Sufficient relevant recorded ATC data and testimony was available to enable a detailed reconstruction of the events leading up to the conflict so no recorded information or crew experience details were sought in respect of the two aircraft involved. Rather, the focus of the Investigation was on the failure of ATC to ensure that clearances which maintained prescribed separation were issued.
+The ATS context
+It was noted that the Vancouver ACC Airports section included two sectors identified as Kamloops (KA) which covered all airspace up to FL 250 except airspace up to 13000 feet defined as the smaller Kelowna (LW) (see the illustration below). At the time of the investigated event, only a few aircraft were scheduled to Kelowna and so the two sectors were combined. The only controller involved in this event had been working in the Airports section of the Vancouver ACC for almost 15 years. It was noted that with the KA sector lateral extent all on the controller’s traffic display screen (an area which was not increased when the KA and LW sectors were combined), an inch (2.54cm) on the screen represented a distance of 14.3 nm.
+
+Airspace Sectors showing the ‘KA’ & ‘LW’ sectors separately. [Reproduced from the Official Report]
+The Development of the Conflict
+The DHC8 was on a south westerly track from northeast of Kelowna and the P180, inbound to Kamloops, was on a north north-westerly track from south of Kelowna. Both aircraft were at level at FL220 as cleared and their projected tracks showed that they would cross to the west of Kelowna (see the illustration below).
+
+The tracks of the two aircraft involved superimposed on the low level chart. [Reproduced from the Official Report]
+Shortly after the DHC8 had checked in on the Kamloops/Kelowna sector frequency, the in-position controller changed with the changeover briefing pointing out the transiting DHC8. Soon afterwards, the new controller observed that the initial appearance of the P180 on his traffic display was abnormally shown as two targets, the correct one and an obviously erroneous one for an Alaska Air flight. This circumstance was identified on screen as a “disparity error” as shown on the  illustration below. At this time, the P180 was still under the control of the Seattle ARTCC (Air Route Traffic Control Center) and the controller contacted them to resolve the issue observed. P180 was subsequently handed over and it checked in and requested the Kamloops weather and descent, both of which were acknowledged. 
+At this point the controller asked his predecessor in the position “who had returned to the control room for an unrelated reason” to “help him resolve the error with the P180 transponder code” which he then did by changing it and “remained nearby” until he heard the controller advising the P180 pilot of this new code before leaving the room.
+ 
+
+The P180 shown as two targets (the false target shows traffic heading to Anchorage (PANC). [Reproduced from the Official Report]
+At about this time, a visual and audible ‘Traffic Alert’ was activated (and heard by another controller nearby) in respect of the intersecting flight paths but neither form of it was noticed by the controller. Within a minute, the DHC8 flight crew observed an aircraft target which corresponded to the P180 on their TCAS display 6 nm away in their 11 o’clock relative position which was flying towards them at the same level. One minute after the activation of the controller’s ‘Traffic Alert’, loss of lateral separation between the DHC8 and the P180 occurred and triggered a visual and audible ‘Conflict Alert’ which again, the controller stated that he had not seen or heard (but again it was heard by another controller nearby). At the same time, a TCAS RA ‘DESCEND’ was annunciated on the DHC8 flight deck with the P180 now 3.9nm away and on a converging track. Almost immediately thereafter, the controller began transmitting the previously requested Kamloops weather to the P180. As the DHC8 descended, its pilot received a TCAS TA in respect of it and obtained visual contact with it. Immediately the controller had finished passing the Kamloops weather to the P180, the DHC8 crew called to say they were actioning a TCAS RA and now had the P180 in sight. The minimum prescribed separation between the two aircraft was restored half a minute after the annunciation of the DHC8 TCAS RA. 
+It was noted that at the time of the conflict, the sector workload could be characterised as “heavy and complex” with up to 18 aircraft being worked at the same time with thirteen “pending departures” being listed for airports within the sector. Staffing levels on the shift involved were “normal” and it was for the Team Supervisor on duty to determine whether traffic levels were suitable for a combination of the KA and LW sector positions.
+The display disparity error for the P180 which contributed to the distraction of the controller from his primary task of facilitation safe traffic separation was found to have occurred after the controller who had transferred the northbound Alaska flight to Anchorage ACC had not cancelled the transponder code manually after transfer (entirely optional) without being aware that the automated process to recycle transponder codes once no longer being used was not going to function normally. This ‘malfunction’ resulted from the failure of the “data system coordinator” involved to follow the necessary data resynchronisation procedure after completing the upgrade before he was “called away and passed completion of the work to a colleague who did not then do it”. The same failure to follow procedure also disabled the function of the ‘Medium Term Conflict Alert’ system in respect of the P180 since as a result, its transponder code was not correctly correlated with its flight profile.
+It was evident that the workload in the combined sector position had increased and recognising this, the controller who had previously been relieved and subsequently returned to the control room and, on request had assisted the controller in position by  sorting out a new transponder code for the P180, had then been asked to continue assisting. He had then left to retrieve his headset in order to do so and on the way to get it, he had passed a controller returning from a break and asked her to help by opening the LW sector. This was agreed but the loss of separation then occurred as this third controller was in the process of opening the LW sector.
+It was found that prior to the investigated event occurring, the Team Supervisor had left the operations room “to verify some information” and was not present when the loss of separation occurred. It was concluded that this Team Supervisor had not adequately monitored the developing situation in relation to controller workload in the combined sector and had failed to notice that the level and complexity of current and anticipated traffic in the combined KALW sector had increased. Without such recognition, there had been no proactive intervention to address the situation.
+The Findings as to Causes and Contributing Factors were, in summary, as follows:
+
+The data systems coordinator “did not manually purge the flight plan data from the radar data processing system re-host”, which resulted in the Air Traffic System disparity error associated with the P180.
+As a result of this disparity error, the Medium Term Conflict Detection tool did not alert the sector controller involved to a conflict involving the P180.
+The “incomplete scan of flight plan information, combined with high workload and a visually cluttered Situation Display resulted in the sector controller involved developing an incomplete and inaccurate mental representation of the traffic situation” which resulted in his lack of awareness that the track of the P180 would cross that of the DHC8-400 at the same level and result in a loss of separation.
+The sector controller involved “would rarely use the Extended Computer Display System for early prediction of possible conflicts, likely due to the workload required to accurately assess the current and future flight paths of all aircraft in the sector” which contributed to him not identifying the potential conflict between the two aircraft. 
+The sector controller involved “had come to rely on Medium Term Conflict Detection” which may have affected his information scan even when such detection was unavailable. “As a result, he did not use any other method to identify the imminent conflict”.
+The controller involved missed the visual Traffic Alert indications on the traffic display data tags of both aircraft and the associated audio alarm “because they were not sufficiently compelling to attract his attention”.
+While the controllers attention was “focused on a secondary display”, the Traffic Alert changed to a Conflict Alert on the data tags of both aircraft but he “did not see the change in Alert and did not hear the associated audible alarm”.
+The Team Supervisor did not adequately monitor the developing situation and did not notice that the level and complexity of current and anticipated traffic in the combined sector airspace had increased. As a result, no steps were taken to alleviate the sector controller’s workload.
+
+Two formally stated Findings as to Risk were also identified as follows
+
+If controllers are unfamiliar with air traffic services equipment errors, they may focus their attention on error resolution to the detriment of monitoring and controlling the movement of aircraft, increasing the risk of air traffic conflicts. 
+If Team Supervisors do not adequately monitor controller workload in complex situations with high traffic levels, workload may exceed controller limits, increasing the risk of adverse consequences, such as a loss of separation.
+
+Safety Action taken as a result of the event by ANSP NAV CANADA whilst the Investigation was in progress was noted to have included the following:
+
+The Checklist which must be completed after software update to the ATC system used has been reformatted to make it more likely that it will be properly completed.
+An Operational Directive has been issued to relevant personnel at the Vancouver ACC requiring that the audible alert volume must never be set lower than setting 4. 
+An Operational Directive has been issued to require that before a team supervisor leaves the operational environment, another team supervisor or a senior controller must be tasked with continuing the ongoing oversight which they have been providing.
+
+The Final Report of the Investigation was authorised for release on 18 March 2020 and it was officially released on 2 April 2020. No Safety Recommendations were made.  
+Related Articles
+
+Loss of Separation
+ACAS Resolution and Traffic Advisories
+Situation Display
+Controller Workload
+Handover/Takeover of Operational ATC Working Positions
+Short Term Conflict Alert (STCA)
+Interruption or Distraction
+ATM Sector Management

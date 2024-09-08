@@ -1,0 +1,132 @@
+Funkwerk Avionics TRT800 Transponders
+
+
+
+
+
+
+
+
+
+
+
+  Funkwerk Avionics TRT800 Transponders
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Warning Message
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Background Information
+
+The European Aviation Safety Agency (EASA) Airworthiness Directives (AD) 2008 - 0158R1, which revised AD 2008 - 0158 concerning a design deficiency in Funkwerk TRT-800A and TRT-800H transponders, has been replaced by AD 2008 - 0183.
+Air Navigation Service Providers (ANSP) have reported, and flight trials have confirmed, the intermittent loss of detection on Mode S Secondary Surveillance Radars (SSR) of aircraft equipped with Funkwerk Avionics TRT-800A and TRT-800H. However, transponders marked as Mod-Index 10 (indicating that Funkwerk Avionics Service Bulletin (SB) TRT800-A-H-1 Revision 1.04 dated 17 October 2008, or a later approved revision of this document, has been incorporated), are not affected and reply correctly to Mode S interrogations.
+These unmodified transponders do, however, reply correctly to SSR Mode A/C only interrogations.
+
+Impact on ATS Operations
+
+In an ATC surveillance environment where there is sole use of an SSR Mode S or an SSR Mode S radar operating in mixed mode (Modes S and A/C), or a combination thereof, unmodified TRT-800A and TRT-800H transponders may not reply correctly to interrogations, and detection of aircraft may be lost for prolonged periods.
+In an ATC surveillance environment based on interlacing of replies received by combinations of SSR Mode S operating in mixed-mode and SSR Mode A/C, the unmodified TRT-800A and TRT-800H transponders may be detected by SSR radars that operate in Mode A/C only.
+In an ATC surveillance environment based on SSR Mode A/C only, the unmodified TRT-800A and TRT-800H transponders will correctly reply to the radar interrogations.
+The performance of the ACAS safety net is also affected. TCAS II surveillance is based on Mode S active interrogation. Although TCAS II does interrogate on Mode C, Mode S transponders will not reply to these Mode C interrogations. Therefore, aircraft equipped with unmodified TRT-800A and TRT-800H transponders might not be detected by a TCAS II equipped aircraft.
+
+Scale of the Problem
+
+Approximately 1,000 Funkwerk TRT-800A and TRT-800H Mode-S transponders have been sold in Europe, mainly to, but not limited to, operators of general aviation type aircraft. It should be recognised, therefore, that although Mod-Index 10 has been instigated, it will take some considerable time to rectify all affected units.
+
+Additional Information
+
+The attention of ANSPs is also drawn to EASA Safety Information Bulletin (SIB) 2008-84R1 dated 12 November 2008, which provides additional, background information regarding this issue, and EASA document C1 (2008)/D 80838 Explanatory Note to Air Traffic Service (ATS) Authorities dated 17 October 2008, which advises ATS Authorities to promulgate, by NOTAM or AIC, the airspace in which aircraft equipped with an unmodified transponder cannot or can operate.
+AD 2008 - 0183 also requires a placard to be placed in affected aircraft that states:
+
+" Do not operate this aircraft in airspace where a transponder is required, except as published by the appropriate ATS Authority."
+Editor's Note
+Funkwerk issued a number of service letters/bulletins related to both TRT600 and TRT800. see Funkwerk for further information.
+Disclaimer
+© European Organisation for Safety of Air Navigation (EUROCONTROL) December 2008. This alert is published by EUROCONTROL for information purposes. It may be copied in whole or in part, provided that EUROCONTROL is mentioned as the source and to the extent justified by the non-commercial use (not for sale). The information in this document may not be modified without prior written permission from EUROCONTROL. The use of the document is at the user’s sole risk and responsibility. EUROCONTROL expressly disclaim any and all warranties with respect to any content within the alert, express or implied.
+
+
+
+
+Categories
+
+
+Safety Warning Message
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

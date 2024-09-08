@@ -1,0 +1,307 @@
+Cognitive Reliability and Error Analysis Method (CREAM)
+
+
+
+
+
+
+
+
+
+
+
+  Cognitive Reliability and Error Analysis Method (CREAM)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Background and applications
+The Cognitive Reliability and Error Analysis Method (CREAM) (Hollnagel 1998) is a recently developed HEI/HRA method that was developed by the author in response to an analysis of existing HRA approaches. CREAM can be used both predictively, to predict potential human error, and retrospectively, to analyse and quantify error. The CREAM technique consists of a method, a classification scheme and a model. According to Hollnagel (1998) CREAM enables the analyst to achieve the following:
+
+Identify those parts of the work, tasks or actions that require or depend upon human cognition, and which therefore may be affected by variations in cognitive reliability.
+Determine the conditions under which the reliability of cognition may be reduced, and where therefore the actions may constitute a source of risk.
+Provide an appraisal of the consequences of human performance on system safety, which can be used in PRA/PSA.
+Develop and specify modifications that improve these conditions, hence serve to increase the reliability of cognition and reduce the risk.
+
+CREAM uses a model of cognition, the Contextual Control Model (COCOM). COCOM focuses on how actions are chosen and assumes that the degree of control that an operator has over his actions is variable and also that the degree of control an operator holds determines the reliability of his performance. The COCOM outlines four modes of control, Scrambled control, Opportunistic control, Tactical control and Strategic control. According to Hollnagel (1998) when the level of operator control rises, so does their performance reliability.
+The CREAM technique uses a classification scheme consisting of a number of groups that describe the phenotypes (error modes) and genotypes (causes) of the erroneous actions. The CREAM classification scheme is used by the analyst to predict and describe how errors could potentially occur. The CREAM classification scheme allows the analyst to define the links between the causes and consequences of the error under analysis. Within the CREAM classification scheme there are three categories of causes (genotypes); Individual, technological and organisational causes. These genotype categories are then further expanded as follows:
+
+Individual related genotypes – Specific cognitive functions, general person related functions (temporary) and general person related functions (permanent).
+Technology related genotypes – Equipment, procedures, interface (temporary) and interface (permanent).
+Organisation related genotypes – communication, organisation, training, ambient conditions, working conditions.
+
+The CREAM technique uses a number of linked classification groups. The first classification group describes the CREAM error modes. Hollnagel (1998) suggests that the error modes denote the particular form in which an erroneous action can appear. The error modes used in the CREAM classification scheme are:
+
+Timing – too early, too late, omission.
+Duration – too long, too short.
+Sequence – reversal, repetition, commission, intrusion.
+Object – wrong action, wrong object.
+Force – too much, too little.
+Direction – Wrong direction.
+Distance – too short, too far.
+Speed – too fast, too slow.
+
+These eight different error mode classification groups are then divided into the four sub-groups:
+
+Action at the wrong time – includes the error modes timing and duration.
+Action of the wrong type – includes the error modes force, distance, speed and direction.
+Action at the wrong object – includes the error mode \’object\’.
+Action in the wrong place – includes the error mode \’sequence\’.
+
+The CREAM classification system is comprised of both phenotypes (error modes) and genotypes (causes of error). These phenotypes and genotypes are further divided into detailed classification groups, which are described in terms of general and specific consequents. The CREAM technique also uses a set of common performance conditions (CPC) that are used by the analyst to describe the context in the scenario/task under analysis. These are similar to PSF\’s used by other HEI/HRA techniques. The CREAM common performance conditions are presented in table 1.
+Domain of application Although the technique was developed for the nuclear power industry, the author claims that it is a generic technique that can be applied in a number of domains involving the operation of complex, dynamic systems.
+Table 1. CREAM Common Performance Conditions
+
+
+
+CPC Name
+Level/Descriptors
+
+
+Adequacy of organisation
+The quality of the roles and responsibilities of team members, additional support, communication systems, safety management system, instructions and guidelines for externally orientated activities etc.
+Very efficient/Efficient/Inefficient/Deficient
+
+
+
+Working Conditions
+The nature of the physical working conditions such as ambient lighting, glare on screens, noise from alarms, task interruptions etc
+Advantageous/Compatible/Incompatible
+
+
+
+Adequacy of MMI and operational support
+The man machine interface in general, including the information available on control panels, computerised workstations, and operational support provided by specifically designed decision aids.
+Supportive/Adequate/Tolerable/Inappropriate
+
+
+
+Availability of procedures/plans
+Procedures and plans include operating and emergency procedures, familiar patterns of response heuristics, routines etc
+Appropriate/Acceptable/Inappropriate
+
+
+
+Number of simultaneous goals
+The number of tasks a person is required to pursue or attend to at the same time.
+Fewer than capacity/Matching current capacity/More than capacity
+
+
+
+Available time
+The time available to carry out the task
+Adequate/Temporarily inadequate/Continuously inadequate
+
+
+
+Time of day (Circadian rhythm)
+Time at which the task is carried out, in particular whether or not the person is adjusted to the current time.
+Day-time (adjusted)/Night time (unadjusted)
+
+
+
+Adequacy of training and experience
+Level and quality of training provided to operators as familiarisation to new technology, refreshing old skills etc. Also refers to operational experience.
+Adequate, high experience/Adequate, limited experience/Inadequate
+
+
+
+Crew collaboration quality
+The quality of collaboration between the crew members, including the overlap between the official and unofficial structure, level of trust, and the general social climate among crew members.
+Very efficient/Efficient/Inefficient/Deficient
+
+
+
+
+Procedure and advice (Prospective analysis)
+Step 1: Task analysis
+It is first important to analyse the situation or task. Hollnagel (1998) suggests that this should take the form of a HTA. It is also recommended that the analyst here should include considerations of the organisation and technical system, as well as looking at the operator and control tasks. If the system under analysis does not yet exist, then information from the design specifications can be used.
+Step 2: Context description
+The analyst should begin the analysis by firstly describing the context in which the scenario under analysis takes place. The CREAM CPC\’s are used to describe the scenario context.
+Step 3: Specification of the initiating events
+The analyst then needs to specify the initiating events that will be subject to the error predictions. Hollnagel (1998) suggests that PSA event trees can be used for this step. However, since a task analysis has already been conducted in step 1 of the procedure, it is recommended that this be used. The analyst(s) should specify the tasks or task steps that are to be subject to further analysis.
+Step 4: Error Prediction
+Using the CREAM, the analyst now has to describe how an initiating event could potentially into an error occurrence. To predict errors, the analyst should construct a modified consequent/antecedent matrix. The rows on the matrix show the possible consequents whilst the columns show the possible antecedents. The analyst starts by finding the classification group in the column headings that correspond to the initiating event (e.g. for missing information it would be communication). The next step is to find all the rows that have been marked for this column. Each row should point to a possible consequent, which in turn may be found amongst the possible antecedents. The author suggests that in this way, the prediction can continue in a straightforward way until there are no further paths left (Hollnagel 1998). Each error should be recorded along with the associated causes (antecedents) and consequences (consequents).
+Step 5: Selection of task steps for quantification
+Depending upon the analysis requirements, a quantitative analysis may be required. If so, the analyst should select the error cases that require quantification. It is recommended that if quantification is required, then all of the errors identified should be selected for quantification.
+Step 6: Quantitative performance prediction
+CREAM has a basic and extended method for quantification purposes. Since this review is based upon the predictive use of HEI techniques in the C4i design process, which does not include error quantification. The reader is referred to Hollnagel (1998) for further information on the CREAM error quantification procedure.
+Advantages
+
+CREAM has the potential to be extremely exhaustive.
+Context is considered when using CREAM.
+CREAM is a clear, structured and systematic approach to error identification/quantification.
+The same principles of the CREAM method can be used for both retrospective and predictive analyses.
+The method is not domain specific and the potential for use in different domains such as command and control is apparent.
+CREAM’s classification scheme is detailed and exhaustive, even taking into account system and environmental (sociotechnical) causes of error.
+Section in Hollnagel (1998) on the links between consequents and antecedents is very useful.
+Can be used both qualitatively and quantitatively.
+
+Disadvantages
+
+To the novice analyst, the method appears complicated and daunting.
+The exhaustiveness of the classification scheme serves to make the method larger and more resource intensive than other methods.
+CREAM has not been used extensively.
+It is apparent that the training and application time for the CREAM technique would be considerable.
+CREAM does not offer remedial measures i.e. ways to recover human erroneous actions are not given/considered.
+CREAM appears to be very complicated in its application.
+CREAM would presumably require analysts with knowledge of human factors and cognitive ergonomics.
+Application time would be high, even for very basic analyses.
+
+Related methods
+Hollnagel (1998) recommends that a task analysis such as HTA is carried out prior to a CREAM analysis. CREAM is a taxonomic approach to HEI. Other taxonomic approaches include SHERPA (Embrey 1986), HET (Marshall et al 2003) and TRACEr (Shorrock & Kirwan 2002).
+Approximate training and application times
+Although there is no data regarding training and application times in the literature, as the method appears large and quite complicated, it is predicted that the times will be high in both cases.
+Reliability and Validity
+Validation data for the CREAM technique is limited. Hollnagel, Kaarstad & Lee (1998) report a 68.6% match between errors predicted and actual error occurrences and outcomes when using the CREAM error taxonomy.
+
+Flowchart – Prospective use
+References
+
+Hollnagel, E. (1998). Cognitive Reliability and Error Analysis Method – CREAM, 1st Edition. Elsevier Science, Oxford, England.
+Kim, I. S. (2001). Human reliability analysis in the man-machine interface design review" Annals of Nuclear Energy,  28, 1069 - 1081.
+
+
+
+
+
+Categories
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+Generics
+
+
+Target of method
+Human Error
+
+
+Time Scale of method
+ 
+
+
+Portability of method
+Yes
+
+
+CREAM can be applied using simply pen and paper. A prototype software package has been developed to aid analysts (Hollnagel 1998).
+
+
+Context of studies
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Potential problems with the method
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Costs of the method
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Analysis data
+
+
+Analysis Speed
+ 
+
+
+ 
+
+
+Data Automation
+ 
+
+
+ 
+
+
+Analysis Automation
+ 
+
+
+ 
+
+
+Status
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

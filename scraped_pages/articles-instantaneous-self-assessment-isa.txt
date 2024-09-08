@@ -1,0 +1,286 @@
+Instantaneous Self Assessment (ISA)
+
+
+
+
+
+
+
+
+
+
+
+  Instantaneous Self Assessment (ISA)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+The ISA (Instantaneous Self Assessment) method uses a special 5-key keyboard at each working position. When a LED lights at the position, the controller indicates his current work state on the scale:
+
+
+
+Level
+Workload
+Spare Capacity
+Description
+
+
+5
+Very High (Overload)
+None
+Behind on tasks; losing track of the full picture.
+
+
+4
+High (Fully Loaded)
+Very Little
+Non-essential tasks suffering. Could not work at this level very long.
+
+
+3
+Fair (Reasonable)
+Some
+All tasks well in hand. Busy but stimulating pace. Could keep going continuously at this level.
+
+
+2
+Low (Light Work)
+Ample
+More than enough time for all tasks. Active on ATC task less than 50% of the time.
+
+
+1
+Low (Light Work)
+Very Much
+Nothing to do. Rather boring.
+
+
+
+Method
+Instantaneous Self Assessment (ISA) is an essentially empirical technique, intended to provide an immediate idea of the degree to which operators are occupied by the tasks they are carrying out. Each working position is provided with a keyboard having five buttons in a vertical line. The buttons are coloured and labelled to represent five levels of occupation. A cue, usually a flashing light-emitting diode (LED) is attached to the working position, in the operators’ line of sight. The operators are instructed that when the light flashes, they should push the button corresponding to their level of work at that instant. The light is extinguished immediately on their response.
+
+ISA Keypad
+ISA is a measure of strain. Practically, the interval between successive readings is usually fixed at two minutes. This provides a reasonably sensitive response, without interrupting the mental activities of the operator. Some doubt has been expressed about the potential interference between the ISA and the operator’s activities. EEC Report 275 contained, among other things, a comparison of Air Traffic Controller performance without ISA and with ISA reported by voice (the controller saying his rating) or by keyboard, when the ATC task was performed using a keyboard input system or a voice recognition system. The results suggested a significant decrement in performance when ISA was reported by keyboard, but not when it was spoken.
+Controllers do not appear to be affected by the presence of the cue light. They are after all, subjected to a barrage of signals, in which an additional one makes little difference. There is a possibility that controllers who have little work immediately after finishing a period of heavy work may report a higher level by association. When workload is very heavy, controllers will delay reply till more urgent work is completed. The time taken to respond is also measured, up to a maximum of 20 seconds, after which the flashing light is extinguished. Controllers under heavy pressure treat the ISA as an “Embedded Secondary Task” (Q.V.), dropping it completely.
+Since the system cannot be used without the active co-operation of the controllers there do not appear to be any particular ethical constraints on the use of ISA.
+As normally used, the system requires no staff attention during running.
+The equipment needed, one keyboard and one or more cueing device at each working position, a network of cables connecting these to a central unit, and the central unit itself - a standard IBM-PC or Apple PC, is relatively expensive. The programming required is relatively simple, but must be completed and thoroughly tested before the system is employed in a simulator, large or small. Normally, a set of eight keyboards and cue lights is connected to one PC, and a running image of the responses so far is presented on the screen of the PC, each histogram labelled with the working position in question. This presents an immediate feedback to the exercise supervisor. On completion of the exercise, the data gathered can be stored for subsequent inter-exercise comparisons. (The maximum self-assessed load is a more valuable index than the average, since most simulations include running-up and running-down periods, in which little may be happening in some of the sectors being simulated.)
+Once the initial effort and expenditure have been carried out, no further effort is needed, data collection and analysis being entirely automatic. Where the effect of the ISA method is being evaluated on one or two working positions only, a “Wizard-of-Oz” simulation of the method can be employed. In a “Wizard-of-Oz” simulation, a dedicated observer switches the flashing light on and off, and times and notes the response (verbal or on a dummy keyboard). This is sufficiently accurate to identify serious deterioration in the operator’s performance, and avoids the need for expensive programming and equipment investment in an untried method but is far too expensive in observer time and effort for systematic use.
+ISA is regularly used in Air Traffic Control simulators. The closest rival is the SWAT (Q.V.), which was developed in the USA, and has some theoretical backing. Comparative studies suggest that SWAT requires more mental effort from the operators, since they must assess their effort on three different scales. The Cooper-Harper scale (Q.V.) has been used ‘on-line’ usually in a single-operator context where self-assessments were called up whenever there were significant differences in the task. (REF?) (The Cooper-Harper scale was initially developed as a systematic assessment of the handling qualities of aircraft, as an engineering rather than an ergonomic measure.)
+ISA has not been used in field trials, largely because these are rare in Air Traffic Control. Airbus Industries, however, used a four-key response keyboard attached to the instrument panel of prototype airliners, triggered by an on-board observer when the pilots’ tasks’ changed significantly, or at about 3 minute intervals. The observer also rated the effort of the (two) pilots on a seven-point scale, and noted errors on a three-point scale – minor, important or safety-related. (Speyer et al, 1987)
+Related methods
+ISA is a subjective workload assessment technique of which there are many, such as NASA TLX, MACE, MCH, DRAWS and the Bedford scales. To ensure comprehensiveness, ISA is often used in conjunction with other subjective techniques, such as the NASA TLX.
+Recommendations
+ISA can be recommended for laboratory studies, for simulation studies, particularly multi-position simulations. It can only be recommended for field trials if it is not allowed to interfere with working patterns - it must be triggered by a human operator who is responsible for avoiding distraction from the actual task, and must be able to maintain safe operation.
+Origins
+ISA was originally developed by the UK ATCEU (Air Traffic Control Evaluation Unit) at Bournemouth (Hurn) airport. It has been used by other UK organisations, including DERA (Portsdown), the Royal Navy’s research organisation - now part of Qinetic. It has also been used by the European EUROCONTROL, the French CENA and by the Dutch RLD.
+Studies
+
+Jordan (1994) concluded that On-Line ISA was not intrusive and showed that it correlated with the NASA TLX (Q.V.)
+(Reference Needed) considered several different sets of labels for the five press-buttons. The original ISA system used ‘Overload’ ‘Fully Occupied’ ‘Moderate’ ‘Light’ and ‘Low’ as labels, but it was felt that a more symmetrical set should be used. The labels used at EEC Bretigny “Very High”, ”High”, ”Fair”, ”Low” and “Very Low” were chosen with the large number of non-native English speakers involved in simulations in mind, since only four short words are required. (In ATC, as in most aviation-related activity, English is employed as a common language. It is usually considered easier to train technicians to read and speak English than to prepare and update polyglot documentation, with the consequent delays and risks of mistranslation.)
+EEC Note 24/94 (1994) provides a technical description of the Euro-ISA equipment used at EEC Bretigny.
+EEC Report No. 275 (1995) included a comparison of on-line self-assessment measures, using a TRACON/PRO ATC Model, which suggested that On-line ISA was preferable to On-line SWAT. On-line ISA led to no performance decrement when ISA was recorded by voice, but induced a small performance decrement when keyboard reporting was required. This did not appear to be affected by the means of control exercised - by voice, or keyboard.
+Tattersall and Foord (1996) carried out an experimental evaluation of ISA as a measure of workload. The ‘work’ used was the tracking, with a joystick, of a moving square on a display. Difficulty was varied by increasing the speed of the moving target. They found that ISA correlated significantly with subjective ratings after an experimental working session, with heart-rate variability (Q.V) (but not with Heart Rate (Q.V) directly), and with task performance, as measured by the RMS (Root-Mean-Square) deviation between target and tracker position. They found that performance deteriorated during the 20 second period during which the ISA response was made, whether the response was made verbally, or by keyboard.
+
+References
+
+Instantaneous Self Assessment (ISA)
+
+
+
+
+
+Categories
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+Generics
+
+
+Target of method
+Strain
+
+
+Although ISA is intended to measure ‘strain’ in the sense used here, it also reflects the perceived intensity of the workload or stress.
+
+
+Time Scale of method
+Minutes
+
+
+The system is normally set to call for a response from the operator every 2 minutes. Longer intervals may be used, risking missing peaks of workload, or shorter ones, risking disturbing or interrupting the controller’s thought processes.
+
+
+Portability of method
+No
+
+
+Response keyboards are wired into the working positions.
+
+
+Observer Effect
+Yes
+
+
+Although no observer is present, the distraction involved in responding to a flashing light may disturb controllers’ thought patterns. (See EEC Report # 275)
+
+
+Context of studies
+
+
+Laboratory studies
+Use
+
+
+ 
+
+
+Simulation studies
+Use
+
+
+ 
+
+
+Field studies
+Caution
+
+
+(May interfere with mental work)
+
+
+Potential problems with the method
+
+
+Failure risk
+Low
+
+
+Where controllers are very heavily loaded, they may not have time or effort available to answer the flashing light. The EEC system suppresses the light after 20 seconds, and makes a recording to this effect.
+
+
+Bias risk
+Low
+
+
+Although Very High workload can be defined as ‘too much work - some tasks not done’, High workload as ‘fully occupied - no spare time’ and Very Low workload as ‘practically no work to do’, the levels ‘Fair’ and ‘Low’, which are the most commonly used are difficult to define. Operators may report high workload if a peak has just finished.
+
+
+Ethical problems
+None
+
+
+No specific problems.
+
+
+Costs of the method
+
+
+Staff Cost
+Nil
+
+
+ 
+
+
+Set-up Cost
+Low, Moderate
+
+
+The initial cost of the system involved the purchase of a suitable PC, and the construction of suitable key-boxes and cabling. When the system is used in a large-scale Real-Time ATC simulation, the control cables and key-boxes had to be installed when the simulator room was configured, and the software instructed which key-box corresponded to which position.
+
+
+Running Cost
+Nil
+
+
+Once set up, the system has only to be set going for each exercise, for which the running cost is practically negligible.
+
+
+Analysis Cost
+Nil
+
+
+Analysis, in the form of an on-line graphic display, is built-in. Off-line comparative analysis can also be carried out using stored data if required.
+
+
+Analysis data
+
+
+Analysis Speed
+Immediate
+
+
+ISA results are presented as real-time graphics on PC screens at the supervisor’s position.
+
+
+Data Automation
+Inherent
+
+
+ 
+
+
+Analysis Automation
+Inherent
+
+
+ 
+
+
+Status
+Established
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

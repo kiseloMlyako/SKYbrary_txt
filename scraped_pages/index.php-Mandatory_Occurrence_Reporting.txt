@@ -1,0 +1,234 @@
+Mandatory Occurrence Reporting
+
+
+
+
+
+
+
+
+
+
+
+  Mandatory Occurrence Reporting
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Management 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Objective
+To facilitate collection and exchange of information on actual or potential safety hazards and deficiencies and contribute to the prevention of aircraft accidents.
+Mandatory Reporting Requirements
+The provisions in Chapter 8 of ICAO Annex 13 require the States to establish mandatory occurrence (incident) reporting (MOR) systems to facilitate the collection of information on actual or potential safety deficiencies. Further to that, ICAO requirements relating to the implementation of safety management systems (SMS) require that aviation service providers develop and maintain a formal process for effectively collecting, recording, acting on and generating feedback about hazards in operations, based on a combination of reactive, proactive and predictive methods of safety data collection.
+In Europe, Regulation (EU) No 376/2014 on the reporting, analysis and follow-up of occurrences in civil aviation establishes requirements for mandatory reporting of occurrences which, if not corrected, would endanger the safety of aircraft, its occupants or any other person.
+In mandatory reporting systems operational personnel are required to report accidents and certain types of incidents. ICAO Annex 13, Appendix C provides a list of examples of serious incidents that are to be reported. Furthermore, Commission Implementing Regulation (EU) 2015/2018 defines a detailed list of safety occurrences to be reported by aviation service provider organisations in Europe. The safety occurrences are grouped in the following domains:
+
+Aircraft flight operations
+Aircraft technical, maintenance and repair
+Air navigation services and facilities
+Aerodromes and ground services.
+
+In order to harmonise the reporting of safety occurrences in ATM, EUROCONTROL has adopted ESARR 2. This regulatory requirement establishes a list of ATM-related occurrences which, as a minimum, shall be reported and assessed.
+The reporting process should be as simple as possible and at the same time well documented, including details as to what, where, when and to whom to report. Usually, reporting templates are developed by States and organisations to facilitate the submission of information.
+The national requirements of what to report vary depending on the laws of the State where the safety occurrence happened and on the operational environment. The number of variables is so great that it is difficult to establish a universally applicable comprehensive list of items to be reported. For example, the loss of a system component may be critical on one type of aircraft, while on another it may be not. A relatively minor problem in one set of circumstances can in different circumstances result in a hazardous situation. Hence, the generic rule for reporting is established by the principle: If in doubt — report it.
+The basic considerations when deciding whether or not to report an incident should be:
+
+Did a dangerous situation occur?
+Could a dangerous incident have occurred if circumstances had been different?
+Could a dangerous incident occur in the future if the situation being reported is not corrected?
+
+Further details on the type of incidents subject to mandatory reporting is provided in the sepatare article:Reportable Incidents.
+According to ICAO Safety Management Manual mandatory occurrence reporting systems tend to collect more information on technical (“hardware”) failures than on human performance aspects. To overcome this problem, States and service provider organisations are required under Regulation (EU) No 376/2014 to implement voluntary occurrence reporting in order to acquire more information on the human factors related aspects and enhance aviation safety.
+Recording and Analysis of Reported Safety Data
+Once the safety report is received, the information must be stored in a manner suitable for easy retrieval, investigation and analysis. States and their regulated entities should establish a database for this purpose. Most aircraft operators, ANSPs, aerodrome operators and maintenance organisations have established their own internal safety reporting systems and databases which they use to record and analyse all occurrences affecting the safety of the services they provide, regardless of whether such occurrences must also be reported to national investigators or regulators. Many regulators require that only serious occurrences are reported to them, leaving lesser matters to be dealt with locally by the aircraft operators and service provider organisations. This practice, which relies on mutual trust, enables the prompt identification of trends and incident precursors, and the establishment of defensive measures at an early point. In general, internal investigations of safety occurrences take less time than the investigations carried out by civil aviation administrations or Air Accident Investigation Bureaux due to the lower severity of investigated occurrences and, consequently, limited investigation scope.
+Protection of Reporting Personnel
+The objective of mandatory occurrence reporting is to prevent safety occurrences, such as accidents and incidents, not to attribute blame or liability if they happen. The person filing a safety report needs to have the strong assurance from the regulatory authority and the employer that prosecution or punitive actions such as suspension of licence will not be sought unless the unsafe act is deliberately committed or gross negligence is demonstrated. Such assurance includes confidentiality of reporting and sole use of reported data for safety improvement. Protecting identities in the reports is a good practice adopted by many States, and further made compulsory in Europe by Regulation (EU) No 376/2014. A positive safety culture in the organisation creates the kind of trust necessary for a successful occurrence reporting system. The culture must be error-tolerant and just. In addition, the reporting system needs to be perceived as being fair in the way unintentional errors and mistakes are treated.
+A Just Culture implies that, as far as possible:
+
+Reports will be confidential;
+Prosecution or punishment will not follow reports of unpremeditated or accidental breaches of regulations;
+Employers will not take punitive action following reports of unpremeditated or accidental breaches of regulations or procedures.
+
+International Reporting Systems
+International aviation organisations dedicate considerable resources and efforts to collect, analyse and communicate safety critical information to the global aviation community.
+In accordance with Annex 13, ICAO collects data on aircraft accidents involving aircraft with a maximum take-of mass (MTOW) of 2250 kg. In addition, information on serious incidents involving aircraft with MTOW of 5,700kg is also collected. This reporting system is known worldwide as ICAO Accident/Incident Data Reporting (ADREP). States report data in a predetermined, coded format. Upon reception of a report, the information is verified and electronically stored, enriching this databank of worldwide safety occurrences.
+To pool the safety occurrence information in Europe and overcome the problems rooted in incompatible data collection and data storage formats, the European Union introduced harmonised safety occurrence reporting requirements and developed the ECCAIRS database (European Co-ordination Centre for Accident and Incident Reporting Systems). It offers standard and flexible accident and incident data collection, representation, exchange and analysis tools. The database is compatible with ICAO ICAO ADREP system and supports the presentation of information in a variety of formats. Several non-European states have decided to implement ECCAIRS to take advantage of the common classification taxonomies.
+In 2007 European Aviation Safety Agency (EASA) started collecting accident data for aircraft operated in Europe, with a MTOW below 2,250kg.
+The legal bases for the collection and dissemination of safety occurrence related information is ensured by the following legislations:
+
+Regulation (EU) No 376/2014 on the reporting, analysis and follow-up of occurrences in civil aviation;
+Commission Implementing Regulation (EU) 2015/1018 laying down a list classifying occurrences in civil aviation to be mandatorily reported according to Regulation (EU) No 376/2014;
+Regulation EC No 216/2008 establishing the European Aviation Safety Agency.
+
+In the United States, MOR regulations are included in National Transportation Safety Board (NTSB) Part 830 — Notification and Reporting of Aircraft Accidents or Incidents and Overdue Aircraft, and Preservation of Aircraft Wreckage, Mail, Cargo, and Records. As far as aviation is concerned, this regulation, in part, contains rules perstaining to "Initial notification and later reporting of aircraft incidents and accidents and certain other occurrences in the operation of aircraft, wherever they occur, when they involve civil aircraft of the United States; when they involve certain public aircraft, as specified in this part, wherever they occur; and when they involve foreign civil aircraft where the events occur in the United States, its territories, or its possessions."
+The regulation includes numerous MOR-relevant definitions for such terms as accident, fatal injury, incident, operator, etc., and it details when NTSB must be notified. The Board must be notified when an aircraft accident or any of the following listed serious incidents occur:
+
+Flight control system malfunction or failure;
+Inability of any required flight crewmember to perform normal flight duties as a result of injury or illness;
+Failure of any internal turbine engine component that results in the escape of debris other than out the exhaust path;
+In-flight fire;
+Aircraft collision in flight;
+Damage to property, other than the aircraft, estimated to exceed US$25,000 for repair (including materials and labor) or fair market value in the event of total loss, whichever is less.
+For large multiengine aircraft (more than 12,500 pounds [5,700 kg] maximum certificated takeoff weight):
+
+In-flight failure of electrical systems which requires the sustained use of an emergency bus powered by a back-up source such as a battery, auxiliary power unit, or air-driven generator to retain flight control or essential instruments;
+In-flight failure of hydraulic systems that results in sustained reliance on the sole remaining hydraulic or mechanical system for movement of flight control surfaces;
+Sustained loss of the power or thrust produced by two or more engines; and
+An evacuation of an aircraft in which an emergency egress system is utilized.
+
+
+Release of all or a portion of a propeller blade from an aircraft, excluding release caused solely by ground contact;
+A complete loss of information, excluding flickering, from more than 50 percent of an aircraft’s cockpit displays known as:
+
+electronic flight instrument system (EFIS) displays;
+engine indication and crew alerting system (EICAS) displays;
+electronic centralized aircraft monitor (ECAM) displays; or
+other displays of this type, which generally include a primary flight display (PFD), primary navigation display (PND), and other integrated displays;
+
+
+Airborne collision and avoidance system (ACAS) resolution advisories issued when an aircraft is being operated on an instrument flight rules flight plan and compliance with the advisory is necessary to avert a substantial risk of collision between two or more aircraft;
+Damage to helicopter tail or main rotor blades, including ground damage, that requires major repair or replacement of the blade(s);
+Any event in which an operator, when operating an airplane as an air carrier at a public-use airport on land:
+
+lands or departs on a taxiway, incorrect runway, or other area not designed as a runway; or
+experiences a runway incursion that requires the operator or the crew of another aircraft or vehicle to take immediate corrective action to avoid a collision.
+
+
+An aircraft is overdue and is believed to have been involved in an accident.
+
+In Canada, MOR is governed by a regulation titled: Mandatory Reporting: Aviation Occurrences,
+Related Articles
+
+ICAO ADREP
+ICAO Safety Management Manual Doc 9859
+
+Further Reading
+ICAO
+
+Annexes to the Chicago Convention:
+
+Annex 1 - Personnel Licensing, Annex 6 - Operation of Aircraft, Part I —International Commercial Air Transport — Aeroplanes and Part III — International Operations — Helicopters,
+Annex 8 — Airworthiness of Aircraft,
+Annex 11 — Air Traffic Services,
+Annex 13 — Aircraft Accident and Incident Investigation and
+Annex 14 — Aerodromes, Volume I — Aerodrome Design and Operations;
+
+
+ICAO ADREP 2000 Taxonomy;
+ICAO Integrated Safety Management website;
+
+European Union
+
+Regulation (EU) No 376/2014 of the European Parliament and of the Council of 3 April 2014 on the reporting, analysis and follow-up of occurrences in civil aviation, amending Regulation (EU) No 996/2010 of the European Parliament and of the Council and repealing Directive 2003/42/EC of the European Parliament and of the Council and Commission Regulations (EC) No 1321/2007 and (EC) No 1330/2007;
+Commission Implementing Regulation (EU) 2015/1018 of 29 June 2015 laying down a list classifying occurrences in civil aviation to be mandatorily reported according to Regulation (EU) No 376/2014 of the European Parliament and of the Council;
+Regulation 2018/1139 - EASA basic regulation;
+
+
+EUROCONTROL
+
+Safety Regulatory Requirement - ESARR 2, Reporting and Assessment of Safety Occurrences in ATM;
+Safety Regulatory Requirement - ESARR 3, Use of Safety Management Systems by ATM Service Providers;
+ESARR2 - Guidance for ATM Safety Regulators -Publication and Confidentiality Policy;
+ESARR2 -Establishment of “Just Culture” Principles in ATM Safety Data Reporting and Assessment;
+
+Others
+
+UK CAA, CAP 382 Mandatory Occurrence Reporting Scheme;
+Mandatory Occurence Reporting System in Italy
+European Co-ordination Centre for Aviation Incident Reporting Systems 2 (ECCAIRS2) website.
+Advisory to Operators of Civil Unmanned Aircraft Systems in the United States, NTSB, 29 July 2016
+“Mandatory Reporting: Aviation Occurrences,” Transportation Safety Board Regulations, SOR/2014-37, last amended November 23, 2018.
+Notification and Reporting of Aircraft Accidents or Incidents and Overdue Aircraft, and Preservation of Aircraft Wreckage, Mail, Cargo, and Records,” 49 U.S. Code of Federal Aviation Regulations Part 830 in Electronic Code of Federal Regulations (eCFR), last amended Jan. 21, 2022.
+
+
+
+
+
+Categories
+
+
+Safety Management,
+              Safety Management System,
+              Accident Investigation,
+              Monitoring & Oversight,
+              ICAO ADREP
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

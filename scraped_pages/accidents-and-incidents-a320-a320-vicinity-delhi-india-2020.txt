@@ -1,0 +1,396 @@
+A320 / A320, vicinity Delhi India, 2020
+
+
+
+
+
+
+
+
+
+
+
+  A320 / A320, vicinity Delhi India, 2020
+
+
+
+
+
+
+
+
+
+Summary
+
+On 29 February 2020, an Airbus A320 inbound to Delhi lost separation against an outbound A320 from Delhi on a reciprocal track and the conflict was resolved by TCAS RA activation. The Investigation found that the inbound aircraft had correctly read back its descent clearance but then set a different selected altitude. Air Traffic Control had not reacted to the annunciated conflict alert and was unable to resolve it when the corresponding warning followed and it was noted that convective weather meant most aircraft were requesting deviations from their standard routes which was leading to abnormally complex workload.
+
+
+
+
+Event Details
+
+When
+
+29/02/2020
+
+
+
+Event Type
+
+
+HF,
+              LB,
+              LOS
+
+
+
+
+Day/Night
+
+Night
+
+
+
+Flight Conditions
+
+IMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS A-320
+
+
+
+
+
+
+
+
+
+Operator
+
+Air India
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Dabolim International Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Delhi/Indira Gandhi International (IGI) Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Descent
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS A-320
+
+
+
+
+
+
+
+
+
+Operator
+
+IndiGo
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Delhi/Indira Gandhi International (IGI) Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Chennai International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Phase of Flight
+
+Climb
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+VIDP
+
+
+
+
+General
+
+Tag(s)
+
+
+              PIC less than 500 hours in Command on Type
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Inappropriate crew response - skills deficiency,
+              Ineffective Monitoring,
+              Procedural non compliance,
+              Ineffective Monitoring - PIC as PF
+          
+
+
+
+
+GND
+
+Tag(s)
+
+
+              Accepted ATC clearance not followed
+          
+
+
+
+
+LB
+
+Tag(s)
+
+
+              Accepted ATC Clearance not followed,
+              TCAS RA response
+          
+
+
+
+
+LOS
+
+Tag(s)
+
+
+              Accepted ATC Clearance not followed,
+              Required Separation not maintained,
+              Level Bust
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Operation
+Air Traffic Management
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 29 February 2020, an Airbus A320 (VT-CCU) being operated by Air Asia (India) on a scheduled domestic passenger flight from Goa to Delhi as IAD778 and an Airbus A320 (VT-IAR) being operated by Indigo on a scheduled domestic passenger flight from Delhi to Chennai as IGO2124 came into close proximity in night IMC when on reciprocal tracks at less than the prescribed vertical separation whilst working the same radar control frequency. TCAS RA activation and compliance eliminated the collision risk and the minimum achieved separation was 0.5nm laterally and 600 feet vertically. 
+Investigation
+A Serious Incident Investigation was carried out by the Indian Aircraft Accidents Investigation Bureau (AAIB) by reference primarily to downloaded data from the Air Asia A320 CVR and FDR and recorded ATC radar data and communications with both aircraft.
+It was noted that the Air Asia A320 flight crew consisted of a 35 year-old Captain who had a total of 5,426 hours flying experience which included 326 hours on type and a 32 year old First Officer who had a total of 2,283 hours flying experience, all but 271 hours of which were on type. The 50 year old Indigo A320 Captain had a total of 7,086 hours flying experience which included 3,427 hours on type and the 28 year old First Officer had a total of 1,791 hours flying experience, all but 201 hours of which were on type.
+What Happened
+It was established that shortly after the inbound Air Asia A320, on a generally south-westerly track, had been cleared to descend to FL120, the outbound Indigo A320, on a generally north-westerly track, had been cleared to climb to FL90. Both aircraft then requested right turns for weather avoidance and Air Asia was given a heading of 015° and Indigo direct to waypoint ‘AKRIB’. Air Asia was then cleared to descend to FL110 and Indigo were then given climb to FL100 to expedite and both aircraft correctly read back their clearances. After their turns for weather avoidance, the two aircraft were now on almost reciprocal tracks (see the radar snapshot below). 
+Having seen that Air Asia had actually descended to FL100 after receiving an audible STCA Warning, the controller immediately tried to resolve it by instructing it to climb (back) to FL110, following this with an instruction to Indigo to descend to FL095 and immediately changed this to FL090 before a response to the original descent instruction had been given. But by this time a coordinated TCAS RA had occurred and immediately after the controller had finished transmitting, Air Asia called “TCAS RA” and the controller responded with “call clear of conflict”.
+After a short interval, Indigo called “clear of conflict” and advised climbing back to FL100 as previously cleared which was acknowledged. The controller, having not heard the same from Air Asia requested this and received confirmation before telling the flight it had only been cleared to FL110. The response was initially to dispute this and request details of the conflicting traffic which were given. Indigo then requested and was given further climb to FL110.
+
+The conflict at the STCA Alert stage showing the two aircraft on almost reciprocal tracks. [Reproduced from the Official Report]
+Why It Happened 
+The Air Asia A320 PM read back their descent clearance to FL110 correctly but then set FL100 in the selected altitude window and the AP therefore took the aircraft into a level bust which given the near reciprocal track of the Indigo A320 which had climbed as cleared to FL100 resulted in a coordinated TCAS RA annunciation which both aircraft then followed. The radar controller was sufficiently busy with multiple requests for track variations due to adverse weather conditions to miss seeing the STCA initial alert activation and only attempted conflict resolution when the subsequent audible warning was activated by which time TCAS was about to resolve the problem and when it did so the RAs were correctly followed. Once the aircraft had passed, it seemed that the Air Asia crew had still not recognised their error so they challenged the controller about his assertion which the recorded communications confirmed had been read back as given but then set incorrectly.
+The Probable Cause of the event was determined as “the unauthorised descent made by the Air Asia A320 below FL110 in violation of its ATC clearance”.
+ 
+Two Contributory Factors were also identified as follows:
+
+the increase in workload on the flight deck of the Air Asia A320 due to bad weather.
+the inadequate monitoring of traffic in close proximity.
+
+Two Safety Recommendations were made as a result of the Investigation as follows:
+
+that Air Asia should provide corrective training to the pilots of their A320 as per the syllabus giving major emphasis to situational awareness. 
+that the Airports Authority of India (AAI) should  advise its controllers to be more vigilant in respect of system generated alerts.
+
+The Final Report was completed on 1 July 2020 and subsequently published.
+
+Loss of Separation
+Loss of Separation During Weather Avoidance
+Level Bust
+Read-back or Hear-back
+Cross-checking Process
+Vigilance in ATM
+Controller Workload
+ACAS Resolution and Traffic Advisories
+Short Term Conflict Alert (STCA)

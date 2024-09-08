@@ -1,0 +1,186 @@
+Accident and Serious Incident Reports: UAS
+
+
+
+
+
+
+
+
+
+
+
+  Accident and Serious Incident Reports: UAS
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Unmanned Aerial Systems 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+This article primarily describes how the European Union Aviation Safety Agency (EASA), the U.K. Air Accidents Investigation Branch (AAIB) and the U.S. National Transportation Safety Board (USA) (NTSB) conduct investigations of accidents and serious incidents involving diverse causal factors for small unmanned aircraft systems (sUAS). The popular term drone is used interchangeably with sUAS in this article.
+Rules, methods and discretionary decisions implemented by aircraft accident investigation bodies like these influence their selection of which reported occurrences to investigate. Investigators’ decisions also how they aim to benefit drone operators, regulators, air navigation service providers and human bystanders. Each final report published is a value statement about the high significance of deploying limited investigation assets this way.
+Additionally, occurrences involving larger/heavier, remotely piloted aircraft (RPAs) are listed in the "Selected Larger UAS Events" section at the end of the article.
+Definition
+These key terms have been selected from EASA and NTSB documents. UK AAIB likewise uses terminology and concepts derived from the International Civil Aviation Organisation (ICAO)’s safety management and investigation expertise.
+
+Small UAS (sUAS) — The NTSB, like the U.S. Federal Aviation Administration (FAA), defines this as an unmanned aircraft weighing less than 55 pounds (25 kilograms) on takeoff, including everything that is onboard or attached to the aircraft.
+Accident in Regulation (EU) No 996/2010 — An occurrence associated with the operation of an aircraft which, in the case of a manned aircraft, takes place between the time any person boards the aircraft with the intention of flight until such time as all such persons have disembarked, or in the case of an unmanned aircraft, takes place between the time the aircraft is ready to move with the purpose of flight until such time it comes to rest at the end of the flight and the primary propulsion system is shut down, in which:
+
+(a) a person is fatally or seriously injured as a result of:
+
+— being in the aircraft, or,
+— direct contact with any part of the aircraft, including parts which have become detached from the aircraft, or,
+— direct exposure to jet blast,
+
+
+
+
+
+except when the injuries are from natural causes, self- inflicted or inflicted by other persons, or when the injuries are to stowaways hiding outside the areas normally available to the passengers and crew; or
+
+
+
+(b) the aircraft sustains damage or structural failure which adversely affects the structural strength, performance or flight characteristics of the aircraft, and would normally require major repair or replacement of the affected component, except for engine failure or damage, when the damage is limited to a single engine, (including its cowlings or accessories), to propellers, wing tips, antennas, probes, vanes, tires, brakes, wheels, fairings, panels, landing gear doors, windscreens, the aircraft skin (such as small dents or puncture holes) or minor damages to main rotor blades, tail rotor blades, landing gear, and those resulting from hail or bird strike, (including holes in the radome); or
+(c) the aircraft is missing or is completely inaccessible;
+
+
+Incident in Regulation (EU) No 996/2010 — An occurrence, other than an accident, associated with the operation of an aircraft which affects or could affect the safety of operation;
+Serious incident in Regulation (EU) No 996/2010 — An incident involving circumstances indicating that there was a high probability of an accident and is associated with the operation of an aircraft, which in the case of a manned aircraft, takes place between the time any person boards the aircraft with the intention of flight until such time as all such persons have disembarked, or in the case of an unmanned aircraft, takes place between the time the aircraft is ready to move with the purpose of flight until such time it comes to rest at the end of the flight and the primary propulsion system is shut down.
+Unmanned aircraft accident in NTSB Part 830 — An occurrence associated with the operation of any public or civil unmanned aircraft system that takes place between the time that the system is activated with the purpose of flight and the time that the system is deactivated at the conclusion of its mission, in which:
+
+(1) Any person suffers death or serious injury; or
+(2) The aircraft has a maximum gross takeoff weight of 300 pounds [or greater and sustains substantial damage.
+
+
+Safety recommendation of global concern (SRGC) in ICAO Annex 13 12th edition, November 2020 — A safety recommendation regarding a systemic deficiency having a probability of recurrence, with significant consequences at a global level, and requiring timely action to improve safety.
+
+Selected Small UAS Reports
+The following summaries typify events in 2017–2021 investigative work and safety by UK AAIB. Final sUA accident reports, safety guidance and analyses from other States can be found on websites of ICAO and their counterpart aircraft accident investigative bodies.
+“Controlled flight into wind turbine, Bristol sewage treatment works, 5 March 2020.” AAIB investigation to DJI Phantom 4 (UAS registration n/a) 050320. Published 10 September 2020. — During an aerial survey of a sewage treatment works, the unmanned aircraft flew into a wind turbine, the height of which the pilot had misjudged. The unmanned aircraft system (UAS) was being used to conduct an aerial survey of a sewage treatment works that contained four wind turbines in the survey area. The pilot was using the NATS Drone Assist app as part of the flight planning and risk assessment of the flight; however, the app did not mention the wind turbines, so the pilot looked up “wind turbine height” on the Internet, which returned a height of 328 ft.
+A search was also made for any guidance material on flying in the vicinity of wind turbines, but none was found. The pilot had been made aware of aeronautical charts during UAS pilot training, but did not use them when planning and risk assessing a flight.
+“Drone collision with structure, Sampson House, London, 8 February 2020.” AAIB Investigation to DJI Inspire 2 080220, UAS registration n/a, UK Air Accidents Investigation Branch, published 11 June 2020 — During an operation to take photographs at height on a construction site, the drone became erratic. The remote pilot attempted to land the drone immediately, but it became uncontrollable. The remote pilot then attempted to fly the drone away from obstructions, but it collided with a concrete structure on the site and was catastrophically damaged.
+It is likely the loss of control and collision were caused by the drone not correctly setting the ‘home-point’ despite this appearing to the remote pilot to be correctly positioned on the transmitter screen. This combined with poor GPS and compass following from the beginning of the flight lead to erratic manoeuvring and a subsequent attempt at a fly away.
+Despite the confined nature of the construction site within a heavily built up area, the operator had taken all the required mitigations and safety measures to ensure that there was no risk to any other persons even when control of the drone was lost.
+“UAS crashed shortly after takeoff because the operator turned the transmitter off,” Solent Airport, Hampshire, 2 May 2020.” AAIB investigation to Believer (UAS, registration N/A) 020520, published 8 October 2020. — The flight was part of a test programme prior to the start of commercial operations to the Isle of Wight. The accident UAS was considerably smaller than the production aircraft but it was representative in terms of the avionics and communications. It crashed shortly after taking off because the safety pilot switched the radio control transmitter off before the automatic flight control system was engaged. Several safety actions have been undertaken by the operator because of this accident.
+“Loss of control of the UAS which impacted Industrial Road, Halifax, Yorkshire, 6 August 2019.” AAIB investigation to Parrot (UAS, registration n/a), published 14 November 2019. — The UAS was being operated by the emergency services in response to a serious incident requiring an urgent search for a missing person along a canal path. An elevated position in a small, quietly populated cul-de sac was chosen from which to operate the UAS, with a good line of sight visibility of the search area. The weather was good, clear and sunny with a wind of about 14 kt, gusting 28 kt and an OAT of 22˚C. There were no pedestrians in the operating area and no vehicular traffic.
+The UAS made a normal takeoff and responded correctly to the control inputs made by the operator. It was manoeuvred towards the canal area at an altitude of about 60 m, continuing to respond correctly to the control inputs. It was brought to a hover for the operator to survey the general area and select a suitable flight area to clear the canal towpath.
+Whilst surveying the area, and approximately 45 seconds into the flight, the operator experienced vibrations from the UAS which were evident in the camera image feed. The operator performed a 360˚ turn of the UAS in order to check control, which was effective. However, seconds later, control inputs did not have the desired or expected response from the UAS. It continued to vibrate heavily and began to move erratically and manoeuvre itself without control inputs. With the UAS facing away from him, the operator attempted to manoeuvre it backwards towards him, but it flipped uncontrollably resulting in an uncontrolled descent, impacting a small residential street. The total flight time was 1 minute and 21 seconds. There were no injuries to persons or damage to property on the ground, but the UAS suffered extensive damage. No cause for the loss of control was identified.
+“Controlled flight into building, Seal Sands, Middlesborough, 19 August 2020.” AAIB Investigation to DJI Mavic Pro 2, (UAS, registration n/a) 190820, published 10 June 2021. — The DJI Mavic Pro 2 was being used to carry out some aerial filming at a construction site. The aircraft was being operated by a remote pilot (RP) who was supported by an observer. At the time of the accident, the RP was completing a tracking shot around personnel working on the site.
+Prior to this sequence of filming, he had been recording in Full Point of View (FPOV) mode, but to record the personnel working on the site, he had changed to a High Quality (HQ) mode. Changing from FPOV to HQ video reduced the angle of view from 77 degrees to 55 degrees and, therefore, the aircraft needed to fly further away from the subject to capture a similar view.
+As the tracking shot was being flown, the observer communicated to the RP that the UA was being flown close to a tower adjacent to the construction site. Based on the view that the RP had on the controller monitor, he determined that the UA was between the tower and the steel structure he was taking footage of, but he had not accounted for the adjustment he had made for taking the HQ video footage.
+This positioned the aircraft further away from the subject than it appeared. The RP continued to complete the tracking manoeuvre, during which the aircraft collided with the tower causing the UA to fall to a gantry platform approximately 20 m below. There were no injuries.
+As a result of this accident the operator has introduced measures to help prevent reoccurrences. This includes using propeller guards when operating in areas with possible obstructions and when flying with avoidance sensors switched off. The operator has also introduced a requirement that all RPs create a virtual fence for each flying site within which the UA can operate safely.
+Selected Larger UAS Events
+
+
+UAV, near Imsil-gun South Korea, 2009On 3 August 2009, control of a rotary UAV being operated by an agricultural cooperative for routine crop spraying in the south western part of South Korea was lost and the remote pilot was fatally injured when it then collided with him. The Investigation found that an inappropriately set pitch trim switch went unnoticed and the consequentially unexpected trajectory was not recognised and corrected. The context was assessed as inadequacies in the operator’s safety management arrangements and the content of the applicable UAV Operations Manual as well as lack of recurrent training for the operators’ qualified UAV remote pilots.
+
+UAV, Darling Harbour Sydney Australia, 2021On 15 January 2021, the pilot of a DJI Inspire 2 UAV being operated on a contracted aerial work task under a conditional permit lost control of it and, after it exitied the approved operating area, the UAV collided with the window of a hotel guest room causing consequential minor injuries to the occupant. The Investigation found that the loss of control was attributable to “strong magnetic interference” almost immediately after takeoff which caused the compass to feed unreliable data to the Internal Management Unit which destabilised its accelerometer and led to the loss of directional control which resulted in the collision.
+
+UAV, manoeuvring, Poole Dorset UK, 2020On 19 November 2020, the police operator of a DJI Matrice M210 UA lost control of it over Poole when it drifted beyond Visual Line Of Sight (VLOS) and communication ceased. It was subsequently damaged when colliding with a house in autoland mode. The Investigation found that a partial power failure had followed battery disconnection with its consequences not adequately communicated to the pilot. It faulted both the applicable UA User Manual content and the absence of sufficient UA status and detected wind information to the pilot. A failure to properly define VLOS was identified but not considered directly causal.
+
+UAV, vicinity Goodwood West Sussex UK, 2019On 4 July 2019, the operator of an Alauda Airspeeder UAV lost control of it and it climbed to 8000 feet into controlled airspace at a designated holding pattern for London Gatwick before falling at 5000 fpm and impacting the ground close to housing. The Investigation was unable to establish the cause of the loss of control but noted that the system to immediately terminate a flight in such circumstances had also failed, thereby compromising public safety. The approval for operation of the UAV was found to been poorly performed and lacking any assessment of the airworthiness of the UAS.
+
+UAV, manoeuvring, north of Reims France, 2006On 29 February 2016, control of a 50 kg, 3.8 metre wingspan UAV was lost during a flight test being conducted in a Temporary Segregated Area in northern Belgium. The UAV then climbed to 4,000 feet and took up a south south-westerly track across Belgium and into northern France where it crash-landed after the engine stopped. The Investigation found that control communications had been interrupted because of an incorrectly manufactured co-axial cable assembly and a separate autopilot software design flaw not previously identified. This then prevented the default recovery process from working. A loss of prescribed traffic separation was recorded.
+
+Q9, vicinity Nogales USA, 2006On April 25, 2006 a Predator B an unmanned aerial vehicle (UAV), collided with the terrain following a loss of engine power approximately 10 nautical miles northwest of the Nogales International Airport, Nogales, Arizona.
+
+
+
+
+References
+
+NTSB — U.S. Code of Federal Regulations Title 49, Transportation, Part 830 “Notification and Reporting of Aircraft Accidents or Incidents and Overdue Aircraft, and Preservation of Aircraft Wreckage, Mail, Cargo and Records.” E-regulation accessed July 29, 2021.
+EASA — Drone Incident Management at Aerodromes, “Part 1: The challenge of unauthorised drones in the surroundings of aerodromes.” European Union Aviation Safety Agency, Cologne, Germany, 8 March 2021.
+Summary Final Report for Unmanned Aircraft Systems in Air Carrier Operations: UAS Operator Fatigue. FAA Office of Aerospace Medicine DOT/FAA/AM-21/16 Aviation Safety, May 2021.
+Annual Safety Review 2020, UK Air Accidents Investigation Branch, 24 June 2021.
+“Air Traffic Organization Aircraft Accident and Aircraft Incident Notification, Investigation, and Reporting.” FAA Order JO 8020.16C, Air Traffic Organization Policy, 14 December 2018.
+
+
+
+
+
+Categories
+
+
+Unmanned Aerial Systems
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

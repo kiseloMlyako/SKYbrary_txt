@@ -1,0 +1,403 @@
+B789, en-route, west of Mangaluru India, 2021
+
+
+
+
+
+
+
+
+
+
+
+  B789, en-route, west of Mangaluru India, 2021
+
+
+
+
+
+
+
+
+
+Summary
+
+On 31 October 2021, a ‘Fuel Imbalance’ message occurred on a Boeing 787-9 soon after departing Bangkok at night but attempted fuel transfer was unsuccessful. A ‘Fuel Disagree’ message subsequently appeared and use of available system checklists indicated that there was a fuel leak from the left engine or tank. Left engine shutdown was therefore accomplished and a MAYDAY diversion to an overweight landing at Goa followed. The Investigation determined that the leak was actually from the right side fuel tank and attributed crew misdiagnosis to inadequate fuel system malfunction checklists and deficient crew guidance and training on fault diagnosis.
+
+
+
+
+Event Details
+
+When
+
+31/10/2021
+
+
+
+Event Type
+
+
+AW,
+              HF,
+              LOC
+
+
+
+
+Day/Night
+
+Night
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 787-9 Dreamliner
+
+
+
+
+
+
+
+
+
+Operator
+
+El Al
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Bangkok/Suvarnabhumi International Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Tel Aviv International
+
+
+
+
+
+
+
+Actual Destination
+
+
+
+
+Goa International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Climb
+
+
+
+
+
+
+
+
+Location
+
+Approx.
+
+West of Mangaluru
+
+
+
+
+
+
+
+
+
+
+General
+
+Tag(s)
+
+
+              Deficient Crew Knowledge-systems,
+              En-route Diversion,
+              Extra flight crew (no training),
+              Inadequate Aircraft Operator Procedures,
+              Inadequate Airworthiness Procedures,
+              Root Cause Not Determined,
+              CVR overwritten,
+              PIC aged 60 or over
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Inappropriate crew response - skills deficiency,
+              Inappropriate crew response (technical fault)
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Flight Management Error
+          
+
+
+
+
+EPR
+
+Tag(s)
+
+
+              MAYDAY declaration
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Fuel
+          
+
+
+
+Contributor(s)
+
+
+              OEM Design fault
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Airworthiness
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 31 October 2021, an EICAS ‘Fuel Imbalance’ message was displayed as a Boeing 787-9 (4X-EDA) being operated by El Al on a scheduled international night passenger flight from Bangkok to Tel Aviv as LY082 with an augmented flight crew was climbing through 9,200 feet. Reference to the corresponding Non-Normal Checklist (NNC) was made and fuel transfer attempted unsuccessfully. Once established in the cruise and shortly after the relief crew had taken over, an EICAS ‘Fuel Disagree’ annunciation occurred. The whole crew, assisted by a company maintenance engineer travelling on the flight, concluded that the eight-page Fuel Leak NNC should be applied and this led to a shutdown of the left engine and a consequent MAYDAY diversion to Goa which was achieved without further event.
+Investigation
+When the Indian Authorities indicated that they did not intend to open an Investigation, the Aircraft safety Investigation Authority Israel (AIAI) decided to conduct an Investigation in accordance with ICAO Annex 13 procedures. Flight and Voice data was successfully downloaded from the EAFR but although relevant data from the FDRs was available, that from the CVRs was overwritten when, “due to a lack of attention prior to (ground) running the engines” both EAFRs were powered up which “damaged the Investigation”.
+It was noted that the 63 year-old Captain-in-command had “about 16,600 hours” of flying experience of which 1,380 hours were on type and the 63 year-old First Officer “about 11,400 hours” flying experience of which 750 hours were on type. The 57 year-old Relief Captain had “about 20,600 hours” of flying experience of which 1,611 hours were on type and the 56 year-old Relief First Officer had “about 11,300 hours” flying experience of which 1,031 hours were on type.
+What Happened
+The flight LY082 had begun in Phuket, Thailand and after arriving in Bangkok, it was on the ground for about two hours before departing for Tel Aviv. As the aircraft climbed through 9,200 feet an EICAS "Fuel Imbalance" message was displayed indicating an imbalance of fuel between the two main fuel tanks.
+The crew observed that the indicated contents for the left tank were approximately 500 kg less than those for the right tank and actioned the "Fuel Imbalance" checklist. Whilst doing so, they noticed that there was a difference of 100 kg fuel between the calculated total fuel quantity and the quantity shown on the totaliser. They also confirmed that the fuel consumption and the fuel quantity planned for the next waypoint were consistent with the OFP. Based on the checklist, the crew did not detect a fuel leak so they then attempted to balance the fuel between the two main (wing) tanks whilst the centre tank override/jettison pumps were operating to supply fuel to both tanks, but were not successful and therefore returned the boost pump switches and the crossfeed valve to their original positions. A repeat fuel balancing attempt 15 minutes later was similarly unsuccessful because it cannot be done when the centre tank is supplying fuel to both main tanks which on this flight would be the case for the first 5½ hours.
+Around 2 hours 10 minutes into the flight, the relief crew arrived on the flight deck to takeover and were briefed about the “Fuel Imbalance" message and then took over. After only a few minutes, an EICAS "Fuel Disagree" message followed and the crew observed a 2,400 kg difference between the totaliser and the calculated fuel quantities. The other crew were recalled and found a difference of approx. 2,400 kg. Further checks against flight plan waypoints revealed that the actual fuel quantity remaining was approximately 2,900 kg lower than that expected according to the flight plan.
+The Captain-in-command took the left seat and a senior maintenance employee who held a managerial role at the company's MCC and was on board as a passenger was called to the flight deck and briefed about the situation. Running the "Fuel Disagree" checklist led the crew to consult the "Fuel Leak" checklist which required visual inspection for a possible fuel leak from the wing and/or the engine. A mechanic and one of the First Officers were tasked accordingly but at night were unable to see enough to say either way. In accordance with the "Fuel Leak" checklist, both centre tank pumps were then switched off and monitoring for any increase in the difference between the left and right Main Tanks began (the checklist directed that any difference exceeding 500 kg over a 30 minute period should be treated as a "fuel leak").
+Twenty minutes into the check, the crew observed that the difference was 400 kg but had then seen “a sharp change” as the gap between the two tanks began to decrease and they found that fuel was being transferred from the centre tank to the left main tank by means of the left scavenge pump. FDR data actually showed that the observed 400 kg difference occurred in the first ten minutes and was then unchanged for another ten minutes.
+According to the crew interviews, they concluded that “without the fuel transferring from the Centre Tank to the Left Main Tank, using a Scavenge pump, the difference would have reached 500 kg within 30 minutes, which according to the checklist would indicate a fuel leak on the left side” from either the left engine or the left main tank. On that basis, they decided to divert to a suitable airport which they identified as Goa which at that time was about 120 nm to the north of track.
+They continued to work through the (complex) "Fuel Leak" checklist and, having decided to use the fuel quantity as indicated on the totaliser, modified the FMC fuel calculations accordingly. They also prepared for a single engine overweight landing at Goa and, having confirmed that a safe landing could be made, then informed the OCC of the decision. As the senior maintenance engineer with them on the flight deck was from the MCC and had been involved in the decision, they had not previously contacted either the OCC or MCC about the fuel problem. This decision was made based on their awareness that the OCC received aircraft data including position, altitude and Calculated fuel quantity every 15 minutes and that the MCC received data via the Aircraft Health Monitoring System (AHM), which included various warnings and discrepancies if they occurred.
+The left engine was shutdown as the aircraft descended through FL270 for FL200 and the APU was activated. A ‘MAYDAY’ was then declared to Chennai Control and direct radar vectors to Goa were requested and received. The subsequent landing weight was approximately 10 tons above the 202 ton MLW and with maximum autobrake selected, the aircraft stopped just beyond the mid point of the 3,458 metre-long runway and the crew shutdown the right engine. After the attending airport RFFS team had cooled the wheels and brakes, the aircraft was towed to the parking ramp about an hour later.
+Once the passengers had been disembarked, the fuel system issue was recorded in the aircraft Technical Log and accompanied by instructions to download data from the FDR and CVR in accordance with the operator’s procedures. A subsequent very detailed examination of the fuel system found no faults and no leak occurred or unexpected fuel transfer occurred after the aircraft had been refuelled and an engine ground run carried out.
+Why It Happened
+The cause of what was found to have been an approximate 450kg/minute fuel leak from the aircraft was found to have occurred from the right wing surge tank. On the 787, these tanks are located at each wingtip and have a capacity of “about 481 kg”. Their purpose is to accommodate any modest fuel excess if the corresponding main wing tank exceeds its capacity. When the main tank begins to supply fuel to the engine, any excess fuel in the surge tank is returned to the main tank. If the fuel in the surge tank exceeds its capacity, excess fuel will spill overboard.
+This cause of fuel loss by transfer of unnecessary fuel from the centre tank to a main (wing) tank had not been envisaged by Boeing nor was its cause subsequently understood. However, the principal concern of the Investigation was to examine how the crew came to determine that a serviceable engine should be shut down.
+When the crew referred to the “Fuel Imbalance” NNC, their response to the discrepancy was not compatible with the checklists in the following respects:
+
+The "Fuel Imbalance" checklist included a specified (closed) list of indicators pointing to a suspected fuel leak. According to these indicators there was no suspected leak.
+According to the "Fuel Imbalance" checklist the crew should not be balancing fuel between the wing tanks when Override/Jettison pumps in the centre tank are running.
+The "Fuel Disagree" checklist refers/directed the crew to deal with the wing "having the lower fuel quantity".
+The fuel leak test specified in the "Fuel Leak" checklist was interrupted by the routine activation of the centre tank left scavenge pump about 20 minutes after it commenced. This invalidated the test and led to the crew incorrectly believing that there was a leak on the opposite side of the aircraft to the one where it was actually occurring and therefore led to the shutdown of a serviceable engine.
+
+It was impossible to “fully clarify” why fuel had moved from the centre tank to the right main tank and from there to the right surge tank before being spilled overboard. However, it was concluded that it was “highly probable” that there was a “latent defect” in the design of the fuel system which was capable of causing fuel migration from the centre fuel tank to either main wing tank which may have its origin in one of the fuel system valves or in the fuel system logic. Failure of either the boost pump housing check valve or the suction feed check valve in the right main tank were considered the most likely explanations.
+The remainder of the Investigation was focused on the way the crew had acted based on the applicable Non-Normal Checklists (NNC) but were not successful in diagnosing the situation because the malfunction encountered was not described as experienced. This led to their conclusion that there was a fuel leak on the left side of the aircraft and that shutdown of the left engine, declaration of an emergency and diversion were appropriate.
+It was noted that the Operator’s policy on handling faults in flight when this event occurred was based on “strict adherence to acting according to the checklist, specifically including the electronic checklist” coupled with the Captain's discretion. When the “Fuel Imbalance” message appeared, the crew's analysis was based on their inaccurate understanding of the malfunction and an inability to re-balance the fuel combined with NNC(s) that did not address the fault which had occurred. However in the absence of any in-depth analysis of the situation prior to beginning to troubleshoot using the checklists, their eventual deviation from fuel system NNCs was considered “highly likely” to have been at least partly attributable to the operator’s overall emphasis on strict adherence to such checklists. It was further considered that this situation would have been reinforced by presentation of on-screen checklists on the EICAS which “ostensibly eliminated the need to delve into what is behind them”. It was considered that the operator’s policy of action being taken only in accordance with what the NNCs say was not consistent with their subsequent backing for the discretion exercised by the crew in their use of the Fuel System NNCs during this event.
+Relevant Boeing guidance on fuel system malfunctions was reviewed and it was found that:
+
+The FCOM made no mention of any fault which could result in fuel migration from the centre tank to a main tank and even in the NNCs, such a fault does not appear clearly, although Boeing had been aware of the possibility for several years.
+A fuel transfer fault was not practised by pilots during flight simulator training sessions because there is no way to generate such faults.
+The three fuel system NNCs were not compatible with the malfunction experienced and three factors which contributed to actions taken by the crew were identified:
+
+the "Fuel Imbalance" checklist did not provide for fuel balancing between main tanks even by use of the crossfeed when the centre tank pumps are operating as there is no instruction to turn them off. Alternatively, there was no remark to the effect that balancing is impossible when the centre pumps are operating yet there is such a note regarding fuel balancing using the balance switch.
+the "Fuel Imbalance" checklist included a ‘closed’ list of conditions which might indicate a suspicion of a fuel leak. This might mislead a crew to assume that these are the sole potential causes for a suspected leak whereas there were other potential indications of a fuel leak.
+the "Fuel Disagree" alert message directs the crew to deal with the lower fuel quantity main tank and thus supports a flawed approach to troubleshooting.
+
+
+While dealing with the "Fuel Leak" discrepancy at the stage of confirming a fuel leak (as defined by a difference of 500 kg within 30 minutes), the procedure was disrupted by the automatic activation of the centre tank right scavenge pump whereas the on-board fuel system ‘synoptic’ display shows only left main tank scavenge pump operation with the centre tank pumps off.
+The source of the leak in this event could not be identified using the "Fuel Leak" checklist.
+
+It was therefore concluded that the fuel system NNCs in place at the time may have contributed to the unnecessary engine shutdown by the crew.
+Boeing FCTM and NNC introductory guidance in respect of the use of “synoptic” system diagrams such as the one for the fuel system in support of NNC understanding was considered not to adequately support crew response to ‘unusual’ discrepancies such as the one encountered. Both these sources guided the Captain to "assess the situation" and "analyse the situation" before dealing with a malfunction, whenever time is available, namely (by) gathering information by all available means and from all available sources. It was concluded that “additional clarification is required [...] in particular for ‘unusual’ malfunctions where information is unclear and/or checklist compatibility is lacking”.
+Previous Similar Events
+Four previously recorded similar instances of fuel leaking from an over-full Boeing 787 main tank during fuel transfer from the centre tank were found. In all cases, fuel was seen being spilled overboard from one of the wing surge tanks during taxi out and the intended departure of the aircraft did not occur. In two instances involving the same aircraft build-origin FOD was eventually found to have been interfering with a fuel system valve but in the other two cases, subsequent examination of the fuel system failed to identify any cause and led Boeing to assume a FOD origin.
+The Conclusions of the Investigation were, in summary, as follows:
+
+The fuel system malfunction which occurred “was unknown to El Al and its flight crew”. Since it did not appear in training publications, it could not have been learned and practiced and apparently as a result, the flight crew misunderstood the source of the fault and misidentified it.
+The three available Boeing Fuel System NNCs only provided a partial answer to what was happening and thereby contributed to the crew’s “logical but wrong diagnosis and to shutting down the engine on the side where there was no leakage”. It was considered that “it was highly doubtful whether, under similar circumstances, another operator’s crew would have acted differently”.
+More generally, the El Al OM (A) did not clearly describe the way faults should, in general, be handled and, especially in respect of "abnormal" faults, was not clearly defined in a way that would guide and support the crew to use all information sources available.
+There was a lack of knowledge at El Al in respect of the way the aircraft fuel system, which is complex and has unique characteristics, worked. This particularly included the range of possible malfunctions and their resolutions. These topics were only partially covered in instruction, training and simulator practice.
+The El Al method for monitoring in-flight fuel consumption is not adequately defined and may have been contributory to the late detection of a fuel leak because it relies on the calculated parameter only, without checking the totaliser reading and comparing it to the OFP.
+The absence of any opportunity for El Al pilots to self-practice use of the Electronic Check List using devices such as a procedures trainer with a computerised emulation of the flight deck represented a learning and training gap which, if rectified, could provide enhanced flight crew confidence in its effective use.
+Communication between the flight crew and the El Al OCC and MCC during the event was sub optimal whereas more effective communication can often support understanding and analysing of discrepancies and especially "unusual" discrepancies such this one. This voice communication deficit was accompanied by data-sharing issues including:
+
+EICAS Messages, such as "Fuel Imbalance" and "Fuel Disagree" not being monitored in the AHM system.
+Fuel totaliser information not being monitored by the OCC Flight Watch system which makes it difficult to track fuel status and get warnings on a potential leak and/or abnormal fuel consumption.
+
+
+
+Safety Action taken by Boeing whilst the Investigation was in progress was noted as:
+
+the issue of a revised "Fuel Imbalance" checklist which corrected the previous restrictive list of possible fuel leak origins.
+the revision of the NNC Introduction to include performing an analysis of the situation prior to executing checklist actions.
+
+Ten Safety Recommendations were made as a result of the Investigation as follows:
+
+that El Al revise the company policy for dealing with malfunctions in general and "unusual" malfunctions in particular, in a manner which will meet the need to gather and analyse information, as defined in the manufacturer's and the company's publications.
+that El Al conduct dedicated training on the fuel system for 787 fleet pilots, with emphasis on the discrepancy in the subject event.
+that El Al revise the in-flight fuel consumption check procedure and include a definition of how it should be performed (by the Totaliser parameter or/and the Calculated parameter).
+that El Al act to enhance familiarity with the Electronic Check List and check feasibility for using an adequate, dedicated training aid for the fleet pilots, which will be available for self-training at any time.
+that El Al revise and improve the procedure for storing of flight recorder data (FDR, CVR) in case of an accident or incident in a way which will ensure that the recordings will not be erased.
+that Boeing revise the "Fuel Imbalance" checklist regarding the subject event malfunction, so that it provides an effective solution for the possibility of balancing fuel between the wing tanks (using crossfeed). Alternatively add a Note stating such action is impossible as long as the Centre pumps are operating.
+that Boeing revise the "Fuel Imbalance" checklist, so that it does not include a limited and ‘closed’ list of conditions and parameters which indicate a suspected fuel leak.
+that Boeing revise the "Fuel Disagree" checklist, so that it does not instruct and focus the crew on focus on the main tank with lower fuel quantity.
+that Boeing revise the "Fuel Leak" checklist, so that when the fuel leak source detection is checked for 30 minutes duration, scavenge pump activation might impair the check.
+that Boeing analyse the reasons for the several instances of Fuel Migration from the centre tank to a main tank while the centre tank override/jettison pumps are operating.
+
+The Final Report of the Investigation was completed on 14 June 2022 and subsequently published online.
+Related Articles
+
+Aircraft Fuel Systems
+Emergency and Abnormal Checklist
+Fuel - In-Flight Management (Abnormal Operations)
+Engine Indicating and Crew Alerting System (EICAS)
+Augmented Flight Crew
+Operations Manual (OM)
+FCOM
+Aircraft Technical Log

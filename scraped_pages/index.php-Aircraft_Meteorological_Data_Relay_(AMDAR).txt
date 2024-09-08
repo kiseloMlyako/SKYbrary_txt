@@ -1,0 +1,150 @@
+Aircraft Meteorological Data Relay (AMDAR)
+
+
+
+
+
+
+
+
+
+
+
+  Aircraft Meteorological Data Relay (AMDAR)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+The World Meteorological Organization (WMO), in cooperation with over 40 airlines globally, has established the Aircraft Meteorological DAta Relay (AMDAR) programme. AMDAR is an aircraft based meteorological observation system that uses data gathered, and transmitted, by aircraft in flight to supplement the data gathered by other meteorological instruments and to help improve the accuracy of forecasts. AMDAR collects and distributes the following meteorological data:
+
+High-resolution vertical profiles of air temperature, wind speed and direction at airports
+Regular reports of meteorological variables from airplanes en route at cruise level
+Accurate measurements of coordinates (time, latitude, longitude and pressure altitude)
+Measurements of turbulence
+Water vapour or humidity data (from some, suitably equipped aircraft)
+
+How AMDAR Works
+Through the use of a specially developed AMDAR avionics software package, AMDAR records the meteorological data measured by the aircraft’s existing sensors. That data is then automatically transmitted to the ground via a VHF (very high frequency) or satellite link using the aircraft’s communications systems (ACARS). When the airline receives the data, it forwards them to the National Meteorological Services where they are further processed, quality controlled and transmitted to users on the WMO Global Telecommunications System (GTS). The data collected is used for a range of meteorological applications, including, public weather forecasting, climate monitoring and prediction, early warning systems for weather hazards and, importantly, weather monitoring and prediction in support of the aviation industry.
+Data Acquisition Rate
+Observations are taken, and data is transmitted, from the time that the aircraft leaves the ground until the time that it lands. The frequency of observation can be configured within the AMDAR software. Typical observation profiles generally fall within the following parameters:
+Takeoff
+
+For the 90 seconds following the "OFF" time, the observations are typically taken at a 6 second interval
+
+Climb/Descent
+
+In the lower troposphere, observations are typically done at 10 hPa intervals or, if time based, at an interval ranging from 6 to 60 seconds
+In the upper troposphere, the observation rate is generally at 50 hPa intervals or at a time interval of between 20 and 60 seconds
+
+Cruise
+
+While in cruise, observations are taken based on a time interval ranging from about 3 to 7 minutes
+
+Benefits
+Weather is a major cause of air traffic delays around the world. A significant portion of these delays could be prevented or reduced by better weather information. The data acquired by the AMDAR programme can improve forecasting skill and increase the accuracy of Numerical Weather Prediction (computer based) systems. Users of these improved products can therefore achieve significant benefits by being able to:
+
+select the best flight altitude to optimize efficiency
+when facing severe weather, plan routes to reduce unplanned flight deviations
+avoid severe turbulence and weather
+reduce their carbon footprint by means of more efficient climb and descent profiles
+
+Related Articles
+
+Pilot Report (PIREP)
+
+Further Reading
+World Meteorological Organization
+
+The WMO AMDAR Observing System - Benefits to airlines and aviation
+The WMO AMDAR Website
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

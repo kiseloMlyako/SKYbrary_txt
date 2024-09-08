@@ -1,0 +1,123 @@
+Airport Mapping Database (AMDB)
+
+
+
+
+
+
+
+
+
+
+
+  Airport Mapping Database (AMDB)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+An AMDB is a Geographic Information System (GIS) database of an airport describing:
+
+the spatial layout of an airport;
+the geometry of features (e.g. runways, taxiways, buildings) described as points, lines and polygons;
+further information characterising the features and their functions which are stored as attributes (e.g. surface type, name/object identifier, runway slope).
+
+AMDB are used in a wide variety of applications but mostly in on-board applications such as Electronic Flight Bags (EFBs). These applications are intended primarily to improve the user’s situational awareness and/or to supplement surface navigation, thereby increasing safety margins and operational efficiency.
+Multiple user groups, such as pilots, controllers, aerodrome managers, aerodrome emergency/security personnel etc, can benefit from using AMDBs.
+Further Reading
+
+ICAO Annex 15 Chapter 11
+ICAO Annex 14 Chapter 2.1
+EUROCAE ED-99C (RTCA DO-272C) — User Requirements for Aerodrome Mapping Information
+EUROCAE ED-119B (RTCA DO-291B) — Interchange Standards for Terrain, Obstacle, and Aerodrome Mapping Data
+Eurocontrol AMDB website
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

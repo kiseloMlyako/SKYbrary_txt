@@ -1,0 +1,193 @@
+Basic Controller Techniques: Vectoring
+
+
+
+
+
+
+
+
+
+
+
+  Basic Controller Techniques: Vectoring
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Separation 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+This article describes the use of vectoring by air traffic controllers to manage the traffic flow and resolve conflicts. It is focused on the en-route phase and describes the general principles, typical uses and associated risks. The article also gives some advice about the practical use of the vectoring method. Note that the advice is based mostly on good practices and experience, and is in no way intended to replace or supersede local procedures and instructions.
+Definition
+Provision of navigational guidance to aircraft in the form of specific headings, based on the use of an ATS surveillance system.
+[ICAO Doc 4444]
+Description
+The goal of vectoring is to have the aircraft achieve and maintain the desired track. When an aircraft is given its initial vector diverting it from a previously assigned route, the pilot must be informed about:
+
+the reason for the deviation (e.g. due to traffic, for sequencing, etc.)
+the expected duration (e.g. for the next 5 minutes)
+
+General restrictions:
+
+Aircraft must not be vectored closer than a half of the separation minimum (i.e. closer than 2.5 NM if the separation minimum is 5 NM) from the limit of the airspace which the controller is responsible for, unless otherwise specified in local arrangements.
+Controlled flights are not to be vectored into uncontrolled airspace, except in the case of emergency or in order to circumnavigate adverse weather (in which case the pilot should be informed), or at the specific request of the pilot.
+When vectoring or giving a direct route to an IFR flight takes the aircraft off an ATS route, the clearance should take into account the prescribed obstacle clearance.
+
+After vectoring, the controller must instruct the pilot to resume own navigation, giving them the aircraft’s position if necessary.
+The 1 in 60 rule could be used for quick calculation of the necessary heading change.
+Phraseology
+
+Report heading - in case the heading cannot be determined by other means (e.g. Mode S)
+Continue present heading - this instruction is also called "locking"
+Fly heading [three digits] - the pilot is expected to turn in the direction that would achieve the desired heading faster.
+Turn (left/right) heading (three digits) - this instruction specifies both the new heading and the direction of the turn.
+Turn (left/right) (number of degrees) degrees - this instruction is similar to the previous, the difference being that the heading given is relative (to the present heading) rather than absolute.
+Resume own navigation direct (point) - after the goal of vectoring is complete, this instruction is used to get the aircraft join the flight planned route.
+
+Note: Heading instructions are usually given in multiples of five, e.g. 055, 100, 115, 235, 260, etc. Each digit is pronounced separately (e.g. 100 is "one zero zero" and not "one hundred").
+Typical Uses
+
+Flight Identification - while not common in e.g. European airspace, this is one of the few methods for identification available when only primary radar is used.
+Navigation assistance - if due to equipment malfunction other navigation means (e.g. GNSS, INS, RNAV) are not available vectoring remains an option. This can also be useful for strayed VFR flights if the pilot has lost orientation and in case of GNSS jamming or spoofing.
+Special use area (SUA) bypassing - if for whatever reason a flight is approaching a SUA (prohibited, restricted, danger, temporary segregated, etc.) and flying above or below it is not feasible then vectoring may be used to guide the aircraft around it.
+Heading locking - this is a method that is sometimes used in situations where there is enough separation between aircraft but it is slightly above the prescribed minima (e.g. 6 miles separation with 5 mile minimum). In such cases the controller may "lock" the headings of the two aircraft ("continue present heading"). This increases the flight crews' situational awareness and reduces the probability of unexpected turn. While this method may not lead to lateral deviation of the aircraft it falls within the definition of vectoring, as the controller requires the aircraft to fly a specific heading. It is also worth noting that a significant deviation from the flight planned trajectory is not impossible (e.g. if the instruction is given shortly before the airway makes a sharp turn).
+
+
+
+Conflict solving (opposite) - if a level change is not applicable for some reason (e.g. aircraft unable to climb, conflicting traffic at other levels, need for coordination with other sector, etc.) vectoring can be a very efficient way to solve the situation. A relatively small change of heading is often enough to achieve the desired separation.
+Conflict solving (crossing) - vectoring is a very effective method for solving crossing conflicts if a level change is not preferable and there is not enough time to perform speed control. In most cases, the aircraft that comes second to the intersection point of the two tracks is instructed to turn in the direction of the first one ("aiming for the other traffic"). This manoeuvre effectively puts the second (or slower) aircraft well beind the first (faster) one. After the crossing is complete, the vectored aircraft may be resumed to point that would compensate for the deviation and the extended flight path, thus gaining both safety and efficiency.
+
+
+
+Sequencing - often combined with speed control, vectoring is an effective method to achieve the desired distance before reaching the boundary with the next ATS sector or unit. The application is similar to the crossing scenario, the difference being that after the desired separation is achieved the aircraft being vectored remains behind the one that is ahead.
+
+
+Associated Risks
+
+Forgetting that an aircraft is being vectored. This has a negative impact on flight efficiency but may also "surprise" the next ATS sector or unit, especially if the airway makes a sharp turn at the transfer of control point and the aircraft does not.
+Miscalculation of wind impact (level flight). If a controller tries to sequence an aircraft after another one by vectoring but instructs it to turn so that the tailwind component increses, then the manoeuvre may have no effect (the tailwind will increase the aircraft's speed effectively reducing the expected benefit from vectoring).
+Miscalculation of wind impact (climbing and descending aircraft). Wind may be different at different levels. Even if the direction is somewhat the same, the windspeed can vary significantly. Consequently the headwind/tailwind/crosswind component will also vary and this may impact the desired result. For example, the drifting angle at different levels may be different if the windspeed (and therefore the crosswind component) increases with height. This may lead to parralel tracks becoming converging. A common mitigation for this is to assign a parallel or slightly diverging heading to the aircraft being vectored.
+Miscalculation of aircraft performance (climbing and descending aircraft). Generally, climbing aircraft increase their groundspeed and descending aircraft reduce it. The speed at cruising level can be twice that at e.g. FL 150. If this is not taken into account properly, the result may be loss of separation.
+
+Things to Consider
+
+Crossing point. In most cases vectoring is used to solve crossing conflicts. It is usually most efficient to turn the aircraft that would reach the crossing point later and in the direction of the other aircraft, i.e. if the conflicting traffic is to the left, then the turn should also be to the left. The manoeuvre effectively places the aircraft being vectored behind the other one. If for some reason the first aircraft needs to be vectored, this would require a much larger deviation.
+
+
+In this situation, the most efficient option for vectoring is to turn aircraft A to the right
+
+Closest Point of Approach (CPA) - this is the moment when the distance between the two aircraft reaches its minimum. It should be noted that in general, the separation between aircraft continues to reduce for some time even after the first aircraft to reach the crossing point has crossed the track of the second one. The difference between the separation when the first aircraft reaches the crossing point and the moment of CPA depends on the conflict geometry. For example, if the tracks cross at right angle and both aircraft fly at the same ground speed then the separation at the CPA will be about 70% of the separation at the crossing point. Therefore, if the conflict is measured at the crossing point (which is easier in case there is no tactical controller tool available), the controller needs to include a safety buffer to compensate for this separation reduction.
+
+
+After the first aircraft reaches the crossing point, the separation continues to drop until the moment of CPA.
+
+The sooner, the better. An instruction given well in advance will have (almost) no impact on flight efficiency while solving the situation safely. For example, even a 5 degree heading change would result in about 6 miles displacement to the left/right after 10 minutes. On the other hand, if the conflict is happening after 3-4 minutes, the deviation may need to be 20 degrees or even more in some situations.
+Wind direction and speed. Generally, it is advisable to take advantage of the wind e.g. by turning the second aircraft into the wind to reduce its speed. This may reduce the necessary time an aircraft has to fly on a heading and generally help in resolving the situation faster.
+Aircraft speeds. Vectoring the faster aircraft would result in more spacing after the same amount of time.
+Limitations, e.g. during weather avoidance vectoring may not be a feasible method for conflict solving.
+Track crossing angle. An acute crossing angle means a larger deviation would be necessary to reach the desired separation (compared to a right angle). Generally, the bigger the angle of crossing, the smaller the necessary vector (0 degrees meaning the same direction and 180 - opposite).
+Turn direction. If the instruction "turn left/right heading [ABC]" is used and the present heading is unknown then the manoeuvre performed may surprise the controller (e.g. if the heading is 360 then "Turn left heading 005" would result in the aircraft making an orbit instead of a small turn to the left).
+Misunderstanding. Sometimes it is possible for the flightcrew to confuse instructions like "Turn left 10 degrees" and "Turn left heading 010 degrees". Note that ICAO Doc 9432 states that the word "Degrees" may be omitted in relation to radar headings but it may as well be used.
+Caution should be exercised when vectoring VFR flights so that the aircraft does not inadvertently enter IMC or come in proximity with terrain.
+
+Related Articles
+
+ATC Clearance
+Vectoring Geometry
+Basic Controller Techniques: Vertical Speed
+Basic Controller Techniques: Speed Control
+Basic Controller Techniques - Level Change
+Basic Controller Techniques: Direct Routing
+Conflict Solving
+Tactical Controller Tool (TCT)
+Closest Point of Approach (CPA)
+ATC Clearance Error
+
+
+
+
+
+Categories
+
+
+Loss of Separation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

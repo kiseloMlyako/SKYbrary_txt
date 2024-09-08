@@ -1,0 +1,144 @@
+NTSB Safety Recommendations Report Arising from the Boeing 737 MAX-8 Fatal Accidents in 2018 and 2019
+
+
+
+
+
+
+
+
+
+
+
+  NTSB Safety Recommendations Report Arising from the Boeing 737 MAX-8 Fatal Accidents in 2018 and 2019
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Airworthiness 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On 19 September 2019, the NTSB issued a Safety Recommendations Report based on their preliminary assessment of the design-related context of the Indonesian and Ethiopian fatal accidents to Boeing 737 MAX-8 aircraft on 29 October 2018 and 10 March 2019 respectively. The title of this Report is "Assumptions Used in the Safety Assessment Process and the Effects of Multiple Alerts and Indications on Pilot Performance" and it is based on the information contained in the publicly released preliminary investigation reports on these accidents.
+The Report
+This NTSB Report notes that the 737 MAX 8 is a derivative of the 737-800 NG variant and that it is part of a similar three-part family, the 737 MAX 7, 8, and 9 all of which have CFM LEAP-1B engines, which have a larger fan diameter and a redesigned engine nacelle compared to 737 NG family engines, installed.
+The Report further notes that:
+
+Boeing testing and analysis during the preliminary design stage of the 737 MAX had shown that the LEAP-1B engine and its associated nacelles would produce a nose up pitching moment when the aircraft was operating at high AoA and Mid-range Mach numbers.
+This finding led to some aerodynamic changes and the addition of a “stability augmentation function," MCAS, to extend the existing speed trim system and reduce the identified pitch-up tendency.
+As the development of the 737 MAX progressed, the MCAS function was extended to low Mach numbers.
+As delivered, the MCAS would activate during manual flight when the flaps were fully retracted and the aircraft AoA as measured by either of the two AoA vanes exceeded a Mach number-based threshold.
+MCAS activation meant that automatic trim commands were generated to move the stabiliser in a nose-down direction until the AoA reduced below this threshold, at which point the MCAS would move the stabiliser in a nose-up direction and return it to its original position. These automatic stabiliser inputs could be stopped or reversed if the pilots used their control column stabiliser trim switches. However, if the stabiliser trim switches were used and the elevated angle of attack condition was still present, the MCAS would initiate another stabiliser nose-down input after five seconds.
+
+The FAA procedures for transport-category aircraft type certification were noted to require an aircraft manufacturer to demonstrate that its design complied with all applicable FAA regulations. This included demonstrating “through analysis, test, or both” that a design complied with applicable requirements CFR Part 25 within which parts 25.671 and 25.672 respectively address control systems in general and stability augmentation and automatic and power-operated systems specifically. In addition to this CFR Part 25.1322 contains requirements for flight crew alerting including a requirement that such alerts must: (1) provide the needed information to identify non-normal operation or aircraft system conditions and allow a crew to determine any appropriate action and (2) “be readily and easily detectable and intelligible by flight crew under all foreseeable operating conditions, including conditions where multiple alerts are provided”.
+The Report explains how the NTSB investigation into the way in which these requirements were satisfied had led to the FAA issuing a type certificate variation for the 737 MAX-8 and these findings led to the following Conclusion:
+The assumptions that Boeing used in its functional hazard assessment of uncommanded MCAS function for the 737 MAX did not adequately consider and account for the impact that multiple flight deck alerts and indications could have on pilots’ responses to the hazard.
+Seven corresponding Safety Recommendations were made as follows:
+
+that the Federal Aviation Administration require Boeing to (1) ensure that system safety assessments for the 737 MAX in which it assumed immediate and appropriate pilot corrective actions in response to uncommanded flight control inputs, from systems such as the Manoeuvring Characteristics Augmentation System, consider the effect of all possible flight deck alerts and indications on pilot recognition and response and (2) incorporate design enhancements (including flight deck alerts and indications), pilot procedures, and/or training requirements, where needed, to minimise the potential for and safety impact of pilot actions that are inconsistent with manufacturer assumptions. [A-19-10]
+that the Federal Aviation Administration require that for all other US type-certificated transport-category airplanes, manufacturers (1) ensure that system safety assessments for which they assumed immediate and appropriate pilot corrective actions in response to uncommanded flight control inputs consider the effect of all possible flight deck alerts and indications on pilot recognition and response and (2) incorporate design enhancements (including flight deck alerts and indications), pilot procedures, and/or training requirements, where needed, to minimise the potential for and safety impact of pilot actions that are inconsistent with manufacturer assumptions. [A-19-11]
+that the Federal Aviation Administration notify other international regulators that certify transport-category airplane type designs (for example, the European Union Aviation Safety Agency, Transport Canada, the National Civil Aviation Agency-Brazil, the Civil Aviation Administration of China, and the Russian Federal Air Transport Agency) of Recommendation A-19-11 and encourage them to evaluate its relevance to their processes and address any changes, if applicable. [A-19-12]
+that the Federal Aviation Administration develop robust tools and methods, with the input of industry and human factors experts, for use in validating assumptions about pilot recognition and response to safety-significant failure conditions as part of the design certification process. [A-19-13]
+that the Federal Aviation Administration, once the tools and methods have been developed as recommended in Recommendation A-19-13, revise existing Federal Aviation Administration (FAA) regulations and guidance to incorporate their use and documentation as part of the design certification process, including re-examining the validity of pilot recognition and response assumptions permitted in existing FAA guidance. [A-19-14]
+that the Federal Aviation Administration develop design standards, with the input of industry and human factors experts, for aircraft system diagnostic tools that improve the prioritisation and clarity of failure indications (direct and indirect) presented to pilots to improve the timeliness and effectiveness of their response. [A-19-15]
+That the Federal Aviation Administration, once the design standards have been developed as recommended in Recommendation A-19-15, require implementation of system diagnostic tools on transport-category aircraft to improve the timeliness and effectiveness of pilots’ response when multiple flight deck alerts and indications are present. [A-19-06]
+
+Related Articles
+
+The Joint Authorities Technical Review (JATR) - Boeing 737 MAX Flight Control System
+Maneuvering Characteristics Augmentation System (MCAS)
+Mach Number
+Certification of Aircraft, Design and Production
+B38M, en-route, northeast of Jakarta Indonesia, 2018
+B38M, en-route south east of Addis Ababa Ethiopia, 2019
+
+Further Reading
+
+Code of Federal Regulations Part 25 - Airworthiness Standards: Transport Category Airplanes, FAA
+
+
+
+
+
+Categories
+
+
+Airworthiness
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

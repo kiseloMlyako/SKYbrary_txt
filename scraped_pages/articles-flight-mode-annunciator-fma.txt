@@ -1,0 +1,132 @@
+Flight Mode Annunciator (FMA)
+
+
+
+
+
+
+
+
+
+
+
+  Flight Mode Annunciator (FMA)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Flight Technical 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+In integrated automatic flight systems for modern aircraft, a Flight Mode Annunciator (FMA) indicates the status of selected vertical and lateral flight modes, as well as thrust setting modes. 
+Description
+The Flight Mode Annunciator, usually located across the top of the Primary Flight Display (PFD), indicates the various flight modes that are armed or active. Most of these selections are normally made on the aircraft’s Guidance Panel. Training programs emphasize that pilots should not just press a button to make a selection; they should then check the FMA to ensure the system is functioning as intended. (In simple terms, pilots tell the aircraft what they want it to do by making selections on the Guidance Panel, and by other means such as the Go-Around buttons on the throttles. The aircraft tells the pilots what it’s doing, and what it’s about to do, by the symbols on the FMA.)
+FMA indications are color coded. For example, in most systems, an active status is displayed in green, while an armed status may be displayed in white or blue. More than one status can be displayed for a given mode. For example, if an aircraft is flying a given heading, with the autoflight system armed to intercept an Instrument Landing System (ILS) approach path, HDG will be displayed as an active lateral navigation mode. At the same time, LOC for localizer, will be displayed as an armed status. When the aircraft intercepts the inbound course, LOC will display in green. This indicates that the localizer has been captured. (The abbreviations and acronyms used for FMA indications can vary by manufacturer.)
+The lateral navigation modes indicated by the FMA can be based on a given heading, guidance from the aircraft’s Flight Management System (FMS), or guidance from ground-based radio navigation aids. As mentioned above, heading mode might be indicated by HDG, while guidance based on a localizer can be indicated by LOC. Guidance based on navigation from the FMS can be indicated by a symbol such as LNAV, meaning FMS-derived lateral navigation. Lateral guidance modes themselves can be color coded. For example, in some models, magenta indicates GPS-based navigation, while green indicates radio-based navigation such as a localizer course. Other lateral modes can also be indicated, such as ROLL, indicating a default wings-leveling mode used in the absence of navigational guidance.
+Vertical modes can include an indication such as ALT, meaning Altitude Hold (maintaining a set altitude in level flight). Climbing based on a set airspeed can be indicated by FLCH, meaning Flight Level Change. Climbing based on a given vertical speed, such as 1,000 feet per minute, can be indicated by VS, or Vertical Speed. If the aircraft has captured an ILS glideslope, GS will display as an active status. Other vertical modes can include an indication such as VPATH, when maintaining a constant descent through GPS waypoints. (This is normally used when an aircraft is cleared to “descend via” a given Standard Instrument Arrival. The crew sets the lowest altitude on the arrival in the Altitude Selector, and the system calculates a descent that respects any intermediate altitudes along the arrival.)
+The FMA also shows autothrottle thrust mode settings. For example, if a pilot chooses to descend at a given speed with idle power, the FMA may indicate SPDE, meaning “Speed on Elevator.” (This means the speed is regulated by the pitch angle of the aircraft.) Similarly, if a pilot chooses to descend at a given vertical speed (for example, 1,000 feet per minute), the FMA may indicate SPDT, meaning “Speed on Thrust.” (This means the speed is regulated by thrust setting.) Depending on the manufacturer, other autothrottle modes can include GA, for go-around thrust; RETD, for throttles in retard mode for touchdown; and OVRD, for manual override of the autothrottles by a pilot moving the thrust levers.
+
+
+
+
+Categories
+
+
+Flight Technical,
+              General
+
+
+
+
+
+
+
+
+
+Related Articles
+
+Autopilot
+Automatic Flight
+Autothrottle/Autothrust
+Area Navigation Systems
+Flight Management System 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

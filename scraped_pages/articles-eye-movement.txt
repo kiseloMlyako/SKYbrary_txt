@@ -1,0 +1,231 @@
+Eye Movement
+
+
+
+
+
+
+
+
+
+
+
+  Eye Movement
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+There at least three different methods of measuring eye-movement. The NAC Eye-mark recorder uses a head-mounted sensor with three CCD cameras, one recording the field of vision, and one recording the position of each eye. An IR beam is used to locate the axis of the eye and this is translated electronically to appear as a symbol superimposed on the visual image.
+Discussion
+The technology of eye movement measurement has been developing steadily for many years.
+Megaw, (1992) gives a concise summary of the nature of eye movement. Of the many methods he describes, only the corneal reflection and the pupil-centre corneal reflection methods are currently suitable for field use.
+Bouju and Sperandio (1979) studied the eye movements of approach controllers, using a NAC Mark IV eye-mark recorder, which presented a spot representing the point of gaze superimposed on a video-recording of the scene viewed. The equipment was mounted on a helmet, which had to be tightly strapped to the head. The facemask employed was designed for Japanese facial structures, and caused considerable discomfort to Caucasian noses. They analysed, manually, five minutes for each of ten controllers (five experienced, five trainees) for heavy and light traffic, making 100 minutes of analysis in all. They were able to show that some information was never looked at by the controllers, suggesting that it should not be permanently displayed. They also concluded that the strip information was necessary in the context.
+David (1985) compared a more recent model (NAC mark V) video system with direct and video-mediated observation, of Executive (and one planning) controllers. It was possible, from manual analysis of the eye-mark records, to determine the proportion of time spent looking at the radar, strip or tabular display, keyboard or elsewhere. It was not possible to identify which aircraft was being looked at. Transition diagrams showed that the controllers did not cycle between displays, but spent most of the time looking at the SDD. Manual observation (of glances at the radar) picked up about 85% of glances – those below 0.5 seconds being most frequently missed.
+Cabon et al (2000) compared two modern computer-based eye-tracking systems, a helmet mounted Sensorimotoric Instruments (SMI) system, and an ASL 504 remote system. Both require substantial calibration time, but can be worn for a complete exercise. The ASL equipment is, in principle, head-free, but uses a Polhemus head position sensor to assist the desk-mounted device to retain the relevant eye. The ASL system provided results in the form of X, Y co-ordinates relative to the SDD, while the SMI equipment provided X, Y co-ordinates relative to the recorded field of vision. The NOLDUS Observer data system was used to convert these manually to SDD based co-ordinates, but the ASL equipment was found easier to use, mainly because of the easier analysis. (EEG and EKG measures were carried out simultaneously with the eye-movement measurers, without any technical difficulty).
+Smolensky (1993) found that widely varying fixations and fast eye movement were associated with ‘poor situational awareness’ (loss of the picture).
+References
+
+
+
+
+Categories
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+Generics
+
+
+Type of method
+Eye observation
+
+
+Target of method
+Strain
+
+
+Strictly speaking, ‘Stress’ refers to the external factors influencing the controller, which are relatively easy to measure, while ‘Strain’ refers to the effects that the Stress causes on the controller.
+
+
+Time Scale of method
+Minutes
+
+
+Since blinking occurs at a relatively slow rate, a certain time is necessary for it to be possible to detect a change of blink rate.
+
+
+Portability of method
+No
+
+
+At present, blink rate is measured using eye movement or EEG equipment (see descriptions). These are rarely portable.
+
+
+Observer Effect
+No
+
+
+Although the controller is aware that he is being measured, particularly if he is obliged to wear a tightly fitting helmet, the movement of the eyes is not under conscious control.
+
+
+Context of studies
+
+
+Laboratory studies
+Use
+
+
+ 
+
+
+Simulation studies
+Avoid
+
+
+ 
+
+
+Field studies
+Avoid
+
+
+ 
+
+
+Potential problems with the method
+
+
+Failure risk
+Moderate
+
+
+Depending on the method, there may be a considerable risk of failure. Systems requiring remote head tracking may lose the position of the eye, and require manual steering back to track. EEG measures are always subject to a risk that electrodes will fall off.
+
+
+Bias risk
+Moderate
+
+
+Blinking is triggered not only by strain, but also by environmental factors, which may affect the drying of the cornea. In principle, this should not affect the use of blinking to assess differences between similar situations, but it is possible that slightly different experimental layouts might make a considerable difference to blink rates if sharp differences in luminance are involved.
+
+
+Ethical problems
+None
+
+
+ 
+
+
+Costs of the method
+
+
+Staff Cost
+High
+
+
+No available eye movement system or EEG can handle more than one controller under observation. At least one specially trained operator, and possible an additional technician, is needed.
+
+
+Set-up Cost
+High
+
+
+EEG and Eye-movement systems have prolonged installation and calibration phases. Usually, re-calibration is required before each exercise, and can take up to fifteen minutes.
+
+
+Running Cost
+High
+
+
+EEG and Eye movement studies require constant supervision, and may require interventions in the course of the exercise.
+
+
+Analysis Cost
+High
+
+
+At present blinks are counted by visual inspection of EEG or eye movement records. It is possible that modern eye-movement analysis methods may solve this.
+
+
+Analysis data
+
+
+Analysis Speed
+Slow
+
+
+Manual analysis is slow Automated eye-movement analysis, which can determine where the eye is pointing, may be able to count blinks, where the eye is not visible.
+
+
+Data Automation
+Used
+
+
+The collection of EEG and eye-movement data using electronic devices is inherently automated.
+
+
+Analysis Automation
+Used
+
+
+Most data analysis is more or less automated in the current circumstances. However, total automation is not yet practical.
+
+
+Status
+Tentative
+
+
+Tentative - under consideration, has not been tried in ATC contexts.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

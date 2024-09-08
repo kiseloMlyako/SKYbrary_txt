@@ -1,0 +1,138 @@
+Design Philosophy
+
+
+
+
+
+
+
+
+
+
+
+  Design Philosophy
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Design Philosophy 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Typically, designers responsible for safety-critical elements of aviation — e.g., airframe structures, engines, flight decks, instrumentation, and aircraft flight path automation — must refer to their company’s formal design philosophy and adhere strictly to its current principles and rules.
+This article cites, as an explanatory example, a design philosophy likely to be familiar to most aviation professionals: one geared to airframe designers who work for aircraft manufacturers. A technical paper by a Boeing subject matter expert — published in 2005 by the American Institute of Aeronautics and Astronautics (AIAA) — contains insights into how airframe designers work within a clearly established philosophy and well-defined criteria, while considering emerging technology and recognising newly evolving critical design parameters (see Reference).
+This overview contains a definition, conceptual scope, and basic elements (examples) that cover how the design philosophy guides or influences professional decisions and practices, in this case, by teams of aeronautical engineers.
+Manufacturers of safety-critical aviation products collect, preserve, and share lessons learned over time, continually updating goals, safety standards, procedures and practices. The resulting document set — the company’s design philosophy — includes detailed supplemental material tailored for specialist employee/contractor categories, such as airframe designers. Airframe designers access the latest information they need at various stages of their careers and for their daily assessments of safety, product performance, and costs.
+Conceptual Scope
+The AIAA paper said, “[Boeing] commercial airplane design philosophy has always been to deliver a safe airframe based on state-of-the-art understanding of the operating environment and structural behavior, Today, this [design] philosophy and associated criteria exist, and are essentially universally accepted, to govern current design practices.
+“The essential requirement for structural performance (weight control) has challenged design safety factors more than in any other branch of engineering. In turn, this demands the use of high-strength materials and relatively high design and operating stresses.”
+The design philosophy required robust, durable, damage tolerant, and corrosion-resistant structures — with the airframe designers operating within exacting constraints and essentially no margin for error.
+Basic Elements
+According to the AIAA paper, Boeing’s design philosophy set priorities and boundaries for its airframe designers as follows:
+
+The design philosophy guided airframe designers on enhancing safety, learning to efficiently employ design resources, intelligently adopting technology improvements and providing “user-friendly airplanes” to airline operators;
+The principal structural design requirements consisted of core elements with checklists and a roadmap guiding airframe designers to ensure that requirements at deeper levels of detail in the structures design requirements and criteria were met.
+Airframe structural designs simultaneously had to satisfy competing and disparate requirements through one optimum solution created by the design team. The design philosophy focused on maximum inherent safety; superior structural performance (i.e., optimal weight and durability); and delivery of airframes with minimum costs of production and a long-term ownership experience for the operator.
+Design philosophy also covered requirements of airframe fail safety (i.e., the ability to fly and land safely with significant structural damage). “Fail-safe designs provide inherent robustness in the event of damage from many possible sources, including fatigue cracking, corrosion, accidental damage, maintenance errors and discrete events such as engine bursts,” the paper said. “The main intent is the safe damage arrest and containment for a single high-load event when significant damage may exist. The premise is that the damage will be obvious in flight or readily detected by normal visual inspections on the ground following the event.”
+The design philosophy also prescribed fail-safe features such as alternate/intermediate/adjacent airframe structural members that pick up load from failed members; crack-arrest features; substantial boundary members such as heavy frames; material toughness and slow crack-growth characteristics; and low stress levels.
+The design philosophy required periodic application and revision of damage tolerance standards, including airframe-inspection intervals and methods. “In this way, it has become possible to relate detectable damage, damage growth and critical damage size to establish the proper inspection methods and frequency required to maintain safe operation up to and beyond the original design service objective,” the paper said. Widespread fatigue damage to airframes, to be avoided at all costs, was deemed one of the highest priorities industrywide and in Boeing’s design philosophy, according to the paper.
+
+Reference
+
+“History of Key Technologies: Evolution of Structures Design Philosophy and Criteria,” by Michael Mohaghegh, Journal of Aircraft, Vol. 42, No. 4, July–August 2005, American Institute of Aeronautics and Astronautics, Inc.
+
+Related Articles
+
+Cockpit Automation - Advantages and Safety Challenges
+Controller Position Design
+Recovery from Failure
+Working Environment
+Operational Use of Flight Path Management Systems
+
+
+
+
+
+Categories
+
+
+Design Philosophy,
+              Airworthiness
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

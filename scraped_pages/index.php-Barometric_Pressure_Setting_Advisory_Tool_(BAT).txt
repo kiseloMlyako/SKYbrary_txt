@@ -1,0 +1,211 @@
+Barometric Pressure Setting Advisory Tool (BAT)
+
+
+
+
+
+
+
+
+
+
+
+  Barometric Pressure Setting Advisory Tool (BAT)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Level Bust 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Barometric Pressure Setting Advisory Tool (BAT) is a tool developed by air navigation service provider (ANSP) UK NATS to identify significant QNH setting errors based on downlinked Mode S Barometric Pressure Setting (BPS) data.
+Objective
+The Barometric Pressure Setting Advisory Tool is designed to provide an advisory warning to London Terminal Control Approach controllers where there is a significant difference (greater than 6 hPa) from the prevailing London QNH. The BAT tool applies only to arriving aircraft once they are at or below the transition altitude and works with both multi-radar tracking (MRT) and a single radar information source.
+Background
+A study conducted by NATS of aircraft flying within the London TMA highlighted some operator anomalies in the setting of flight deck BPS. It found that an overwhelming majority of flight crews change altimeter settings in a timely manner in accordance with ICAO Procedures for Air Navigation Services - Aircraft Operations (PANS-OPS). The risk of level deviations caused by altimeter setting errors is highest when the atmospheric pressure is low and in the case of the London TMA was found to be increased when the QNH being used is less than 996 hPa.
+Technological Enablers
+Mode S Enhanced Surveillance (EHS) transponders can automatically provide particular flight management parameters to air traffic control systems which include a Mode S parameter known as Barometric Pressure Setting (BPS).
+Mode S BPS data is provided by a large proportion of flights in European terminal airspaces and the NATS study has shown this data to be of a very high integrity in the majority of cases. There are, however, some known problems with data supplied by some aircraft when above the transition altitude, which precludes its use by ATC. Nevertheless, although the provision of Mode S BPS is not mandated, NATS considers that the downlinked data is of sufficient integrity to be used by ATC for aircraft descending below the transition altitude and that this will contribute to the prevention of level busts by inbound aircraft.
+Barometric Pressure Setting Advisory Tool Description
+Operation
+The tool is designed to follow these principles of operation:
+
+The Mode S Selected Altitude (SFL) and the current level are compared to confirm that the arriving aircraft crew have set up their aircraft so that it will remain below the Transition Altitude.
+Mode S BPS is down-linked from aircraft. The BPS must be 6mb or more different to the London QNH and SFL data must be available
+Other criteria are applied to give flight crews the maximum amount of time to change altimeter settings without unduly risking a nuisance indication of a potential level bust.
+
+Current use of the tool is restricted to arrivals at Heathrow, Gatwick, London City Luton, Stansted, Northolt, Biggin Hill and Redhill
+The tool is not intended to provide:
+
+alerts on departing aircraft (apart from positioning flights that stay below the Transition Altitude) because of issues with incorrect data provided by some aircraft - the last selected QNH rather than standard pressure is downlinked when operating above the Transition Altitude.
+alerts above Transition Altitude (e.g. aircraft entering a terminal hold).
+an advisory to TMA controller positions.
+
+Visual Representation
+The BAT advisory comprises a two tone yellow pulse of the level field (as displayed below). The BAT advisory is not acknowledged and does not appear in the Vertical Stack List (VSL). STCA takes precedence over the BAT advisory and the actual BPS value downlinked is displayed in the Mode S Data window. In the radar image below, the Mode A code is displayed on line one of the track label and is usually converted to the aircraft callsign on the controller’s radar display. Line two contains the current level, the destination code and the selected altitude. The BPS advisory is shown on the target with the Mode A code of 7735, the level field will pulse yellow on the ATC display. The Mode S data window shows the actual BPS being down-linked.
+
+Visual representation of the BAT
+Procedures
+Responsibilities for use of the tool
+
+the nature of controller response to a BAT advisory is not mandated, although any response which may enable the early identification of possible level busts is encouraged.
+The use of BAT is not a substitute for RT read-back, which remains a mandatory controller task.
+Where a BAT advisory indicates a variation from the QNH provided by ATC, controllers must not state the incorrect QNH value which can be observed in the Mode S Data Window on the radar display.
+Controllers are required to complete a formal safety report for any BAT advisory / resolution where safety may have been compromised but place details of other BAT use in a "comments folder".
+
+Phraseology
+Where controllers choose to query the discrepancy, the phraseology to be used is:
+“(Callsign), Check Altimeter Setting, QNH xxx” - where xxx is the local QNH being utilised
+Notwithstanding the above, if an aircraft is in conflict with another, the priority is to resolve the confliction. If appropriate, avoiding action should be issued prior to confirming the correct QNH. Where sufficient time exists, the use of the following phraseology may be used to query the altimeter setting used by the aircrew:
+“(Callsign) Report QNH”
+This will enable flight crew to check selected pressure setting, irrespective of any BAT Advisory or QNH data displayed in the Mode S Data Window.
+Specifics
+
+An issue has been found with "very low" provision of BPS data from a specific aircraft type.
+It is possible that after a flight crew has been challenged, the BAT advisory persists - ATC is not expected to repeat the challenge.
+If an emergency code selected (e.g. 7500) is selected on the aircraft transponder, the Track Data Block flashes whereas associated BAT advisory will pulse.
+if an STCA alert activates and clears a related BAT advisory, acknowledgement of it or its cessation will lead to the immediate resumption of the BAT advisory.
+The system will support positioning flights below Transition Altitude as long as they are within the check area and are assigned the correct destination code.
+
+Safety Impact of BPS Monitoring
+The UK CAA and UK NATS wish to highlight the positive safety impact that the downlinking of BPS can have on the prevention of Level Busts. Operators are to encouraged to ensure that their flight crews know that the down linked BPS will be automatically monitored for London TMA arrivals cleared to descend below Transition Altitude and that where the ground system indicates that the down linked BPS is outside a specified range, ATC may issue the correct QNH on more than one occasion as a reminder. When ATC pass a reminder of the QNH, it is expected that altimeter settings will be checked.
+Accidents and Incidents
+Events in which the incorrect altimeter pressure setting was either a cause or contributing factor in a Level Bust or CFIT/near CFIT:
+
+
+CRJX, Nantes France, 2021On 20 October 2021, the flight crew of a Bombardier CRJ1000 making a LNAV/VNAV approach at Nantes using Baro-VNAV minima read back an incorrect QNH which was not noticed by the controller. The crew then flew the approach approximately 530 feet below the procedure vertical profile which led to the MSAW system being activated and advised to the flight. The crew response was delayed until the controller had twice repeated the correct QNH after which the error was recognised and the vertical profile corrected. The investigation noted that neither the operator’s procedures nor aircraft instruments allowed straightforward crew detection of their error.
+
+GLF5, vicinity Paris Le Bourget France, 2017On 10 September 2017, the First Officer of a Gulfstream G550 making an offset non-precision approach to Paris Le Bourget failed to make a correct visual transition and after both crew were initially slow to recognise the error, an unsuccessful attempt at a low-level corrective realignment followed. This had not been completed when the auto throttle set the thrust to idle at 50 feet whilst a turn was being made over the runway ahead of the displaced threshold and one wing was in collision with runway edge lighting. The landing attempt was rejected and the Captain took over the go-around.
+
+A320, vicinity Paris CDG France, 2022On 23 May 2022, an Airbus A320 came within six feet of the ground without crew awareness during a go around from a RNP BaroVNAV approach after failing to obtain visual reference. The descent below minimum altitude followed use of an incorrect QNH passed by ATC but not identified as such. The lack of an EGPWS warning was due to the non-current EGPWS version for which upgrading had not been mandated. It was concluded that the regulatory intention in Europe to transition from ILS to RNP approaches had not led to any recognition of the potential impact on operational safety.
+
+B78X, vicinity Abu Dhabi UAE, 2020On 6 June 2020, a Boeing 787-10 on approach at Abu Dhabi began a low go around from an RNAV(RNP) approach when it became obvious to the crew that the aircraft was far lower than it should have been but were unaware why this occurred until an ATC query led them to recognise that the wrong QNH had been set with recognition of the excessively low altitude delayed by haze limiting the PAPI range. The Investigation found that advice of MSAW activations which would have enabled the flight crew to recognise their error were not advised to them.
+
+BE20/SF34, vicinity Stornoway UK, 2011On 31 December 2011 a USAF C12 Beech King Air descended 700 feet below the cleared outbound altitude on a procedural non precision approach to Stornoway in uncontrolled airspace in IMC and also failed to fly the procedure correctly. As a result it came into conflict with a Saab 340 inbound on the same procedure. The Investigation found that the C12 crew had interpreted the QNH given by ATC as 990 hPa as 29.90 inches, the subscale setting units used in the USA. The Saab 340 pilot saw the opposite direction traffic on TCAS and descended early to increase separation.
+
+B733, vicinity Kosrae Micronesia, 2015On 12 June 2015, a Boeing 737-300 crew forgot to set QNH before commencing a night non-precision approach to Kosrae which was then flown using an over-reading altimeter. EGPWS Alerts occurred due to this mis-setting but were initially assessed as false. The third of these occurred when the eventual go-around was initially misflown and descent to within 200 feet of the sea occurred before climbing. The Investigation noted failure to action the approach checklist, the absence of ATC support and the step-down profile promulgated for the NDB/DME procedure flown as well as the potential effect of fatigue on the Captain.
+
+H25B, vicinity Kerry Ireland, 2015On 16 June 2015, the crew of a US-operated HS125 on a commercial air transport flight failed to continue climbing as cleared to FL200 after take off from Kerry for a transatlantic flight and instead levelled at 2000 feet on track towards higher terrain. Prompt ATC recognition of the situation and intervention to direct an immediate climb resolved the imminent CFIT risk. The Investigation found that the two pilots involved had, despite correct readback, interpreted their clearance to flight level two hundred as being to two thousand feet and then failed to seek clarification from ATC when they became confused.
+
+B733, vicinity Helsinki Finland, 2008On 26 March 2008, a Ukraine International Airlines Boeing 737-300 being vectored by ATC to the ILS at destination Helsinki in IMC descended below its cleared altitude and came close to a telecommunications mast. ATC noticed the deviation and instructed a climb. The investigation attributed the non-compliance with the accepted descent clearance to the failure of the flight crew to operate in accordance with SOPs. It was also noted that the way in which ATC safety systems were installed and configured at the time of the occurrence had precluded earlier ATC awareness of the hazard caused by the altitude deviation.
+
+AT45, vicinity Sienajoki Finland, 2007On 1 January 2007, the crew of a ATR 42-500 carried out successive night approaches into Seinajoki Finland including three with EGPWS warnings, one near stall, and one near loss of control, all attributed to poor flight crew performance including use of the wrong barometric sub scale setting.
+
+LJ35, vicinity Masset BC Canada, 1995On 11 January 1995, a Learjet 35 on a medical positioning flight and carrying a medical team crashed into the sea while conducting an NDB approach to Masset, British Columbia, Canada. The most probable cause was considered to be a miss-set altimeter.
+
+MD11, vicinity East Midlands UK, 2005On 3 December 2005, the crew of a MD-11 freighter failed to set the (very low) QNH for a night approach, due to distraction, and as a result descended well below the cleared altitude given by ATC for the intercept heading for the ILS at Nottingham East Midlands airport, UK.
+
+A310, vicinity Birmingham UK, 2006On 24 November 2006, an A310 descended significantly below cleared altitude during a radar vectored approach positioning, as a result of the flight crew's failure to set the QNH, which was unusually low.
+
+
+
+
+Related Articles
+
+Level Bust in Holding Patterns
+Transition Altitude/Level
+Altimeter Pressure Setting
+Altimeter Setting Procedures
+Minimum Sector Altitude (MSA)
+Use of Selected Altitude by ATC
+
+Further Reading
+HindSight
+
+Vertical Stack List
+
+UK NATS
+
+NATS Report: The viability and Safety Benefits of using the Mode-S Barometric Pressure Setting
+
+EUROCONTROL
+
+Mode S - Concept of Operations
+
+
+
+
+
+Categories
+
+
+Level Bust
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

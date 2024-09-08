@@ -1,0 +1,175 @@
+Flight Path Monitoring
+
+
+
+
+
+
+
+
+
+
+
+  Flight Path Monitoring
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Controlled Flight Into Terrain 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Flight path monitoring means the observation and interpretation of the flight path data, aircraft-configuration status, automation modes and on-board systems appropriate to the phase of flight. It involves a cognitive comparison of real-time data against the expected values, modes and procedures. It also includes observation of the other pilot and timely intervention in the event of a deviation.
+This definition covers anytime the aircraft is in motion, including during taxi. It also includes continuous awareness of both the trajectory and energy state of the aircraft.
+Description
+Monitoring covers an extensive behavioural skill set that all pilots are expected to apply in the cockpit. The designated Pilot Flying (PF) is responsible for flying the aircraft in accordance with the operational brief and for monitoring the flight path. The Pilot Monitoring (PM) will have an explicit set of activities designated by the Standard Operating Procedures (SOPs) , and as such will have a specific and primary role to monitor the aircraft’s flight path, communications and the activities of the PF. Both pilots are responsible for maintaining their own situation awareness gained through cross-checking each other’s actions, communication of intent and diligent observation of the PF selections, mode activations and aircraft responses. Predictive monitoring supports anticipation of expected threats and the mitigation of consequences. Reactive monitoring enables the identification of unexpected/pop-up threats and mitigation of consequences; the detection and correction of errors; and the recognition of and recovery from undesired aircraft states.
+Techniques
+The cognitive processes engaged during monitoring are complex and involve the selective application of mental resources to encode the sensory inputs whilst performing a goal directed task. The senses relating to flight path monitoring are mainly visual and auditory, but tactile inputs from the flight controls (e.g. stick shaker, aeroplane buffet, etc.) can influence the monitoring task particularly in the event of a stall. Similarly, the smell and taste senses can alert the flight crew to fumes in the cockpit and therefore also perform a monitoring stimulus. Intent also forms an important part of monitoring and provides a baseline against which to monitor. Intent relates to system behaviour (what it is going to do), aircraft handling (predicted flight path/aircraft manoeuvrability) and Pilot Flying’s intent (the plan). Timely, accurate monitoring activities will result in outputs that, following crew judgement and decision making, can take the form of:
+
+Verbalization to other pilot or self;
+Non-verbal communication in the form of gesture/eye contact;
+Note-taking in the case of auditory monitoring;
+Reinforcement of collective situation awareness; and,
+Maintenance of the mental model of the aircraft state.
+
+Regarding physical ergonomics, pilots must be able to see and hear all information relevant to their monitoring tasks. Their seat positions must be adjusted to the design eye position to enable each pilot to view the internal displays and controls whilst maintaining an adequate view of the external scene. The optimal seat position is usually set by reference to two small balls on the central windscreen pillar. The balls appear aligned only when the pilot’s eye is at the design position.
+Vision is a very complex subject and involves the ability of the eye to adapt to different lighting levels (called adaptation), focus on the information (normally referred to as accommodation) and to perceive information, such as texts and graphics, as legible at the required viewing distance (called visual acuity). Adaption, accommodation and acuity all vary with, and are affected by, age. Pilots need to be aware if they are experiencing any difficulty with focus, adaption or legibility of the displayed information as this will certainly compromise the monitoring task. Medical professionals will be able to advise on correction or treatment if necessary.
+Hearing can be impaired by accumulation of wax in the outer ear (which is easily remedied), a head cold which blocks the Eustachian tube and prevents equalization of pressure or by infections in the middle ear. Hearing can be expected to deteriorate with age particularly with the higher frequencies. In addition, high ambient noise environment or distractions/interruptions in the cockpit can impact the clarity of aural messages. Under all circumstances, if there is any ambiguity related to information received aurally then ask for it to be repeated.
+Barriers to Monitoring
+Many factors hamper monitoring, including system and ergonomic design, organisational factors and external environment. But the biggest concern relates to human vulnerabilities, such as complacency/inattention, distraction, low attentional resource, low arousal, disorientation, tiredness etc, and stressors (i.e., workload, etc.). These concerns arise from some relatively recent accidents and incidents.
+Safety experts emphasize that it can be difficult for humans to effectively monitor for errors and deviations on a continuous basis when errors and deviations rarely occur, particularly in a highly automated environment. This holds true over the range of workload conditions experienced by the flight crew members. Monitoring during high-workload periods is critical because these periods present situations in rapid flux and because high workload increases vulnerability to error. However, studies show that poor monitoring performance can be present during low-workload periods as well. Lapses in monitoring performance during lower-workload periods are often associated with boredom, complacency, or both.
+Potential challenges and barriers to effective monitoring include:
+
+Time Pressure – Time pressure can exacerbate high workload and increase errors. It can also lead to rushing and “looking without seeing."
+Lack of Feedback – When monitoring lapses occur, pilots are often unaware that monitoring performance has degraded.
+Design of SOPs – Procedures may fail to explicitly address monitoring tasks.
+Automation – Pilots’ inadequate mental model of autoflight system modes. Pilots may not have a complete or accurate understanding of all functions and behaviours of the autoflight system. Some aspects of automated systems for flightpath management are not well matched to human information processing characteristics.
+Training – Training may overlook the importance of monitoring and how to do it effectively. Lack of emphasis on monitoring may occur in training and evaluation.
+
+Solutions
+While different types and levels of pilot training may involve pilots with differing levels of competence, the training of flight path monitoring should include uniform objectives and standards. Therefore, because the same monitoring concepts apply to all pilots, course content should not differentiate between different types of training courses. A graduated approach should be taken in developing an integrated pilot monitoring training program. It should start with solid grounding in theoretical knowledge, followed by instructor-led case studies. This should include videos and finally line-oriented flight training (LOFT), progressively building on each layer of content:
+
+Knowledge – Without proper knowledge of systems and automation, the flight crew will not be able to understand nor predict the aircraft’s behaviour.
+Skill – Without the necessary skills to operate the aircraft effectively, a flight crew will be overwhelmed by the flight path monitoring tasks.
+Discipline – Discipline is a foundation for monitoring. Adherence to division of duties is essential for managing workload.
+Attitude – Developing the right attitude often is the most important aspect of a training program.
+
+Monitoring requires motivation and discipline and must be a continuous effort. The primary aim for flight crew members should be to effectively monitor the flight path, but first, flight crews must be well-trained in flying skills, discipline and behaviours . Without these, effective monitoring may not be possible.
+Accidents & Incidents
+
+
+A320, Copenhagen Denmark, 2022On 8 April 2022, an Airbus A320 made a multiple bounce touchdown at Copenhagen followed by thrust reverser deployment. The Captain rejected the landing and began a go-around but as the left main gear had bounced and was not on the ground when thrust was set, the left engine reverser did not stow. Full aircraft control was briefly lost and a runway excursion narrowly avoided before a recovery to a single engine MAYDAY circuit and landing followed. Engine software design prevented thrust reverser stowage without weight on wheels which was why rejected landings after reverser deployment were prohibited.
+
+B39M, Pittsburgh USA, 2022On 21 June 2022, a Boeing 737-9 cleared for a visual approach and landing on runway 28C at Pittsburgh landed on the adjacent runway 28L instead. The controller stated that having become aware that the aircraft was lined up with the wrong runway in the absence of any potential hazards, he had decided not to intervene. The crew said that a transient avionics fault on final approach had reduced their opportunity to ensure correct runway alignment but this fault was found to have cleared much earlier. It was noted that runway 28L had sequenced approach lighting whereas 28C had none.
+
+CL60, London Stansted UK, 2022On 31 January 2022, a Bombardier Challenger 604 pilot lost control during the final stages of a London Stansted night crosswind landing. A bounced nose-gear-first touchdown was followed by a brief runway excursion onto grass before a return to the runway and a climb away. A diversion to London Gatwick followed without further event but subsequent inspection revealed structural and other damage sufficient to result in the aircraft being declared an economic hull loss. The Stansted touchdown was found to have occurred after a premature flare at idle thrust continued towards the stall and a momentary stick pusher activation occurred.
+
+DH8D, Belagavi India, 2021On 24 October 2021, a Bombardier DHC8-400 inbound to Belagavi initially advised to expect a non-precision approach to runway 08 was subsequently cleared for an equivalent approach to runway 26. An approach to runway 08 was then flown without ATC intervention or pilot error recognition, but with no actual consequences. The error was attributed to pilot expectation bias and distraction and controller failure to order a go-around after eventually realising what was happening. The context that had facilitated the errors was considered to be procedure and performance inadequacy at both the aircraft operator and ATC.
+
+B752, Tulsa USA, 2022On 8 June 2022, a Boeing 757-200 making a night visual approach to Tulsa inadvertently landed on runway 18R instead of 18L as briefed and cleared. ATC did not intervene. Neither pilot recognized the error until the captain realized there was less runway ahead than he had expected. He had planned to "roll long," expecting a the turnoff at the end of the much longer runway 18L. Although both pilots reported not being fatigued, it was concluded that lack of recognition of their error suggested otherwise, and probably facilitated plan continuation bias aided by inability to efficiently integrate available information.
+
+
+...further results
+
+
+Related Articles
+
+Monitoring_Skills_(OGHFA_BN)
+Cross-checking_Process
+Cockpit Automation - Advantages and Safety Challenges
+
+Further Reading
+
+Managing Automation or Managing Aircraft Flight Path: How Does Operational Policy Need to Evolve? by Kathy Abbott, Ph.D., FAA, presentation to FSF International Air Safety Summit (IASS), November 3, 2015.
+A Practical Guide for Improving Flight Path Monitoring: Final Report of the Active Pilot Monitoring Working Group, Flight Safety Foundation (FSF), November 2014.
+Monitoring Matters: Guidance on the Development of Pilot Monitoring Skills, by U.K. Civil Aviation Authority (CAA) Loss of Control Action Group, CAA Paper 2013/02, April 2013.
+Out of Bounds: NTSB delves into theories of why airline pilots and air traffic controllers strayed from professional behavior by Wayne Rosenkrans, FSF AeroSafety World, July 12, 2010.
+Hard Landing Results in Destruction of Freighter: Inadequate crosswind-landing technique by the pilot flying and inadequate monitoring by the pilot not flying were cited in the collapse of the Boeing MD-10’s right main landing gear on touchdown, FSF Accident Prevention, September 2005.
+Flight Crew Reliance on Automation by Simon Wood, Cranfield University, U.K. Civil Aviation Authority, CAA Paper 2004/10, 2004.
+
+
+
+
+
+Categories
+
+
+Controlled Flight Into Terrain
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

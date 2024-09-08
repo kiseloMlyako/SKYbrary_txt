@@ -1,0 +1,166 @@
+Aircraft Mode S Transponders - Incorrect and Missing Data - EASA Safety Information Bulletins
+
+
+
+
+
+
+
+
+
+
+
+  Aircraft Mode S Transponders - Incorrect and Missing Data - EASA Safety Information Bulletins
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Warning Message
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Synopsis
+Accurate and reliable surveillance information and aircraft flight data, transmitted by Mode S transponders when an aircraft is in flight and on the ground, is crucial for the safe and expeditious operation of today’s air traffic management environment.
+Incorrect or missing data, whether caused by transponders or transponder systems non -compliance with required Service Bulletins (SB), installation deficiencies, poor and/or incorrect maintenance practices, individual equipment malfunctions, or human input error may prevent aircraft from being presented on air traffic controller surveillance displays and Airborne Collision Avoidance Systems (ACAS II) equipment, and result in potentially hazardous situations arising.
+The Airborne Monitoring Project (AMP) coordinated by EUROCONTROL has identified a number of safety issues and events related to the operation of Mode S transponders. Consequently, EASA has recently issued the following Safety Information Bulletins (SIBs):
+
+EASA SIB 2011-13 (issued 04 July 2011) - Mode S Transponder – Loss of Detection (Complete or Intermittent) of Aircraft by Mode S Interrogators.
+EASA SIB 2011-14 (issued 04 July 2011) - Mode S Transponder – Incorrect Setting of ICAO 24-Bit Aircraft Address.
+EASA SIB 2011-15 (issued 04 July 2011) - Mode S Transponder: Ground Testing.
+EASA SIB 2011-20 (issued 15 July 2011) - Rockwell Collins TPR 901 Mode S Transponder - Incorrect ’Downlink Aircraft Identification’ and Incorrect Operation with Airport Ground Tracking Systems.
+
+Purpose
+The purpose of this Safety Warning Message is to further publicise these SIBs and highlight the associated operational safety-related issues.
+Issues Arising
+Specific issues that can arise due to incorrect, corrupt or missing Mode S data include:
+
+Non-detection of aircraft by Air Traffic Control Radar Systems and ACAS II:
+
+An aircraft with a faulty Mode S transponder, which does not respond correctly to Mode S interrogations, can cause the aircraft not to be visible to air traffic controllers on their radar displays and seriously degrade or even disable ACAS II systems.
+An aircraft address acquired from other than the appropriate State of Registry or common mark registering authority, or an organisation approved by such authority, is not legitimate and can also cause the aircraft not to be visible to air traffic controllers on their radar displays and seriously degrade or even disable ACAS II systems.
+
+Note: The provision of air traffic services using SSR Mode S relies wholly upon a unique ICAO 24-bit aircraft address for selective interrogation of individual aircraft and at any one time, the same address shall not be assigned to more than one aircraft. The unique 24-bit aircraft address is also an essential element of ACAS II.
+
+Increased controller and flight crew workload:
+
+Transponders or transponder systems that are non-compliant with the necessary SBs can downlink incorrect or corrupt data for aircraft identification purposes, which can cause an increase in workload for controllers and flight crew.
+
+
+
+Recommended Actions for Aircraft Operators
+
+If you become aware of, or are notified by your national Aviation Authority (NAA), or an air navigation service provider (ANSP) of, a transponder deficiency affecting your aircraft, initiate unscheduled maintenance action to arrange for any deficiencies to be corrected, at the earliest opportunity.
+If you become aware, or are notified by your NAA, or an ANSP, that your aircraft has an incorrect ICAO 24-bit aircraft address, take action at the earliest opportunity to ensure that the address, as assigned to your aircraft by the State of Registry or common mark registering authority, is set correctly and tested for operation in the approved manner.
+Follow the guidance for testing of transponders found in the Appendices of the EASA SIBs 2011-13, 2011-14 and 2011-15.
+Check with your maintenance department or maintenance agent to confirm that the required Service Bulletins (SBs) relating to your transponder model have been complied with correctly and tested.
+Check with your maintenance department or maintenance agent that those EASA Airworthiness Directives (ADs) and SIBs that are applicable for the operation of your aircraft and transponders have been complied with.
+
+Further Reading
+The EASA website should be consulted for the latest SIBs and ADs lists.
+The SIBs referred to previously are at this webpage.
+Moreover, the following EASA ADs are currently active and specify corrective actions for known Mode S transponder issues:
+
+EASA AD 2011-0043 (issued 16 March 2011) – Certain Gables ATC/TCAS transponder control panels – possible loss of detection (failure of transmissions due to loose connections) by ATC radar systems and aircraft ACAS II equipment.
+EASA AD 2010-0204 (issued 6 October 2010, corrected 7 June 2011) - Certain Rockwell Collins TDR-94 and TDR-94D Mode S transponders; transmission of incorrect Selected Altitude data.
+EASA AD 2010-0173R1 (issued 30 September 2010) - Certain Rockwell Collins TDR-94 and TDR-94D Mode S transponders; transmission of incorrect Selected Altitude data.
+EASA AD 2010-0067 (issued 12 April 2010) – Certain Rockwell Collins TDR-94 and TDR-94D Mode S transponders; wrong connection to aircraft Weight-On-Wheels system; could result in degradation to ATC functions in tower, approach and en-route sectors.
+EASA AD 2010-0003R1 (issued 11 January 2010) – Certain Rockwell Collins TDR-94 and TDR-94D Mode S transponders; wrong connection to aircraft Weight-On-Wheels system; could result in total non-detection by ATC radar systems and aircraft ACAS II equipment.
+EASA AD 2008-0158R2 (issued 12 November 2008) – Funkwerk TRT600 Mode S transponders; loss of detection by ATC radar systems and aircraft ACAS II equipment.
+EASA AD 2008-0183 (issued 12 November 2008) – Funkwerk TRT800A & TRT800H Mode S transponders; loss of detection by ATC radar systems and aircraft ACAS II equipment.
+EASA AD 2008-0159 (issued 25 August 2008) – Honeywell MST-67A Mode S transponders; incorrect transmission of transponder capability.
+EASA AD 2007-0156 (issued 31 May corrected 14 June) – Honeywell Comms Units and Mode S transponders; a design deficiency causes the transponder to revert to standby mode if a change of the 4096 ATC code (also referred to as the Mode A code) is not completed within 5 seconds.
+EASA AD 2006-0269 (issued 4 September 2006) – Honeywell MST-67A Mode S transponders; possible loss of detection by ATC radar systems and aircraft ACAS II equipment.
+
+Related Articles
+
+Mode S
+Operation without a Transponder or with a Dysfunctional Transponder
+Transponder failure types
+Impact of transponder failure on safety barriers
+
+Disclaimer
+© European Organisation for Safety of Air Navigation (EUROCONTROL) August 2011. This alert is published by EUROCONTROL for information purposes. It may be copied in whole or in part, provided that EUROCONTROL is mentioned as the source and to the extent justified by the non-commercial use (not for sale). The information in this document may not be modified without prior written permission from EUROCONTROL. The use of the document is at the user’s sole risk and responsibility. EUROCONTROL expressly disclaim any and all warranties with respect to any content within the alert, express or implied.
+
+
+
+
+Categories
+
+
+Safety Warning Message
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,178 @@
+Level Bust - ATCO-Induced Situations
+
+
+
+
+
+
+
+
+
+
+
+  Level Bust - ATCO-Induced Situations
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Level Bust 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Actual or potential loss of separation sometimes occurs because an air traffic control (ATC) instruction is difficult or impossible to comply with in time, or is incorrect or inappropriate (e.g. the air traffic controller (ATCO) instructs the pilot to level at an altitude which creates a potential confliction). Strictly speaking, such an occurrence is not a Level Bust because the pilot does not fail to follow a received clearance. However, because the effect is the same, these situations are considered below for completeness.
+Contributory Factors
+The following contributing factors have often been cited in level bust attributed to ATM or ATC instructions or services :
+
+Callsign confusion;
+The ATCO is interrupted or distracted and does not take action in time to rectify an impending loss of separation;
+The ATCO assigns an incorrect altitude, or reassigns a FL after the aircraft has been cleared to an altitude;
+The ATCO's instructions are misunderstood because of inadequate English proficiency, or use of standard phraseology, or speed of transmission;
+The altitude clearance is passed late and re-clearance is not achievable without overshoot or undershoot;
+The ATCO issues an instruction for an altitude restriction when the aircraft is above the transition altitude (i.e., with altimeters set to standard pressure setting);
+The ATCO issues a complex transmission containing more than two instructions (e.g., speed, altitude and heading).
+
+More broadly, contributor factors include:
+
+ATCO work-load;
+Interruption/distraction;
+Airspace Procedure/Design;
+ATC Sector Definition.
+
+Typical Scenarios
+Situations sometimes occur in which instructions given by the ATCO are difficult or even impossible to follow without a deviation occurring. The following are some typical scenarios:
+
+Scenario 1. The ATCO issues a clearance to climb or descend to a specified flight level and the pilot follows this clearance. Subsequently, the ATCO instructs the pilot to level at an intermediate flight level but at the time of this re-clearance the flight has passed the re-cleared flight level.
+
+
+ 
+
+Scenario 2. The flight is cleared to climb from below the transition altitude to a flight level above it. The pilot sets standard pressure setting and commences the climb. The ATCO re-clears the flight to level at an altitude below the transition altitude. The pilot levels at the re-cleared level, but with the standard pressure setting still set.
+
+
+ 
+
+Scenario 3. The flight is cleared to descend from above the transition level to an altitude that is below it. The pilot sets QNH and commences the descent. The ATCO re-clears the flight to a flight level above the transition level. The pilot levels at the re-cleared level but with QNH still set.
+
+
+
+Scenario 4. The ATCO issues an instruction to descend (usually) or climb (less often) by e.g. 2000 or 3000 feet at a rate which is too high to be maintained during the entire movement (e.g. 2000 ft/min or more). This could be because the controller needs the aircraft to quickly pass through the level of another aircraft. The pilot would likely not be able to comply with both requirements (maintain high vertical speed and then level off at the cleared level without making a level bust). Therefore, likely outcomes of such an instruction are a level bust (if the pilot complies with the instruction but is unable to level off) or a loss of separation (if the pilot levels off but does not comply with the assigned vertical speed).
+
+A&I Examples
+
+
+A320, vicinity Oslo Norway, 2008On 19 December 2008, an Aeroflot Airbus A320 descended significantly below its cleared and acknowledged altitude after the crew lost situational awareness at night whilst attempting to establish on the ILS at Oslo from an extreme intercept track after a late runway change and an unchallenged incorrect readback. The Investigation concluded that the response to the EGPWS warning which resulted had been “late and slow” but that the risk of CFIT was “present but not imminent”. The context for the event was considered to have been poor communications between ATC and the aircraft in respect of changes of landing runway.
+
+E145, en route, north east of Madrid Spain, 2011On 4 August 2011, a Luxair Embraer 145 flying a STAR into Madrid incorrectly read back a descent clearance to altitude 10,000 feet as being to 5,000 feet and the error was not detected by the controller. The aircraft was transferred to the next sector where the controller failed to notice that the incorrect clearance had been repeated. Shortly afterwards, the aircraft received an EGPWS "PULL UP" Warning and responded to it with no injury to the 47 occupants during the manoeuvre. The Investigation noted that an MSAW system was installed in the ACC concerned but was not active.
+
+B738/A319 en-route, south east of Zurich Switzerland, 2013On 12 April 2013, a Ryanair Boeing 737-800 took a climb clearance intended for another Ryanair aircraft on the same frequency. The aircraft for which the clearance was intended did not respond and the controller did not notice that the clearance readback had come from a different aircraft. Once the wrong aircraft began to climb, from FL360 to FL380, a TCAS RA to descend occurred due to traffic just transferred to a different frequency and at FL370. That traffic received a TCAS RA to climb. STCA was activated at the ATS Unit controlling both Ryanair aircraft.
+
+
+
+
+Solutions
+
+Avoid issuing vertical re-clearances that, given the observed evidence of the rate of climb/descent (energy state) of the aircraft, cannot be achieved without exceeding the cleared level .
+Observe strict radio discipline, especially standard phraseology speed and timeliness of communication and language;
+Where appropriate, stress the need to revert to the relevant barometric sub scale setting in the message to pilots.
+When assigning higher vertical speeds (more than 1500 ft/min) make sure that the restriction does not apply for the final 1000-2000 feet. Example instruciton: ABC123, DESCEND FL 250 AT 2000 FEET PER MINUTE UNTIL PASSING FL 300 (in this example, the conflicting aircraft is maintaining FL 310).
+
+Further Reading
+EUROCONTROL Level Bust Toolkit
+
+Level Bust Briefing Note ATM1 - Understanding the Causes of Level Busts;
+Level Bust Briefing Note ATM4 - Airspace and Procedure Design.
+
+
+
+HindSight 10: The tenth edition of HindSight, titled "Level Bust or... Altitude Deviation ?", published in December 2009, contains a variety or articles addressing different aspects of the Level Bust issue. These and other Level Bust products are listed in the article Level Bust Products
+
+Airbus Briefing Note
+
+Airbus Supplementary Briefing Note - Preventing Altitude Deviations and Level Busts
+
+
+
+
+
+Categories
+
+
+Level Bust
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

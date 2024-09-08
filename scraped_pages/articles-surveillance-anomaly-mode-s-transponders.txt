@@ -1,0 +1,150 @@
+Surveillance: anomaly on Mode-S transponders
+
+
+
+
+
+
+
+
+
+
+
+  Surveillance: anomaly on Mode-S transponders
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Warning Message
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Operational Safety Issue
+EUROCONTROL SISG secretariat was warned by the Switzerland Air navigation Service Provider Skyguide of several cases of radar track loss. Through the help of some airlines, it was discovered and confirmed an anomaly due to an interface issue in the Honeywell Primus suite with Mode-S transponders. If the flight crew take longer than 5 seconds to complete a Mode A code change, the transponder will revert to “Standby” mode. This will cause the track to be dropped by radars, and the Airborne Collision Avoidance System (ACAS) II on board the aircraft will fail. The operational consequences are high with a safety critical impact:
+
+Temporary loss of radar contact;
+Degradation of the ACAS safety net - the aircraft's TCAS will fail, and the aircraft will not be acquired by other TCAS II equipped aircraft in the vicinity since the transponder is in “Standby” mode;
+
+Note that this problem could occur in all airspace environments
+Mitigations
+Skyguide
+took the following actions:
+
+Issue of company “Flash” note to the crew of the relevant airlines;
+Increase awareness of the Skyguide ATCO, GVA and ZRH;
+Reminder to pilots by ATCOs in case of loss;
+
+Honeywell
+
+Honeywell Technical Newsletter (TNL) A23-1146-004 dated 9 December 2004 has been issued. It has been despatched to every aircraft operator of Honeywell Primus equipment with Mode S transponders. The TNL recommends a temporary solution by means of an operational procedure for the flight crew to check, after every Mode A code change, that the transponder has not reverted to “Standby” mode.
+A software change is being developed for release by Service Bulletin - expected end Q2 2005.
+
+Recent Experience
+
+Incidents related to this problem which took place in the past two weeks have shown that some flight crews are not aware of the operational procedure proposed in the Honeywell TNL.
+EUROCONTROL Mode S & ACAS Programme:
+
+The Mode S & ACAS Programme is pressing for effective enforcement action by Regulatory Authorities
+
+
+
+Your attention is required
+
+It is essential that ANSPs alert controllers to the need for increased vigilance, to ensure that tracks are not dropped at times of Mode A code change, pending rectification of this problem by Service Bulletin for software.
+Report occurrences to the EUROCONTROL MSA Airborne Monitoring Project (AMP)
+
+
+Provide feedback to SISG members on:
+
+Your understanding of the issue;
+Similar occurrences and their frequency;
+Your lessons learned and good practices in coping with such occurrences.
+
+
+
+Disclaimer
+© European Organisation for Safety of Air Navigation (EUROCONTROL) April 2004. This alert is published by EUROCONTROL for information purposes. It may be copied in whole or in part, provided that EUROCONTROL is mentioned as the source and to the extent justified by the non-commercial use (not for sale). The information in this document may not be modified without prior written permission from EUROCONTROL. The use of the document is at the user’s sole risk and responsibility. EUROCONTROL expressly disclaim any and all warranties with respect to any content within the alert, express or implied.
+
+
+
+
+Categories
+
+
+Safety Warning Message
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

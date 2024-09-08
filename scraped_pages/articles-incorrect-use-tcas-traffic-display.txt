@@ -1,0 +1,125 @@
+Incorrect use of TCAS Traffic Display
+
+
+
+
+
+
+
+
+
+
+
+  Incorrect use of TCAS Traffic Display
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Nets 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airborne Collision Avoidance System (ACAS) II is a last resort safety net designed to prevent mid-air collisions. It provides situational awareness to the flight crew and generates Traffic Alerts (TAs) and Resolution Advisories (RAs) (see ACAS Resolution and Traffic Advisories) with manoeuvre guidance provided in the case of RAs. The correct use of TCAS II increases the safety of air transport.
+The TCAS II traffic display is provided to assist flight crew in visual acquisition of aircraft in the vicinity of their own aircraft and improves flight crew situational awareness in both Visual Meteorological Conditions (VMC) and Instrument Meteorological Conditions (IMC). However, in some cases, flight crew have been tempted to make their own traffic assessment based on the traffic display information and/or TCAS TAs and to then manoeuvre in anticipation of ATC instructions.
+ICAO Doc 8168: PANS-OPS, Chapter 3, Section 3.2 states unequivocally that "pilots shall not manoeuvre their aircraft in response to traffic advisories (TAs) only. (This) restriction in the use of TAs is due to limited bearing accuracy and to the difficulty in interpreting altitude rate from displayed traffic information."
+This concern is discussed fully with examples in EUROCONTROL ACAS Bulletin 6.
+The TCAS II traffic display should not be confused with a primary radar display. It provides only partial information with limited display accuracy and it is based upon a moving reference. It has not been designed for the purposes of self-separation or self-sequencing and using it for these purposes is inappropriate and may be hazardous.
+It is possible that some aircraft in the vicinity might not be displayed; additionally, given the assumptions about projected tracks inherent in TCAS and the possibility of rapidly changing relative bearings, lack of a speed vector and identity information, flight crews are often unable to reliably attribute a target symbol on the TCAS traffic display to an aircraft visually acquired.
+Air traffic controllers base their actions on the comprehensive information shown on the radar display, which enables them to provide a safe and expeditious air traffic flow. The TCAS traffic display does not provide the information necessary for the provision of separation and sequencing.
+Manoeuvres initiated solely on the information shown on the TCAS traffic display have often degraded flight safety and flight crew should never attempt to self-separate or deviate from an ATC instruction based on information derived solely from their TCAS traffic display. When operating under Instrument Flight Rules (IFR) rules in Controlled Airspace, it is the responsibility of ATC to separate aircraft unless the flight crew, through a TCAS RA, or, exceptionally, another means, are given conflict resolution guidance.
+TCAS II will trigger an RA if there is a potential and imminent risk of collision between two transponder-equipped aircraft. A principle of TCAS II operation is that correct response to annunciated RAs will safely resolve such situations.
+It is essential that all aircraft operators ensure that their Operations Manual procedures for TCAS use include a specific prohibition of manouevering based solely upon the apparent disposition of other traffic as seen on the TCAS display or upon the receipt of a TCAS TA.
+Related Media
+
+TCAS Awareness Videos
+
+Further Reading
+
+EUROCONTROL ACAS Bulletin 6
+EASA Safety Information Bulletin SIB No.: 2013-11, ACAS II – Manoeuvres based on Visual Acquisition of Traffic, 19 July 2013
+
+
+
+
+
+Categories
+
+
+Safety Nets
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

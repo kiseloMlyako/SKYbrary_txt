@@ -1,0 +1,119 @@
+Doppler Radar
+
+
+
+
+
+
+
+
+
+
+
+  Doppler Radar
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Doppler radar systems provide information regarding the movement of targets as well as their position. When an antenna transmits pulses of radio waves, the system keeps track of the phase of the pulses. Phase refers to the shape, position and form of the pulses.
+By measuring the shift (or change) in phase between a transmitted pulse and the received echo, the target's movement toward or away from the radar can be calculated. A positive phase shift implies motion toward the radar and a negative phase shift indicates motion away from the radar.
+All modern radars are Doppler radars.
+Doppler radars used for navigation
+Doppler navigation was in common commercial aviation use in the 1960s until it was largely superseded by inertial navigation systems, but some systems have remained in use in older civil and military aircraft well into the 21st century. The equipment consists of a transmitter/receiver unit, a processing unit and a gyro stabilised antenna platform. The antenna generates four beams and is rotated by a servo mechanism to align with the aircraft's track by equalising the Doppler shift from the left and right hand antennas. A synchro transmitted the platform angle to the flight deck, thus providing a measure of 'drift angle'. The ground speed was determined from the Doppler shift between the forward and aft facing beams. These are displayed on the flight deck on single instrument. Some aircraft had an additional 'Doppler Computer'; a mechanical device which drives counters to output distance along track and across track difference. The aircraft's compass is integrated into the computer so that a desired track can be set between two waypoints on an over water great circle route.
+Related Articles
+
+Weather Radar
+Weather Radar: Storm Avoidance
+
+Further Reading
+"How radar works," National Weather Service, website.
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

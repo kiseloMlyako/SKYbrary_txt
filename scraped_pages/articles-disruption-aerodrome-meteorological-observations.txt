@@ -1,0 +1,196 @@
+Disruption of Aerodrome Meteorological Observations
+
+
+
+
+
+
+
+
+
+
+
+  Disruption of Aerodrome Meteorological Observations
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Weather 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+The United Kingdom Civil Aviation Authority (U.K. CAA) offers the aviation industry a simple definition of aerodrome meteorological (Met) observations: “The purpose of a weather (WX) observation is to provide a complete picture of the conditions at the aerodrome to a variety of recipients. … Aerodrome meteorological observations are used for flight planning purposes and to facilitate safe operation of aircraft in the takeoff and landing phases of flight.”
+Background of Disruptions
+Constant availability of aerodrome Met observations and forecasts is a critical part of mitigating several risks during aircraft operations. Preparing, protecting and restoring valid data requires accredited observers and forecasters to have:
+
+up-to-date knowledge of evolving atmospheric science and information technology/communication systems;
+a multi-disciplinary skill set acquired in an approved program of theoretical and practical training;
+recent local experience to reinforce the ability of the observer or forecaster to meet the dynamic data needs of end users; and,
+accurate primary sensors and instruments integrated with a contingency plan, spare equipment for backup, fail-safe communication networks and standby personnel.
+
+Met observers also have to master subtle distinctions to describe and categorize the weather characteristics on and near aerodromes. This skill set also extends to detecting sensor and automation anomalies. They also must judge exactly when and how to override semi-automated and automated systems (CAA). Avoiding and recovering from disruptions begins with compliance of the aerodrome’s meteorological instruments and systems with regulatory standards for facility/equipment siting, installation, maintenance, calibration, performance, service continuity, protection and backup of data and power supplies.
+Recommended Advice
+The U.K. CAA’s Civil Aviation Publication (CAP) 746, "Requirements for Meteorological Observations at Aerodromes," is a good reference on this subject for all stakeholders worldwide. U.K. CAA similarly states that CAP 746 guidance was designed to globally promote best practices.
+Moreover, this guidance is valuable regardless of whether a given member state in the International Civil Aviation Organisation (ICAO) has declared differences — via the aerodrome section of its Aeronautical Information Publication (AIP) — between its current standards and full compliance with ICAO’s standards and recommended practices in ICAO Annex 3, Meteorological Service for International Air Navigation. (An example of a declared difference in the U.K. AIP is that Runway Visual Range (RVR) tendencies and significant variations are not reported in the United Kingdom.) An earlier SKYbrary article about CAP 746, titled "Weather Observations at Aerodromes," primarily focuses on technical details of Met observations, from Edition 1 in 2003 to the present. This article complements the earlier article, focusing on Edition 4’s:
+
+strategic advice for aerodromes and air traffic services (ATS) on preventing disruption of the flow of aerodrome Met observations;
+risks of human factors/system anomalies that can degrade Met observations in ways that impact flight operations on or near aerodromes;
+lessons learned from one related aeroplane accident; and,
+opportunities for local experts to compare their aerodrome’s performance.
+
+Essentially, Met observers and forecasters depend on well-maintained infrastructure and backup systems for data collection, processing, validation and distribution. They assume that pilots, dispatchers, air traffic controllers, aviation meteorologists and other stakeholders also will keep up-to-date on information applicable to their domains.
+(Note: ICAO sets aeronautical meteorological requirements. The World Meteorological Organisation’s Commission for Aeronautical Meteorology (CAM) issues technical methods and recommends best practices for providing aeronautical meteorological services.)
+Preparing for Disruptions
+CAP 746 emphasises the need for aerodromes to anticipate contingencies and to prepare response plans for:
+
+Failures of their meteorological observing sensors and systems that process the content of observations — Preparation includes automatic notification of malfunctions, immediate replacement of equipment, reliably estimating any missing data elements, alternative methods of logging reports from semi-automatic observing systems, and notifying end users of missing data elements. The publication states: “Wherever possible, the observing equipment should be designed in such a manner that … the system alerts the user to a failure of part or all of the equipment or power supply or … that such faults should be obvious to the user.”
+
+
+Observer reversion to manually assessing present weather when automated observation systems malfunction — Typically, Met observers must be ready to use a combination of their own vision, backup instruments and assistance from reference documents, as appropriate.
+
+Regarding automated present-weather detectors, however, CAP 746 states, “Guidance given by weather sensors can be misleading, such as when light drizzle and mist occurs; without observing from outside the building, it is often difficult for an observer to determine whether drizzle is present or merely dampness caused by mist or fog.”
+
+Disruption in availability or delay/cessation of Meteorological Terminal Air Report (METAR), also known as routine aerodrome meteorological reports — Potentially unsafe impacts on flight operations make a compelling case to have procedures that anticipate this contingency. For example, procedures should enable flight crews/aircraft operators to select alternate aerodromes, dispatchers to change fuel-upload plans and air traffic controllers to resolve disrupted provision of their ATS; and,
+
+
+Cancellation of an aerodrome forecast — Disruption or cessation of METARs — i.e., incomplete/invalid METARs or METAR releases exceeding the maximum allowed time intervals between reports (typically 30 minutes) — leave weather forecasters without site-specific data they require to confirm forecasts.
+
+Predefined conditions dictate when to notify stakeholders of each failure to issue a forecast or the cancellation of a scheduled forecast due to missing or erroneous information in a METAR. Among negative effects on flight operations are interference with the normal flight planning and contingency management by aircraft dispatchers, and the related work by ATS managers and air traffic controllers.
+CAP 746 states, “The meteorological forecaster is required to take account of all meteorological variables when preparing an aerodrome forecast; METARs are used to verify base conditions before forecasting how these elements will change with time. Missing information in the METAR may lead to greater inaccuracies in the forecast, which may impact on tactical planning by pilots, operators and other aerodrome service providers.”
+
+Safe uses of official and unofficial Met reports — Each type of report — e.g., METARs, special reports, terminal aerodrome forecasts (TAFs), automatic terminal information service (ATIS), SIGMETs (information on specified types of en route weather information that may affect the safety of aircraft operations) and the weather report versions designed for ATS — has limitations that must be respected by users (see CAP 746).
+
+
+Archives and logs of Met observations and the content of METARs and special reports — These records can be essential to investigations of accidents and serious incidents; to awareness of sensor siting, maintenance needs and performance; and to plan for an aerodrome’s future needs for Met observations and services.
+
+Reliance on Real-Time Data
+As in other aspects of aviation, tension exists between the high reliance on automation for Met observations and the infrequent situations in which immediate human intervention becomes necessary. Moreover, today’s automation often is mandatory, i.e., the operational norm.
+CAP 746 states, as an example, “At aerodromes with runways intended for Category II and III instrument approach and landing operations, automated equipment for measuring and for monitoring surface wind, visibility, runway visual range, height of cloud base, air and dew-point temperatures and atmospheric pressure shall be installed.
+“These systems enable all the Met sensor data to be acquired, measured, processed and made available for subsequent display and use in other systems in real time. Typically, measurements of wind, pressure, runway visual range, air and dew-point temperature are used directly with the ability for the human observer to modify or accept the cloud height and amount, visibility and present weather reports.”
+Automated sensors, however, have inherent limitations, especially in spatial coverage of the sensor and in effectiveness of sensor systems for resolving types of present weather. CAP 746 states: “To comply with internationally agreed practices, the [U.K.] Met Authority requires the reporting of prevailing visibility, lowest visibility (if certain criteria are met), present weather phenomena such as thunderstorms, snow, freezing precipitation (including hail and freezing rain), towering cumulus and cumulonimbus cloud.
+“However, the current automatic observing systems in use in the U.K. are either incapable of reporting these elements or do not have an appropriate high degree of accuracy and consistency. It is for this reason that measurements of horizontal visibility, present weather and cloud must be validated by an accredited observer before being issued as a METAR.”
+Disruption Countermeasures
+U.K. CAA recommends that all aerodromes certificated under the European Aviation Safety Agency’s Common Requirements (EC REG 1035/2011) as an Air Navigation Service Provider (ANSP) “be required to ensure that [the aerodrome meteorological observing] unit’s quality management system includes an appropriate level of detail of the meteorological processes which are applicable to the provision of meteorological services.”
+Quality management systems are reinforced by the U.K. Meteorological Authority conducting regulatory oversight audits of aerodrome meteorological observing units. The agency’s Meteorological Forecast Office monitors the quality of METAR reports and assists these aerodrome units in resolving audit findings.
+Another U.K. countermeasure is that aerodrome meteorological observing service providers ensure that all accredited aerodrome Met observers maintain their observing competence, according to CAP 746. The publication also states: “Following changes to observing practices or aeronautical codes, the aerodrome meteorological observing service provider shall ensure that all staff are aware of the changes, additional training arranged as necessary and that the changes are implemented accordingly.”
+Accidents and Incidents
+Aerodrome Met observations have been cited as a causal factor in aircraft accidents, CAP 746 provides the following example.
+
+PRM1, vicinity Samedan Switzerland, 2010 — On 19 December 2010, a Raytheon 390 inbound to Samedan from Zagreb made a daylight approach to Runway 21 at destination in marginal VMC which involved a steep and unstable descent from which a landing was not possible. The subsequent go around was followed by entry to a visual right hand circuit which was contrary to local procedures due to terrain constraints. Overbanking in the turn towards final approach was followed by a stall and loss of control which led to ground impact which, with the post crash fire, destroyed the aeroplane and fatally injured both occupants.
+
+Accident investigators examined weather information provided by the aerodrome in relation to decisions by the pilots to commence or continue visual approaches to Samedan. They found that the relevant Met observations were an unreliable guide to conditions likely to be encountered by the accident pilots, and that reports from pilots of other aircraft approaching the airport were not consistently relayed to the accident pilots. “[Flight information service officers] were unable to append trend information to their METARs and since it was, as a result, only possible to terminate a METAR with ‘NOSIG’ [no significant changes are forecast], there was the potential for crews to be misled,” the publication said.
+Other findings were that automatic terminal information service broadcasts did not match the current METAR, and special reports were not transmitted to the pilots. Also, the final report of the accident investigation stated that “weather minimums at the time of the accident involved a considerable risk” and that “the visibility and cloud bases determined on Samedan airport were not representative for an approach from [the northeast] because they did not correspond to the actual conditions in the [Runway 21] approach sector.”
+References
+U.K. CAA
+
+CAP 746, Requirements for meteorological observations at aerodromes, Civil Aviation Publications (CAPs), Safety and Airspace Regulation Group, U.K. Civil Aviation Authority (CAA), Edition 4, March 2017.
+CAP 493, Manual of Air Traffic Services – Part 1, by Safety and Airspace Regulation Group, U.K. CAA, Version 6.1, 2 April 2015 (Corrigendum 28 December 2017).
+CAP 670, Air Traffic Services Safety Requirements, Safety and Airspace Regulation Group, U.K. CAA, Version 3 including Amendment 1/2014, 23 May 2014.
+CAP 797, Flight Information Service Officer Manual, by Safety and Airspace Regulation Group, U.K. CAA, Third Edition, 25 May 2017.
+
+ICAO
+
+European Guidance Material on All Weather Operations at Aerodromes, International Civil Aviation Organisation (ICAO) EUR Doc 013, Fourth Edition, September 2012. ICAO EUR Doc 013, Fourth Edition, September 2012.
+ICAO Annex 3, Meteorological Services for International Air Navigation – Multilingual, 20th Edition, July 2018.
+ICAO Doc 4444, Procedures for Air Navigation Services–Air Traffic Management (PANS-ATM), English-Printed, 16th Edition, 2016.
+
+World Meteorological Organisation
+
+WMO Document No. 306, Manual on Codes: International Codes, by World Meteorological Organisation (WMO), Volume I.1, “Annex to the WMO Technical Regulations”, Part A, “Alphanumeric Codes”, FM15-X Ext. METAR, 2011 edition, updated in 2017.
+
+Related Articles
+
+Weather Observations at Aerodromes
+ATC Operations in Weather Avoidance Scenarios
+Aligned Weather Impact Management
+Meteorological Terminal Air Report (METAR)
+Weather Forecast
+Low Visibility Procedures (LVP)
+
+
+
+
+
+Categories
+
+
+Weather,
+              Weather Risk Management
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

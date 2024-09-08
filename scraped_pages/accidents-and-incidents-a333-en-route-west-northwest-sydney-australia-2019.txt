@@ -1,0 +1,434 @@
+A333, en-route, west northwest of Sydney Australia, 2019
+
+
+
+
+
+
+
+
+
+
+
+  A333, en-route, west northwest of Sydney Australia, 2019
+
+
+
+
+
+
+
+
+
+Summary
+
+On 15 December 2019, an Airbus A330-200 turned back to Sydney shortly after departure when a major hydraulic system leak was annunciated. The return was uneventful until engine shutdown after clearing the runway following which APU use for air conditioning was followed by a gradual build up of hydraulic haze and fumes which eventually prompted an emergency evacuation. The Investigation found that fluid leaking from ruptured rudder servo hose had entered the APU air intake. The resulting evacuation was found to have been somewhat disorganised with this being attributed mainly to a combination of inadequate cabin crew procedures and training.
+
+
+
+
+Event Details
+
+When
+
+15/12/2019
+
+
+
+Event Type
+
+
+AW,
+              FIRE,
+              HF,
+              LOC
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS A-330-300
+
+
+
+
+
+
+
+
+
+Operator
+
+Qantas
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Sydney Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Perth International Airport
+
+
+
+
+
+
+
+Actual Destination
+
+
+
+
+Sydney Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+No
+
+
+
+Phase of Flight
+
+Climb
+
+
+
+
+
+
+
+
+Location
+
+Approx.
+
+approximately 51 nm west northwest of Sydney Airport
+
+
+
+
+
+
+
+
+
+
+General
+
+Tag(s)
+
+
+              Air Turnback,
+              Inadequate Aircraft Operator Procedures
+          
+
+
+
+
+FIRE
+
+Tag(s)
+
+
+              Non-Fire Fumes
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Flight / Cabin Crew Co-operation,
+              Procedural non compliance
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Significant Systems or Systems Control Failure
+          
+
+
+
+
+EPR
+
+Tag(s)
+
+
+              Emergency Evacuation,
+              MAYDAY declaration,
+              Cabin Baggage Issues,
+              Evacuation Injuries
+          
+
+
+
+
+CS
+
+Tag(s)
+
+
+              Evacuation slides deployed,
+              Cabin air contamination,
+              Flight Crew Evacuation Command
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Hydraulic Power,
+              Airborne Auxiliary Power (APU)
+          
+
+
+
+Contributor(s)
+
+
+              Component Fault in service,
+              Corrosion/Disbonding/Fatigue
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Aircraft damage
+
+Minor
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Occupant Injuries
+
+Few occupants
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Technical
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 15 December 2019, an Airbus A330-200 (VH-EBC) being operated by Qantas Airways on a scheduled domestic passenger flight from Sydney to Perth as QF575 and climbing after takeoff in day VMC received indications of a partial hydraulic systems failure and made an initially uneventful return to land. Once on the ground, a smell of hydraulic fluid and signs of a related haze began to become apparent and shortly after the aircraft had been towed to the terminal for passenger disembarkation because of inoperable steering, both the smell and haze worsened and an emergency evacuation was ordered. This used a combination of the two already attached air bridges and emergency slides at three of the other six doors. During the evacuation, one of the 222 passengers sustained a serious injury and five others sustained minor injuries.
+Investigation
+A Serious Incident Investigation into the event was carried out by the Australian Transport Safety Bureau (ATSB). It was noted that the Captain had been employed by Qantas for “about 30 years” and had a total of about 20,100 hours flying experience which included 8,238 hours on type. He had transferred to the A330 about 3½ years prior to the investigated event. The First Officer, who was initially acting as PF, had been employed by Qantas for 15 years and had a total of about 12,200 hours flying experience which included 900 hours on type. He had transferred from the 747 to the A330 in October 2018. 
+What Happened
+Approximately seven minutes after departure from Sydney, a ‘green’ hydraulic system leak (HYD G SYS LEAK) message appeared on the ECAM. The flight crew saw that the indicated hydraulic fluid quantity in the system concerned was fluctuating and decreasing. In accordance with the required response, the engine-driven pumps for the affected system were switched off and ATC were advised of a hydraulic problem and a request to stop the climb at FL 230 was made. However, when the green system quantity continued to drop, the ECAM message (HYD G SYS LO PR) was annunciated and, after completing the required actions, it was decided to return to Sydney.
+The Captain took over as PF and the operator was advised of the plan to return and the need for a tow after landing because of the loss of nose gear steering. The SCCM was briefed and a PA was made to inform the passengers of the situation. The ECAM status page and the inoperative systems were then checked and all further checklist items completed, an arrival briefing was carried out and descent was commenced in good weather conditions. The crew subsequently stated that they had considered declaring ‘PAN’ status but decided urgency was not required given that there were still 2 other hydraulic systems available and no problems with landing the aircraft or exiting the runway after landing were anticipated. 
+During an uneventful approach to runway 34L, the landing gear was locked down by the free fall procedure which meant that the landing gear bay doors remained open. ATC activated a precautionary alert phase and two Airport RFFS tenders were made ready to meet the aircraft. On completion of the landing roll, the aircraft was taxied clear of the runway using differential braking for directional control and brought to a stop. Whilst waiting for a tug, the APU was started and when the tug and accompanying engineers arrived, both engines were shut down and APU bleed air selected. An external engineering inspection of the aircraft found nothing of concern and twenty minutes after landing, the tug began towing the aircraft to the terminal. Having discussed the situation with the Captain, the RFFS was stood down.
+ 
+The First Officer stated that during the tow, they had told the Captain that they could “smell something strange.....but had thought that the smell was smoke or diesel fumes from the tug”. They subsequently initiated a further discussion about the smell when the aircraft reached the terminal. The Investigation also discovered that whilst the aircraft had been stopped on the taxiway, the SCCM had detected “a very strong mechanical oil smell” that they suspected, from previous experience, was probably attributable to the hydraulic and nose-wheel steering problem. On mentioning this to a co-located member of the cabin crew, they found that they were also aware of an abnormal smell which they described as “being like cooking oil”. Neither considered that the smell was of concern and therefore did not contact the flight crew or other cabin crew about it.  
+As the tow was about to be completed, the standard flight crew instruction to “disarm doors and crosscheck” was received and actioned. The L3 cabin crew recalled having said to the R3 cabin crew as they passed to complete their crosscheck procedure, that they could smell something similar to “dirty socks” and during the report back of ‘check complete’ to the SCCM, the L3 cabin crew added that a ‘haze’ was forming in the cabin with other cabin crew also recalling that they had seen “haze, mist or smoke” in the cabin at about this time.
+The flight crew stated that soon after the aircraft tow had been completed, they had both become aware of “an acrid smell” on the flight deck and had begun to experience eye and throat irritation upon which they opened both flight deck windows. They too recalled seeing a haze/mist/smoke appear on the flight deck and soon after this, the Captain and the SCCM discussed the haze/smell over the interphone and the latter advised that the haze was “getting worse and that they needed to get out”’. 
+The Captain then ordered an emergency evacuation over the PA system and the First Officer declared a MAYDAY to ATC advising that there was “smoke in the cabin”. Prior to this order to evacuate, airbridges were in the process of being connected to doors L1 and L2 in accordance with SOP. CCTV showed the L1 door being opened just as the interphone conversation between the Captain and the SCCM finished and passengers were reportedly already standing up and beginning to retrieve their cabin baggage from the overhead lockers. 
+The evacuation was completed using the airbridges connected to the L1 and L2 doors and three other exits from which escape slides were deployed (R3, L4 and R4). The L4 and R4 doors were rearmed before being opened but after the R3 door was initially still disarmed, it had to be closed, re-armed and re-opened before it could be used. The L3 door was also opened but without first being re-armed and the exit was not used. The R2 exit was not used because the cabin crew there decided that despite having checked that outside conditions were fine, they nevertheless thought that the haze/fumes inside the cabin may indicate fire outside and therefore decided to block their exit. The R1 cabin crew stated that they could see vehicles outside and therefore declared their exit blocked without any further checks on outside conditions.
+Of the 222 passengers, 129 utilised the 2 air bridges to exit and the other 93 left via the 3 available escape slides and the evacuation of passengers was completed in just over 2 minutes.
+It was noted that after some passengers had begun to retrieve their cabin baggage prior to the order to evacuate, this continued after it had been given. Whilst most passengers arriving at the exits complied with cabin crew requests to leave their bags on the aircraft, a minority did not. CCTV and passenger video footage showed that at least 40 of the 129 passengers who left via the two airbridges did so whilst carrying cabin baggage.
+Cabin crew who were present at the doors where slides were deployed subsequently stated that “many passengers did not know how to use the escape slides when they reached the exits, with some passengers pausing to ask what to do and others descending the escape slides by kneeling or lying down”. One passenger was seriously injured whilst using an escape slide and five others sustained minor injuries.
+The RFFS commander stated that when they left their vehicle on arrival at the aircraft’s assigned parking gate, a smell and taste of oil which was assumed to be hydraulic fluid was immediately apparent and when they noticed a gold-coloured fluid near the APU air intake, an exclusion zone was set up around the rear of the aircraft. After then  proceeding to the front of the aircraft they had then heard the airport crash alarm activate (in response to the First Officer’s MAYDAY call) and had initially thought it was the weekly test of the alarm which usually took place around the same time each Sunday. However within a few seconds there was a loud bang and aircraft escape slides began to deploy. All other RFFS vehicles then arrived and their personnel began to assist those passengers arriving down the escape slides and directing them away from the aircraft.  
+Approximately five minutes after the passenger evacuation had been ordered, the Captain and all the cabin crew left the aircraft via the two attached airbridges – the First Officer had already exited onto the apron using the steps attached to the L1 door air bridge. The Captain did the same and went to assist passengers before returning to the aircraft cabin. Airport CCTV footage showed that over the next couple of minutes, multiple members of the cabin crew subsequently re-entered the aircraft via the L1 air bridge to retrieve cabin baggage and other items and other personnel, including engineering staff, also did so ahead of it being deemed safe to do so by the RFFS. After two RFFS personnel had entered the aircraft wearing breathing apparatus to assess the cabin air status, the aircraft was declared safe approximately twelve minutes after the passenger evacuation had begun.
+Why It Happened
+Once the evacuation was complete and the aircraft had been declared safe, the operator’s engineers found residual hydraulic fluid near the base of the vertical stabiliser which indicated that this fluid had flowed downwards towards the APU air intake (see the first illustration below). 
+Further internal examination of the vertical stabiliser showed that the origin of the leak was a failed flexible high pressure hose supplying fluid to the central rudder hydraulic servo, which was powered by the green hydraulic system. The hose had failed near where it joined a 45° end fitting (see the second illustration below). No other hydraulic system abnormalities were found.
+
+The aircraft tail showing evidence of hydraulic fluid flowing towards the APU Air Intake. [Reproduced from the Official Report]
+
+The failed hydraulic hose and the location of the leak. [Reproduced from the Official Report] 
+An inspection of the subsequently removed hose by the OEM found that the outer steel braid of the three-layered hose was damaged with the fractured wires of the braid affected by corrosion. Striations on the wire were assessed as indicative of fatigue fracture and the overall conclusion was that the wire fractures originated from corrosion attack and then failed due to fatigue load and corrosion. The inspection did not find any other mechanical damage which could have led to the initiation of the wire fractures. The failed hose was fitted at build in 2003.
+The operator was found to have had an identical hose failure earlier in 2019 on another of their A330 aircraft which had also been fitted at build in 2003 but this leak had not led to fluid entering the APU air intake. This aircraft had recorded similar flight hours and cycles at the time of hose failure to the one being investigated.
+It was noted that Airbus mandates flexible hose replacements where a high in-service failure rate is detected but the failure rate for rudder servo hoses did not meet the threshold failure rate for proactive replacement. Only one other similar event with fluid contamination of APU-derived air conditioning and the need for a emergency evacuation occurred to an Emirates A330-200 during pushback from Karachi in 2014 after a similar failure to the yellow system high pressure hose supplying fluid to the central rudder hydraulic servo.
+It was noted that the widely used hydraulic fluid, Skydrol, is fire resistant but if heated to decomposition emits acrid smoke and fumes which are toxic to humans if significant exposure occurs. It was also noted that because of this, an air intake diverter and fluid gutters are installed in and around the APU air intake. These “form a frame that protrudes from the fuselage skin around the air intake opening” which aims to minimise any fluid ingress into the APU air intake. However, when the aircraft is on the ground lack of airflow means that it is possible for some fluid to bypass the frame and in atomised form eventually mix with air fed to the air conditioning system (see the illustration below).
+
+The APU showing the path of hydraulic fluid as it is atomised and enters the conditioned air. [Reproduced from the Official Report]
+The Investigation findings in respect of the response to the consequences of the air conditioning system contamination, in particular the conduct of the evacuation, were analysed in detail. A range of concerns in respect of the behaviour of the passengers and the collective performance of the cabin crew were identified, most of which were traced to perceived deficiencies in both the evacuation procedures and their clarity for passengers and inadequate cabin crew training. The somewhat unusual absence of a ‘rapid disembarkation procedure’ which could well have been more appropriate in circumstances where the aircraft was parked with engines shut down was also noted. It was effectively assessed that the circumstances at the time the evacuation was ordered were arguably nearer ‘urgency’ than ‘emergency’ which is what other operators use their rapid disembarkation procedure for.
+Three Contributing Factors were formally documented based on the findings of the Investigation as follows:
+
+The rudder servo hydraulic system pressure hose ruptured in flight, depleting the green hydraulic system of fluid, which necessitated a return to Sydney. 
+After the auxiliary power unit (APU) was started and bleed selected on, and the aircraft was towed back to the terminal, the leaking hydraulic fluid was ingested into the APU air intake. The atomised hydraulic fluid, which appeared as haze, mist or smoke, was then distributed into the cabin and flight deck through the air conditioning system, resulting in the captain deciding to evacuate the aircraft. 
+A number of passengers evacuated using the escape slides in a manner that increased the risk of injury (for example, on their knees, lying down or sitting before sliding, or with hands on the slides). Of the 93 passengers that used the escape slides to exit the aircraft, one was seriously injured and 5 received minor injuries.
+
+A total of 12 Other Factors that Increased Risk, four of which were classified as ‘Safety Issues’ (and are identified as such) were also identified:
+
+Although some cabin crew members had detected unusual smells both before and after the aircraft had been towed back to the terminal, they did not pass this information on to the flight crew prior to the captain’s decision to initiate an evacuation. 
+Although some of Qantas’ A330 aircraft were fitted with an emergency evacuation signal, the emergency evacuation checklist located in the flight deck for these aircraft did not include the use of the evacuation signal. In addition, there was no documented procedure that detailed when the evacuation signal should be used by cabin crew.  
+A cabin crew member did not open an available exit even though they had observed that there were no signs of smoke, fire or obstruction outside the aircraft. Rather, they assumed that there was fire outside due to haze/smoke being visible inside the cabin.
+During the evacuation, one cabin crew member did not assess outside conditions properly and 2 cabin crew members did not continue to check exit availability, instead directing passengers to the available air bridge(s).
+The aircraft evacuation occurred at a time when cabin crew members had completed their shut-down duties and the doors had all been disarmed, with an air bridge already connected to the aircraft. As a result, 2 exit doors were opened in the disarmed mode. Although one of these exits was then armed and reopened and the slide deployed, the other exit remained open without the slide deployed and was declared blocked.  
+Qantas’ cabin crew recurrent training did not include any situation whereby a disarmed door would have to be rearmed in an emergency. This increased the likelihood that a door would be opened without the escape slide deployed, reducing the number of available exits. [Safety Issue]  
+Qantas’ method of briefing passengers provided limited and inconsistent information about how to use the escape slides safely and what to do with cabin baggage in an emergency.  [Safety Issue]
+Qantas' cabin crew primary evacuation commands did not include phrases such as 'leave everything behind' and 'jump and slide'; instead, these phrases were optional. Consequently, passengers would generally not receive specific guidance until they reached an exit, which would likely slow down the evacuation. [Safety Issue]
+Some passengers evacuated utilising the slides and airbridges carrying their cabin baggage. As a result, the evacuation was delayed and the risk of injury to themselves and others was increased.
+Following the evacuation, the cabin crew did not assist the passengers who had evacuated using the slides on the tarmac (as required by Qantas procedures).
+Following the evacuation, the passengers were cleared from the cabin but the cabin crew and other staff members re-entered the cabin prior to the aircraft being deemed safe by emergency services (as required by Qantas procedures).
+Qantas did not have a procedure for a rapid disembarkation or other similar procedure that would effectively enable rapid deplaning at a slower and more controlled pace than an emergency evacuation. Therefore, the only option for rapid deplaning was an emergency evacuation utilising slides, which unnecessarily increased the risk of injuries in some situations. [Safety Issue]  
+
+One Other Finding was also recorded:
+
+Just after the cabin crew at the rear of the aircraft were alerted to the haze/smoke in the cabin, they completed a verbal review of evacuation procedures together, which included discussion about the need to rearm their doors if an evacuation was required. As a result, they were prepared for the evacuation, rearmed their doors when the evacuation command was given, and successfully deployed both escape slides.
+
+Safety Action taken in respect of the event was noted as having included, in summary only, the following which address most of the detailed Safety Issues listed in the Final Report:
+
+Qantas Airways:
+
+Issued a revised passenger safety briefing video which shows how to descend an escape slide safely and is consistent with the safety briefing card.
+Incorporated a practical exercise involving evacuation when parked at the gate into recurrent cabin crew training. 
+Initiated a review of the absence of precautionary rapid disembarkation procedure available at many other airlines which avoids the use of slides in situations of urgency rather than emergency and thereby prevents avoidable injury.
+Will now proactively treat the pressurised fluid supply line to the rudder hydraulic servo as a fixed life rather than on condition item.    
+
+
+CASA:
+
+Issued an Advisory Circular which provided additional guidance about the requirement for consistent passenger safety information across all formats used.
+Released a Cabin Safety Bulletin on ‘Brace and Evacuation Commands’ which provided guidance on commands that can be used during an evacuation. It highlighted the need for cabin crew to be ready to manage passengers that bring cabin baggage to exits during an evacuation. It also suggested that once the evacuation command has been given, passengers are proactively instructed to “leave everything behind” and that this instruction should be repeated throughout the evacuation. It also recommended that for evacuations from aircraft which, like the A330, have dual-lane slides, instructions such as “form two lines” and “come this way” followed by “jump and slide" or “sit and slide” should be used.  
+Released guidance material covering the practical training and checking requirements for cabin crew in respect of both annual and three-yearly requirements and stressed that operators must have a process to verify that cabin crew are competent in those functions required to be performed but which may not be specifically mentioned in the regulations.
+Issued a Part 121 ‘Manual of Standards’ which included requirements for flight and cabin crew to be trained in rapid disembarkation procedures when converting to a new aircraft type and for cabin crew to be trained annually. Guidance material that included the definition of a rapid disembarkation was also released in Acceptable Means of Compliance and Guidance Material.
+Issued a Cabin Safety Bulletin on ‘Emergency evacuation and occupant survivability’ which explained the difference between an evacuation and a rapid disembarkation and described the types of situations where this procedure may be appropriate to prevent unnecessary injury and avoid possible external hazards that may be present if needing to get out quickly at a terminal.     
+
+
+
+In conclusion, the Investigation formally presented the following ‘Safety Message’ in respect of the emergency evacuation as follows:
+The management of passengers in an emergency situation is the last line of defence in avoiding injury and fatalities, therefore it is important that passengers are well informed through the provision of sufficient and accurate communication about what they may be required to do. 
+The timing of this occurrence highlights the necessity for crew members to remain prepared to react to an emergency at any time, until everyone has disembarked the aircraft. Using a method such as the silent review prompts cabin crew members to mentally rehearse emergency procedures, which ensures they are ready to act in case of an emergency.     
+Communication between the cabin crew and flight crew is essential in abnormal situations, and it is important for information to be relayed as soon as it becomes available. Cabin crew should be trained to recognise and report to the flight crew any unusual smells, sounds and sights, including the use of common terminology to describe odours.  
+
+The Final Report was released on 21 June 2022.  
+ 
+Related Articles
+
+Emergency Evacuation on Land
+Rapid Disembarkation
+Hydraulic Hystems
+Hydraulic Problems - Guidance for Flight Crews
+Smoke
+Fumes
+Corrosion
+A332, Karachi Pakistan, 2014

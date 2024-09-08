@@ -1,0 +1,155 @@
+Emergency Locator Transmitter (ELT)
+
+
+
+
+
+
+
+
+
+
+
+  Emergency Locator Transmitter (ELT)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+ICAO defines an Emergency locator transmitter (ELT) as equipment which broadcasts distinctive signals on designated frequencies and, depending on application, may be automatically activated by impact or be manually activated. An ELT may take any of the following forms:
+
+Automatic fixed ELT (ELT(AF)). An automatically activated ELT which is permanently attached to an aircraft.
+Automatic portable ELT (ELT(AP)). An automatically activated ELT which is rigidly attached to an aircraft but readily removable from the aircraft.
+Automatic deployable ELT (ELT(AD)). An ELT which is rigidly attached to an aircraft and which is automatically deployed and activated by impact, and, in some cases, also by hydrostatic sensors. Manual deployment capability is also provided.
+Survival ELT (ELT(S)). An ELT which is removable from an aircraft, stowed so as to facilitate its ready use in an emergency, and manually activated by survivors.
+
+Description
+A suitably configured ELT is an integral component of the international satellite system for search and rescue (SAR) COSPAS-SARSAT. When activated manually - or automatically by immersion in water or as a result of high ‘g’ forces on impact - ELTs transmit a distress signal which can be detected by non-geostationary satellites and then located precisely by either or both of GPS trilateration and doppler triangulation.
+ICAO SARPs
+ICAO Annex 10, Volume V requires that ELTs carried in compliance with the Standards of Annex 6, Parts I, II and III shall operate on both 406 MHz and 121.5 MHz. Although the SAR satellite systems are no longer able to use 121.5 MHz signals, this frequency is considered necessary to allow homing.
+All ELTs capable of transmitting on 406 MHz must be coded in accordance with ICAO Annex 10 and registered with the national agency responsible for initiating Search and Rescue or another nominated agency.
+In ICAO Annex 6, Part IIA, a Recommendation is made that all aeroplanes operated on extended flights over water and when operated on flights over designated land areas shall be equipped with an automatic ELT. There is an identical Recommendation in respect of certain Classes of helicopter when conducting overwater operations.
+Issues and Concerns
+Dedicated research by the Australian Transport Safety Bureau (ATSB) found that in accidents where ELTs did not work effectively (or at all) their performance could be affected by:
+
+damage and/or removal of the antenna during impact
+not selecting the ELT activation to armed before flight
+incorrect installation
+flat batteries
+lack of water proofing
+lack of fire protection
+disconnection of the co-axial antenna cable from the unit during impact
+an aircraft coming to rest inverted after impact.
+
+Another concern related to ELTs is that their batteries might cause fires (see example in the A&I section below). This issue has begun to affect aircraft type certification of ELTs.
+Accidents and Incidents
+
+S76, vicinity Moosonee ON Canada, 2013 - The wreckage, which was near to the departure airport, was not located for over 5 hours after the ELT failed to function. The ELT failure was attributed to the tailboom-sited external antenna being severed.
+E190, en route, Bwabwata National Park Namibia, 2013 - No distress calls were made and no signal was transmitted from the ELT after the crash. This was found to be due to a break in the co-axial cable which linked the unit to the external antenna.
+B744, en-route, East China Sea, 2011 - The ELT was activated but its signal was not received and it was found that was of a type which was inoperative in water.
+B190, Blue River BC Canada, 2012 - The impact forces had not been enough for the ELT to be activated.
+MD83, en route, near Gossi Mali, 2014 - No signal was received from the ELT and it was found damaged at the crash site.
+C30J, en-route, northern Sweden 2012 - The ELT did not transmit and was found to have sustained major damage at impact.
+B788, London Heathrow UK, 2013 - The fire had been initiated by an uncontrolled and rapid discharge of stored energy from the 5-cell lithium-metal battery which powered the ELT.
+
+Related Articles
+
+Underwater Locator Beacon (ULB)
+
+Further Reading
+
+Honeywell RESCU 406 ® AFN Automatic Fixed Navigation Emergency Locator Transmitter. N61-0314-000-002. December 2006
+A review of the effectiveness of emergency locator transmitters in aviation accidents, by ATSB, 21 May 2013
+An overview of the COSPAS-SARSAT system (external link)
+An overview of the COSPAS-SARSAT system (a presentation by the Head of Secretariat)
+An overview of the COSPAS-SARSAT system and its current status (a presentation by the Head of Secretariat)
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

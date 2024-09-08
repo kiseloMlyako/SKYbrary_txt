@@ -1,0 +1,198 @@
+Reportable Incidents
+
+
+
+
+
+
+
+
+
+
+
+  Reportable Incidents
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Management 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Incident. An occurrence, other than an accident, associated with the operation of an aircraft which affects or could affect the safety of operation.
+Serious incident. An incident involving circumstances indicating that an accident nearly occurred.
+The difference between an accident and a serious incident lies only in the result. (ICAO Annex 13)
+For more information see: Accident and Serious Incident.
+Description
+In accordance with provisions laid down in Annex 13 — Aircraft Accident Investigation, Member States shall report to ICAO information on all aircraft accidents which involve aircraft of a maximum certificated take-off mass of over 2 250 kg. ICAO also collects information on aircraft incidents considered important for safety and accident prevention.
+The State in which the occurrence takes place must inform the State of Registry; the State of the Operator; the State of Design; the State of Manufacture; and ICAO as soon as possible. The notification shall be in plain language and its content shall contain as many as possible items from the list provided in ICAO Annex 13, Chapter 4 "Notification".
+The investigation of an accident or of a serious incident is a responsibility of the State in which the occurrence takes place. This responsibility is usually exercised by the national accident and incident investigation board, which is normally a department of the transport ministry and independent of the civil aviation authority. In some States, investigation is the responsibility of the national judicial system.
+Incident Data Reporting - ICAO Requirements
+There is no ICAO imposed obligation for States to conduct an investigation into an incident. However, Annex 13, paragraph 7.7 recommends that incidents involving aircraft of over 5 700 kg be reported if the investigation has revealed matters considered to be of interest to other States. If a State has determined that a specific incident is significant enough to warrant an investigation, then an Incident Data Report should be sent to ICAO ADREP.
+Types of Aircraft Incidents of Main Interest to ICAO
+
+Engine failure. Failures of more than one engine on the same aircraft and failures which are not confined to the engine, excluding compressor blade and turbine bucket failures.
+Fires. Fires which occur in flight including those engine fires which are not contained in the engine.
+Terrain and obstacle clearance incidents. Occurrences which result in danger of collision or actual collision with terrain or obstacles.
+Flight control and stability problems. Occurrences which have caused difficulties in controlling the aircraft, e.g. aircraft system failures, weather phenomena, operation outside the approved flight envelope.
+Take-off and landing incidents. Incidents such as undershooting, overrunning, running off the side of runways, wheels-up landing.
+Flight crew incapacitation. Inability of any required flight crew member to perform prescribed flight duties as a result of reduced medical fitness.
+Decompression. Decompression resulting in emergency descent.
+Near collisions and other air traffic incidents. Near collisions and other hazardous air traffic incidents including faulty procedures or equipment failures.
+
+This list can be expanded further in accordance to the examples given in ICAO Annex 13 regarding the description of serious incidents. The list below, extracted from ICAO Annex 13, is not exhaustive and only serves as guidance to the definition of serious incident.
+
+Aborted take-offs on a closed or engaged runway.
+Take-offs from a closed or engaged runway with marginal separation from obstacle(s).
+Landings or attempted landings on a closed or engaged runway.
+Gross failures to achieve predicted performance during take-off or initial climb.
+Fires and smoke in the passenger compartment, in cargo compartments or engine fires, even though such fires were extinguished by the use of extinguishing agents.
+Events requiring the emergency use of oxygen by the flight crew.
+Aircraft structural failures or engine disintegrations not classified as an accident.
+Multiple malfunctions of one or more aircraft systems seriously affecting the operation of the aircraft.
+Fuel quantity requiring the declaration of an emergency by the pilot.
+Failures of more than one system in a redundancy system mandatory for flight guidance and navigation.
+
+ADREP Reporting Forms and Taxonomies
+In the ADREP system, the occurrence is described by event-specific unique code identifiers.
+
+ADREP Reporting forms can be obtained here.
+ADREP 2000 standard Taxonomies defined by an international working group chaired by ICAO can be obtained here.
+
+The forms provide space for input for five pairs of events and phase of flight. Since events and phases of flight are to be stored into an electronic data base, it is necessary to use standard terms when completing the forms and to be as specific as possible. The pairs in the form must be complete; an event without its matching phase of flight is of little value to ICAO.
+ADREP Working Practices
+
+Data Analysis
+
+When ADREP reports are collected from States, the information is first checked and then stored into a database. The stored information constitutes a data bank of world-wide occurrences to provide States with the following services:
+a) a bi-monthly summary of reports received, providing States with an up-to-date picture of significant occurrences on a world-wide basis, as well as with an opportunity to check their reports as processed by ICAO. States are requested to advise ICAO of any errors found;
+b) annual ADREP statistics, presenting statistical information under broad categories such as the types of events which took place and the phases of operation in which they occurred; and
+c) replies to States’ requests for specific information. When States are requesting information for specific safety issues, they should forward to ICAO a request for information outlining the problem under study. Replies from ICAO may be sent using mail, telex, etc., depending on the urgency of the request and the amount of data to be sent.
+
+Protection of Data
+
+Considering the sensitivity in some States regarding the dissemination of incident information, the following constraints are placed upon the use of incident data:
+a) ICAO will use incident information for the purpose of accident prevention only;
+b) ICAO will not conduct analyses based only on aircraft incident information without identifying it as such; and
+c) ICAO will, before publication, delete the name of the State of Registry, the registration and the name of the owner/operator
+European Occurrence Reporting Directive Relating to Civil Aviation
+A provision in Regulation (EU) no 376/2014 of the European Parliament and of the Council of 3 April 2014 on the reporting, analysis and follow-up of occurrences in civil aviation sets a requirement for reporting occurrences at European Community level. The objective of this requirement is to introduce further improvement of the safety of civil aviation by better understanding of these occurrences and to facilitate analysis and trend monitoring in order to initiate corrective action.
+According to the Regulation, when an occurrence involves aircraft registered in a Member State or operated by an undertaking established in a Member State, this occurrence should be reported even if it happened outside the territory of the European Community.
+Aviation operators and service provider organisations of the Member States, through their mandatory reporting systems, are required to report to the competent authorities the occurrences presented in Commission Implementing Regulation (EU) 2015/2018.
+The full text of Regulation (EU) No 376/2014 can be found here.
+EUROCONTROL
+EUROCONTROL has provided in ESARR 2 - Reporting and Assessment of Safety Occurrences in ATM a list of ATM-related occurrences which, as a minimum, shall be reported and analysed at European level. Appendix A to ESARR 2 describes the minimum data to be collected and recorded for each safety occurrence. These shall also include the main results of the investigation, such as categories of causes, level of severity and safety recommendations/interventions in case an occurrence has been analysed in detail.
+The full text of ESARR 2 - Reporting and Assessment of Safety Occurrences in ATM can be found here.
+EASA
+JAR-OPS and EU-OPS requirements concerning safety reporting have been transposed into IR-OPS
+
+IR-OPS CAT.GEN.MPA.100 describes which incidents and accidents the crew members have a responsibility to report using the company reporting scheme detailed in IR-OPS ORO.GEN.200 and IR-OPS ORO.AOC.130
+IR-OPS ORO.GEN.160 describes the operators’ responsibilities for occurrence reporting
+EU-OPS 1.085(b) describes which incidents and accidents the crew members have a responsibility to report using the company reporting scheme detailed in EU-OPS 1.037.
+EU-OPS 1.420 describes the operators’ responsibilities for occurrence reporting.
+
+Further Reading
+ICAO
+
+Annex 13 — Aircraft Accident Investigation;
+ICAO Doc 9859 - Safety Management Manual, Fourth Edition - 2018;
+ICAO Integrated Safety Management website;
+
+EASA
+
+Accident Prevention and Flight Safety Programme: IR-OPS ORO.GEN.200 and IR-OPS ORO.AOC.130
+Crew Responsibilities: IR-OPS CAT.GEN.MPA.100
+Occurrence Reporting: IR-OPS ORO.GEN.160
+EU-OPS 1.037 Accident prevention and flight safety programme;
+EU-OPS 1.085 Crew Responsibilities;
+EU-OPS 1.420 Occurrence reporting;
+
+EUROCONTROL
+ESARR 2 - Reporting and Assessment of Safety Occurrences in ATM;
+
+
+
+
+Categories
+
+
+Safety Management,
+              Safety Management System
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

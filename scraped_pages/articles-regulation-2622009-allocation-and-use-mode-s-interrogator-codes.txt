@@ -1,0 +1,153 @@
+Regulation 262/2009 Allocation and Use of Mode S Interrogator Codes
+
+
+
+
+
+
+
+
+
+
+
+  Regulation 262/2009 Allocation and Use of Mode S Interrogator Codes
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Single European Sky 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Note: This Regulation was repealed by Regulation 2023/1771 and is no longer in force.
+Commission Regulation (EC) No 262/2009 of 30 March 2009 laying down requirements for the coordinated allocation and use of Mode S interrogator codes for the Single European Sky - text published in the Official Journal of the European Union
+Objective
+This Regulation has been adopted in order to support the deployment of an increasing number of Mode S interrogators and to resolve the problems resulting from the shortage of interrogator codes available for the interrogation of aircraft.
+Background
+The general framework of the Single European Sky (SES) needs to be completed by more specific and detailed implementing rules. The European Commission has adopted this Regulation in order to support the implementation of the Interoperability regulation, which forms part of the first package of legislation on air traffic management designed to create the SES.
+Mode S (Select) is a cooperative surveillance technique for air traffic control. To secure the safety of the air traffic surveillance system, it is essential that the radar coverage areas of two Mode S interrogators using the same interrogator code do not overlap, except if they are grouped in a cluster or if other appropriate operational mitigations are in place. Therefore, there is a need to coordinate the allocation and use of those interrogator codes efficiently.
+Summary
+Scope
+The Regulation lays down requirements for the coordinated allocation and use of Mode S interrogator codes for the purposes of the safe and efficient operation of air traffic surveillance and civil-military coordination.
+The Regulation shall apply to eligible Mode S interrogators and related surveillance systems, their constituents and associated procedures, when supporting the coordinated allocation or use of eligible interrogator codes.
+The Regulation should not cover military operations and training.
+Interoperability and Performance Requirements
+Mode S operators shall ensure that the radar head electronics constituent of their Mode S interrogators using an operational interrogator code:
+
+support the use of surveillance identifier (SI) codes and interrogator identifier (II) codes in compliance with the International Civil Aviation Organisation (ICAO) provisions specified in Annex I point 1 of the Regulation
+support the use of II/SI code operation in compliance with the requirements specified in Annex III of the Regulation.
+
+Associated procedures
+The Regulation defines and number of procedures to be followed by Mode S operators, ATS providers and Member States.
+A Mode S operator shall only operate eligible Mode S interrogators using eligible interrogator codes. For this purpose an interrogator code application shall be submitted to the competent State and respective code allocation received for each Mode S interrogator.
+Member States shall check the validity of the interrogator code applications and shall coordinate them through the centralised interrogator code allocation system operated by EUROCONTROL. The system performs a number of checks, establishes and maintains the interrogator code allocation plan and communicates the plan and any updates thereto to the States. The plan and any updates to it shall be approved by the Member States affected. In case of disagreement the Member States concerned shall bring the matter to the European Commission for action.
+Member States shall communicate interrogator code allocation changes to the concerned Mode S operators.
+ATS providers shall not use data from Mode S interrogators operating under the responsibility of a third country if the interrogator code allocation has not been coordinated.
+Military units operating eligible Mode S interrogators on any other interrogator code than II code 0 and other codes reserved for military management shall follow the procedures and additional requirements (see below) specified in the Regulation.
+Safety and Contingency Requirements
+ATS providers shall assess the possible impact on air traffic services of interrogator code conflicts, and the corresponding potential loss of Mode S target surveillance data. Unless the potential loss of Mode S target surveillance data has been assessed to have no safety significance, Mode S operators shall identify and implement as appropriate, a fallback mode of operation to mitigate the possible interrogator code conflict hazards. Such hazards shall be properly assessed and mitigated.
+Mode S operators shall implement monitoring means to detect interrogator code conflicts. Any identified interrogator conflict shall be reported to the competent Member State.
+Member States shall take the necessary measures to ensure that the allocation and use of interrogator codes for military units has no detrimental impact on the safety of general air traffic.
+Any changes to Mode S interrogators and related surveillance systems, their constituents and associated procedures or the introduction of such new systems and procedures shall be preceded by a safety assessment, including hazard identification, risk assessment and mitigation, conducted by the parties concerned.
+Conformity Assessment and Verification of Systems
+Manufacturers of constituents of the systems covered by the scope of this Regulation shall assess the conformity or suitability for use of those constituents in compliance with the requirements set out in Annex IV to the Regulation.
+ANSP shall conduct or, as appropriate, subcontract to a notified body the verification of the systems covered by the scope of this Regulation in accordance with the requirements set out in Annex VI of the Regulation.
+Additional Requirements
+EU Member States are required to take all necessary measures to ensure that the centralised interrogator code allocation and Mode S operators develop and maintain operations manuals containing all necessary instructions and information to enable their operations personnel to apply the provisions of this Regulation. The manuals shall be accessible, kept up-to-date and be subject to appropriate quality and documentation configuration management.
+Operations personnel shall be made duly aware of the relevant provisions and adequately trained for their job functions. Working methods and operating procedures shall comply with the relevant provisions specified in the Regulation.
+Entry into Force
+The Regulation entered into force in April 2009. However, the interoperability and performance requirements (see above) shall apply from 1 January 2011.
+This Regulation was amended by Regulation 2016/2345. This amendment updated relevant references to ICAO provisions.
+This Regulation was repealed by Regulation 2023/1771 and is no longer in force.Regulation (EC) No 262/2009 laying down requirements for the coordinated allocation and use of Mode S interrogator codes for the SES (OJ, 31.3.2009)
+Further Reading
+European Commission
+
+EUR-Lex Portal: Regulation 262/2009 (available in different languages and file formats)
+Air Transport Portal of the European Commission - Single European Sky
+
+
+
+
+
+Categories
+
+
+Single European Sky,
+              SES Implementing Rules
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

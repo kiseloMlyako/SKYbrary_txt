@@ -1,0 +1,181 @@
+Conflict Detection with Adjacent Sectors – Prevention Barriers
+
+
+
+
+
+
+
+
+
+
+
+  Conflict Detection with Adjacent Sectors – Prevention Barriers
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Separation 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+This article describes in detail the barriers used to reduce the chance of a conflict with an adjacent sector not being detected.
+Routine Structured Scan
+Scanning is a basic building block in ATC and pilot training. Prior to making an executive decision, the controller should scan all of the appropriate information, including the situation display and the flight data (strips or other information). It is akin to crossing the road. Listen, check right, check left, check right again. In ATC, it is check situation display, check flight data (strips), check co-ordinations agreed, evaluate immediate situation, and consider future implications – all to be done between “standby” and “affirm”.
+The use of Routine Structured Scanning techniques is capable of wholly preventing most generic losses of separation and may prevent the loss of separation in the majority of scenarios, depending upon the circumstances. A dedicated study has shown that the potential to prevent loses of separation would be around 30%.
+System Supported Coordination
+System supported coordination provides means for:
+
+automatic notification of a flight by an ATC sector/unit to the next downstream sector/unit or to a sector/unit that is concerned by the flight (e.g. the flight will pass very close to the common sector boundary);
+coordination of boundary conditions;
+any subsequent changes to boundary conditions;
+negotiation of the boundary conditions by counter proposals, acceptance or rejections of the proposals;
+transfer of frequency process and hand-over processes.
+
+The status of a flight within the coordination/transfer process is depicted through attributes of the track label, indicating both where a reply is expected from the neighbouring sector/unit and where a proposal has been issued by the neighbouring sector/unit. A dedicated study has shown that System Supported Coordination is capable of wholly preventing about one-third of the losses of separation, but would have no positive impact on an equal number of other scenarios with a potential to prevent loses of separation of around 50%.
+Shared surveillance trajectories
+This feature is mainly used for sectors which are part of a common centre. Sectors downstream from the planned trajectory are presented with amended flight profiles as these are amended tactically (i.e. as soon as the current sector completes a trajectory update all downstream sectors receive the new trajectory).
+Coordination phraseology and procedures
+Some events are initiated by imprecise and unchallenged coordination. For example, if the receiving sector was informed that the aircraft being transferred was being stopped at FL280 “because of the 27” and there were two aircraft in the vicinity at FL270, the receiving controller could focus his actions in relation to the wrong one. A dedicated study has shown that a formalised and employed correct coordination phraseology and procedures could prevent one-fifth of generic loss of separation scenarios. It may prevent a couple more, depending upon the circumstances, but will have no positive impact on the majority of scenarios. Potential to prevent loses of separation is estimated to be around 25%.
+Medium term conflict prediction tools with route updates (e.g. MTCD)
+These are tools that predict the trajectory of the aircraft in mid-term of up to 20-30 minutes and are usually based on flight plan information, updated with surveillance information about the position and speed of the aircraft and actual and forecasted meteorological information. Considering the aircraft type performance, the tools calculate if the aircraft will come into conflict with another aircraft. Some medium term conflict detection tools are equipped with functionality for the controller to update the route of the aircraft should this not follow the flight planned route.
+Short Term Conflict Probe (What-if)
+There are various forms of “What-if” or Level Assessment tools available to probe the safety of an offered level change. To some extent, it fulfils the role of scanning.
+The "what-if" tools use a system flight plan trajectory model. The controller makes a "mock input" into the ATM system and then activates the "what-if" instead of issuing a clearance. The proposed change is sent to the conflict processor tool (e.g. MTCD) and the conflicts found are presented to the controller. The trajectory is not modified, no coordination occurs and no clearance is sent (e.g. via CPDLC) unless the controller confirms the input. If a conflict is found by the system, the controller simply discards the input and the system returns to the state before the "mock input".
+These tools are available to the planner and tactical controller and applied to TMA and en-route operating environments.
+Predictive Separation Alert Tool with flight crew intentions inputs
+Some medium term conflict prediction systems have tactical update facility. The idea is that the system starts with the FPL routing but updates tactically the flight trajectory when the aircraft deviates from that route. The display is updated according to downloaded aircraft headings and selected flight levels.
+An example of such a tool is the downlinked Final State Selected Altitude (FSSA or Selected Flight Level) which is used by STCA for detecting conflicts early in advance. Predictive STCA tools with downlinked flight deck selections can wholly prevent losses of separation in some scenarios and may prevent them in others, depending upon the circumstances. A dedicated study has shown a potential to prevent loses of separation of around 60%.
+The study has also shown that a separation alert tool is the single most efficient barrier. It has the potential to wholly prevent losses of separation, in some scenarios, caused by ineffective conflict detection with adjacent sectors. In addition, it may prevent losses of separation in most scenarios, depending upon the operational circumstances.
+Compliance monitoring aids
+These are tools monitoring for compliance between planned and executed flight trajectory and providing alerts in case of discrepancy. Such alerts may include:
+
+lateral trajectory compliance alerts
+vertical trajectory compliance alerts
+cleared level deviation alerts
+level bust alerts
+alerts about non-achievement of coordinated sector exit/entry conditions
+
+Conclusion
+The dedicated study has shown that a combination of four barriers seems to deliver the best reliable protection to prevent losses of separation because of ineffective conflict detection with adjacent sectors:
+
+Predictive Separation Alert Tool (e.g. STCA) with downlinked flight deck selections.
+System Supported Coordination.
+Structured Scan.
+Formalised Coordination phraseology and procedures.
+
+Further Reading
+
+Operational Safety Study: Conflict Detection with Adjacent Sectors, by EUROCONTROL SISG
+
+
+
+
+
+Categories
+
+
+Loss of Separation,
+              Airspace Infringement,
+              Air Ground Communication
+
+
+
+
+
+
+
+
+
+Related Articles
+
+Loss of Separation at Sector Boundaries
+Conflict Detection with Adjacent Sectors
+Conflicts with Adjacent Sectors – Typical Causes and Contributors
+Loss of Separation During Weather Avoidance
+Free Route Airspace (FRA)
+Loss of Separation - ATCO-induced Situations
+ATM Sector Management
+Civil-Military Interaction in ATM
+Loss of Separation
+Loss of Separation - Pilot-induced Situations
+Medium Term Conflict Detection (MTCD)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

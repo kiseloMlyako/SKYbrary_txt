@@ -1,0 +1,183 @@
+Conflict Detection with Adjacent Sectors
+
+
+
+
+
+
+
+
+
+
+
+  Conflict Detection with Adjacent Sectors
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Separation 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Losses of Separation in the En-Route environment sometimes involve inadequate coordination with an adjacent sector. These typically involve either an early (premature) transfer of communication to or from the neighbouring sector, or the infringement of a neighbouring sector without coordination.
+Typical scenarios
+Loss of separation with adjacent sectors usually means that standard procedures have not been followed or something has gone wrong with the coordination of a non-standard solution. The most common scenarios are:
+
+Correct coordination but incorrect action – the two controllers agreed on a solution but for some reason (e.g. clearance issued too late, inadequate or unexpected by ATC aircraft performance, etc.) the transferring controller did not ensure that the coordinated action was carried out.
+Incomplete or misunderstood coordination – there was some misunderstanding between the controllers (e.g. ambiguity, incorrect use of phraseology, etc.) which lead to two different plans (the accepting controller believed one thing was about to happen while the transferring controller did something different).
+Incorrect plan – the plan was correctly coordinated and carried out but had a flaw (e.g. involved a third party airspace or otherwise created an unsafe situation).
+Lack of coordination – a coordination should have been made but the transferring controller either forgot or did not identify the need to do it.
+Failure to correctly apply Standing Agreements or procedures – a standard procedure laid down in a manual or an agreement was not followed.
+
+More detailed description of the scenarios is provided in the Conflicts with Adjacent Sectors – Typical Causes and Contributors article.
+Contributing factors
+A number of factors (that can otherwise be considered safe or irrelevant) can contribute to an event if combined in a certain way. The most common of these are:
+
+Transfer too early – this leads to a controller providing ATS in another controller's airspace for a relatively long period of time while not having the tools, competence or situational awareness required.
+Transfer too late – sometimes the hotspots in a sector (especially in free route airspace environment) are too close to the boundary. Transferring an aircraft too late may limit the options of the receiving controller to solve a conflict.
+Wrong frequency – depending on the circumstances, this may lead to various events from later check-in on the new frequency (due to the need to switch back to the previous one) to a prolonged loss of communication.
+Sector skipping – sector clipping (an aircraft passing through a sector within a very short period of time, usually less than a minute) usually results in the controllers' desire to skip the “short” sector and avoid unnecessary frequency changes. Sometimes however, the definition of “short” becomes too stretched and a sector is skipped when it should not have been (e.g. a controller not spotting an aircraft there because of its dull colour representation).
+Workload (too high or too low) – a high workload may lead to incomplete situational awareness or lower-priority actions (e.g. transfer of control) being neglected. A very low workload level may lead to distraction and negligence.
+Obscured track label – a combination of different colours and high workload may easily lead to a track not being correctly seen by the controller.
+Incorrect/insufficient plan – the lack of an adequate plan may result in erratic last-minute action which may interfere with the neighbouring sector's idea on how to solve the situation.
+
+More detailed description of the contributing factors is provided in the Conflicts with Adjacent Sectors – Typical Causes and Contributors article.
+Prevention barriers
+Prevention barriers are intended to solve the problem before it has emerged.
+
+Routine Structured Scan – this is a basic part of the ATC job. It involves repeated checks of the situational display and flight data in order to properly identify a conflict.
+System Supported Coordination – system tools that support coordination (e.g. electronic proposals and counter proposals, assistance with aircraft transfer, etc.) can make the process of coordination easier and more standard.
+Shared surveillance trajectories – downstream provision of updated trajectory enhances the next sector's situational awareness.
+Coordination phraseology and procedures – strict adherence to standard phraseology and procedures reduces the possibility of misunderstanding.
+Medium term conflict prediction tools with route updates
+Short Term Conflict Probe – this barrier includes various tools to check whether a clearance that is about to be issued will cause a conflict.
+Predictive Separation Alert Tool – an update to MTCD and STCA that includes enhancements such as updates in case the flight deviates from the expected trajectory or inclusion of downlinked flight crew intentions.
+Compliance monitoring aids – tools monitoring for compliance between planned and executed flight trajectory and providing alerts in case of discrepancy, such as Route Alert Monitoring (RAM) and Cleared Level Alert Monitoring (CLAM).
+
+More detailed description of the prevention barriers is provided in the Conflict Detection with Adjacent Sectors – Prevention Barriers article.
+Mitigation barriers
+Mitigation barriers are intended to reduce or eliminate the impact of a problem after it has happened. These are general mitigation barriers against loss of separation and are not specific to the conflict detection with adjacent sectors. Therefore, they will only be listed and not explained in detail:
+
+Routine Structured Scan – this barrier has the potential to resolve a situation after e.g. a conflicting clearance has been issued.
+Operational TRM – a colleague warning may be a very effective way to spot and resolve a conflict situation.
+Short Term Conflict Alert (STCA) is a system tool that warns the controller of imminent loss of separation.
+ACAS is an airborne equipment to warn or advise the pilots to take appropriate collision avoiding action.
+See and Avoid relies on the pilots to detect the conflicting traffic visually and thus to avoid collision.
+Providence – good luck.
+
+Further Reading
+
+Operational Safety Study: Conflict Detection with Adjacent Sectors, by EUROCONTROL SISG
+
+
+
+
+
+Categories
+
+
+Loss of Separation,
+              Airspace Infringement,
+              Air Ground Communication
+
+
+
+
+
+
+
+
+
+Related Articles
+
+Conflict Detection
+Loss of Separation at Sector Boundaries
+Conflicts with Adjacent Sectors – Typical Causes and Contributors
+Conflict Detection with Adjacent Sectors – Prevention Barriers
+Loss of Separation During Weather Avoidance
+Free Route Airspace (FRA)
+Loss of Separation - ATCO-induced Situations
+ATM Sector Management
+Civil-Military Interaction in ATM
+Loss of Separation
+Loss of Separation - Pilot-induced Situations
+Medium Term Conflict Detection (MTCD)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

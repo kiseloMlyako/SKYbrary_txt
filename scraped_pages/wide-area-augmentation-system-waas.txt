@@ -1,0 +1,126 @@
+Wide Area Augmentation System (WAAS)
+
+
+
+
+
+
+
+
+
+
+
+  Wide Area Augmentation System (WAAS)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+The Wide Area Augmentation System (WAAS) provides extremely accurate navigation capability by augmenting the Global Positioning System (GPS). It was developed for civil aviation by the Federal Aviation Administration (FAA) and covers most of the U.S. National Airspace System (NAS) as well as parts of Canada and Mexico. WAAS provides service for all classes of aircraft in all phases of flight - including enroute navigation, airport departures, and airport arrivals. This includes vertically guided landing approaches that can be used in Instrument Meteorological Conditions (IMC).
+How it Works
+The Wide Area Augmentation System covers nearly all of the U.S. National Airspace System (NAS). The WAAS provides augmentation information to GPS receivers and thus enhances the accuracy and the reliability of position estimates. This is accomplished as follows:
+
+The signals from GPS satellites are received across the NAS at numerous widely-spaced Wide Area Reference Stations (WRS) sites. The location of these WRS sites are precisely surveyed to allow any errors in the received GPS signals to be detected
+The GPS information collected by the WRS sites is transmitted to the WAAS Master Station (WMS) by means of a land-based communications network. Based on the information received, the WMS generates WAAS augmentation messages
+The augmentation messages are sent from the WMS to uplink stations from where they are transmitted to the navigation payloads on Geostationary communications satellites
+The Geostationary satellites then broadcast the augmentation messages on a GPS-like signal. These messages provide information that allows aircraft GPS/WAAS receivers to remove errors in the GPS signal, allowing for a significant increase in location accuracy and reliability
+WAAS also provides indications to GPS/WAAS receivers of where the GPS system is unusable due to system errors or other issues
+
+Benefits
+The Wide Area Augmentation System provides many benefits to aviation and also supports a number of non-aviation uses. Some of the primary benefits to aviation users are as follows:
+
+Safety - the WAAS system was designed to the strictest of safety standards – users are notified within six seconds of any Global Positioning System issuance of hazardously misleading information that would cause an error in the GPS position estimate
+Improved position accuracy - WAAS results in a significant improvement in both horizontal and vertical position accuracy
+Improved airport access - where authorised, WAAS capability can allow a RNAV (GPS) approach to be flown to LPV (Localizer Performance with Vertical guidance) minimums of as low as 200' which is equivalent to ILS Cat 1 capabilities. The number of WAAS enabled LPV approaches now far exceeds the number of ILS installations within the U.S. NAS
+RNP 0.3 availability - WAAS can support Required Navigation Performance (RNP) values of as low as 0.3 in both North and South America
+Interoperability - Satellite Based Augmentation Systems (SBAS), similar to WAAS, are available in Europe, Japan, India, and are being developed in other regions of the world. All of these systems are designed to be interoperable which allows aircraft equipped with WAAS receivers to use these other systems as well
+
+Related Articles
+
+Global Positioning System (GPS)
+Satellite Based Augmentation System (SBAS)
+Ground Based Augmentation System (GBAS)
+Performance Based Navigation (PBN)
+Automatic Dependent Surveillance Broadcast (ADS-B)
+
+Further Reading
+FAA
+
+WAAS Website
+
+
+
+
+
+Categories
+
+
+General

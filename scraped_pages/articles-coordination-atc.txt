@@ -1,0 +1,178 @@
+Coordination in ATC
+
+
+
+
+
+
+
+
+
+
+
+  Coordination in ATC
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+The process of obtaining agreement on clearances, transfer of control, advice or information to be issued to aircraft, by means of information exchanged between air traffic services units or between controller positions within such units.
+Source: ICAO Doc 9426
+Description
+The purpose of coordination is to create a plan for handling a situation that is acceptable to all air traffic controllers concerned. Unlike the transfer of information (e.g. flight plan data, estimates, etc.), coordinating requires that the accepting side agrees to the proposed solution. If a mutually acceptable plan cannot be negotiated, then either:
+
+an alternative is proposed (preferably by the rejecting side), or
+a standard procedure (described in a local instruction or a letter of agreement) is followed.
+
+In most cases, coordination is about the conditions under which aircraft are transferred between air traffic controllers (e.g. flying on a radar heading instead of following own navigation) or otherwise operate near the border between their areas of responsibility (eg. flying parallel, but close to that border). This is because such situations have inherent risk of being unable to timely communicate a problem solving instruction.
+Another aspect of coordintation is implementation. Agreeing to a common solution and then failing to perform the corresponding actions can be even more dangerous than not being able to properly coordinate because the other party may be less vigilant considering the issue to be solved. Therefore, making sure the other party complies with the negonitated plan is as important as monitoring aircraft compliance with the instructions issued.
+Coordination usually affects two ATC units or sectors (the transferring and the accepting one). It is possible, however, that other parties need to be consulted before implementing the plan, e.g. military authorities and other ATC sectors/units in case a flight passes in close proximity to (or clips) their airspace. Action is only to be taken if all stakeholders are satisfied with the plan.
+Typical Situations
+Coordination may be necessary in various situations. The examples provided below are not exclusive:
+
+Before accepting the responsibility for a flight
+A situation involving several aircraft develops near the border between two ATS units
+Establishing an appropriate sequence of departing and arriving aircraft (especially in mixed mode operations)
+A civil aircraft passes through a temporary reserved area, used by the military
+A military aircraft passes through airspace served by a civil ATS unit while in contact with the military unit
+Aircraft departing from an aerodrome that is too close to another ATS unit
+Operations on closely situated aerodromes serviced by different ATS units
+Activation of special use areas (e.g. danger areas or temporary segregated areas), i.e. making sure uninvolved aircraft leave that airspace before it is activated
+Emergency or abnormal situations, including aerodrome unavailability, ground system malfunction, etc.
+
+Simplifying the Process
+In recent decades, air traffic has increased far beyond the point where it was feasible to perform a verbal (e.g. phone) coordination for each and every aircraft in each and every situation that concerns more than one ground unit. Therefore, a necessity to simplify the process (without compromising safety) arose. The solutions can be summarized by the following principles:
+
+Habitual situations are handled using simplified and standard methods and tools that are much less time-consuming and involve some kind of system support
+Complex situations are handled by verbal coordination
+
+Examples of simplified solutions include:
+
+Use of OLDI messages to deliver flight data (estimates, revisions, etc.) or negotiate simple plans (e.g. earlier transfer of communication, flight "locked" on a heading instead of using own navigation, a change of the level at the boundary, etc.)
+Electronic coordination. This may be either done using OLDI messages or by developing customized, system-specific functions. The latter are used when all controllers involved operate the same system.
+Silent transfer of control - e.g. if (a) flight data has been transferred in good time (e.g. via OLDI) and (b) the separation between two successive aircraft will be XX miles (or more), then it is not necessary to negotiate the conditions for the transfer of each and every flight using the phone.
+
+Poor Coordination
+There are several factors that may lead to poor coordination:
+
+Failure to detect the need for coordination. For example, an aircraft flying eastbound at FL 430 will normally need to be coordinated with the next sector or unit (unless otherwise specified in a local procedure). However, FL 430 could be perceived as an eastbound level (because 43 is an odd number).
+Ambiguous language. Failure to clearly state one's request or response may result in the other party acting in an unexpected way.
+Expectation bias. An example of this is a situation with two aircraft having similar callsigns (e.g. flying for the same operator or having similar tail numbers, etc.). The controller initiating the coordination may request something about one of those and the receiving controller may approve the request thinking about the other aircraft.
+Complacency - being confident in one's ability to control the situation may encourage a person to skip a coordination. In the above example with the aircraft flying at FL 430, a controller may know that they need to coordinate the level with the next unit or sector but still choose not to, due to the mindset that "very few aircraft fly this high anyway".
+Failure to follow the plan. A coordination is only efficient when both parties act in accordance with the agreed solution.
+Rushed response. Controllers are generally reluctant to reject a proposed coordination and normally do so only with a good reason. However, approving a proposed solution without carefully considering its impact may lead to solving a problem at the expense of creating another one.
+
+There are three primary safety risks associated with poor coordination:
+
+Loss of Separation, especially near the sector boundaries
+Airspace Infringement, e.g.
+
+Aircraft entering a special use area shortly after leaving the sector
+Aircraft entering controlled airspace it was not supposed to
+
+
+Runway Incursion in the Ground-Tower case
+
+Additionally, poor coordination often leads to an increased workload due to the necessity to quickly develop and execute a mitigating plan in addition to the routine controller tasks.
+Related Articles
+
+GND-TWR Co-ordination
+ATC Unit Coordination
+ATC Team Coordination
+Release Procedure
+Approval Request Procedure
+Transfer of Control
+Transfer of Communication
+Online Data Interchange (OLDI)
+
+
+
+
+
+Categories
+
+
+General,
+              Airspace Infringement,
+              Loss of Separation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

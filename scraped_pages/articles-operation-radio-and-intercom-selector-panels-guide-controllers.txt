@@ -1,0 +1,81 @@
+Operation of the Radio and Intercom Selector Panels
+
+
+
+
+
+
+
+
+
+
+
+  Operation of the Radio and Intercom Selector Panels
+
+
+
+
+
+
+
+
+
+Toolkit Navigation
+
+
+Flight Deck Procedures - A Guide for Controllers
+
+
+
+
+
+
+Pre-flight Planning
+Set-up and Briefing
+Start-up,  Push-back and Taxi
+Take-off and Climb
+Cruise
+Descend,  Approach and Landing
+Crew Information and Action Flow
+Automatic Flight
+Operation of the Radio and Intercom Selector Panels
+Windshear Detection
+GPWS
+
+
+
+
+
+
+
+
+
+
+
+
+
+The operation of the ‘radio boxes’ in modern large aircraft is slightly more complicated than may at first be thought. When learned, such operation becomes relatively simple, however, in situations of high workload or when pilots simply have a moment of forgetfulness, this can easily lead to incorrect operation as detailed below. To begin with, the ‘radio boxes’ in modern large aircraft physically consist of 2 different parts. One part is the Frequency Selector Panel (FSP) which has a frequency display and frequency selector knobs or buttons. The other part is the Audio Control Panel (ACP) which has knobs or buttons to allow selection of which ‘radio box’ to receive, the reception volume, whether the reception is via the speaker or headset, which ‘radio box’ to transmit on, and which microphone to use for the transmission. These ACP controls are not solely for radio communication frequencies but also for the navigation radio frequencies, aircraft intercom channels and the Public Announcement (PA) system.
+Each ACP is slaved to a particular flight crew station. Therefore it is usual to have one ACP on the captain’s side (i.e. slaved to the captain’s speakers and microphones) and one ACP on the co-pilot’s side (i.e. slaved to the co-pilot’s speakers and microphones). If a third or fourth ACP is fitted these are usually situated on the rear of the centre console or in the overhead panel and are slaved to the appropriate observers’ positions.
+It is usual to have two Frequency Selector Panels (FSPs) and sometimes a third may be fitted. As the FSPs are not slaved to a particular flight crew station they can be situated anywhere in the cockpit. However, it is usual to have FSP1 situated on the left hand side of the centre console and FSP2 situated on the right hand side of the centre console. Additional FSPs are usually situated on the rear of the centre console or in the overhead panel.
+It is therefore often the case that FSP1 is situated immediately next to the captain’s ACP, and FSP2 is situated immediately next to the co-pilot’s ACP. However, it is important to remember that the FSPs and ACPs are completely separate entities despite the fact that they may look like one system due to their location next to each other. This can lead to part of the mis-operation as detailed below.
+The FSP’s are usually of a conventional format or a more modern ‘multi-function’ format. The conventional format has the frequency selector knobs or buttons hard wired to one particular comms radio only e.g. FSP1 controls comms radio 1 and FSP2 controls comms radio 2. A pilot wishing to change the frequency on a conventional FSP must therefore reach over to the required FSP in order to accomplish this. The multi-function format FSP’s have ‘box-selectors’, e.g. ‘VHF1’, ‘VHF2’ and ‘VHF3’, that link the frequency display and frequency selector knobs or buttons of that FSP to whichever of the comms radios is selected by the aforementioned ‘box-selectors’. With a multi-function format FSP a pilot wishing to change the frequency on a comms radio does not therefore have to reach over to another FSP in order to accomplish this, but can access the required comms radio from the nearest FSP.
+With the multi-function format FSPs it can be the case that the frequency in use for transmission and reception is not actually displayed anywhere in the flight deck. For example, if both FSP1 and FSP2 are set to ‘VHF2’ then both those FSPs will display the frequency tuned on the ‘VHF2’ radio, however both pilots may have their ACP microphone transmission and speaker reception selectors set to the ‘VHF1’ radio.
+In order to prevent this and to ensure that the frequency of each of the comms radios is displayed in the flight deck it is a common SOP to (except for when changing a frequency using a multi-function FSP as described above) require the FSP situated on the captain’s side to be set to the ‘VHF1’ radio and to be used for the frequency required for communication with ATC, whilst the FSP situated on the co-pilot’s side is to be set to the ‘VHF2’ radio and to be used for appropriate ‘secondary frequencies’ e.g. 121.5MHz, the ATIS frequency or the handling agent frequency. When using a multi-function FSP to tune other than the ‘on-side’ comms radio it is therefore important that the FSP ‘box-selector’ is returned to the ‘on-side’ radio after tuning in order to maintain the aforementioned SOP.
+Both the conventional and multi-function format FSPs have 2 ‘display windows’, one showing the ‘tuned’ frequency and the other showing the ‘standby’ frequency. The ‘tuned’ frequency is the one that is (always) signalled to the comms radio as the transmission and reception frequency. The ‘standby’ frequency is never available for use for transmission or reception whilst in the ‘standby window’ and must therefore be transferred to the ‘tuned window’ in order to be used. The need for the 2 windows is therefore to allow pilots to display and set the next frequency to be used without having to remove the current frequency being used or its display.
+Due to the physical layout of the FSP and ACP, as described above, the FSP and/or ACP can easily be set to an inappropriate configuration which can lead to inappropriate operation as explained in the following examples:
+
+The first example is that the pilot may forget to re-select the ACP microphone selector to ‘VHF1’ after using another channel for transmitting, e.g. transmitting on the intercom to communicate with the cabin crew, transmitting on ‘VHF2’ to communicate with the handling agent, or transmitting on the PA. When returning to ‘VHF1’, the pilot, now listening to ‘VHF1’ and intending to transmit on ‘VHF1’, e.g. to reply to ATC, will not actually be transmitting on ‘VHF1’ but will be transmitting on the intercom, ‘VHF2’, or the PA without realising it.
+The second example is that when listening to other than the ATC comms frequency, e.g. when using the intercom to communicate with the cabin crew, listening to an ATIS on ‘VHF2’, or when making a PA, it is often necessary to minimise/turn off the volume of the ATC comms frequency (on ‘VHF1’). When returning to ‘VHF1’ if the pilot forgets to increase the reception volume of ‘VHF1’ they will think they are maintaining a listening watch of the ATC comms frequency when actually they will not hear anything from that frequency.
+The third example is that if a multi-function FSP is not set to its ‘on-side’ radio the pilot may use an incorrect frequency, e.g. the co-pilot may wish to communicate with the handing agent on ‘VHF2’. FSP2 is set to ‘VHF1’ (due to forgetting to re-set it to ‘VHF2’ after previous use) but the co-pilot does not realise this and assumes it is set to its ‘on-side’ radio i.e. ‘VHF2’. The co-pilot then tunes FSP2 to the handling agent frequency and, after selecting his ACP to transmit and receive ‘VHF2’, then transmits on ‘VHF2’. The situation is therefore that the co-pilot is not transmitting on the frequency displayed on FSP2 but is transmitting on the non-displayed frequency of ‘VHF2’. Also, in this case, as FSP2 is set to ‘VHF1’ and the co-pilot has tuned FSP2 to the handling agent frequency, this has removed the ATC frequency in use from ‘VHF1’. The captain, who’s ACP has remained set to transmit and receive ‘VHF1’ in order to maintain communications with ATC, now does not have that ATC frequency set on ‘VHF1’ and so neither pilot is now in communication with ATC.
+The fourth example is that the pilot may either: inadvertently change the frequency on the FSP ‘tuned window’ thinking that it was the ‘standby window’, therefore removing the required ‘tuned’ frequency; or, mistake the ‘standby window’ for the ‘tuned window’, therefore thinking that the frequency that is in use is that as displayed in the ‘standby window’ when actually it is not.
+
+When using a multi-function FSP it is therefore important to check that the FSP is selected to the desired comms radio.
+ 
+Go To:
+
+Crew Information and Action Flow
+Automatic Flight
+Windshear Detection
+GPWS
+
+Return to Flight Deck Procedures - A Guide for Controllers

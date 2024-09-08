@@ -1,0 +1,199 @@
+Procedural Control
+
+
+
+
+
+
+
+
+
+
+
+  Procedural Control
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Separation 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Term used to indicate that information derived from an ATS surveillance system is not required for the provision of air traffic control service.
+Source: ICAO Doc 4444 PANS-ATM
+Description
+The general principles of air traffic control are the same regardless of whether procedural or surveillance methods are used (i.e. the controller monitors the traffic situations, detects and solves conflicts by providing separation, and ensures orderly flow of the air traffic). The difference lies in the way situational awareness is built and updated (by pilot reports, estimates and visual observation), the separation minima themselves (as described in ICAO Doc 4444, Chapter 5) and the support tools (flight strips instead of a situation display).
+Typical Applications
+Typical applications of procedural control include:
+
+In airspace where surveillance cover is not available (e.g. oceanic airspace or sparsely populated areas)
+In terminal movement areas (TMAs) if the traffic levels are such that they do not warrant the installation and maintenance of a surveillance system
+In aerodrome control zones (CTRs), especially if the traffic density is relatively low and the aerodrome layout is not complex (e.g. only one runway, one apron and a few taxiways)
+Backup solution in case of complete failure of all surveillance-based systems
+
+Separation
+Procedural separation is to be provided during procedural control.
+Traffic on the manoeuvring area is usually separated by use of standard positions that have been assessed to provide adequate spacing. A typical example is the holding point of a taxiway. An aircraft is supposed to proceed after such a point only after obtaining an explicit clearance (including a conditional one). Aerodrome lighting may also be used for this purpose. For complex aerodromes, specific holding points are defined before crossing other taxiways.
+The following methods are usually used for en-route procedural control:
+
+Vertical separation. Standard vertical separation is 1000 ft at or below FL 280 (or at or below FL 410 if RVSM is applied) and 2000 feet above that level. If procedural control is used as a contingency, these may, as a last resort, be temporarily reduced to 500 ft / 1000 ft respectively.
+Horizontal separation. The main principle is that if aircraft are at the same level (i.e. vertical separation is not applied) then they should be at different positions.
+
+Longitudinal separation. It is based on the distance between two aircraft, and is expressed and applied in minutes or in nautical miles. Different minima may apply based on aircraft speed (the faster the former aircraft, the smaller the separation minimum) and navigation equipment (if aircraft position can be determined more accurately, smaller minima apply). This separation may be applied to successive aircraft (i.e. one flying behind the other) as well as aircraft on opposite or crossing tracks. An example of longitudinal separation is two aircraft on crossing tracks passing the crossing point 15 minutes of each other (in case aircraft position is only determined by pilot reports and no navigation aids are available).
+
+
+
+
+Example of longitudinal separation when no navigation aids are available
+
+
+
+Lateral separation is applied so that the distance between the intended routes is never less than an established distance (expressed in NM). An example of this is two aircraft flying on different (non-intersecting) airways, the distance between which is enough to account for navigational inaccuracies plus a buffer.
+
+
+
+
+Example of lateral separation using VOR. Both aircraft are established on radials diverging by at least 15 degrees and at least one aircraft is at a distance of 15 NM or more from the facility
+The methods above are also applicable for other ATS units providing procedural control. Also, aerodrome controllers may provide reduced separation provided that each aircraft is continuously visible to them. For example, an aerodrome controller may clear an aircraft to cross above a runway at a right angle after a departing traffic has passed the intersecting point of the two flight paths.
+
+Aircraft A is taking off, aircraft B is cleared to cross above the runway. The tower controller observes both aircraft and is therefore able to apply separation that is significantly lower than e.g. surveillance separation which is 3 NM or 1000 ft if provided by an approach control unit
+Procedures
+The main difference between surveillance-based control and procedural control is the way the controller builds and maintains a picture of the air situation. Note that, by definition, the use of procedural control does not mean that surveillance data is not available at all nor does it preclude the use of such data. However, this is only to be done for enhancing the controllers' situational awareness and is by no means intended (or allowed) to assist in providing separation between aircraft. The methods that can be used for separation provision are explicitly stated in local instructions (e.g. manuals of operations).
+The main tool in procedural control is Flight Progress Strips. Controllers use these in order to:
+
+record clearances given to aircraft. This is done by writing pre-defined symbols (e.g. arrows for climb and descent) and other short pieces of information (e.g. levels). The symbols to be used as well as the rules for moving the strips within the controller working position are described in the operation manuals.
+represent the air situation. Flight progress strips are placed in a special way to give the controller an idea about the relative position of aircraft. Different strip bays may be used, e.g.
+
+for the CTR, there may be bays for flights on the apron, on the taxiways, in the aerodrome traffic circuit, being cleared to enter the active runway(s), etc.
+for the en-route environment, flight strips may be placed in different bays, e.g. one for eastbound traffic and another for westbound, or one for each airway, or one for each flight level, etc.
+
+
+
+Strips being in the same strip bay are then sorted by some criteria, e.g. estimated time, level, etc.
+Aircraft position determination and position updates are made by either pilot reports or visual observations, the latter being applicable in the CTR or on the manoeuvring area by tower and ground controllers. Position reports are also used to update the estimates for next points on the route.
+Position estimates are then used to determine if there is a conflict between aircraft being at the same level and also for issuing clearances for level changes.
+Situational examples:
+
+Two aircraft are maintaining different levels, therefore there is no conflict between them.
+Two aircraft are maintaining the same level. Their position estimates over the same waypoint are compared, and if the time difference is less than the prescribed minimum, action must be taken by the controller, for example:
+
+one of the aircraft will need to change the level so that vertical separation is applied, or
+one of the aircraft makes an orbit for delay, so that the applicable time minimum is achieved, or
+the speeds of the aircraft are adjusted in such a way that a lower separation minimum is applicable.
+
+
+
+Note: the list of possible controller actions is not exclusive.
+
+Two aircraft are maintaining different levels but the lower one requests to climb to a level above the upper one. The controller compares the position estimates and determines the appropriate horizontal sepration to be used for the period of time when vertical separation would not exist. The climbing aircraft will also be required to report passing or reaching the level that is 1000 ft above the other one.
+
+Accidents and Incidents
+
+
+B738 / DV20, vicinity Reus Spain, 2019On 12 May 2019, a Boeing 737-800 making its second procedural ILS approach to runway 25 at Reus came into conflict with an opposite direction light aircraft as the latter approached one of the designated VFR entry points having been instructed to remain well above the altitude which normally ensures separation of IFR and VFR traffic. The collision risk was resolved by TCAS RA promptly followed by the 737. The Investigation concluded that limiting the TWR radar display to the ATZ for controller training purposes had resulted in neither the trainee controller nor their supervisor being aware of the risk.
+
+H25B / B738, en-route, south eastern Senegal, 2015On 5 September 2015, a Boeing 737-800 cruising as cleared at FL350 on an ATS route in daylight collided with an opposite direction HS 125-700 which had been assigned and acknowledged altitude of FL340. The 737 continued to destination with winglet damage apparently causing no control impediment but radio contact with the HS 125 was lost and it was subsequently radar-tracked maintaining FL350 and continuing westwards past its destination Dakar for almost an hour before making an uncontrolled descent into the sea. The Investigation found that the HS125 had a recent history of un-rectified altimetry problems which prevented TCAS activation.
+
+A332 / A333, en-route, North West Australia, 2012On 31 March 2012, after the implementation of contingency ATC procedures for a period of 5 hours due to controller shortage, two Garuda A330 aircraft which had been transiting an associated Temporary Restricted Area (TRA) prior to re-entering controlled airspace were separately involved in losses of separation assurance, one when unexpectedly entering adjacent airspace from the TRA, the other when the TRA ceased and controlled airspace was restored. The Investigation did not find that any actual loss of separation had occurred but identified four Safety Issues in relation to the inadequate handling of the TRA activation by ANSP Airservices Australia.
+
+F50 / T6, vicinity Maastricht Netherlands, 2007On 2 August 2007, a Fokker F50 on an ILS approach to Maastricht in IMC came into close proximity inside the CTZ with an unseen light aircraft which had failed to comply with its Special VFR transit clearance. The Investigation found that the transiting aircraft had come within 0.14nm / 260 metres of the opposite direction F50 at a similar altitude without either aircraft having sight of the other, and that the Harvard had been wrongly assumed by ATC to be a helicopter after an initial lack of call sign prefix clarity on first contact had not been positively resolved.
+
+
+
+
+Related Articles
+
+Loss of Separation
+Separation Standards
+Flight Progress Strips
+Radar Control Service
+Radar Identification
+
+Further Reading
+ICAO Doc 4444 PANS-ATM
+
+
+
+
+Categories
+
+
+Loss of Separation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

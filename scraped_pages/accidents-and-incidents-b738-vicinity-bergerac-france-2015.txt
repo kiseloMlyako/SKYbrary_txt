@@ -1,0 +1,370 @@
+B738, vicinity Bergerac France, 2015
+
+
+
+
+
+
+
+
+
+
+
+  B738, vicinity Bergerac France, 2015
+
+
+
+
+
+
+
+
+
+Summary
+
+On 29 January 2015, a Boeing 737-800 crew attempting to fly an NDB approach to Bergerac, with prior awareness that it would be necessary because of pre-notified ILS and DME unavailability, descended below 800 feet agl in IMC until an almost 1000 feet per minute descent when still over 8 nm from the runway threshold triggered an EGPWS ‘TERRAIN PULL UP’ warning and the simultaneous initiation of a go-around. The Investigation found that the PF First Officer was unfamiliar with NDB approaches but had not advised the Captain which resulted in confusion and loss of situational awareness by both pilots.
+
+
+
+
+Event Details
+
+When
+
+29/01/2015
+
+
+
+Event Type
+
+
+CFIT,
+              HF
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+IMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 737-800
+
+
+
+
+
+
+
+
+
+Operator
+
+Ryanair
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+London Stansted Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Bergerac-Roumanière Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Missed Approach
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+LFBE
+
+
+
+
+General
+
+Tag(s)
+
+
+              Approach not stabilised,
+              Non Precision Approach,
+              Deficient Crew Knowledge-systems,
+              Copilot less than 500 hours on Type,
+              Monitored Approach,
+              CVR overwritten,
+              Delayed Accident/Incident Reporting,
+              Deficient Pilot Knowledge
+          
+
+
+
+
+CFIT
+
+Tag(s)
+
+
+              No Visual Reference,
+              Lateral Navigation Error,
+              Vertical navigation error
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              ATC Unit Co-ordination,
+              Authority Gradient,
+              Inappropriate crew response - skills deficiency,
+              Ineffective Monitoring,
+              Plan Continuation Bias,
+              Procedural non compliance
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Air Traffic Management
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 29 January 2015, a Boeing 737-800 (EI-EMK) being operated by Ryanair on a scheduled international passenger flight from London Stansted to Bergerac received an EGPWS ‘TERRAIN PULL UP’ warning during an NDB approach to runway 28 at destination in day IMC and the crew simultaneously initiated a go-around. The minimum recorded height was approximately 720 feet agl. A subsequent NDB approach was completed without further event.
+Investigation
+An Investigation was commenced by the French Civil Aviation Accident Investigation Agency, the BEA, after notification of the event by ATC the following day. The FDR was removed from the aircraft and sent to the BEA where its data was successfully downloaded. Relevant CVR data was overwritten as the flight crew involved did not report the event until the aircraft had operated both the return flight to London and subsequent flights. Individual interviews with the two pilots were conducted for the Investigation by the Irish AAIU one week after the event had occurred.
+The Flight Crew
+The 57 year-old Captain had around 15,000 hours flying experience of which more than 6000 hours were on type. His EASA-issued IR (instrument rating) was endorsed for PBN, a requirement which from 25 August 2020 has since been removed with a new requirement which requires all IRs issued or re-validated from that date to include PBN competency. The 27 year-old First Officer, who was PF for the flight, had obtained his Commercial Pilot Licence (CPL) just over six months prior to the investigated event after completing an ab-initio integrated training course. He had then obtained a Boeing 737 type rating two months later and his IR was endorsed for PBN. He had a total of 430 hours flying experience of which all but 150 hours had been obtained on the Boeing 737. He had begun line training with Ryanair at the end of September and passed his final line check three months later, approximately a month prior to the investigated event.
+What Happened
+The flight under investigation was the third of the flight crew’s shared duty period - they had previously flown a London Stansted - Turin rotation. Prior to departure, both pilots were aware that the ILS and DME at Bergerac were out of service. The Captain decided that the First Officer would be PF until he took over for the landing in accordance with the Monitored Approach policy in place at Ryanair. Having also noted that the RNAV (GNSS) approaches for runways 10 and 28 at Bergerac were not listed as available in the operator’s Aerodrome Brief for Bergerac, the Captain determined that an NDB approach would be necessary and an approach briefing subsequently took place accordingly.
+An hour after takeoff, the flight was cleared to descend to FL 070 and the Aquitaine APP controller then queried whether the crew could accept an RNAV approach. With the Captain temporarily off frequency in order to obtain the Bergerac ATIS, the First Officer responded with “no...yes” and then requested the Bergerac weather. Two minutes later the APP controller asked again if the crew were intending to make an RNAV approach and this time, the Captain replied that they were going to carry out an NDB approach which was confirmed would be the NDB ‘Y’ approach for runway 28 (the NDB ’Z’ approach to the same runway required a DME so was not available). The applicable MDA for this approach was 840 feet QNH (Bergerac elevation 172 feet amsl) and the missed approach procedure was ahead to 2,500 feet QNH. The NDB procedure available to the crew required a 1 minute 30 second outbound leg followed by a left turn onto final approach with descent from 2,500 feet only commencing once established inbound and subject to crossing the ‘BGC’ NDB, which is located 3.9 nm from the runway threshold, at 1440 feet QNH.
+Although the Captain stated that after several attempts by the First Officer to programme the FMS with the NDB ‘Y’ procedure, he was still encountering numerous discontinuities. The Captain added that as a result, he had not been satisfied with the vertical profile of the path created and had therefore asked for the approach to be carried out in HDG and V/S modes. He admitted that he had not then heard any response to this from the First Officer and with hindsight “considered that from this moment, he started to be overloaded with work - he had the impression that he was managing all the aspects of the flight on his own” and it would have been wise to have entered the holding pattern at the ‘BGC’ NDB rather than attempting to proceed directly outbound.
+The flight was cleared direct to the ‘BGC’ NDB descending to 2,500 feet QNH and subsequently crossed over it at just over 2700 feet QNH on a heading of 213° with the speed reducing through 216 KCAS, the AP engaged and LNAV and V/S modes selected. On reaching 2,500 feet QNH and still in LNAV mode, a left turn onto a heading of 097° was commenced (point 1 in the illustration below).
+
+An annotated ground track of the flight’s first approach and the initial part of the go around. [Reproduced from the Official Report]
+After completing this turn, an outbound leg lasting 25 seconds was then flown level at 2,500 feet before an LNAV left turn was commenced and, on instructions from the Captain, a descent commenced. This descent was contrary to the procedure requirement to remain at 2,500 feet until inbound and was initiated using V/S mode and a selected rate of descent of 900 fpm. After 26 seconds of this descent, the First Officer increased the selected rate of descent to 1,200 fpm. This was maintained for 40 seconds before being “progressively reduced” to 300 fpm as a left turn towards final approach was commenced. However, since 900 feet QNH was left as the selected altitude instead of selecting the missed approach stop altitude, this action subsequently had the unanticipated consequence that when the ‘ALT ACQ’ mode became active as 900 feet QNH was approached, the rate of descent would suddenly increase.
+Soon after the left turn had been started, and as the aircraft turned through a heading of 340° at a recorded altitude of 1,447 feet and at 175 KCAS, the Captain reported that they were “established inbound”, (this despite the fact that the procedure FAT was 274° and there was still 65° of turn to go) and on receiving this call, the APP controller transferred the flight to Bergerac TWR.
+Soon after the flight had left the APP frequency but before it had called TWR, the position of the flight (point M on the track illustration) breached the criteria for an MSAW activation at APP control which only occurred because the aircraft was more than 8 nm from the runway - it would have been inhibited within that range because Aquitaine APP were not responsible for ATS below 2500 feet QNH in a specified area around Bergerac airport. Four seconds later, the Captain contacted the TWR controller and, with the aircraft passing 1,240 feet QNH despite still being some way from the ‘BGC’, the flight was cleared to continue the approach.
+Twenty seconds later, with the aircraft now at point ‘T’ on the illustration, with the aircraft still more than 8 nm from the runway, at a recorded 842 feet agl and descending at almost 1,000 fpm, an EGPWS ‘TERRAIN’ alert was almost immediately followed by a ‘PULL UP’ Warning which neither pilot could remember hearing. As the ‘PULL UP’ sounded - at 797 feet agl - the crew pushed the TOGA button and initiated a go-around. FDR data showed that the resulting minimum terrain clearance was around 720 feet. Six seconds after the PULL UP Warning, another MSAW activation attributable to the aircraft was recorded by Aquitaine APP and soon after this, the crew told TWR that they were going around. After climbing to 4000 feet QNH and re-contacting APP, the flight then took up the hold at the ‘BGC’ NDB for approximately seven minutes before performing a second NDB ‘Y’ approach procedure to runway 28 and landing off it without further event. In a short discussion thereafter, both pilots recognised that they had lost situational awareness.
+Additional Information
+
+It was noted that with the Bergerac METARs around this continuing to report light to moderate rain from an overcast at around 1100 feet as per the TAF which would have been seen by the crew before departure from London, the Investigation concluded that in all probability, the premature descent had been conducted not only in IMC but also “without external visual reference” of any sort.
+The Aquitaine APP controller contacted the Bergerac TWR controller to advise of the two MSAW activations attributable to their final approach traffic in a call made 1 minute 20 seconds after the first and 44 seconds after the second by which time the traffic involved had already commenced a go around and notified TWR accordingly. It was clear that had the MSAW activation been available to the TWR controller in real time, it would have allowed indirect intervention by ATC nearly 30 seconds ahead of the EGPWS warning.
+The Bergerac approach charts available to the crew included those for both the NDB and RNAV (GNSS) procedures. The Flight Crew Operating Manual (FCOM) instructions on timed approaches like the NDB ‘Y’ approach were noted to require that when the approach was not encoded in the FMS (which appeared to have been the case), the HDG and V/S modes were to be used and the MDA to be used was then to be the greater of the published MDA plus 300 feet or 1,000 feet aal.
+The operator’s OM confirmed that the use of RNAV (GNSS) approaches was approved as per the charts supplied and both pilots were appropriately qualified but the list of approaches provided in the Aerodrome Brief for Bergerac did not include the available RNAV (GNSS) procedures.
+The arrangements for the transfer of traffic inbound to Bergerac from APP service provided from the Aquitaine ACC at Bordeaux to Bergerac TWR at the time of the event specified that “For the NDB Y approach the transfer should be carried out when the aeroplane passes over the BGC beacon, once it is established on the procedure”.
+The functioning of the MSAW system at the Aquitaine ACC was inhibited in parts of its area where the ACC was not responsible for the provision of ATS which included airports such as Bergerac which have a local CTR. There was no relay to Bergerac TWR of MSAW activations which occurred which occurred, as in the case of the two during this event, outside the zone where they were inhibited
+The ATC regulations applicable to MSAW stated that if an MSAW is activated at a unit where the aircraft concerned is not being radar vectored (as in this case on both occasions), the controller must immediately inform the pilot using a specific phraseology which instructs him to check his altitude. However, this regulation makes no mention of the implied need for communication with other units and the Operations Manual at the Aquitaine-APP control unit made no mention of any coordination procedures in the event of MSAW activation for an aircraft on the frequency of another unit.
+The Aquitaine APP controller stated that he had stopped monitoring the flight after he had cleared it for the NDB ‘Y’ approach and when it subsequently reported being inbound, he had “mechanically” transferred it to Bergerac TWR. Although he stated that he had observed the descent, he did not know if it was normal or not as he was not familiar with the NDB procedure involved and “did not understand the chart published in the AIP that the assistant controller had got out for this occasion”. He stated that having seen MSAW visual alert on his screen (he stated that he did not hear the subsequent MSAW aural warning) “he had hesitated calling the Bergerac control unit (as) he imagined that it was also equipped with the MSAW system and thought that a phone call could interfere with the TWR controller response". It was therefore only after observing the missed approach that he had called them.
+The Bergerac TWR controller and their assistant stated that they had observed the flight “performing a racetrack far off to the south” on their radar display and that when the aircraft came out of the inbound turn and established on final approach, the crew had advised that they were going to fly a missed approach. The TWR controller said that “the flight path at this point did not appear abnormal”.
+
+Editor’s Note: The Investigation Report does not mention the type of radar available to the Bergerac controllers but it appears from the above to be likely that only primary returns are displayed.
+
+The Captain reported that during the approach he experienced a problem with his headset, which was the standard one provided in the aircraft by the operator, whereas the First Officer was using his personal active noise reduction (ANR) headset. He explained that it had been necessary to increase the volume on his headset to hear what the First Officer was saying which had increased the level of static noise. He stated that during the descent, “the noise from the wind drag and rain increased causing his discomfort to increase to the point of having a headache”. The Investigation noted that ANR technology “plunges the pilot into relative silence” which creates an incentive for wearers not to raise their voice when talking and noted that the BEA has observed when playing back CVR recordings during other investigations that “pilots equipped with these types of headset seem to generally speak more quietly, even a lot more quietly”. It has also been noted that “ANR headsets generally differ from passive models by having a lower impedance (and that) introducing headsets with a different impedance into the audio system may produce signal amplifications, attenuations or even distortions”. It was found that Ryanair had not issued any directives on headset use in its aircraft.
+Although the Captain was very familiar with NDB approaches and considered them to be simple, he was unaware that the First Officer had never flown any raw data timed NDB approaches. He considered that had he been aware of this, he would have managed the flight differently.
+The EASA Part FCL requirements applicable to the IR and the PBN endorsement to it held by both pilots was noted as requiring merely that there must be “training in instrument approaches according to specified minima” but gave no details about the types of approach that must be carried out during such training. They also indicate that the flight test to obtain the IR “must include a non-precision approach” without giving more details about the type of non-precision approach to be carried out.
+The EASA regulations in respect of the recurrent training and checking of commercial air transport pilots required that “when possible, the operator’s (six monthly proficiency) check must include at least one 2D approach operation (such as timed NDB approaches) to minima as PF”.
+Following the 2010 ICAO request to member states to develop an implementation plan for PBN approaches, the DGAC has done so and begun work. By the time of this event, Bergerac had RNAV (GNSS) procedures with vertical guidance for both its runways. The DGAC Plan included an assessment of the usefulness of retaining existing radio navigation aids in service once equivalent or better RNAV (GNSS) procedures were published. This programmed their removal by “2030 at the latest”.
+A DGAC survey of French operators in 2016 found that only 5% of approaches were non-precision approaches (including the 2D GNSS). Another DGAC study covering the period 2009-2013 found that the accident rate was seven times higher during non-precision approaches than during precision approaches, a finding that was similar to an earlier Boeing study of the same issue with both studies highlighting the CFIT risk of premature descent during 2D approaches.
+The proprietary version of the NDB ‘Y’ approach at Bergerac provided for flight crew use by the operator was found to differ from the version in the French AIP which depicted both a holding pattern and a racetrack and contained a general stipulation that when the holding pattern and racetrack are shown separately, entries must be made in the holding pattern, the racetrack can only be flown once the aeroplane is stabilised in and at the minimum altitude of the holding pattern and that if racetrack entries are nevertheless possible for certain aircraft, based on their category and/or maximum speed, then this possibility must be mentioned. The Investigation noted that whilst it “seems that the purpose of these instructions is to ensure that the entry manoeuvre is made in protected areas (and that) complying with these instructions guarantees that the racetrack procedure is correctly started in terms of heading, altitude and speed, which is particularly important in the case of a procedure without a FAF” (final approach fix), these national instructions “do not seem to be based on international regulations, are not widely known” and are problematic in that they are open to various interpretations.
+
+Observations on the Use of Automation
+The Investigation was not able to determine with certainty whether the Bergerac runway 28 NDB ‘Y’ procedure was included in the aircraft FMS database but the available evidence tended to suggest that it was not and that the First Officer’s attempts at manually setting it up were not successful in replicating what a pre-programmed procedure would have looked like, in particular with respect to the vertical profile. Given that despite the difficulties in manually setting up the approach in the FMS, the Captain “seems to have been unable to disregard the path displayed by the FMS in order to monitor that the approach was being flown as he wanted it to be flown”. It was considered that “this mixture between different practices and between the associated means probably contributed to his confusion and to his early request to start the descent”.
+The arrival over recent years of pre-programmed FMS approach procedures has been particularly beneficial in providing alternatives to procedures which require ground based radio aids including both 2D (lateral-only guidance as in the case of the NDB ‘Y’ approach used in this event) and 3D (lateral and vertical guidance as in the unavailable NDB ‘Z’ approach). It has also often resulted in priority being given to the introduction of 3D RNAV approaches rather than 2D ones for the same runway. These developments have rapidly reduced the sometimes already small number of non precision approaches being flown conventionally in some operators, including timed approaches flown using the HDG and V/S modes to the extent that there may appear to be little incentive to allocate adequate training time to them. The alternative of ceasing to use such rarely encountered procedures altogether is another option for such operators who already recognise that their reliance on them is very low.
+Contributory Factors were, in summary documented as follows:
+
+The nature of the approach procedure involved being an NDB approach without DME equipment and being probably flown without external visual references.
+The initial preparation of the approach was probably incomplete or imprecise.
+The approach clearance given by the controller, although it concerned the procedure that the crew thought they had prepared, seems to have called into question their action plan and obliged them to re-programme the FMS.
+This late modification probably meant that the crew did not have enough time to agree with each other about what guidance mode was to be used which resulted in the Captain’s confusion with respect to the horizontal path actually being followed by the aeroplane.
+Faced with these doubts, rather than opting for a holding pattern or returning to a conventional management of the procedure, this state of confusion led him to request the start of descent at a point which took the flight below the applicable minimum safe altitude.
+
+Possible Contributory Factors were, in summary, also identified as follows:
+
+The Captain’s concerns, notably with respect to the noise nuisance in his headset which he perceived as extremely uncomfortable and his concerns as to the First Officer’s participation.
+The First Officer’s low amount of experience in this type of approach, which, at the very least, did not enable him to perceive the inconsistency in the descent request given by the Captain.
+The two pilots’ situational awareness which became seriously impaired.
+The controllers’ lack of knowledge of the NDB procedures which meant that they did not effectively monitor the aeroplane’s flight path.
+The absence at Bergerac of a MSAW system (or a remote MSAW display) and, failing this, the absence of emergency coordination procedures between the ACC providing APP service and Bergerac TWR following the activation of a MSAW.
+
+Safety Action taken as a result of the event whilst the Investigation was in progress was noted to have included the following:
+
+Ryanair
+
+amended its OM to prohibit the use of V/S mode for timed non-precision approaches.
+amended its Bergerac Aerodrome Brief to include this proscription
+stopped including a list of available approaches in Aerodrome Briefs
+
+
+The DNSA (French ANSP)
+
+amended its initial and recurrent controller training in respect of MSAW at airports and the required response to its warnings generally
+amended the handover procedures for traffic inbound to Bergerac from APP service provided by the ACC to TWR
+
+
+The European Union Aviation Safety Agency (EASA)
+
+added to its requirements for the recurrent training and checking of commercial air transport pilots in respect of the performance of 2D approaches that “the frequency of the timed approach training is left to the operators’ discretion according to their own assessment of the risks".
+
+
+
+One Safety Recommendation was made as a result of the Investigation as follows:
+
+that the DGAC check the validity and relevance of the AIP France requirement in ENR 1.5.2.3 that, when a holding pattern and a racetrack are shown separately for an instrument approach procedure, entries must be made in the holding pattern and that the racetrack can only be flown once the aircraft is stabilised and at the minimum altitude of the holding pattern and according to the results of this check, then decide either to show these instructions more clearly on the approach charts or to delete this paragraph in the AIP France altogether. [FRAN-2020-005]
+
+The Final Report was published in English translation on 7 September 2020 after the initial and definitive publication in French on 26 June 2020.
+Related Articles
+
+Controlled Flight Into Terrain (CFIT)
+Performance Based Navigation (PBN)
+Non-Precision Approach
+Minimum Safe Altitude Warning (MSAW)
+Crew Resource Management (CRM)
+Situational Awareness
+Authority Gradients
+ATM Sector Management

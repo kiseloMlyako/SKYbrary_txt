@@ -1,0 +1,177 @@
+Single Person Operations in ATC
+
+
+
+
+
+
+
+
+
+
+
+  Single Person Operations in ATC
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Human Behaviour 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Operations where an operational ATC unit is providing service with only one appropriately qualified ATCO on duty.
+Source: IFATCA
+Description
+There are two types of Single Person Operations (SPO) in ATM:
+
+position staffed by a single person (sector operated by one person)
+an Ops room staffed by a single person
+
+SPO is typically used during night time or low-workload periods. It is not suitable for high workload or degraded systems conditions. Contingency plans need to be in place in case either of these occurs.
+The benefits of SPO are optimal use of available personnel and cost reduction. It is sometimes used as a measure against fatigue caused by too many shifts due to controller shortage. Neglecting the issue (i.e. failing to compensate the shortage within a reasonable period of time) however, can have the opposite effect.
+Due to a number of safety concerns, SPO should only be implemented after a thorough examination which determines the conditions under which it is acceptable as well as the measures to eliminate or sufficiently mitigate the associated hazards.
+Safety Concerns
+The most notable hazards if a controller working position is staffed by a single person are:
+
+Task load too high. This leads to having to perform concurrent tasks.
+Distraction. Unexpected occurrences may distract ATCO’s attention.
+Lack of redundancy. Staff incapacitation in case of workplace incidents/accidents, illness, toilet relief. Operational imperative of the replacement of staff involved in aviation incident/accident.
+Threats and errors. Non-detection of threats and non-recognition of an error.
+Fatigue. The individual fatigue is not detected.
+Fitness for duty. The individual unfitness for duty is not detected.
+Competency. Unnoticed proficiency / competency degradation.
+Reduced team interaction. This means that passing on wisdom is reduced - degrading collective wisdom and potentially affecting competency in the long term.
+Removal of the four-eye principle. Monitoring each other's actions is a barrier against human error which is removed when SPO is introduced.
+
+Night time SPO presents three major challenges:
+
+If there are periods of extremely high workload, SPO may not be a safe option overall.
+If there are prolonged periods of low workload, there is greater portential for errors due to boredom or complacency.
+The night period coincides with the main window of circadian low (2 am to 6 am) which means that people are more susceptible to fatigue.
+
+Mitigation Measures
+People
+
+Contingency plan: Have a contingency plan should the SPO staff member become unavailable at short notice.
+Competency assessment: Regular competence assessment and stringent recency requirements.
+Training: SPO performed in simulated training environment.
+Fatigue factors: Train operational staff to be aware of fatigue issues.
+
+Equipment (tools)
+
+SPO concept and system design: Appropriate system design should be in place.
+Equipment: Standardised functionality of the equipment.
+
+Procedures
+
+Risk management approach: Risk management approach to developing standardised procedures for SPO. Equally, within the unit safety case, contingency plans should be developed for planned and unplanned SPO. Traffic levels are a key element to include in this risk assessment.
+Standardised procedures: Standardised procedures throughout all sectors.
+Operational supervision concept: Operational supervision concept that supports SPO.
+Just culture: A legal and corporate framework should be adopted that supports a just culture for incident reporting. This is particularly important for Ops room staffed by a single person as there is little understanding of the rationale to report and follow up on occurrences to ensure lesson learned.
+
+Accidents and Incidents
+
+
+SB20 / C510, vicinity Lugano Switzerland, 2011On 16 December 2011, a Saab 2000 in the hold and an opposite direction Cessna VLJ joining it lost procedural separation in IMC near Lugano due to conflicting ATC clearances issued by the same controller who had used the wrong Transition Level. Any risk of collision was removed by a TCAS RA activated on the Saab 2000 but the Investigation found that the DFTI radar display available to the controller to help resolve unexpected emergency situations was configured to systematically convert SSR standard pressure altitudes to QNH for altitude display using a distant and inappropriate value of QNH.
+
+A310 / C421, en-route, northeast of Montréal Canada, 2018On 16 May 2018, an Airbus A310 and a Cessna 421 being positioned for ILS approaches to adjacent parallel runways at Montréal by different controllers lost separation. One controller incorrectly believed that he had transferred control of the Cessna to the other when the shift supervisor re-opened a sector which had been temporarily combined with his. The Investigation attributed the conflict to multiple deviations from standard procedures, memory lapses relating to controller information exchange of information and a loss of full situational awareness compounded by the shift supervisor also acting as an instructor whilst being distracted by his other duties.
+
+T154 / B752, en-route, Uberlingen Germany, 2002On 1st July 2002, a Russian-operated Tu154 on a passenger flight collided at night with a cargo Boeing 757-200 over Überlingen, Germany with the consequent loss of control of both aircraft and the death of all occupants. The collision occurred after an ATC control lapse had led to a conflict which generated coordinated TCAS RAs which the B757 followed but the TU-154, in the presence of a conflicting ATC instruction, did not.
+
+
+
+
+Related Articles
+
+Teamwork in Air Traffic Control
+Controller Workload
+Interruption or Distraction
+Vigilance in ATM
+
+
+
+
+
+Categories
+
+
+Human Behaviour,
+              Operational Issues
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

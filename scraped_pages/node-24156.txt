@@ -1,0 +1,160 @@
+Unmanned Aircraft Systems Traffic Management (UTM)
+
+
+
+
+
+
+
+
+
+
+
+  Unmanned Aircraft Systems Traffic Management (UTM)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Unmanned Aerial Systems 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+The U.S. Federal Aviation Administration (FAA) defines unmanned aircraft system traffic management (UTM) as a traffic management ecosystem for uncontrolled operations that is separate from, but complementary to, FAA's air traffic management (ATM) system.
+The FAA, NASA, other federal partner agencies, and industry are collaborating to explore concepts of operation, data exchange requirements, and a supporting framework to enable multiple, beyond visual line-of-sight [BVLOS] drone operations at low altitudes (under 400 ft above ground level [AGL]) in airspace where FAA air traffic services are not provided. …
+Description
+More broadly, UTM essentially is an initiative undertaken in various ways by national aviation authorities (NAAs). A common aspect of UTM is the NAA’s collaboration with — and dependence on — private-sector operators that cooperatively separate their small remotely piloted aircraft (RPAs), or drones, from those of other operators in uncontrolled airspace.
+UTM is intended primarily to mitigate the risk of collision among small unmanned aircraft systems (sUAS), a subset of RPAS, flying below 400 ft in uncontrolled airspace. UTM concepts also will segregate the participating sUAs from manned aircraft and other types of RPAs being controlled by air navigation service providers (ANSPs).
+In its Annual Report 2017, the International Civil Aviation Organisation’s (ICAO’s) said UTM "is a concept that brings an automated ATM-like system to very low level airspace, which will be occupied primarily by unmanned aircraft weighing less than 25 kg (commonly referred to as drones). Development of this concept is underway in many States, at universities and by large aviation corporations and new start-up tech companies.”
+The report said that in September 2017, in the context of the ICAO Assembly’s request to include “all unmanned aircraft” in the organisation’s work programme, UTM became the main theme of the Drone Enable — ICAO Unmanned Aircraft Systems (UAS) Industry Symposium. “The focus was on UAS traffic management (UTM) and fundamental requirements needed for implementation, these being [drone] registration, identification and tracking; communications systems; and geo-fencing like systems,” ICAO said.
+Among countries pursuing UTM systems, the FAA created its UTM Pilot Program (UPP) in April 2017 to define an initial set of industry and FAA capabilities that will be required to support UTM operations.
+The final set of capabilities will define services to be provided by FAA and by private-sector UAS service suppliers (USSs), their respective roles and responsibilities, information architecture, data-exchange protocols, software functions, and performance requirements for managing these low-altitude sUAS operations without intervention by air traffic control (ATC) facilities.
+In January 2019, FAA selected three FAA UAS Test Sites for tests and demonstrations in conjunction with the National Aeronautics and Space Administration (NASA) and industry partners. UTM services demonstrated in UPP Phase One included:
+(1) the exchange of flight intent among operators,
+(2) the generation of notifications to UAS Operators regarding air and ground activities, known as UAS Volume Reservations (UVRs), and
+(3) the ability to share UVRs with stakeholders, including other UAS Service Suppliers (USS) and the Flight Information Management System (FIMS).
+As mandated by Congress in the FAA Reauthorization Act of 2018, UPP is required to meet additional objectives prior to the project, including remote identification technologies and operations with increasing volumes and density. UPP Phase 2 moves toward the development and deployment of remote ID technologies in increasingly complex environments to enable a UTM ecosystem.
+In April 2020, FAA section two FAA UAS Test Sites to partner with the agency in Phase 2.
+FAA said the primary goal for UPP is to develop, demonstrate, and provide enterprise services that will support the implementation of initial UTM operations using a cloud service infrastructure. These enterprise services will support the sharing of information that promotes cooperative separation and situational awareness.
+“These enterprise services will support the sharing of information that promotes cooperative separation and situational awareness. … UTM services to be demonstrated in the UPP include sharing of flight intent between operators, the ability for a UAS service supplier (USS) to generate a UAS volume reservation (UVR) — a capability providing authorized USSs the ability to issue notifications to UAS or drone operators regarding air or ground activities relevant to their safe operation – and [to] share it with stakeholders (e.g., other USSs, [FAA’s Flight Information Management System (FIMS) and] UAS operators),” FAA said.
+Current Areas of Focus
+According to reports from EUROCONTROL, the SESAR Horizon 2020 PODIUM project began demonstrating UTM services, procedures and technologies in 2018 and 2019 at four operational sites in Denmark, France and the Netherlands. The project supports U-Space — a term defined as “the European vision for the safe, secure and efficient handling of drone traffic.” (The acronym PODIUM stands for Proving Operations of Drones with Initial UTM. The acronym SESAR stands for Single European Sky ATM Research.)
+As leader of the consortium conducting the project, EUROCONTROL is responsible for this work’s alignment with overall strategies affecting European ATM and RPAS.
+European stakeholders predict that UTM will be a key initial solution to what PODIUM project leaders call “increasing and unmanaged drone traffic and their relatively small size [that] can pose a threat to manned aviation.”
+Their areas of focus include:
+
+Documenting how UTM provides mutual traffic situational awareness for the local participants;
+The role of ATM in facilitating operators’ day-to-day drone management;
+Reducing risks inherent in UTM deployments through “a comprehensive Web-based UTM system, using tracking systems based on Mode-S, L-Band and GSM networks for real-time tracking of RPAs;
+Demonstrating U-Space services;
+Communicating conclusions about the maturity of U-Space services and technologies;
+Issuing recommendations about future UTM deployments, regulations and standards.
+
+The PODIUM project published its conclusions and recommendations in Nov. 2019. They can be found here.
+Airspace Issues Confronting New Entrants
+From the perspectives of EUROCONTROL and the European Aviation Safety Agency (EASA), UTM initiatives may warrant treatment as “new entrants” because they expand the list of reasons why flight rules need to be changed to accommodate low-level RPAS/UAS operations.
+In a November 2018 discussion document titled UAS ATM Flight Rules, Edition 1.1, the agencies said, “At present, due to absence of flight rules for VLOS [UAS flights with visual line of sight] and BVLOS and their coexistence with manned aviation, it is not possible to safely integrate drones at altitudes below the lowest VFR [visual flight rules] altitude. The only way forward in this stepped approach is either through segregation of airspace or through the use of procedures where, in principal, drones remain clear of manned aircraft."
+“As one of the principal objectives of flight rules is to ensure the safety of aircraft, crew, passengers and cargo through effective understanding and execution of responsibilities, a major problem that arises from the introduction of UAS into the airspace is the definition of priorities and rights of way, taking into account the vastly different speeds and capacities of different aircraft. … If and when every drone in a UTM environment is cooperative at all times, a potentially more efficient set of right-of-way rules than the current Standard European Rules of the Air (SERA) requirements permit could be developed, particularly for high-density environments. … UTM is key to the effective application of UAS Flight Rules and should also be part of the gathering and sharing of traffic situation data.”
+The UTM environment has been specifically mentioned as a driver of flight rules revisions.
+The agencies explained, “When commercial [UAS] operations commence in 2019, initial procedures must be established that exclude other traffic from the paths these drones will take, and perhaps require certain equipage to enable people’s awareness of these types of operation. Once this is done, the UTM environment must be treated. In the end, full cooperation between BVLOS and other traffic will be necessary. However, although outside the city or in low-density areas, the cooperative parts of flight rules might work perfectly, this might not be the case in urban areas with a large amount of interference.”
+Related Articles
+
+Unmanned Aerial Systems (UAS)
+UAS Rules and Guidance - EU
+UAS Rules and Guidance - USA
+UAS Remote Identification
+
+References
+
+“Autonomous urban transportation in the air: 100 projects have taken off globally” by Manfred Hader, Roland Berger LLC consultancy, Hamburg Office, March 25, 2019.
+
+Further Reading
+
+NASA UTM website.
+Federal Aviation Administration (FAA) and National Aeronautics and Space Administration (NASA), UTM Pilot Program (UPP) Summary Report, October 2019.
+
+
+
+
+
+Categories
+
+
+Unmanned Aerial Systems
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

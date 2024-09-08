@@ -1,0 +1,301 @@
+CRJ7, Denver CO USA, 2017
+
+
+
+
+
+
+
+
+
+
+
+  CRJ7, Denver CO USA, 2017
+
+
+
+
+
+
+
+
+
+Summary
+
+On 2 July 2017, the left engine of a Bombarier CRJ 700A exiting the runway after landing at Denver caught fire and continued burning after the aircraft had been stopped on the taxiway and the engine shut down. The Investigation found that the fuel supply to the fuel-operated engine performance valve had failed and the quantity of fuel which then leaked had overwhelmed the engine cowl drain capacity and ignited. A history of similar failures was found and this one resulted in the introduction of additional mandatory in-serviced checks pending the replacement of the valve concerned with an improved design.
+
+
+
+
+Event Details
+
+When
+
+02/07/2015
+
+
+
+Event Type
+
+
+AW,
+              FIRE
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+On Ground - Normal Visibility
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOMBARDIER Regional Jet CRJ-700
+
+
+
+
+
+
+
+
+
+Operator
+
+SkyWest
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Aspen - Pitkin County Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Denver International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Taxi
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+KDEN
+
+
+
+
+FIRE
+
+Tag(s)
+
+
+              Fire-Fuel origin,
+              Fire-Power Plant origin
+          
+
+
+
+
+EPR
+
+Tag(s)
+
+
+              Emergency Evacuation
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Engine Fuel and Control
+          
+
+
+
+Contributor(s)
+
+
+              Inadequate Maintenance Schedule,
+              Inadequate Maintenance Inspection,
+              Component Fault in service,
+              Corrosion/Disbonding/Fatigue
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Aircraft damage
+
+Major
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 2 July 2017, a General Electric CF34-8-powered Bombardier CRJ 700A (N796SK) being operated by SkyWest Airlines on a scheduled domestic passenger flight from Aspen to Denver was exiting the runway at destination in normal day visibility when a left engine fire began. The aircraft was stopped on the taxiway and the left engine was shut down but the fuel fed fire continued until extinguished by airport rescue and fire fighting personnel. All occupants evacuated through the main cabin door and there were no injuries but the aircraft sustained substantial damage. 
+
+The left engine fire continuing to burn during the evacuation. [Reproduced from the Investigation’s Powerplant Group Factual Report]
+Investigation 
+An Investigation was carried out by the NTSB based on a detailed examination of the engine in situ and further examination of removed relevant engine components supported by FDR and FADEC NVM data.
+What Happened   
+The aircraft was just exiting runway 34R after landing and the thrust reversers were being stowed when the ‘L ENG SRG OPEN’ Caution was displayed. With engine thrust at idle, the taxi in was continued but 75 seconds later, a ‘L ENG FIRE’ Warning was annunciated. Both left engine fire extinguishing shots were discharged but the fire continued and could be seen from the passenger cabin. At this time, the sole cabin crew stated that they had been aware of smoke-like fumes in the cabin but there had been no visible smoke there. The aircraft was stopped and the left engine was shut down. Fire could be seen inside the left engine inlet and around the pylon and those outside it could see a pool of fuel on the ground beneath the rear of the aircraft. The 56 passengers and three crew members evacuated onto the taxiway using the main cabin door and there were no injuries.
+
+The left engine fire and the burning fuel pool on the ground prior to the arrival of the RFFS. [Reproduced from the Investigation’s Powerplant Group Factual Report]
+Why It Happened
+It was noted that the ‘L ENG SRG OPEN’ Caution indicated that the left engine Operability Bleed Valve (OBV) had failed whilst open. This valve is fuel actuated and electrically controlled with the required fuel routed from the engine HP pump through a supply port and returned to the pump via a return port. Residual fuel is drained through a third port. The failure was found to have been a disconnection by ‘pull out’ of the OBV supply port with the consequence that fuel began to leak at a significant rate into the engine which overwhelmed the fuel draining capacity of the third port. 
+
+The failed OBV supply port fitting as found pulled out of its housing. [Reproduced from the Investigation’s Powerplant  Group Factual Report]
+The engine manufacturer estimated that following the pull-out, approximately 34 US gallons/130 litres of fuel would have been released into the engine core compartment during the period of just over two minutes between the fitting pullout and shut off of the engine fuel supply during the flight crew’s shutdown of the engine. At the time the fuel-fed fire started, it was estimated that with constrained draining of leaked fuel, about 19 US Gallons/ 70 Litres of fuel would have been inside the engine core compartment. Once the engine had been shut down, some of the remaining fuel would have drained onto the ground below resulting in the observed fuel pool which also subsequently ignited. On-site investigation also found that two of the four link rods which attach and support the OBV and related components to the engine were “severely worn” which would have facilitated sufficient movement to eventually lead to the ‘pull out’ which led to the supply port which by then was exhibiting “advanced thread wear and fatigue damage, consistent with side-to-side fitting cyclic movement” and as a result had insufficient remaining threads to prevent the fitting from pulling out.
+The Operator’s maintenance records showed that both the aircraft’s engines (and their OBVs) were those which had been fitted to the aircraft at build and had not subsequently been removed during an accumulated 22,419 flight hours and 13,157 flight cycles.
+ 
+It was noted that there had been five previous CF34-8 engine OBV fuel line ‘pull-out’ failures, three of which had occurred in over a five month period in 2011, two of which had resulted in a fire, one in flight and the other on the ground. This resulted in a 2014 FAA AD which mandated an improved OBV design but there were then two further events including one to an Embraer E170 in 2014 and another to an in-flight CRJ700 in 2017. 
+Safety Action
+It was noted that following the investigated new event, the engine manufacturer had issued two SBs which required a one-time inspection of the OBV supply, return, and drain fuel fittings and their associated supporting link rods with replacement of OBVs or related hardware as necessary. A related FAA Emergency AD (EAD) followed and mandated initial and repetitive inspections all CF34-8C and CFM34-8E engines’ OBV fuel tubes, their associated link rod assemblies and the OBV fuel fittings with replacement of all components failing inspection requirements. This EAD was then followed by an FAA NPRM incorporating the same inspection requirements but also including terminating action in the form of a new improved OBV design based on the findings of this Investigation.
+The Investigation determined that the Probable Cause of the accident was "the fuel supply tube fitting pulling out of the left engine’s Operability Bleed Valve (OBV) during the landing rollout, allowing fuel to leak and contact the hot engine case, which ignited a fire that caused thermal damage to the engine pylon”. 
+A Contributory Factor to the accident was identified as “an undetected progressive Environmental Control System (ECS) support link wear condition that allowed excessive OBV movement relative to the engine and the lack of alignment instructions in the base engine assembly drawing and the lack of maintenance tasks to assess the operational condition of the ECS links”. 
+The Final Report was published on 27 May 2022. Some information used in this summary is taken from the ancillary factual report of the Investigation’s Powerplant Group. No Safety Recommendations were made. 
+Related Articles
+
+Fire, Smoke and Fumes
+Engine
+Engine Fire Protection
+Aircraft Fuel System
+Ageing Aicraft

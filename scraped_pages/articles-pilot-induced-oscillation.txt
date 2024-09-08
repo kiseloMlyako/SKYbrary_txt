@@ -1,0 +1,143 @@
+Pilot Induced Oscillation
+
+
+
+
+
+
+
+
+
+
+
+  Pilot Induced Oscillation
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PIO
+Pilot Involved Oscillation
+Aircraft-Pilot Coupling (APC)
+Definition
+Pilot Induced Oscillations (PIO), sometimes referred to as Pilot Involved Oscillations and, more recently, as unfavourable Aircraft-Pilot Couplings (APC), are rare, unexpected, and unintended excursions in aircraft attitude and flight path caused by anomalous interactions between the pilot and the aircraft.
+Description
+Pilot Induced Oscillation events include a broad set of undesirable, and sometimes hazardous, phenomena that are associated with less than ideal interactions between pilots and aircraft. As civil and military aircraft technologies advance, pilot-aircraft interactions have become more complex. This additional complexity has resulted in accidents and incidents attributed to PIO (or adverse Aircraft Pilot Coupling) in military aircraft. PIO has also been considered a contributing factor in some civilian incidents and accidents. Pilot Induced Oscillations are sustained or uncontrollable oscillations resulting from efforts of the pilot to control the aircraft and occur when the pilot of an aircraft inadvertently commands an often increasing series of corrections in opposite directions; each one is an attempt to control the aircraft's reaction to the previous input with an overcorrection in the opposite direction.
+The phenomena of PIO can cover a wide spectrum. At one end of the scale is the momentary, and easily corrected, low-amplitude bobble. This is the sort of oscillation often encountered by pilots converting to a new aircraft type or getting used new configurations - in other words, a learning experience. This type of oscillation can happen on any aircraft and has been experienced by most pilots. At the other end of the spectrum is a fully developed, large amplitude PIO, a terrifying and potentially catastrophic event that can jeopardise the safety of the aircraft, crew, and passengers.
+The majority of severe PIO events result from some deficiency in the design of the aircraft Flight Control Systems (FCS) that result in an adverse coupling of the pilot with the aircraft. This adverse coupling can produce unintended oscillations or divergences when the pilot attempts to precisely maneuver the aircraft. These circumstances are most often manifested during a failure or degraded FCS mode whilst in manually controlled flight but may be encountered with all systems working normally.
+PIOs have been part of aviation history since the beginning of manned flight. They most often occur when the pilot is engaged in a highly demanding control task. For example, many of the reported events have taken place during approach and landing, most often when the pilot is also concerned about low fuel, adverse weather, emergencies, or other issues. Typically, smooth aircraft control is replaced by increases in the amplitude of pilot commands leading to aircraft oscillation which, in turn, leads to even greater pilot control input which further exacerbates the oscillation. Startle Effect can also result in a PIO.
+Exiting PIO
+By definition, PIO (or APC) cannot happen unless the pilot is making inputs that are sustaining the oscillation,; that is, the pilot is "in the loop" that caused and is maintaining the condition. Consequently, the first and most critical step for exiting PIO is to get out of the loop. This presents three primary possibilities:
+
+The pilot freezes the controls
+The pilot releases the controls
+The pilot significantly reduces the aggressiveness of control input
+
+Of the three strategies, reducing the aggressiveness (or turning down the gain) of control input is probably the most difficult. Studies have demonstrated that it is rare that a pilot, even an experienced test pilot, once in a "high-gain" situation can choose to reduce it.
+As the pilot flying (PF) may be highly focused on a specific task when PIO develops, it is important that the pilot monitoring (PM) assist in recognising the situation. Direct and forceful intervention may be required to get the PF to action one of the above listed exit strategies. Close to the ground, a go around is likely to be the only safe option.
+It can be argued that a PIO represents a loss of control simply because the situation is out of control until the pilot takes action that is not likely to be conducive to completing the task in progress when the PIO began. An approach may have to be terminated or a landing aborted to enable positive control of the aircraft to be regained. Most cases of this type of loss of control will not lead to a crash if the pilot initiates appropriate recovery action; however, incidents of PIO should be considered, reported and treated as loss of control events.
+Accidents and Incidents Involving PIO
+
+A333, Montréal QC Canada, 2014 (On 7 October 2014, an Airbus A330-300 failed to maintain the runway centreline as it touched down at Montréal in suddenly reduced forward visibility and part of the left main gear departed the runway edge, paralleling it briefly before returning to it and regaining the centreline as the landing roll was completed. The Investigation attributed the excursion to a delay in corrective action when a sudden change in wind velocity occurred at the same time as degraded visual reference. It was found that the runway should not have been in use in such poor visibility without serviceable lighting)
+F900, en-route, South of Bucharest Romania, 1999 (On 14 September 1999, a F900 was subjected to rapid and violent vertical load oscillations, which killed most of the passengers, after incorrect crew response to a minor pitch control malfunction)
+GL5T, Fox Harbour NS Canada, 2007 (On 11 November 2007, a Bombardier BD-700 (Global 5000) operated by Canadian charter company Jetport touched down short of the runway at destination Fox Harbour in normal daylight visibility and then directional control was lost and the aircraft exited the side of the runway ending up having rotated 120° clockwise about its fore-aft axis and came to rest approximately 300metres from the threshold and approximately 50 meters from the runway edge. As a result, the co pilot and one of the passengers suffered serious injuries and the other eight occupants suffered minor injuries. The aircraft sustained major structural damage)
+CL30, en-route, north west of Moscow Russia, 2010 (On 23 December 2010 an aircraft climbing out of Moscow in night IMC experienced a sudden in-flight pitch upset in which the three unrestrained passengers were injured, one seriously, as a result of an inappropriate pilot response to an annunciation of autopilot stabiliser trim malfunction. Despite extensive inspection, no root cause of this malfunction, which had been transitory, could be found. Crew QRH guidance in respect of the fault experienced was found to be unhelpful and crew knowledge of pitch trim - which could have eliminated any pitch disturbance - was deficient)
+
+Related Articles
+
+Pilot Handling Skills
+Recovery from Unusual Aircraft Attitudes
+Loss of Control
+
+Further Reading
+
+Aviation Safety and Pilot Control: Understanding and Preventing Unfavorable Pilot-Vehicle Interactions, National Academy of Sciences, Washington, D.C. 1997
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,163 @@
+Ground Speed
+
+
+
+
+
+
+
+
+
+
+
+  Ground Speed
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+The speed of an aircraft relative to the surface of the earth.
+Source: ICAO Doc 9426
+Relations to Other Speeds
+Groundspeed and True Airspeed (TAS)
+Groundspeed is a vector sum of True Airspeed (TAS) and wind velocity.
+
+A graphical representation of TAS, wind velocity and ground speed
+Groundspeed/TAS and IAS
+If an aircraft maintains IAS, TAS (and therefore groundspeed) increases when an aircraft climbs. This is because air density decreases with altitude and consequently, higher speed is required to obtain the same dynamic pressure. As a result, if two aircraft are maintaining the same IAS and tracks at different levels and the wind is the same, the higher aircraft will fly faster in terms of groundspeed.
+As a rule of thumb, TAS would change by 7 kt per 1000 ft, e.g. an aircraft that is flying 4000ft above would be about 30 kt faster in terms of TAS/groundspeed.
+Additional factor here is that usually (but not always) windspeed also increases with altitude, generally reaching its highest at the tropopause. As a result, in case of tailwinds higher aircraft move significantly faster and in case of head winds it is possible that aircraft at different levels maintaining the same IAS would also fly at similar groundspeeds.
+Groundspeed/TAS and Mach number
+If an aircraft maintains Mach number, TAS (and therefore groundspeed) reduces when an aircraft climbs. This is because air density (and consequently, the speed of sound) decreases with altitude. Therefore, Mach number, being the same part of a now lower value, is reduced.
+As a rule of thumb, if the two aricraft are flying at the same level, a difference in Mach number of 0.01 would result in 6 kt groundspeed difference if the wind is calm. If the aircraft are flying at different levels, a difference of 2000-3000 ft would result in 6 kt speed difference, the lower aircraft being faster.
+Impact on ATC Operations
+Groundspeed has two major uses in air traffic control:
+
+Estimate calculation. The moment when an aircraft reaches the Transfer of Control point depends on their ground speed. For example, a 140 nm distance would take an aircraft flying at 420 kt (no wind) 20 minutes. With 60 kt of headwind, however, the time would be increased to a little more than 23 minutes.
+Conflict management. The calculation that determines whether or not two aircraft will have enough separation at their CPA is based on the moment each of them reaches that point. Similarly to the above case, this moment depends on the groundspeed. The use of speed control and vectoring may be impacted by wind, in a positive (less effort to obtain the necessary outcome) as well as in a negative way (requiring larger deviation from the flight plan).
+
+Ground speed and wind direction
+The impact of wind speed on ground speed is obvious but wind direction is equally important. There are two situations to be considered:
+
+The wind direction changes (either with altitude or with the position)
+The wind direction remains the same but the aircraft heading changes. As a result, the crosswind and headwind/tailwind component also change, impacting the groundspeed.
+
+In a crosswind scenario a relatively small heading change would result in a significant change of groundspeed (compared to the headwind or tailwind cases).
+Speed control
+When speed control is used to solve a conflict or to provide appropriate spacing between aircraft, the controller needs to assign indicated speeds or Mach numbers that would result in appropriate ground speeds. Ground speed cannot be used directly in ATC clearances because:
+
+The aircraft may easily leave the flight envelope in case the wind changes.
+Even if the aircraft is able to remain within the flight envelope, assigning a ground speed would mean that the crew would need to make frequent adjustments to the engine output power so that they can match the changes of wind speed and direction.
+Even if wind speed and direction remain the same, further adjustments will be necessary in case the aircraft makes a turn (either due to vectoring or because the flight plan reaches a turning point). And, with the new windspeed, the concerns with the flight envelope would rise again.
+
+In addition, the controllers do not actually need aircraft to maintain particular ground speeds. Rather, they are interested in reaching and maintaining an appropriate difference between these (e.g. the aircraft that arrives first at the crossing point needs to be faster by at least 20 kt so that separation standards are maintained).
+It is worth noting that, in case the aircraft are flying on a differenct tracks converging at the same point, the impact of wind will be different and it is possible for an aircraft that is flying at a lower IAS or Mach number to have the same or even a higher groundspeed.
+
+The impact of wind on aircraft flying different tracks. The A320 is flying at M0.78 (approximately 450 kt TAS) and the B773 is cruising at M0.83 (approximately 480 kt TAS). Due to the 60 kt west wind hoerver the ground speeds change in such a way that the B773 will not be able to overtake the B737 at the crossing point.
+Climbing and descending aircraft
+The impact of wind on the groundspeed needs to be taken into account to a greater extent when sequencing climbing or descending aircraft.
+For example, when two aircraft are descending to the same point one flying behind the other, it is normal to have the first one at a lower level. As a result, the higher aircraft behind will tend to fly at a faster groundspeed. The situation would be further aggravated in the tailwind case where it may not be possible to assign such speeds that would maintain or increase the separation between the successive aircraft. Depending on the circumstances, it is even possible for the higher aircraft to overtake the lower one which would not be the desired outcome.
+The opposite may happen if two aircraft are climbing shortly after departure requesting the same cruising level. In such a situation the thing to expect would be that the first (and higher) aircraft would have higher groundspeed, thus separation would increase "by itself". In case of headwinds (increasing with altitude), however, it is possible that groundspeed difference (and consequently, separation) remains the same.
+
+Despite the use of speed control (REK078 is assigned 250 kt and EKR040 is assigned 290 kt IAS) the second aircraft is slightly faster than the first in terms of groundspeed. The distance between them is not increased despite the 40 kt IAS difference. Transfering the two aircraft at the same level may not be in line with the procedures in the letter of agreement with the next unit (presumably an approach control unit). Note that a wind from the west, increasing with altitude, would make the situation worse.
+Groundspeed and vectoring
+Speed control is not the only controller technique that is impacted by groundspeed. If wind is not properly taken into account, the effect of vectoring may be reduced or eliminated by the change (most often increase) of ground speed due to the new angle between the wind and the aircraft heading. If the aircraft is vectored (in order to achieve more spacing with the previous one) but in such a way that would lead to increase of groundspeed caused by the tailwind component, then (some of) the spacing gained with the new heading will be lost due to the increased speed. On the contrary, when vectoring an aircraft into the wind, a lesser change of the heading would suffice (compared to the "no wind" scenario).
+Related Articles
+
+Indicated Airspeed (IAS)
+Calibrated Airspeed (CAS)
+True Airspeed
+Mach Number
+Equivalent Airspeed (EAS)
+Airspeed Conversion
+Basic Controller Techniques: Speed Control
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

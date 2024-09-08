@@ -1,0 +1,153 @@
+Safety Nets
+
+
+
+
+
+
+
+
+
+
+
+  Safety Nets
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Nets 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Safety nets help prevent imminent or actual hazardous situations from developing into major incidents or even accidents. Safety nets, for airborne phases of flight and for preventing collision between aircraft and collision with terrain or obstacles, are either ground-based or airborne:
+
+Ground-based safety nets are an integral part of the ATM system. Using primarily ATS surveillance data, they provide warning times of up to two minutes. Upon receiving an alert, air traffic controllers are expected to immediately assess the situation and take appropriate action.
+Airborne safety nets provide alerts and resolution advisories directly to the pilots. Warning times are generally shorter, up to 40 seconds. Pilots are expected to immediately take appropriate avoiding action.
+
+Ground-based Safety Nets
+The following safety nets are typically in operation in ATM automation systems:
+
+Short Term Conflict Alert (STCA), which assists the controller in preventing collision between aircraft by generating, in a timely manner, an alert of a potential or actual infringement of separation minima.
+Area Proximity Warning (APW), which warns the controller about unauthorised penetration of an airspace volume by generating, in a timely manner, an alert of a potential or actual infringement of the required spacing to that airspace volume.
+Minimum Safe Altitude Warning (MSAW), which warns the controller about increased risk of controlled flight into terrain accidents by generating, in a timely manner, an alert of aircraft proximity to terrain or obstacles.
+Approach Path Monitor (APM), which warns the controller about increased risk of controlled flight into terrain accidents by generating, in a timely manner, an alert of aircraft proximity to terrain or obstacles during final approach.
+
+Airborne Safety Nets
+Current Airborne Safety Nets include:
+
+Airborne Collision Avoidance System (ACAS), which operates independently of ground-based equipment to provide advice to the pilot on potential conflicting aircraft that are equipped with SSR transponders.
+
+
+Ground Proximity Warning System (GPWS), which provides timely and distinctive warning to the flight crew of sink rate, ground proximity, altitude loss after take-off or go-around, incorrect landing configuration and downward glide slope deviation, and includes a predictive terrain hazard warning function. More advanced systems, introduced in 1996 are known as Enhanced Ground Proximity Warning Systems (EGPWS), although the Federal Aviation Administration (FAA) uses the broader term Terrain Avoidance and Warning System (TAWS).
+
+
+Other safety nets available, which are not as yet mandated or universally fitted, include:
+
+High Energy Approach Monitoring Systems which warn the pilots if the energy predicted at touch down exceeds a pre-determined safe level;
+Runway Overrun Protection Systems (ROPS) which provide the pilots with a real-time constantly updated picture in the navigation display of where the aircraft will stop on the runway in wet or dry conditions; and
+Systems which warn pilots of unusual attitudes, e.g. excessive bank or pitch angle. These may be combined with GPWS/TAWS systems.
+
+
+
+Related Articles
+
+Short Term Conflict Alert (STCA)
+Airborne Collision Avoidance System (ACAS)
+Minimum Safe Altitude Warning (MSAW)
+Area Proximity Warning
+Approach Path Monitor
+
+Further Reading
+EUROCONTROL
+
+EUROCONTROL Safety Nets website
+SRC Policy on the use of Safety Nets in risk assessment and mitigation in ATM
+NetAlert Newsletter - EUROCONTROL
+Safety Nets - A Guide for Ensuring Effectiveness, August 2017
+
+
+
+
+
+Categories
+
+
+Safety Nets
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

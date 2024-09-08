@@ -1,0 +1,248 @@
+Vectoring Geometry
+
+
+
+
+
+
+
+
+
+
+
+  Vectoring Geometry
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Separation 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+This article describes vectoring from a geometric point of view. It elaborates on:
+
+Conflict geometry, which determines the need of vectoring, i.e. the calculations performed to determine whether controller intervention would be necessary;
+Factors affecting the controller's choice of aircraft to be vectored;
+How the direction of the turn is determined; and,
+Impact of the track crossing angle on the situation in terms of separation gained by vectoring and separation lost after the crossing point.
+
+Conflict Geometry
+Crossing point is the point where the tracks of the two aircraft intersect.
+Closest Point of Approach (CPA) is the point when the distance between the aircraft is at its minimum.
+The position of the crossing point is easy to determine because it only depends on the planned trajectories of the aircraft and does not take into account the speeds (and wind).
+It is also easy to determine which aircraft will reach the crossing point first (even if they are flying at different speeds).
+
+Parameters used for calculating the distance between the aircraft when the first one reaches the crossing point
+Calculating the precise distance at the moment when the first aircraft reaches the crossing point requires some simple math: D=(D2-D1)+(V1-V2)*t1, where:
+
+D is the distance at the crossing point;
+D1 is the distance from the first aircraft to the crossing point;
+D2 is the distance from the second aircraft to the crossing point;
+V1 is the speed of the first aircraft;
+V2 is the speed of the second aircraft; and,
+t1 is the time which the first aircraft needs to reach the crossing point.
+
+This formula means that in order to calculate D, one needs the current difference of the aircraft positions and a correction (V1-V2)*t1, which accounts for one of the aircraft being faster. When aircraft 1 is faster, D increases with time (aircraft 1 gets ahead). When aircraft 2 is faster, D decreases (aircraft 2 is closing on aircraft 1).
+Rules of thumb:
+
+6 knots of speed difference means that in 10 minutes the value of D will change by 1 NM;
+60 knots of speed difference means that a faster aircraft behind reduces D by 1 NM each minute; and,
+30 knots of speed difference means that a faster aircraft behind reduces D by 1 NM every two minutes.
+
+The CPA is more complicated to calculate because it depends on the angle at which the tracks cross, and this dependency requires trigonometry to calculate exactly.
+
+Calculating the distance at the CPA
+Due to the nature of the cosine function, it is sometimes possible that a relatively small difference of the track angle of one aircraft results in a dramatic change of the correction.
+Rules of thumb, given no wind and both aircraft are flying at the same speed:
+
+A crossing angle of 90 degrees means that separation will be reduced by 30% between the crossing point and the CPA.
+
+As a result, 7.2 NM at the crossing point are needed to achieve 5 NM at the CPA.
+
+
+A crossing angle of 60 degrees means that separation will be reduced by 20% between the crossing point and the CPA.
+
+As a result, 6.3 NM at the crossing point are needed to achieve 5 NM at the CPA.
+
+
+A crossing angle of 30 degrees means that separation will e reduced by 10% between the crossing point and the CPA.
+
+As a result, 5.6 NM at the crossing point are needed to achieve 5 NM at the CPA.
+
+
+A crossing angle of 120 degrees means that separation will be reduced by 50% between the crossing point and the CPA.
+
+As a result, 10 NM at the crossing point are needed to achieve 5 NM at the CPA.
+
+
+A crossing angle of 150 degrees means that separation will be reduced by 75% between the crossing point and the CPA.
+
+As a result, 20 NM at the crossing point are needed to achieve 5 NM at the CPA.
+
+
+
+Choosing the Aircraft
+When vectoring is chosen as a means to solve a conflict, the first task of the controller is to decide which aircraft will have to change its heading. Generally, there are three situations:
+
+Vector both aircraft. This is mostly used to solve conflicts of aircraft on reciprocal (opposite) tracks. This method increases the controller workload (due to having more communication exchanges on the frequency) but offers the benefit of less impact on each aircraft trajectory. Consequently, the increase of the distance flown is usually negligible. In a way this technique is derived from ICAO Annex 2 which states that when two aircraft are approaching head-on or approximately so and there is danger of collision, each shall alter its heading to the right. While turn direction is determined based on other factors (see next section), the general idea that both aircraft turn, and in the same direction, remains.
+
+
+Example of vectoring both aircraft
+
+Vector the aircraft that is behind. This is usually used when the two aircraft are maintaining altitude and one is considered to be overtaking the other as specified in ICAO Annex 2, which states (An overtaking aircraft is an aircraft that approaches another from the rear on a line forming an angle of less than 70 degrees with the plane of symmetry of the latter). This is the more convenient choice from ATC perspective as well, since it requires less intervention (there is already some separation).
+
+
+Example of vectoring the aircraft that is behind
+
+Vector the requesting aircraft. If a pilot makes a request (usually to climb) and accommodating this request would result in insufficient separation with another aircraft, then the general choice is to vector the requester. Sometimes two vectors are used in such situations - the first one to achieve the desired separation and a second one to maintain it by flying on a parallel track.
+
+
+Example of vectoring the requesting aircraft, placing it on a parallel track, and finally instructing it to resume own navigation
+Note that while the choices above are the most common, it is possible that a particular situation requires a different course of action. This is usually done for safety reasons. Some examples are provided below without the aim of being exhaustive:
+
+Controllers avoid solving conflicts by vectoring aircraft that have declared an emergency or are given higher priority, e.g. search and rescue, special operations, VIP, etc.
+If it is considered that the efficiency gain does not warrant the increased workload controllers would not vector both aircraft (e.g. if turning one of them by 10 degrees would be enough to solve the conflict)
+In complex situations that involve more aircraft (e.g. if rejecting a climb request would result in maintaining an inefficient level for a long time and turning would deviate the requesting aircraft too much or would cause a conflict with a third aircraft) controllers may deviate from the usual routine. They would follow the principle of obtaining optimal results with least intervention based not on each aircraft's perspective but on the situation as a whole.
+
+Turn Direction
+After the aircraft to be vectored has been chosen, the controller decides the direction of the turn. The following general principles are used:
+
+Aircraft flying on opposite tracks are turned in a direction that would increase the separation.
+
+
+Turning Aircraft 2 slightly to the right is enough to solve the conflict while turning it to the left, even by more degrees, does not.
+
+"Aiming" at the first aircraft's current position. The crossing point is moved in such a way that the distance from the first aircraft is reduced significantly while the distance from the second one is reduced marginally. This results in the second aircraft passing further behind.
+
+
+Turning Aircraft 2 to the left solves the conflict by placing it behing Aircraft 1. A vector to the right, while prolonging the time to the conflict, does not solve it.
+
+Turning an aircraft against the wind. This reduces the ground speed, effectively placing the aircraft being vectored further behind. In some situations, if the wind is strong enough, vectoring against the wind can be much more effective than speed control for sequencing purposes.
+
+
+Turning Aircraft 2 to the right allows it to safely climb to FL 350. Due to the speed reduction caused by the wind Aircraft 2 can be sequenced behind Aircraft 1.
+
+Turning in a direction that is in line with the flight planned trajectory is preferable. Thus when the aircraft resumes own navigation its overall flight distance will be only marginally increased and may even be reduced (compared to the flight planned).
+
+
+Vectoring Aircraft 2 in any direction would solve the conflict but the left turn would not cause a delay.
+
+Turning away from other traffic, special use areas and sector boundaries when practicable. Otherwise additional controller actions may be necessary (e.g. coordination, solving other conflicts, etc.).
+
+Crossing Angle
+Having chosen an aircraft and the direction of turn, the controller needs to determine the extent of the heading change. The track crossing angle is crucial at this stage as it determines:
+
+The increase of separation after vectoring (expressed e.g. in miles per 10 degrees).
+The separation reduction between the crossing point and the CPA.
+
+The general impact of the crossing angle is as follows:
+
+Right Angle (Crossing Tracks) allows the "1 in 60 rule" to be used
+Accute Angles (Same Tracks) lead to:
+
+Less separation reduction after the crossing point (as opposed to other options)
+Less separation gained by vectoring (as opposed to other options). The situation may require 20-30 degree turns (or more). If the wind is unfavourable, an even greater turn may be necessary. The "1 in 60 rule" is no longer working, because both aircraft's distances from the crossing point are reduced by pretty much the same amount of miles, which effectively results in little or no separation gain. Issuing a larger vector essentially transforms the situation from a "same tracks" to a "crossing tracks".
+
+
+Obtuse Angles (Reciprocal Tracks) lead to:
+
+Greater separation reduction after the crossing point
+More separation gained by vectoring. A mild turn of 5 or 10 degrees is often enough to reach the desired separation.
+
+
+
+Related Articles
+
+Basic Controller Techniques: Vectoring
+1 in 60 Rule (Nano)
+Rules of Thumb
+Tactical Controller Tool (TCT)
+Conflict Detection
+Conflict Solving
+
+
+
+
+
+Categories
+
+
+Loss of Separation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

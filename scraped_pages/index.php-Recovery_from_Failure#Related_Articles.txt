@@ -1,0 +1,134 @@
+Recovery from Failure
+
+
+
+
+
+
+
+
+
+
+
+  Recovery from Failure
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Human Behaviour 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+“Recovery from Failure” is a phrase used to describe a need in aviation to continue real-time operations to a safe conclusion despite a critical part of a system (technical, procedural, or human) failing, sometimes at the most crucial time.
+Continuation of operations to a safe conclusion can be guaranteed, or at least facilitated, through system design, redundancy, back-up systems or procedures, safety nets, and even accurate fault diagnoses and timely, correct responses by human operators. Many of these features are built-in as system defences, but, as the subject concerns recovery from failure (or after failure) these features can be considered as “containment” measures.
+
+Bow Tie Diagram
+The Bow Tie diagram above can be used to represent this concept. Consider the hazardous event as the Failure. Controls prior to Failure can be considered Safety Defences (which themselves may have failed). Controls post Failure can be considered Containment Measures which facilitate Recovery and a safe (or safer) outcome.
+Continuation of safe operations is often associated with a “recovery”, and there is one particular area where the recovery and continuation differ from most other situations; this concerns computer/software systems which fail (or freeze), but then can be “re-booted”, data recovered and re-engaged on-line.
+Some of these issues are now discussed briefly through simple examples. More details, for specific failures, can be gained from reading the related articles listed below.
+Examples
+
+Basic design. One of the simplest concepts to grasp concerning design is the use of more than one engine; if one fails, the other is designed to be powerful enough to continue operations safely. Furthermore, by placing engines under-the-wing instead of inside the wing, then added protection is provided to other critical aircraft systems (other engines, fuel, hydraulics) if an engine fails “explosively”.
+Recovering from a system failure. E.g. recovering from the failure of flaps to lower. First of all the possibility of this happening on modern aircraft is much reduced by the design of the hydraulic system allowing for leaks to be isolated, thereby protecting essential services such as undercarriage and flaps. Furthermore, back-up air-driven, or electric hydraulic pumps may be available allowing for redundancy. Further back-up may be possible through accumulators that hold “one-shot” applications of services. This example shows a multi-level design that allows many opportunities to recover from failure; or, actually prevent total failure. If, however, the flaps still fail to lower, there will be Standard Operating Procedures that guide the pilots to select a suitable runway (landing length, navigation and visual aids), environmental conditions (wind, runway contamination), adjusted approach and landing speeds, recommendations for braking and reverse thrust use for deceleration etc. Performance calculations to determine the landing distance required can be considered to contain a safety net in the form of a % safety margin.
+Recovering from specific situations. When people talk about the concept of “recovery from failure” they are often referring to the several critical situations that pilots are trained to recover from, such as recovery from: engine failure during take-off, unusual attitudes (loss of control), uncontained engine failure, rejected take-off and rejected landing. These recovery techniques are skill-based and procedure driven. The latest aircraft designs (2013) now have the capability to recover automatically from situations such as unusual attitudes, without input from pilots. In many cases it is even possible that entry into an unusual attitude and/or a stall is prevented by the aircraft’s automated systems.
+Recovering from human failure. When humans perform a skill poorly, or omit to perform an action (see human error), then a Safety Net can assist recovery. At the simplest level a safety net could be a harness to prevent an engineer from falling whilst attending to an engine. To a more technical degree, if an air traffic controller clears an aircraft to an unsafe level (where a conflict exists), or two pilots fail to level-off on time at their cleared Flight Level, then an Airborne Collision Avoidance System (ACAS) can help the pilots recover from a conflict caused by the Level Bust.
+Recovering from an accident. The worst kind of failure, of course, is an accident; and even with serious accidents there is the possibility of containment and partial recovery, i.e. the saving of lives. Design, procedures and safety nets can all assist in recovery. E.g. passenger seats and restraints designed to withstand high deceleration forces (typically 16 x gravity); cabin interiors designed to prevent passengers from being incapacitated by smoke, fumes, and noxious gases; cabin crew trained in procedures to assist passengers evacuate as fast as possible; and life jackets and rafts available as containment measures if the aircraft has ditched on water.
+
+Related Articles
+
+Bow Tie Risk Management Methodology
+Engine Failure During Takeoff - Multi-Engine Transport Category Jet Aircraft
+Loss of Control
+Recovery from Unusual Aircraft Attitudes
+Rejected Take Off
+Rejected Landings
+Uncontained Engine Failure
+
+
+
+
+
+Categories
+
+
+Human Behaviour,
+              Safety Nets,
+              Design Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

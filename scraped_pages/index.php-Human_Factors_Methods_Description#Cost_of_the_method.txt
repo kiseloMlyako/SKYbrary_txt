@@ -1,0 +1,104 @@
+Human Factors Methods Description
+
+
+
+
+
+
+
+
+
+
+
+  Human Factors Methods Description
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+This report is aimed at providing a first version of a catalogue of the Human Factors (HF) methods that have been applied in ATC. The objective is to identify and organize each method according to specific criteria and to provide a means for searching the catalogue according to scientific research questions. What follows is a description of the catalogue structure.
+A total of 61 Human Factors methods have been gathered from different documents. These HF methods are organized in a database according to several criteria. The main criterion is the research question that the methods address: strain, stress, fatigue, human error, workload, usability, etc.
+Data organization
+Criteria
+A series of criteria enable to describe each HF method. These criteria are gathered into six categories:
+
+General,
+Characteristics,
+Context of studies,
+Potential problems with the method,
+Cost of the method,
+Data Analysis.
+
+Another category called “Miscellaneous” gathers qualitative information on the method such as: its advantages, disadvantages, a discussion, and some references.
+General
+Type - specifies the general type of method.
+Target - distinguishes the intention of the measure, the hypothesis or research questions the method tries to answer.
+Life Cycle Design - indicates the moment of design or development of a product the method evaluates.
+Time Scale - describes the speed of reaction of the method. A sleep log, recording waking and sleeping times on a daily basis, has a time scale of days, while EEG responses may be measured in micro-seconds.
+Portability - refers to the ease with which equipment can be taken to where it is needed. Some methods, such as Instantaneous Self Assessment (ISA), use equipment built into the working position, while others, such as activity analysis, can be carried out using a clipboard and pencil, or a palm-top computer.
+Observer Effect - is the disturbance introduced into the work by the making of observations. These effects may be positive or negative, and need to be considered in the human context. In a laboratory study, the presence of an attractive observer, particularly of the opposite gender, may spur the participant to extraordinary efforts. In field studies, the taking of furtive measurements, particularly if their purpose has not been explained to the workforce, may lead to undesirable consequences.
+Characteristics
+Independence from tester influence - In respect to data collection, data reduction, and interpretation of the results.
+Validity - is the degree to which the method measures what it is intended to measure.
+Reliability - is the degree of consistency and repeatability of scores obtained by the measurement method.
+Feasibility - is the ability of the method to satisfy implementation demands.
+Face Validity - is the degree to which the method appears to measure workload to the non-specialist.
+Interference - is the degree of non-intrusiveness of the method in respect to the main task.
+Diagnosticity - is the ability of the method to differentiate among different sources.
+Generality - is the degree of applicability of the method to a wide variety of tasks.
+Context of Studies
+Laboratory Studies - concerns the suitability of the method for use in laboratory experimentation, which may include small-scale simulations involving 1 or 2 operators. This is usually, from the experimenters point-of-view, the most benign environment. Experimental subjects can be obliged to comply with rigorous controls.
+Simulation Studies - applies mainly to large-scale (10 to 40 operator) simulations, involving 10 to 50 simulation runs over a period of weeks, such as are used in ATC and similar control centres. These require methods that are economical in man-power and in running cost, provide rapid analysis, and that the controllers can be persuaded to accept (face validity).
+Field Studies - refer to studies carried out in the Real World. These studies are always subject to over-riding safety considerations, and the risk that the operators performance may be significantly impaired rules out many methods that may be accepted in simulation studies.
+Potential problems with the method
+Failure Risk - is the risk that a method may produce no results, most obviously simply because equipment malfunctions, for example by an electrode falling off during Heart Rate measurement, or, less obviously, because the method is simply not sufficiently sensitive to detect the effects present.
+Bias Risk - is the risk that unsuspected intervening variables may upset the measure. Biological measures are particularly vulnerable to these.
+Ethical Problems - may occur where a measurement suggests that an operator may be unfit or incapable of operating safety. They may occur if measures, such as recordings of heart rate, show the presence of organic disease in the operator. In field studies, they may occur if the observer becomes aware of a potentially dangerous situation when the operator is not. At what point should the observer intervene?
+Cost of the method
+Staff Costs - vary greatly from method to method. Questionnaires and self-assessment methods which may be employed before or after an experiment and measures derived from existing data, require no staff at the time of the experiment. Electrophysiological methods usually need at least one post-doctoral level supervisor and one skilled technician per operator observed.
+Set-up Cost - covers the capital investment needed to acquire equipment and train the operator(s) needed. It is sometimes necessary to contract out the more sophisticated methods, although problems can occur where the contractor supplies poorly-trained staff who have to be trained by the client.
+Running Cost - is increasingly reduced by the use of computer-based methods. If the system being investigated can include the data collection, there is virtually no cost.
+Analysis Cost - may be very high, where disposable medical equipment must be used, or very low where standard computer analysis packages are available.
+Analysis data
+Analysis Speed - varies between the weeks sometimes required for the analysis of saliva, to the immediately available ISA. Low speed, high cost methods with substantial failure risk should be avoided.
+Data Automation - is always preferable, not only because it is usually cheaper and less intrusive, but because it is usually more reliable. Bitter experience suggests that it is always advisable to inspect data at or immediately after collection the extent to which data can be garbled without attracting attention is always greater than anticipated, even by the most cynical investigator.
+Analysis Automation - is nowadays practically universal. Where data is collected automatically, it is usually in computer-readable form, and can be inserted into computer statistical analysis packages. It should be noted that most packages do not undertake to detect data anomalies, and that a visual display of data is essential to detect, for example, missing data, or anomalies where a beat-to-beat heart-rate measure fails to detect a peak and registers two beats as one.
+Status - is a very approximate measure of how the method is generally considered at the present time. Some methods are of relatively recent origin, and may appear promising, while others have been in regular use for many years. Some methods have been suggested, used occasionally, and have been generally abandoned. There are also regional and national differences in preferred methods.
+Miscellaneous
+Advantages
+Disadvantages
+Discussion - is a discussion of the method, giving more practical details, discussing its origins and use, and providing diagrams and photos of equipment employed.
+References
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,237 @@
+Situation Awareness Rating Technique (SART)
+
+
+
+
+
+
+
+
+
+
+
+  Situation Awareness Rating Technique (SART)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+The main advantages of these techniques are their ease of use and low cost. An important problem is that people are not always aware of what they don’t know! Moreover, sometimes, in the case of experts, people don’t know what they do know: i.e. experts are not always aware of which data they do take into account. These measurement techniques are highly subjective and suffer from the possible influence of perceived performance and /or expected performance.
+Endsley (1995 b) states “Self rating of S.A. most likely conveys a measure of subject’s confidence level regarding that S.A.- i.e. how comfortable they feel about their S.A.”
+Method description
+“SART was derived from the following working definition of S.A. “S.A. is the knowledge, cognition and anticipation of events factors and variables affecting the safe, expedient and effective conduct of the mission ”” (Taylor et al. 1995a). SART allows operators to rate a system design, via bipolar scales, the degree (7 degree scales) of perception experienced:
+
+The amount of demand on attentionnal resources (D)
+Instability of the Situation i.e. likeliness to change suddenly
+Complexity of the Situation i.e. degree of complication
+Variability of the Situation i.e. number of variables and factors changing
+Supply of attentionnal resources (perceived workload) (S)
+Arousal i.e. degree of alertness or readiness for action
+Concentration of attention i.e. degree to which thoughts are brought to bear
+Division of attention i.e. distribution, spread of focus
+Spare mental capacity i.e. mental ability available for new variables
+Understanding of the situation provided (U)
+Information quantity i.e. amount of knowledge received and understood
+Information quality i.e. accuracy and value of knowledge communicated
+Familiarity with the situation i.e. degree of prior experience and knowledge
+
+These scales are then combined to provide an overall S.A. score for a given system: Formula: S.A. (calculated) = Understanding – (Demand – Supply)
+SART for pilots has a total of 14 components (3 global ratings of the basic dimension D, S & U + ratings of the 10 elements composing the dimension (bullets) + 1 S.A. simple rating: “How good is your awareness of the situation?”) which were determined to be relevant to S.A. through analysis with pilots.
+It appears that the same dimensions are used for assessing ATCOs S.A. This is possible because of the non-relation between the dimension and concrete / specific aspects of task performed.
+SART can be proposed in different scale lengths: 14 scales corresponding to the 14 components described above, 10 scales corresponding to the 10 elements composing the dimensions, or 3 scales when reduced to the 3 basic dimensions.
+Discussion
+In addition to the generic comments that can be made to Self-Rating techniques (see under) it is to be noted that SART does not address the criteria/elements behind the scales and scores:
+
+We do not know which data was part of “the received and understood information“.
+We do not know in which aspect(s) the new situation was familiar to the subject.
+
+Disadvantages
+According to Jones (2000), numerous studies have been performed to examine the validity of SART. Strong claims are made for the validity and sensitivity of the scale constructs, and the diagnostic capability of SART, but the evidence remains weak at best. In a recent empirical ATC simulation study comparing three SA measures, SART was found not to be sensitive to the display manipulation (Endsley et al., 2000).
+This method might be interesting for comparison but does not provide high value information for first steps of design. As discussed above, bipolar scales are not really explanatory and not concrete.
+SART is the most widely known Self-Rating Technique in the domain of S.A. measurements.
+CC SART (Taylor 1995b)
+By the same author, CC SART is built on the same principle. It is a set of rating scales intended to measure the system Cognitive Compatibility (CC).
+Cognitive compatibility is defined by the author as “the facilitation of goal achievement through the display of information in a manner which is consistent with internal processes and knowledge, in the widest sense, including sensation, thinking conceiving and reasoning” or, more simply “Cognitive Compatibility refers to ease of perceiving, thinking and doing, in line with past experience, training and expectations”.
+Like SART, the scales correspond to a set of 3 main dimensions and the 10 elements related to these main dimensions.
+CC SART dimensions
+Level of processing: degree to which the situation involves automatic processing or analytic and abstract processing.
+
+Naturalness
+Automaticity
+Association
+Intuitiveness
+Ease of reasoning: degree to which the situation is confusing and contradictory or straightforward and understandable
+Straightforward
+Confusability
+Understandability
+Contradiction
+Activation of knowledge: degree to which the situation is strange and unusual or is recognisable and familiar.
+Recognisability
+Familiarity
+
+According to the experimental context (and again in the same way as SART) CC SART can be presented in 3 different forms:
+
+The 13-D version that comprises all the basic and main dimensions in a single set of rating scales.
+The 10-D version that comprises only the basic dimensions.
+The 3-D version using only the main dimensions. The diagnostic power is reduced, compared with 13D and 10 D but Taylor proposes this form as the best candidate for collecting repeated measures during continuous activity.
+
+CC SART is proposed as a complement to SART and aims at providing a more detailed measure of the understanding dimension involved in Situation Awareness.
+The comments made concerning SART can be made for CC SART for the two methods follow the same principle and format (7 degree rating scales). Regarding the more abstract aspect of the dimensions in CC SART, it could be argued that it is more difficult to rate and therefore requires additional training of the subject before administration. This comment is counterbalanced by the advantage that examples of “every day life” are available in a computerised version for each of the scales.
+References
+
+Taylor, R.M. (1990). Situational Awareness Rating Technique (SART): The development of a toll for aircrew systems design. In: AGARD Conference Proceedings No 478, Situational Awareness in Aerospace Operations. Aerospace Medical Panel Symposium, Copenhagen, 2nd -6th October 1989.
+J.E., VIDULICH, M.A. (1998). Computer Modeling of Operator Mental Workload and Situational Awareness in Simulated Air-to-Ground Combat: An Assessment of Predictive Validity, International Journal of Aviation Psychology, SEE.
+BREZILLON, P., POMEROL, J.C., SAKER, I. (1998) Contextual and Contextualized Knowledge: An Application in Subway Control International Journal of Human-Computer Studies.
+DEREFELDT, G., et al (1999) Improvement of Tactical Situation Awareness with Colour-Coded Horizontal-Situation Displays in Combat Aircraft Displays
+DURSO, F.T., HACKWORTH, C.A., TRUITT, T.R., et al. (1998) Situation Awareness as a Predictor of Performance for En Route Air Traffic Controllers Air Traffic Control Quarterly.
+ENDSLEY, M.R., SELCON, S.J., HARDIMAN, T.D., et al. (1998) A Comparative Analysis of SAGAT and SART for Evaluations of Situation Awareness Human-System Interaction: The Sky's No Limit. Proceedings of the Human Factors and Ergonomics Society 42nd Annual Meeting, Chicago, Illinois, October 5-9, 1998. The Human Factors and Ergonomics Society, Santa Monica, California, Volume 1
+SELCON, S.J., HARDIMAN, T.D., CROFT, D.G., et al. (1996) A Test-Battery Approach to Cognitive Engineering: To Meta-Measure or Not to Meta-Measure, That Is the Question! Human Centered Technology - Key to the Future. Proceedings of the Human Factors and Ergonomics Society 40th Annual Meeting, Philadelphia, Pennsylvania, September 2-6, 1996. The Human Factors and Ergonomics Society, Santa Monica, California, Volume 1
+CRABTREE, M.S., MARCELO, R.A.Q., MCCOY, A.L., et al. (1993) An Examination of a Subjective Situational Awareness Measure during Training on a Tactical Operations Simulator, Proceedings of the Seventh International Symposium on Aviation Psychology, April 22-29, 1993, Edited by R.S. Jensen and D. Neumeister, Volume 2
+J.E., VIDULICH, M.A. (1997) Assessment of Computer Modelling of Operator Mental Workload during Target Acquisition SEE, Ancient Wisdom - Future Technology. Proceedings of the Human Factors and Ergonomics Society 41st Annual Meeting, Albuquerque, New Mexico, September 22-26, 1997. The Human Factors and Ergonomics Society, Santa Monica, California, Volume 2
+L., CATCHPOLE, K., MACKLIN, C., et al. (2001) Big Is Better? Results of an Assessment of Command Teams with Large Screen Displays EMERY, People in Control: The Second International Conference on Human Interfaces in Control Rooms, Cockpits and Command Centres, Manchester, 19-21 June 2001. Institution of Electrical Engineers, London
+WILSON, J.R., HOOEY, B.L., FOYLE, D.C., et al. (2002) Comparing Pilots' Taxi Performance, Situation Awareness and Workload Using Command-Guidance and Hybrid Head-Up Display Symbologies Bridging Fundamentals and New Opportunities. Proceedings of the 46th Annual Meeting of the Human Factors and Ergonomics Society, Baltimore, Maryland, September 30-October 4, 2002. Human Factors and Ergonomics Society, Santa Monica, California.
+SELCON, S.J., TAYLOR, R.M., SHADRAKE, R.A. (1992) Multi-Modal Cockpit Warnings: Pictures, Words, or Both? Innovations for Interactions. Proceedings of the Human Factors Society 36th Annual Meeting, Atlanta, Georgia, October 12-16, 1992. The Human Factors Society, Santa Monica, california, Volume 1
+VIDULICH, M.A., MCCOY, A.L., CRABTREE, M.S. (1995) The Effect of a Situation Display on Memory Probe and Subjective Situational Awareness Metrics, Proceedings of the Eighth International Symposium on Aviation Psychology, April 24-27, 1995, Edited by R.S. Jensen and L.A. Rakovan, Volume 2
+SELCON, S.J., TAYLOR, R.M., KORITSAS, E. (1991) Workload or Situational Awareness? TLX vs. SART for Aerospace Systems Design Evaluation Visions. Proceedings of the Human Factors Society 35th Annual Meeting, San Francisco, California, September 2-6, 1991. The Human Factors Society, Santa Monica, California, Volume 1
+STEDMON, A.W., SELCON, S.J. (1997) An Evaluation of Alternative Launch Success Zone Formats in Tactical Pilot Decision Making, Engineering Psychology and Cognitive Ergonomics. Volume One: Transportation Systems, Edited by D. Harris. Ashgate Publishing, Aldershot, Hampshire
+TAYLOR, R.M. (1996) Cognitive Compatibility: A Conceptual Framework for Cognitive Quality in Advanced Crew Systems Design ,Contemporary Ergonomics 1996, Edited by S.A. Robertson. Taylor & Francis, London
+TAYLOR, R.M. (1995) Experiential Measures: Performance-Based Self Ratings of Situational Awareness Experimental Analysis and Measurement of Situation Awareness, Edited by D.J. Garland and M.R. Endsley. Embry-Riddle Aeronautical University Press, Daytona Beach, Florida, USA
+TAYLOR, R.M., SELCON, S.J., SWINDEN, A.D. (1995) Measurement of Situational Awareness and Performance: A Unitary SART Index Predicts Performance on a Simulated ATC Task, Human Factors in Aviation Operations, Edited by R. Fuller, N. Johnston and N. McDonald. Avebury Aviation, Ashgate Publishing, Aldershot, Hants
+
+
+
+
+
+Categories
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+Generics
+
+
+Target of method
+Situational Awareness
+
+
+Time Scale of method
+ 
+
+
+Context of studies
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Potential problems with the method
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Costs of the method
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Analysis data
+
+
+Analysis Speed
+ 
+
+
+ 
+
+
+Data Automation
+ 
+
+
+ 
+
+
+Analysis Automation
+ 
+
+
+ 
+
+
+Status
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

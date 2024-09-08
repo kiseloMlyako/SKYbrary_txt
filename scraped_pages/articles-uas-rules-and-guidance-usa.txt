@@ -1,0 +1,180 @@
+UAS Rules and Guidance - USA
+
+
+
+
+
+
+
+
+
+
+
+  UAS Rules and Guidance - USA
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Unmanned Aerial Systems 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+This article provides an overview of current U.S. Federal Aviation Regulations, provides references and links to selected guidance materials for the operaton of Small Unmanned Aircraft Systems (sUAS) in the in the U.S.
+The Federal Aviation Administration's (FAA) principal guidance for sUAS operators is an advisory circular (AC) focused on remote pilot certification, aircraft registration and marking, aircraft airworthiness, and safe sUAS operation. This AC states, “This document is intended only to provide clarity to the public regarding existing requirements under the law or agency policies.” The document contains comprehensive explanations, definitions, acronyms, knowledge resources, examples of sUAS aeronautical decision making, and scenarios — such as flying sUAS aircraft over people — that called for complex strategic planning and on-site tactical actions.
+Small UAS Rule
+The Small UAS Rule (Code of Federal Regulations Part 107, sometimes references as 14 CFR Part 107), in effect as of 29 August 2016, covers the operation and certification of small unmanned aircraft systems (weighing less than 55 pounds (25 kg). The purpose of this regulation is to:
+
+set rules for the certification of UAS pilots;
+set rules for the operation of UAS;
+ensure that model aircraft do not endanger the safety of the National Airspace System.
+
+According to Part 107’s Section 107.200, “Waiver Policy and Requirements,” the FAA may issue a certificate of waiver authorizing a deviation from any regulation specified in Section 107.205 if the agency finds that a proposed sUAS operation can be conducted safely under the terms of that certificate of waiver.
+In April 2021, the FAA expanded options for civilian drone operators/remote pilots to routinely fly their aircraft over people in the National Airspace System (NAS) under certain circumstances. Previously, Part 107 stated that no person may operate a small unmanned aircraft over a human being unless that person was directly participating in the operation of the small unmanned aircraft; or that person was located under a covered structure or inside a stationary vehicle that could provide reasonable protection from a falling small unmanned aircraft.
+Amended Part 107 adds that if the sUAS operation meets the requirements of at least one of Part 107’s four permissible operational categories specified in “Subpart D – Operations Over Human Beings,” operational capabilities are safely enhanced.
+Section 107.145 in Subpart D specifies how risks to a human being located inside a moving vehicle below a drone must be mitigated by different operating conditions, prohibitions and limitations applicable to Categories 1, 2, 3 and 4. For example, in Category 2 and Category 3 operations, the FAA conducts a test, analysis or inspection of the applicant’s proposed description of procedures, conditions, environments and methods, as applicable. By establishing means of compliance (MOC), this process expects applicants to explain how their application fulfills Part 107 requirements. The FAA may accept or deny their application, and subsequently — on the basis of ongoing FAA review — may rescind the acceptance if compliance with the agreed terms fails.
+A related change — Amendment Number 108-8 of 15 January 2021 — is that the provisions of Part 21 of the Federal Aviation Regulations, “Certification Procedures for Products, Articles, and Parts,” do not apply to sUAS operated under Part 107 unless the aircraft will operate over human beings in accordance with Section 107.140, “Category 4 Operations.”
+Pilot Certification
+U.S. drone pilots must possess an FAA-issued remote pilot airman certificate with a small UAS rating, and an FAA-accepted form of personal identification, to operate an sUAS under Part 107. The certificate’s privileges terminate if the remote pilot has not obtained this certificate — or has not completed recurrent training on specified areas of knowledge — within the previous 24 months as required by Part 107.73, “Knowledge and Training.”
+Part 107 sUAS operators who lack this certificate must be under the direct supervision of a designated remote pilot in command, who must have the ability to immediately take direct control of the flight of the aircraft. A candidate must be at least 16 years old; be able to read, speak, write and understand the English language; and meet health standards — among other criteria — to be considered for issuance of a remote pilot certificate. The certificate can be obtained one of two ways:
+
+If the candidate passes an initial aeronautical knowledge test at an FAA-approved knowledge testing center; of
+If the candidate has a Part 61 pilot certificate (other than a student pilot certificate), has completed a flight review in the previous 24 months and completes training that covers the areas of knowledge specified in Part 107.74, “Small Unmanned Aircraft System Training.”
+
+sUAS Certification
+A person operating an sUAS for purposes of flight must comply with the FAA aircraft-registration provisions in Part 91.203(a)(2), “Registration.”
+An sUAS pilot operating under Part 107 is responsible for ensuring the aircraft/system is safe before flying. The remote pilot in command has to perform a preflight visual and operational check of the small UAS to ensure that safety-pertinent systems are functioning properly. This includes checking the control link between the control station and the sUAS aircraft.
+The FAA does not require an sUAS aircraft to comply with current agency airworthiness standards or to obtain aircraft certification. As of 2021, only the flight above–human beings amendment that created Category 4 operations, has such requirements.
+Specifically, Category 4 rules state that the remote pilot in command of an sUAS:
+
+Must use a small unmanned aircraft that is eligible for Category 4 operations pursuant to paragraph (b) of this section; and,
+Must operate the small unmanned aircraft in accordance with all operating limitations that apply to the small unmanned aircraft, as specified by the FAA.
+
+Category 4 also states that the sUAS must:
+
+Have an airworthiness certificate issued under Part 21 of this chapter;
+Be operated in accordance with the operating limitations specified in the approved Flight Manual or as otherwise specified by the FAA. The operating limitations must not prohibit operations over human beings; and,
+Have maintenance, preventive maintenance, alterations, or inspections performed in accordance with paragraph (c)(1) of this section, and maintain all records as specified.
+
+Operating Requirements
+According to Section 107.19, “Remote Pilot in Command,” the remote pilot in command must ensure that the sUAS aircraft (or an object carried on board or dropped from it) will pose no undue hazard to other people, other aircraft, or other property in the event of a loss of control of the aircraft for any reason.
+Other sections of Part 107 focus on prohibiting certain sUAS aircraft operations, unless permissable waivers are granted by FAA, such as these examples:
+
+Operation of an sUAS at night is prohibited unless the remote pilot in command has completed an initial knowledge test or training after 6 April 2021, and the aircraft has lighted anti-collision lighted that complies with Part 107 (all FAA waivers that formerly authorised night operation terminated on 17 May 2021);
+Since 15 January 2021, unless authorised by the FAA, no person may operate a small UAS under Part 107 with a transponder selected ON or with automatic dependent surveillance–broadcast (ADS-B Out) equipment selected to TRANSMIT mode;
+Since 15 January 2021, a person may not manipulate the flight controls of a small UAS, or act as pilot in command or visual observer, in the operation of more than one UAS at a time;
+Small UAS operations in Class G airspace do not require air traffic control authorisation. Operations in Class B, C or D airspace — or within the lateral boundaries of the surface area of Class E airspace designated for an aerodrome — require ATC authorisation;
+No person may operate a civil sUAS unless it is in a condition for safe operation, including checking the sUAS prior to each flight and discontinuing flight when they know or have reason to the sUAS no longer is in a condition for safe operation;
+The sUAS must not be operated in a careless or reckless manner so as to endanger the life or property of another;
+To conduct a visual line of sight aircraft operation under Part 107, the remote pilot in command, the visual observer (if used) and the person manipulating the flight control of the sUAS must be able to see the unmanned aircraft with unaided vision throughout the entire flight;
+The sUAS can be flown during daylight or in U.S. civil twilight with Part 107–compliant, lighted anti-collision lighting (e.g., visible for at least three miles [five km]);
+Minimum flight visibility must be no less than three miles as observed from the control station;
+The sUAS aircraft groundspeed may not exceed 100 mph (87 kt);
+The minimum distance of the sUAS aircraft from clouds must be no less than 500 feet below the cloud and 2,000 feet horizontally from the cloud;
+The altitude of the sUAS aircraft may not exceed 400 feet above ground level. The exception is when the drone remains within a 400-foot radius of a structure and does not fly higher than 400 feet above the structure’s uppermost limit; and,
+The remote pilot in command must report to the FAA — per the event criteria, data and instructions in Section 107.9 — any sUAS operation that results in serious injury to any person or any loss of consciousness; or damage to any property except the sUAS aircraft.
+
+FAA Inspections and Tests
+The remote pilot in command, visual observer, owner, operator or person manipulating the flight controls of an sUAS aircraft must, upon request, allow FAA representatives to make any test or inspection of the sUAS, the remote pilot in command, the person manipulating the flight controls of an sUAS, and, if applicable, the visual observer to determine their compliance with Part 107.
+Respecting Privacy
+Although Pasrt 107 does not specifically deal with privacy issues in the use of drones, and the FAA does not regulate how UAS gather data on people or property, the FAA strongly encourages all UAS pilots to check local and state laws before gathering information through remote sensing technology or photography. The FAA will provide all drone users with recommended privacy guidelines. The National Telecommunications and Information Administration (NTIA) offers guidelines and best practices for UAS pilots.
+Related Articles
+
+Unmanned Aerial Systems (UAS)
+UAS Rules and Guidance - EU
+UAS Operations Over people (U.S.)
+
+Further Reading
+
+The FAA UAS home page
+Part 107 - Small Unmanned Aircraft Systems (full text)
+FAA Advisory Circular (AC) 107-2A, Small Unmanned Aircraft System (Small UAS), 1 Feb. 2021.
+NTIA Voluntary Best Practices for UAS Privacy, Transparency, and Accountability
+Advisory Circular on Model Aircraft Operating Standards
+
+
+
+
+
+Categories
+
+
+Unmanned Aerial Systems,
+              Rules
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

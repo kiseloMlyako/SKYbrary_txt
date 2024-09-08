@@ -1,0 +1,232 @@
+Regulation 2020/469 amending Regulations 923/2012, 139/2014 and 2017/373 and repealing Regulation 73/2010
+
+
+
+
+
+
+
+
+
+
+
+  Regulation 2020/469 amending Regulations 923/2012, 139/2014 and 2017/373 and repealing Regulation 73/2010
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Single European Sky 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COMMISSION IMPLEMENTING REGULATION (EU) 2020/469 of 14 February 2020 amending Regulation (EU) No 923/2012, Regulation (EU) No 139/2014 and Regulation (EU) 2017/373 as regards requirements for air traffic management/air navigation services, design of airspace structures and data quality, runway safety and repealing Regulation (EC) No 73/2010 - text published in the Official Journal of the European Union 
+Summary
+The Regulation amends Regulation 923/2012 by:
+
+Replacing the definition of "controlled aerodrome" and adding definitions for "critical area" and "sensitive area".
+Stating that while the emergency frequency (121.500 MHz) is only to be used for emergency purposes, it may, as an exception, be used for other purposes.
+Amending the Annex, the most notable changes being:
+
+Paraphrasing of certain provisions.
+Adding a provision that if an aircraft is being vectored or cleared a direct flight outside the flight planned route, the controller should ensure than obstacle clearance is maintained.
+Adding a provision that FIS also includes messages and clearances, received from other ATS units to be relayed to the aircraft.
+Adding provisions for the use of emergency frequency 121.500 MHz.
+Adding a provision that flight crews should report to the controller when the runway braking action is not as good as expected.
+
+
+
+Annex III to Regulation 139/2014 is amended by:
+
+Extending the information to be provided by the applicant for an aerodrome operator certificate to include the types of operation in the airspace associated to the aerodrome.
+Explicitly stating that the flight procedures of the aerodrome must be in accordance with Regulation 2017/373.
+
+The Regulation amends Regulation 2017/373 by (the list is not exhaustive) by:
+
+Rephrasing the Subject matter.
+Adding definitions for "design of airspace structures", ACAS, and "entity originating aeronautical data and aeronautical information".
+Adding provisions for:
+
+Determination of the need for the provision of air traffic services
+Coordination between military units and air traffic service providers
+Coordination of air operations potentially hazardous to civil aviation
+Very-high frequency (VHF) emergency frequency
+
+
+Amending annexes I, II, III, IV, V, VI and XI, the most notable changes being:
+Annex I is amended by adding 160 new definitions, rephrasing 6 definitions and removing 2 definitions.
+The Service Provider Certificate form in Annex II is amended by detailing the AIS scope of service (split into two groups and eight subgroups) and adding a separate table for Flight procedure design (FPD) service.
+Annex III "Common Requirements for Service Providers" is amended by:
+
+Adding requirements for "Provision of aeronautical data", "Aeronautical data quality management" and "Common reference systems for air navigation".
+Adding Appendix 1 called "Aeronautical Data Catalogue" which contains data about aerodromes, airspace, routes, instrument flight procedures, radio aids, obstacles and geographical positions. The data is in table form and Appendix 1 contains a table template.
+
+
+Annex IV "Specific Requirements for Providers of Air Traffic Services" is amended by adding provisions and requirements for:
+
+Arrangement of coordination between ATS providers and aerodrome operators, military units, meteorological service providers and aeronautical information services.
+Contingency arrangements, arrangements in case of equipment failure, operation of ATC service and transfer of control and communication arrangements.
+Synchronization and obtaining the correct time.
+Communication, including for controller-pilot communication (voice and datalink), the use of the emergency frequency 121.500 MHz, inter-unit communication and communication with vehicles at aerodromes. Provision for recording surveillance and communication data are also included.
+Meteorological information distribution.
+Distribution of information on aerodrome conditions and the operational status of associated facilities.
+Provision of ATS, such as objectives of ATS, establishment of ATS units, identification of ATS units, establishment of altimeter-related procedures, provision of ATS surveillance services
+Provision of ATC service, such as applicability in terms of airspace class and flight rules, operation of the service, selection of applicable separation minima, responsibility for control and transfer of that responsibility, ATC clearances, aerodrome control, etc.
+Provision of FIS, such as scope and applicability, ATIS and VOLMET broadcasts, etc.
+Provision of alerting services, such as applicability, notification of rescue coordination centres, information to the operator and to other aircraft operating in the vicinity of the emergency.
+
+
+Annex V "Specific Requirements for Providers of Meteorological Services" is amended by:
+
+Rephrasing most of the provisions.
+A step of 1000 ft for cloud base reporting above 10 000 ft is established.
+Adding requirements for wind data, temperature and geopotential altitude data forecasts for FL 80, FL 210 and FL 480.
+Removing the Runway state from the METAR template (deposit contamination and breaking action).
+Separating the templates for AIRMET/SIGMET and special air-reports
+
+
+Annex VI "Specific Requirements for Providers of Aeronautical Information Services" is rewritten and its content extended. It now contains:
+
+SUBPART A – Additional Organisation Requirements For Providers Of Aeronautical Information Services, containing:
+
+General Requirements
+Data Quality Management
+Aeronautical Information Products
+Distribution and Pre-flight Information Services
+Aeronautical Information Products Updates
+Personnel Requirements
+
+
+SUBPART B – Additional Technical Requirements For Providers Of Aeronautical Information Services, containing requirements for:
+
+Data Quality Management
+Aeronautical Information Products
+Distribution and Pre-flight Information Services
+Aeronautical Information Products Updates
+
+
+Appendix 1, Contents of the Aeronautical Information Publication (AIP)
+Appendix 2, NOTAM Format, including instructions for its completion
+Appendix 3, SNOWTAM Format, including instructions for its completion
+Appendix 4, ASHTAM Format, including instructions for its completion
+
+
+Annex XI "Specific Requirements for Providers of Flight Procedure Design Services" (which used to be just a placeholder) now contains:
+
+SUBPART A – Additional Organisation Requirements for Providers of Flight Procedure Design Services
+SUBPART B – Technical Requirements for Providers of Flight Procedure Design Services
+Appendix 1, Requirements for Airspace Structures and Flight Procedures Contained Therein
+
+Specifications for flight information regions, control areas, control zones and flight information zones
+Identification of ATS routes other than standard departure and arrival routes
+Identification of standard departure and standard arrival routes and associated procedures
+Establishment and identification of significant points
+Minimum flight altitudes
+Identification and delineation of prohibited, restricted and danger areas
+
+
+
+
+
+Entry into Force
+The Regulation entered into force in April 2020 and is applicable from 27 January 2022.
+The following provisions apply from 05 November 2020:
+
+The requirement to flight crews to report to the controller when the runway braking action is not as good as expected.
+The amendments to Annex V "Specific Requirements for Providers of Meteorological Services" to Regulation 2017/373.
+The new SNOWTAM format.
+
+Regulation (EU) No 73/2010 is repealed with effect from 27 January 2022.
+Regulation 2020/469 amending Regulations 923/2012, 139/2014 and 2017/373 and repealing Regulation 73/2010 (OJ, 03.04.2020)
+Further Reading
+European Commission
+
+EUR-Lex Portal: Regulation 2020/469 (available in different languages and file formats)
+Regulation 2018/1139 - Common Rules in the Field of Civil Aviation and Establishing EASA
+Air Transport Portal of the European Commission - Single European Sky
+
+
+
+
+
+Categories
+
+
+Single European Sky,
+              SES Implementing Rules
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

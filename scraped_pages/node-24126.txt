@@ -1,0 +1,189 @@
+Threat and Error Management (TEM) in ATC
+
+
+
+
+
+
+
+
+
+
+
+  Threat and Error Management (TEM) in ATC
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Management 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ ICAO
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Note: This article is based on the preliminary edition of Threat and Error Management (TEM) in Air Traffic Control
+ 
+TEM in ATC Operations
+There are three basic components in the Threat and Error Management (TEM) framework, from the perspective of air traffic controllers: threats, errors and undesired states. The framework proposes that threats and errors are part of everyday aviation operations that must be managed by air traffic controllers, since both threats and errors carry the potential to generate undesired states. Air traffic controllers must also manage undesired states, since they carry the potential for unsafe outcomes. Undesired state management is an essential component of the TEM framework and is as important as threat and error management. Undesired state management largely represents the last opportunity to avoid an unsafe outcome and thus maintain safety margins in ATC operations.
+Threats in ATC
+Threats are defined as "events or errors that occur beyond the influence of the air traffic controller, increase operational complexity, and which must be managed to maintain the margins of safety". During typical ATC operations, air traffic controllers have to take into account various contextual complexities in order to manage traffic. Such complexities would include, for example, dealing with adverse meteorological conditions, airports surrounded by high mountains, congested airspace, aircraft malfunctions, and/or errors committed by other people outside of the air traffic control room (i.e. flight crews, ground staff or maintenance workers). The TEM framework considers these complexities as threats because they all have the potential to negatively affect ATC operations by reducing margins of safety.
+Anticipated Threats
+Some threats can be anticipated, since they are expected or known to the air traffic controller. For example, an air traffic controller can use information from the weather forecast to anticipate runway changes or diversions. Another example is the unreliable quality of High Frequency (HF) communications that necessitates the availability of alternative options.
+Unexpected Threats
+Some threats can occur unexpectedly, such as pilots carrying out instructions which were intended for another aircraft as a result of call sign confusion. In this case, air traffic controllers must apply skills and knowledge acquired through training and operational experience to manage the situation.
+Regardless of whether threats are expected or unexpected, one measure of the effectiveness of an air traffic controller's ability to manage threats is whether threats are detected with the necessary anticipation to enable the air traffic controller to respond to them through deployment of appropriate countermeasures.
+The TEM framework considers threats as actual (threats exist and cannot be avoided) and their consequences as potential. Unserviceable equipment is one example. Whether primary and/or secondary equipment fails, or whether equipment becomes unavailable as a result of pre-scheduled maintenance work, it is an actual threat. The difference is in terms of the potential consequences and the required countermeasures the air traffic controller employs to manage the threat. If the primary equipment fails unexpectedly, the potential consequences are more serious than if a secondary system is taken out of service for maintenance, the air traffic controller countermeasures are different for each scenario (switching from radar separation to procedural separation in the case of an unexpected radar failure or preparing to work without the secondary system in the second case). If the threat (loss of radar) results in errors being made, and separation being compromised, an undesired state now exists, a product of mismanaged threats and errors. At such point, a controller forgets about threats and errors, and manages the undesired state. The point to be made here is that, under the TEM rationale, threats are situations and/or events that cannot be avoided, or eliminated, by operational personnel; they can only be managed. This is why TEM adheres to the notion of threat management as opposed to threat avoidance or elimination. No matter what they do, no matter how much they anticipate the threat, air traffic controllers can only manage its potential consequences through countermeasures strategies. It is a fundamental premise of TEM that threats are unavoidable components of complex operational contexts, and that is why TEM advocates management as opposed to avoidance or elimination.
+It would be tempting to consider ergonomic deficiencies in equipment design, less than optimum procedures, and organizational factors in general, as latent threats. However, they are also actual threats. They are present at the work place, every day controllers go to work. Their consequences, however, are potential. Examples of those threats include equipment design issues in non-frequently used system functions such as back up modes or degraded modes, that only manifest themselves at the time when the system is used in that particular mode. Controllers cannot avoid or eliminate poor design or clumsily designed procedures (management can, and therein lays the rationale for the Normal Operations Safety Survey (NOSS)). No matter how much they anticipate them, controllers can only deploy countermeasures to manage the damaging potential of such threats.
+Threat management is a building block to error management and undesired states management. Archival data on flight deck operations demonstrates that mis-managed threats are frequently linked to flight crew errors, which in turn are often linked to undesired states. However, the threat-error-undesired states relationship is not necessarily straightforward and it may not always be possible to establish a linear relationship, or one-to-one linkage between threats, errors and undesired states. There are two important caveats in the TEM Framework, strictly speaking:
+
+threats can, on occasion lead directly to undesired states without the inclusion of errors; and
+operational personnel may, on occasion, make errors when no threats are observable.
+
+Furthermore, it should be realized that, with some threats, errors or undesired states, there may not be a realistic opportunity to manage them.
+Errors
+Errors are defined as "actions or inactions by the air traffic controller that lead to deviations from organizational or air traffic controller intentions or expectations". Unmanaged and/or mis-managed errors frequently lead to undesired states. Errors in the operational context thus tend to reduce the margins of safety and increase the probability of an undesirable event.
+Errors can be spontaneous (i.e. without a direct link to specific, obvious threats), linked to threats, or part of an error chain. Examples of errors would include: not detecting a readback error by a pilot; clearing an aircraft or vehicle to use a runway that was already occupied; selecting an inappropriate function in an automated system; data entry errors, and so forth.
+Regardless of the type of error, its effect on safety depends on whether the air traffic controller detects and responds to the error before it leads to an undesired state, or if unaddressed, to an unsafe outcome. This is why one of the objectives of TEM is to understand error management (i.e. detection and response), rather than focusing solely on error causality (i.e. causation and commission). From a safety perspective, operational errors that are detected in a timely manner and are promptly countered (i.e. properly managed), and errors that do not lead to undesired states or do not reduce margins of safety in ATC operations become operationally inconsequential. In addition to its safety value, proper error management represents an example of successful human performance, presenting both learning and training values.
+Error Categories
+Capturing how errors are managed is then as important, if not more, than capturing the relevance of different types of errors. It is of interest to capture if and when errors are detected, by whom, the response upon detecting errors, and the outcome of those errors. Some errors are quickly detected and resolved, thus becoming inconsequential, while others go undetected or are mismanaged. A mismanaged error is defined as one that is linked to or induces an additional error or undesired state.
+The TEM framework uses the "primary interaction" as the point of reference for defining the error categories. The three basic error categories in TEM:
+
+Equipment handling errors;
+
+
+Procedural errors and
+
+
+Communication errors.
+
+The three basic error categories are not mutually exclusive, nor are they exhaustive. A controller issuing instructions using non-standard phraseology may be involved in both procedural and communication errors. Equipment handling errors, procedural errors and communication errors may be unintentional or involve intentional non-compliance. Similarly, proficiency considerations (i.e., skill or knowledge deficiencies, training system deficiencies) may underlie all three categories of error. The TEM framework does not consider intentional non-compliance and proficiency as separate categories of error, but rather as sub-sets of the three major categories of error. In order to avoid adding levels of classification, and focusing upon collecting safety data that managers can act on, the error classification in the TEM framework is limited to what are considered to be three high-level categories of operational errors.
+Undesired States
+Undesired states are defined as "operational conditions where an unintended traffic situation results in a reduction in margins of safety". Undesired states that result from ineffective threat and/or error management may lead to compromised situations and reduce margins of safety in ATC operations. Often considered the last stage before an incident or accident, undesired states must be managed by air traffic controllers. Examples of undesired states would include an aircraft climbing or descending to another flight level/altitude than it should; or an aircraft turning in a direction other than flight planned or directed. Events such as equipment malfunctions or flight crew errors can also reduce margins of safety in ATC operations, these however are considered to be threats. Undesired states can be managed effectively, restoring margins of safety, or the air traffic controller's response(s) can induce an additional error, incident, or accident.
+An important learning and training point for air traffic controllers is the timely switching from error management to undesired state management. An example would be as follows: if after a data entry error, it is found that an aircraft has climbed to a flight level other than it should (undesired state), controllers must give higher priority to dealing with the potential traffic conflict (undesired state management) rather than correcting the data entry in the system (error management).
+From a learning and training perspective, it is important to establish a clear differentiation between undesired states and outcomes. Undesired states are transitional states between a normal operational state (i.e. an aircraft in climb to an assigned altitude) and an outcome. Outcomes, on the other hand, are end states, most notably, reportable occurrences (i.e. incidents and accidents). An example would be as follows: an aircraft climbing to an assigned altitude (normal operational state) is re-cleared to another altitude. The flight crew incorrectly reads back the new assigned altitude as a higher one, but the air traffic controller does not catch the misread readback. The aircraft is thus climbing to an incorrect altitude (undesired state), which could result in a loss of separation (outcome).
+The training and remedial implications of the differentiation between undesired states and outcomes are of significance. While at the undesired state stage, the air traffic controller has the possibility, through appropriate TEM, of recovering the situation, and returning it to a normal operational state, thereby restoring the required margins of safety. Once the undesired state becomes an outcome, recovery of the situation without loss of safety margins is no longer possible. This is not to imply that air traffic controllers would not attempt to mitigate the impact of the outcome, but that the margins of safety were compromised and must therefore be restored.
+
+This diagram presents a graphic summary of the Threat and Error Management framework. It is suggested that the dotted lines represent paths that are less common than those indicated by the unbroken lines.
+Threat and Error Countermeasures
+Air traffic controllers must, as part of the normal discharge of their operational duties, employ countermeasures to keep threats, errors and undesired states from reducing margins of safety in ATC operations. Examples of countermeasures would include checklists, briefings, and prescribed procedures, as well as personal strategies and tactics. It is an interesting observation from the flight deck environment that flight crews dedicate significant amounts of time and energies to the application of countermeasures to ensure margins of safety during flight operations.
+Many but not all countermeasures are necessarily air traffic controller actions. Some countermeasures to threats, errors and undesired states that air traffic controllers employ build upon "hard" resources provided by the aviation system. These resources are already in place in the system before air traffic controllers report for duty, and are therefore considered as systemic-based countermeasures. The following would be examples of "hard" resources that air traffic controllers employ as systemic-based countermeasures:
+
+Minimum Sector Altitude Warning (MSAW)
+Short-Term Conflict Alert (STCA)
+Standard operating procedures (SOPs)
+Briefings; and
+Professional training.
+
+Other countermeasures are more directly related to the human contribution to the safety of ATC operations. These are personal strategies and tactics, individual and team countermeasures, that typically include canvassed skills, knowledge and attitudes developed by human performance training, most notably, by Team Resource Management (TRM) training. There are basically four categories of individual and team countermeasures:
+
+Team countermeasures - leadership and the communication environment - essential for the flow of information and team member participation;
+Planning countermeasures - planning, preparation, briefings, contingency management - essential for managing anticipated and unexpected threats;
+Execution countermeasures - monitor/cross-check, scanning, flight strip management, workload and automation management - essential for error detection and error response; and
+Review/modify countermeasures - evaluation of plans, inquiry - essential for managing the changing conditions of a shift.
+
+In its optimal form TEM is the product of the combined use of systemic-based and individual and team countermeasures.
+Related Articles
+
+Threat and Error Management (TEM)
+Threat and Error Management (TEM) in Flight Operations.
+
+Further Reading
+EUROCONTROL
+
+"Human Performance in Air Traffic Management Safety -A White Paper": EUROCONTROL/FAA Action Plan 15 Safety, September 2010.
+
+ICAO
+
+Threat and Error Management (TEM) in Air Traffic Control, Preliminary Edition 2005;
+Threat and Error Management (TEM), Captain Dan Maurino, Coordinator, Flight safety and Human Factors Programme - ICAO, Canadian Aviation Safety Seminar (CASS), Vancouver, Canada, 18-20 April 2005;
+
+Others
+
+Defensive Flying for Pilots: An Introduction to Threat and Error Management, Ashleigh Merritt, Ph.D. & James Klinect, Ph.D., The University of Texas Human Factors Research Project, The LOSA Collaborative December 12, 2006.
+
+
+
+
+
+Categories
+
+
+Safety Management,
+              SM Methods and Tools,
+              HF-ATM,
+              Organisation and Human Performance
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

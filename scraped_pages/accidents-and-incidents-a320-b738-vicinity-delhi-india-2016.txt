@@ -1,0 +1,432 @@
+A320 / B738, vicinity Delhi India, 2016
+
+
+
+
+
+
+
+
+
+
+
+  A320 / B738, vicinity Delhi India, 2016
+
+
+
+
+
+
+
+
+
+Summary
+
+On 30 January 2016, an Airbus A320 crew cleared for an ILS approach to runway 11 at Delhi reported established on the runway 11 LLZ but were actually on the runway 09 LLZ in error and continued on that ILS finally crossing in front of a Boeing 737-800 on the ILS for runway 10. The Investigation found that the A320 crew had not noticed they had the wrong ILS frequency set and that conflict with the 737 occurred because Approach transferred the A320 to TWR whilst a conflict alert was active and without confirming it was complying with its clearance.
+
+
+
+
+Event Details
+
+When
+
+30/01/2016
+
+
+
+Event Type
+
+
+HF,
+              LOS
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS A-320
+
+
+
+
+
+
+
+
+
+Operator
+
+Air India
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Rajiv Gandhi International Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Delhi/Indira Gandhi International (IGI) Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Missed Approach
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 737-800
+
+
+
+
+
+
+
+
+
+Operator
+
+Jet Airways
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Bengaluru International Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Delhi/Indira Gandhi International (IGI) Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Missed Approach
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+VIDP
+
+
+
+
+General
+
+Tag(s)
+
+
+              Event reporting non compliant,
+              Inadequate ATC Procedures,
+              Airport Layout,
+              CVR overwritten
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              ATC Unit Co-ordination,
+              Ineffective Monitoring,
+              Plan Continuation Bias,
+              Procedural non compliance,
+              Ineffective Monitoring - SIC as PF
+          
+
+
+
+
+LOS
+
+Tag(s)
+
+
+              Accepted ATC Clearance not followed,
+              Required Separation not maintained
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+Air Traffic Management
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Operation
+Air Traffic Management
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 30 January 2016, an Airbus A320 (VT-EDD) being operated by Air India on a scheduled domestic passenger flight from Shamshabad to Delhi as AIC543 and a Boeing 787-800 (VT-JBE) being operated by Jet Airways on a scheduled domestic passenger flight from Bengaluru to Delhi as JAI833 came into close proximity in day VMC when the A320 passed ahead and below the 737 as both followed the ILS to different runways which had intersecting extended centrelines. ATC instructed the 737 to go around and the A320 crew subsequently initiated a go around themselves. No avoiding action manoeuvre was performed by either aircraft and none of the 276 passengers on board the two aircraft were aware of the encounter. The minimum recorded separation was 1.2nm laterally and 300 feet vertically.
+Investigation
+Neither the controller nor the Air India pilots directly involved logged or otherwise reported the event but when it became known, an Investigation was commenced for the Indian DGCA by a specifically-appointed Committee of Inquiry established in accordance with the Aircraft Accident Investigation of Accidents and Incidents Rules 2012 and supported by the Aircraft Accidents Investigation Bureau. Recorded ATC communications with both aircraft and recorded ATC radar data were the main source of factual information about the event.
+It was noted that the A320 flight crew consisted of a 55 year-old Captain who had a total of 18,904 hours flying experience which included 15,029 hours on type. The 41 year-old First Officer, who had been PF for the flight, had 8,714 hours total flying experience which included 4,005 hours on type.
+What Happened
+It was established that on the day of the investigated event, Delhi was using its three runways in an easterly direction with departures only from 09, arrivals only on 10 and mixed mode operations in 11. The extended centreline of runway 09 crosses that of runway 10 at a distance of 1.08 nm from the 09 threshold and crosses that of runway 11 at a distance of 7.6 nm from the 09 threshold. Arriving traffic is transferred from the Area Control frequency to Approach Control, then to Approach Arrival and finally to the appropriate TWR frequency - South for landings on runway 11 and Middle for landings on runway 10.
+The A320 crew were advised whilst still on the Area Control frequency that they would be landing on runway 11 and cleared for an RNAV STAR. The aircraft reported established on the runway 11 LLZ when it had actually just established on the runway 09 LLZ about 23 nm from touchdown. It then continued on this incorrect LLZ whilst continuing to confirm it was on the runway11 LLZ to both Approach Control and Approach Arrival before being transferred to the TWR South frequency with 8nm to run and by now slightly south of the runway 11 LLZ and about to cross it.
+Meanwhile, the 737, just behind the A320 in the landing sequence, confirmed (correctly) that it was established on the runway 10 ILS LLZ to Approach Arrival with 14 nm to run and was then transferred to the TWR Middle frequency with 9nm to run about half a minute after the A320 had been transferred to TWR South.
+Whilst these transfers were taking place, a Current Conflict Warning (CCW) was active in Approach Arrival indicating a loss of the prescribed standard separation between the A320 and the 737 as the tracks of both aircraft slowly converged towards the intersection of the 09 extended and 10 extended centrelines. Realising that the A320 was tracking into conflict with the 737 he had on the 10 LLZ, the TWR Middle Controller tried to transfer it back to Approach Arrival but it was immediately transferred back.
+The A320 continued towards runway 09 without receiving a landing clearance and passed 1.2 nm in front of and below the 737. Because of the conflict, the 737 was instructed to go around and take up a heading of 070° before being transferred to the Approach frequency. Shortly afterwards, the A320 broke off its approach and began a go around before also being transferred to Approach. As this was happening, the TWR North controller held his next departure clear of runway 09. Both aircraft were repositioned and subsequently landed without further event.
+
+The recorded radar picture as the A320, still tracking towards runway 09, crosses in front of and below the 737 which in tracking towards runway 10 as cleared. [Reproduced from the Official Report]
+The Investigation noted that when radar surveillance is available, the applicable separation minima are 1000 feet vertically or 3nm laterally. Although landing traffic is transferred from Approach Arrival to the appropriate TWR frequency, the jurisdiction over all traffic remains with Approach until touchdown and the TWR controllers are not trained in radar separation. If a conflict arises as in this case, the only option available to a TWR controller is to transfer the aircraft involved back to Approach or co-ordinate corrective action with Approach - there is “no overriding facility available to the Approach Controller” to guide the aircraft in case of any conflict once it has been transferred to a TWR controller. It was noted that whilst an in-trail minimum radar separation of 3 nm is applied to aircraft established on the ILS for adjacent runways, “there is no mechanism to ensure that it is not breached once an aircraft has been transferred to a TWR Controller”.
+Why It Happened
+FDR data showed that the incorrect ILS LLZ frequency had been that corresponding to the runway 09 ILS prior to the fight crew being allocated an approach runway at Delhi and had not been changed at any time thereafter prior to the conflict occurring. This was considered to indicate that no action had been taken to insert the correct runway into the FMS and that there had been either no cross check or an ineffective one in accordance with the Descent Preparation Checklist by the other pilot. The error had then remained undetected by either pilot throughout the conflicted approach. In fact, during interview, it was stated by the crew that, contrary to the foregoing Checklist, it was the PM who had made the FMS input and the PF who had cross checked this.
+FDR data also confirmed that the AP had been engaged throughout the descent and approach until the go around had been commenced so that the FD commands generated by the FMS would be automatically followed. When the closing radar heading of 075° for the runway 11 ILS LLZ was given, the aircraft established on the selected 09 ILS LLZ as the crew continued to repeatedly confirm to ATC that they were following the runway 11 LLZ even when fully established.
+The Investigation observed that the Approach Controller’s failure to respond to the Current Conflict Warning (CCW) displayed on his radar screen had removed the only remaining opportunity to recognise the flight crew’s error in establishing on the approach to runway 09 and act to avoid the subsequent conflict developing. It proved impossible to establish why the CCW activation was ignored but it was recognised that this could, in theory at least, have been due to controller incompetence, to the frequent generation of false warnings or to frequent generation of valid but ‘nuisance’ warnings whenever two aircraft were separated by less than 3 nm but were correctly established on the ILS LLZ of their allocated arrival runway. Since the controller involved in this event had been validated as proficient in 2012 by “meeting the requirements” of the assessment performed, it was assumed that the controller was competent to handle the Approach Control, suggesting that the CCW as actually used was an ineffective safety enhancement tool.
+It was considered that the chances of false warning by the system were “quite remote” and that this would only happen occasionally. A breach of the required minimum separation of 3 nm between two aircraft approaching near-parallel runways could therefore be the only possible reason for generation of CCW alerts which it was established were indeed being routinely ignored by most controllers because they were not likely to lead to a Serious Incident. It was observed that such behaviour represented a ‘routine violation’ and that when such violations happen over a long period of time, controllers tend to overlook all of them even when, as in this case, the reason is that an aircraft has deviated from a repeatedly acknowledged clearance.
+Air India Organisational Issues
+It was observed during the review of the Air India SMS in relation to the investigated event that the flight crew involved had failed to report it despite a requirement to do so and that this had resulted in the CVR not being downloaded before “crucial evidence” had been lost. This was considered to indicate that “the organisation needs to work on improving ‘Reporting Culture’ which must be non-punitive in nature".
+ATC Organisational Issues
+The Investigation carried out a very detailed review of the ATC organisational circumstances in which the event had occurred and made a series of observations critical of various aspects of it including the following:
+
+Standard Operating Procedures (SOP) for three runway operation at Delhi IGI airport have been issued as ATC Circular No. 1/2015. This circular covers all variations in the mode of operations including easterly and westerly operations, but does not clearly indicate actions to be taken by the various ATC units in each mode of operations. ATC Units’ roles and responsibilities in these conditions have also not been documented in Standard Operating Procedures. There are no instructions / guidance on the various situations that may arise during three runway operations / mixed mode operations. A safety assessment of three-runway operations carried out by Delhi IGI airport ATS in 2012 rated the overall the magnitude of concern as MINOR and only three hazards were identified. Given that three runway operations and even mixed mode operations are a very complex mode of operations followed by very few airports in such complex airspace structure as exists at Delhi, there is no evidence of the mode of operation being reviewed/vetted since this assessment was made.
+The independence of the investigation of all ATC incidents other than Serious Incidents by the Airprox Investigation Board (AIB) was found to be fatally compromised by conflicts of interest and contrary to the principles of a Safety Management System. The responsibilities of one of the three AIB members included responsibility for setting the standards, ensuring compliance with them at ATS units and the investigation of ATS incidents and assessment of controller proficiency. This failure to separate enforcement functions from investigation functions is contrary to the strong recommendation contained in regulatory requirement for SMS.
+No evidence was found that the role and responsibilities of the Standard, Quality Management and Safety (SQMS) section within the ATM Directorate of the Airports Authority of India (AAI) have ever been defined or documented. This section is responsible for setting the ATM standards, ensuring compliance with them, carrying out controller proficiency checks, investigating ATC incidents, proposing corrective training for controllers suspended after incidents and for approving their return to duty which is “contrary to the letter and spirit of SMS”. The section is also responsible for the safety review of ATS units in addition to the safety audits or safety reviews carried out by Aviation Safety Directorate, but no evidence could be found on how Safety Assessment documents were reviewed for changes in ATM procedures. Even the safety assessment of three-runway operation was not subject to any review either on its own or during overall safety review of ATS units.
+The delivery of the principles of Safety Management during AAI ATM operations required by the Civil Aviation Regulations was found to be poor. Holding Watch Supervisors responsible for shifts of up to 60 controllers was considered impractical and the general application of the principles of Key Performance Areas (KPAs) and Key Performance Indicators (KPIs) to all controllers was considered inappropriate. In the latter respect, it was considered that “KPAs / KPIs for Air Traffic Controllers should be changed from outcome orientation to process orientation”.
+An examination of the controller proficiency validation system by the Investigation led to the conclusion that it was not fit for purpose and that in respect of the proficiency assessment recording form in use, “the measuring and assigning of negative marks for some of the elements like knowledge etc. was beyond comprehension and requires revision”. It was also found that controller training for infrequent situations like the one here was unsatisfactory and potentially ineffective because the simulator used for controller training had a completely different HMI to that at the working positions controllers occupy.
+The hazard represented by “both TWR controllers co-ordinating with the Approach controller at the same time” as occurred during this event has not been considered and needs to be examined.
+The many differences between AAI ATM practices and those recommended in the ICAO Manual on Simultaneous Operations on Parallel or Near-Parallel Instrument Runways (SOIR) Doc 9643 have not been published but should be.
+Although not directly relevant to the investigated event, two specific issues relating to potential risk in circumstances such as those surrounding the investigated event were identified as the possibility of conflict during concurrent go-arounds and the effect of prevailing weather conditions. Neither of these issues had been evaluated as part of the ATM safety assessment process for three-runway / mixed mode operations.
+
+The Probable Cause of the event was determined as “the selection of the localiser for the wrong runway by the Air India Captain”.
+Six Contributory Factors were also identified as follows:
+
+The runway 09 localiser was kept on even though runway 09 was being used for departures only.
+The fact that the crew of the Air India aircraft did not re-check the localiser frequency set in spite of being reminded a number of times about runway 11 having been allocated to them.
+The Approach Controller’s transfer of the Air India aircraft to the TWR Controller without visually ensuring on their situation data display that the aircraft was established on the localiser for runway 11.
+Inadequate Hazard Identification and Risk assessment for mixed mode runway operations.
+Non-availability of an appropriate and well documented ATC Standard Operating Procedure in general and for three runway operation in particular.
+The fact that the Current Conflict Warning (CCW) annunciated by the ATC Automation System did not draw the attention of the controller to the impending situation and a lag in the corrective action response by the controller.
+
+The only Safety Action taken by Delhi ATS as a result of this event whilst the Investigation was in progress was noted as the issue of a circular to require that the ILS for runway 09 will be switched off during the easterly mode of three runway operation. It was noted that this may not be sufficient if the aircraft by mistake chooses the wrong runway and for this or any other reason deviates inadvertently towards the wrong localiser. It was also noted that “an error can also be made by a controller by giving a wrong turn onto final approach during three runway operations” and that this outstanding hazard and its associated risks needs to be assessed by Delhi ATS.
+Thirteen Safety Recommendations were made as a result of the Investigation as follows, the first of them being one which had also been made in previous accident investigation reports:
+
+that the DGCA must review the issuance of licences to Air Traffic Controllers.
+that the DGCA should review Civil Aviation Requirements (CAR) Section 5 (Air Safety) Series ‘C’ Part I issued on 20 October 2015 in respect of the composition of Airprox Investigation Boards to avoid any conflict of interest.
+that the Airports Authority of India (AAI) should clearly document the functions of the Standard, Quality Management and Safety (SQMS) section of their ATM Directorate and separate its enforcement and investigation functions.
+that the Airports Authority of India (AAI) should repeat their safety assessment of both the easterly and westerly modes of three runway operation keeping in mind future air traffic growth.
+that the Airports Authority of India (AAI) and All Aircraft Operators must ensure that all ‘Safety Risk Assessments’ carried out are realistic in nature and identify ‘Hazards’ with appropriate mitigation procedures in place.
+that the Airports Authority of India (AAI) must explore the possibility of using one runway for arrival & one runway for departure during the easterly mode of operation considering the nature of risk involved due to the substantial overlapping of the radar vectoring areas for the three runways.
+that the Airports Authority of India (AAI) should ensure that safety is not jeopardised whilst preparing the mode of operations for expeditious conduct of Air Traffic.
+that the Airports Authority of India (AAI) should develop Standard Operating Procedures for ATS at Delhi IGI Airport by clearly documenting the roles and responsibilities of the various units. A standard format for SOPs should be developed.
+that the Airports Authority of India (AAI) must provide periodic refresher training on human factor issues to avoid incidents such as this one occurring in the future.
+that the Airports Authority of India (AAI) should ensure that Delhi IGI Airport Tower Controllers are trained in the basics of RADAR and given the authority to advise aircraft to discontinue their approach by giving specific headings to avoid conflict in the case of deviations from the final approach track (for which clearance has been given).
+that the Airports Authority of India (AAI) should provide Delhi IGI Airport Approach Controllers with the facility to transmit on Tower frequency and override previously given instructions/clearances.
+that the Airports Authority of India (AAI) and Air India must both work on improving their reporting culture (mandatory/voluntary) so that it operates in a non-punitive manner.
+That the Airports Authority of India (AAI) should review the Air Traffic Management Circular (ATMC) covering the proficiency Air Traffic Controllers and the Key Performance Areas & Key Performance Indicators for Air Traffic Controllers at Delhi IGI Airport to ensure that they are process rather than outcome oriented.
+
+The Final Report was completed on 12 February 2018 and subsequently published.
+Related Articles
+
+Loss of Separation
+Standard Operating Procedures (SOPs)
+Safety Management System
+SMS in Air Traffic Management
+Short Term Conflict Alert (STCA) optimization for TMAs
+Safety Occurrence Reporting
+Just Culture
+Safety Culture
+Improving Safety Culture in Air Traffic Control
+Crew Resource Management (CRM)
+
+Further Reading
+
+ICAO Doc 9643: Simultaneous Operations on Parallel or Near-Parallel Instrument Runways (SOIR), 2004

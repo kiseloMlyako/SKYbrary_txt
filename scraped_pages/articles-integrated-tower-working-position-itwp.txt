@@ -1,0 +1,170 @@
+Integrated Tower Working Position (ITWP)
+
+
+
+
+
+
+
+
+
+
+
+  Integrated Tower Working Position (ITWP)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Ground Operations 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+Today in an ATC tower, the controller is surrounded by a number of individual systems all having their own interface, without any common information management. In the future, a greater number of systems will provide even more information to the controller. Therefore, there is a need to study the integration of the various airport airside system components into an integrated tower working position (ITWP). The ITWP project is a part of the EUROCONTROL Medium Term Work Program.
+Information management and integration are key enablers for the future airport development with controller as final decision maker.
+The ITWP will include integration of information and data coming from TMA/APP sectors, arrival manager (AMAN), departure manager (DMAN), advanced surface movement guidance and control system (A-SMGCS), electronic flight strips (EFS), METEO systems, wake information, stand and gate management, data link applications and ATFM applications, Airport CDM concepts (and others as required).
+The A-SMGCS and EFS are seen as the foundations of the ITWP. The A-SMGCS applications will serve as a structure for the development of the ITWP project. They encompass the surveillance and alerting functions as deployed today in some European airports but will also extend to further developments foreseen with the A-SMGCS guidance, routing, and planning functions.
+Current Situation Issues
+
+There is no system integration, and there is very little data interchange between the individual systems
+There is very little or no decision support
+The human-machine interface (HMI) is dependent on the individual system component, as each has its own interface
+Adding new systems and functions (e.g. AMAN, DMAN, A-CDM, etc.) is much more difficult due to the lack of common interface and system integration
+
+Main Objectives of the ITWP Project
+
+To develop commonly agreed functional specifications and associated HMI requirements for the ITWP
+To design a possible HMI solution to meet the above requirements
+To develop a prototype to demonstrate the ITWP
+To perform evaluation of the ITWP delivered by the project
+
+ITWP Benefits
+
+Access to all essential information and data input needs through one common integrated interface
+Enhanced situational awareness
+
+More efficient management of traffic flow potentially leads to throughput and safety benefits
+
+
+Harmonisation of future working environment in the control tower
+
+Common information and standardized HMI
+Economies of scale
+
+
+
+Results of ITWP activities
+
+Study of several ATC Towers and Controller Task Analysis completed (ENAV, LFV, DSNA, NATS, DFS and NAV Portugal)
+First version of ITWP prototype evaluated, included A-SMGCS, EFS, Air Traffic Monitor, MET, Airfield Equipment Monitor.
+Three control positions studied –Runway (manages traffic on the runway), Ground (manages traffic on taxiways and apron) and Clearance (ATC clearance delivery)
+All necessary information is displayed to the controller on the same HMI display. A single 30 inch screen is provided to each Runway and Ground controller.
+To improve the integration of information, ITWP provides controllers with an air/ground composite radar image, multiple windows management which aims to display the most important information on the foreground, and improved information linking between applications in terms of communication of information.
+ITWP provides a common environment independent of the controller role (display, interaction means), therefore the CWP parameters can be adapted by each controller. Each Role is configured to the tasks required to be performed.
+Electronic strips and bays are used to improve coordination between ATC controllers, facilitate the circulation of flight strips between controller positions (compared to standing away from their position and transferring it manually), and to provide the ability to share a unique (virtual) object amongst tower controllers. Controllers can interact with flights through both the electronic strips and radar labels.
+As a result of the controller task analysis for each role, next predicted logical events are presented to controllers (e.g. after a line up, a take off clearance would be expected)
+Safety support tools which detect potential and actual hazardous situations are implemented. The ITWP provides alerts related to the non conformance detection, inconsistent clearances, runway conflicts, alerts linked to the controllers’ input error related to the airport layout and other alerts.
+
+Related Articles
+
+Advanced Surface Movement Guidance and Control System (A-SMGCS)
+Airport Collaborative Decision Making (A-CDM)
+Arrival Manager (AMAN)
+
+Further Reading
+EUROCONTROL
+
+Functional requirements
+HMI solution specifications
+Evaluation Report Session 1
+Evaluation Report Session 2
+Evaluation Report Session 3
+Functional Specifications and Associated HMI Requirements
+Baseline HMI Description
+
+
+
+
+
+Categories
+
+
+Ground Operations,
+              General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

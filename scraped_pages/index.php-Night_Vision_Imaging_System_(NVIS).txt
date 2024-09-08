@@ -1,0 +1,154 @@
+Night Vision Imaging System (NVIS)
+
+
+
+
+
+
+
+
+
+
+
+  Night Vision Imaging System (NVIS)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Flight Technical 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Visual reference to the aviator’s outside world is essential for safe and effective flight. During the daylight hours and in visual meteorological conditions (VMC), the pilot relies heavily on the out-the-windshield view of the airspace and terrain for situational awareness. In addition, the pilot’s visual system is augmented by the avionics which provide communication, navigation, flight control, mission, and aircraft systems information” . During night flying, the pilot can improve the out-of-the-windshield view with the use of a night vision imaging system (NVIS). While NVISs have been developed with the aim of improving flight safety, their operation may also represent a flight safety hazard due to, e.g., equipment failure and compatibility, improper flight preparation, issues with regard to flight crew experience and recency, (lack of) regulatory oversight and inadequate standard operating procedures (SOPs).
+Definitions
+Night flying: Flight operations during the hours between the end of evening civil twilight and the beginning of morning civil twilight or such other period between sunset and sunrise, as may be prescribed by the competent authority 
+Night Vision Goggles (NVG): A binocular appliance that amplifies ambient light and is worn by flight crew. The NVGs enhance the flight crew’s ability to maintain visual reference to the surface at night. 
+Night Vision Imaging System (NVIS): A system that integrates all elements necessary to successfully and safely operate a with NVGs. The system includes NVGs, NVIS compatible lighting and other components. 
+Night Visual Flight Rules (NVFR): A set of regulations under which a Pilot operates an aircraft in weather conditions favourable to flight by reference to terrain or water at night.
+Effects
+Failures to control the threats associated with NVIS operations can result in aircraft accident occurrences. Typical threats in NVIS operations include NVG failures, flight considerations (anticipated weather), helicopter compatibility, flight crew experience and recency.
+Defences against threats
+Equipment failure
+It is necessary that NVGs be certified to a minimum standard of TSO-C164 (equivalent of ANVIS 9 with Omnibus 4 Image Intensifier Tubes). Goggles introduced post release of TSO-C164 must meet the performance requirements of RTCA/DO-275. NVGs must additionally be battery powered (not supplied by aircraft electrical power) and equipped with an automatic power supply change over, or a minimum 30 minute battery warning to the user. Each crew member must then use the same model of NVG and on-board a spare set of NVGs of the same model must be carried and be readily accessible by the crew .
+Flight considerations
+Forecasted weather conditions along the planned route must meet Visual Meteorological Conditions (VMC) or better. The weather forecast must provide illumination prediction (moon, starlight) and risk of reduced visibility in blowing snow, dust, or haze. Helicopters must also be fully Instrument Flight Rules (IFR) compatible and certified for dual IFR operations in accordance with applicable regulatory requirements. A risk assessment must be performed and documented and the crew briefed on it prior to each NVG activity. A flight dispatch procedure must be developed and implemented that covers mission development, flight planning, risk assessment, mitigation and authorisation processes .
+Helicopter compatibility
+Helicopters must be produced or modified with an NVIS certification under an approved Supplementary Type Certificate (STC) or Federal Aviation Administration (FAA) AC 27-1B MG 16 (or equivalent) and/or FAA AC 29.2C MG 16 (or equivalent). Helicopters must be crewed by two-pilots with dual controls and instruments for full IFR operations and must be equipped with a fully steerable searchlight (preferably infrared) capable of being operated from either pilot station. They must also be equipped with either a dual output radar altimeter, or two independent radar altimeters equipped with visual and aural height warnings with variable height alert that can be set by the flight crew. Helicopter must additionally be equipped with a Terrain Avoidance and Warning System (TAWS) that meets the requirements of TSO-C194 and with a three-axis autopilot to relieve crew workload. Where practicable for the aircraft type, a moving map capability must be fitted to enhance crew situational awareness. Multi-engine aircraft are to be used when conducting flights on NVGs .
+Flight crew experience
+Requirements must foresee that all flight crew have a minimum of 50 hours of night (VFR or IFR), unaided flight time. The commander must have ten hours pilot-in-command NVG flight time logged and the aircraft operator provide role-based scenarios for NVG crew in a CRM recency context. Where specialist NVG operations are considered (for example, confined area, hook, hoist, marine pilot transfer) qualifications as required by each role must be certified by the NVG training provider . Flight crew training and checking must be conducted in accordance with a detailed syllabus approved by the competent authority and included in the operations manual. The flight crew training syllabus must include the following items: NVIS working principles, eye physiology, vision at night, limitations and techniques to overcome these limitations; preparation and testing of NVIS equipment; preparation of the helicopter for NVIS operations; normal and emergency procedures including all NVIS failure modes; maintenance of unaided night flying; crew coordination concept specific to NVIS operations; practice of the transition to and from NVG procedures; awareness of specific dangers relating to the operating environment; and risk analysis, mitigation and management. The flight crew checking syllabus must include night proficiency checks, including emergency procedures to be used on NVIS operations, and line checks with special emphasis on the followings: local area meteorology; NVIS flight planning; NVIS in-flight procedures; transitions to and from night vision goggles (NVG); normal NVIS procedures; and crew coordination specific to NVIS operations.
+Flight crew recency/currency
+The flight crew must complete a minimum of 50 hours flight time in the preceding 90 days, 10 hours of which must be on the aircraft type. Each pilot must complete the following in the preceding 90 days using NVGs: three night take-offs and landings (these must include a climb, level flight segment and descent of at least the equivalent of one circuit for each rotation); three specialist hovering tasks and three transition tasks (NVG to non-NVG back to NVG operations). Each pilot must also not be scheduled to fly more than five hours on NVGs during any single flight duty period.
+General NVG considerations
+Generic control mechanisms for managing NVG operation hazards include not carrying passengers on training or operational flights, other than those specifically authorized for the task. Aircraft operators must also be approved by the competent authority for the conduct of NVG operations and comply with all applicable regulatory requirements . The operator must ensure that, as part of its risk analysis and management process, risks associated with the NVIS environment are minimised by specifying in the operations manual: selection, composition and training of crews; levels of equipment and dispatch criteria; and operating procedures and minima, such that normal and likely abnormal operations are described and adequately mitigated.
+Typical scenarios
+Typical loss of hazard control scenarios include NVG equipment failure that leads to one or more of the crew losing night vision capability and disorientation, pre-flight preparation which does not take into account the anticipated weather and visibility to support safe NVG operations, insufficient or incompatible equipment or aircraft features leading to a misinformation or misjudgement by the crew, and NVG operations with flight crews lacking training or experience (including recent NVG experience).
+Contributory factors
+Additional contributory factors associated with loss of hazard control during NVG operations include fatigue, over-confidence and complacency.
+Fatigue
+Physiological limitations that are prevalent during the hours of darkness along with the limitations associated with NVGs, may have a significant impact on NVIS operations. Some of these limitations are the effects of fatigue (both acute and chronic), stress, eyestrain, working outside the pilot’s normal circadian rhythm envelope, increased helmet weight, aggressive scanning techniques associated with NVIS, and various human factors engineering concerns that may have a direct influence on how the pilot works in the aircraft while wearing NVGs. These limitations may be mitigated through proper training and recognition, experience, adaptation, rest, risk management, and proper crew rest/duty cycles.
+Over-confidence
+Compared to other types of flight operations, there may be an increased tendency by the pilot to over-estimate the capabilities of the NVIS.
+Complacency
+Pilots must understand the importance of avoiding complacency during NVG flights. Similar to other specialised flight operations, complacency may lead to an acceptance of situations that would normally not be permitted. Attention span and vigilance are reduced, important elements in a task series are overlooked, and scanning patterns, which are essential for situational awareness, break down (usually due to fixation on a single instrument, object or task). Critical but routine tasks are often skipped.
+Lighting Discipline
+Some light leaks are bad enough to that the NVG image is washed out but some light leakage may cause less obvious degradation of the image. Subtle degredation such as minimal glare or blooming in the NVG image can mask terrain features or obstacles that would otherwise be visible in the NVG image. Awareness, training and standard operating procedures concerning pre-flight checks of NVG lighting compatibility and maintenance procedures when a leak is discovered, will help to mitigate the threat.
+Related Articles
+
+Enhanced Vision System
+Synthetic Vision Systems (SVS)
+Night Visual Approaches
+
+Further reading
+
+Dennis L . Schmickley, in ‘Digital Avionics Handbook’, CRC Press 2001
+Flight Safety Foundation, Basic Aviation Risk Standard (BARS) Implementation Guidelines, 2014
+Flight Safety Foundation, Basic Aviation Risk Standard (BARS) Contracted Aircraft Operations, 2016
+EASA AIR OPS, Part SPA (Operations requiring specific approval) Subpart NVIS (Night Vision Imaging System)
+Night Vision Manual for the Flight Surgeon, by R. E. Miller and T.J.Trdici, 1992
+
+
+
+
+
+Categories
+
+
+Flight Technical
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

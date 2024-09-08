@@ -1,0 +1,191 @@
+Threat and Error Management Preventing CFIT (OGHFA SE)
+
+
+
+
+
+
+
+
+
+
+
+  Threat and Error Management Preventing CFIT (OGHFA SE)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+OGHFA 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ Flight Safety Foundation
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 The Incident as a Situational example
+On final approach at 0200 local time in stormy weather, you are tired. It is the last leg of a long flight. You are cleared to perform a standard VHF Omnidirectional Radio Range (VOR)/Distance Measuring Equipment (DME) approach to an airport that has ground-based navigation aids available for use by the flight management system (FMS) within 400 mi. The airplane is equipped with a standard FMS, using radio navigation aids updated by the inertial reference system for position determination. No global positioning system (GPS) is available. The airplane is also equipped with an Enhanced Ground Proximity Warning System (EGPWS).
+The VOR radial signal starts fluctuating during the final approach, and the information finally disappears around 1200 ft above ground level. It is quite dark outside.
+Without the VOR and in the absence of visual cues, what would be your next move?
+In the absence of any adequate visual cues and without the VOR, you decide to go around and to follow a standard missed approach procedure.
+While performing the go-around and holding, ATC confirms the VOR/DME is functioning correctly. Following that confirmation, you decide to perform a navigation accuracy check.
+All indications are consistently coherent except the automatic direction finder (ADF). The FMS shows you are on course, and the EGPWS shows you in the same location. Only the non-directional beacon (NDB) shows you off track, conflicting with the FMS and the VOR. The Navigation Display (ND) indicates there is a severe thunderstorm to your left.
+Based on the data you have, which position information would you trust — the VOR, FMS and EGPWS or the ADF?
+You consider the ADF indications on the ND as inconsistent with the rest of the data provided by the VOR, DME and EGPWS, and you decide to fly a second approach.
+Again, the VOR information is fluctuating. When the airplane is more than 6 mi from the runway, the radio-altimeter automatic call-out suddenly announces:
+“1,000 ft”
+Followed shortly by this auto alert:
+"400 ft”
+You are surprised by these two alerts, which occur much too early. And then you lose the VOR signal again.
+Based upon those call-outs and without the VOR signal, what would your next move be?
+You immediately decide to abort the approach again and to divert to the alternate airport. As the go-around is initiated, the EGPWS “too low terrain” alert sounds. Since you are continuing the climb, you disregard the message and continue the flight to the alternate airport, where you land uneventfully with a normal VOR/DME approach.
+When returning to the original airport the day after, you perform a normal VOR/DME approach and landing under daylight visual conditions. You notice an error in the VOR signal of 30 degrees because of the visual reference available. You decide to fill out an Air Safety Report.
+
+2 Data, Discussion and Human Factors
+Relying on the Flight Operations Quality Assurance (FOQA) program and using the quick access recorder (QAR), with the help of the airplane and EGPWS manufacturers, the flight trajectory was reconstructed. It was found out that on both go-around maneuvers, the airplane passed very low above a ridge north of the airport -- by 600 ft on the first and by a mere 56 ft on the second. During these two occurrences, the pilots never realized that they had cleared a ridge by so small a margin. The airplane was in fact nearly 3 miles off track with respect to the estimated “correct” cockpit indications.
+During routine maintenance, the Civil Aviation Authority examined the VOR installation and found traces of water leaks due to a bad seal. The transmitter suffered intermittent failure only during a few hours under heavy rain. Because it was located in the same housing, the associated automatic monitoring system was affected in a similar way. During the night of the incident, the VOR radial signal had been disrupted and may have shifted by as much as 30 degrees without the knowledge of airport controllers.
+As a consequence, it drove the FMS position to shift. The data displayed on the ND -- VOR, aircraft position and terrain -- were consistent with each other, but shifted from the real airplane position due to the faulty information from the VOR.
+The EGPWS and the FMS use identical raw data from the same source, the faulty VOR, and provided coherent information to the crew. In this case, the data created the wrong mental picture. Building accurate situational awareness was not really possible.
+
+2.1 Factors affecting decision making
+All the instruments, except the ADF, led the crew to the mental image that everything was well under control. The pilots disregarded the ADF because they assumed thunderstorms were affecting its signals.
+Faced with the intermittent VOR signal and with two successive automatic warnings - which seemed to be totally out of place and out of context in the situation as the pilots perceived it - they started to question the accuracy of the navigational aids (critical thinking). That then led them to exercise clear and healthy threat management skills.
+They suspected something was wrong; they were facing some [[Unexpected Events Training (OGHFA BN) |unexpected events]]. They did not try to solve the problem when close to the ground. They quickly reverted to decision making and made the right decision to go around and divert. It was by sheer luck that they made this decision at the right time to allow the airplane to clear the ridge by only 56 ft.
+Because the airplane position on the FMS was no longer accurate, the appropriate warning functions “terrain ahead” and “pull up, pull up” were no longer valid.
+The “too low terrain” warning heard by the crew after the second go-around was not the result of a comparison between the airplane position and the ground below. It resulted rather from a built-in function of the EGPWS that alerts the crew when the altitude is too low relative to distance from the runway. The alert message popped up because the system thought the pilots were landing short of the runway, not because of passing low over a ridge.
+On both consecutive approaches, “raw” data matched FMS data. That contributed to reinforce the mental image of “being in the right place, on the right track”.
+
+3 Prevention Strategies and Lines of Defense
+In this situation, the proper decision for the crew to take was to abandon the approach at the first feeling that something was not right. The premature altitude call-outs were indeed the cues the crew followed. And that saved the day.
+If things don’t seem right, they probably aren’t.
+Following the clear mental image provided by the ND and associated data, the warnings were the first sign of contradictions that triggered a doubt in the pilots’ minds. They were right not to delay acting since they were headed toward the ground on approach.
+Trust your instruments, up to the point of contradictory indications, then act.
+Prevention strategies and lines-of-defense should be developed and implemented based on the following recommendations.
+
+3.1 Threat awareness
+Flight crews should be educated and trained on the factors and conditions creating threats and error management and their effects on the perception of the environment and aircraft position:
+
+Perception of heights, distances and angles
+Assessment of aircraft lateral position and glide path.
+
+Awareness can be supported by identifying all airport and runway hazards, available navaids and visual aids.
+
+3.2 Threat assessment
+Approach threats should be assessed for each individual approach during the approach and go-around briefing. Review the following elements: ceiling and visibility, weather, crew experience with the airport and its environment, approach and other visual aids, surrounding terrain and man-made obstacles.
+
+4 Summary and Key points
+The aircraft was on a VOR final approach at 0200 local time in stormy weather. After a long day, the pilots lost the VOR signal and started a go-around. While doing so, they were unaware they had missed a ridge north of the airport by some 600 ft. The crew attempted a second approach which was also abandoned due to signal problems. During the second go-around, the EGPWS announced “too low terrain,” and the airplane cleared the ridge by a mere 56 ft. The crew diverted to the alternate airport and landed safely. The following day, the pilots returned during daylight to the original airport and found the signal was off by 30 degrees. Post-incident analysis showed the pilots were off course by 3 nm although the NDs told both they were on course.
+Understanding the complete picture of the underlying incident can prevent other crews from falling into similar traps.
+
+If things do not seem right, they probably aren’t.
+Trust your instruments, up to the point of contradictory indications, then act without delay.
+Be aware of approach threats and assess them.
+Adhere to defined pilot flying and pilot not flying (PF and PNF) task-sharing for acquiring visual references and for flying the visual segment, which includes:
+
+Monitoring by the PF of outside visual cues while occasionally referring to instruments to support and monitor the flight path during the visual segment
+Monitoring by the PNF of head-down cues for effective cross-check and back-up, such as calling out any excessive deviation.
+
+
+
+
+5 Additional OGHFA Material
+Briefing Notes:
+
+Decision Making
+Unexpected Events Training
+Organizational Threat Management
+Threat Management Training
+Adherence to SOPs
+
+Checklist:
+
+Decide - Checklist
+
+Related Skybrary Articles
+
+Controlled Flight Into Terrain (CFIT);
+Threat and Error Management (TEM)
+
+
+
+
+
+Categories
+
+
+OGHFA,
+              Situational Examples,
+              Human Factors
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

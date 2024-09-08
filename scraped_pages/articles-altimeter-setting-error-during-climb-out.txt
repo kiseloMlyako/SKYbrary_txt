@@ -1,0 +1,134 @@
+Altimeter setting error during climb out
+
+
+
+
+
+
+
+
+
+
+
+  Altimeter setting error during climb out
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Reminder Message
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Synopsis
+A European air navigation service provider (ANSP) has reported a recent spate of level bust incidents attributed to incorrect altimeter setting during climb out. Essentially, some flights crews are not changing from the aerodrome QNH to the standard pressure setting (1013.2 hPa) as the aircraft climb resulting in aircraft ‘busting’ the cleared flight level given by ATC. For instance, if aerodrome QNH is 993 hPa, not changing to 1013.2 hPa will result in an aircraft climbing 600 feet above its cleared flight level.
+ICAO Provisions
+ICAO Doc 8168 – Procedures for Air Navigation Services – Aircraft Operations (PANS-OPS), Volume I, Flight Procedures – Part VI – Altimeter Setting Procedures – Chapter 3.3.3 “On climbing through the transition altitude, the reference for the vertical position of the aircraft shall be changed from altitudes (QNH) to flight levels (1013.2 hPa), and thereafter the vertical position shall be expressed in terms of flight levels.”
+Analysis
+There is no harmonised transition altitude (TA) in European airspace. Consequently, European flight crew SOPs do not usually involve making the QNH/standard pressure setting or standard pressure setting/QNH change at TA/TL because they vary so much. Instead, flight crew altimeter setting SOPs and responses are often triggered on receipt of an ATC vertical clearance, e.g. the PF & PM take-off with QNH set and change to 1013.2 hPa as soon as clearance to a flight level is given. Crew ‘After Take-off’’ normal checklists then reflect this practice. Nevertheless, altimeter setting errors do occur and are a common cause for level busts and result in a lack of vertical situational awareness. Pilot self-checking and cross monitoring in all matters relating to vertical clearances are therefore essential. This is particularly important when QNH is ‘low’ and the difference between it and the standard pressure setting (translated into vertical distance) is potentially even more safety critical. Causes The typical causes of incorrect pressure settings are: high workload; a deviation from defined task sharing; an interruption or distraction; inadequate cross-checking by flight crew members; or confusion about units of measurement.
+Defences
+
+The existence of appropriate SOPs for the setting and cross-checking of altimeter sub-scales and their strict observance is essential to eliminate incorrect altimeter setting.
+ATC should always include QNH units of measurement when passing sub scale settings since in the US, sub scale settings below 30.00 inches are routinely passed with the first number omitted so that for example 29.92 inches would be passed by ATC as “992”.
+Mode S downlink also provides opportunities for ATC to detect altimeter setting errors in various scenarios (e.g. the Barometric Pressure Setting Advisory Tool (BAT) used by UK NATS.
+
+Your Attention is Required
+Aircraft Operators are invited to review their altimeter setting SOPs and share any relevant operational experiences concerning the issues described.
+Air Navigation Service Providers are invited to review their verification of level information/ level occupancy procedures and altimeter setting detection capability, and share any relevant operational experiences concerning the issues described.
+Further Information
+SKYbrary
+
+Altimeter Setting Procedures
+Level Bust Briefing Notes Aircraft Operators
+
+ICAO
+
+PANS OPS Volume 1, Chapter 3.
+PANS ATM § 4.10, 8.5.5 and 12.3.1.7
+EUR OPS Bulletin 2023_001: Risks related to altimeter setting errors during APV Baro-VNAV and non-precision approach operations, 27 July 2023.
+
+Disclaimer
+© European Organisation for Safety of Air Navigation (EUROCONTROL) June 2013. This alert is published by EUROCONTROL for information purposes. It may be copied in whole or in part, provided that EUROCONTROL is mentioned as the source and to the extent justified by the non-commercial use (not for sale). The information in this document may not be modified without prior written permission from EUROCONTROL. The use of the document is at the user’s sole risk and responsibility. EUROCONTROL expressly disclaim any and all warranties with respect to any content within the alert, express or implied.
+
+
+
+
+Categories
+
+
+Safety Reminder Message
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

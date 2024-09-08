@@ -1,0 +1,312 @@
+A320, vicinity Muscat Oman, 2019
+
+
+
+
+
+
+
+
+
+
+
+  A320, vicinity Muscat Oman, 2019
+
+
+
+
+
+
+
+
+
+Summary
+
+On 28 January 2019, an Airbus A320 became unstabilised below 1000 feet when continuation of an ILS approach at Muscat with insufficient thrust resulted in increasing pitch which eventually triggered an automatic thrust intervention which facilitated completion of a normal landing. The Investigation found that having temporarily taken control from the First Officer due to failure to follow radar vectors to the ILS, the Captain had then handed control back with the First Officer unaware that the autothrust had been disconnected. The context for this was identified as a comprehensive failure to follow multiple operational procedures and practice meaningful CRM.
+
+
+
+
+Event Details
+
+When
+
+28/01/2019
+
+
+
+Event Type
+
+
+HF,
+              LOC
+
+
+
+
+Day/Night
+
+Night
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS A-320
+
+
+
+
+
+
+
+
+
+Operator
+
+Orange2Fly
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Dubai International Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Muscat International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Landing
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+OOMS
+
+
+
+
+General
+
+Tag(s)
+
+
+              Approach not stabilised,
+              Deficient Crew Knowledge-handling,
+              Unplanned PF Change less than 1000ft agl,
+              CVR overwritten,
+              Delayed Accident/Incident Reporting
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Manual Handling,
+              Procedural non compliance,
+              Dual Sidestick Input,
+              AP/FD and/or ATHR status awareness
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Flight Management Error,
+              Aircraft Flight Path Control Error
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 28 January 2019, an Airbus A320 (SX-ODS) being operated by Orange2fly on a scheduled international passenger flight from Dubai to Muscat for Salamair was making an ILS approach to runway 26R at destination in night VMC when it progressively became unstabilised and at a very low altitude, the automatic ALPHA FLOOR protection system was activated and a normal touchdown then followed.
+Investigation
+On receiving a report of the event by the Greek operator of the aircraft nine days after it had occurred which contained no indication of its seriousness, the Hellenic Air Accident Investigation and Aviation Safety Board (AAIASB) initially took no action. However, when the Board received and reviewed a copy of the operator’s internal investigation two months later, the event was categorised as a Serious Incident and the State of Occurrence was notified accordingly and information provided. When the State of Occurrence subsequently decided not to undertake an investigation due to “lack of adequate information”, the AAIASB opened its own Investigation and notified the appropriate parties accordingly. Relevant FDR data were available but relevant CVR data had been overwritten.    
+It was noted that the Captain had a total of 13,522 hours flying experience of which 73 hours had been flown since joining the operator one month prior to the event under investigation when already qualified on type. The First Officer had a total of 1,489 hours flying experience of which 328 hours had been flown since joining the operator, which he had joined 4½ months earlier also already qualified on type.  
+What Happened
+It was established that the First Officer had been PF for the flight but when he had failed to follow radar vectors from downwind to the ILS provided by ATC, the Captain had taken control at 2260 feet QNH and after disconnecting the AP and selecting idle thrust (which automatically disconnected the A/THR), he configured the aircraft for landing whilst positioning it onto final approach. 
+On the ILS final approach at 930 feet QNH/agl with the speed at 145 KCAS (VAPP+10) and the aircraft descending at 1,080 fpm, he handed control back to the First Officer. The thrust levers were still in the Flight Idle detent although the First Officer was unaware that the A/THR was not active and took no action to manually increase thrust. By 600 feet QNH/agl, the aircraft was half scale deflection below the ILS GS with this deviation increasing and the airspeed progressively reducing.
+As the aircraft passed 500 feet, with the airspeed now VAPP-7, a dual sidestick input was recorded, with the Captain’s unannounced nose down input being opposed by a nose up input by the First Officer. This dual input continued as the aircraft descended to 350 feet when it ceased. With the airspeed steady at almost around VAPP-20, the decent continued at 1,200 fpm and the ILS GS indication reached full scale fly up. At 140 feet agl, the angle of attack reached the threshold for activation of the ‘ALPHA FLOOR’ protection system and with TOGA thrust automatically set, the aircraft pitch attitude began to increase, reaching 16°. A forward input on the Captain’s sidestick was recorded at 162 feet with the airspeed now at VAPP-8 and the aircraft then levelled off at 207 feet agl and the ALPHA FLOOR deactivated. The Captain took over control again with a half scale ILS GS fly up showing and the aircraft crossed the runway threshold at 70 feet agl with a “normal landing” following. 
+The First Officer stated to the Investigation that he had never flown the aircraft type without the A/THR engaged and that, in the absence of any calls from the Captain or reference to the Flight Mode Annunciator (FMA), he had remained unaware that the A/THR was disconnected after being given control back on final approach. The Investigation found that in addition, “no SOPs were followed regarding takeover of control, bank angle, vertical speeds, speed management and G/S deviation during initial and final approach”. It was also concluded that, having taken over control from the First Officer, the Captain had not needed to disconnect the AP to manage the flight or the A/THR to manage the speed.
+The Causes of the upset were formally recorded as:
+
+Poor CRM on the part of both Pilots.  
+Non-compliance with SOPs during all phases of the initial and final approach including in particular an absence of both pilots’ verbal confirmation of their actions.
+The Captain’s handover of control to the First Officer below 1000 feet with Idle Thrust set and the aircraft thereby being unstable.
+The First Officer’s lack of training in control of the speed with the A/THR disconnected.
+
+A Main Contributory Factor was also identified as “loss of situational awareness” by both pilots with an Additional Contributory Factor identified as “no or poor CRM”.
+Four Safety Recommendations were made as a result of the Investigation as follows:
+
+that Orange2fly must review its pilot training programme in respect of emphasis during initial, recurrent, ground school and flight training on the following items before pilots are released for line flying and thereafter closely monitor the following aspects of pilot performance through OFDM and Flight and Simulator Checks:  
+
+CRM
+Human Factors
+Crew communication according to SOPs
+Crew Cooperation
+Leadership and Management skills
+The importance of FMA callouts in accordance with the  applicable SOP 
+Factors which contribute to loss of Situation Awareness 
+Decision Making
+Case study on low level approach to a stall
+Go Around decision making and actions in accordance with SOPs [2021-06]
+
+
+that Orange2fly carry out a review of their SMS [2021-07]
+that Orange2fly ensure that simulator training includes the above items plus:
+
+Vectoring to an ILS approach in both VMC and IMC and for manual approaches with A/THR disengaged
+Emphasis on FMA callouts in accordance with the SOP 
+Go-around decision and execution in accordance with the SOP [2021-08]
+
+
+that the Orange2fly Flight Operations and Training Department Review and incorporate procedures and criteria for the handover of aircraft control at low altitude. [2021-09]
+
+The Final Report of the Investigation was completed on 11 February 2021 and subsequently published simultaneously in the definitive Greek version and in English translation in June 2021.
+Related Articles
+
+Stabilised Approach
+Crew Resource Management (CRM)
+Standard Operating Procedures (SOPs)
+Go-around Decision Making

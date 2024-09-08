@@ -1,0 +1,330 @@
+A333, Zurich Switzerland, 2020
+
+
+
+
+
+
+
+
+
+
+
+  A333, Zurich Switzerland, 2020
+
+
+
+
+
+
+
+
+
+Summary
+
+On 26 February 2020, an Airbus A330-300 tailstrike occurred during rotation for takeoff from Zurich and was not detected by the crew who completed the planned 7½ hour flight to Nairobi before learning that the aircraft was not airworthy as a result. The Investigation concluded that the tailstrike had been the direct result of the crew’s use of inappropriate inputs to their takeoff performance calculation on the variable headwind encountered during the takeoff and noted a very similar event had previously occurred to the same aircraft type operated by an airline within the same overall ownership.
+
+
+
+
+Event Details
+
+When
+
+26/02/2020
+
+
+
+Event Type
+
+
+HF
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS A-330-300
+
+
+
+
+
+
+
+
+
+Operator
+
+Swiss International Airlines
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Zürich Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Jomo Kenyatta International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Take Off
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+LSZH
+
+
+
+
+General
+
+Tag(s)
+
+
+              Copilot less than 500 hours on Type,
+              Deficient Crew Knowledge-performance,
+              Use of Erroneous Performance Data,
+              CVR overwritten
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Pre Flight Data Input Error,
+              Procedural non compliance
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Flight Management Error,
+              Environmental Factors,
+              Incorrect Thrust Computed,
+              Unintended transitory terrain contact
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Aircraft damage
+
+Minor
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 26 February 2020, an Airbus A330-300 (HB-JHC) being operated by Swiss International Airlines on a scheduled international passenger flight from Zurich to Nairobi and then on to Dar es Salaam as LX294 became airborne in day VMC at an excessive pitch attitude and the occurrence of a tail strike was not recognised by either the flight or cabin crew or by ATC. The flight to Nairobi was therefore completed but on arrival, the station engineer there advised the Captain that the rear fuselage showed evidence of a tailstrike which rendered the aircraft un-airworthy. It was therefore withdrawn from service and the leg to Dar es Salaam was cancelled. After consultation with Airbus, a temporary repair was eventually approved and completed 12 days later.
+Investigation
+A Serious Incident Investigation was carried out by the Swiss Transportation Safety Investigation Board (STSB). Relevant data from the DFDR was downloaded but relevant data on the CVR had been overwritten. 
+It was noted that the Captain, (a Swiss citizen born 1964) had a total of 14,931 hours total flying experience which included 3,933 hours on type and the First Officer (a German citizen born 1988) who was acting as PF for departure, had a total of 3,889 hours flying experience which included 429 hours on type. 
+What Happened
+Shortly after the Scheduled Time of Departure (STD) for the flight, the crew contacted the Clearance Delivery frequency to obtain a SID and, after being offered but declined a takeoff from the takeoff runway in use, 28, (the surface wind was westerly) they were give an Estimated Time of Departure (ETD) of STD +35 minutes for runway 16. However due to intended clearance of wet snow from both runway 16 and runway 28 and aircraft ground de-icing because of  continuing snow showers at the airport it was announced that runway 32 would become the takeoff runway and a new SID was obtained. 
+The crew then performed a takeoff performance calculation on their EFB which output a CONF 2 takeoff using a reduced thrust (flex temperature-based) setting. On repeating this calculation 20 minutes later based on the new ATIS surface wind of 280° /19 - 32 knots and with windshear being reported at an altitude of approximately 3000 feet QNH (equivalent to 1500 feet aal), it was decided to change to a CONF 1+F takeoff and, in view of the variable wind and the reported runway condition (10% covered with 3mm of slush), to input a 6 knot tailwind and reduce the flex temperature from the maximum possible 35°C to 34 °C. They also decided to takeoff with the engine and wing anti-icing on and the air conditioning packs off. This produced a V1 of 136 KIAS, a VR of 148 KIAS and a V2 of 153 KIAS.  
+Takeoff clearance was eventually given with a spot wind from 260° at 19-28 knots and it commenced at STD+01:41 hours. Rotation with the control column pulled back to about ¾ of full travel was initiated at VR (148 KIAS) but the airspeed then dropped to 142 KIAS and the PF responded by returning it to about half of full travel which, taken together, resulted in the aircraft attaining a pitch angle of 11.2° within 4 seconds. Two seconds later, at a pitch angle of 13.7° and a speed of 154 KIAS as the main gear was about to lift off, the rear lower fuselage contacted the runway without either the pilots or the rear-stationed cabin crew noticing anything unusual. The flight thereafter was completed as planned without further event. 
+Why it Happened 
+The Investigation was sought to establish exactly what happened and how this related to the flight crews’ compliance or otherwise with the relevant SOPs. It was noted at the outset that in 2013, an Airbus A330-300 being operated by another Deutsche Lufthansa Group Airline, Lufthansa, had been involved in a very similar tailstrike unrecognised by the crew when departing from Chicago and had also then completed its intended (transatlantic) flight, in this case in a “severely damaged” condition.
+
+The FCTM was found to include comprehensive content on tailstrike avoidance which clearly identified the fact that “tailstrikes can cause severe structural damage (and that) weather conditions with crosswinds, turbulence and windshear favour the occurrence of a tailstrike”. It also included the following information and guidance:
+
+The minimum ground clearance of the aircraft's rear in relation to the runway occurs before liftoff, before the rotating bogies of the main landing gear attained complete extension;
+Premature aircraft rotation before reaching VR results in an increased pitch attitude on takeoff and therefore favours the occurrence of a tailstrike; 
+An abrupt increase in rotation rate just before liftoff increases tailstrike risk; 
+In order to reduce the risk of a tailstrike, the operating company FCTM explicitly recommends a takeoff using the flap/slat setting CONF 2.  
+
+
+
+It was apparent that the Swiss International Airlines’ recommendation to use CONF 2 as the effective default had been ignored.
+
+ According to the FCOM, the use of a flex temperature thrust is only permitted when taking off on a dry or wet, well paved runway. In the case of a contaminated runway, this is prohibited and the takeoff must be performed at the maximum permitted engine power (TOGA). A runway is considered to be contaminated only if more than 25% of its surface is covered with precipitation residues (slush, snow, ice, etc.). 
+
+The takeoff runway was notified as only 10% contaminated with slush. 
+
+
+The company FCTM recommends that in the case of expected windshear during takeoff, maximum permitted engine power (TOGA) must be set but also notes that in the case of a takeoff with reduced engine power, it is possible to push the thrust levers forward to TOGA at any time.  
+
+It was considered that given the pre-takeoff reference to “windshear” after takeoff, the decision to use reduced thrust was “incomprehensible” on that count alone.      
+
+
+According to both the FCOM and the FCTM, rotation during takeoff should be initiated with a positive rearward deflection of the stick when VR is reached using a continuous rotation rate of 3 °/second up to a pitch attitude of 15°. This will result in lift off 4 to 5 seconds after VR reaches a pitch angle of approximately 10°.
+
+The rotation made, although non-standard, was considered to have complied “in principle” with the operator’s procedural requirements. 
+
+
+When using the EFB to calculate takeoff performance, it was considered “customary in practice” to enter values with a safety margin ("conservative values") for temperature, pressure and wind velocity, which was also advantageous in avoiding the need for a new calculation immediately prior to takeoff if there are fluctuations in the ambient conditions. However, in respect of wind velocity, the FCOM was found to state that only the current mean wind should be used with gust values used only to compare with crosswind limits.
+
+The crew’s use of a 6 knot tailwind component for “safety” was not in accordance with the FCOM SOP.
+
+
+
+In the light of the last point above, the Investigation looked in more detail at the influence of wind velocity inputs on the V speed calculation on the ratio of V2 to VS which must be at least 1.13 and was displayed during use of the EFB for takeoff performance purposes. The following illustration compares the 6 knot tailwind used by the crew with the 16 knot headwind component implied by the actual mean wind during the takeoff of 280°/19 (which was not materially different from the latest METAR/ATIS wind of 260°/17 knots). As would be expected, the V speeds increase with increasing headwind.
+
+The effect of head/tailwind component on V speeds for the takeoff weight involved, [Reproduced from the Official Report]
+However, although the V speeds themselves are not much affected by the chosen flap/slat configuration (CONF), since the VS increases with a lower flap setting, a significantly lower V2/VS ratio applied and this means a lower safety margin in relation to a stall (see the illustration below) as well as, importantly, rotation at a speed much closer to VS.
+
+The effect of head/tailwind component on the V2/Vs ratio and in relation to flap/slat setting. [Reproduced from the Official Report]
+Overall, it was concluded that the desire of the crew to increase safety reserves by entering “conservative values” into their EFB takeoff performance calculation had “ultimately produced undesirable effects, namely an increase in the risk of a tailstrike and a reduction of the stall margin”. In fact, the obvious way to create an effective safety reserve when this is considered appropriate is not to make a reduced thrust takeoff but use the maximum permitted rated thrust. It was observed that this decision, not taken appropriately in the investigated event, was “ultimately nothing more than a balancing of safety against economy (safety versus economy)”.
+The Investigation noted a previously investigated similar tailstrike to a Lufthansa Airbus A330-300 which was also considered to have been “among other things, a consequence of the selected configuration and the dynamics of the rotation rate” and had also gone undetected by the flight crew and been followed by completion of the planned flight in an un-airworthy aircraft.   
+Four Contributory Factors to the tailstrike were identified as follows:
+
+Because of forecast windshear during the climb, the flight crew selected a configuration generating low resistance (CONF 1+F) for takeoff;
+Because of the reported fluctuation in the surface wind, the flight crew selected a tailwind component so as to incorporate a safety margin in the takeoff calculation instead of using the actual headwind. This resulted in a significantly lower rotation speed VR;
+The takeoff was made with reduced engine thrust, which reduced the rate at which the speed increased during the takeoff roll and especially so during the rotation phase. 
+When the aircraft was rotated, windshear resulted in a decrease in the indicated airspeed to below the rotation speed VR.  
+
+The Final Report was approved on 18 October 2021 and subsequently published on 26 November 2021. No Safety Recommendations were made. 
+Related Articles
+
+Tail Strike
+Aircraft Performance
+Standard Operating Procedures (SOPs)

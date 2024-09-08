@@ -1,0 +1,151 @@
+Maintenance Steering Group-3 (MSG-3)
+
+
+
+
+
+
+
+
+
+
+
+  Maintenance Steering Group-3 (MSG-3)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Airworthiness 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ Cranfield University
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ Cranfield University
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+MSG-3 (Maintenance Steering Group) "Operator/Manufacturer Scheduled Maintenance Development" is a document developed by the Airlines For America (A4A) (formerly the Air Transport Association or ATA). It aims to present a methodology for developing scheduled maintenance tasks and intervals, which will be acceptable to the regulatory authorities, the operators, and the manufacturers. The main idea behind this concept is to recognise the inherent reliability of aircraft systems and components, avoid unnecessary maintenance tasks, and achieve increased efficiency. The underlying principles are that:
+
+Maintenance only effective if task applicable.
+No improvement in reliability by excessive maintenance.
+Needless tasks can also introduce human error.
+Few complex items exhibit wear-out.
+Monitoring generally more effective than hard-time overhaul - Condition-based maintenance (sometimes known as CBM).
+Reliability only improved by modification.
+Maintenance may not be needed if failure cheaper.
+
+MSG-3 is widely used to develop initial maintenance requirements for modern commercial aircraft which are published as a Maintenance Review Board Report (MRBR). It has two volumes (1 for fixed wing aircraft and 2 for rotorcraft), and its application will proceed alongside the Type Certification process.
+Background
+MSG-1 was first published in 1968 and used for developing scheduled maintenance for B747. Subsequently MSG-2 was developed and used for developing scheduled maintenance for 1970’s aircraft such as L1011 and DC-10. MSG-2 was process orientated and used a bottom-up approach. It also introduced ‘condition monitored maintenance’ concept.
+Based on the experience and the identified weaknesses of MSG-2, the original version of MSG-3 was first published in 1980 and it introduced a top-down approach by focusing on ‘consequences of failure’. MSG-3 expected the assessment of functional failures and the assignment of the consequences of those failures into two basic categories, ‘SAFETY’ and ‘ECONOMIC’. Unlike MSG2, MSG3 is a task orientated and this eliminated the confusion associated with the different interpretations of ‘Condition Monitoring’, ‘On-condition’ and ‘Hard time’. The other fundamental improvement was the recognition of ‘damage tolerance rules’ and the ‘supplemental inspection programmes’.
+Since 1980, regular amendments have been made to MSG-3, the most recent in 2015 but, as yet MSG-4 has not followed. The latest version of MSG-3 introduced some elements related to Structural Health Monitoring Systems (SHMS), which was the result of issue papers published by the International Maintenance Review Board Policy Board (IMRBPB).
+Application
+A so-called Industry Steering Committee (ISC) appoint specialist Maintenance Working Groups who carry out detailed analysis [using the MSG-3 process]. The latter then develop an appropriate series of maintenance tasks for ISC approval.
+The Maintenance Review Board (MRB) consists of appropriate regulatory personnel to monitor development and finally approve the Initial Maintenance Programme. The ISC submit the complete schedule to MRB for approval, and once approved, the MRB will approve it to as a Maintenance Planning Document (MPD).
+As experience with an aircraft type accumulates, the Type Certificate Holder (or manufacturer) and the various operators will seek to develop the MPD throughout the aircraft life. This is due to the fact that the initial MPD may be conservative, and task intervals may be increased as experience is gained. Maintenance periods may also be extended as components are modified to give longer life. However, all extensions should be agreed upon in a controlled manner, i.e. under regulatory oversight.
+As a further step, the MPD will be adapted to suit a particular operator's requirements. Once it has been approved by the appropriate regulatory authority, it becomes an Approved Maintenance Schedule (AMS), but for that operator only.
+The basic goal of MSG-3 is to identify maintenance tasks which are both effective and efficient in enabling a new aircraft to be designed and operated in a manner which achieves a satisfactory level of safety and reliability throughout its life. The process is applied for the following four sections:
+
+Systems and Powerplant (including components and APUs).
+Aircraft Structures.
+Zonal Inspections.
+Lightning/High Intensity Radio Frequency (L/HIRF).
+
+Each section contains methodology and specific decision logic diagrams. Specifically, the Systems & Powerplant section requires the identification of Maintenance Significant Items (MSI) before the application of logic diagrams to determine the maintenance tasks and intervals.
+Similarly, in the Aircraft Structures section, the initial step is to divide the aircraft structure into workable areas or zones. Within these, Structural Significant Items (SSIs) will be selected within which Principal Structural Elements (PSEs) can be identified. A failed PSE will be capable of causing a catastrophic effect. The remainder of the structure is referred to as Other Structure (OS).
+MSG-3 again provides methods and logic diagrams which are to be used for the development of structural inspections tasks. Regulatory guidance concerning damage tolerance and the fatigue evaluation of structure is also found in (FAR/CS 25.571)
+In addition to the tasks and intervals identified by MSG-3, there will be other issues associated with Certification Maintenance Requirements (CMR). These will be identified during an aircraft’s Systems Safety Assessment (see FAR/CS25.1309), typically from latent failures or combined events. These may demand additional tasks at different intervals to the MRB report [FAA, 2011].
+Related Articles
+
+Airworthiness
+Continuing Airworthiness
+Check
+
+Further Reading & References
+
+Airlines for America (A4A) MSG-3: Operator/Manufacturer Scheduled Maintenance Development, Volume 1 – Fixed Wing Aircraft; Volume 2 – Rotorcraft, Rev 2015.1
+EASA (2016), CS 25.571 Damage Tolerance and Fatigue Evaluation of Structure, in Certification Specifications and Acceptable Means of Compliance for Large Aeroplanes CS-25 (external link)
+FAA (2011), AC 25.571-1D Damage Tolerance and Fatigue Evaluation of Structure (external link)
+FAA (2011) AC No 25-19A: Certification Maintenance Requirements
+
+
+
+
+
+Categories
+
+
+Airworthiness
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

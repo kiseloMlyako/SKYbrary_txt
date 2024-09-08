@@ -1,0 +1,157 @@
+Crew Information and Action Flow
+
+
+
+
+
+
+
+
+
+
+
+  Crew Information and Action Flow
+
+
+
+
+
+
+
+
+
+Toolkit Navigation
+
+
+Flight Deck Procedures - A Guide for Controllers
+
+
+
+
+
+
+Pre-flight Planning
+Set-up and Briefing
+Start-up,  Push-back and Taxi
+Take-off and Climb
+Cruise
+Descend,  Approach and Landing
+Crew Information and Action Flow
+Automatic Flight
+Operation of the Radio and Intercom Selector Panels
+Windshear Detection
+GPWS
+
+
+
+
+
+
+
+
+
+
+
+
+
+Information Input
+Flight decks vary considerably, but generally use the same basic layout, and follow a set of common fundamental principles.
+Most systems-related controls, such as hydraulics, fuel, electrical, and pressurisation, are usually located on the overhead panel. Radios tend to be located on the panel between the pilots known as the pedestal. Automatic flight controls are usually placed in direct view of the pilots on the panel directly below the windshield, known as the glare shield.
+The onboard instrumentation can be categorised as flight instruments, navigation instruments and systems instruments. Flight and navigation instruments are usually directly in front of each pilot, and the engine displays tend to be located in the middle of the centre panel.
+Civil transport aircraft use a side by side seating, primarily because it aids Crew Resource Management; the pilots are able to communicate face to face, and are able to see what the other pilot is doing, which enables them to cross-check each other.
+The Electronic Flight Information System, or Electronic Flight Instrument System, is used on almost all modern aircraft today. EFIS consists of a set of displays, controls and data processors and present the flight instruments, navigation instruments and systems instruments electronically. The displays vary but generally grouped into the Primary Flight Display, the Navigation Display and the Systems Display.
+Each pilot of a large transport aircraft will have their own Primary Flight Display and a Navigation Display, but the Systems Display may be shared.
+Primary Flight Display
+The Primary Flight Display provides the pilot with basic flight data such as aircraft attitude, heading, speed, vertical speed and level. It also has the capability of alerting the pilot to any potentially hazardous conditions, such as low airspeed, high airspeed and high rate of descent by altering the colour and shape of the relevant data. Warnings are often accompanied by audible alerts. On many modern aircraft the Primary Flight Display will provide the pilots with pitch instructions in case of a TCAS Resolution Advisory.
+
+Navigation Display
+The Navigation Display provides the pilot with a lateral overview of the flight and essentially provides navigational and weather information. Therefore it will show items such as waypoints, airports, the route ahead and TCAS information. Weather data is mainly based on the weather radar and is overlaid on the display. Different colours are used to denote the intensity of the weather. Just like the Primary Flight Display, the Navigation Display may change the shape and colour of data to alert the pilot to a hazard. Warnings are often accompanied by audible alerts.
+Systems Display
+The Systems Display displays information about the aircraft's systems such as fuel, electrical and engines. Complex information is shown in a graphical format to increase situation awareness, and the system is designed to only show the information that the pilots need to know at any given point in time. As an example, in case of falling oil pressure the Systems Display may display an oil pressure indication, and may augment this further by showing the dial in red.
+
+Control Panel
+The displays on the flight deck are controlled via one or more control panels that allow the crew to view the data in a suitable format. As an example, the pilots may choose a larger range on the Navigation Display to view a distant weather system.
+In case of a display failure the pilots can chose to view the data on another display. Alternatively the system may automatically display a condensed image on a single display.
+Flight Management System (FMS)
+The heart of the modern flight deck is the FMS which mainly controls the aircraft’s navigation. It allows the pilots to input the whole flight plan and also allows the pilots to modify it in flight. The flight plan is generally determined on the ground, before departure either by the pilot for smaller aircraft or a professional dispatcher for airliners. It is entered into the Flight Management System either by typing it in or selecting it from a saved library.
+During pre-flight other information relevant to managing the flight is entered. This can include performance information such as gross weight, fuel weight and centre of gravity. It will include altitudes including the initial cruise altitude. For aircraft that do not have a GPS, the initial position is also required.
+The FMS uses various sensors to determine the aircraft's position, and can determine the optimum speed and level for the given conditions. Much of the data that is either computed by the Flight Management System or directly inputted by the crew is then shown on the Primary Flight Displays and the Navigation Displays. As an example, the programmed route of flight is shown on the Navigation Display as a magenta line, and the speeds and modes of operations are shown on the Primary Flight Display.
+Warning System
+There is also a warning system that flags anything that exceeds a certain limit. The limits at which the warnings are activated may change depending on the phase of flight, aircraft configuration and so on. The warnings can be provided visually on the information displays, by an audible warning, such as a voice command, or by both visual and audible warnings. Warnings relating to the control of the aircraft are duplicated on both sets of information displays. Warnings relating to the engines would be shown on the engine display, often located in the middle of the main panel central to both pilots.
+Crew Resource Management
+Crew Resource Management (CRM) is a concept that originated in the late 70s that focuses on improving air safety by improving interpersonal communication, leadership, and decision making in the cockpit. It essentially introduces a concept for the flight deck crew to cooperate to reduce the chance of human error.
+Part of this concept is based on redundancy of the crew, in other words that both crew members should be competent and capable of carrying out all tasks onboard. This is for the following reasons:
+
+In case one crew member becomes incapacitated the other crew member must be able to safely divert and land the aircraft;
+By both crew members being competent they are able to continuously monitor each other and thereby spot any mistakes.
+
+The final responsibility lies with the captain who is ultimately accountable for the safety of the flight. However, the role of the pilots usually changes on a leg by leg basis. One pilot will assume the Pilot Flying (PF) role, the other the Pilot Monitoring (PM) role. The PF essentially runs the flight and flies the aircraft. The PM monitors the flight, looks for traffic, and mentally flies the aircraft while watching everything the PF does. The PM is usually responsible for navigation and communication with ATC.
+The extended team consists of the cabin crew, but are not as closely connected due to job diversity and the separation from the flight deck by a locked door. Much of the communication with the cabin crew is via the intercom rather than face to face.
+The busiest time for pilots is during departure and arrival. The cabin crew become busy during cruise as this is when the cabin services take place.
+Standard Operating Procedures (SOPs)
+SOPs are a statement of the actions that the flight crew are to take and the methods to be used when operating the aircraft. The SOPs are specified in the operator’s ‘Operations Manual’ and must therefore, by law, be adhered to. The intention and philosophy of SOPs are that they allow all flight crew members to work together without confusion by removing any personal habits (as exact actions are clearly stated) and removing any language barriers and colloquialisms (as standard verbal calls are clearly stated).
+SOPs are therefore a very powerful tool as, by adhering to them, every verbal call is understood and every action can be anticipated and easily recognised as being a correct or incorrect action for the current situation. This therefore provides not only an efficient method of operating but also a safe one.
+As such, it is useful for controllers to note that virtually every flight crew action and verbal call from the pre-flight cockpit set up until the top of climb, and from the arrival briefing until engine shut down after landing, will be exactly as specified in the SOPs. During the cruise phase of flight SOPs will still exist, however, as flight crew members are generally less busy during the cruise, general social conversations and personal behaviour become more the norm in between the SOP duties.
+The required SOP verbal calls may be of interest to controllers and a list of these is given in the Operations Manual. It is a requirement to carry the Operations Manual onboard the aircraft and so controllers maybe able to ask the flight crew to see the relevant chapter(s) during fam flights. It should be noted that SOPs specify both the initial call-out and also the response (where a response is required). The term ‘verbal call’ therefore refers both to call-outs and responses. Two examples of the exactness of SOPs are:
+
+When setting the QNH during descent:
+
+PF is to state: “QNH [number] set, altitude [number] feet”.
+PM is to respond: “QNH [number] set, altitude [number] feet checked”.
+
+
+
+
+During approach, at 100ft above Decision Altitude/Height:
+
+PM is to state: “Approaching decision”.
+PF is to respond: “Check”.
+
+
+
+
+At Decision Altitude/Height:
+
+PM is to state: “Minimums”.
+PF is to respond: “Continue” or “Go-around” as appropriate.
+
+
+
+Removal from Monitoring Duties when performing Actions and Checklists
+Two fundamental principles of piloting an aircraft are those of continually monitoring the aircraft to ensure that it is flying as intended (i.e. at the correct speed, heading, etc.) and of maintaining situational awareness. It is ideal in the interests of maximum safety and redundancy for both flight crew members to do this at all times. However, there are occasions due to the nature of the operation where one flight crew member has no option but to perform actions that remove him from these duties. There are also occasions when, for a brief moment, the same applies to the one remaining flight crew member.
+During anything other than “watching the aircraft” the pilot is therefore unable to monitor the aircraft and maintain situational awareness. A phrase often used is that of being ‘heads down’ which refers to a situation whereby the pilot is concentrating his attention on something(s) specific other than the aircraft’s primary flying instruments e.g. inputting data into the FMS, writing on the flight plan, or listening to and writing down the ATIS. It should be noted that even the simplest of actions or distraction for just a very short moment constitutes the situation of being ‘removed’ and although on many occasions, particularly those of a momentary nature, it is possible to instantly regain the monitoring and situational awareness it is surprisingly easy, due to human nature, to forget things. Such a simple example could be when a frequency change is given, the PF calls for the anti-ice to be selected on as the PM is dialling the new frequency, the PM then selects the anti-ice on but subsequently forgets to transfer to the new frequency. Although most of these actions are, in isolation, very simple (e.g. moving a switch or reading a checklist), they still provide a distraction from the duties of monitoring the aircraft and maintaining situational awareness.
+As discussed, it is not just general distractions, for example social conversations, that constitute a distraction, but many essential duties actually provide a distraction, such as changing a frequency, completing a checklist, or communicating with the cabin crew. With reference to completing checklists, the crew member reading the checklist is obviously ‘heads down’ whilst physically reading the checklist, however in order to respond to the checklist this will often require the responding crew member to also be ‘heads down’ as the response requires that crew member to check the position of switchgear or the state of a system. During fam flights it is therefore beneficial for controllers to observe the flight crews actions with respect to the above and note that at any time the pilot moves his eyes away from the primary flying instruments (this is more likely to be noticed from the observers seat by any head movement of the pilot), any radio transmissions or any verbal calls between the flight crew members can constitute such a distraction. It is likely that, due to human nature, every flight will produce at least one occasion whereby such a distraction provides for an incorrect action or moment of forgetfulness.
+Workload when Hand Flying the Aircraft
+With the autopilot engaged, the PF ‘flies’ the aircraft using the MCP – whereby the MCP selections command the autopilot. With the auto-pilot not engaged (i.e. when ‘hand flying’ the aircraft) PF flies the aircraft using the control column (or side stick if fitted) and must, through both necessity and SOP, place his hands on the control column and the throttle levers at all times.
+When hand flying the aircraft, selections must still be made on the MCP, again through both necessity and SOP, to ensure that the FD is engaged in the appropriate modes, that the target value for those modes is set correctly and that the associated ‘bugs’ on the primary flying instruments are set correctly.
+As the PF must have his hands on the controls when hand flying the aircraft, it is SOP for the PM to make all MCP selections when the aircraft is being hand flown. The workload for the PM therefore increases when the aircraft is being hand flown. The workload for the PF also increases when the aircraft is being hand flown as a great deal of concentration and brain processing power is used in physically controlling the aircraft and scanning the instruments, as opposed to the simpler task of making selections for the auto-pilot and monitoring the instruments to ensure that those selections are achieved by the auto-pilot. When the aircraft is being hand flown the workload as a crew (i.e. for both pilots) is increased significantly and will therefore have a major affect on their ability to maintain situational awareness, multi-task and even single-task depending on the circumstances and task in question. It is worthy of note and worthy of observation during fam flights that the case of hand flying the aircraft is one where the SOPs will actually increase the workload for the flight crew (in addition to the points described above). This is due to the associated increase in SOP verbal calls as follows:
+With the autopilot engaged, PF makes the MCP selection and then calls any changes to the FMA. Depending on SOPs, this may or may not require a response from the PM. The process therefore requires one action and one or two verbal calls. In the case of the MCP selection being made due to a transmission from ATC e.g. due to a heading, speed or altitude instruction, as it is the PM’s duty to make radio transmissions, the PF can accomplish the MCP selection(s) at the same time as the radio transmission is being received and responded to by the PM.
+When hand flying the aircraft, the SOP sequence of events will often be that:
+
+the PF must call for the MCP selection to be made (i.e. the PM must wait for the command from the PF before making the selection),
+the PM then makes the MCP selection,
+the PF then calls any changes to the FMA,
+the PM then gives the required verbal response.
+
+Note that a single flight path change may require 2 verbal calls from the PF in order for the PM to select both the target value and the appropriate mode on the MCP. As the PM must physically use his hand to transmit a reply to any ATC instructions (i.e. to press the transmit switch) and also that, in order for the PM to hear the command from the PF correctly, the PF must wait until the PM has finished that transmission before verbally calling for the MCP selections, the MCP selections cannot therefore be commenced until such transmissions are completed, unlike the case of when the auto-pilot is engaged as described above. Below is an example of such sequence of events as required by SOPs:
+
+ATC instruct: “[Callsign] fly heading 150°, descend to altitude 4,000ft, QNH 1003”.
+PM replies: “Fly heading 150°, descend to altitude 4,000ft, QNH 1003 [callsign]”.
+PF calls: “Set heading 150°, select Heading Select. Set 4,000ft, select Level Change. Set QNH 1003”.
+PM makes the MCP selections.
+PF calls the FMA changes: “Idle, Heading, MCP Speed, altitude 5,900ft”.
+PM replies: “Idle, Heading, MCP Speed, altitude 5,900ft checked”.
+
+As illustrated above, this can therefore lead to a protracted, time consuming, chain of events when hand flying the aircraft. If a second radio transmission is received immediately after the first transmission – an instruction to change to another frequency, for example - or another (distracting) event occurs, it can be seen that this interrupts the flow of accomplishing the first action. This can therefore lead to the first action not being completed correctly or being forgotten, or the second transmission being mis-heard or not heard at all. In a busy traffic environment or in situations of high workload, flight crews are aware of such consequences of hand flying the aircraft and therefore will often make the best use of the ‘automatics’ in such situations.
+Communications with Cabin Crew
+Communication with the cabin crew is required at certain stages of the flight as specified by SOPs. Such requirements are usually: • To confirm that the cabin is secure for take-off. • To confirm that the cabin is secure for landing. • To release the cabin crew to work after take-off. • To request entry into the cockpit.
+When communication is of a verbal nature this therefore means one of the pilots is removed from flight deck duties (with respect to monitoring the aircraft and monitoring the comms frequency) whilst communicating with the cabin crew (via the intercom).
+Some aircraft have systems that allow the required communication with the cabin crew to be accomplished in a non-verbal manner. This gives a more desirable method of operation as both pilots can therefore remain monitoring the aircraft and comms frequency. Such non-verbal communication is usually achieved via a cabin crew member pressing a button in the cabin which activates a message on the ECAM screen in the flight deck or activates a light or buzzer in the flight deck. The signal to release the cabin crew to work after take-off may be achieved by a pilot switching off the seat belt signs - this will automatically sound a chime in the cabin. The SOP may be to switch the seat belt signs off and on in quick succession so that the chime is sounded but the seat belt signs are immediately re-illuminated in order to keep the passengers in their seats.
+Go To:
+
+Automatic Flight
+Operation of the Radio and Intercom Selector Panels
+Windshear Detection
+GPWS
+
+Return to Flight Deck Procedures - A Guide for Controllers

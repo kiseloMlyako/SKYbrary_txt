@@ -1,0 +1,167 @@
+State Aircraft and Formation Flights - Separation Minima
+
+
+
+
+
+
+
+
+
+
+
+  State Aircraft and Formation Flights - Separation Minima
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Separation 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+The requirement that air traffic controllers accommodate, in the same airspace volume, a mix of civil and State military flights, often performed in formations, has significant operational consequences. In RVSM airspace there is a requirement to selectively apply two distinct vertical separation minima, 1000 ft and 2000 ft respectively. This requirement necessitates that air traffic controllers have full awareness of the status of aircraft operating in the same airspace volume or in close proximity. The selective application of a set of separation minima increases controller’s workload considerably.
+ICAO Provisions for Formation Flights
+Formation flight is defined as more than one aircraft operating as a single aircraft with regard to navigation and position reporting. Provisions in ICAO Annex 2, Section 3.1.8 "Formation Flights" state:
+"Aircraft shall not be flown in formation except by prearrangement among the pilots-in-command of the aircraft taking part in the flight and, for formation flight in controlled airspace, in accordance with the conditions prescribed by the appropriate ATS authority(ies). These conditions shall include the following:
+a) the formation operates as a single aircraft with regard to navigation and position reporting;
+b) separation between aircraft in the flight shall be the responsibility of the flight leader and the pilots-in-command of the other aircraft in the flight and shall include periods of transition when aircraft are manoeuvring to attain their own separation within the formation and during join-up and breakaway; and
+c) a distance not exceeding 1 km (0.5 NM) laterally and longitudinally and 30 m (100 ft) vertically from the flight leader shall be maintained by each aircraft;"
+Non-standard formations are those formations operating under conditions, requested by the flight leader and approved by air traffic control, other than the standard formation dimensions provided in ICAO Annex 2 or formations operating within an authorised Flight Level (FL) band (example: military refueling operations with a few FL blocked).
+ICAO Procedures for Non-RVSM Approved/State Aircraft during operations in, or vertical transit through, RVSM Airspace
+According to provisions in "Procedures for Air Navigation Services - Air Traffic Management" (PANS-ATM Doc 4444):
+1. During operations in or vertical transit through RVSM airspace with aircraft not approved for RVSM operations, pilots shall report non-approved status using the phraseology NEGATIVE RVSM (with supplementary information if applicable, e.g. State Aircraft) as follows:
+a) at initial call on any channel within RVSM airspace;
+b) in all requests for level changes; and
+c) in all read-backs of level clearances.
+2. Air traffic controllers shall explicitly acknowledge receipt of messages from aircraft reporting RVSM non-approved status.
+Separation Minima for Formation Flights/State Aircraft in RVSM Airspace
+ICAO Doc. 7030/4 clearly stipulates: “Except for State aircraft, Operators intending to conduct flights within the volume of airspace specified where RVSM is applied shall require RVSM Approval either from the State in which the Operator is based or from the State in which the aircraft is registered”.
+However, in order to reduce the workload impact on controllers of handling non-RVSM approved State aircraft, national/military authorities are strongly encouraged to make their transport/tanker fleets compliant with RVSM MASPS[1]. This recommendation relates in particular to those State aircraft which operate on a regular basis as General Air Traffic (GAT) in the RVSM airspace.
+The amendment to the ATM chapter of the NATO ATM Committee Handbook contains:
+"National and military authorities are encouraged to make their transport State aircraft fleet compliant with MASPS. However, this retrofit action is technically complex, needs time, and has significant financial consequences”.
+Currently, the majority of State aircraft are non-RVSM compliant.
+Formation Flights in European RVSM (EUR RVSM)
+Though not specifically mentioned in all aeronautical information publications (AIP), in Europe it is generally assumed that a vertical separation minimum of 2000 feet is to be applied between formation flights and other flights above FL290. (See Figure 1)
+
+Figure 1. Formation flights separated by 2000 ft from other traffic above FL290
+Formation Flights in United States RVSM (US Domestic RVSM)
+With the implementation of domestic RVSM (DRVSM) within the U.S. National Airspace System, the FAA and Department of Defence (DoD) provided recommendations for improvements and changes to RVSM separation minima procedures. The recommendation to provide RVSM separation to formation flights including only RVSM compliant aircraft was accepted by FAA with Notice 7110.406 during May 2005. FAA argues that providing RVSM separation to formation flights comprised completely of RVSM compliant aircraft contributes to more efficient use of airspace and reduces the impact on air traffic controllers. (See Figure 2)
+
+Figure 2. RVSM separation standards of 1000 ft vertical separation are applied to a formation flight comprising only RVSM approved aircraft
+
+A separation standard of 2,000 feet is applied above FL290 to all formation flights, which include an RVSM non-compliant aircraft.
+Formation Flights Outside RVSM Airspace
+It is generally assumed that 1000 feet vertical separation minimum is applied below FL290 to formation flights and State aircraft. Specific separation minima may be provided in State AIPs publication.
+Related Aricles
+
+Safety Reminder Message, 20080211, Operational Error in European RVSM Airspace;
+Reduced Vertical Separation Minima (RVSM);
+General Air Traffic (GAT);
+Operational Air Traffic (OAT);
+
+Further Reading
+ICAO
+
+Procedures for Air Navigation Services - Air Traffic Management" (PANS-ATM Doc 4444);
+ICAO Regional Supplementary Procedures for Europe (Doc 7030/4);
+Fifteenth Meeting of the APANPIRG ATM/AIS/SAR Sub-Group (ATM/AIS/SAR/SG/15) - Agenda Item 7, RVSM Separation for RVSM Compliant Aircraft Operating in Formation Flights, presented by USA);
+
+EUROCONTROL
+
+Military Guidance for Introduction of RVSM in Europe;
+Participation of Military Aviation in the RVSM Programme;
+
+Others
+
+NATO ATM Committee Handbook;
+
+Notes
+
+^ Minimum Aircraft Systems Performance Standards. A MASPS specifies characteristics that should be useful to designers, installers, manufacturers, service providers and users of systems intended for operational use within a defined airspace. Where the systems are global in nature, the system may have international applications that are taken in to consideration. The MASPS describes the system (subsystems / functions) and provides information needed to understand the rationale for system characteristics, operational goals, requirements and typical applications. Definitions and assumptions essential to proper understanding of the MASPS are provided as well as minimum system test procedures to verify system performance compliance (e.g., end-to-end performance verification). Compliance with a MASPS is recommended as one means of assuring that the system and each subsystem will perform its intended function(s) satisfactorily under conditions normally encountered in routine aeronautical operations for the environments intended. The MASPS may be implemented in part or in total. RTCA
+
+
+
+
+
+Categories
+
+
+Loss of Separation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

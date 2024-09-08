@@ -1,0 +1,199 @@
+Runway Excursion (OGHFA SE)
+
+
+
+
+
+
+
+
+
+
+
+  Runway Excursion (OGHFA SE)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+OGHFA 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ Flight Safety Foundation
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 The Incident as a Situational example
+You arrive on final approach to your destination airport at night and in good weather. The first officer, the pilot flying, is far less experienced and senior than you are. The final approach is flown manually with autothrust and the vertical navigation (VNAV) mode active on the flight director for a standard VHF Omnidirectional Radio Range (VOR)-Distance Measuring Equipment (DME) (VHF omnidirectional radio-distance measuring equipment) approach.
+At 10 nm (18 km) and 3,000 ft, the landing gear is extended, flaps are set to 30 degrees and speed is stabilized at Vref +5 (149 kt) with autothrust engaged. The first officer disengages the autopilot, and you control the descent path using the DME and the precision approach path indicator (PAPI). The flight mode annunciator (FMA) displays “SPEED, VNAV PATH.”
+After reaching 500 ft, you call out the FMA indication, then call, ”Thrust reference, VNAV speed.”
+Thrust is then increasing on all four engines. The airplane goes above the glide path and speed increases, reaching 176 kt when passing 300 ft. The first officer overrides the autothrust to return thrust to idle and says, “I don’t know … what’s happening.” You do not react.
+At 200 ft, you repeat, insistently, “We are above the path!” A little later, you say, “Be careful of the speed! You are too fast. … We are too fast … 180 kts!” (Vref + 34 kt).
+What is your reaction?
+You decide to let the first officer continue the approach.
+Two to three seconds before landing gear contact, the first officer loses his grip on the no. 1 engine thrust lever, which moves forward and commands the engine pressure ratio (EPR) to 107 percent of N1 (high-pressure rotor speed).
+The airplane touches down some 900 m (2,953 ft) past the runway threshold.
+Two seconds after touchdown, at 168 kt, the autothrust disconnects automatically. The no. 1 engine thrust lever stays in the forward position during deceleration. Due to the positive thrust from engine no. 1, the spoilers do not deploy and the autobrake does not extend.
+The first officer engages the thrust reversers on engines 2, 3 and 4. But at around 80 kt, a thrust asymmetry is felt; reverse thrust is cancelled then re-engaged on engines 3 and 4 to compensate for the asymmetry.
+How do you react to this asymmetry? What do you think?
+Both of you apply the wheel brakes, and you use the nosegear steering to try to slow down and maintain the airplane on the centerline. The heading progressively deviates to the right.
+The airplane leaves the runway laterally and stops with its nose in a lagoon that is 3 m (1 ft) deep with the nosegear collapsed rearward. The passengers and crew are not injured, but the airplane is damaged.
+
+2 Data, Discussion and Human Factors
+The above scenario shows active and latent failures such as:
+
+Inadequate knowledge of the flight management system (FMS) VNAV mode.
+Inadequate inter-crew communication on final approach and landing.
+Use of nonstandard callouts.
+Inadequate task sharing between the captain and first officer.
+Lack of decision making.
+Not being prepared to go around.
+
+The Flight Management System program is designed so that if it is still “active” at the “End of Descent” point, it is assumed that visual contact with the runway has not been acquired and therefore the approach procedure is abandoned. The VNAV (VOR) mode is therefore the computer equivalent of an instrument approach.
+In this case, autothrust was still active when passing the “End of Descent” point at 550 ft. The go-around mode automatically switched to “ON” and commanded a thrust increase on the autothrust to obtain the reference thrust level display known as “Thrust Reference.” Meanwhile, the FMS generated a pitch-up command to maintain the displayed speed on the mode control panel (MCP) for the computed safety speed.
+If the pilot does not follow FMS indications because he or she has a different objective, there is an unavoidable inconsistency between the pilot’s action (pitch command) and the autothrust computer (thrust command). Furthermore, the airplane logic does not foresee any automatic autothrust disengagement in case of conflict (to return the authority to the pilot). The pilot is made aware of this persistent inconsistency only through the higher-than-normal effort he has to apply to the thrust levers.
+In this case, the pilot did not follow flight director indications. He re-established control manually at the correct descent rate, 500 fpm, and kept the thrust levers in idle. But the FMS order to increase thrust was maintained because reference thrust for go-around had not yet been reached and the autothrust did not disengage.
+The crew did not understand that the FMS had commanded an automatic go-around maneuver. Several things should have made them aware:
+
+The FMA “Thrust Reference” indication. The captain called it out, but mechanically and without realizing its importance.
+Engine thrust increase and the effort to maintain the levers in idle. The first officer did not pass this basic information to the captain effectively, and the captain did not react.
+Flight director indications. Both crewmembers were concentrating on maintaining the flight path by looking outside without monitoring the instruments and automatic flight systems. The very experienced captain became increasingly focused on flight path management. Crew task sharing hence became unbalanced.
+
+There were clearly ineffective communications between the pilots. Mistakes were made while conducting the checklists. There was an absence of go-around preparation during the landing briefing, and no acknowledgements.
+The captain realized the airplane was too fast, but the callouts he made were not standard. The high speed and the low altitude should have led to a go-around. The captain later explained that he had not done so due to:
+
+Good visibility and little wind;
+Dry runway; and,
+Adequate runway length.
+
+He also mentioned that he had seen other fast approaches that were compatible on such a long runway and therefore thought the landing could proceed. In fact, in spite of the excessive speed and long touchdown, runway length was sufficient with airplane spoilers deployed, braking and full reverse thrust. He did not know, however, that those systems were inoperable with the VNAV mode still engaged. The airline’s pilots and instructors were apparently not well aware of the airplane’s VNAV characteristics.
+And the communication issue between the two pilots may also have been amplified by the captain’s intentions not to interfere too much with the first officer flying the airplane and by the latter’s reluctance to comment on the more experienced pilot’s decisions.
+
+3 Prevention Strategies and Lines of Defense
+In the complex and dynamically evolving operational setting of a final approach, time is limited to deal with unexpected events. Proper monitoring of flight instruments may not have been enough to completely analyze the situation, but it would have shown the airplane was not reacting as expected. The crew should then have decided either to go around or continue manually by disengaging the automatic systems.
+Apart from actual flight experience, there are several ways to improve the situation:
+Improved theoretical technical knowledge and training
+When the first officer had to use more effort to retard the thrust levers, he did not mention that to the captain. The captain did not realize the significance of “Thrust Reference” on the FMA and said nothing. Proper phraseology must be used to signal and avoid uncertainties, not only to request an action but also to get acknowledgement from the other pilot that he or she has understood the request and is acting properly.
+Improved crew coordination and mutual control and backup
+Both crewmembers were looking outside on final approach. This prevented the pilot not flying from monitoring his instruments.
+Maintain task sharing between pilots to properly monitor all systems.
+
+4 Key Points
+
+Understanding factual technical information concerning automation — in this case, FMS modes — is vital to maintaining safety awareness; automation flight training guidelines are helpful.
+Clear crew communications and cross-checking are essential to safety.
+Task sharing between pilots needs to be monitored and maintained during all flight phases.
+Conducting effective briefings reduces reaction time and clarifies task sharing.
+
+
+5 Associated OGHFA Material
+Briefing Notes:
+
+Flight Preparation and Conducting Effective Briefings
+Decision Making
+Decision Making Training
+Stress and Stress Management
+
+Checklist:
+
+Decide - Checklist
+
+
+6 Additional Reading Material
+Flight Safety Foundation
+
+Flight Safety Foundation Approach and Landing Accident Reduction (ALAR) Toolkit
+Increased Reliance on Automation May Weaken Pilots’ Skills for Managing System Failures
+
+ 
+
+U.K. Civil Aviation Authority. Paper 2004/10, Flight Crew Reliance on Automation, December 2004.
+International Civil Aviation Organization. Circular 234-AN/142, Human Factors Digest no. 5, “Operational Implications of Automation in Advanced Technology Flight Decks,” 1992.
+
+Related Skybrary Articles
+
+Runway Excursion
+
+
+
+
+
+Categories
+
+
+OGHFA,
+              Situational Examples,
+              Human Factors
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

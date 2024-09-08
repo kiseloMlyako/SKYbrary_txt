@@ -1,0 +1,374 @@
+Situational Awareness (OGHFA BN)
+
+
+
+
+
+
+
+
+
+
+
+  Situational Awareness (OGHFA BN)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+OGHFA 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ Flight Safety Foundation
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 Background
+This briefing note presents a definition of situational awareness. It explains the complex process of maintaining situational awareness, focuses on how it is lost and proposes prevention and recovery strategies.
+This briefing note is intended to help the reader gain and maintain situational awareness, to prevent falling into the traps associated with its loss and to avoid the negative effects of its loss on flight safety.
+2 Introduction
+A widely accepted definition of individual situational awareness comes from Endsley (1988) :
+
+
+
+Situational awareness is
+
+The perception of the elements in the environment within a volume of time and space,
+The comprehension of their meaning and
+The projection of their status in the near future.
+
+
+
+
+
+The Aircrew Incident Reporting Scheme (AIRS) model in Figure 1 illustrates the most common factors that determine a pilot’s situational awareness. As developed by Airbus and British Airways, AIRS contains various personal, informational, environmental and organizational influences that affect crew actions and, in turn, can be affected by how the crew performs.
+Figure 1: Elements of Situational Awareness
+
+The main components of situational awareness are:
+
+Environmental awareness: Awareness of other aircraft, communications between air traffic control and other aircraft, weather and terrain.
+Mode awareness: Awareness of aircraft configuration and flight control system modes. The latter includes such aspects as speed, altitude, heading, in armed/acquire/hold modes and the state of flight management system (FMS) data input and flight-planning functions.
+Spatial orientation: Awareness of geographical position and aircraft attitude.
+System awareness: Awareness of the aircraft systems.
+Time horizon: Awareness of time with respect to when required procedures or events, such as time to initial approach turn, will occur.
+
+3 Data
+Situational awareness is not just a theoretical notion. It is pertinent to most accidents or incidents, it is real, and its absence causes accidents. Research from The Australian Transportation Safety Board (ATSB) indicates that human factors are a contributing cause in around 70 percent of all incidents and accidents. Approximately 85 percent of incident reports include a mention of loss of situational awareness. Degraded situational awareness can lead to inadequate decision making and mistakes. This is illustrated in Table 1, which identifies causal factors in approach and landing accidents identified in the Approach and Landing Accident Reduction (ALAR) Toolkit.
+Table 1. Causal Factors in Approach and Landing Accidents
+
+
+
+Factor
+% of Events
+
+
+
+
+Inadequate decision making
+74%
+
+
+Omission of action or inappropriate action
+72%
+
+
+Non-adherence to criteria for stabilized approach
+66%
+
+
+Inadequate crew coordination, cross-check and back-up
+63%
+
+
+Insufficient horizontal or vertical Situational Awareness
+52%
+
+
+Inadequate or insufficient understanding of prevailing conditions
+48%
+
+
+Slow or delayed action
+45%
+
+
+Flight handling difficulties
+45%
+
+
+Deliberate non-adherence to procedures
+40%
+
+
+Inadequate training
+37%
+
+
+Incorrect or incomplete pilot/controller communication
+33%
+
+
+Interaction with automation
+20%
+
+
+
+4 Issues and Factors Involved
+Gaining and Maintaining Situational Awareness
+Situational awareness is having an accurate understanding of what is happening around you and what is likely to happen in the near future. As shown in Figure 2, Endsley’s definition suggests that situational awareness includes three processes:
+
+The perception of what is happening (Level 1)
+The understanding of what has been perceived (Level 2)
+The use of what is understood to think ahead (Level 3)
+
+Figure 2: Gaining and Maintaining Situational Awareness
+
+ 
+
+Level 1 — Perception: Scanning and Gathering Data
+
+To build a mental model of the environment, it is necessary to gather sufficient and useful data by using our senses of vision, hearing and touch to scan the environment. We must direct our attention to the most important aspects of our surroundings and then compare what we sense with the experiences and knowledge in our memory. It is an active process and requires significant discipline, as well as knowing what to look for, when to look for it and why.
+ 
+
+Level 2 — Representation: Understanding and Creating Our Mental Model
+
+Our understanding is built by combining observations from the real world with knowledge and experience recalled from memory. If we successfully match observations with knowledge and experience, as shown in Figure 3, we have developed an accurate mental model of our environment. This mental model has to be kept updated with inputs from the real world by paying attention to a wide range of information.
+Figure 3: Understanding the Situation by Matching Mental Model and Real World
+
+ 
+
+Level 3 — Projection: Thinking Ahead and Updating the Model
+
+Our understanding enables us to think ahead and project the future state of our environment. This step is crucial in the pilot’s decision-making process and requires that our understanding, based on careful data gathering, be as accurate as possible.
+Situational Awareness and the Decision-Making Process
+Situational awareness is strongly related to the decision-making process. Figure 4 shows a simple model of the tight coupling between situational awareness and decision making. Situational awareness must precede decision making because the operator has to perceive a situation in order to have a goal.
+Figure 4: Situational Awareness and Decision Making
+
+The Decision-Making Loop
+Our actions are driven by goals. To help us act to achieve our goals, we use our mental models to anticipate the outcome of our action. This can be thought of as feedforward.
+The more we anticipate accurately, the more efficient we become in our tasks, the more energy we save, and the more we can preserve resources for unexpected situations. Conversely, by comparing the results of our actions with set goals, we can modify our actions or, if necessary, our goals. This feedback is vital to the success of the process.
+Feedback and anticipation help keep our mental picture of the world aligned with the real world.
+A major loss of situational awareness occurs when inappropriate mental representations are activated in spite of real world evidence. People then act “in the wrong scene,” and seek cues confirming their expectations, a behavior known as confirmation bias.
+In other words, situational awareness influences our decision making and allows us to stay ahead of the aircraft:
+
+It helps us develop a mental picture of the world around us and use that mental picture to anticipate the future, to feed-forward.
+Because of the close coupling of real-world feedback, mental anticipation and adaptation of actions, we adjust our mental picture and modify our actions, and sometimes our goals, in response to differences between what we expect to happen and what is really happening. That is why we often feel that we have lost control when what we expect to happen does not happen.
+
+5 Losing Situational Awareness and How to Deal With It
+Many factors can cause a loss of situational awareness. Errors can occur at each level of the process previously described. Table 2 lists a series of factors related to loss of situational awareness, conditions contributing to these errors and guidelines to prevent them. Refer to the Situational Awareness Quick Reference and Reminder for a more exhaustive list of best practices, prevention strategies and lines of defense. Accident and incident reports provide a good basis for determining the relative effect of the various factors on situational awareness.
+Table 2. Factors involved in Loss of Situational Awareness
+
+
+
+Factors
+Prevention Guidelines
+
+
+Level 1: Perception
+
+
+
+
+Data are not observed, either because they are difficult to observe or because the observer’s scanning is deficient due to:
+
+Attentional narrowing
+Passive, complacent behavior
+High workload
+Distractions and interruptions
+
+
+
+
+Visual Illusions
+
+Confirmation bias: Information is misperceived. Expecting to observe something and focusing our attention on this belief can cause you see what you expect rather than what is actually happening.
+
+
+
+Scanning requires discipline:
+
+Actively scan for new data, use alternative sources
+Have a wide area of attention
+Use checklists
+Reduce workload and share tasks
+If distracted, return to the starting point
+Communicate information
+
+
+Be aware of and anticipate the existence of visual illusions. Cross-check with flight instruments. Trust the instruments.
+Never trust your expectations. Always check your observations and expectations with other sources of data or other crewmembers. Regularly update your mental model.
+
+
+
+
+Level 2 and 3: Understanding and Thinking ahead
+
+
+
+
+Use of a poor or incomplete mental model due to
+
+Deficient observations (Level 1 problem)
+Poor knowledge/experience
+
+
+Use of a wrong or inappropriate mental model, over-reliance on the mental model and failing to recognize that the mental model needs to change.
+
+
+
+
+Understanding is improved with experience because there are more memory situations — patterns and associations — to use in the comparison.
+Don’t rush assessments; always question your mental model by:
+
+Checking for contradictory elements.
+Checking the reliability of each piece of information
+Projecting the future state and comparing it with your goal
+Setting markers for confirmation
+
+
+
+
+
+
+
+6 Key Points
+
+Situational awareness is essential for flight safety, and its influence and impact are pervasive.
+Situational awareness is gained by using the senses to scan the environment and compare the results with mental models.
+Planning, communication and coordination for upcoming flight phases, goal setting and feedback are essential ingredients of situational awareness and decision making.
+Inattention, distraction and high workload threaten situational awareness.
+Three proven ways to prevent the loss of situational awareness are to:
+
+Implement proven best practices
+Adhere to ICAO recommendations
+Follow company standard operating procedures
+
+
+
+7 Associated OGHFA Material
+The following OGHFA material should be reviewed along with the above information:
+Briefing Notes:
+
+Human Factors Strategy
+Pilot-Controller Communications
+Managing Interruptions and Distractions
+Automated Cockpit Guidelines
+Flight Preparation and Conducting Effective Briefings
+
+Visuals:
+
+Situational Awareness
+Managing Interruptions and Distractions
+Operations Golden Rules
+
+Checklists:
+
+Situational Awareness Quick Reference and Reminder
+
+Situational Awareness: Loss of situational awareness is a factor in many of the situational examples listed. The following are a few of those relevant to this subject:
+
+CFIT After Aborted VOR-DME Approach
+Disorientation During Vectored Go-Around
+Landing At Wrong Airport
+Non-stabilized Approach After ATC-Requested Runway Change
+Spatial Disorientation
+
+8 Additional Reading Material and Websites References
+8.1 Additional Reading Material
+
+Human Factors in Fatal Aircraft Accidents. BASI (now ATSB), April 1996
+Endsley, M. R. (1988). Design and evaluation for Situational Awareness enhancement. Proceedings of the Human Factors Society 32nd Annual Meeting (pp. 97-101). Santa Monica, CA: Human Factors Society.
+Sarter, N.B. & Woods, D.D. (1995). How in the world did we ever get into that mode? Mode Error and Awareness in supervisory control. Human Factors, 37 (1), 5-19
+Endsley, M. R. (1995) Towards a Theory of Situation Awareness. Human Factors, 37(1), 32-64.
+Endsley, M. R. (1997) The Role of Situation Awareness in Naturalistic Decision Making. In C. Zambock & G. Klein (Eds.), Naturalistic Decision Making (pp. 269-284). Mahwah, NJ: LEA
+Endsley, M. R., & Jones, D. G. (2001) Disruptions, Interruptions, and Information Attack: Impact on Situation Awareness and Decision Making. Paper presented at the Human Factors and Ergonomics Society 45th Annual Meeting, Santa Monica, CA.
+
+ 
+Related SKYbrary Articles
+
+Situational Awareness
+Pilot Workload
+
+
+
+
+
+Categories
+
+
+OGHFA,
+              Personal Influences,
+              Human Factors
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

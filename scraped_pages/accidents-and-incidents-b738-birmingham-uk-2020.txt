@@ -1,0 +1,282 @@
+B738, Birmingham UK, 2020
+
+
+
+
+
+
+
+
+
+
+
+  B738, Birmingham UK, 2020
+
+
+
+
+
+
+
+
+
+Summary
+
+On 21 July 2020, a Boeing 737-800 flight crew identified significant discrepancies when comparing their Operational Flight Plan weights and passengers by category with those on the Loadsheet presented. After examining them and concluding that the differences were plausible based on past experience, the loadsheet figures were used for takeoff performance purposes with no adverse consequences detected. It was found that a system-wide IT upgrade issue had led to the generation of incorrect loadsheets and that ineffective communication and an initially ineffective response within the operator had delayed effective risk resolution although without any known flight safety-related consequences.
+
+
+
+
+Event Details
+
+When
+
+21/07/2020
+
+
+
+Event Type
+
+
+GND,
+              LOC
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+Not Recorded
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 737-800
+
+
+
+
+
+
+
+
+
+Operator
+
+TUI Airways
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Birmingham International Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Palma de Mallorca
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Take Off
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+EGBB
+
+
+
+
+General
+
+Tag(s)
+
+
+              Inadequate Aircraft Operator Procedures,
+              Use of Erroneous Performance Data
+          
+
+
+
+
+GND
+
+Tag(s)
+
+
+              Passenger Loading
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Aircraft Loading
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 21 July 2020, the flight crew of a Boeing 737-800 (G-TAWG) being operated by TUI Airways on a passenger flight from Birmingham to Palma noticed a significant discrepancy (1,606 kg) between the estimated weights on their Operational Flight Plan and those on the loadsheet, the latter being lower. Having carefully examined the various differences and rationalised the likely origin of various discrepancies, they used the loadsheet figures for calculating the takeoff performance figures and the subsequent departure and flight proceeded normally and an error in the derivation of the loadsheet weights was only identified subsequently.
+Investigation
+It was noted that the 41 year-old Captain had a total of 10,262 hours flying experience which included 2,615 hours on type. The corresponding experience of the First Officer was not recorded.  
+What happened and why 
+It was found that IT system software, which had been upgraded during a period when flight operations had been temporarily suspended due to COVID-19 restrictions, had been released with an error which meant that any female passenger who used or was given the title ‘Miss’ at check in was identified as a child (43kg) instead of an adult female (69kg). The consequence of this on the flight from Birmingham was that 38 females were recorded as children resulting in ZFW (Zero Fuel Weight) being 1244 kg below the correct figure.  
+The consequences for the flight investigated were that the weight of the passengers shown on the loadsheet was 1,244 kg below the actual weight and therefore outside the loadsheet LMC (Last Minute Changes) limit for the Boeing 737 (500 kg) specified in the approved Ground Operations Manual (GOM). However, although this meant that an incorrect takeoff weight (88.3% N1 instead of the correct 88.9% N1) had been used for takeoff performance planning purposes, the result did not compromise safe operation of the aircraft.
+It was found that the underlying origin of the problem was not confined to the flight investigated but was due to changes in the “integrated check-in system” used by the operator, which had been upgraded “as part of a wider system upgrade for the airline industry”. Prior to this upgrade being implemented, ‘front line’ users had been invited to consider any risks that might occur as part of the upgrade but none were identified. The usual “User Acceptance Testing” (UAT) then found that the system had “functioned as expected”. It was found that meetings held in London in February 2020 had discussed the various titles used for passengers - such as Mr, Mrs and Dr - in relation to standard IATA usage but the potential relationship between a passenger’s title and the appropriate standard weight allocated was not discussed. It was also found that “no specific test scenarios looking at passenger titles were examined in the UAT”. 
+The first signs of a problem after the upgraded IT system had been implemented occurred almost two weeks before the formal report which led to this Serious Incident Investigation was generated. An adult female passenger who had been checked in for a flight as a child was also shown on the load sheet as a child. This had been spotted by both the flight dispatcher concerned and the operator’s systems delivery manager but although a check of the flight revealed two other instances where the same error had occurred and the immediate errors were corrected, no safety or ground operations report on the matter was submitted.
+However, it did result in the informal introduction of a temporary  ‘fix’ in the form of a daily check to ensure that all adult females were referred to as ‘Ms’ on the relevant documentation, with a secondary check by Operations staff against passenger loads. A more formal interim system of checks to deal with the problem was identified which involved a team checking each booking on all upcoming flights and changing all adult females with the title ‘Miss’ to ‘Ms’ and check-in staff were also asked to “pay particular attention to female passengers and double check that they showed in the system as females rather than children when presenting themselves at check-in or at the boarding gate”. However, although this request was sent out electronically to all ground stations it was only as a recommendation and was not prescribed through an amendment to the Ground Operations Manual.
+These ‘team’ checking arrangements were carried out every afternoon and evening for the following day’s flights and, where possible, checked again every morning before flights departed. An initial attempt to fix the software problem was only capable of changing bookings automatically from ‘Miss’ to ‘Ms’ before check-in so that bookings using the title “Miss” which had already checked in, including online from 24 hours before departure were not amended. Since the interim checking teams routinely did not work over the weekend of 18/19 July and normal opening of online check-in early on the morning of Monday 20 July for the first UK departures on the following day (including the exemplar departure which triggered the Investigation) together meant that significant error in respect of three UK departures early on the morning Tuesday 21 July was not proactively detected. 
+As to the ultimate origin of the IT system problem, it was noted that the airline was part of a larger German-based airline group for which shared system programming was not done in the UK but “in a country where.....the title ‘Miss’ was used for a child and ‘Ms’ for an adult female”.
+The Conclusion of the Investigation was formally documented as follows:
+A flaw in the IT system used by the operator to produce the loadsheet, meant that an incorrect takeoff weight was passed to the flight crew.  As a result, the aircraft departed with a takeoff weight 1,244 kg more than stated on the load sheet.  An upgrade of the system producing load sheets was carried out to prevent reoccurrence.    
+Interim Safety Action taken by TUI Airways following their awareness of the problem pending corrective action in respect of the underlying IT software issue was noted as having included the following:
+
+A member of the Systems team manually checked the flights daily to ensure that the title ‘Miss’ was amended to ‘Ms’.
+A secondary check was instigated with the Operations department against the booked passenger loads.
+A reminder briefing was given to Ground Handling Agents to ask them to be alert at check-in or during boarding for any adult female passengers showing as Miss or a child.
+A formalised procedure for a Customer Care Executive to check bookings was finally instituted on 24 July 2020.
+
+The Final Report was published on 8 April 2021. No Safety Recommendations were made.
+Related Articles
+
+Aircraft Load and Trim
+Operational Flight Plan
+Aircraft Performance
+Maximum Take-Off Mass (MTOM)

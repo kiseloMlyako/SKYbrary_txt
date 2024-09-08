@@ -1,0 +1,126 @@
+Interference to GNSS Signals
+
+
+
+
+
+
+
+
+
+
+
+  Interference to GNSS Signals
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Aviation operations increasingly rely on the Global Navigation Satellite System (GNSS) (GNSS) to improve navigation performance and to support air traffic control surveillance functions. However, the full benefits of GNSS can only be achieved if GNSS signals are adequately protected from electromagnetic interference which can cause loss or degradation of GNSS services.
+Sources of Interference
+Potential sources of interference to GNSS include both systems operating within the same frequency bands as GNSS and systems operating outside those bands. Interference can be intentional (“jamming”) or unintentional.
+Repeaters and Pseudolites
+Certain non-aeronautical systems transmit radio signals intended to supplement GNSS coverage in areas where GNSS signals cannot be readily received (e.g. inside buildings). These systems include GNSS repeaters and pseudolites. GNSS repeaters (also known as “re-radiators”) are systems that amplify existing GNSS signals and re-radiate them in real-time. Pseudolites are ground-based systems that generate ranging signals similar to those transmitted by GNSS satellites. When these systems do not operate under appropriate conditions, harmful interference may be caused to the reception of the original GNSS signals by aircraft and other aeronautical systems (such as the reference receivers used in augmentation systems). This may disrupt a wide range of GNSS applications.
+GNSS Jammers
+GNSS jammers are devices which intentionally generate harmful interference to GNSS signals to impair or deny their reception. They may be employed for various reasons, typically with the intent of disabling devices that record and/or relay GNSS position information (e.g. for tracking or fee collection purposes). However, the interference they generate can potentially affect all users of GNSS, not only the intended targets of the jamming. Thus, they may have an impact far greater than intended by their operator. Usage of GNSS jammers may proliferate further if GNSS-based fee collection or tracking services are not adequately designed, e.g. if the simple use of a jamming device enables the avoidance of the charge or tracking.
+Systems Transmitting Outside the GNSS Frequency Bands
+In addition to the threats described above, systems operating outside the GNSS frequency bands that are not properly designed or are inappropriately regulated and operated may interfere with GNSS.
+Related Articles
+
+Impact of Space Weather on Aviation
+Use of Personal Electronic Devices (PEDs) on Aircraft
+
+Further Reading
+
+ICAO EB 2011/56: "Interference to Global Navigation Satellite System (GNSS) Signals"
+European GNSS Contingency/Reversion Handbook for PBN Operations: Scenarios and Options. PBN Handbook No.6, EUROCONTROL, Feb 2019
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

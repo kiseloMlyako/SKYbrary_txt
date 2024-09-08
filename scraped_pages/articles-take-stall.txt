@@ -1,0 +1,155 @@
+Take Off Stall
+
+
+
+
+
+
+
+
+
+
+
+  Take Off Stall
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Control 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Take off stall is a stall which occurs immediately after an aircraft attempts to get airborne. When it occurs following rotation at or near the applicable Vr, it may be attributable to an unintended attempt to take off without the appropriate wing configuration set or because the necessary thrust has not been set.
+Other possible origins of a take off stall are an attempt to get airborne with frozen deposits on the airframe, especially the wings - which is covered in the separate article "Aircraft Ground De/Anti-Icing", where an aircraft is not actually loaded in the manner described on the certified and accepted load and trim sheet, when an encounter with negative wind shear occurs or due to aircraft system malfunctions
+Prevention and Recovery
+The main means of preventing such occurrences is the effective use of Normal Checklists. The primary means of alerting pilots to an aircraft status, including but not limited to a wing configuration, which is not within the range approved for take off and stated in the aircraft AFM limitations, is the Takeoff Warning System (TOWS), sometimes called the Takeoff Configuration Warning System (TOCWS). This system often forms part of a wider system of crew alerting on modern aircraft but will always include an audible alert.
+In some cases, it may be possible for a pilot to retain control of an aircraft which gets airborne with an incorrect configuration, but neither ground awareness nor simulator training for such a scenario is a regulatory requirement. Whilst the Stall Warning System is likely to be activated as soon as the aircraft is sensed as being in flight mode, the QRH memory drills applicable to recovery from an incipient stall are not immediately applicable to the circumstance where at least a modest rate of climb is likely to be required.
+Relevant Regulatory Requirements
+Aircraft design certification currently detailed under FAR 25.703 and EASA CS 25.703 is based upon the principles first brought into effect in FAA Part 25 on 1 March 1978 in AL25-42 and in JAR 25 on 1 January 1979 in AL5. Prior to these standards, there was no such requirement. The requirements were and remain the same and the background to their current version is described in FAA AC 25.703-1.
+The key change from the initial specification, in which TOWS were acceptable if designed as single channel systems with only limited built in monitoring, was the 1993 recognition that the safety level of these systems should be increased so as to classify them as essential. This was achieved by requiring system design in accordance with FAA AC 25.1309-1A and its EASA counterpart, AMC 25.1309 because of a recognition that a inoperative TOWS should be regarded as having a severe effect on safety, TOWS activation on western built aircraft currently in service is thereby rarely false and can be generated only during the initial part of the take off roll. System design is also required to include immediate annunciation to the flight crew should a system failure be identified or if an interruption to necessary electrical power occurs.
+The current certification requirement, which extends the provisions of paragraph 1309 to certification of TOWS under paragraph 703, covers the majority of aircraft types or has been voluntarily accepted in the case of some older types still in production based on type certificates which predate the more stringent design criteria. However, ‘grandfather rights’ still affect the TOWS design installed on some older aircraft, including most notably in terms of the world fleet size, the Douglas DC9 and MacDonnell Douglas MD series derivatives.
+In operational terms, the original exclusion of TOWS from both FAA and JAR / EASA MMELs has been sustained so that release to service / despatch with the TOWS inoperative is not permitted. However, there is currently no universal regulatory requirement for a TOWS operational check to be carried out before every flight even though such a practice is quite common.
+It should also be noted that in respect of the content of Crew Checklists, there is no requirement under EU OPS for them to be specifically approved, although the Operations Manual which contains checklists are subject to approval as a whole. The overall approval of an Operation will include an acceptance of the way checklists are used as well as focusing particular attention paid to any differences that exist between the ones used and the equivalent aircraft manufacturer’s standard versions. Under the FAA System, checklists must be approved under FAR 121.315and are expected to take available guidance material into account to obtain that approval, so that the effect is similar to the European approach.
+Human Performance
+According to the 1978 preamble to AL25-42 to the FAR which introduced TOWS, the system was originally introduced to serve as a “back up for the checklist, particularly in unusual situations, e.g. where the checklist is interrupted or the takeoff delayed”. In many documented investigations of accidents and serious incidents relating to take off stall, the TOWS has, for various reasons, been inoperative at the same time as crew discipline in relation to checklists has been poor.
+In many instances, the actual crew response to a stall protection system activation at Vr has been to add thrust rather than reject the take off. Since Vr can never be less than V1 for Performance ‘A’ aeroplanes and is almost always quite a lot higher, this “instinctive” response is one which needs to be at least discussed during training. This response is of particular concern given that in almost all documented cases, the Stall Protection System has generated a warning as soon as the aircraft has sensed flight mode, which can be sensed from the nose landing gear raised at rotation.
+Normal Checklists
+Normal checklists used with sufficient discipline and in accordance with effective SOPs can ensure that pilots remain appropriately focussed on their prioritised tasks by removing the risks associated with divided attention and with any effects arising from stress, whether of self-generated or external origin, or fatigue. Most checklists are read from a hard copy or a screen and require a specific response from either PF or the PM but on screen checklists with an aural readout based on manual sequencing by the PM do exist.
+Take-off stall events attributed to attempts to take off without setting the flaps / slats to an approved take off position invariably involve the omission of the checklist item(s) relating to that action, usually due to the interruption of a checklist prior to its completion. This problem has been partially attributed to a general absence of effective CRM and flight crew discipline but has also been indirectly related to variation in the SOP for the selection of take off flap depending on the earliest and latest times they should be selected in relation to push back and/or taxi out towards the runway. An additional complication may exist in respect of any on-stand or remotely-sited ground de/anti-icing, which may require a delay in wing configuration compared to normal procedures. This may justify an additional checklist to follow completion of such a de/anti-icing treatment or rely on the subsequent pre take off checklist.
+All on-screen checklists have the advantage that any deferred items can be highlighted which, given the variable SOPs for deployment and checking of flaps/slats sometime between the completion of engine start and arrival at the departure runway, has proved extremely useful.
+Effective CRM is obviously a major factor in the effective use of Check Lists.
+Stall Awareness Training
+In the absence of any regulatory requirement, most operators limit any attention given to crew awareness of this issue to ground school and consider that the primary focus should be on avoiding the situation by creating the right attitude to SOP compliance.
+Useful Precursors
+Relevant Precursor Events detectable by suitably configured OFDM programmes include the absence of a prescribed pre fight test of the TOWS system, all recorded activations of the TOWS system and any change to flap settings when a departing aircraft is lined up on the take off runway. In the absence of OFDM data, a suitable safety culture may facilitate the raising of ASRs after instances of late configuration which can contain - or allow the gathering of - useful information about how lapses in the application of SOP have arisen
+Relevant Precursor Observations may include LOSA observations relating to pre flight checking of the TOWS system and use of checklists and especially with respect to deferred or temporarily overlooked items. They may also be available from recurrent training records if relevant trends in respect of checklist use and standards of crew cooperation are available and appropriately collated. Any unserviceability of TOWS systems should also be tracked to ensure that functional reliability is high and recognised by flight crew as such.
+Accident and Serious Incident Examples
+Over a long period, a number of fatal accidents and ‘near misses’ involving take off stall have occurred. The following is a list of events that involve incorrect aircraft configuration for all phases of flight, which includes events that resulted in loss of control on take off:
+
+
+F50, Helsinki Finland, 2021On 25 November 2021, a Fokker F50 departing Helsinki experienced an engine malfunction that resulted in an uncommanded propeller feathering. The associated engine continued to run until shutdown, during which time it began to overspeed. The aircraft landed safely, but the failure experienced was untrained, and this led to both direct and indirect consequences that resulted in a suboptimal crew response to the emergency. The Investigation also highlighted opportunities to improve aspects of the air traffic control emergency response during such emergencies and identified language proficiency certification issues.
+
+UAV, near Imsil-gun South Korea, 2009On 3 August 2009, control of a rotary UAV being operated by an agricultural cooperative for routine crop spraying in the south western part of South Korea was lost and the remote pilot was fatally injured when it then collided with him. The Investigation found that an inappropriately set pitch trim switch went unnoticed and the consequentially unexpected trajectory was not recognised and corrected. The context was assessed as inadequacies in the operator’s safety management arrangements and the content of the applicable UAV Operations Manual as well as lack of recurrent training for the operators’ qualified UAV remote pilots.
+
+AT75, vicinity Pokhara Nepal, 2023On 15 January 2023, an ATR 72-500 positioning visually for an approach to Pokhara suddenly departed controlled flight and impacted terrain. The aircraft was destroyed by the impact and all 71 occupants were killed. A type-experienced Training Captain was overseeing new airport familiarisation for a Line Captain acting as Pilot Flying. The Training Captain unintentionally feathered both propellers in response to a call for Flaps 30 but did not recognise their error or respond to calls that no power was coming from the engines. The airline’s operational safety-related processes and Regulatory oversight of them were both assessed as comprehensively inadequate.
+
+A321, Charlotte NC USA, 2015On 15 August 2015, an Airbus A321 on approach to Charlotte commenced a go around but following a temporary loss of control as it did so then struck approach and runway lighting and the undershoot area sustaining a tail strike before climbing away. The Investigation noted that the 2.1g impact caused substantial structural damage to the aircraft and attributed the loss of control to a small microburst and the crew’s failure to follow appropriate and recommended risk mitigations despite clear evidence of risk given by the aircraft when it went around and available visually.
+
+MD82, Tarbes France, 2018On 16 January 2018, a McDonnell Douglas MD-82 attempting to land at Tarbes was subject to gross mishandling by the crew and the approach became unstable. A subsequent low level go-around attempt was then made without setting sufficient thrust which resulted in sustained and close proximity to terrain at an airspeed close to stall entry before the required thrust was eventually applied. The Investigation was hindered by non-reporting of the event but was able to conclude that multiple pilot errors in a context of poor crew coordination during the approach had caused confusion when the go around was initiated.
+
+
+...further results
+
+
+Related Articles
+
+Stall
+Use of Erroneous Parameters at Take-Off
+Aircraft Load and Trim
+
+
+
+
+
+Categories
+
+
+Loss of Control
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

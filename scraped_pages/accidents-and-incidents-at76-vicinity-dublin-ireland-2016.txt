@@ -1,0 +1,328 @@
+AT76, vicinity Dublin Ireland, 2016
+
+
+
+
+
+
+
+
+
+
+
+  AT76, vicinity Dublin Ireland, 2016
+
+
+
+
+
+
+
+
+
+Summary
+
+On 2 September 2016, an ATR72-600 cleared to join the ILS for runway 28 at Dublin continued 800 feet below cleared altitude triggering an ATC safe altitude alert which  then led to a go around from around 1000 feet when still over 5nm from the landing runway threshold. The Investigation attributed the event broadly to the Captain’s inadequate familiarity with this EFIS-equipped variant of the type after considerable experience on other older analogue-instrumented variants, noting that although the operator had provided simulator differences training, the -600 was not classified by the certification authority as a type variant.
+
+
+
+
+Event Details
+
+When
+
+02/09/2016
+
+
+
+Event Type
+
+
+CFIT,
+              HF
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+ATR ATR-72-600
+
+
+
+
+
+
+
+
+
+Operator
+
+Stobart Air
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Edinburgh Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Dublin Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Missed Approach
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+EIDW
+
+
+
+
+General
+
+Tag(s)
+
+
+              Approach not stabilised,
+              PIC less than 500 hours in Command on Type,
+              Copilot less than 500 hours on Type,
+              CVR overwritten,
+              Delayed Accident/Incident Reporting,
+              Deficient Pilot Knowledge
+          
+
+
+
+
+CFIT
+
+Tag(s)
+
+
+              Vertical navigation error
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Distraction,
+              Inappropriate crew response - skills deficiency,
+              Ineffective Monitoring,
+              Procedural non compliance,
+              Ineffective Monitoring - SIC as PF
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 2 September 2016, an ATR72-600 (EI-FAW) being operated by Stobart Air for Aer Lingus on a scheduled international passenger flight from Edinburgh to Dublin and cleared to join the ILS localiser for runway 28 at Dublin in day VMC not below 2000 feet continued descending without clearance to just over 1000 feet above runway threshold elevation when approaching 5 nm from touchdown before beginning a go around prompted by ATC querying the flight’s altitude following the triggering of an MSAW alert. Radar vectoring to a further ILS approach to land was uneventful.
+Investigation
+Three days later, once they had been made aware of the event as the result of an MOR submitted by the controller involved, the Irish AAIU commenced a Serious Incident Investigation. As the flight crew had delayed reporting to their locally based company and even when aware, the company had not then notified the AAIU, relevant data from both the CVR and FDR were overwritten. However recorded ATC data were available and the aircraft operator did subsequently provide some relevant QAR data captured by their OFDM system.
+It was found that the 51 year-old Captain had a total of 11,000 flying hours of which 60 hours were on the ATR72-600, all achieved after he had recently joined the operator as a direct entry Captain with no previous experience of the ‘glass cockpit’ ATR72-600 but with 7,200 hours experience on other ATR42/72 variants. The First Officer had gained his Commercial Pilot Licence (CPL) the previous year and had total of 441 flying hours of which 203 hours were on type. It was noted that the Captain’s licence had been issued by the Spanish regulator and the First Officer’s by the Irish regulator.
+What Happened
+It was noted that the flight was being made with a current ADD which recorded that the rudder Travel Limitation Unit (TLU) was inoperative in the AUTO position so that manual selection between the low and high speed positions was required. It was further noted that the TLU system and roof panel position/fault indication on the ATR72-500, with which the Captain was more familiar, was identical to that on the ATR72-600 with the exception that the EFIS of the latter also provided an Engine Warning Display caution in the event of a system fault. The flight crew procedure in the event of operations with this ADD, which was also the same for both the -500 and -600 versions of the ATR72, required the crew to manually alternate between the high and low speed positions during climb and descent as particular airspeed were passed.
+It was established that with the crew making the second flight of their four sector duty and the First Officer as PF the flight had been initially cleared by ATC to descend to 3,000 feet routing direct to waypoint ‘LAPMO’ (see the ILS approach chart below) and to contact Dublin Director for further instructions. On doing so, the flight was re-cleared to route direct to ‘MAXEV’ for an ILS approach to runway 28, descend to 2,000 feet and call established on the ILS LOC. En route to MAXEV, the flight was given a speed restriction of 190 KIAS so as to maintain separation from approach traffic 7.5 nm ahead in the approach and shortly afterwards instructed to reduce speed to 160 KIAS on reaching ‘MAXEV’.
+
+The runway 28 ILS approach at Dublin. [Reproduced from the Official Report]
+Passing approximately 3500 feet five minutes after being instructed to reduce speed to 190 KIAS, the airspeed was recorded as 202 KCAS and the Captain selected the rudder TLU to low speed. Because this was over 20 knots above the speed at which this should be done, a red bar automatically appeared on the PFD airspeed scales indicating that an overspeed condition existed. This situation - unanticipated by the Captain - was subsequently found to have confused the Captain who had then become preoccupied with this ‘problem’ to the exclusion of other critical tasks. It was noted that the Captain’s action would not have any immediate consequence and would not have led to the annunciation of any other associated caution.
+Just over half a minute later, having reached 2000 feet approximately 2.5 nm before MAXEV, the aircraft continued descending at 2,000 fpm and 185 KIAS. Shortly afterwards, it passed MAXEV at 1670 feet, still descending, and at 181 KIAS and a right turn began to establish on the ILS LOC from the south and the rate of descent was reduced to 1,200 fpm.
+Nineteen seconds after passing ‘MAXEV’ as the aircraft descended through 1,200 feet, an MSAW alert was triggered on the controller’s radar screen which prompted them to ask the flight to confirm it was established on the localiser which it had not reported despite being past ‘MAXEV’. Whilst the aircraft continued to descend, the Captain stated that a go around was intended although by the time the climb began, the aircraft had reached 1075 feet QNH - equivalent to 1038 feet arte - whereas the ILS GS altitude at that point was 900 feet higher. It was noted from the available flight data that throughout this attempt to establish on the ILS, the aircraft had been remained ‘clean’ i.e. no flap had been selected and the landing gear had remained up.
+Whilst passing through a recorded 1,390 feet during the go-around at and 177 KCAS, the flaps were selected from zero to 15°. This resulted, in the absence of any power increase, in a linear reduction in airspeed to 145 KCAS when passing 2,600 feet after which speed started to slowly increase as the aircraft began to level at its cleared altitude of 3,000 feet. The flaps then remained at 15° for a further three minutes until they were selected to zero. Radar vectors for a second ILS approach were provided and it was completed without further event. The crew then continued with their second Dublin - Edinburgh return before, with their flying complete for the day, the Captain made an entry in the Stobart Air internal online safety reporting system stating that on the flight concerned:
+“During approach, performed go around for unstable approach due to TLU fault - to stop overspeed in flight otherwise AC would be grounded. All the approached was always conducted under the control of crew in safe conditions.”
+This report was subsequently forwarded to the regulator by the operator exactly as submitted.
+A subsequent further analysis of the available QAR data by the aircraft manufacturer found that shortly after prematurely selecting the rudder TLU from high speed to low speed, the Captain had also, possibly inadvertently, disconnected the AP. This scenario matched the First Officer’s statement during interview that at this point, the Captain had “had his hand gripped on the control column while using the radio transmit button” which had led him to presume that the Captain had indeed disconnected the AP. He stated that this led him to ask if the Captain had taken control of the aircraft but, even after repeating the question, he had received no reply. He stated that after approximately fifteen seconds, he had therefore “resumed manual control of the aircraft to return it to the localiser and, as the speed increased, again had attempted to arrest the continuing descent below the ILS GS".
+Two seconds before ATC received their MSAW alert with the aircraft passing 1200 feet, the AP was briefly re-engaged, although pitch inputs were then recorded by the Captain who then disconnected the AP and for the next 24 seconds both pilots were found to have been making pitch control inputs. It was during this period that the go around had been commenced from 1100 feet. On interview the First Officer stated that he had been PF for the initiation of the go around but that at approximately 1,300 feet, the Captain had taken control and had personally “configured the aircraft for a go around”. This had included selection flaps to 15°, an action which, together with their return to zero after levelling at 3000 feet, the Captain stated during interview he had been unaware of. It was also not clear how or even whether this second takeover of control by the Captain had been positively communicated, but the First Officer stated that control of the aircraft had been returned to him on reaching 3000 feet.
+It appeared that an attempt by the crew to debrief the event during the subsequent turn round was interrupted and they only returned to the matter during the subsequent filing by the Captain of the online occurrence report using the First Officer’s login as the Captain “did not have one”.
+Discussion
+It was noted that there was a provision in the Stobart Air OM in respect of restrictions on pairing of new direct entry Captains with other ‘restricted’ pilots such as those with low experience to be determined at the discretion of the Flight Operations Manager. In this case, it was found that there was no indication in the Captain’s Training Records that any such restrictions had been set nor were they required to be. However, it was considered that all the evidence assembled by the Investigation “indicated that there was a sub-optimal level of combined ATR72-600 experience on the flight deck” and noted that the Captain “had acknowledged during his interview that he was not familiar with a number of differences between the two versions of the aircraft” and in particular had “mistakenly believed that there were differences in how the TLU operated in manual mode on the ATR72-600 compared to the ATR72-500”.
+Observations made in respect of conduct of the flight included:
+
+it was likely that the initiating factor in the mismanagement of the flight had been the Captain’s premature selection of the rudder TLU to low speed and the distraction of an indicated overspeed which, with the AP disconnected in response had the led to (according to the account of events he gave at interview) to him “continuing to cycle the TLU (roof panel) switch”. During the 2½ minutes which elapsed between the initial selection of the TLU to low speed and the initiation of the go around, it was noted that the Captain “did not indicate to the Investigation that any other actions were completed” whereas his responsibilities as PM at this time should have included monitoring the process of capturing the ILS and conducting the approach and before landing checklists. In effect, it could be deduced that this distraction had resulted in him ceasing to monitor the position and configuration of the aircraft at a critical time during which the flight failed to follow its ATC clearance. In particular it was clear that neither pilot had noticed that descent was continuing below the ILS GS and only the MSAW-triggered ATC call had brought this to their attention. It was also clear that “there were periods when the aircraft was flying without the certainty that it was being directly controlled by either of the pilots, or by the autopilot”.
+Despite the fact that VMC prevailed and the Captain’s claim that “the ground was in sight”, it was concluded that the prevailing situation in the flight deck during the 2½ minute period identified above, which included the First Officer’s period of uncertainty as to whether or not he still had control, would have made it unlikely that any low level VFR traffic to the east of the airport would have been detected.
+Although no CVR data was available, it was considered that during the go around, there had quite clearly been a breakdown in flight crew communication and co-ordination. Of note in this respect was the fact that both pilots were simultaneously making control column pitch inputs.
+
+In respect of the Captain’s release for unsupervised flying on the -600 version of the ATR72, it was noted that the available evidence in the aircraft operator’s pre-release training records indicated although there had been no suggestion that the Final Line Check was anything other than satisfactory, earlier entries had highlighted that he “lacked familiarity with the ‘-600’ version of the ATR72”. The flight management interface of the -600 EFIS-based flight deck was without question rather different to that of the -500 version (see the comparative illustration below) and there was also no evidence that he had any previous experience on any aircraft type with an EFIS flight deck.
+
+The ‘conventional’ ATR72-500 flight deck (left) & that of the EFIS ATR72-600 version (right). [Reproduced from the Official Report]
+It was also noted that the applicable EASA ‘Type Certificate Data Sheet’ stated that the designations ‘ATR72-500’ and ‘ATR72-600’ are merely “commercial designations of the ATR72-212A variant and the latter is the only variant of the ATR72 type recognised by the EASA”. Despite the significant difference between the ATR72-600 and its “New Avionic Suite (NAS)” and older ATR72 variants, it was explicitly not considered by the EASA to meet the definition of a new aircraft type variant. However, it was nevertheless noted the EASA Regulations relevant to ATR72 pilot training when changing from the ATR72-500 version to the ATR72-600 version of the ATR72-212A variant did require the “provision of differences training” but without specifying what this should constitute.
+The Stobart Air OM did not - and was not required to - specify any threshold of flying recency or training. When employing the Captain, the company was aware that his five day classroom-only -500 to -600 differences course had been completed almost three years previously and had not been examined and knew that he had not then done any ATR72-600 simulator training or flying. On employment with Stobart Air, immediately following six months flying the ATR72-500 for another operator, he had been provided with two ATR72-600 simulator training sessions which culminated in an Operator's Proficiency Check (OPC) before then being released to begin his -600 line training. The debrief notes from both the simulator sessions and line training were indicative of sound flying skills but poor grasp of the -600 NAS.
+The Probable Cause of the Serious Incident was determined as “while conducting an ILS approach, the aircraft was descended unintentionally to an altitude that triggered the ATC Minimum Safe Altitude Warning”.
+Four Contributory Factors were also identified:
+
+The Flight Crew lacked experience on the ATR72 ‘-600’ aircraft.
+The Captain became distracted by the manual operation of the (rudder Travel Limitation Unit) to the extent that the flight path was not adequately monitored.
+Inappropriate pitch inputs made to the Captain’s control column caused the autopilot to disengage.
+The level of flight deck communication and co-ordination between the flight crew was sub-optimal.
+
+Two Safety Recommendations were made as a result of this Investigation as follows:
+
+that Stobart Air should ensure that its flight crews understand the requirements of the Operations Manual Part A in relation to the preservation of recorded data and responsibilities of the flight crew for accurate reporting of occurrences. [IRLD2021001]
+that Stobart Air should review and amend the Operations Manual Part A relating to ‘Restricted Flying Flight Crew’ to account for differences between the ‘-500’ and ‘-600’ versions of the ATR72 series aircraft. [IRLD2021002]
+
+The Final Report of the Investigation was published on 15 January 2021.
+Related Articles
+
+Interruption or Distraction
+Type Certificate
+Crew Resource Management (CRM)
+Minimum Safe Altitude Warning (MSAW)
+Rudder
+Acceptable Deferred Defect
+Pilot Flying (PF) and Pilot Monitoring (PM)
+Cross-checking Process
+Cockpit Automation - Advantages and Safety Challenges

@@ -1,0 +1,355 @@
+Terrain Avoidance and Warning System (TAWS)
+
+
+
+
+
+
+
+
+
+
+
+  Terrain Avoidance and Warning System (TAWS)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Controlled Flight Into Terrain 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TAWS/GPWS
+Terrain Avoidance and Warning System (TAWS)
+Ground Proximity Warning System (GPWS)
+Enhanced Ground Proximity WarningSystem (EGPWS)
+Definition
+A system that provides the flightcrew with sufficient information and alerting to detect a potentially hazardous terrain situation and so the flightcrew may take effective action to prevent a CFIT event.
+Source: US FAA
+Description
+A Terrain Avoidance and Warning System (TAWS) is a safety net that automatically provides a distinctive warning to pilots when the their aeroplane is, based only on the radio altimeter reading and terrain closure rates derived therefrom, in potentially hazardous proximity to terrain.
+The first implementation of TAWS was Ground Proximity Warning System (GPWS) and was introduced in the 1970s as a means to combat the high incidence of CFIT accidents and near-accidents. Subsequent improvements added aeroplane configuration (e.g. landing gear status) and ILS glideslope deviation. This 'basic' GPWS was mandated in many countries and was responsible for a significant reduction in the number of CFIT accidents. However, it suffered from a significant limitation because it was dependent on the radio altimeter as the means to measure proximity to terrain which meant that there was insufficient time to avoid a sudden change in terrain in the form of steeply rising ground.
+From 1997, the Honeywell Enhanced Ground Proximity Warning System (EGPWS) which had been explicitly developed in order to overcome the above limitation, began to be fitted to aircraft. This system relates aircraft position, which should be from a GPS source which can be internal to the equipment or fed frim the aircraft FMS, to an almost worldwide terrain/obstacle/airport database which the equipment manufacturer regularly updates. A comprehensive set of reliable cautions and warnings can be generated which use both the radio altimeter and relative position. Subsequently, other OEMs produced similar systems and all have been generically identified by ICAO as Terrain Awareness and Warning Systems (TAWS). The terms EGPWS and TAWS have effectively become interchangeable and to avoid confusion, the original GPWS, which is becoming increasingly scarce, will be referred to in this article as 'basic GPWS'.
+Information provided by TAWS
+TAWS equipment is classified as Class A or Class B according to the degree of sophistication of the system. In essence, Class A systems are required for all but the smallest commercial air transport aircraft, while Class B systems are required by larger General Aviation (GA) aircraft and recommended for smaller commercial or GA aircraft. Full details of regulatory requirements are given later in this article.
+TAWS equipment must provide the following functions:
+
+A Forward Looking Terrain Avoidance (FLTA) function. The FLTA function looks ahead of the aircraft along and below its lateral and vertical flight path and provides suitable alerts if a potential CFIT threat exists.
+A Premature Descent Alert (PDA) function. The DA function of the TAWS uses the aircraft’s current position and flight path information as determined from a suitable navigation source and airport database to determine if the aircraft is hazardously below the normal (typically 3 degree) approach path for the nearest runway as defined by the alerting algorithm.
+An appropriate visual and aural discrete signal for both caution and warning alerts.
+Class A TAWS equipment must provide terrain information to be presented on a display system.
+Class A TAWS equipment must provide indications of imminent contact with the ground for the following conditions:
+
+Excessive Rates of Descent
+Excessive Closure Rate to Terrain.
+Negative Climb Rate or Altitude Loss After Take-off
+Flight Into Terrain When Not in Landing Configuration
+Excessive downward deviation from an Instrument Landing System (ILS) glideslope, Localizer Performance and Vertical Guidance (LPV), or Global Navigation Satellite System (GNSS) Landing System (GLS) glidepath.
+Voice callout “Five Hundred” when the airplane descends to 500 feet above the terrain or nearest runway elevation.
+
+
+Class B equipment must provide indications of imminent contact with the ground during the following aircraft operations:
+
+Excessive Rates of Descent
+Negative Climb Rate or Altitude Loss After Takeoff
+A voice callout “Five Hundred” when the airplane descends to 500 feet above the nearest runway elevation.
+
+
+
+The manufacturer may provide other functions in addition to the above.
+Aircraft Equipment
+Aircraft equipment operated by the pilot comprises:
+
+A control and indicator unit. The control and indicator unit contains, as a minimum, two lights: a red light to indicate a hard warning (imminent danger) and an amber light to indicate an alert (soft warning or caution).
+Class A systems must also include a horizontal situation display (HSI), usually integrated as a mode of operation of the EFIS.
+
+Requirement to carry TAWS equipment (ICAO)
+
+
+
+Aircraft Class
+Engine Type
+MTOM
+Passengers
+Mandated
+Remark
+Recommended
+
+
+
+
+Commercial Air Transport
+Turbine
+More than 5700kg
+More than 9
+Class A
+ 
+ 
+
+
+Commercial Air Transport
+Turbine
+Less than 5700kg
+5-9
+No
+ 
+Class B
+
+
+Commercial Air Transport
+Piston
+More than 5700kg
+More than 9
+Class B
+ 
+ 
+
+
+General Aviation
+Turbine
+More than 5700kg
+More than 9
+Class B
+Class A for aircraft first registered after 1 Jan 2011
+Class A
+
+
+General Aviation
+Turbine
+Less than 5700kg
+5-9
+No
+ 
+Class B
+
+
+Helicopter
+ 
+More than 3175kg
+More than 9
+Class B
+For IFR Flight
+ 
+
+
+
+Typical Class A System
+The table below illustrates a typical Class A TAWS system.
+
+
+
+Mode
+Condition
+Aural Alert
+Aural Warning
+
+
+
+
+1
+Excessive descent rate
+"SINKRATE"
+"WHOOP WHOOP PULL UP"
+
+
+2
+Excessive terrain closure rate
+"TERRAIN TERRAIN"
+"WHOOP WHOOP PULL UP"
+
+
+3
+Excessive attitude loss after take off or go-around
+"DON'T SINK"
+(no warning)
+
+
+4a
+Unsafe terrain clearance while gear not locked down
+"TOO LOW - GEAR"
+(no warning)
+
+
+4b
+Unsafe terrain clearance while landing flap not selected
+"TOO LOW - FLAP"
+(no warning)
+
+
+4c
+Terrain rising faster than aircraft after take off
+"TOO LOW - TERRAIN"
+(no warning)
+
+
+5
+Excessive descent below ILS glideslope
+"GLIDESLOPE"
+(no warning)
+
+
+6
+Advisory Callout(s)of Radio Height
+(for example) "ONE THOUSAND"
+(no warning)
+
+
+6
+Advisory Callout of Bank Angle
+"BANK ANGLE"
+(no warning)
+
+
+7
+Windshear protection
+"WINDSHEAR"
+(no warning)
+
+
+NOT MODE NUMBERED
+Terrain Proximity
+"CAUTION TERRAIN"
+"TERRAIN TERRAIN PULL UP"
+
+
+
+Response to a TAWS Activation
+TAWS is a safety net in which a (Hard) Warning indicates that the aircraft is in a dangerous situation and immediate action is required and an Alert (or soft warning) indicates an abnormal status in relation to terrain which invites prompt review and a possible change of flight path or aircraft configuration.
+Appropriate TAWS response procedures for flight crew are determined after careful study of aircraft type performance capability. They must be clearly defined by operators and, in the case of a Warning, should be followed without hesitation as soon as a triggered. Operators normally define different response procedures based upon memory drills for a Warning (sometimes called a Hard Warning) and an immediate review in the case of an Alert (sometimes called a Soft Warning).
+The Aircraft Flight Manual or Company Operations Manual must contain the procedures and instructions required for the avoidance of controlled flight into terrain, including limitations on high rate of descent near the surface, as well as detailing abnormal and emergency procedures.
+Related Articles
+
+Controlled Flight Into Terrain (CFIT)
+CFIT Precursors and Defences
+Response to a "PULL UP" Warning
+Energy Management during Approach
+Helicopter Terrain Awareness and Warning System (HTAWS)
+
+Further Reading
+ICAO
+
+ICAO Annex 6, Part 1, Chapter 6, Section 6.15: Aeroplanes Required to be Equipped with GPWS;
+ICAO Annex 6, Part 2, Chapter 6, Section 6.9: Aeroplanes Required to be Equipped with GPWS;
+ICAO Annex 6, Part 3, Chapter 4, Paragraph 4.4.4.: Helicopter Instruments, Equipmnt and Flight Documents.
+
+EASA
+
+IR-OPS CAT.IDE.A.150 Terrain Awareness Warning System (TAWS)
+IR-OPS AMC1 and GM1 to CAT.IDE.A.150 Excessive Downwards Glideslope Deviation Warning for Class A TAWS
+IR-OPS GM1 to CAT.OP.MPA.290 TAWS Flight Crew Training Programmes
+EU-OPS 1.665 - GPWS and TAWS;
+EU-OPS 1.395 - Ground Proximity Detection;
+
+FAA
+
+FAR 121.354
+FAR 135.154
+TSO-C151c Terrain Awareness and Warning Systems
+
+UKCAA
+
+CAP 789: Requirements and Guidance Material for Operators:
+
+Chapter 12, Section 13: Controlled Flight Into Terrain (CFIT) Prevention;
+Chapter 25, Training in the Use of Equipment Section 1: Terrain Awareness and Warning Systems (TAWS);
+
+
+
+CAD Hong Kong
+
+CAD 516 - Ground Proximity Warning System (GPWS): Guidance Material, April 2013;
+
+Others
+
+Terrain Awareness and Warning Systems — TAWS (Pilot's Guide), Paul Novacek;
+
+Terrain and Obstacle data
+
+EUROCONTROL Terrain and Obstacle Data Manual, November 2015
+
+
+
+
+
+Categories
+
+
+Controlled Flight Into Terrain,
+              Safety Nets
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

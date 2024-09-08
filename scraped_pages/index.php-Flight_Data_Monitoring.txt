@@ -1,0 +1,162 @@
+Flight Data Monitoring (FDM)
+
+
+
+
+
+
+
+
+
+
+
+  Flight Data Monitoring (FDM)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Management 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+Flight Data Analysis is founded on Operational Flight Data Monitoring (OFDM) which in North America has become known as Flight Operations Quality Assurance (FOQA). It is a process which routinely captures and analyses recorder data in order to improve the safety of flight operations.
+Flight Data Analysis. A process of analysing recorded flight data in order to improve the safety of flight operations. (ICAO Annex 6 - Operation of aircraft)
+Operational Flight Data Monitoring (OFDM) is the pro-active use of recorded flight data from routine operations to improve aviation safety.
+Description
+The aviation community is under constant pressure to achieve safety improvement. Operational Flight Data Monitoring (OFDM) offers an efficient solution to this challenge. OFDM is to some extent a quality assurance process but also has a vital Safety Management dimension. It involves the downloading and analysis of aircraft flight recorder data on a regular and routine basis. It is widely used by aircraft operators throughout the world to inform and facilitate corrective actions in a range of operational areas by offering the ability to track and evaluate flight operations trends, identify risk precursors, and take the appropriate remedial action. The potential of OFDM programmes has been materially enhanced by the rapid expansion in the number of data parameters which can be captured using digital recorders now routinely carried on aircraft.
+ICAO Standards and Recommended Practices
+In 2008 Annex 6, to the Chicago Convention was amended in order to introduce a number of requirments and recommendations related to the implementation of safety management and safety management systems by operators of commercial air transport aircraft and helicopters. The following paragraphs pertain to the implementation of OFDM:
+Annex 6, Part I - International Commercial Air Transport - Aeroplanes
+3.3.5 An operator of an aeroplane of a maximum certificated take-off mass in excess of 27 000 kg shall establish and maintain a flight data analysis programme as part of its safety management system.
+Note.- An operator may contract the operation of a flight data analysis programme to another party while retaining overall responsibility for the maintenance of such a programme.
+3.3.6 A flight data analysis programme shall be non-punitive and contain adequate safeguards to protect the source(s) of the data.
+Note 1.- Guidance on flight data analysis programmes is contained in the Safety Management Manual (SMM) (Doc 9859).
+Note 2.- Legal guidance for the protection of information from safety data collection and processing systems is contained in Annex 13 , Attachment E.
+Annex 6, Part III - International Operations - Helicopters
+1.3.5 'Recommendation' - An operator of a helicopter of a certified take-off mass in excess of 7 000 kg or having a passenger seating configuration of more than 9 and fitted with a flight data recorder should establish and maintain a flight data analysis programme as part of its safety management system.
+Note.- An operator may contract the operation of a flight data analysis programme to another party while retaining overall responsibility for the maintenance of such a programme.
+1.3.6 A flight data analysis programme shall be non-punitive and contain adequate safeguards to protect the source(s) of the data.
+Note 1.- Guidance on flight data analysis programmes is contained in the Safety Management Manual (SMM) (Doc 9858).
+Note 2.- Legal guidance for the protection of information from safety data collection and processing systems is contained in Annex 13 , Attachment E.
+Benefits
+FDM strongly contributes to increased flight safety and operational efficiency by:
+
+Providing data to help in the prevention of incidents and accidents. Fewer flight accidents not only reduce material losses and insurance costs, but also keep passengers' confidence high.
+Improved operational insight: providing the means to identify potential risks and to modify pilot training programs accordingly.
+Improved fuel consumption: FDM provides the ability to identify and make adjustments to company operating procedures or specific aircraft with unusually high fuel burn rates.
+Reduction in unnecessary maintenance and repairs: FDM data can be used to help reduce the need for unscheduled maintenance, resulting in lower maintenance costs and increased aircraft availability.
+Improved ground conditions and airports: in certain cases, airlines can use the data captured from their FDM program to support requested changes to air traffic control and airport procedures.
+Reduced number of ACARS messages: non-critical data (e.g. take-off reports, stable cruise reports) that are sent via ACARS messages, can be acquired, recorded and transmitted via flight data monitoring equipment
+Reduced reliance on flight data recorders: flight-monitoring data can be transmitted automatically over the Internet and be analyzed without delay.
+Adherence to noise restrictions: flight data monitoring helps airlines demonstrate adherence to noise restrictions in terms of being able to verify or deny actual infringement, and avoid incurring fines.
+Improved monitoring of flight crew's cosmic radiation exposure: flight data monitoring can assist in tracking radiation exposure
+Flight Data Monitoring (FDM) programmes provide a powerful tool for the proactive hazard identification.
+
+Related Articles
+
+European Operators Flight Data Monitoring (EOFDM) Forum
+
+Further Reading
+
+ICAO Annex 6 - Operation of aircraft, Part 1
+UK CAA CAP 739: Flight Data Monitoring
+Checklists and Monitoring in the Cockpit: Why Crucial Defenses Sometimes Fail, July 2010
+A Practical Guide for Improving Flight Path Monitoring, November 2011
+Guidance Material: Performance assessment of pilot compliance to Traffic Alert and Collision Avoidance System (TCAS) using Flight Data Monitoring (FDM), IATA and EUROCONTROL, Edition 2.
+
+Flight Data Services Case Studies
+
+Case Study 1: Stowing Takeoff Flap
+Case Study 2: Low Speed After Take Off
+Case Study 3: Go-Around Procedure
+Case Study 4: Landing in Snow
+Case Study 5: Fuel Conservation For Short-Haul Operators
+Case Study 6: Winglets and Low Power Approaches
+
+
+
+
+
+Categories
+
+
+Safety Management,
+              SM Methods and Tools
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,173 @@
+Minimum Vectoring Altitude (MVA)
+
+
+
+
+
+
+
+
+
+
+
+  Minimum Vectoring Altitude (MVA)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Minimum Vectoring Altitude (MVA) is the lowest altitude, expressed in feet AMSL (Above Mean Sea Level (MSL)), to which a radar controller may issue aircraft altitude clearances during vectoring/direct routing except if otherwise authorized for radar approaches, departures and missed approaches. MVA may also be referred to as Minimum Flight Altitude (MFA), Minimum Radar Vectoring Altitude (MRVA) or ATC Surveillance Minimum Altitude (ASMA).
+For the purpose of this article, the MVA term will be used.
+Vectoring
+“Provision of navigational guidance to aircraft in the form of specific headings, based on the use of an air traffic services surveillance system.” (ICAO Doc 4444, PANS-ATM)
+MVA Design
+MVAs are established for use by the Air Traffic Controller (ATCO) when Air Traffic Control (ATC) provide a surveillance service (usually radar).
+Each MVA chart (see Figure 1 below) contains sectors large enough to accommodate the vectoring of aircraft within the sector at the MVA. Each sector boundary is at least 3 miles from the obstruction used to determine the MVA in that sector. In order to avoid cases of large sectors with an excessively high MVA because of isolated prominent obstacles, the obstacle may be enclosed in a buffer area which boundaries are at least 3 miles from the obstacle.
+The minimum vectoring altitude in each sector provides 1000 ft above the highest obstruction in non-mountainous areas and 2000 ft above the highest obstacle in designated mountainous areas.
+The MVA is the lowest altitude that meets obstacle clearance requirements in the airspace specified.
+
+Figure 1, Example MVA Chart
+According to ICAO PANS OPS minimum vectoring altitudes shall be corrected for temperature. The temperature correction shall be based on seasonal or annual minimum temperature records. (see Altimeter Temperature Error Correction)
+In turn, ATC authorities are required, as per ICAO PANS ATM, 8.6.5.2, Note 2, “to provide the controller with minimum altitudes corrected for temperature effect”.
+Whenever possible, minimum vectoring altitudes should be sufficiently high to minimize activation of aircraft ground proximity warning systems. Activation of the GPWS / GPWS/TAWS will induce the pilot to pull up immediately and climb steeply to avoid hazardous terrain, possibly compromising separation with other aircraft in close vicinity.
+MVA Publication
+MVA charts shall be approved by the appropriate authorities (in most cases this is the Civil Aviation Administration - CAA) and published in the Aeronautical Information Publication (AIP) as a section of the Aerodrome part (AD) related to the given aerodrome.
+According to ICAO Annex 4, Chapter 21, the "ATC Surveillance Minimum Altitude Charts — ICAO" shall provide information that will enable flight crews to monitor and cross-check altitudes assigned by a controller using an ATS surveillance system. Such MVA charts should be made available where vectoring procedures are established and minimum vectoring altitudes cannot be shown adequately (due to excessive chart clutter) on the:
+
+Area Charts - ICAO,
+Standard Departure Charts - Instrument (SID) - ICAO,
+Standard Arrival Charts - Instrument (STAR) - ICAO.
+
+According to ICAO Annex 15, Chapter 4, 4.1.3, the "ATC Surveillance Minimum Altitude Charts — ICAO" shall, when available for designated international aerodromes/heliports, form part of the AIP, or be distributed separately to recipients of the AIP. Also, Appendix 1 of Annex 15, (Contents of Aeronautical Information Publication), indicates that States shall publish in the AIP "The criteria used to determine minimum flight altitudes".
+MVA charts may vary in presentation from country to country and their titles may also vary. For example in Belgium the term “ATC surveillance minimum” is used.
+MVA Visualization
+In order to provide the ATCO with the minimum vectoring altitudes, the MVA chart data may be uploaded on the radar data display system (ODS). I is then presented to the ATCO as a part of the radar maps information.
+Responsibilities
+Pilot's responsibility
+The pilot-in-command is responsible for the safety of the operation of the aircraft and the safety of the aeroplane and all persons on board during flight. This includes responsibility for obstacle clearance, except when an IFR flight is being vectored or given direct routing asssited by radar. When ATC is not providing a surveillance service (radar) and a pilot accepts a direct route which is off of the published route, then the pilot is wholly responsible for maintaining obstacle clearance. The MSA should be respected in these circumstances.
+According to Doc 8168 PAN OPS, the pilot-in-command shall closely monitor the aircraft's position with reference to pilot-interpreted navigation aids in order to minimize the amount of radar navigation assistance required and to mitigate the consequences resulting from a radar failure. The pilot-in-command shall also continuously monitor the communication with the ATCO while being radar vectored and shall immediately climb the aircraft to the minimum sector altitude if the ATCO does not issue further instructions within a suitable interval, or in case of a communication failure.
+The determination of the lowest usable flight levels by the air traffic control units within controlled airspace does not relieve the pilot-in-command of the responsibility to ensure that adequate terrain clearance exists, except when an IFR flight is being vectored or given direct routing assisted by radar.
+Many aircraft operators set company limits for descent clearance based on the Minimum Sector Altitude (MSA) and there have been reported cases when pilots have declined to descend to ATC assigned MVAs that are lower than the MSAs. The refusal to accept an ATC descent clearance to MVA can adversely affect the flow of traffic and become a safety issue, especially in busy airspace scenarios. Nevertheless, if the flight crew believe that a cleared altitude will put the aircraft at risk of collision with the terrain, they must ask for clarification of the ATC instruction expressing their concern.
+ATCO’s responsibility
+The objectives of the air traffic control service as prescribed in ICAO Annex 11 do not include prevention of collision with terrain. The procedures prescribed in Doc 4444, PANS-ATM do not relieve pilots of their responsibility to ensure that any clearances issued by air traffic control units are safe in this respect.
+When vectoring an IFR flight and when giving an IFR flight a direct routing which takes the aircraft off an ATS route, the controller shall issue clearances such that the prescribed obstacle clearance will exist at all times until the aircraft reaches the point where the pilot will resume own navigation
+According to Doc 8168 PAN-OPS when an IFR flight is being vectored by radar, air traffic control (ATC) may assign minimum vectoring altitudes which are below the minimum sector altitude. Minimum vectoring altitudes provide obstacle clearance at all times until the aircraft reaches the point where the pilot will resume own navigation.
+The use of phrases as per PANS-ATM, such as:
+
+"turn left (or right) heading…", “fly heading …”, relating to vectoring instructions; and
+"resume own navigation" related to termination of vectoring,
+
+provide useful cues to pilots about the nature of service being provided by ATC and hence a better appreciation of obstacle clearance responsibilities.
+Related Aticles
+
+Minimum Sector Altitude (MSA)
+Altimeter Temperature Error Correction
+CFIT Precursors and Defences
+
+Further Reading
+ICAO
+
+ICAO Annex 6 Operation of Aircraft
+ICAO Annex 11 Air Traffic Services
+ICAO Annex 15 Aeronautical Information Services
+ICAO Doc 4444 PANS-ATM
+ICAO Doc 8168 PANS-OPS
+
+EUROCONTROL Cold Temperature Correction Guidance and Tool
+
+Guidelines for Cold Temperature Corrections by ATS
+Cold Temperature Correction Tool - This electronic tool (Excel Workbook) provided in conjunction with the Guidelines for Cold Temperature Corrections by ATS is intended to assist airspace designers and ATS authorities, in general, to assess how temperature correction can be most effectively accommodated in the airspace design, to identify which temperature ranges would provide the most efficient utilization of a given volume of airspace. The tool provides three spreadsheets where the user may calculate the value of the correction required for a given set of parameters, the possibility to calculate the effect of the cold temperature on the minimum vectoring altitude and the possibility to assess a the correction for temperature banding.
+
+Others
+
+AIRBUS FOBN – Operating Environment: Enhancing Terrain Awareness
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,148 @@
+Release Procedure
+
+
+
+
+
+
+
+
+
+
+
+  Release Procedure
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Separation 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+Release for Climb. An authorization for the accepting unit to climb (a) specific aircraft before the transfer of control.
+Release for Descent. An authorization for the accepting unit to descend (a) specific aircraft before the transfer of control.
+Release for Turn. An authorization for the accepting unit to turn (a) specific aircraft away from the current flight path by not more than 45o before the transfer of control.
+Note: The transferring unit/sector remains responsible within its Area of Responsibility for separation between the transferred aircraft and other aircraft unknown to the accepting unit/sector, unless otherwise agreed.
+Source: EUROCONTROL
+Description
+The release procedure is used to authorize the controller of the receiving (downstream) unit (or sector) to control an aircraft that is not within their area of responsibility (AoR). Note that normally, even if communication is transferred before the transfer of control point and therefore the receiving controller is able to issue instructions to the aircraft, they are prohibited by procedure to do so. Release is used in a variety of situations, e.g.:
+
+A flight crew makes a request but the aircraft position is 2-3 minutes before the boundary. If upstream controllers consider that accommodating the request would not cause problems in their sector they may prefer to transfer the aircraft to the next sector (or unit) and release it instead of coordinating a last minute change. The use of the release procedure saves time for the sending controller and provides the receiving controller the option to expedite accommodating the request.
+A flight crew makes a request shortly after checking in on the frequency while still outside of the controller's AoR. The receiving controller can either wait for the aircraft to cross the boundary or initiate a release procedure. The release procedure enables the controllers to expedite the accommodation of the request.
+There is a conflict in the receiving controller's airspace shortly after the boundary. The receiving controller can either ask the sending controller to issue appropriate instructions to the aircraft before crossing the boundary or they can ask for the aircraft to be transferred earlier and released. The benefit of using the release procedure is that the total workload is less (only clearance is given as opposed to coordination between units/sectors and then a clearance) and it is distributed "better", i.e. the clearance is given by the controller, responsible for solving the conflict. Also, the possibility for misunderstanding is reduced. Last but not least, all potentially conflicting aircraft are on the same frequency which is generally a safer situation.
+
+System Support
+Functions to support the release procedure can be included in ATS systems. One option is to use the OLDI messages RRQ (Release Request Message) and RLS (Release Message). The former is sent by the downstream unit and the latter by the upstream unit. The upstream unit, upon receiving the RRQ, may either approve it (and respond with RLS) or reject it (and respond with RJC). Both RRQ and RLS contain a release indication which can be for one of the actions (climb, descend or turn) or for all of them. Another option (applicable to sectors within the same ATC unit) is to have dedicated tools that operate similarly to the OLDI messages. These are usually upgrades to the handover features. The sending controller may choose between "released" and "not released" when transferring the aircraft.
+System design should ensure that it is easily distinguishable between released and not released aircraft. This could be done e.g. by placing a coloured sting above the aircraft label when it is not released or using different handover colours for released and not released aircraft.
+Caution should be exercised when granting release by electronic means, especially when OLDI messages are used that do not have the undo feature.
+Risks and Their Prevention
+While the release procedure can often help expedite traffic flow and is generally safe, its misuse can easily cause Loss of Separation or Airspace Infringement. The following factors should be considered before granting (or asking for) a release:
+
+Lack of understanding. The release procedure contains an inherent risk - a controller is responsible for the safety of aircraft that are not on their frequency. This may not be fully understood and some controllers may consider that the one who is in contact with an aircraft is responsible for the provision of ATS (including but not limited to application of appropriate separation). It is therefore important to emphasize this aspect during controller training (both initial and recurrent).
+Assumptions. Sometimes there is an established practice (though not legally documented) that an aircraft transferred is an aircraft released. In such environment, extra caution should be exercised before aircraft transfer.
+Ambiguity. The release procedure can be for just one action, for two of them or for all three. If it is not clearly stated, the controllers may assume different conditions have been negotiated. For example, the dialogue "IS BDF078 RELEASED FOR CLIMB?" "BDF078 RELEASED" the releasing controller may think that they have authorized only climb instructions to be given (as this is what was asked for) while the asking controller may assume that the aircraft is released for all actions. Therefore, the releasing controller should always specify the types of approved interventions unless they consider that a general release is safe.
+Complacency. Sometimes a releasing controller may overlook a situation considering it is extremely unlikely to happen. "It's two minutes before the boundary, what could possibly go wrong?" For example, a release for turn means that the aircraft may change its heading by 45 degrees which may mean that it will remain in the sending controller's airspace for much longer than anticipated and consequently come into conflict with an aircraft that has been presumed to be irrelevant.
+Colour representation. The releasing controller should always bear in mind that aircraft that are flying close to the border but are not going to enter the neighbouring unit (or sector) are likely to be represented in dull colour (e.g. dark grey on a black background) and may therefore be almost invisible to the receiving controller. Therefore, in case a potential conflict is discovered after the release procedure has been performed, the releasing controller should not assume that their colleague has the same situational awareness. A new (verbal) coordination should be made as soon as possible to ensure the receiving controller takes the conflicting traffic into account. The receiving controller, on the other hand, should examine any aircraft in proximity of the released one, regardless of its colour, before issuing an instruction.
+Transfer of Control. In case of opposite flying traffic (at different level), the sending controller should only initiate a transfer of communication after the aircraft have passed clear of each other. Thus, even if the transferred aircraft makes a request and the receiving controller accommodates it assuming the aircraft has been released no loss of separation will occur. Sometimes this may mean that the sending controller will maintain communication with the aircraft outside their area of responsibility. In this case, the aircraft should be transferred as soon as practicable and no requests from the crew should be accommodated without prior coordination with the controller responsible for the adjacent airspace.
+Different separation. Sometimes different separation minima are applied on the different sides of the inter-unit boundary, e.g. between control and approach, or if surveillance coverage in one unit is poorer, or at the border between RVSM and Non-RVSM airspace, etc. The releasing controller should consider that the receiving controller may be unaware of the separation minima difference. The receiving controller, on the other hand, should be as familiar as possible with the adjacent airspace specifics, and, if in doubt, verify instead of assuming.
+Special use areas. While loss of separation is the most common outcome after a hasty release, the prospect of an aircraft entering an active special use area (e.g. danger area, temporary segregated area, etc.) should also be considered. The sending controller should bear in mind that the receiving controller (especially those from different ATC units) may not be aware of the restrictions in neighbouring airspaces.
+
+Related Articles
+
+Conflict Detection with Adjacent Sectors
+Loss of Separation at Sector Boundaries
+ATC Unit Coordination
+ATC Team Coordination
+Online Data Interchange (OLDI)
+Letters of Agreement between ATS Units
+
+Further Reading
+
+ICAO Doc 4444 PANS-ATM
+
+
+
+
+
+Categories
+
+
+Loss of Separation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

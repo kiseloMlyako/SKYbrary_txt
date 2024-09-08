@@ -1,0 +1,127 @@
+Critical Point (CP)
+
+
+
+
+
+
+
+
+
+
+
+  Critical Point (CP)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+The Critical Point (CP), or Equal Time Point (ETP), is when an aircraft is the same flying time from 2 potential en-route diversions. Calculation of appropriate CPs aids decision making when deciding courses of action following a significant event such as an engine failure or on-board medical emergency.
+Plotting of the aircraft’s progress on a chart will help identify Gross Navigation Errors and aid contingency planning. An Equal Time Point (ETP), also known as a Critical Point (CP) should be calculated for Performance Class A aircraft (multi-engined aeroplanes powered by turbo-propeller engines with a Maximum Operational Passenger Seating Capacity (MOPSC) of more than nine or a maximum take-off mass exceeding 5700 kg, and all multi-engined turbo-jet powered aeroplanes) on all sectors when the aircraft is more than 90 mins (4 engine aircraft) still air time at the one-engine-inoperative cruising speed from a suitable alternate airfield.
+Algebraic Solution
+Identification of the ETP (C) for an aircraft flying between 2 airfields, A & B, which are on, or close to, track can be achieved by using the following formula:
+
+Algebraic method for calculating Critical Point/Equal Tim Point
+Graphical Solution
+The graphical solution to an ETP problem where a third (en-route diversion) airfield is involved is shown below. The aircraft is flying from A to B and the diversion C lies to one side of track. The requirement is to establish ETPs between A and C, and also C and B.
+
+Graphical method for determining Critical Point/Equal Time Point
+Step 1: Construct the perpendicular bisector MX of line AC. This cuts the track AB at the still air ETP (as AX=CX).
+Step 2: Measure the distance AX and divide by the One-Engine Inoperative (OEI) TAS to give the still air time from X to A.
+Step 3: Construct a wind vector YX of length in nm equal to Wind speed (kts) x the flight time from X to A (hrs)
+Step 4: From Y draw a line parallel to XM. The point at which this crosses track AB is the wind corrected ETP between A and C.
+Repeat the process for ETP for C to B
+Related Articles
+
+Point of No Return (PNR)
+Last Point of Diversion (LPD)
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

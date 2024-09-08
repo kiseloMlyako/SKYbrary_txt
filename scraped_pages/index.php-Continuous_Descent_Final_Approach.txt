@@ -1,0 +1,143 @@
+Continuous Descent Final Approach (CDFA)
+
+
+
+
+
+
+
+
+
+
+
+  Continuous Descent Final Approach (CDFA)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Controlled Flight Into Terrain 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Continuous Descent Final Approach - CDFA (EASA/FAA)
+Constant Descent Final Approach - CDFA (Transport Canada)
+Constant Descent Angle (CDA) Approach
+Definition
+CDFA is a technique, consistent with stabilized approach procedures, for flying the final approach segment of a non-precision approach (NPA) procedure as a constant descent, without level-off, from an altitude at or above the final approach fix altitude to a point approximately 15 m (50 ft) height above the landing runway threshold or the point where the flare manoeuvre should begin for the type of aircraft flown. [International Civil Aviation Organization (ICAO) Doc 8168, Vol I, Part I, Amdt. 3,]
+The Traditional Non-Precision Approach Profile
+Figure 1 illustrates the flight path of a typical NPA procedure flown using the "traditional" "dive and drive" technique. The path of the aircraft is coloured red. The aircraft approaches the final approach fix (FAF) at the cleared height, then descends until reaching the minimum descent height (MDH). This height is then maintained until either the runway is in sight or the missed approach point is reached. If the runway is not sighted by the missed approach point, a go-around must be flown. The descent to the MDH may be undertaken at any convenient rate of descent; however, best practices would have the aircraft arrive at the MDH at a distance from the runway equivalent to the required visibility that is published for the approach. More complicated NPA procedures might include check heights or any number of step down fixes at various points during the approach.
+
+Risks
+Controlled flight into terrain (CFIT) is a primary cause of worldwide commercial aviation fatal accidents. Unstabilized approaches are a key contributor to CFIT events. If the NPA is flown in the traditional fashion, step down fixes will require multiple thrust, pitch, and altitude adjustments inside the final approach fix (FAF). These adjustments increase both the pilot workload and the potential for error during a critical phase of flight. NPAs designed without step down fixes in the final segment allow pilots to immediately descend to the MDA after crossing the FAF. In both cases however, the aircraft must remain at the MDA until commencing final descent for the runway or reaching the missed approach point (MAP). This practice can result in extended level flight at altitudes as low as 250 feet above the ground in instrument meteorological conditions (IMC) and shallow or steep final approaches once the runway is in sight. The overall result is that a traditionally flown NPA makes it very difficult to achieve a stabilised approach and smooth transition to visual flight. Additionally, landing attempted at or near the missed approach point due to late runway acquisition could be extremely dangerous due to the excessively steep approach angle.
+Many CFIT accidents occur during non-precision approaches.
+Continuous Descent Final Approach
+Figure 2 illustrates the Continuous Descent Final Approach (CDFA) concept. The path of the aircraft is again coloured red and the standard non-precision approach path is coloured blue for comparison purposes. The aircraft crosses the FAF at, or above, the published crossing altitude and then descends at a constant rate, or constant angle (dependent upon aircraft equipment) which, if continued below the MDH, would result in it crossing the runway threshold in a position to land the aircraft. A simple calculation, based on distance, height to lose and ground speed, is necessary to determine the rate of descent required. With aircraft capable of maintaining a desired Flight Path Angle (FPA) or using GNSS navigation capability, the CDFA is refined further such that the resulting constant angle approach path will cross the MDH at the Visual Descent Point (VDP). In virtually all cases, the CDFA procedures consider the MDH as a decision altitude (DA) and, if the runway is not in sight when the aircraft reaches the MDH, a go-around must be flown. Note that some regulators require that a buffer be added to the MDH when using it as a DA for a CDFA so that descent below the published MDH does not occur during initiation of the go-around procedure.
+Many regulators will require an operator to obtain an Operations Specification (Ops Spec) for conducting CDFA procedures and all will insist that the Operations Manual and the operator training programmes provide the appropriate level of guidance to the flight crews.
+ 
+
+CDFA Advantages
+CDFA offers the following advantages:
+
+Increased safety by employing the concepts of stabilised approach criteria and procedure standardisation.
+Improved pilot situational awareness (SA) and reduced pilot workload.
+Improved fuel efficiency by minimizing the low-altitude level flight time.
+Reduced noise level by minimising the level flight time at high thrust settings.
+Procedural similarities to approach procedure with vertical guidance (APV) and precision approach operations.
+Reduced probability of infringement on required obstacle clearance during the final approach segment.
+
+Further Reading
+
+FAA Advisory Circular 120-108: Continuous Descent Final Approach
+Control your Speed… During Descent, Approach and Landing, Airbus Safety First Magazine, #24, July 2017
+
+For more background information on CDFA, see the following:
+
+Flight Safety Foundation - From Non-precision to Precision-Like Approaches
+ALAR Briefing Note 7.2 - Constant-Angle Nonprecision Approach
+Copies of the full Flight Safety Foundation ALAR Toolkit on CD may be obtained from the Flight Safety Foundation
+
+
+
+
+
+Categories
+
+
+Controlled Flight Into Terrain
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

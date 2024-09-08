@@ -1,0 +1,268 @@
+A21N, Bristol UK, 2020
+
+
+
+
+
+
+
+
+
+
+
+  A21N, Bristol UK, 2020
+
+
+
+
+
+
+
+
+
+Summary
+
+On 3 January 2020, an Airbus A321neo crew found that the boarded passengers were seated such that the flight could not operate within the allowable flight envelope. Necessary reseating followed with a safety report filed. An internal investigation with State Investigation Agency awareness found that a systemic company IT issue was enabling invalid outputs. When the same aircraft’s inbound flight from Bristol was checked, a similar but undetected error was found to have resulted in that flight having operated outside the allowable flight envelope. Pending a permanent fix for the computerised load control system, manual checking procedures were immediately implemented.
+
+
+
+
+Event Details
+
+When
+
+03/01/2020
+
+
+
+Event Type
+
+
+GND
+
+
+
+
+Day/Night
+
+Day
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS A-321neo
+
+
+
+
+
+
+
+
+
+Operator
+
+EasyJet
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Bristol International Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Edinburgh Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+No
+
+
+
+Flight Airborne
+
+No
+
+
+
+Flight Completed
+
+No
+
+
+
+Phase of Flight
+
+Standing
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+EGGD
+
+
+
+
+General
+
+Tag(s)
+
+
+              Inadequate Aircraft Operator Procedures
+          
+
+
+
+
+GND
+
+Tag(s)
+
+
+              Passenger Loading
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 3 January 2020, the crew of an Airbus A321neo (G-UZMI) being operated by EasyJet on a scheduled domestic passenger flight from Bristol to Edinburgh found that the passengers boarded had been given seats such that their distribution in the cabin was considered unusual but the load and trim sheet indicated that it was allowable. The same unusual seating then happened on the next sector but this time the allocated seating was incompatible with the safe operation of the flight and passengers were reseated accordingly on the Captains instructions. An internal investigation prompted by the Captain’s safety report discovered a systemic flaw in the operator’s load control system was to blame and the first flight was found to have been inadvertently operated outside permitted limits.
+Investigation
+An internal investigation was initiated by the aircraft operator on receipt of a safety report raised by the aircraft Captain when it became apparent that a systemic issue with the company load control system was the cause, the UK AAIB were informed and opened a Serious Incident Investigation.
+It was noted that the 40 year-old Captain involved had a total of 9,271 flying hours experience of which all except 189 hours were on A320 family aircraft. Relevant recorded flight data was available.
+What Happened
+It was established that the Bristol to Edinburgh return flight under investigation had been originally planned to be operated by a different A320 family variant and when the A321neo was substituted, an alternative flight crew had to be called from standby because the rostered flight crew were not qualified for the substituted variant.
+In accordance with the operator’s Covid-19 biosecurity procedures, the load and trim sheet for the departure from Bristol was handed to the SCCM rather than directly to the flight crew and they then gave it to the flight crew. When the First Officer then entered the load distribution into their EFB they found that although the C of G was within the AFM allowable flight envelope, the distribution of the 58 boarded passengers over the 235 available seats was not far from its forward limit.  
+The SCCM was subsequently advised of this finding and during the turnround at Edinburgh checked the load and trim sheet against the seated passenger and when handing it to the Captain advised that the passengers were not seated as indicated on it. The Captain therefore requested that a manual count of the number of passengers in each cabin zone should be carried out. When entered into the EFB, this showed that the actual passenger distribution was beyond forward C of G limits and “appeared to be based on row boundaries for seating zones on an A320 as previously planned for the flight rotation rather than those applicable to an A321neo". The Captain therefore instructed the SCCM to move passengers to new seating positions to correct this and the before accepting the load and trim sheet presented annotated it with the revised passenger distribution.
+The Captain then left the flight deck to speak to the ground handling agent who “agreed that there appeared to be an IT system issue” in that the flight still showed the operating aircraft as an A320 which had led seats being allocated based on that variant. With the issue identified and apparently resolved as far as the operating crew were concerned, the return flight to Bristol and two subsequent sectors were then flown without incident. However, on completion of his flying duty, the Captain then raised an ASR detailing the problem.
+The operator’s investigation initially found that although the change of aircraft had been correctly listed in the Aircraft Management System (AMS), the incorrect seat allocation at Edinburgh had been caused by the aircraft change not updating the Departure Control System (DCS). It was discovered that this discrepancy was attributable to software coding errors which had resulted in the integrated AMS/DCS system operating outside of the original design specification.  
+It was noted that the internal system validation process which “runs in the background” compared the AMS and DCS every five minutes and implemented updates if required. However, because of the uncertainty introduced by the Covid-19 situation, it was found that the much higher level of schedule and aircraft changes had meant that “the operator’s schedule and the validation process was taking longer than normal to run (with) changes made outside of the five-minute window not detected automatically by the system”.
+It was additionally noted that although the operator’s procedures allowed manual updates to the DCS to be made if an aircraft type variant had been changed in the AMS, this change at Bristol had not been made until passengers were already boarding, a circumstance “not envisaged” so that the system had no mechanism to prevent a change of aircraft type variant during boarding. It was also found that the system did not provide a corresponding alert to either staff at the boarding gate or the person responsible for the preparation and delivery of the load and trim sheet. In addition the aircraft registration data in the DCS was not linked to the aircraft type data so they could be changed separately with the consequence that an aircraft change would not lead the seating algorithm to alter the passengers per seating bay figures.
+It was concluded that as the various elements of the IT system architecture did not communicate directly with each other but operated through a variety of interfaces, the process of load and trim sheet preparation was vulnerable to "errors and inaccuracies” in the event of aircraft changes. The effect of the critical systemic weakness in the operator’s procedures for ensuring passenger loading distribution on flights was accurately included on load and trim sheets presented to Captains’ for acceptance was considered to have increased because of a sustained recent increase in short notice aircraft changes especially but not only if the load is significantly less than the seating capacity of the newly assigned aircraft as in this case. 
+The Concluding Remarks on the Findings of the Investigation included the following:
+This Serious Incident was caused by a combination of operating factors in a complex system interacting in a manner which had neither been designed nor predicted. If passenger and cargo distribution on an aircraft leads to an undetected out of trim condition, the potential outcome could be unexpected handling qualities or control limitations. 
+The final weight and balance calculation is completed by the operating crew based on the loading data presented to them by ground personnel. If that information is incorrect, unless further evidence is available to indicate an anomaly, this final safety barrier is compromised as was the case at Bristol.  
+Prior to the Covid-19 pandemic, the designated ground handler would hand the load and trim sheet directly to the flight crew, providing an opportunity for them to query any last minute changes directly. However, the operator’s biosecurity measures required interactions with the flight deck to be minimised, so the load and trim sheet was delivered to the SCCM. As the designated ground handler did not visit the flight deck, the flight crew were more likely to accept changes presented to them without discussion and complete their tasks as defined in their SOPs.  
+Safety Action taken by EasyJet as a result of the investigation findings was noted to have included the following:
+
+Introduced a procedure where when an aircraft type variant is changed, the Network Control team in the Integrated Control Centre (ICC) must conduct a manual check between the IT systems used for planning and loading to ensure the correct aircraft type and registration are displayed in all systems.
+Introduced a requirement for the Chief Pilot, in coordination with the ICC, to notify the duty pilot of any aircraft type changes. The duty pilot will then discuss the potential risk with the operating crew involved.
+A manual count of the number of passengers in each seating bay must be completed before departure for every flight.
+Initiated a further investigation into their IT systems to determine how operational changes are managed and communicated between the relevant parts of the system in order for a permanent solution to the current inadequacies to be implemented.
+
+The Final Report of the Investigation was published on 14 October 2021. No Safety Recommendations were made.  
+Related Articles
+
+Flight Envelope
+Aircraft Load and Trim
+Safety Management System
+Safety Culture
+Aviation Safety Reporting System (ASRS)

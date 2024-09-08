@@ -1,0 +1,441 @@
+B38M, en-route, northeast of Jakarta Indonesia, 2018
+
+
+
+
+
+
+
+
+
+
+
+  B38M, en-route, northeast of Jakarta Indonesia, 2018
+
+
+
+
+
+
+
+
+
+Summary
+
+On 29 October 2018, a Lion Air Boeing 737-MAX 8 crew had difficulty controlling the pitch of their aircraft after takeoff from Jakarta and after eventually losing control, a high speed sea impact followed. The Investigation found that similar problems had also affected the aircraft s previous flight following installation of a faulty angle-of-attack sensor and after an incomplete post-flight defect entry, rectification had not occurred. Loss of control occurred because the faulty sensor was the only data feed to an undisclosed automatic pitch down system, MCAS, which had been installed on the 737-MAX variant without recognition of its potential implications.
+
+
+
+
+Event Details
+
+When
+
+29/10/2018
+
+
+
+Event Type
+
+
+AW,
+              HF,
+              LOC
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 737 MAX 8
+
+
+
+
+
+
+
+
+
+Operator
+
+Lion Air
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Jakarta/Soekarno-Hatta International Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Depati Amir Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+No
+
+
+
+Phase of Flight
+
+Climb
+
+
+
+
+
+
+
+
+Location
+
+Approx.
+
+the approximate centre of the wreckage field
+
+
+
+
+
+
+
+
+
+
+General
+
+Tag(s)
+
+
+              Air Turnback,
+              Deficient Crew Knowledge-handling,
+              Inadequate Aircraft Operator Procedures,
+              Ineffective Regulatory Oversight,
+              Deficient Pilot Knowledge
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Distraction,
+              Inappropriate crew response - skills deficiency,
+              Manual Handling,
+              Procedural non compliance
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Significant Systems or Systems Control Failure,
+              Degraded flight instrument display,
+              Flight Management Error
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Indicating / Recording Systems
+          
+
+
+
+Contributor(s)
+
+
+              Maintenance Error (valid guidance available),
+              Component Fault after installation
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Aircraft damage
+
+Hull loss
+
+
+
+Non-aircraft damage
+
+Yes
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Occupant Fatalities
+
+Most or all occupants
+
+
+
+Number of Occupant Fatalities
+
+189
+
+
+
+Off Airport Landing
+
+Yes
+
+
+
+Ditching
+
+Yes
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Technical
+Air Traffic Management
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Airworthiness
+Air Traffic Management
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On the morning of 29 October 2018, a Boeing 737-MAX 8 (PT-LQP) being operated by Indonesian carrier Lion Air on a scheduled domestic passenger flight from Jakarta Soekarno-Hatta to Pangkal Pinang as LNI 610 impacted the sea northeast of Jakarta approximately 11 minutes after its daylight takeoff. The pilots had reported a flight control problem to ATC radar and had requested and initially begun a return to Jakarta because of it, but no declaration of urgency or emergency was made. Evidence indicating a high speed impact was found soon after the last recorded transmission to ATC. The aircraft was destroyed and none of the 189 occupants survived.
+Investigation
+An Investigation was carried out by the Indonesian NTSC. The DFDR was recovered on 1 November 2018 but the CVR was not located and recovered - detached from its ‘pinger’ - until 14 January, despite an intensive effort in what was at times very poor underwater visibility. A separate report ‘Underwater Search for Flight Recorders' was subsequently published and is included as Appendix 6.1 on pps 232-244 of the Final Report. Relevant data were subsequently recovered from both recorders. No signals were heard from the ULB installed on the forward side of the nose pressure bulkhead and it was not recovered.
+Initial progress in the Investigation was provided in a Preliminary Report which was published on 28 November 2018 and included two Safety Recommendations:
+
+that Lion Air should ensure the implementation of the Operations Manual Part ‘A’, subchapter 1.4.2. (which requires the pilot in command to discontinue the flight when un-airworthy mechanical, electrical, or structural conditions occur) in order to improve the safety culture and to enable pilots to make a proper decision to continue a flight.
+that Lion Air should ensure that all operational documents (such as the weight and balance sheet which did not show the correct crew complement for the accident flight) are properly completed.
+
+These have since been addressed.
+It was noted that the 31 year-old Captain, an Indian national, had a total of 6,028 hours flying experience including 5,176 hours on type and that the 41 year-old First Officer, an Indonesian national, had a total of 5,174 hours flying experience including 4,286 hours on type. In both cases, not all the ‘on type’ hours were gained on the specific type variant involved in the accident. It was also noted that at the time of the accident, Lion Air were operating a total of 115 Boeing 737 aircraft, mainly 737-800 and 737-900 but including 11 examples of the 737-MAX 8 variant.
+ 
+What Happened on the Accident Flight
+The flight crew pre flight briefing did not include reference to the aircraft Technical Log defect entry made after the aircraft had arrived in Jakarta from Denpasar the evening before and the action taken to clear it. The only airworthiness matter mentioned was an outstanding ADD in respect of the unserviceable ADF. The takeoff would be in daylight and the weather was noted as “good”.
+With the Captain as PF, takeoff was commenced from runway 25L without any apparent recognition by either pilot that (according to the DFDR) whilst still on the ground, the left PFD was showing a -1°pitch attitude and the right PFD was showing a +13° pitch attitude. DFDR data also showed a 21°difference in the AoA between the left and right sensors which continued until the end of the recording. The 80 knot indicated speed crosscheck was normal. As the auto callout of V1 occurred, the pilots’ airspeed indications were within 3 knots of each other but the low speed barber pole appeared on the Captain’s PFD airspeed indication as the overspeed barber pole bar appeared on the VR mark. Rotation began and as the nose gear lifted off the runway, the DFDR recorded activation of the left control column stick shaker which then, apart from one 20 second interval, continued for the rest of the flight.
+Four seconds after takeoff, with the initially recorded 7° pitch up and a 1000 fpm rate of climb, the First Officer called “Indicated Airspeed Disagree” with the DFDR-recorded left side at 164 knots and the right side at 173 knots. The ‘IAS DISAGREE’ message which had prompted the call remained until the end of the recording. The First Officer questioned what the problem was and asked the Captain if he intended to turn back but got no response or other acknowledgement. Following gear retraction, with the recorded altitude displayed on the Captain’s PFD at 340 feet and the recorded altitude displayed on the First Officer’s PFD at 570 feet, the First Officer called “Altitude Disagree” and the Captain acknowledged.
+Less than a minute after takeoff, the flight had been transferred to Terminal East radar and re-cleared to FL270. The First Officer then asked the controller to confirm the aircraft’s altitude as shown on their radar display and was told 900 feet. At that time the DFDR recorded 790 feet on the left and 1,040 feet on the right. The Captain called for the memory items for unreliable airspeed but received no response. Instead, the First Officer asked the Captain what altitude he should request and suggested to the Captain that he should fly towards downwind, but this “was rejected by the Captain” who told the First Officer to request a re-clearance to “any holding point” which he did. As the aircraft turned left, the controller responded by asking what the problem was and was told a “flight control problem”. The controller did not acknowledge the flight crew request to go to a holding point and subsequently stated that they only remembered that the crew had reported a problem.
+Still less than two minutes after takeoff, a request was made and approved to climb to 5,000 feet on a radar heading of 080°. An EGPWS ‘BANK ANGLE’ was annunciated and the DFDR recorded a momentary roll reaching 35°. Flap retraction was continued and as the flaps reached the fully retracted position, automatic nose down stabiliser trim was active for about 10 seconds, which decreased pitch trim from 6.1 units to 3.8 units. The Captain then called for flaps 1 and the as this selection took effect, the DFDR recorded the stabiliser trim moving nose up for 5 seconds which slowly increased the pitch trim to 4.7 units. As the flaps were still travelling to position 1, the aircraft suddenly descended about 600 feet at up to 3,570 fpm with the DFDR-recorded the pitch trim at 4.4 units. The flaps then reached position 1 and the left control column stick shaker stopped briefly with the left AoA recording 18° nose up and the right AoA recording 3° nose down. Automatic nose down then activated for 8 seconds and as an EGPWS “AIR SPEED LOW" alert activated, the left indicated airspeed was 306 knots and the right 318 knots with the controller, in response to a request, advising that the indicated ground speed on their display was 322 knots. Flap 5 was selected and the Captain moved the stabiliser trim in the nose up direction for 5 seconds which increased the pitch trim to 4.8 units. The left control column stick shaker then reactivated and continued until the end of the recording. The DFDR rate of climb was about 1,500 fpm and the pitch attitude was about 3° nose up.
+The flaps reached position 5 and the DFDR recorded on the Captain’s PFD low speed barber pole and overspeed barber pole merging with the First Officer’s PFD, recorded as having the overspeed barber pole at 340 knots and the low speed not visible. Intermittent 1-2 second automatic nose down trim inputs began to occur and the Captain continued to respond with short inputs of nose up trim. The First Officer advised that he had still not located the Unreliable Airspeed Checklist, although he did eventually find it. By now the aircraft was remaining in the vicinity of 5000 feet with the displayed left and right altitudes continuing to vary by up to 500 feet with continuing altitude alerts as it varied.
+Approximately 2½ minutes after the flaps had been selected to 5°, they were reselected first to position 1 and then to position zero without any discussion. When they reached zero, the first of a continuing series of MCAS-activated automatic nose-down trim inputs began. These were countered by the Captain responding with nose up stabiliser trim inputs which kept the pitch trim at between 5 and 6 units but after 20 such activations and corresponding responses over little more than 5 minutes, the Captain asked the First Officer to take control.
+By this time, after observing that the aircraft was maintaining approximately 5000 feet, the controller had instructed the crew to maintain this altitude and continued to vector the flight generally downwind left for runway 25L before transferring it to Arrival Radar where the controller, having been advised by the First Officer of their “control problem” instructed them to “prepare for landing” on that runway.
+The First Officer confirmed “I have control” and continued to respond to the MCAS pitch down activations but failed to use enough nose up stabiliser trim input to maintain the 5-6° trim units which the Captain had done. As the First Officer’s response to a continuing sequence of automatic pitch down interludes, the pitch trim steadily reduced and as the aircraft descended, airspeed increased. The Captain asked the Arrival controller for permission to proceed to waypoint ‘ESALA’ (north east of the airport - see the ground track illustration below) for weather avoidance and this was approved. The Captain then transmitted that “the altitude of the aircraft could not be determined due to all aircraft instruments indicating different altitudes” to which the controller responded “no restriction”. The Captain followed up with a request to the controller to “block altitude 3,000 feet above and below for traffic avoidance” to which the controller responded by asking what altitude was required and the Captain replied with “five thou” which was approved. There were no further radio transmissions from the aircraft.
+The First Officer expressed concern that the aircraft was descending and as the aircraft passed 3000 feet with a 10,000 fpm recorded rate of descent, he made his final nose up stabiliser trim input one minute after taking over as PF with the pitch trim at 0.3 units. There were no more radio transmissions from the aircraft and three seconds later, EGPWS ‘TERRAIN’ and ‘SINK RATE’ Alerts and the sound of the overspeed warning were recorded. As MCAS again began an automatic pitch down input, the DFDR recording stopped and the aircraft disappeared from radar.
+About 35 minutes later, a boat in the vicinity reported finding floating debris about 33 nm from Jakarta on a bearing of 056° and this was subsequently identified as from the accident aircraft. This and all other wreckage subsequently recovered confirmed that a high energy impact had occurred.
+
+The ground track of the aircraft based on ADS-B returns. [Reproduced from the Official Report]
+Airworthiness Issues with the accident aircraft prior to the Accident
+The previous day, it was found that prior to its departure for Jakarta from Denpasar, the left AoA sensor on the accident aircraft had been replaced in order to see if this action would rectify an intermittent recurring problem with ‘SPD’ and ‘ALT’ failure flags appearing on the Captain’s PFD. Previous attempts to rectify this fault had not been successful but the aircraft had continued in service even though signs that the two instrument indications concerned had been evident prior to takeoff. The sensor replacement was the appropriate fix but unknown to the engineer installing it, the new sensor has not been correctly calibrated by the US-based overhaul agency approved to recondition it by OEM Collins Aerospace. It was also found that the newly installed sensor should have been checked for correct function once installed, which would have detected its unserviceable condition but this mandatory check had not been carried out as a precondition for release to service.
+The Captain of the subsequent flight from Denpasar to Jakarta was aware that the sensor had been replaced. During the departure briefing, he had advised that he would be PF and included mention of the AoA sensor replacement in the briefing. DFDR data showed that the stick shaker had activated during rotation and had thereafter remained active throughout the flight. The Captain had initially maintained the normal 15° pitch and the takeoff thrust setting before handing over control to the First Officer and announcing “memory item airspeed unreliable”. A cross-check of the two PFDs with the standby instrument showed that the left PFD had the problem and the Captain then selected the right side FD so that the First Officer, now PF, would have a normal flight instrument display. The Captain directed that acceleration and flap retraction should continue as normal with the First Officer following the FD command and re-trimming the aircraft as required.
+The Captain reported then noticing that, with the flaps now fully retracted, as soon as the First Officer stopped trim inputs, the aircraft began automatically trimming nose down. After three of these automatic trim occurrences, the First Officer stated that the control column was too heavy to hold back and the Captain declared a PAN to ATC advising instrument failure and requesting to remain on runway heading which was approved. The controller asked if they wanted to return and received a ‘Standby’ response. The Captain then moved the electric stabiliser trim switches to CUT OUT which solved the problem and he decided to continue and complete the flight without engaging the AP and continuing to rely for pitch trim on the manual elevator trim wheel. Three Abnormal Checklists were completed - ‘Airspeed Unreliable’, ‘ALT DISAGREE’, and ‘Runaway Stabiliser’ noting that none of these included a requirement to “land at the nearest suitable airport” but aware that the aircraft was no longer RVSM compliant. When climb clearance to FL 380 was given en route the Captain decided to declare a ‘PAN’ due to instrument failure and having requested a non-RVSM cruise instead of the cleared FL 380, was given FL 280. The controller then requested more details of the instrument failure and was informed that there had been “an altitude and autopilot failure” and asked to relay to the Jakarta controller a request for an uninterrupted descent.
+The flight was completed without further event despite the fact that both the Civil Aviation Safety Regulations (CASR) Part 91.7 ‘Civil Aircraft Airworthiness’ and the Lion Air Operations Manual Part ‘A’ General contained an explicit requirement that the pilot in command “must discontinue the flight when un-airworthy mechanical, electrical, or structural conditions occur”. However, the Captain stated that his decision to continue had been based on the absence of a requirement to “land-at-the-nearest-suitable-airport” in any of the three Non-normal Checklists which had been completed. He also stated that he had felt confident to continue because the aircraft was controllable after the action taken and forecast weather conditions for the route and the destination were good. Nevertheless, the Investigation concluded that “the decision to continue with the stick shaker active was … highly unusual”.
+On arrival in Jakarta, the Captain then made an Aircraft Technical Log Defect entry stating “IAS (Indicated Air Speed) and ALT (altitude) Disagree and FEEL DIFF PRESS (Feel Differential Pressure) light”. He also reported the defective condition using the Company’s electronic reporting system as follows “Airspeed unreliable and ALT disagree shown after takeoff, Speed Trim System also running to the wrong direction, suspected because of speed difference, identified that CAPT instrument was unreliable and handover control to FO. Continue NNC of Airspeed Unreliable and ALT disagree. Decide to continue flying to CGK at FL280, landed safely runway 25L.” However, it was noted that he had failed to report the continuous stick shaker activation or his de-selection of the stabiliser trim which had stopped the repetitive automatic pitch down activations. It was noted that unlike the 737-800 and 900 aircraft which made up most of the Lion Air 737 fleet, the 737-MAX 8 did not have the AoA Disagree Alert, which was the only way a prescribed Non-normal Checklist could have solved the problems caused by the faulty sensor.
+In the absence of sufficient information for the potential seriousness of the defect to be recognised and its cause identified and rectified, the contracted maintenance organisation’s duty engineer had flushed the left Pitot Air Data Module (ADM) and the static ADM to rectify the IAS and ALT disagree and then performed a successful system ground operation test. He had also rectified the Differential Pressure problem by cleaning the electrical connector plug of the elevator feel computer and then carrying out a satisfactory system ground test. The aircraft was on the ground overnight for just over 7 hours prior to the accident flight departure.
+The Performance of the Accident Aircraft flight crew
+It was evident that crew had initially reacted to the increasing force on the control column and when, with the flaps up, they were faced with the uncommanded stabiliser trim-instigated MCAS pitch-down when using the control column to move the elevator in manual flight, “the longer response time for making electric stabilizer trim inputs was understandable”. During both the accident flight and the preceding one, the flight crew had not consistently trimmed out the resulting column forces as had been assumed by Boeing. It was noted that “any out of trim condition which is not properly corrected would lead the flight crew into a situation that makes it more difficult for them to maintain the desired attitude of the aircraft […] during multiple MCAS activations”.
+During the accident flight, a range of faulty inputs arising from presence of the faulty AoA sensor included IAS DISAGREE and ALT DISAGREE on the PFDs and the ‘Feel Differential Pressure’ light as well as continuous stick shaker activation once airborne. The noise from the latter could well have compromised the ability to hear the distinctive sound of the spinning stabiliser trim wheel spinning during periods of MCAS operation. This overall context for their actions would have increased the flight crew’s workload and obscured the underlying (MCAS) problem. This would have made it less likely that they would arrive at a resolution during the initial or subsequent automatic aircraft nose down stabiliser trim inputs such as following the runaway stabiliser procedure or continuing to use sufficient corrective electric trim to counter the MCAS effect and maintain level flight. The failure of the First Officer to do this during the final minute of the flight eventually resulted in control column forces which exceeded 100 pounds, well above the 75-pound limit set by the applicable regulation (14 CAR 25.143). It was noted too that pulling back on the control column would normally interrupt any electric stabiliser nose-down command, but with the MCAS operating on the 737-MAX, that control column cut-out function is disabled.
+The Investigation concluded that had the flight crew been made aware of MCAS, they would have been better able to mitigate the consequences of multiple activations in the accident scenario. Without this understanding of continuous MCAS re-activation after each release of the electric stabiliser trim switch, it was considered that the flight crew had run out of time to find a solution before the repetitive MCAS activations, without fully re-trimming the aircraft, placed the aircraft into such an extreme nose-down attitude that recovery was eventually no longer possible.
+It was noted that the First Officer’s inability to perform memory items and locate the only initially applicable Non-normal Checklist (NNC) for ‘Unreliable Air Speed’ in a timely manner was considered to indicate that he was insufficiently familiar with the NMS and it was found that this weakness had been previously noted in his training records. It was concluded that the failure to complete the relevant NNC had made it more difficult for the crew to understand the problem they were facing and how to respond. It was also concluded that the reappearance of (the First Officer’s) difficulty in aircraft handling identified during training during the accident flight indicated that the Lion Air recurrent training process was “not effective”.
+It was observed that the failure to declare at least a ‘PAN’ to ATC meant that ATC had not prioritised or simplified the control of the flight which would have reduced crew workload because the number of instructions to manoeuvre given would have been minimised.
+MCAS and the Type Certification of the 737-MAX variants
+The Findings of the Investigation in respect of MCAS and its role in facilitating the accident included the following:
+
+MCAS is designed to function only when the autopilot is not engaged, the flaps are fully up and there is an abnormally high AoA. As the development of the 737-MAX 8 progressed, the MCAS function was expanded to low Mach numbers and increased to a maximum MCAS command limit of 2.5° of stabiliser movement.
+During the required Functional Hazard Analysis (FHA), unintended MCAS-commanded stabiliser movement was considered by Boeing to be a failure condition with a ‘Major’ effect if it occurred in the normal flight envelope. Boeing reasoned that such a failure could be countered by using the elevator alone and also that contrary stabiliser trim is available to offload column forces and that stabiliser trim cut-out is also available but not required to counter failure. This assessment of ‘Major’ did not require Boeing to more rigorously analyse the failure condition using Failure Modes and Effects Analysis (FMEA) and Fault Tree Analysis (FTA), since these are only required for failure conditions classified as ‘Hazardous’ or ‘Catastrophic’.
+FMEA would have been able to identify single-point and latent failures which have significant effects as in the case of MCAS design. It also provides significant insight into means for detecting identified failures, flight crew impact on the resolution of failure effect, maintenance impact on isolation of a failure and corresponding restoration of a fully functioning system. Boeing’s FHA assessment was based on the applicable FAA guidance and (critically) also on the assumption that the flight crew were highly likely to respond correctly and within 3 seconds. The assessment concluded that each MCAS input could be controlled with by using the control column alone and then re-trimming to zero column force whilst maintaining the desired flight path.
+During FHA, the simulator test had never considered a scenario in which MCAS activation allowed the stabiliser movement to reach the maximum MCAS limit of 2.5°. Repetitive MCAS activations without adequate trim reaction by the flight crew would make the stabiliser move to its maximum deflection and escalate the flight crew workload so the consequences of failure effects should have been reconsidered and their combined flight deck effects evaluated.
+In the event of multiple MCAS activations with repeated electric trim inputs by flight crew without sufficient response to return the aircraft to a trimmed state, the control column force to maintain level flight could eventually increase to a level where control forces alone may not be adequate to control the aircraft. Such a cumulative mis-trim could not be countered by using the elevator alone which is contrary to Boeing’s assumption during the FHA.
+The existing NNC procedure for a stabiliser runaway was not highlighted in the context of MCAS activation consequent upon sensor malfunction and there was no immediate indication available to the flight crew to be able to directly correlate the uncommanded nose down stabilizer with that response. The assumption of relying on trained crew procedures to ensure that memory item responses would be forthcoming was inappropriate.
+Boeing considered that the loss of one AoA and an erroneous AoA as two independent events with distinct probabilities. The combined failure event probability was assessed as beyond extremely improbable, hence complying with the safety requirements for the Air Data System. However, the design of MCAS relying on input from a single AoA sensor, made this Flight Control System susceptible to a single failure of AoA malfunction.
+During the single and multiple failure analysis from the air data system worst case scenario of “failure of one AoA followed by erroneous AoA”, Boeing concluded that the effect would be hazardous until the flight crew recognised the problem and took appropriate action to mitigate it. However, since no training or the guidance for actions to be taken in such a situation was provided, the effect category should have remained hazardous.
+Since the Flight Control Computer (FCC) controlling the MCAS is dependent on a single AoA source, the MCAS contribution to cumulative AoA effects should have been assessed.
+The MCAS software uses input from only one of the available AoA sensors. Certain failures or anomalies of the AoA sensor corresponding to the master FCC controlling the Speed Trim System (STS) can generate an unintended activation of MCAS. Anticipated flight crew response including aircraft nose up (ANU) electric trim commands (which reset MCAS) may cause a flight crew difficultly in controlling the aircraft.
+An MCAS architecture with redundant AoA inputs for MCAS could have been considered but was not required based on the FHA classification of ‘Major’.
+If the probability of an undesirable failure condition is not below the maximum allowable probability for that category of hazard, redesign of the system should be considered. If the uncommanded MCAS failure condition had been assessed as more severe than ‘Major’, then the decision to rely on data input from a single AoA sensor should have been avoided.
+Boeing did not submit the required documentation and the FAA did not adequately oversee Boeing’s ‘Organisation Delegation Authorisation’ (ODA). Because the updated analysis was not included in the stabiliser Safety System Assessment (SSA) document, FAA flight control systems specialists may not have been aware of the design change.
+Boeing considered that since MCAS function is automatic, the procedure required to respond to any MCAS function was no different to existing procedures. Crews were not expected to encounter MCAS in normal operations, therefore Boeing did not consider the failure scenario seen on the accident flight. The investigation believes that the effect of erroneous MCAS function was startling to flight crew experiencing it.
+The 737-MAX should have included the intended ‘AOA DISAGREE’ alert message functionality as installed on 737 NG aircraft. Boeing and the FAA should ensure that new and changed aircraft designs are properly described, analysed and certified.
+The absence of an AoA Disagree message made it more difficult for the flight crew to diagnose the failure and for maintenance to diagnose and rectify the failure.
+The safety assessment of aircraft systems is based on 14 FAR 25.1309 which sets out the requirements for the design and installation of systems. These requirements include the analysis of effects and probabilities of single, multiple and combined failures of systems. It assumed that flight crew would correctly respond to flight conditions in case of such failures. Human error is not included in the probability analysis, even though the flight crew is often used as a means to demonstrate mitigation of a possible failure condition.
+When performing safety assessments to comply with 14 FAR 25.1309, Boeing followed the procedures set in FAA AC 25.1309-1A and SAE ARP 4761 as the AMC. When doing the analysis, Boeing assumed that all flight crew are completely reliable and would respond correctly and appropriately to the non normal situations in an appropriately timely manner. During both the accident flight and the one prior to it, some of these assumptions were incorrect, since the flight crew responded in a different way from that which was expected.
+14 FAR 25.671 (c) requires that probable malfunctions of the flight control system must be capable of being readily counteracted by the flight crew. This necessitates that normal flight crew should be able to readily identify problems and respond quickly to mitigate them. However, during the accident flight multiple alerts and indications concealed the actual problem and made it difficult for the flight crew to understand and mitigate it.
+The Flight Standardisation Board (FSB) process for the Boeing 737-8 (MAX) used airline line pilots to help ensure the requirements are operationally representative. The FAA and OEMs should re-evaluate their assumptions for what constitutes an average flight crew’s basic skill and what level of systems knowledge a ‘properly trained average pilot’ has when encountering failures.
+In the accident flight, the system malfunction led to a series of aircraft and flight crew interactions which the flight crew did not understand or know how to resolve. It is the flight crew response assumptions in the initial design process which, coupled with the repetitive MCAS activations, turned out to be incorrect and inconsistent with the FHA classification of ‘Major’.
+
+Nine Contributory Factors - actions, omissions, events, conditions, or a combination thereof which, if eliminated, avoided or absent, would have reduced the probability of the accident or mitigated the severity of its consequences - were identified. They were presented in chronological order and not to show the degree of contribution:
+
+During the design and certification of the Boeing 737-8 (MAX), assumptions were made about flight crew response to malfunctions which, even though consistent with current industry guidelines, turned out to be incorrect.
+Based on the incorrect assumptions about flight crew response and an incomplete review of associated multiple flight deck effects, MCAS’s reliance on a single sensor was deemed appropriate and met all certification requirements.
+MCAS was designed to rely on a single AoA sensor, making it vulnerable to erroneous input from that sensor.
+The absence of guidance on MCAS or more detailed use of trim in the flight manuals and in flight crew training, made it more difficult for flight crews to properly respond to uncommanded MCAS (activations).
+The ‘AOA DISAGREE’ alert was not correctly enabled during Boeing 737-8 (MAX) development. As a result, it did not appear during flight with the mis-calibrated AoA sensor, could not be responded to by the flight crew and was therefore not available to help maintenance identify the mis-calibrated AoA sensor.
+The replacement AoA sensor that was installed on the accident aircraft had been mis-calibrated during an earlier repair. This mis-calibration was not detected during the repair.
+The investigation could not determine whether the installation test of the AoA sensor was performed properly but the mis-calibration was not detected.
+Lack of documentation in the aircraft Technical Log about the continuous stick shaker activation and use of the Runaway Stabilizer Non Normal Checklist meant that (relevant) information was not available to the maintenance team in Jakarta nor was it available to the accident flight crew, making it more difficult for each to take the appropriate actions.
+The multiple alerts, repetitive MCAS activations, and distractions related to numerous ATC communications were not able to be effectively managed. This was caused by the difficulty of the situation and (sub-optimal) performance when manually flying the aircraft, executing Non Normal Checklist procedures and flight crew communication, which led to ineffective application of CRM and ineffective workload management which had previously been identified during pilot training and had reappeared during the accident flight.
+
+Safety Action as a result of the accident and advised to the Investigation whilst it was in progress has been extensive and has been taken by the following organisations. Full details are provided in the Report of the Investigation on pps 216-225:
+
+the Boeing Company (significant relevant response ongoing)
+the Federal Aviation Administration (FAA) (included grounding the aircraft type variant following the subsequent apparently related fatal accident to an Ethiopian Airlines Boeing 737 MAX-8 pending a better understanding of the issues underlying both accidents and the commissioning of the ‘Joint Authorities Technical Review (JATR)’)
+Lion Air (included measures to improve the recording of defects in the aircraft Technical Log and to ensure that Maintenance Control are properly involved in defect follow up and troubleshooting as well as actions in response to the two Safety Recommendations addressed to them in the Preliminary Report)
+Collins Aerospace (as OEM for the AoA sensors fitted to the aircraft)
+AirNav Indonesia Jakarta (minor changes to SOPs for communication with flights which may be dealing with significant malfunctions)
+the Directorate General of Civil Aviation (including grounding of the aircraft type variant on 12 March 2019).
+
+A total of 25 Safety Recommendations have been issued as follows:
+
+that Lion Air establishes a system to ensure that Company Manuals are updated in a timely manner. [04.O-2018-35.3]
+that Lion Air review their SMS training material and the duration of this training. [04.O-2018-35.4]
+that Lion Air improve their hazard report management enabling identifying the hazard and provides proper mitigation. [04.O-2018-35.5]
+that Batam Aero Technic (BAT) emphasise to their engineers that test values as required by the BAT Line Maintenance Procedures Manual (LMPM) must be recorded. [04.O-2018-35.6]
+that Batam Aero Technic (BAT) establish a system to ensure that Company Manuals are updated in timely manner. [04.O-2018-35.6]
+that Batam Aero Technic (BAT) establish a policy and procedure for handling the ‘Onboard Maintenance Function’ (OMF) defect recording system. [04.O-2018-35.8]
+that AirNav Indonesia provides information to a flight crew that the altitude indication on the ATC radar display only repeats data from the aircraft (if a cross check is requested). [04.A-2018-35.9]
+that Xtra Aerospace introduces a Company Manual which includes equivalency assessment, training and written procedures to ensure that components being repaired are properly maintained. [04.O-2018-35.10]
+that the Boeing Company considers the effect of all possible flight deck alerts and indications on flight crew recognition and response and incorporates design, flight crew procedures and/or training requirements where needed to minimise the potential for flight crew actions that are inconsistent with manufacturer assumptions. [04.M-2018-35.11]
+that the Boeing Company includes more tolerance in system design so that (safe) operation by a larger proportion of type-rated pilots is achievable. [04.M-2018-35.12]
+that the Boeing Company and the FAA more closely scrutinise the development and certification process for systems whose malfunction has the ability to lead to loss of control of the aircraft. [04.M-2018-35.13]
+that the Boeing Company develop guidance on the criteria for information which should be included in flight crew and engineer Manuals. [04.M-2018-35.14]
+that the Boeing Company ensures that certified and delivered aircraft have intended system functionality. [04.M-2018-35.15]
+that the Boeing Company reviews the task sequences in the Interactive Fault Isolation Manual (IFIM) to ensure that they are effective. [04.M-2018-35.16]
+that the Directorate General of Civil Aviation improves oversight to ensure the implementation of standard procedures. [04.R-2018-35.17]
+that the Directorate General of Civil Aviation improves the oversight of Manuals to ensure that they conform to the (required) standards and are updated in a timely manner. [04.R-2018-35.18]
+that the Directorate General of Civil Aviation reviews operators’ SMS training material and the duration of that training to ensure the adequacy of SMS implementation. [04.R-2018-35.19]
+that the Federal Aviation Administration reviews the requirements of the applicable FARs to consider any issue that may be overlooked when the requirements are considered separately. [04.R-2018-35.20]
+that the Federal Aviation Administration reviews their processes for determining their level of involvement (degree of delegation) and how changes in a design are communicated to them to ensure that an appropriate level of review occurs. [04.R-2018-35.21]
+that the Federal Aviation Administration improves its oversight of Approved Maintenance Organisations (AMO) to ensure that the processes within an AMO are conducted in accordance with the requirements. [04.R-2018-35.22]
+that the Boeing Company and the Federal Aviation Administration more closely scrutinise the development and certification process for systems whose malfunction has the potential to lead to loss of control of an the aircraft. [04.R-2018-35.23]
+that the Federal Aviation Administration works with international regulatory authorities to review the assumptions on flight crew behaviour used during design and revise certification processes to ensure that assumptions used during the design process are validated. [04.R-2018-35.24]
+that the Federal Aviation Administration works with international regulatory authorities to review guidance on the criteria for information which should be included in flight crew and engineer Manuals. [04.R-2018-35.25]
+that the Boeing Company and the Federal Aviation Administration ensure that certified and delivered aircraft have intended system functionality. [04.R-2018-35.26]
+that the Federal Aviation Administration works with international regulatory authorities to review the certification requirements for the installation of non-rechargeable lithium batteries. [04.R-2018-35.27]
+
+The Final Report of the Investigation was published on 25 October 2019. It acknowledged the issue of 7 related NTSB Safety Recommendations to the FAA on 19 September 2019.
+Related Articles
+
+Loss of Control
+Maneuvering Characteristics Augmentation System (MCAS)
+Angle of Attack (AOA)
+Unreliable Airspeed Indications
+Aircraft Technical Log
+Flight Controls
+Trim Systems
+Airworthiness
+Certification of Aircraft, Design and Production
+Safety Management System
+Crew Resource Management (CRM)
+Emergency Communications
+The Joint Authorities Technical Review (JATR) - Boeing 737 MAX Flight Control System
+B38M, en-route south east of Addis Ababa Ethiopia, 2019

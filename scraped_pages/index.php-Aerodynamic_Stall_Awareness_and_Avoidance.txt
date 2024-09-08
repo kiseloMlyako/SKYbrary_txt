@@ -1,0 +1,213 @@
+Aerodynamic Stall Awareness and Avoidance
+
+
+
+
+
+
+
+
+
+
+
+  Aerodynamic Stall Awareness and Avoidance
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Control 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ The Air Pilots
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Inadvertent loss of control of aircraft continues to occur. Such losses of control usually involve a full stall or an approach to a stall at some stage in the event sequence, whether as the initiating factor or as a later consequence. This article briefly reviews the awareness and avoidance of aerodynamic wing stalls with particular reference to modern multi-engine public transport aircraft. It also touches on the subjects of stall detection and recognition as well as the generic requirements for stall recovery. It does not consider the subject from the perspective of light aircraft or address the special case of tailplane stalls, although in both cases, the underlying principles which govern the stall of any aerofoil remain the same.
+Theory
+The wing is mounted on the fuselage at an angle of incidence so that in level cruising flight, with the fuselage close to horizontal, the wing has a small, positive angle of attack relative to the airflow. As airspeed is reduced, the angle of attack needs to increase to maintain the value of the lift force being produced by the wing. This will continue until the critical angle is reached at which point the wing stalls. The value of the critical angle will be dependent on the cross-section of the aerofoil, the configuration of the wing (flaps/slats/spoilers) and the design planform of the wing.
+The indicated airspeed (IAS) at which the critical angle is reached and the wing stalls will vary with changes in aircraft weight, centre of gravity (CG) and load factor (or G):
+
+In 1G flight, the critical angle is reached at increasing IAS as aircraft weight increases.
+The critical angle will be reached at a higher IAS as CG moves forwards.
+When compared to a wings level (1G) stall, the IAS at which critical angle is reached in a level stabilised, 15 degree angle of bank turn is 3.5% higher; in a 45 degree angle of bank turn it is 19% higher. These increases are a result of the increased G needed to keep the aircraft in a stabilized turn as bank is increased.
+When manoeuvring hard at 2G, the IAS at which the critical angle will be reached – and stall will occur – will be 41% higher than when flying at 1G. Although this is still a high incidence stall in terms of airflow behavior, it is often referred to as a High Speed stall
+
+When flying below transonic speeds, at any given aircraft weight, the indicated airspeed (IAS) at which the wing will stall is the same at all altitudes because both the stalling angle of attack (critical angle), and indicated airspeed, change relative to ambient air density. This type of stall is sometimes described as a high incidence stall. While the IAS at the stall remains constant for any given condition of weight, CG and G loading, the true airspeed (TAS) at which a wing stalls will increase with altitude.
+As altitude increases and air density decreases, the gap between IAS and TAS increases, until the TAS becomes a significant proportion of the speed of sound. Eventually the airspeed over the upper surface exceeds the local speed of sound, and shock waves form toward the trailing edge. These shocks will eventually cause a high speed buffet but at Mach numbers well above Mmo. Shock waves can also form near the leading edge at a high angle of incidence and high altitude and these will progressively limit the achievable incidence, so the stalling speed, IAS, will increase. So if buffet occurs at high altitude it could be due to either under- or over-speed, the clue is the angle of incidence - lower than normal cruise incidence = high speed buffet, higher than normal cruise incidence = low speed buffet (but at an IAS rather larger than normal low speed stall occurs). It follows that pilots must be aware of their normal operating conditions in order to correctly diagnose any anomaly. Note that while some modern aircraft have stall-warning systems that adjust for Mach number, others do not, and a stall as just described can occur without an accompanying stall warning
+When Stalls Most Often Occur
+Accident and incident reports show that most full or near-full stalls of transport aircraft occur in one of the following situations and usually in IMC or where there is no natural visual horizon:
+
+During inappropriate response to an un-commanded autopilot disconnect at high altitudes. (Uncommanded AP Disconnect due to malfunction of other systems)
+At low altitudes when the indicated airspeed is unintentionally allowed to deviate significantly from the intended and necessary target (Airspeed Awareness)
+At low altitudes in the presence of frozen deposits on the wings (Airframe Icing)
+During a mishandled go around (Aircraft management and Flying Skills)
+Because of insufficient understanding of automation as it affects flight envelope protection systems.
+Improper slats/flaps configuration (Aircraft Configuration)
+
+Autopilot (AP) Disconnect due to malfunction of other systems is liable to create a significant ‘startle factor’ for both pilots and remove some of the flight envelope protections commonly provided by Fly-By-Wire (FBW) flight control systems. Manual flying at high altitude is rarely practiced and there is not always sufficient awareness of the different ‘feel’ of the flight controls at high altitude compared to those experienced lower altitudes. Simultaneous AP disconnect and automatic reversion to a lower FBW Control Law, makes it important to keep the aircraft within a safe envelope. It is also important that crews are completely familiar with which levels of protection are (or are not) available under all normal, non-normal and emergency situations.
+Loss of Airspeed Awareness arises because of a fundamental failure to prioritise the flying and management of an aircraft over other things, especially in the presence of distractions of any type. Typical distractions are minor technical malfunctions and their secondary effects. However, such failures involve the roles of both PF and PM and may arise as an indication of much wider issues for individuals, CRM between them or evidence flight standards problems in the Operator.
+Unanticipated Airframe Icing typically leads to unexpected stalling at relatively low altitudes:
+
+Just after take off when ground de/anti icing has not been properly carried out (or carried out at all) or when the effective hold over time since the commencement of treatment has been exceeded. Contamination of one or both wings with frozen deposits reduces the critical angle of attack so that the stall warning/protection systems do not operate before an actual stall occurs.
+During approach as configuration is changed, accumulated wing surface ice changes the stall angle of attack and compromises the degree of warning provided by the stall protection system
+
+A stall or near stall during a go around is usually the result of poor Aircraft management and Flying Skills, including ineffective CRM and failure to follow standard operating procedures, and may arise from poor manual handling or because of mismanagement of the automatic flight control systems/autopilot.
+A stall that occurs as a consequence of insufficient understanding of automation usually involves the pilot making flight control inputs without adequately monitoring parameters (e.g. IAS) that the pilot thought to be under automatic control; these can occur through the automation acting as designed but not as the pilot expected or following automation failure (see B738, vicinity Amsterdam Netherlands, 2009).
+Stall Recognition
+Stall warning systems are designed to identify an impending stall at the incipient stage so pilot intervention can occur in time to prevent the full aerodynamic stall of the aircraft. However, pilot overload due to an emergency or an unreliable speed situation, the failure of stall warning equipment or an aircraft upset can all mask the effectiveness of the warning systems and a fully developed stall may occur without pilot awareness.
+Generic indicators of an aerodynamic stall can include:
+
+Activation of artificial stall warnings
+Aircraft buffet
+Reduced flight control authority, especially reduced or loss of roll control
+Significant aft control column displacement
+High rate of descent
+A nose down pitching tendency at the point the stall occurs
+
+However, not all aircraft react in the same manner and the visual and tactile cues found in many aircraft may be absent in others. As examples:
+
+Not all aircraft have an audio stall warning
+Not all aircraft experience significant buffet during a stall
+In some Fly-By-Wire aircraft, such as the Airbus A320, there is no aft flight deck control (side stick) displacement
+Some swept wing aircraft experience a nose up pitching tendency at stall onset vice the nose down pitching moment associated with a "conventional" stall
+
+For these reasons, it is critical that pilots thoroughly understand the stall characteristic of their aircraft type as well as the aircraft stall warning, prevention and/or recovery systems inclusive of their limitations, and the possible ramifications of any potential system failures (e.g. failure modes).
+Stall Recovery
+Pilots must be able to recognise the stall characteristics of their aircraft type and, if specified by the manufacturer, know and be able to correctly apply the recommended recovery technique. In the absence of a manufacturer specified recovery procedure, the following guidance is offered by the FAA and endorsed by EASA.
+In late 2012, the FAA released AC 120-109 Stall and Stick Pusher Training (replaced in January 2017 by AC 120-109A) which acknowledges "Reduction of Angle of Attack (AOA) is the most important response when confronted with a stall event." It further outlines the following stall recovery template:
+
+Autopilot and autothrottle ... Disconnect - While maintaining the attitude of the airplane, disconnect the autopilot and autothrottle. Ensure the pitch attitude does not increase when disconnecting the autopilot. This may be very important in out-of-trim situations. Manual control is essential to recovery in all situations. Leaving the autopilot or autothrottle connected may result in inadvertent changes or adjustments that may not be easily recognized or appropriate, especially during high workload situations.
+Nose down pitch control ... Apply until stall warning is eliminated or, when required, Nose down pitch trim ... As Needed - Reducing the angle of attack is crucial for recovery. This will also address autopilot-induced excessive nose up trim. If the control column does not provide sufficient response, pitch trim may be necessary. However, excessive use of pitch trim may aggravate the condition, or may result in loss of control or high structural loads.
+Bank ... Wings Level - roll wings level if the stall is in the turn. This orients the lift vector for recovery.
+Thrust ... As Needed - During a stall recovery, maximum thrust is not always needed. A stall can occur at high thrust or at idle thrust. Therefore, the thrust is to be adjusted accordingly during the recovery. For airplanes with engines installed below the wing, applying maximum thrust may create a strong nose-up pitching moment if airspeed is low. For airplanes with engines mounted above the wings, thrust application creates a helpful pitch-down tendency. For propeller-driven airplanes, thrust application increases the airflow around the wing, assisting in stall recovery.
+Speed brakes/Spoilers ... Retract - This will improve lift and stall margin.
+Return to the desired flight path - Apply gentle action for recovery to avoid secondary stalls, then return to desired flight path. Having recovered from the stall, the priority is to ensure clearance from terrain.
+
+Managing the Risk
+The best way to avoid inadvertent stall is to first be aware of the conditions where stall is likely and then to avoid those conditions or to concentrate on stall avoidance when operating deliberately close to the stall.
+Technical mitigations to avoid inadvertent stall include stall warning devices and flight envelope protection systems, though under some circumstances as described above, these may be ineffective. Therefore, the actions available for reducing any heightened risk of a stall and consequent loss of control generally lie in the area of flight training - in the classroom and the full flight simulator - and in the application of, and adherence to, appropriate SOPs.
+Establishing whether training and SOPs adequately address the risk depends largely on the effective assessment of individual pilot competency. However, the widespread adoption of OFDM now provides an opportunity to analyse a range of lesser ‘precursor’ events where there has been an abnormal deviation from an expected flight path towards a stalled condition followed by a successful recovery. Such occurrences can be tracked back to particular pilots and to their training histories, enabling gaps in pilot training, knowledge or SOPs to be addressed throughout an operator’s fleet.
+Some Examples of Stall Accidents and Incidents
+
+A332, en-route, Atlantic Ocean, 2009 - (Uncommanded AP Disconnect due to malfunction of other systems): On 1 June 2009, an Air France Airbus A330-203 disappeared over the Atlantic Ocean while transiting the ITCZ, a belt of thunderstorm activity. The wreckage was not found until almost 2 years later (April 2011) and the flight recorders were recovered shortly after that. The investigation has been completed and a final report released by the French BEA.
+B738, vicinity Amsterdam Netherlands, 2009 - (Airspeed Awareness): On 25 February 2009, a Boeing 737-800 being operated by Turkish Airlines crashed 1.5 kilometres short of the threshold of Runway 18R at Schiphol airport, Amsterdam following a loss of control during a daylight coupled ILS approach to that runway.
+CL60, Birmingham UK, 2002 - (Airframe Icing): On 4 January 2002, a Challenger 604 operated by Epps Air Service, crashed on takeoff from Birmingham, UK, following loss of control due to airframe icing.
+B733, vicinity Bournemouth UK, 2007 - (Aircraft management and Flying Skills): On 23 September 2007, a Boeing 737-300 operated by Thomsonfly, on routine ILS approach at night to Bournemouth Airport, experienced a stall during early stage of the approach. The auto-throttle disengaged with the thrust levers in the idle thrust position. The disengagement was neither commanded nor recognised by the crew and the thrust levers remained at idle throughout the approach. As result of the stall, the commander took control and initiated a go-around. During the go-around the aircraft pitched up excessively; flight crew attempts to reduce the aircraft’s pitch were largely ineffective. The aircraft reached a maximum pitch of 44° nose-up and the indicated airspeed reduced to 82 kt. The flight crew, however, were able to recover control of the aircraft and complete a subsequent approach and landing at without further incident.
+A306, vicinity Nagoya Japan, 1994 - (insufficient understanding of automation as it affects flight envelope protection systems ): On 26 April 1994, a China Airlines Airbus AIRBUS A-300 flying an ILS approach to Runway 34 at Nagoya Airport, Japan, under manual control, stalled and crashed after mishandling by the pilots caused by inadvertent selection of GO AROUND mode, failure to recognise the developing abnormal out of trim situation, and a lack of understanding of the Flight Director and Autopilot.
+
+Related Articles
+
+High Altitude Flight Operations
+
+Further Reading
+UK CAA
+
+Monitoring Matters: Guidance on the development of Pilot Monitoring Skills, CAA Paper 2013/02.
+
+NTSB Safety Alerts on General Aviation risks
+
+Safety Alert 19 - Prevent Aerodynamic Stalls at Low Altitude
+Safety Alert 20 - Reduced Visual References Require Vigilance
+Safety Alert 23 - Pilots: Manage Risks to Ensure Safety
+
+ICAO
+
+ICAO Amendment No.3 to PANS-TRG (Doc 9868) - Chapter 7, Upset Prevention and Recovery Training, April 2014.
+
+EASA
+
+EASA SIB 2013-02 - Stall and Stick Pusher Training
+
+EGAST safety promotion leaflet for General Aviation pilots
+
+Stall and spin loss of control
+
+FAA
+
+FAA AC 120-111 Upset Prevention and Recovery Training, April 2015.
+FAA AC 120-109A Stall Prevention and Recovery Training, January 2017
+SAFO 17009: Airman Certification Standards (ACS): Slow Flight and Stalls, May 2017
+
+
+
+
+
+Categories
+
+
+Loss of Control
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

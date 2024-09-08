@@ -1,0 +1,207 @@
+Basic Controller Techniques: Vertical Speed
+
+
+
+
+
+
+
+
+
+
+
+  Basic Controller Techniques: Vertical Speed
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Separation 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+This article describes the use of vertical speed (rates of climb and descend) by air traffic controllers to control the traffic flow and solve conflicts. It describes the general procedures, typical applications and associated risks. It also gives some advice on the use of this method by air traffic controllers. Note that any part of this article is not intended to act as or replace any existing local procedures.
+Description
+In order to facilitate a safe and orderly flow of traffic, aircraft may be instructed to adjust rate of climb or rate of descent. Vertical speed adjustments should be limited to those necessary to establish and/or maintain a desired separation minimum. Instructions involving frequent changes of climb/descent rates should be avoided.
+Climbing/descending aircraft may be instructed to maintain a specified rate of climb/descend, a rate of climb/descent equal to or greater than a specified value or a rate of climb/descent equal to or less than a specified value.
+An aircraft may be instructed to expedite climb or descent as appropriate to or through a specified level, or may be instructed to reduce its rate of climb or rate of descent.
+Aircraft must be advised when a rate of climb/descent restriction is no longer required. The flight crew must inform the ATC unit concerned if unable, at any time, to comply with a specified rate of climb or descent.
+Phraseology
+The vertical speed clearance may be a part of a vertical clearance or a separate one. It specifies the required rate of climb/descent, usually in feet per minute and may also contain:
+
+upper or lower limit of the vertical speed, if applicable. The phrases "or greater" and "or less" are used in this case. If no limit is specified, then the aircraft is expected to maintain an exact vertical speed.
+a condition, if applicable (e.g. until passing a level or a point)
+further information (e.g. reason for the restriction, e.g. traffic, special use area, etc.)
+
+Note: Vertical speed instructions may also be given in meters per second. 1000 ft equals 5 meters per second.
+Examples:
+PRE078 climb FL 370 at 1000 feet per minute or greater until passing FL 360 due crossing traffic.
+EKR365 descend FL 120 at 1500 feet per minute or less.
+SNA031 descent at 2500 feet per minute or greater due traffic.
+SLV015 climb at 1500 feet per minute or greater until passing FL 220 due danger area ahead.
+Typical Uses
+
+Accommodation of climb requests
+
+
+
+Separation of departing and arriving traffic
+
+
+
+Descending arriving aircraft below the overflying traffic
+
+
+
+Vertical sequencing, i.e. establishing and maintaining vertical separation between two (or more) climbing or two (or more) descending aircraft
+
+
+
+Corrective action (e.g. when the unrestricted vertical speed is considered insufficient)
+
+
+Benefits
+When properly used, vertical speed control helps to achieve
+
+continuous climb/descend (fewer level offs), therefore better efficiency
+descents starting close to the top-of-descent
+timely accommodation of climb (mostly) and (sometimes) descend requests
+reduced workload due to reduced need for vectoring. A proper vertical speed ensures that horizontal separation will be preserved at least until vertical separation is achieved.
+
+Associated Risks
+
+The margin for error is often reduced. This method relies mostly on maintaining vertical separation, which is much smaller than the horizontal one (e.g. 1000 ft as opposed to 5 NM). Therefore, any misunderstanding or non-compliance can easily result in loss of separation.
+Harder to monitor aircraft compliance (as opposed to e.g. vectoring). While the information for vertical speed is usually available, it may require some effort to present it. Furthermore, the interpretation of two (or more) numbers and the comparison of clearances versus performance takes more time than just having a look at the situational display (which is used to monitor horizontal separation).
+Aircraft may be unable to maintain the assigned rate of climb after certain level. If this happens, flight crew may or may not inform the controller.
+Wrong readback may easily ruin the plan (e.g. both aircraft descending with "or greater")
+A correct readback does not guarantee compliance (e.g. A321 / B738, en-route, south eastern Bulgaria, 2016)
+
+Things to Consider
+
+Rates of climb should be coordinated with the flight crew, especially:
+
+when approaching the cruising level
+when the climb is not desired by the flight crew
+when temperatures are high
+
+
+Some aircraft types are generally unable to maintain a high rate of climb (e.g. AIRBUS A-321, AIRBUS A-340-300)
+In order to mitigate the risks for crossing or opposite traffic situations, a safety buffer of 1 or 2 minutes should be used. This can be done by e.g.
+
+Issuing the clearance(s) a bit earlier
+Assigning vertical speeds that are a little higher (e.g. 1500 instead of 1000)
+
+
+High rates of descent are generally incompatible with low speeds. A combined instruction to reduce speed and increase the RoD should be coordinated with the flight crew.
+The aircraft needs time to achieve higher rates (2000 ft/min or higher). The transition period should be considered when calculating the necessary vertical speed.
+During the final 1000 ft, the vertical speed is usually 1000 ft/min or less. This is done to avoid level busts. It is therefore impractical to assign a rate of 2000 ft/min or greater if the aircraft is to climb or descend some 2000-3000 ft.
+The phrases "Expedite climb" and "Expedite descent", while being standard ICAO phraseology do not prescribe specific vertical speeds and should be used with caution. The general expectation in such case would be that:
+
+a climbing aircraft would climb at the highest rate possible (which may or may not be enough to achieve the desired result). It is therefore advisable that larger safety buffers are used or an alternative plan is ready for implementation.
+a descending aircraft would increase the rate of descent to at least 2000 ft/min. It is therefore advisable that this method is used for the first few thousand feet (e.g. for an aircraft at FL 390 "Descend FL 290, expedite passing FL 370 due crossing traffic")
+
+
+There should always be an alternative plan to accommodate for an aircraft being unable to continue climb with the desired rate.
+
+Rules of Thumb
+
+Vertical speed of 2000 ft/min gives 10 FLs in 5 minutes
+Vertical speed of 2500 ft/min gives 10 FLs in 4 minutes
+Combined vertical speed of 4000 ft/min (e.g. RoD 2500 and RoC 1500) gives 20 FLs in 5 minutes
+
+Note: Combined vertical speed is the sum of the vertical speeds of a climbing and a descending aircraft, e.g. if aircraft A is climbing at 1500 ft/min and aircraft B is descending at 2000 ft/min, then the combined vertical speed is 3500 ft/min.
+Related Articles
+
+ATC Clearance
+Basic Controller Techniques: Vectoring
+Basic Controller Techniques: Speed Control
+Basic Controller Techniques - Level Change
+Basic Controller Techniques: Direct Routing
+Conflict Solving
+ATC Clearance Error
+
+
+
+
+
+Categories
+
+
+Loss of Separation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

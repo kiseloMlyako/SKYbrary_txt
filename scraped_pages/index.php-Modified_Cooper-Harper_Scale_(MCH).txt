@@ -1,0 +1,275 @@
+Modified Cooper-Harper Scale (MCH)
+
+
+
+
+
+
+
+
+
+
+
+  Modified Cooper-Harper Scale (MCH)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+The modified Cooper-Harper Scale (MCH) is a subjective self-assessment method.
+The controllers rate their experience of the exercise on a ten-point scale:
+
+
+
+Level
+Description
+
+
+10
+Impossible
+
+
+9
+Intense Effort: Many Errors left
+
+
+8
+Maximum Effort to avoid large errors
+
+
+7
+Maximum Effort for moderate errors
+
+
+6
+Maximum Effort for adequate performance
+
+
+5
+High Effort
+
+
+4
+Moderate Effort
+
+
+3
+Acceptable Effort
+
+
+2
+Low Effort
+
+
+1
+Minimal Effort
+
+
+
+Discussion
+Cooper and Harper (1969) devised the scale which bears their names as a method of measuring the handling characteristics of aircraft by experienced test pilots. Williges and Wierwille (1979) suggested that it could be used as a measure of the mental workload involved in the task of flying. The modified Cooper-Harper scale (Wierwille et al. 19850 adapts the wording of the original scale to apply to more general tasks than flying an aircraft.
+References
+
+Modified Cooper-Harper Scale (MCH)
+
+
+
+
+
+Categories
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+Generics
+
+
+Type of method
+Subjective
+
+
+Data derived from controllers’ responses.
+
+
+Target of method
+Workload
+
+
+MCH can be used, in principle, on-line. It is particularly useful where workload varies during a task, and may experience peaks.
+
+
+Time Scale of method
+Minutes
+
+
+Portability of method
+Yes
+
+
+Only paper forms and briefing material are needed for the MCH, so that it can be carried out anywhere.
+
+
+Observer Effect
+No
+
+
+Context of studies
+
+
+Laboratory studies
+Use
+
+
+ 
+
+
+Simulation studies
+Use
+
+
+ 
+
+
+Field studies
+Use
+
+
+ 
+
+
+Potential problems with the method
+
+
+Failure risk
+Low
+
+
+If the controller is not able to make a MCH rating, this is probably because he is in level 9 or 10 of difficulty. Where possible, as with the ISA test (QV) the time taken to respond may be a useful auxiliary measure.
+
+
+Bias risk
+Low
+
+
+Operators may be reluctant to admit they are getting into difficulties, if they suspect that they, not the system, are on trial.
+
+
+Ethical problems
+None
+
+
+None, provided it is made clear, before any simulation, that information on the performance or physical state of individual controllers will not be disclosed or quoted in any identifiable form.
+
+
+Costs of the method
+
+
+Staff Cost
+Nil
+
+
+Distribution and collection of MCH forms can be handled by simulation staff.
+
+
+Set-up Cost
+Low
+
+
+Since all briefing material and recording forms are publicly available, set-up cost is very low. The test must be properly explained, in addition to the printed explanations, by someone of sufficient status to convince the controllers that it is to be taken seriously.
+
+
+Running Cost
+Low
+
+
+The only running cost is that of one form per controller per exercise.
+
+
+Analysis Cost
+Low
+
+
+Analysis may requires the transcription of the controllers’ responses, although these could be collected automatically.
+
+
+Analysis data
+
+
+Analysis Speed
+Fast
+
+
+In principle, results should be available immediately minutes after the exercise.
+
+
+Data Automation
+Easy
+
+
+A simple data collection program could be incorporated into the simulator software. To date, there has been no pressure for this to be done.
+
+
+Analysis Automation
+Easy
+
+
+Easily implemented on a palm-top or laptop computer.
+
+
+Status
+Established
+
+
+Established - routinely used.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

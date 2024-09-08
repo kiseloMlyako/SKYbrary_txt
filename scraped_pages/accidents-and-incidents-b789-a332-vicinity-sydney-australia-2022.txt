@@ -1,0 +1,374 @@
+B789 / A332, vicinity Sydney Australia, 2022
+
+
+
+
+
+
+
+
+
+
+
+  B789 / A332, vicinity Sydney Australia, 2022
+
+
+
+
+
+
+
+
+
+Summary
+
+On 28 September 2022, a Boeing 787-9 and an Airbus A330-200 were successively cleared for takeoff from Sydney having been instructed to follow the same SID and climb to the same level - FL280. The A330 climbed faster than the controller anticipated and turned towards the next waypoint inside the preceding aircraft, resulting in a loss of separation. The Investigation found that the SID concerned did not provide separation assurance to aircraft with different performance characteristics because aircraft had to satisfy two separate conditions prior to turning which meant the turning point was not a fixed position.
+
+
+
+
+Event Details
+
+When
+
+28/09/2022
+
+
+
+Event Type
+
+
+HF,
+              LOS
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 787-9 Dreamliner
+
+
+
+
+
+
+
+
+
+Operator
+
+British Airways
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Sydney Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Singapore Changi Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Climb
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS A-330-200
+
+
+
+
+
+
+
+
+
+Operator
+
+Qantas
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Sydney Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Cairns Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Climb
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+YSSY
+
+
+
+
+General
+
+Tag(s)
+
+
+              Airspace Design
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              ATC clearance error,
+              Distraction
+          
+
+
+
+
+LOS
+
+Tag(s)
+
+
+              Required Separation not maintained,
+              ATC Error
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Air Traffic Management
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 28 September 2022, a Boeing 787-9 (G-ZBKF) being operated by British Airways on a scheduled international passenger flight from Sydney to Singapore as BA16 and an Airbus A330-200 (VH-EBK) being operated by Qantas Airways on a scheduled domestic passenger flight from Sydney to Cairns as QF926 lost prescribed separation in day VMC when issued with same SID and then given successive takeoff clearances and came within 600 feet vertically and 2.4nm laterally of each other as corrective action was taken by the controller. 
+Investigation
+A Serious Incident Investigation into the event was carried out by the Australian Transport Safety Bureau (ATSB). Sufficient recorded trajectory and communications data were available from ATC to complete the Investigation. 
+What Happened
+Both aircraft departed from runway 26R having been given the same DEENA 7 SID with the A330 three minutes and 6.3nm behind the 787. The relevant part of this SID is shown on the first illustration below. When the 787 checked in with Departures and advised climbing as cleared to 5000 feet, it was re-cleared to FL280 and continued towards the right turn required at or after waypoint DEENA subject to having reached 6000 feet.
+The following A330 was similarly re-cleared to FL280 after waypoint DEENA subject to also having first reached 6000 feet. The A330 reached 6000 feet soon after DEENA and began the right turn to ANKUB almost 3nm earlier than the heavier and slower-climbing 787 ahead. When the Departures controller saw this, he instructed the A330 to stop their climb at 9,000 feet and received the response that “they would do their best”. He then instructed 787 to expedite their climb through 10,000 feet and advised the A330 that there was a 787 above and they would step climb their aircraft underneath it. The A330 crew reported that they could see this aircraft.  
+Required separation standards were breached with the minimum vertical separation reducing to 600 feet (1000 feet required) and lateral separation reducing to 2.4 nm (4nm required).
+Why It Happened
+The controller assessed that the A330 would have a similar climb performance to the 787 ahead having not recognised that as making a domestic flight, the A330 would be likely to have a significantly lower fuel load and therefore better climb performance than the more heavily-fuelled 787. The potential consequences of two successive flights following a SID which had a significant (flexible position) right turn to the next (fixed position) waypoint as soon as 6000 feet QNH were therefore not considered. When the A330 was observed to be turning inside the 787 ahead having reached 6000 feet more quickly, action to ensure required separation (1000 feet vertically or 4nm horizontally) for standard (and in the latter case for wake turbulence) separation of successive departures from the same runway) was taken but not in time to prevent this minimum permitted separation being breached. As the STCA was not activated, the controller did not preface his instructions with the phrase ‘avoiding action’ or communicate them as a ‘safety alert’ as required by the MATS.
+
+The relevant part of the DEENA7 RNAV SID. [Reproduced from the Official Report] 
+ANSP Airservices Australia advised that “SIDs do not provide longitudinal separation between aircraft which are following in trail with another aircraft” and controller intervention may therefore be necessary to ensure prescribed separation is maintained.
+The Investigation considered that despite this caveat, the design of the SID involved (DEENA SEVEN) and possibly others “did not provide a positive method of providing lateral separation assurance to departing aircraft with differing climb performance” because aircraft had to satisfy two separate conditions prior to making a turn and there was no way of ensuring aircraft would turn at the same distance from the airport so lateral separation could not be assured.
+
+The ground tracks of both aircraft showing loss of lateral separation resulting from the different positions where the required right turn could be commenced. [Reproduced from the Official Report] 
+It was noted that in the last 10 years, 6 of the 8 losses of separation reported to the ATSB involving aircraft cleared on a SID where a following aircraft has climbed faster than the aircraft ahead were on Sydney Airport departures and 5 involved the DEENA 7 SID. 
+Airservices Australia informed the Investigation that during airspace re-planning in the Sydney area necessary because of the opening of the new Western Sydney International Airport expected in 2026, the DEENA 7 SID has been redesigned to remove the conditional requirements of the current procedure.       
+Two Contributing Factors were formally documented based on the findings of the Investigation, one of which was classified as a Safety Issue and is identified as such:
+
+When clearing two aircraft on the DEENA 7 standard instrument departure, the controller incorrectly assessed that they would have similar climb performance and became distracted and did not detect the relatively higher climb performance of the departing Airbus A330 aircraft. This resulted in the A330 turning inside the preceding Boeing 787 and a loss of separation standards with that aircraft.  
+The DEENA 7 standard instrument departure has no designed positive separation assurance method, making it susceptible to loss of separation occurrences. [Safety Issue]
+
+Safety Action taken in respect of the identified Safety Issue was advised as follows:
+Airservices Australia has redesigned the DEENA 7 SID to remove the 2 conditional requirements of the procedure. The changes are planned to be part of the first implementation package for Western Sydney International (Nancy-Bird Walton) Airport, although at the time of writing the timeframe was unknown.
+The ATSB stated in response that “as no timeframes for the implementation could be provided, it will continue to monitor the identified Safety Issue and provide public updates online".
+In Conclusion, a Safety Message based on the Investigation Findings was as follows:
+Maintaining separation in high traffic terminal areas, such as Sydney, requires that both controllers and flight crews remain vigilant, maintain open communications, and use the available systems and tools to minimise the risk of errors. When sequencing departures, controllers should consider a number of factors, including how the flight duration (and the associated fuel load), will likely affect aircraft climb performance. 
+Standard Instrument Departures are designed to expedite the safe and efficient flow of air traffic operating from airports through the use of specific routings, levels, speed restrictions and waypoints. Where a SID, with limited designed separation assurance is used, it is important that air traffic controllers regularly monitor individual aircraft performance rather than rely on expected flight characteristics.
+
+The Final Report was released on 3 March 2023. 
+Related Articles
+
+Loss of Separation
+SIDs and STARs
+Vigilance in ATM

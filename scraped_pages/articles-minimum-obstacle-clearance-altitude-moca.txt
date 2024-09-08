@@ -1,0 +1,153 @@
+Minimum Obstacle Clearance Altitude (MOCA)
+
+
+
+
+
+
+
+
+
+
+
+  Minimum Obstacle Clearance Altitude (MOCA)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Minimum obstacle clearance altitude (MOCA). The minimum altitude for a defined segment that provides the required obstacle clearance. 
+Source: ICAO Doc 8168 PANS-OPS
+Description
+The MOCA is the sum of the terrain/obstacle elevation (whichever is higher) and the minimum obstacle clearance (MOC). It provides the required clearance above obstacles contained inside the obstacle clearance areas. Charting accuracies are taken into account when establishing minimum altitudes by adding both a vertical and a horizontal tolerance to the depicted objects on the chart.
+The MOC value to be applied in the primary area for the en-route phase of an IFR flight is 1000 ft (300 m). In mountainous areas, the minimum obstacle clearance applied is as follows:
+
+
+
+Terrain Elevation
+Obstacle Clearance
+
+
+
+
+3000 ft - 5000 ft (900 m - 1500 m)
+1500 ft (450 m)
+
+
+Greater than 5000 ft (1500 m)
+2000 ft (600 m)
+
+
+
+For information concerning the construction of the obstacle segment see ICAO Doc 8168, PANS-OPS, Volume I.
+EUROCONTROL Cold Temperature Correction Guidance and Tool
+
+Guidelines for Cold Temperature Corrections by ATS
+Cold Temperature Correction Tool - This electronic tool (Excel Workbook) provided in conjunction with the Guidelines for Cold Temperature Corrections by ATS is intended to assist airspace designers and ATS authorities, in general, to assess how temperature correction can be most effectively accommodated in the airspace design, to identify which temperature ranges would provide the most efficient utilisation of a given volume of airspace. The tool provides three spreadsheets where the user may calculate the value of the correction required for a given set of parameters, the possibility to calculate the effect of the cold temperature on the minimum vectoring altitude and the possibility to assess a the correction for temperature banding.
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+Related Articles
+
+Minimum Safe Altitude (MSA)
+Minimum Sector Altitude (MSA)
+Minimum En-route Altitude (MEA)
+Terminal Arrival Altitude (TAA)
+Altimeter Temperature Error Correction
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

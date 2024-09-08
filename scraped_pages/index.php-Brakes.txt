@@ -1,0 +1,221 @@
+Brakes
+
+
+
+
+
+
+
+
+
+
+
+  Brakes
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Flight Technical 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+A brake is a device for slowing or stopping the motion of a machine or vehicle, or restraining it from starting to move again.
+General Description
+Aircraft brakes, for land based aircraft, are almost exclusively located on the main wheels although there have been some aircraft over the years which have also had nose wheel brakes. Operation of the brakes has evolved from a single lever applying all brakes symmetrically, to heel operated pedals, to toe operated brake controls incorporated into the rudder pedals. With the foot operated controls came the ability to apply left or right brakes independently allowing use of differential braking to steer the aircraft during ground operations and to maintain directional control during that portion of the takeoff or landing roll when the airspeed is too low for the aerodynamic controls to be effective.
+In early aircraft, transmission of the brake control input to the braking device was mechanical - most often through cables. This was inefficient and could only be effectively used in small aircraft. The solution was to develop hydraulically activated brakes and this remains the standard on the vast majority of aircraft flying today. In small aircraft, the system can be powered by a master cylinder and does not need hydraulic pumps. In larger aircraft, pumps are required to provide the necessary hydraulic fluid pressure and volume. In the continuing quest to develop lighter, more efficient aircraft, electrically activated brakes are starting to come into service on some of the newest generation passenger aircraft.
+Braking System Design
+Early aircraft had a single braking system with no backup or redundancy. This was seen as impractical by the operators and unacceptable by the regulating authorities so manufacturers were soon incorporating more robust braking systems into their designs. Some of the earlier solutions simply addressed the loss of the primary hydraulic pump and incorporated hand pumps or electrically driven hydraulic pumps to provide an alternate source of hydraulic pressure. These solutions did not address failures due to loss of fluid and were deemed inadequate. To overcome this, some manufacturers such as Convair incorporated a compressed air system into their designs for emergency braking. While it achieved the requirement of providing an independent means of activating the brakes, it was limited in that it did not allow for differential braking and in that the tank contained a finite amount of compressed air. Braking redundancy in most large passenger aircraft today is achieved by multiple, independent hydraulic systems backed up by accumulators. These systems allow for several layers of failure without resulting in total loss of braking capability.
+
+Brake assembly on a 737NG main landing gear
+Carbon Fibre Brakes
+The brakes themselves have also evolved over the years. Drum style brakes were still prevalent on many aircraft designed and built in the 1940s. Inefficient drum brakes have given way to disk brakes, initially with single and now more commonly with multiple rotors. The rotors are most commonly made from iron or steel but in the last 20 years, more and more aircraft have been equipped with carbon fibre brakes. There are multiple reasons for this evolution but the two most compelling ones are weight reduction and efficiency. Efficiency is particularly critical, for as aircraft get larger and their weight increases, the brakes must be capable of dissipating more energy. The kinetic energy of an aborted takeoff or a landing is largely converted to heat by the wheel brakes. Carbon brakes are still fully functional and retain the ability to absorb energy and slow the aircraft at and well beyond temperatures at which steel brakes have lost their efficiency and have started to “fade”.
+Certification
+It is a certification requirement that the braking system of an aircraft has the ability to stop an aircraft at maximum certified takeoff weight with the reject initiated at decision speed. The certification process must be done with all brakes worn to near their service limit (nominally 10% remaining life) and the brake and wheel heat sink must be robust enough that no intervention in terms of fire fighting or artificial cooling is required for 5 minutes after the aircraft has been stopped. The use of ground spoilers and maximum anti-skid braking is used during the certification test; however, reverse thrust on the engines or propellers is not allowed.
+Brake System Enhancements
+Anti-skid, auto-brake, brake temperature indicators and brake fans are all systems which enhance the performance of the aircraft brakes.
+Anti-skid System
+The anti-skid system, through various mechanisms, compares the speed of the aircraft with the rotational speed of each main wheel. If the speed of any wheel is too slow for the existing aircraft speed, the brake on that wheel (or wheels) is released momentarily to allow the wheel speed to increase and prevent the wheel from skidding. The system is fully automatic and is active from immediately after initial wheel spin up on landing (during which time brake activation might (or might not) be inhibited) down to a design limited minimum speed; usually about 15 knots. Anti-skid systems are designed to minimise aquaplaning and the potential tyre damage which can occur when a wheel is locked or rotating at a speed which does not correspond to the speed of the aircraft. Anti-skid removes the possibility of reverted rubber skids caused by locked wheels. An anti-skid system also greatly improves stopping distance on substandard surfaces such as gravel or grass and is particularly effective on surfaces contaminated with frozen contaminants such as ice or slush by ensuring maximum effective breaking.
+Auto-brake Systems
+Auto-brake systems can be used on takeoff where they will provide maximum braking in the event of a rejected takeoff and on landing where they will provide a scheduled rate of deceleration (dependent upon the auto-brake level selected) using only a single brake application. These features combine to optimize the brake usage with respect to the requirement and to minimize brake wear.
+Brake Temperature Indicators
+Brake temperature indicators are intended to give the pilots an indication of the temperature in each wheel assembly. While each aircraft type will have its own specific limitations for items such as maximum indicated temperature for initiating takeoff, comparison of the brake temperature indications can give an overall indication of the “health” of the braking system. For example, inappropriately high or low temperatures on a given wheel can indicate the potential of a dragging or an inoperative brake respectively. Similarly, increasing brake temperatures after takeoff could be indicative of a tyre failure which has resulted in a wheelwell fire.
+Brake Fans
+Brake fans reduce brake cooling times by using wheel mounted electric fans to blow ambient air across the brake and wheel assemblies. Note that the maximum recommended temperature for takeoff as indicated on the instrument panel may have a different value dependent on if the brake fans have been used or not.
+Parking Brake
+The parking brake is usually applied by hand lever selection. Hydraulic accumulators are generally required if hydraulic pressure is to remain sufficient to hold parking brake settings for long periods once engines have been shut down and the primary source of hydraulic pressure is no longer available. On some types, the parking brake pressure will bleed off over time and the brakes will eventually release.
+All aircraft should be chocked once parked to prevent unplanned movement.
+Effects
+
+Overheated brakes
+
+Loss of braking performance
+Fire
+Tyre deflation
+
+
+
+
+Brake failure
+
+Runway excursions (although this is a very infrequent cause)
+Unwanted aircraft ground movement
+
+
+
+Contributing Factors
+
+Spats and landing gear leg fairings (sometimes fitted to fixed gear light aircraft) can delay brake cooling and act as traps for material which can then provide a source of ignition for fires.
+
+
+Pilot Reports of Braking Acton from previously-landed aircraft should be treated with caution, especially if not timed. All such reports are subjective and may often be unreliable, especially if given for landings with auto brake set and reverse thrust used. This is particularly true if the preceding aircraft is of a different type to the one you are flying.
+
+Defences
+
+During the aircraft preflight, ensure that the tyres are properly inflated, there is no evidence of hydraulic leaks on any of the brake lines or fittings and that the brake wear indicators show that the brakes are serviceable.
+On initial taxy, check the brakes to ensure proper function.
+Minimise the requirement for brake applications during ground operations by adjusting power settings when possible, including the use of reverse thrust / reverse pitch if allowed by the Aircraft Flight Manual. During ground operations, use the appropriate braking technique for the type of brakes installed as the recommended techniques for steel and carbon brakes are not the same. For takeoff, use the manufacturer’s recommended auto-brake setting if auto-brakes are installed. For landing, use auto-brake at an appropriate setting when available.
+If heavy braking becomes necessary, monitor subsequent brake temperatures if possible and ensure an adequate cooling period follows. Use brake fans if they are available. If brake temperature indicators are not available, use the manufacturer’s brake cooling charts to determine minimum ground time. Otherwise subsequent braking performance may be degraded and tyre overheating or deflation may occur.
+Leave the gear down for longer than usual if overheating is suspected after take off, providing climb performance is not thereby affected to a degree that compromises safe terrain clearance or compliance with ATC clearances.
+Understand how the brake system operates. Understand the implications of failures of any of the associated systems inclusive of hydraulics, anti-skid and auto-brakes and know the appropriate procedures for operating in a degraded configuration.
+Stay alert for unexpected movement of the aircraft while on the ground, especially just after setting the parking brake or just after releasing it once the chocks have been put in place. Don’t become too engrossed inside the flight deck until you are satisfied that the aircraft is not going to move.
+
+Solutions
+
+If it is considered or suspected that the brakes (and therefore the adjacent tyres) may be unduly hot after take off, then the following precautions may be prudent in order to allow the components time to cool:
+
+Leave the gear down for an extended period after take-off having considered any effect this will have on climb performance.
+If at all possible, avoid making a landing very soon after take-off.
+Follow the AFM limitations for minimum ground cooling periods after heavy braking. This would especially apply after a high speed Rejected Take Off.
+
+
+
+
+Always consider whether Hot Brake incidents should be attended by fire crews.
+
+
+Confine all significant braking to times when the aircraft is travelling in a straight line to avoid tyre stress and undue wear
+
+
+Ensure that brakes are never applied against forward thrust or power while the aircraft is moving. Avoid high power settings against the brakes while the aircraft is stopped unless conducting required checks or procedures such as an engine runup.
+
+
+Do not inadvertently 'ride' the toe brakes whilst taxying
+
+Accidents and Incidents
+
+SW4, Mirabel Montreal Canada, 1998: fire in the wheel well, caused by overheating of the brakes, which developed until the left wing failed rendering the aircraft uncontrollable.
+
+
+Extract from AAIB Bulletin No. 1/2007: incident involving A320 which suffered a hydraulic failure and subsequently collided with an airbridge because the crew did not appreciate the implications of the failure on the braking system.
+
+
+Extract from AAIB Bulletin No. 2/2005: incident concerning failure of aircraft braking system on landing.
+
+
+Extract from AAIB Bulletin No. 1/2007: brake fire incident involving a Robin R1180T.
+
+Related Articles
+
+Brake Problems: Guidance for Controllers
+Hydraulic Fluid as a Fire Source
+Tyres
+
+Further Reading
+Flight Safety Foundation
+
+ALAR BN 8.4: Braking Devices
+ALAR BN 8.5: Wet or Contaminated Runways
+Runway Safety Initiative Briefing Note: Pilot Braking Action Reports
+Runway Safety Initiative Briefing Note: Runway Condition Reporting
+
+Others
+
+An Investigation of the Influence of Aircraft Tire-Tread Wear on Wet-Runway Braking, T. Leland and G. Taylor, NASA, 1965
+
+
+
+
+
+Categories
+
+
+Flight Technical,
+              General Aviation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

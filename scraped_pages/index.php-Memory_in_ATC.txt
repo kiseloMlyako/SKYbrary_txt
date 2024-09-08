@@ -1,0 +1,214 @@
+Memory in ATC
+
+
+
+
+
+
+
+
+
+
+
+  Memory in ATC
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Human Behaviour 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Memory can be defined as the ability to store, retain, and subsequently recall information. It may involve conscious and non-conscious aspects.
+As broadly defined, memory is a label for a diverse set of cognitive capabilities - hence the diverse set of interpretations. An Air Traffic Controller remembers a traffic situation happened a month ago, she remembers exactly the day when she got the licence, she remembers the name of the two brothers that made the first flight in an aircraft, remembers the procedures to transfer the aircraft to the next sector, remembers the feeling of suddenly discovering a potential conflict situation, remembers the specific smell of the Operations room.
+Importance
+The task of air traffic control involves observing and reacting to events that take place in a part of airspace or a manoeuvring area on the ground, for which the ATCO is responsible, based on interpretation of information displayed at the working position or relayed to them by radio or data communication.
+Memory plays an important part in this process because of the large amount of information reaching the ATCO. It is necessary to manage the information reaching the ATCO in such a way that important information is not missed, forgotten, or overlooked.
+Memory is also extremely important for the pilot, who has to fly the aircraft, manage its systems and interact with the crew while at the same time receiving and acting upon messages received from the ATCO. The way in which this information is passed to the pilot is therefore of great importance.
+Human Memory Models
+First of all, any description of human memory has limitations and most are based on hypothetical construct. Nowadays, science provides a diversity of human memory models. Moreover, different sciences approach the phenomena in their specific way - memory has been a subject of discussion for natural, cognitive, and social sciences. Some of the models are outlined below.
+Sensory - Short Term - Long Term
+There are several ways to classify memory, based on duration, nature, and retrieval of information. Before information can be processed by the memory, it is received into the Sensory Memory where it remains for a brief period of time before being discarded or stored in the Short-Term Memory. After use, information contained in the short-term memory is lost unless it is stored in the Long-Term Memory. This simplified model is illustrated in Figure 1.
+
+Sensory Memory
+In general, the duration of Sensory Memory is very short - less than 0.5 seconds. Visual Sensory Memory, for example, lasts about 250 milliseconds. Although short in duration, the size is very big and the information retained is quite accurate.
+What part of the information goes to the next stage is determined by the selection process. The selection can be:
+
+Active selection - oriented-by-concept processes that are guided by our attention. An example is pilot selecting the call beginning with their specific call-sign. Information, such as a radio message, may not be retained in sensory memory for long enough for the receiver to decide whether it is relevant to them. If they cannot make this decision quickly, important parts of the message may be lost. Thus, the position of the address or call sign within the message is very important.
+
+
+Passive selection - oriented-by-data processes with automatic processing of information and no selective attention. An example is the audio Short Term Conflict Alert (STCA), with intensity of the alarm greater than the minimum threshold of the human senses, processed without a need of selective attention to it.
+
+Short Term Memory
+The capacity of short-term memory is fairly limited: the maximum number of unrelated items that can be maintained when full attention is devoted to rehearsal is about seven. The duration is also very limited - on average 15-30 seconds. This has important implications for the amount of information that should be included in any single RTF message. Once this limit is exceeded, one or more items are likely to be lost or transposed.
+The number of items retained in short-term memory can be expanded by the clustering or “chunking” of related material. This can occur when two or more items have been previously associated, for example, a familiar telephone code such as 0032 may be clustered and require only one space rather than four. Chunking unrelated items into groups of three or four, e.g. 729 3965 will also assist the maintenance of items. The size of “chunk” will clearly be determined by the individual’s familiarity with the information. This mechanism may permit RTF frequencies and even weather reports or sections of a flight clearance to be remembered as a number of chunks rather than individual items.
+The way in which the information contained in a message is chunked depends on the person receiving the message: a pilot and ATCO are likely to chunk a message in rather different ways. This is due to the familiarity of each person and their professional experiences. It is also associated with the position of the person, either as the sender or the receiver. Figure 2 gives examples of how this might occur:
+
+This illustrates that what may be familiar chunking by the controller is not necessarily familiar chunking by the pilot. The frequency for the next sector is used all the time by the controller and is one chunk for him, but this is not the same for the pilot. Vice versa, the call sign is much more familiar to the pilot than to the controller. A recommendation often made, associated with air-ground communications, is to limit the number of elements in a message to two to reduce the chance of an element being missed or misheard.
+The elements of an RTF frequency are treated by a pilot as individual digits; and therefore, a frequency change should not be combined with another instruction in order to enable the pilot to remember.
+The information in short-term memory is lost by two processes:
+
+Interference, which causes the information to be confused or replaced by that which was previously stored or the arrival of new information. The impact of interference and hence forgetting may be reduced by increasing the time between the arrival of inputs to be held in short-term memory and by reducing the similarity between items. For this reason, when issuing a clearance, ATCOs should try to avoid a high rate of speech and avoid combining numerical data such as Flight Level, Speed and Heading in the same message.
+
+
+Decreasing the mnemonic trace - this is the part of the memory that “fades” without rehearsal.
+
+Short term memory is found to be stronger with visual compared to audio information. Experiments show that it is more difficult to recall an acoustically similar collection of words. This acoustic similarity is a contributory factor in call sign confusion. The strategies for helping manage the limitations of short-term memory include:
+
+Using reflective habits for processing information - rehearsals. Unless actively rehearsed, the information in working memory is lost in 15 to 30 seconds. The rehearsal may take different forms - repeating the information loud or mentally rehearsing. By this the information enters again the short term for another small period of time. Some of these rehearsal practices are reflected in the principles of Active Listening. One good habit it to ‘Write what you say As You Speak and Read what you hear As You Listen’ - WAYSRAYL. Another habit is to consult the strips when receiving and to annotate the strips during transmission.
+
+
+Practicing and training on focussing attention on the important things at hand;
+
+
+Using support aids for storing the information - there are a variety of memory aids like paper strips, or team strategies for remembering.
+
+Long-Term Memory
+The size and the duration of information in long term memory are unlimited. The issue is retrieving the information which is needed and exactly when it is needed.
+From an information processing perspective there are three main stages in the formation and retrieval of memory:
+
+Encoding (processing and combining received information). It is easier to recall information if, during the encoding, it was given more weight/importance or more and stronger links and associations were made. Encoding also depends on the context and personal preferences for the type of information - visual or verbal. Some people prefer verbal, some people visual - hence there is not a “best” way of presentation in training courses and awareness workshops.
+
+
+Storage (creation of a permanent record of the encoded information). During the storage the information is fading. Processes like consolidation help to prevent the fading. Consolidation is done mainly during sleep or by rehearsal.
+
+
+Retrieval/Recall (calling back the stored information in response to some cue for use in a process or activity). The context is very important for the recall - it is easier to recall information in the same place it was learnt or to recall by association or links. Some methods for active recall suggest associating the pieces of information to spatial or geographical cues - for example with the rooms and parts of a house. An example in ATC is the arrangement of the strips to some geographical cues of the traffic flows. Other methods suggest using key words or acronyms - like the REST checklist for hand-over/take-over of operational positions.
+
+The information contained in long-term memory can be classified into two types:
+
+Declarative - about the facts. This is explicit knowledge and includes semantic and episodic memory.
+
+Semantic memory includes the knowledge that we have which is associated with the things we are able to do, e.g. understanding a word or knowing the items in a checklist. This is our memory for meaning. It is generally thought that once information has successfully entered semantic memory, it is never lost. When we are unable to remember an item, e.g. a word, it is because we are unable to find where the item is stored in the memory system, not because the word has been lost from storage.
+Episodic memory contains our knowledge about specific events, for example, our memory of a particular incident. An important feature of episodic memory is that the information stored does not remain static but is heavily influenced by our expectations of what should have happened. Our recollections from episodic memory are thus influenced by our expectations of the world in a similar way to our initial perceptions. It is important to recognise the part played by these emotional factors, particularly in incident investigation.
+
+
+
+
+Procedural - based on implicit learning. For example motor and body movement skills or processes close to automatism. Some reactions in very fast developing situations are trained as automatisms. The name procedural should not be misleading - knowledge about the procedure, the steps involved, is in fact a declarative type of knowledge. Ideally individuals should possess both - able to describe the procedure and knowing how to perform the process described by the procedure.
+
+Working Memory
+The Working Memory Model is linked with task and objectives to be performed by the individuals and has been proposed to respond to some of the criticism of short-term memory, but is not a replacement of it as Working Memory is defined not in terms of the amount of time information can be held but, rather in terms of the goal of the task being performed.
+An example of using the working memory for an ATCO is remembering which aircraft to monitor when. The duration of storage in working memory is dependent on the duration of the task performed and the capacity is restricted. The restricted capacity is very much evident in ATC with the change from phone co-ordination to automated system-supported coordination (SYSCO). The phone co-ordinations are carried out sequentially and will usually yield an immediate response to the request (unless the other PC postpones the response by suggesting calling back). Only if one phone co-ordination is closed would the Planning Controller (PC) initiate the next co-ordination. In contrast to this, SYSCO allows for parallel co-ordinations. This means that a number of co-ordination requests can be open at the same time, which has implications for the PC’s working memory load. In this situation, the ability of the Planning Controller to keep track of the details of open co-ordination requests using SYSCO functionality is important.
+The Working Memory Model often used is the one proposed by the cognitive psychologist Baddeley.
+This model consists of:
+
+A central executive which acts as supervisory system and controls the flow of information from and to its slave systems;
+
+
+A phonological loop that stores the audio information. It consists of two parts: a short-term phonological store and an articulatory rehearsal component. Any auditory verbal information is assumed to enter automatically into the phonological store. Visually presented language can be transformed into phonological code by silent articulation and thereby be encoded into the phonological store. The phonological store acts as an 'inner ear', remembering speech sounds in their temporal order, whilst the articulatory process acts as an 'inner voice' and repeats the series of words (or other speech elements) on a loop to prevent them from decaying.
+
+
+Visuospatial sketchpad that stores information about what we see. An example in ATC is searching for deviations from the planned profile of the flight - holding the cleared flight parameter in working memory, visually searching for the actual flight parameter, and comparing cleared and actual flight parameter.
+
+
+Episodic buffer that links and stores integrated units of visual, spatial, and verbal information with time sequencing.
+
+Levels of Processing
+This model proposes that the method and depth of processing are the most important factors in determining how the information is stored. Depth of processing falls on a shallow to deep continuum. Basically the more meaning associated with the processing the deeper the processing. Shallow processing on the other hand is more based on letters, sounds, shapes and less on meanings.
+There is research evidence that controller’s memory for flight data is a function of the level of control exercised. It has been found that flight information for aircraft in possible conflict is significantly better than memory for flight information for those aircraft of less concern at that moment in time and which require little controller intervention. Another example is increasing the depth of processing by touching the related strips and writing on them or on paper - this is reinforcing the memory not only by writing but also by recognising their own writing. It is possible that when controllers read information from a strip in their own handwriting they do not only interpret and comprehend the content, they also remember the previous act of writing it, and perhaps more importantly, the reasons why a particular course of action had been taken.
+Example of increasing the depth of the knowledge in the training is explaining the reason and history of the procedures and working practices.
+Prospective & Retrospective Memory
+Prospective memory is remembering to remember or remembering future actions to be carried out. In contrast retrospective memory is remembering things from the past. Prospective memory is generally supported by the memory aids or automated system support tools. For example ATCO mental projections of traffic impose memory demands - this can be reduced by the system support tools like the Medium Term Conflict Detection (MTCD) graphical representation of conflicts. This changes the mental projection conflict detection task to tasks based more on visual perception.
+The time of the respective alert is important in order to help ATCO adopting strategies that relieve the prospective memory. When the alert is designed to take place at a moment giving sufficient time for consecutive reaction, then the alert is actually reminding the ATCO of the need to perform an action and is therefore relieving the prospective memory. If the alert takes place after this optimal moment and there is not sufficient time for reaction then the ATCO must adopt a strategy which is not reliant on the alert for identifying conflicts and the prospective memory is less supported. In this case the alert is the “last resort” type of recovery tool.
+Memory in The Real World
+Memory in the Real World is less of a model and more of a research approach. It suggests that the research should have “ecological validity” - it should apply to naturally occurring behaviour in the natural context of the “real world” - as opposed to the laboratory. Most studies on memory and memory processes are done in laboratory settings where individuals are supposed to memorise more or less meaningless information. In real life several other important variables, such as emotions, meaning and context, affect this process.
+Further Reading
+
+The third Safety Letter issued by EUROCONTROL in May 2003 as part of the Level Bust safety initiative included a section on "working memory" which includes a discussion on "chunking"
+HindSight 2: The Phonological Loop
+A Method for Predicting Human Error in ATM (HERA-PREDICT)
+First ATC Support Tools Implementation (FASTI) - Cognitive Task Analysis
+EUROCONTROL DAS/ATS FASTI Preliminary Safety Case
+Completing the FASTI Safety Case: Guidance for Service Providers
+"Human Performance in Air Traffic Management Safety -A White Paper": EUROCONTROL/FAA Action Plan 15 Safety, September 2010.
+Model of the Cognitive Aspects of Air Traffic Control
+Proceedings of the First EUROCONTROL Human Factors Workshop: Cognitive Aspects in ATC
+
+
+
+
+
+Categories
+
+
+Human Behaviour,
+              HF-ATM
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

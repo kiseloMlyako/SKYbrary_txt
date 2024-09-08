@@ -1,0 +1,214 @@
+Hydraulic Problems: Guidance for Flight Crews
+
+
+
+
+
+
+
+
+
+
+
+  Hydraulic Problems: Guidance for Flight Crews
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Aircraft Emergency & Unusual Situations
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ The Air Pilots
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+This article provides guidance to pilots on the recognition and consequences of hydraulic problems, and also some of the factors they should consider during their decision process and subsequent operation of the aircraft to help ensure a safe outcome.
+Overview
+Hydraulic systems of some description are present on virtually all aircraft types. In a light or general aviation aircraft, the use of hydraulic power may be limited to the application of wheel brakes only. In larger and more complex aircraft multiple systems may be used to provide the ‘muscle’ to operate a wide variety of components and systems. For example, these could include primary and secondary flight controls, the landing gear, nosewheel steering, wheel brakes, thrust reversers and cargo doors.
+As the dependency upon hydraulic power increases, the integrity of the hydraulic systems becomes ever more critical to the safety of flight. Based on this hydraulic system criticality, many design features are incorporated to ensure reliability, redundancy and the ability to maintain control of the aircraft in the event of one or more failures. Often two or more hydraulic systems are built into the design of an aircraft.
+Each system is provided with different sources of fluid pressurization and power generation. This power is transmitted by the hydraulic fluid through system specific hydraulic lines and used to drive the motors and actuators associated with that system. While hydraulic systems may be designed to exchange power under controlled conditions via a Power Transfer Unit (PTU), there are very rarely provisions for any exchange of fluids incorporated into system designs.
+Effects
+Depending on the specific failure or the extent of damage to the hydraulic system(s), the following effects could result:
+
+Loss of control
+Partial or complete loss of control over specific control surfaces
+Loss of autopilot
+Reversion to a degraded flight control law
+Impact on/collateral damage to other systems (e.g. due to a ruptured hydraulic pipe)
+Possible loss of ETOPS and/or RVSM capability
+Loss of low visibility landing capability due to degraded autopilot or flight controls
+Difficulties with normal landing gear extension
+Inability to retract landing gear
+Inability to extend/retract high lift devices such as flaps or slats
+Reduced braking capability upon landing
+Loss of anti-skid systems
+Inability to actuate thrust reversers
+Loss of nosewheel steering
+
+Failure Recognition
+Hydraulic failures can be subtle (as would be the case with a slow fluid leak) or immediate (as the result of a pump failure, an actuator failure or the rupture of a hydraulic line). Depending upon the sophistication level of the aircraft warning systems in question, the failure could be presented to the crew by means of an EICAS or ECAM message, a Master Caution or Master Warning light, an annunciator panel fail light, a system warning light or by means of a pressure or quantity gauge indication. An aural warning may also be associated with the failure.
+Pilots should acknowledge the failure annunciation by cancelling any aural warnings and, where possible, confirm the failure in accordance with the aircraft operator's Standard Operating Procedures and with the manufacturer's guidance prior to carrying out the immediate corrective actions.
+General Considerations
+Manufacturers provide aircrew with comprehensive abnormal and emergency procedures for use in the event of a single or multiple failure. These procedures and the associated protocols will include the immediate actions required to secure the emergency, limitations and system losses resulting from the failure and, when applicable, the appropriate configuration and performance penalties to be utilized for continuing the flight and subsequent landing. The consequences of multiple failures are taken into consideration where applicable.
+As is the case with any unusual or emergency situation, pilots should complete the required memory items and then comply with the manufacturer’s procedures, checklists and protocols and with any applicable company policies or directives. They should then consider the consequences of the failure and the associated impact on the continuation of the flight.
+Pilots should consider all available information, inclusive of but not limited to, aircraft controllability, range, operating altitudes, runway requirements and weather, and exercise their best judgement when making diversion decisions. In all cases, the primary pilot responsibility is to FLY THE AIRCRAFT.
+Immediate Actions
+
+FLY THE AIRCRAFT. A hydraulic failure may or may not result in loss of some primary or secondary control surfaces. It may also result in the loss of the autopilot. Therefore, it is critical that the pilot flying (PF) maintain focus on the continued safe control of the aircraft. With multiple hydraulic system or component failures, control of the aircraft may be difficult. The extreme, but highly unlikely, case of a total loss of aircraft hydraulics could necessitate the non-standard use of engine thrust to maintain aircraft control (e.g. DC-10, Sioux City, 1989).
+Perform Memory Actions. If there are memory drills associated with the failure, they should be completed in a timely fashion. In a multi-crew aircraft, memory items and the follow-on checklists and procedures will be completed by the pilot monitoring (PM) with confirmation of critical actions, when appropriate, from the PF, using challenge and response.
+Complete Associated Checklists. Perform QRH, checklist or ECAM procedures as appropriate to the aircraft type.
+
+Secondary Actions
+The type of aircraft, the complexity of the failure, previous and/or subsequent failures, and the circumstances under which the malfunction has occurred will determine what secondary actions should be taken. Actions that could be applicable to the situation include:
+
+Advise ATS. Depending upon the specifics of the failure, it may be prudent to declare an emergency using the appropriate Emergency Communications (MAYDAY or PAN) format. While the crew may not have yet formulated their plan of action, advising ATC of the hydraulic problem(s) will permit them to provide early assistance which may include:
+
+separation of the aircraft from other traffic
+providing diversion clearance or facilitating delaying tactics by providing vectors or a holding clearance
+prioritisation of the emergency aircraft for landing allowing for a long final if requested
+assigning a discrete radio frequency when possible
+advising the airport emergency services and all concerned parties in accordance with local procedures/protocols
+providing any information that might be requested by the crew such as weather, type of approaches available, runway length and other pertinent aerodrome details
+
+
+Confirm Aircraft Systems Status. The crew should ascertain the status of not only the hydraulic system(s), but also any other aircraft system(s) that may have been affected by the failure.
+Calculate Approach Speeds and Landing Distance. In many cases, a hydraulic failure will have an impact on approach and landing speeds, cross-wind limits and landing distance required. Higher approach and landing speeds will be required if flight controls are degraded or if high lift devices cannot be extended due to the failure. Higher approach speeds will result in significantly longer than normal landing distances as landing distance is a function of mv2. Landing distances will also be increased should the failure result in degradation of braking capability, loss of ground spoilers or the inability to deploy thrust reversers.
+Determine Landing Weather Requirements. Some hydraulic failures can result in the loss of the aircraft all weather capability due to loss of the autopilot, the resultant landing flap position or to degradation in flight control function.
+Confirm Range and Endurance. If the hydraulic failure has resulted in the inability to retract the undercarriage, flaps or slats, a higher than normal rate of fuel consumption will result. It may also be necessary to operate at a lower than normal altitude, in which case minimum safe altitudes must be checked. In these cases, it is critical that flight crew fuel management takes the abnormal configuration or operating level into consideration. During any hydraulic emergency, the time required before the crew is ready to land may be extensive due to the requirement for a diversion and/or to otherwise prepare for the landing. The crew must remain aware of the fuel state at all times.
+Gather Any Other Pertinent Information. Use onboard information sources such as approach charts and the MEL plus external resources (via ATS, ACARS or Company communications) to compile airfield data, weather reports, runway condition and other information to be considered in the decision process. Request technical support as required.
+Consider the Implications of the Failure. Develop a clear picture of the impact of the failure on the approach, landing and post landing operations. For example:
+
+will the failure require an alternate landing gear extension procedure?
+
+if an alternate extension is required, when would be the most prudent time to carry out the procedure?
+if an alternate extension is required, will the inability to retract the gear compromise missed approach obstacle clearance in the event a go around is required?
+
+
+on a fly by wire aircraft, will the failure result in a change of control law when the landing gear is extended?
+will the failure allow for normal braking or will it require alternate braking techniques due to the loss of anti-skid or to sole reliance on accumulator pressure?
+are thrust reversers available?
+is the nosewheel steering functional?
+Should the landing procedure consider leaking hydraulic fluid might come into contact with hot brakes on landing?
+can the aircraft be taxied clear of the active runway?
+
+
+
+Formulate, Communicate and Execute Plan of Action
+Once the applicable secondary actions have been completed, pilots can determine their best course of action. The salient details of the plan should be transmitted to ATC and to Company Operations to enable co-ordination of any required support. ATC will need to know:
+
+diversion aerodrome, requested runway and intended approach.
+distance at which the crew would like to join the final approach course.
+If the aircraft will need to configure earlier than normal during approach and require non-standard speed control/vertical profile.
+approach speed if it will be significantly higher than normal.
+if the aircraft will be stopped on the runway.
+if the aircraft will be able to vacate the runway under its own power.
+
+Company Operations should also be advised so maintenance co-ordination (such as arrangements to tow the aircraft off of the runway) and commercial considerations (customs, passenger handling etc.) can be arranged.
+Accidents & Incidents
+A30B, initial climb, Baghdad Iraq, 2003
+On 22 November 2003 an A300B4 operating a cargo flight from Baghdad to Bahrain suffered a surface-to-air missile strike to the left wing whilst passing 8,000ft in the climb, causing serious damage to the wing. Two hydraulic circuits were lost immediately, followed shortly by the third hydraulic system. This was accompanied by a significant fuel leak from the left wing. Due to the total loss of hydraulics, both primary and secondary flight controls were lost; however, both engines were still running. The crew successfully used engine thrust to return the aircraft back to the departure airfield where a controlled landing was accomplished 25 minutes after the missile strike.
+
+
+B752, San Jose Costa Rica, 2022On 7 April 2022, a Boeing 757-200F returning to San Jose after a left side hydraulics failure and MAYDAY declaration suddenly veered off the right hand side of the landing runway there during deceleration and passage over uneven ground led to landing gear collapse and significant fuselage structural damage. This runway excursion immediately followed simultaneous advancement of both thrust levers after their prior asymmetric movement earlier in the landing roll and resulted in high left thrust concurrent with idle thrust on the right. With no airworthiness aspect identified, the excursion was attributed to unintended thrust lever selection by the crew.
+
+A332, Hong Kong China, 2019On 29 September 2019, an Airbus A330-200 received simultaneous indications of low pressure in two hydraulic systems soon after takeoff. An emergency was declared, and a return to land was followed by a stop on the runway due to a burst main wheel tyre. A manual valve for one of the hydraulic systems located in the left main gear wheel well had completely detached and impact-damaged a pipe in a nearby but separate hydraulic system. Both systems lost their fluid with valve detachment attributed to fatigue failure of the attachment screws, a risk addressed by an un-adopted non-mandatory Service Bulletin. 
+
+A333, en-route, west northwest of Sydney Australia, 2019On 15 December 2019, an Airbus A330-200 turned back to Sydney shortly after departure when a major hydraulic system leak was annunciated. The return was uneventful until engine shutdown after clearing the runway following which APU use for air conditioning was followed by a gradual build up of hydraulic haze and fumes which eventually prompted an emergency evacuation. The Investigation found that fluid leaking from ruptured rudder servo hose had entered the APU air intake. The resulting evacuation was found to have been somewhat disorganised with this being attributed mainly to a combination of inadequate cabin crew procedures and training.
+
+B733, Paris CDG France, 2011On 23 July 2011, a Boeing 737-300 being operated by Jet2.com on a passenger flight from Leeds/Bradford to Paris CDG experienced violent vibration from the main landing gear at touch down in normal day visibility on runway 27R at a normal speed off a stabilised approach. This vibration was accompanied by lateral acceleration that made directional control difficult but the aircraft was kept on the runway and at a speed of 75 knots, the vibrations abruptly stopped. Once clear of the runway, the aircraft was stopped and the engines shutdown prior to a tow to the gate. None of the 133 occupants were injured.
+
+B743, vicinity Tehran Mehrabad Iran, 2015On 15 October 2015 a Boeing 747-300 experienced significant vibration from one of the engines almost immediately after take-off from Tehran Mehrabad. After the climb out was continued without reducing the affected engine thrust an uncontained failure followed 3 minutes later. The ejected debris caused the almost simultaneous failure of the No 4 engine, loss of multiple hydraulic systems and all the fuel from one wing tank. The Investigation attributed the vibration to the Operator's continued use of the engine without relevant Airworthiness Directive action and the subsequent failure to continued operation of the engine after its onset.
+
+
+...further results
+
+
+Related Articles
+
+Hydraulic Systems
+Hydraulic Problems: Guidance for Controllers
+
+
+
+
+
+Categories
+
+
+Aircraft Emergency & Unusual Situations,
+              Flight Technical,
+              Guidance for Flight Crews
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

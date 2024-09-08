@@ -1,0 +1,171 @@
+Tactical Controller Tool (TCT)
+
+
+
+
+
+
+
+
+
+
+
+  Tactical Controller Tool (TCT)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Separation 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Tactical Controller Tool (TCT), operating in both En-Route and TMA, warns the executive (tactical) controller of potential conflicts within the sector. To do this it usually combines current aircraft tracks with an accurate tactical trajectory that reflects the aircraft’s current behaviour. Some implementations are based only on surveillance data (assuming the aircraft will maintain their tracks, speeds and levels). TCT is primarily a separation assurance aid. It aims to reduce workload per aircraft for the executive (tactical) controller by providing very accurate monitoring and conflict detection. TCT helps not only in detecting problems but also in showing that no problems exist. TCT warnings are usually provided in both the vertical and lateral planes and when no TCT warnings are indicated the controller can be assured that no potential conflicts exist at that time. TCT also indicates when a “critical missed manoeuvre” could occur, these are situations in which loss of separation would occur if an aircraft failed to make a planned manoeuvre. TCT is designed to fit with and complement the MTCD sub-system and usually has a look ahead time of five to eight minutes. Depending on local implementation however, the look ahead time may be extended to match the MTCD’s. TCT may be activated manually (by selecting the aircraft concerned) or automatically (when the required criteria are met).
+
+Example of TCT implementation. When the function is activated, the speed vectors of both aircraft are extended up to the closest point of approach (CPA) and the minimum distance is calculated based on the current tracks and speeds.
+Benefits
+TCT is one of the most helpful tools developed for the executive controller. The main benefits of its use are:
+
+Saves time – the ATS system calculates the conflicts (and sometimes gives advice) which allows the controller to focus on other tasks (e.g. hear-back, planning, scanning, etc.).
+Reduces unnecessary controller interventions – TCT is usually more precise than the combination of standard range and bearing measurement tools and manual calculation. As a result, in many cases the aircraft are subject to simpler (e.g. locking of headings) or no intervention.
+Mitigates “Blind Spots” – if used, the TCT may discover most short-term conflicts.
+Provides continuous feedback on clearance effectiveness – e.g. in case the controller chooses to apply vectoring, the TCT (almost) immediately evaluates the new heading(s).
+Enables the controller to perform “softer” interventions – if the controller calculates the conflict mentally, they usually apply techniques to accommodate errors (e.g. round values to worst case scenarios, “safety buffers” for measuring tools to compensate the uncertainty of the closest point of approach, etc.). The ATS system calculates the closest point of approach with great accuracy which allows the controller to issue clearances that result is smaller aircraft deviations.
+Resolution advisories (depending on local implementation) – the TCT may be equipped with an advisory feature that suggests action for conflict solving (e.g. “ACFT A should turn 10 degrees to the right”).
+
+Comparison Vs Other Tools
+There are three types of tools used to warn controllers of conflicts:
+
+Short Term Conflict Alert (STCA);
+
+Look ahead time: usually 1-2 minutes.
+Input: surveillance data (actual flight level derived from SSR mode C and assumption that the aircraft will maintain its present track). There are some implementations that also include pilot input received via SSR mode S or controller input of CFL.
+Used as: safety net (to warn the controller that a separation breach is imminent).
+
+
+Tactical controller tool (TCT);
+
+Look ahead time: up to 5-8 minutes depending on local implementation.
+Input: surveillance and/or FPL data, depending on local implementation.
+Used as: conflict resolution and clearance verification tool (to inform the controller if the current clearance results in a separation breach so that it can be corrected if necessary).
+
+
+Medium Term Conflict Detection (MTCD);
+
+Look ahead time: up to 20-30 minutes depending on local implementation.
+Input: flight plan data and controller input (clearances).
+Used as: planning tool (to inform the controller of potential conflicts so that a proper plan is made in advance).
+
+
+
+Best Practices
+The advice given in this section is derived from experience and common sense. It provides general recommendations regarding the use of TCT and is not expected to supersede or replace local instructions.
+
+Lock headings – when aircraft are about to pass at near-minimum separation, an instruction to continue on the present heading is likely to prevent an undesired deviation at an improper time.
+Traffic Information – as an alternative to heading “locking”, traffic information may be given to the flight crews to enhance their situational awareness.
+Avoid over-reliance – just like any other software tool, the TCT has some limitations or may fail at times. For example, surveillance-based TCT are not reliable for climbing/descending aircraft whose ground speed may change by more than 100 kt depending on the circumstances.
+Take into account the reduced margin of error – while “softer” interventions and “tighter” separations provide efficiency, they also offer limited room for error (e.g. due to deviation or non-compliance with the clearance).
+
+Related Articles
+
+Blind Spots – Inefficient conflict detection with closest aircraft
+Loss of Separation
+Loss of Separation - ATCO-induced Situations
+Radar Control - Collision Avoidance Concepts
+Safety Nets
+Medium Term Conflict Detection (MTCD)
+Short Term Conflict Alert (STCA)
+Conflict Detection
+
+Further Reading
+
+An Evolutionary Computational Analysis of Tactical Controller Tool, by EUROCONTROL
+TCT Real Time Simulation Final Report, by EUROCONTROL
+Operational Safety Study: Blind Spots, by EUROCONTROL SISG
+
+
+
+
+
+Categories
+
+
+Loss of Separation,
+              Safety Nets
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

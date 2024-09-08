@@ -1,0 +1,177 @@
+Civil-Military Interaction in ATM
+
+
+
+
+
+
+
+
+
+
+
+  Civil-Military Interaction in ATM
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Separation 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The article describes the most common issues associated to the interaction between civil and military ATS units. It elaborates on the different scenarios for joint civil-military use of airspace (military aircraft operating within TSAs, intruders and interceptors, military aircraft en-route on a mission etc.), potential safety hazards (e.g. loss of separation), mitigation actions and best practices. The advice in the article is not intended to take precedence over local regulations and procedures.
+Introduction
+Since the Chicago Convention explicitly states that it does not apply to state aircraft (a categorization which includes aircraft used in military, police and customs services) the very presence of military aircraft means that there is a high chance that different (from ICAO) rules and procedures may be followed by such aircraft. The differences in the procedures applied can vary between minor variation in a separation minimum (e.g. 2000ft separation within RVSM airspace) and situations where an apparent total lack of rules (e.g. military intruder interception) might require the best judgement of the controller to be used to protect civil aircraft in the vicinity.
+
+Royal Air Force C17 Globemaster transport aircraft are pictured in the early morning mist at RAF Brize Norton in Oxfordshire, UK, 7 Dec 2007. Source: Wikicommons. Author: Flt Lt Chris Knight
+ 
+Constraints Associated with Military Aircraft
+There are three main types of constraints with regard to the equipage and use of military aircraft:
+
+Institutional constraints. Market rules do not apply to military aircraft operations that are mandated to meet state security and defence requirements. Nevertheless, military aircraft require easy and cost-efficient access to training areas. The location and dimensions of such areas shall take due account of home base location and aircraft’s operational performance envelopes. Furthermore, aging fleets and constraints on defence budget spending create the financial challenge of fitting military aircraft with new equipment to satisfy global developments brought about by new ATM programmes.
+Operational constraints. Defence and security threats set operational imperatives that military aircraft operations must be prepared for and fulfill effectively. These demands give rise to unique situations that need special handling and considerations, placing operational constraints that must be considered in terms of ATM measures. ATM delays or denied access to relevant airspace should not occur during these types of missions. This could sometimes have considerable impact on the service provided to civil aircraft (e.g. departing aircraft may need to maintain lower levels for a prolonged period of time or arriving aircraft may need to fly holding patterns due to air policing missions; a different set of airways may need to be used by civil aircraft during a large scale military drill; etc.).
+Technical constraints. Equipage of military aircraft is predominantly focused on the mission and nature of the task that the aircraft is expected to fulfill. Consequently, the provision of ATM and communication, navigation and surveillance equipment on board military aircraft may have certain constraints due to limited space.
+
+These constraints often lead to adaptation of ATM procedures so that military aircraft can be accommodated. As a general rule each state has a choice whether or not to equip its military aircraft with a particular technology and, even if the equipage is mandatory, there are long transitional periods. Examples of military aircraft exemptions are:
+
+RVSM exemption – even if a military (state) aircraft is not RVSM equipped it can still use RVSM airspace; controllers must provide 2000ft vertical separation for this aircraft;
+ACAS exemption – ECAC Member States have commonly agreed on an ACAS policy and a mandatory ACAS II implementation schedule. This mandatory implementation does not apply to state aircraft.
+8.33 equipage exemption – there are various exemptions regarding military aircraft with different time frames (e.g. all state aircraft that go out of service by 2025 are exempted of 8.33 equipage).
+CPDLC exemption – there are certain requirements if a State decides to fit its military aircraft with CPDLC equipment. There is a freedom of choice however whether or not CPDLC equipment will be installed or not.
+
+Common scenarios
+The most common scenarios where controllers need to consider the presence of military aircraft while providing air traffic services have been identified below. In some cases, the operational traffic may be under the control of a civil ATC unit.
+
+Military aircraft flying as GAT and civil controllers providing ATS to the military aircraft. ICAO rules/standards apply. Few specifics, mainly due to equipment in the military aircraft (e.g. 2000ft separation for non-RVSM equipped aircraft within RVSM airspace)
+Military aircraft operating within a restricted area (TSA, TRA) and military controllers providing service within the designated restricted airspace. The main issues are related to TSA/TRA safety buffers and the aircraft route between the base aerodrome and the restricted area.
+Military aircraft flying as OAT within civil airspace and military controllers providing service to it. There is an increased need of coordination, especially when the military aircraft are operating close to interstate boundaries or when they are entering another state’s delegated airspace.
+Military aircraft operating with "due regard". These flights are usually preformed over international waters. The crew may not contact the ATSU that is responsible for the airspace they are flying in. They may also turn off the SSR transponder (if equipped). Civil air traffic controllers may have no means to control and coordinate the flight and they may have no information about the intentions of the flight crew. While operating "due regard", the commander of the military aircraft is responsible for the safety of other civil traffic in their vicinity. Nevertheless, civil air traffic controller workload may increase due to the uncertainty of the military aircraft behaviour.
+Intruder flight (these can also be general aviation aircraft or operational traffic, the latter being more of a concern) – this is one of the most complicated situations, especially when highly manoeuvrable and fast moving aircraft are involved. This scenario usually includes the involvement of the state’s air defence system (e.g. air policing missions).
+Air policing flight by a military aircraft to intercept an intruder (which can be civil or military aircraft). Service is usually provided by military air defence controllers.
+Air-to-air refuelling. In the case of OAT refuelling within civil airspace, a number of issues can arise such as flying VFR above FL195 or the join-up and breakaway procedures. During the air-refuelling process, a certain airspace buffer is reserved for the duration of the refuelling mission and due to the specifics of the operation, heading change or flight level change cannot be issued until the refuelling is fully completed and formations are separated.
+
+Potential Safety Related Issues
+There are a number of issues that can have a potential impact on safety when military aircraft are involved. The most notable of them are:
+
+Chicago Convention is not applicable to state aircraft. Therefore military personnel are sometimes not adequately familiar with the rules and procedures for civil air traffic control. Similarly, civil controllers are usually not familiar with military air traffic control procedures. This can easily lead to coordination and communication issues between civil and military controllers.
+Coordination issues. For example, if another state’s military aircraft are operating close to the interstate boundary, the communication chain can easily become too long. Even during domestic military activities, it is possible that civil controllers are not able to easily obtain the information that they need due to low interoperability levels between civil and military units.
+Different rules for civil and military air traffic control (e.g. different separation minima can be applicable between military aircraft and between military and civil aircraft)
+Operations over International waters – according to the Chicago Convention a state has sovereignty over the airspace over its territory, including the territorial waters. The airspace over international waters can be delegated to a state for the provision of air traffic services. This airspace however is not subject to sovereignty. Foreign military users need to follow different procedures depending on whether the activity is supposed to take place above sovereign territory or over international waters. In the former case negotiation with the state’s government is usually necessary while in the latter only a NOTAM is supposed to be published. Incorrect NOTAM publication (e.g. due to unfamiliarity of military personnel with civil air traffic control rules and procedures) can easily lead to unknown military traffic crossing airways at a level unknown to the responsible ATC unit.
+Information about the position, level, speed and intentions of intruding aircraft is usually incomplete and/or unreliable.
+Off topic discussions – in certain situations (e.g. a problem with a diplomatic clearance) it is possible that a controller (usually the planner but might be the executive as well) can get involved in lengthy conversations for clarifying administrative issues. This can distract the controllers from doing their main task – provision of adequate separation and may easily lead to reduced situational awareness.
+
+Mitigation actions and best practices
+Typically, strategic level activities aimed to improve civil-military cooperation and interaction include implementation of appropriate legislation, joint rules and procedures, and working arrangements at the level of civil ATM unit managers and high ranking military officers. On a tactical level, both civil and military controllers should keep each other informed, as much as practicable, about the trajectory and intentions of the aircraft to which they are providing services. Some good practices of strategic and tactical level civil-military cooperation and coordination arrangements are provided below:
+
+Letters of agreement between civil and military units are a good foundation for effective collaboration and coordination.
+Integration of civil and military controllers within the same unit can greatly improve coordination and help achieve interoperability.
+Establishing a dedicated unit for the coordination between civil and military units (e.g. Airspace Management Cell - AMC) can improve coordination at pre-tactical and tactical level.
+If military activities are not conducted on a regular basis, ad-hoc solutions can be quite efficient (e.g. military controllers and their equipment can temporarily be accommodated within civil facilities)
+Timely relay of information to next sectors/units helps them deal with the situation as best as they can. Incomplete is sometimes better than late.
+Pro-active approach – controllers should initiate coordination when they are unsure about the intentions of an (usually unidentified) aircraft but have a reason to believe that this aircraft might have an impact on their work (e.g. by being a part of a military exercise, an intruder, etc.). Obtaining information in advance helps planning.
+Off topic discussions should be avoided as a general rule, especially in high workload situations. If a non-ATM related issue arises it should best be dealt with by another person (e.g. flight data coordinator, controller assistant, the supervisor, etc.) using a different communication channel (separate frequency, a phone that is not used at a working position, etc.)
+
+Related Articles
+
+Chicago Convention
+General Air Traffic (GAT)
+Operational Air Traffic (OAT)
+ATC Unit Coordination
+State Aircraft and Formation Flights - Separation Minima
+Due Regard
+Operational Air Traffic in Controlled Airspace
+MARSA
+
+Further Reading
+
+Civil/Military Cooperation in Air Traffic Management, ICAO Circular 330
+Civil-military ATM Coordination, EUROCONTROL website
+EUROCONTROL ACAS policy for military aircraft
+EUROCONTOL Avionics Requirements for Civil and State aircraft
+Enhanced ASM Processes and Civil/Military Coordination, Information brochure by EUROCONTROL
+
+
+
+
+
+Categories
+
+
+Loss of Separation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

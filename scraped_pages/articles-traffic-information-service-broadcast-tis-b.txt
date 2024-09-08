@@ -1,0 +1,116 @@
+Traffic Information Service - Broadcast (TIS-B)
+
+
+
+
+
+
+
+
+
+
+
+  Traffic Information Service - Broadcast (TIS-B)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Traffic Information Service - Broadcast
+Description
+TIS-B is a surveillance service aimed to improve pilot's in-flight awareness of the nearby traffic. It provides for display of both broadcasted by appropriately equipped aircraft identity, position, altitude, speed (and other parameters) and surveillance tracks processed by regional control facilities and transmitted by ground broadcast stations. In order to benefit of this service users have to be equipped with pertinent ADS-B In & Out devices. The users of TIS-B include airborne aircraft, aircraft operating on an airport service, and a select set of airport surface vehicles.
+In 2013, the FAA, through its operational ADS-B avionics monitoring activities, learned that a significant number of aircraft operators were equipping with uncertified ADS-B Out devices, apparently to obtaining TIS-B services. If equipped with transponders such aircraft are seen by ATC and surrounding aircraft equipped with TCAS/TAS, but they are “unseen” by surrounding TSO-compliant ADS-B-In aircraft that do not have TCAS/TAS equipage. This creates a safety concern. Further, aircraft equipped with uncertified ADS-B Out devices are not making good use of aeronautical protected spectrum, since their ADS-B information cannot be used by TSO-compliant ADS-B-In systems or FAA air traffic control automation systems. FAA is planning to implement changes to the TIS-B service provided in US in late 2015 and early 2016 to resolve this safety issue.
+For further information see the ADS-B article.
+Further Reading
+
+Changes to the TIS-B Service beginning in late 2015, FAA, March 2015.
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

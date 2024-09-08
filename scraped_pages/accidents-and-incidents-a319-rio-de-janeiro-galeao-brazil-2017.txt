@@ -1,0 +1,356 @@
+A319, Rio de Janeiro Galeão Brazil, 2017
+
+
+
+
+
+
+
+
+
+
+
+  A319, Rio de Janeiro Galeão Brazil, 2017
+
+
+
+
+
+
+
+
+
+Summary
+
+On 19 July 2017, an Airbus A319 crew ignored the prescribed non-precision approach procedure for which they were cleared at Rio de Janeiro Galeão in favour of an unstabilised “dive and drive” technique in which descent was then continued for almost 200 feet below the applicable MDA and led to an EGPWS terrain proximity warning as a go around was finally commenced in IMC with a minimum recorded terrain clearance of 162 feet. The Investigation noted the comprehensive fight crew non-compliance with a series of applicable SOPs and an operational context which was conducive to this although not explicitly causal.
+
+
+
+
+Event Details
+
+When
+
+19/07/2017
+
+
+
+Event Type
+
+
+CFIT,
+              HF,
+              WX
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+IMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS A-319
+
+
+
+
+
+
+
+
+
+Operator
+
+Avianca Brazil
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Sao Paulo/Congonhas Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Rio de Janeiro/Galeão International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Missed Approach
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+SBGL
+
+
+
+
+General
+
+Tag(s)
+
+
+              Approach not stabilised,
+              Non Precision Approach,
+              Event reporting non compliant,
+              Inadequate Aircraft Operator Procedures,
+              Inadequate Airport Procedures,
+              Deficient Crew Knowledge-systems,
+              CVR overwritten,
+              Delayed Accident/Incident Reporting
+          
+
+
+
+
+CFIT
+
+Tag(s)
+
+
+              No Visual Reference,
+              Vertical navigation error
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Inappropriate crew response - skills deficiency,
+              Ineffective Monitoring,
+              Manual Handling,
+              Plan Continuation Bias,
+              Procedural non compliance,
+              Ineffective Monitoring - PIC as PF
+          
+
+
+
+
+WX
+
+Tag(s)
+
+
+              Fog,
+              In Cloud on Visual Clearance
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Operation
+Air Traffic Management
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 19 July 2017, an Airbus A319 (PR-AVC) being operated by Avianca Brazil on a scheduled domestic passenger flight from São Paulo Congonhas to Rio de Janeiro Galeão as Oceanair 6284 continued its non precision and unstabilised approach below MDA in day IMC without the required visual reference and after continued failure to achieve it did not initiate a go-around until it was 162 feet agl at which point an EGPWS Warning of terrain proximity was ignored in favour of a normal go around procedure. A second approach to a different runway was without further event and the 124 occupants were uninjured and the aircraft was undamaged.
+Investigation
+The EGPWS annunciation was reported to the Operator by the crew as required but the event was not reported to the CENIPA, the Brazilian Aeronautical Accidents Investigation and Prevention Centre, until 29 days after it had occurred following recognition by the Operator of its significance during routine review of OFDM data. On receipt, the Agency classified it as a Serious Incident and began an Investigation. As a result of the delay in notification, the only relevant full range of recorded flight data available was that on the QAR, relevant FDR and CVR data having been overwritten. However, the EGPWS NVM was downloaded and its data was correlated with the QAR data.
+It was noted that the Training Captain in command who had been PF for the investigated approach, had a total of 7,183 flying hours of which 2,682 hours were on type. He had been employed by the airline for approximately 10 years and was “preparing to become an Airbus A330 commander”. The First Officer had a total of 4,650 flying hours which included 3,200 hours on type and during the investigated flight he had been “under evaluation” with respect to the possibility of promotion.
+It was established that the destination TAF available prior to departure from Congonhas had included the possibility that the destination weather may deteriorate whilst the flight was en route. There was also a NOTAM advising that the runway 28 ILS at Galeão would be out of service, although the ILS approaches to runways 10 and 15 were unaffected. As the flight reached the vicinity of its destination, ATC had advised that the arrivals runway was 28 with only the RNAV (GNSS) Y (non precision) approach procedure available. The weather had indeed deteriorated and the lowest observed cloud was now 2,500 metres prevailing visibility in slight drizzle and mist with the lowest cloud BKN at 300 feet aal - below the approach procedure MDA. The RNAV (GNSS) Y procedure chart is reproduced below and with the airport and runway elevation being 28 feet, it can be seen from this that there are two possible MDAs, 417 feet QNH if LNAV/VNAV automation is used and 470 feet QNH if only LNAV automation is used. Due to the weather deterioration, it quickly became clear that arriving aircraft were repeatedly unable to obtain the required visual reference at MDA and were going around as a result. ATC APP advised the inbound flight that as a sequence of four aircraft ahead had gone around, TWR had decided to close the airport for landings and it would therefore be necessary to take up a holding pattern at 3,500 feet. However within minutes, TWR ATC had realised that their action in closing the airport to landing aircraft, which had been based on the 300 feet ceiling being below the specified “ceiling required” of 400 feet for the LNAV/RNAV approach and 500 feet for the LNAV-only approach was incorrect because of a change in State Regulations effective from 22 June 2017 which had removed ceiling as a determinant for the closure of airports to approaches and left just visibility as a reference for such a decision.
+
+The Jeppesen Chart used by the crew for their unsuccessful runway 28 approach. [Reproduced from the Official Report]
+ATC APP advised that the airport was now accepting arrivals again and asked the flight if they wished to commence an approach to which the crew responded that they would consider the option and then advise their decision, the observed conditions having been notified as an unchanged 300 feet aal ceiling and an unchanged 2,500 metres visibility. Almost immediately, APP then advised that the traffic ahead in the arrivals sequence, a Cessna Beechjet, had “managed to land” and in response, the crew immediately responded with “affirmative sir, 6284 will then try an approach”.
+On transfer to TWR, the controller advised that the Beechjet had, on request, reported having seen the runway from 400 feet. Thereafter, the A319 crew continued their approach for a further 2½ minutes continuing below the applicable MDA of 470 feet without acquiring visual reference before transmitting that they were going around. As this go around was being initiated from 295 feet QNH, with 2.34 nm still to go until reaching the runway, two successive EGPWS ‘TOO LOW TERRAIN’ Warnings were annunciated as a result of an increase in the height of the undulating terrain ahead of the aircraft which reduced its terrain clearance to 162 feet.
+It was found from the QAR data that the vertical profile which had been flown by the aircraft had begun to increasingly deviate below that prescribed - see the illustration below - soon after passing the 1670 feet QNH required at the procedure FAF, designated as the GL 142 stepdown fix depicted on the approach chart. This QAR data, in conjunction with the available EGPWS data, also provided an explanation for the EGPWS activation, which it was determined had been the predictive ‘Terrain Clearance Floor’ mode.
+
+The required and actual vertical profiles showing the undulating terrain ahead of the MDA. [Reproduced from the official report]
+It was noted from the data that the crew had not responded to the EGPWS activations as per the prescribed FCOM Abnormal and Emergency Procedure memory actions but had simply continued with their go-around procedure. The pilots subsequently stated that there had been “no apparent reason” for the terrain proximity alert and it was found that the crew believed that a full evasive response to an EGPWS alert should only be performed if there was a concurrent ‘PULL UP’ annunciation whereas the FCOM “makes clear that the manoeuvre should be performed in the case of all EGPWS Cautions occurring at night or in IMC”. The fact that the ‘PULL UP’ annunciation is inhibited during operation of the Terrain Clearance Floor mode was also noted - something which “could have (had) catastrophic consequences” if the go around manoeuvre had not been taking place anyway.
+The premature descent made after passing the stepdown fix G142 at the FAF was found to have been intentional and attributable to the late decision to disregard the published continuous descent procedure vertical profile once past the FAF and to make a “dive and drive” approach as regularly used by some crews at Rio de Janeiro Santos Dumont in order to obtain earlier visual reference with the runway than would otherwise be achieved. This decision was only made by the Captain and communicated to the First Officer (from whom there was no adverse response) at the point where it was quickly decided to make an approach and had not been included in the earlier initial approach brief. Both pilots were familiar with this breach of procedure at Santos Dumont but neither had any experience of performing such an approach at Galeão. This decision meant that the prescribed stabilised approach criteria were inevitably going to be exceeded (the mandatory discontinuation of the approach when not stabilised at 1000 feet agl was ignored) and the final stepdown fix identified as GLO83 on the chart was going to be intentionally ignored. It was found that once the “dive” part of this ad hoc approach had been commenced, the First Officer had alerted the Captain to the fact that the aircraft was “too low” and the Captain’s response of increasing the rate of descent rather than, as the First Officer had expected, reducing it went unnoticed by the latter who by this time had joined the Captain on looking outside for any visual reference. The prescribed 660 feet altitude at the GLO83 position, which was 2 nm from the runway threshold, was in fact reached with 2.67 nm to go with descent continuing.
+It was further found that the requirement for use of the lower of the two procedure MDAs, 417 feet - that automatic control of both the VNAV and LNAV channels must be used with the AP in ‘FINAL APP’ mode - was not met since the selection of V/S mode to increase the rate of descent for the “dive” disconnected FINAL APP mode and meant that the crew became responsible for compliance with the vertical flight profile and the applicable MDA therefore became the higher figure of 470 feet. It was not clear which of these MDAs had been inserted into the Flight Management Guidance Computers (FMGC).
+The Flight Operations Context
+The material failure of the crew to comply with approach SOPs which led to an excessive workload was considered to have included amongst other things:
+
+a degree of ambivalence amongst older pilots as to the continued use of a “dive and drive” approach at (only) Santos Dumont without any clarity as to the acceptability in this specific case of an otherwise no longer used non precision approach technique.
+a failure by the Company to align their approach procedures with those which had recently been promulgated by the regulatory authorities removing “cloud ceiling” as a criterion for an approach ban.
+the amount of operationally-relevant information directed at pilots through multiple communications channels without any prioritisation may have favoured low assimilation of important information.
+the FCOM did not cover the use of the V/S mode as a means to fly an RNAV approach, the only alternative to the (recommended) ‘FINAL APP’ mode being the NAV FPA combination.
+the willingness of the crew to ignore the annunciated EGPWS warnings was considered to evidence “gaps in the crew's knowledge of aircraft systems” since even after the event, there had been no recognition of the potential gravity of the situation and that such flaws in the crew’s knowledge had “contributed to a low level of situational awareness”.
+
+The ATC Context
+Two observations about the involvement of ATC in the investigated event were identified:
+
+The brief closure of Galeão airport to arriving aircraft had been explicitly contrary to the new regulatory directive which had removed cloud ceiling as a criterion relevant to such a decision. However, the quick recognition of this error (within about 3 minutes) was noted.
+The continuing designation of runway 28 as the arrivals runway at Galeão when the cloud base lowered to 300 feet with the usual ILS procedure unavailable and then denying a request made by an another aircraft to make an ILS approach to runway 15 and accept the 5 knot tail wind component at touchdown which that would have involved in accordance with applicable ATC procedures was considered to indicate the need for a review of their content.
+
+Eight Contributory Factors to the investigated Serious Incident were identified as follows:
+
+Aircraft Control Skills - The use of the Vertical Speed mode associated with the selection of an excessive rate of descent contributed to the destabilisation of the approach.
+Attention - During the landing procedure, the pilots did not observe relevant factors that would indicate a destabilised approach. In addition, the First Officer did not notice that the Captain had increased the rate of descent instead of reducing it after he had alerted him to the fact that the aircraft was too low. This inattention on the part of the crew contributed to the occurrence, as it facilitated the descent of the aircraft outwith the prescribed stabilised approach parameters.
+Attitude - Failure to comply with the procedures established in the aerodrome approach chart contributed to the occurrence of the Serious Incident, as it added greater risk and greater complexity to the management of the aircraft.
+Crew Resource Management - Although it was not possible to analyse the data of the voice recorder of the aircraft, a deficiency in the co-ordination of the flight deck activity was evident including the non-compliance with several operating procedures, including prescribed stabilised approach parameters, the response to the ‘Too Low, Terrain’ EGPWS Warning and the requirements of Company Operational Directive (DOP) 28/17.
+Team Dynamics - The interaction of the pilots during the approach and landing moments was compromised by the absence of a detailed briefing on the technique to be used for the approach and the work overload which they encountered by choosing a procedure divergent from the prescribed one and thus favouring the continuation of the flight below the established minimum limits.
+Piloting Judgment - The evaluation of a dive and drive approach based on the final approach of the São Paulo Congonhas runway 28 procedure proved to be inadequate as it did not bring any operational advantage to the crew or comply with approach stabilisation criteria and safety restrictions.
+Perception - The lack of precision regarding the perception of the performance of the aircraft during the final approach resulted in restrictions imposed by the chart vertical profile being overlooked which indicated a lowering of the level of situational awareness presented by the crew.
+Decision-making process - The decision to proceed with the approach, as well as the technique chosen to carry out this procedure, showed a precipitous and imprecise assessment of the risks involved in that type of operation.
+
+Two Potential Contributory Factors were also identified:
+
+Organisational processes - The excess of existing communication channels in the airline, the lack of prioritisation of messages of greater operational relevance, as well as the possible difficulties in communication between the different sectors may have led to the emergence of a scenario unfavourable to the proper assimilation of operational procedures and standardisation by the flight crew.
+Support systems - The communication of operational procedures, such as those for a cloud ceiling below the minimum for transition to visual reference on the approach charts which were dealt with in Company Operations Directive 28/17, was not robust and may have contributed to the low assimilation of the crew of the guidance, defined by the airline.
+
+As a consequence of these Findings, six Safety Recommendations were made on completion of the Investigation as follows:
+
+that the Brazil National Civil Aviation Agency (ANAC) act together with Oceanair Airlines (Avianca) to ensure that the company clearly defines an Operational Directive which establishes the policy of the airline on the use of the “dive and drive” technique by its crew. [IG-105/CENIPA/2017 - 01]
+that the Brazil National Civil Aviation Agency (ANAC) act together with Oceanair Airlines (Avianca) to ensure that the company reinforces the dissemination of the procedure, established within the company, on the execution of an IFR approach when the reported ceiling and/or visibility are lower than those presented in the respective charts. [IG-105/CENIPA/2017 - 02]
+that the Brazil National Civil Aviation Agency (ANAC) act together with Oceanair Airlines (Avianca) to provide theoretical instruction on EGPWS for all Company pilots. [IG-105/CENIPA/2017 - 03]
+that the Airspace Control Department (DECEA) evaluates the pertinence of including an indication of the stepdown fix GL083 on the instrument approach chart for the RNAV Y approach to runway 28 at Rio de Janeiro Galeão, with the purpose of increasing the situational awareness of the pilots, regarding the vertical limits of the approach. [IG-105/CENIPA/2017 - 04]
+that the Airspace Control Department (DECEA) evaluates the pertinence of including the nominal indication of Stepdown Fixes on the approach charts for non-precision procedures whenever there is a designation nomenclature established for the respective point. [IG-105/CENIPA/2017 - 05]
+that the Airspace Control Department (DECEA) re-evaluates the established criteria for runway selection at Rio de Janeiro Galeão considering the lessons learned in this Investigation. [IG-105/CENIPA/2017 - 06]
+
+The Final Report was completed on 29 January 2019 and published online in the definitive Portuguese version on 6 February and in an official English language version on 20 February 2019.
+Related Articles
+
+Controlled Flight Into Terrain (CFIT)
+Standard Operating Procedures (SOPs)
+Terrain Avoidance and Warning System (TAWS)
+Response to a "PULL UP" Warning
+Minimum Descent Altitude/Height (MDA/MDH)
+Non-Precision Approach
+Stabilised Approach
+Missed Approach

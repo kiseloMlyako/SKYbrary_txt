@@ -1,0 +1,147 @@
+NAVAID
+
+
+
+
+
+
+
+
+
+
+
+  NAVAID
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+NAVIGATIONAL AID (NAVAID) - Any visual or electronic device airborne or on the surface which provides point-to-point guidance information or position data to aircraft in flight. 
+AIR NAVIGATION FACILITY - Any facility used in, available for use in, or designed for use in, aid of air navigation, including landing areas, lights, any apparatus or equipment for disseminating weather information, for signaling, for radio-directional finding, or for radio or other electrical communication, and any other structure or mechanism having a similar purpose for guiding or controlling flight in the air or the landing and takeoff of aircraft. 
+
+Source: FAA JO 7110.65 ATC
+Description
+While the term "NAVAIDs" has a broad meaning encompassing a wide array of devices, the most notable branch of these are the ground-based radio aids. These are facilities on the ground that use radio waves (mostly in the HF and VHF spectrum) to provide guidance (mostly in the horizontal plane but sometimes vertical as well) to suitably equipped aircraft. The information is presented to the pilot either on dedicated instruments or on an integrated glass cockpit display. Examples of such NAVAIDs are:
+
+VOR - provides a bearing to/from the station.
+DME - provides distance to the facility. Note that this distance is slant, rather than horizontal.
+VOR/DME - a collocated VOR and DME radio facility that provides bearing and distance.
+NDB - provides relative bearing to the facility.
+ILS - provides horizontal (localizer) and vertical (glide slope) guidance for landing aircraft.
+MLS (microwave landing system) - similar to ILS, operating at UHF frequencies
+TACAN (tactical air navigation system) - provides range and bearing from the station. Operates at UHF frequencies and used by military aircraft.
+VORTAC - a combination of VOR and TACAN
+LORAN - provides aircraft position based on the time difference of received synchronized pulse signals. Operates at low frequencies.
+
+Radio NAVAIDs were the most common means for ensuring reliable en-route navigation and precise approach guidance for decades. With the development of PBN their role is gradually diminishing. Nevertheless, they are still widely used today and are available as backup in case of equipment failure or degradation. 
+On aeronautical charts, radio NAVAIDs are represented by special symbols (e.g. a hexagon for VOR, a square for DME, etc.) and an attached textbox displaying the name, ID, frequency and other relevant information. Unlike waypoints which are coded using 5-symbol strings (e.g. REKRA, ZZ123, etc.), the ID of a NAVAID usually comprises three letters (e.g. FIX) and has a corresponding name, often derived from a nearby geographical feature (e.g. Fixerville).
+While radio aids are the most common type of NAVAIDs (to the extent of the two terms being used as synonyms at times), as seen from the definition, other options exist. For example, GNSS is an of airborne NAVAID and there are visual NAVAIDs as well. They are meant to be recognized by the pilot when looking outside the cockpit. As they depend on the visibility conditions, they are primarily used by VFR flights or as sources of supplementary data. Examples of such aids are:
+
+VASIS, PAPI and other similar systems provide vertical guidance to landing aircraft (similarly to the ILS glideslope)
+Visual approach systems. These are lights that are located before the runway and provide horizontal guidance to landing aircraft (similarly to the ILS localizer)
+Aeronautical light beacons, displaying flashes of light (white or coloured) to indicate the location of an aerodrome/landmark/obstruction/other specific point.
+
+Other devices and systems that fit the NAVAID definition include:
+
+VDF, which is similar to VOR (as it provides bearing) but requires a radio voice channel and person (e.g. an air traffic controller or a FIS officer) to provide that information to the pilot.
+Any surveillance system paired with an air traffic controller (or a FIS officer) can be considered a NAVAID as this can be used to provide navigation assistance, especially in case of loss of position awareness or other emergency or abnormal situation.
+
+Related Articles
+
+Waypoint
+Navigation Aids for VFR Flights
+
+Further Reading
+
+NAVAIDs, a video by US FAA
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

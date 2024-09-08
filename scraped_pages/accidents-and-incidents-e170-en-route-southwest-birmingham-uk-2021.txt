@@ -1,0 +1,289 @@
+E170, en-route, southwest of Birmingham UK, 2021
+
+
+
+
+
+
+
+
+
+
+
+  E170, en-route, southwest of Birmingham UK, 2021
+
+
+
+
+
+
+
+
+
+Summary
+
+On 7 June 2021 an Embraer ERJ170 had just commenced its descent towards destination when both primary and secondary pitch trim systems failed resulting in excessive nose-down pitch control forces and an inoperative autopilot. The flight was completed without further event with the Pilot Flying using both hands on the control yoke to control pitch attitude manually. During the landing roll the nosewhweel steering system also failed. The pitch trim failure was attributed to probable jamming of the trim actuator due to water, possibly condensation, freezing within it. The steering system fault was attributed to a completely unrelated sensor failure.
+
+
+
+
+Event Details
+
+When
+
+07/06/2021
+
+
+
+Event Type
+
+
+AW,
+              LOC
+
+
+
+
+Day/Night
+
+Day
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+EMBRAER ERJ 170-100
+
+
+
+
+
+
+
+
+
+Operator
+
+Eastern Airways
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Gibraltar Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Birmingham International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Descent
+
+
+
+
+
+
+
+
+Location
+
+Approx.
+
+SW of Birmingham UK
+
+
+
+
+
+
+
+
+
+
+General
+
+Tag(s)
+
+
+              Inadequate Airworthiness Procedures,
+              PIC less than 500 hours in Command on Type,
+              CVR overwritten,
+              Delayed Accident/Incident Reporting
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Significant Systems or Systems Control Failure,
+              Environmental Factors
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Flight Controls,
+              Landing Gear
+          
+
+
+
+Contributor(s)
+
+
+              Inadequate Maintenance Schedule,
+              Component Fault in service
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 7 June 2021 an Embraer ERJ170 (G-CIXW) being operated by Eastern Airways on a non-scheduled passenger flight from Gibraltar to Birmingham had just begun descent from FL 380 when both primary and secondary pitch trim systems failed. The resultant excessive nose-down control forces in pitch and inoperative autopilot were addressed by the use of two hands on the control column. The remainder of the flight was completed without further event but during the landing roll the nosewheel steering system also failed.   
+Investigation
+After a delay of nine days in notification of the event, a Serious Incident Investigation was carried out by the UK Air Accident Investigation Branch (AAIB). As a consequence of this delay, relevant information from the CVR was no longer available but QAR data was provided by the operator and assisted the Investigation.
+It was noted that the 48 year-old Captain had a total of 4,050 hours flying experience which included 83 hours on type. The corresponding experience of the First Officer, who was acting as PF until steering failure was annunciated during the destination landing roll, was not recorded.  
+What happened and why 
+The beginning of the descent from a cruise altitude of FL380 in Flight Path Angle (FPA) mode was normal but QAR data showed that after a short time, “increasing amounts of control column pitch down input were recorded with no change in pitch trim" until a jump in the recorded value from -2.4° to 0° around 90 nm from destination whilst passing through FL307. An EICAS ‘PITCH TRIM FAIL’ caution - which indicated a dual channel failure of the Horizontal Stabiliser Actuator Control Electronics unit (HS-ACE) - then appeared. In response, the PF intentionally disconnected the AP to preclude the consequences of a possible pitch trim runaway and soon afterwards, ‘AP FAIL’ was annunciated. 
+The ‘PITCH TRIM FAIL’ non-normal checklist was actioned but did not restore the system and it was noted from this checklist that the required landing slat/flap configuration would therefore be 5 and that 15 knots would need to be added to the calculated VREF FULL with the landing configuration established “early”.
+The crew determined from the forces required to maintain the flight path and the trim indication, that both primary and secondary trim systems were inoperative which explained the AP dropout. No emergency was declared and the flight was subsequently radar vectored to an ILS approach to runway 15 at Birmingham. During final approach, the PF reported having found that pitch control required more effort than usual and to counter this, it was decided that the PF would keep both hands on the control column while the PM would cover the thrust levers (the A/T remained engaged). QAR data confirmed that the manual ILS approach had been stable. 
+On touchdown, ‘STEER FAIL’ and ‘FLT CTL NO DISPATCH’ cautions were annunciated and the Captain took control and brought the aircraft to a stop on the runway so that the ‘STEER FAIL’ checklist could be completed. He then completed the taxi in using differential braking and asymmetric power and, after engine shutdown, advised the operator’s maintenance control of the failures and resulting defect entries were made in the aircraft Technical Log. The subsequent rectification involved replacement of the apparently malfunctioning HS-ACE followed by a test of the Horizontal Stabiliser function. 
+Embraer reviewed relevant data from the event and noted that a SIL issued in August 2018 had indicated that HS-ACE trim actuator jamming was the likely cause of pitch trim failure with jamming attributable to water ingression in the actuator ball nuts due to condensation facilitating jamming in cold temperatures and long flights. It noted that during troubleshooting of trim malfunctions, the effects of the low temperature disappear so that operators may ”misdiagnose the root cause and replace the HS-ACE”. It was also observed that the Covid pandemic had led to the aircraft involved in the investigated event to be parked out of service for a lot longer than usual which may have affected the effectiveness of actuator lubrication which had caused them to include lubrication of the horizontal stabiliser in the ‘return-to-service’ preparations after prolonged parking. An unconnected sensor failure in the nosewheel steering system was found to be the cause of that (unconnected) malfunction and was replaced.
+The Conclusion of the Investigation was formally documented as follows:
+The failure of the pitch trim system probably occurred because of jamming of the horizontal stabiliser as a result of freezing of water ingression in the ball nut due to condensation. The Investigation found that the operator had lubricated the horizontal stabiliser at the intervals specified by the manufacturer to prevent such an occurrence. 
+Jamming of the horizontal stabiliser resulted in the loss of the pitch trim functionality. Consequently, the PF [First Officer] experienced greater than normal nose-down pitch forces on the approach. The PF delegated the monitoring of the throttles, which were still in autothrottle, to the PM [Captain] to allow him to use both hands on the yoke. The PF flew a stable approach and made a safe landing. However, on landing, the steer fail caution illuminated, as a result of an unrelated sensor failure. The Captain took control and brought the aircraft to a safe stop and taxied the aircraft to stand using differential braking.
+The Final Report was published on 13 October 2022. No Safety Recommendations were made.
+Related Articles
+
+Loss of Control
+Trim Systems
+Nose Wheel Steering
+Aircraft Maintenance Manual (AMM)
+Service Information Letter

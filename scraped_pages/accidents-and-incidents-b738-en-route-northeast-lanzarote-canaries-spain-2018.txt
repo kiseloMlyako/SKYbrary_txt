@@ -1,0 +1,310 @@
+B738, en-route, northeast of Lanzarote Canaries Spain, 2018
+
+
+
+
+
+
+
+
+
+
+
+  B738, en-route, northeast of Lanzarote Canaries Spain, 2018
+
+
+
+
+
+
+
+
+
+Summary
+
+On 10 February 2018, soon after a Boeing 737-800 en-route to Fuerteventura had begun its cleared descent from FL370 to FL130, the controller changed the clearance limit to FL360 after noticing a previously overlooked potential loss of separation with traffic below at FL350. The attempt to level off as instructed resulted in a mismanaged manual intervention which led to an upset lasting about a minute during which a passenger carrying a small child fell and sustained serious injury. The significant delay in getting the injured passenger to hospital after landing led to systemic deficiencies in airport medical assistance being identified.
+
+
+
+
+Event Details
+
+When
+
+10/02/2018
+
+
+
+Event Type
+
+
+HF,
+              LOC
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+Not Recorded
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 737-800
+
+
+
+
+
+
+
+
+
+Operator
+
+Ryanair
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Edinburgh Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Fuerteventura Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Cruise
+
+
+
+
+
+
+
+
+Location
+
+Approx.
+
+Approximately 10nm south southwest from waypoint TERTO
+
+
+
+
+
+
+
+
+
+
+General
+
+Tag(s)
+
+
+              Event reporting non compliant,
+              Inadequate Airport Procedures,
+              CVR overwritten,
+              Delayed Accident/Incident Reporting
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              ATC clearance error,
+              Flight / Cabin Crew Co-operation,
+              Manual Handling,
+              Procedural non compliance
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Temporary Control Loss
+          
+
+
+
+
+EPR
+
+Tag(s)
+
+
+              Airport Emergency Medical Response
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Non-aircraft damage
+
+Yes
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Occupant Injuries
+
+Few occupants
+
+
+
+Off Airport Landing
+
+Yes
+
+
+
+Ditching
+
+Yes
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Airport Management
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 10 February 2018, a Boeing 737-800 (EI-EKI) being operated by Ryanair on an international passenger flight from Edinburgh to Fuerteventura as RYR8421 and in the cruise at FL370 requested and was given descent clearance to FL130 but upon beginning this descent, the controller instructed the aircraft to stop at FL360. The attempt to achieve this involving manual flight path control resulted in a brief period of abrupt changes in vertical acceleration during which one of the passengers fell and sustained a serious leg injury. Subsequent hospitalisation on arrival was significantly delayed.
+Investigation
+Once notified of the Accident several days after it had occurred, an Investigation by the Spanish Commission for the Investigation of Accidents and Incidents (CIAIAC) was commenced. This notification delay meant that relevant data from both the CVR and FDR had been overwritten, however the operator was requested to provide a copy of the QAR data used for OFDM purposes and did so. All relevant ATC recorded data were also available. It was noted that the aircraft crew had consisted of a 38 year-old Captain of Italian nationality and a 29 year-old First Officer of British nationality and that the ATS sector involved had been the ‘RNE’ sector of the Canaries’ TMA.
+It was established that the 737 crew had requested descent clearance when between waypoints ‘TERTO’ and ‘POKAB’ and level at FL370 (see the illustration below) and had received clearance to descend to FL130. Their subsequent statement noted that they “had already passed their calculated top of descent point” and had commenced descent by selecting 'SPD' mode which had resulted in the aircraft beginning “a steep descent" recollected as made at a rate of at least 2000 fpm. However, some 36 seconds after the controller had issued the descent clearance with the aircraft having only reached FL 368, the controller, having now noticed that there was no horizontal separation between the descending 737 and an AIRBUS A-320 at FL350, instructed the 737 to stop at FL 360, advising that this was because of a “potential traffic conflict” later advised as an Airbus A320 at FL350 and on a similar track less than 4 nm behind the 737.
+
+The position of the 737 (circled) at the point when the controller changed its cleared level from FL130 to FL360 - the potentially conflicting A320 is northeast of and below it. [Reproduced from the Official Report]
+The Captain’s initial response to this unexpected change was to select ALT HOLD mode in place of ‘SPD’ mode before almost immediately disconnecting the AP at FL364 with the rate of descent recorded as 3,600 fpm. Manual inputs to the control panel followed with an initial control column input resulting in a change in the pitch attitude from -2° to zero in one second which generated a peak vertical acceleration of 1.409g and instantly reduced the rate of descent from 3,600 fpm to 2340 fpm. Then, over the next six seconds, pitch attitude was returned to -2.1° which restored the rate of descent to 3660 fpm as the aircraft reached FL360. The AP and ‘ALT HOLD’ mode were then re-engaged, resulting in an increase in the pitch attitude from -2.3° to +1.6° over just one second which caused another spike in vertical acceleration to 1.69 g. One second later, the AP was again disengaged and recorded vertical acceleration reduced to 0.93 g. Five seconds later, a further manual pitch up input produced another spike in vertical acceleration of 1.41 g before a reduction, then sudden increase in pitch attitude led to yet another spike in vertical acceleration, this time to 1.43 g. This last input finally resulted in the reversal of the descent into a climb at FL357 after which FL 360 was regained. It was noted that throughout the episode, the airspeed had remained around 250 KCAS but also established that at some point during it, one of the passengers had fallen and sustained a complex leg fracture. The Investigation noted that the fluctuations in aircraft pitch which had characterised the upset “were typical in an aircraft piloted manually at high altitudes” where small control inputs cause a significant change in the pitch.
+In accordance with normal procedures and the prevailing smooth flying conditions, the seatbelt signs were not on although the cabin crew subsequently stated that they had been expecting this to be done as a matter of routine “within the next few minutes”. They reported having “felt a series of violent shakes, which they initially identified as turbulence (and that) in all their experience as cabin crew, they had never experienced such a sudden movement in an aircraft”. The sudden upset “caused all four cabin crew to fall to the floor” and a passenger who had a child approximately 5 years old in his arms and was exiting the right-hand toilet compartment was seen to “turn his body to the left to try to shield the child, which forced his legs into an unnatural position” so that when he fell, it appeared that he had broken his leg. The child being carried hit the back of their head which “caused some bruising” but no one else was injured. A doctor on board advised that in view of the injury, the passenger involved should not be moved. One of the cabin crew advised the flight crew what had happened using the operator’s standard form of communication, the “PAA” format - Problem / Action taken / Additional information and advised that medical assistance would be needed on arrival. This medical assistance request was relayed to ATC who passed the request on to Fuerteventura TWR who were recorded as logging a request for a nurse.
+The aircraft landed about 35 minutes after the flight crew request had been made but once the aircraft had parked, there was no medical assistance and the ramp agent said they were unaware of any such need. They then called the airport nurse who arrived five minutes later and determined that the emergency ambulance was required get the injured passenger to hospital. The telephone operator taking the ambulance request call “instructed the nurse not to move the patient until the ambulance arrived” which did not occur until at least an hour after the aircraft had arrived on stand.
+The cabin crew made the return flight to Edinburgh the same day although subsequently stating that they “had been affected by the event” and were concerned about “a lack of communication and CRM with the flight crew, since after the event they received no information about what had happened”. They also remarked that “even after landing, the flight crew did not go see the injured individuals or ask about the condition of the passengers or the crew”.
+The Investigation examined the Fuerteventura airport operator’s “guidelines for requesting emergency assistance at the airport” and found that there was no evidence that they had been followed. In particular, there was no record of the outcome of the required pre-arrival assessment on whether the island’s only emergency ambulance (which was not based near the airport) should be called out. It was concluded that the airport’s guidelines had been ineffective in responding to the pre landing request from the flight and should be improved and incorporated into the Airport Emergency Plan.
+However, the Investigation also found that AESA, the State aviation safety regulator was of the opinion that the accident being investigated “was an individual medical emergency and as such should be outside the Aerodrome Emergency Plan”. It was considered that this opinion was contrary to the definition of accident contained in Regulation (EU) No. 996/2010 (and derived from ICAO Annex 13), which defines an ‘Accident’ as including events where serious injuries occur as a result of being on board an in-service aircraft. It was therefore considered that the procedural response to an accident such as the one under investigation should be included in an Aerodrome Emergency Plan as recommended by EASA in its applicable guidance material.
+The Probable Cause of the Accident was formally documented as "the execution by the crew of a sudden manual manoeuvre to maintain the specified flight level”.
+A Contributory Factor was also identified as “the decision to disengage the autopilot in order to carry out the manoeuvre manually, which contributed to the abrupt nature of the manoeuvre”.
+Two Safety Recommendations both in respect of airport medical response were made as a result of the Investigation as follows:
+
+that the Fuerteventura Airport Operator reviews its procedure to provide medical assistance at the airport, in case of medical emergency and clearly identifies and assigns tasks so that this procedure can be performed as part of the airport’s Emergency Plan. [REC 50/18]
+that the AESA (the Spanish State Aviation Safety Agency) reviews the Emergency Plans of certified aerodromes in order to ensure that they contain a procedure for providing proper medical assistance, particularly in the case of an aircraft accident, clearly identifying responsibilities and (those) responsible for the actions necessary. [REC 51/18]
+
+The Final Report of the Investigation was approved on 30 October 2018 and subsequently published in English translation in May 2019.
+Related Articles
+
+Loss of Control
+Aerodrome Emergency Medical Response
+High Altitude Flight Operations
+Aerodynamic Stall Awareness and Avoidance
+Crew Resource Management (CRM)

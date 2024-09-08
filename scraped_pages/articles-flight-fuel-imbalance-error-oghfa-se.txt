@@ -1,0 +1,203 @@
+In-Flight Fuel Imbalance Error (OGHFA SE)
+
+
+
+
+
+
+
+
+
+
+
+  In-Flight Fuel Imbalance Error (OGHFA SE)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+OGHFA 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ Flight Safety Foundation
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Incident as a Situational example
+You are the captain flying a scheduled transoceanic flight. You take off shortly after midnight with 8 tons of fuel more than the minimum quantity required. The flight progresses normally. Following standard operating procedures (SOPs), you review the system pages and fuel burn-off at regular intervals. In the very early morning hours, during one of these checks, you notice an unusual oil indication for the right engine. In order to diagnose the reason, you contact the airline’s maintenance control center (MCC) by radio, but the people there cannot explain the anomaly.
+You then get an advisory message on the system display indicating a fuel imbalance between left and right wing inner tanks. In response, you apply the fuel imbalance procedure from memory because you have frequently been trained to monitor fuel imbalance. You select the cross-feed valve “OPEN” and the right wing fuel pumps “OFF” to feed the right engine from the left wing tanks.
+You review engine indications and notice no abnormal indications nor suspicious in-flight conditions. The fuel loss rate appears to be unrealistically high, so you suspect a sensor or computer malfunction.
+Minutes later, you realize fuel on board has dropped below the minimum required to reach the destination.
+Considering the current fuel status, what is your next move ?
+You decide to divert to an en route alternate airport. This creates high workload because you have to continue simultaneously flying the airplane while trying to diagnose the fuel fault. You spend time deciding, remembering, looking up information, requesting assistance from the cabin crew, requesting information from the MCC and scanning documents to get more information. At the same time, you coordinate, plan and execute the diversion and communicate with air traffic control (ATC) and the MCC.
+Fuel quantity has already dropped to 7 tons. You request a visual check of the wings and engines by the cabin crew, but it does not provide any evidence of a fuel leak.
+Some time later, since you suspect a fuel leak in the right wing tanks, you decide to use up the fuel in the right wing tanks first. You then select the right wing fuel pumps to “ON” and the left wing pumps to “OFF.”
+At this stage, fuel quantity has dropped further to 1.0 ton in the right tanks and 3.2 tons in the left tanks. After checks, maintenance suggests the theory that the fuel loss might be from a leak in the left engine. You momentarily reselect the cross-feed from the left tanks to verify this.
+Minutes later, nearly 200 nm (370 km) from your diversion airport and at Flight Level (FL) 390, the right engine flames out. The left engine then flames out, too, at FL 325, some 70 nm (130 km) from the diversion airport.
+Faced with dual flameout, what is your next course of action?
+You complete the “All Engines Flameout” procedure and perform the descent along the engines-out descent profile.
+Approach control provides you assistance with radar vectors to the airport. Using runway lighting for guidance, you manage to land the aircraft safely. At 200 kt, it is a hard landing, and the airplane bounces back into the air and touches down a second time. You apply maximum braking until the plane comes to a complete stop. Because of the hard landing, you order an evacuation.
+Data, Discussion and Human Factors
+The investigation determined that the dual engine flameout was caused by fuel exhaustion, caused by a fuel leak in the right engine due to the use of mismatched fuel and hydraulic lines during hydraulic pump installation. Aiding fuel exhaustion was the crew’s failure to carry out the “Fuel Leak” procedure, which was designed by the manufacturer to reduce any consequences of an in-flight fuel leak.
+Engine maintenance factors
+Prior to the flight, two routine inspections of the aircraft revealed the unexplained presence of metal chips in the oil system of the right engine. The airline decided to replace the engine. As no spare engine was available, a loaned engine was used.
+The engine change was carried out at midnight one week before the flight and proceeded normally until it was discovered that the rear hydraulic pump, taken from the engine that had been removed, could not be fitted onto the replacement engine due to interference with the high-pressure fuel pump inlet tube.
+The spare engine was in fact in a previous configuration different than all those currently in use, and this difference was not identified during reception of the loaned engine and maintenance planning.
+Although it was recognized that the fuel tube from the replaced engine was different from the one being installed, the replacement was carried out without referring to the Illustrated Parts Catalogue, but sufficient clearance between the fuel and hydraulic lines reportedly was achieved.
+Both the lead technician and another technician inspected the engine upon completion and noted no discrepancies. The engine was successfully ground run and the aircraft released for flight. The event occurred several days after the first flight back after maintenance.
+Summarized, the following factors played a role:
+
+The engine replacement occurred on a Saturday at midnight.
+Shift changes took place, and the installation problem was not detected.
+Time pressure resulted from the need for the aircraft to be released for service on Monday.
+The threat — engine replacement without service bulletin (SB) consultation — was not followed up.
+
+Aircraft operational factors
+The problem started to develop with the indication of unusual oil readings conflicting with normal engine readings. There were no system anomalies, and the MCC was not able to provide useful advice.
+The fuel problem remained unnoticed for about one hour, when the advisory message was generated and the crew addressed the fuel imbalance.
+Various cockpit indications of the fuel loss had remained unnoticed up to that moment:
+
+The fuel on board was decreasing at an unusual rate.
+The flight management system showed that the estimated fuel on board was decreasing.
+A full forward transfer of fuel from the trim tank was conducted prematurely and was unusually prolonged, feeding the fuel leak from the right engine and delaying the fuel advisory by approximately 15 minutes.
+
+The pilots applied the “Fuel Imbalance” procedure from memory (nonadherence to procedures) because they had frequently been trained to monitor fuel imbalance and were familiar with the procedure. In doing so, they failed to pay attention to the caution note at the top of the “Fuel Imbalance” checklist which indicated that the procedure was not to be applied in case of a suspected fuel leak. That could have made the crew consider the existence of a fuel leak.
+It was only shortly afterward that the crew noticed the fuel on board was only 11 tons, 8.5 tons below the expected quantity. Both the imbalance and fuel quantity indications remained inexplicable to the crew because:
+
+Engine indications were reviewed and no abnormalities were found.
+There had been no other in-flight events or conditions that could have led to the fuel loss.
+The cabin crew did not observe any sign of a fuel leak during a visual check.
+The fuel loss rate appeared to be abnormally high.
+Apart from the lower-than-expected quantity of fuel on board, no other signs such as electronic centralized aircraft monitor (ECAM) warnings supported the assumption.
+
+All these factors confirmed the crew’s initial mental image (confirmation bias), and therefore the crew concluded that the problem was a computer fault.
+Contributing to the crew building an incorrect mental image (situational awareness) was the high workload in that phase of flight, which included:
+
+Flying the aircraft.
+Diagnosing the fuel fault, which entailed simultaneously deciding, remembering and looking up information, requesting assistance from the cabin crew and the MCC, and scanning to acquire new information.
+Coordinating the diversion, which included planning and performing the diversion, and radio communications with ATC and the MCC.
+
+When the estimated fuel on board at destination dropped below the minimum level, the captain decided to divert to the alternate airport.
+It was only when the remaining fuel on board dropped to 7 tons that the crew reassessed the possibility of a fuel leak. Suspecting that there was a fuel leak from the right wing tank, the captain decided not to apply the relevant procedure (nonadherence to procedures) because it would have obliged him to descend to 20,000 ft. If there was really a fuel leak, he would be losing fuel anyway, and that would have reduced his margin for maneuver by giving up altitude and performance.
+The crew suffered from framing bias in its decision making, which is a bias toward choosing a less probable but more disastrous loss in preference to a sure but more limited loss.
+The pilots stated that they continued to believe the low fuel-quantity indications were caused by a computer error and continued in this belief up to and beyond the flameout of the right engine. Indeed, they were so fixed in their mental image that sensitivity to detecting errors or signals that did not conform to their image was greatly reduced (confirmation bias).
+The captain showed excellent airmanship and flying skills during the engines-out descent and landing, given that the situation was stressful, it was night, there were few instruments available and pitch control was limited.
+The first officer provided full and effective support to the captain during the engine-out glide and the successful landing.
+Prevention Strategies and Lines of Defense
+This accident clearly shows the need to follow procedures, both during maintenance and flight operations.
+Historically, fuel leaks have been considered to be rare, and the overall risk has been considered low. The seriousness of the fuel imbalance was undermined by the fact that such a situation only results in an advisory notice requiring system monitoring and only advises the pilot of a potential fuel leak through a caution note on the fuel imbalance procedure.
+The following are recommended:
+
+Follow maintenance procedures and cross-check your information with documentation and SBs. Communicate problems and follow up on the issues.
+Be aware of the symptoms that indicate a fuel leak. Training should make pilots aware of the precursors of fuel leaks and actions to take.
+In case of confusion, be critical with your mental image and be sensitive to small contradictory signals. Go back to the last thing you were sure of. Be on the lookout for signals indicating a discrepancy with your mental image (a potential fuel leak) by being disciplined in applying the published procedures for a fuel imbalance, fuel leak, fuel checks in flight and fuel-used/fuel-on-board discrepancies.
+When designing interfaces and automation, bear in mind the observability of the information — for example, rate of fuel loss. Design a system that can detect the failure and alert the crew sufficiently early and inform them of the corresponding severity of the problem.
+Take time to assess the situation before taking action; do not be overwhelmed by secondary activities.
+
+Summary and Key Points
+Factors involved in this situational example include training, discipline and nonadherence to procedures, which led the pilots to run out of fuel and divert in flight:
+
+The safety net in maintenance activities could not prevent a faulty engine replacement.
+The mismatched installation caused the fuel and hydraulic tubes to come into contact, which resulted in a fracture of the fuel tube and a fuel leak.
+The flight crew did not detect that a fuel problem existed until an advisory message was displayed and a fuel imbalance was noted on the ECAM.
+The crew did not correctly evaluate the situation before taking action.
+The crew carried out an inappropriate procedure from memory, which resulted in extra fuel loss.
+High workload and confirmation bias made the crew stick to its initial belief and ignore the fuel leak until engine flameout.
+
+Associated OGHFA Material
+The following provide additional information:
+Briefing Notes:
+
+Situational Awareness
+Decision Making
+Adherence to SOPs
+Automated Cockpit Guidelines
+
+Visuals and Checklists:
+
+Situational Awareness
+Situational Awareness Quick Reference and Reminder
+
+
+
+
+
+Categories
+
+
+OGHFA,
+              Situational Examples,
+              Human Factors
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

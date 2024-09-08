@@ -1,0 +1,354 @@
+Circling Approach - difference between ICAO PANS-OPS and US TERPS
+
+
+
+
+
+
+
+
+
+
+
+  Circling Approach - difference between ICAO PANS-OPS and US TERPS
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Comparison between ICAO PANS-OPS and US TERPS
+Aerodrome operating minima (AOM) are calculated by operators based on information supplied by national authorities in their AIPs. This information typically consists of approach and departure procedures which assure safe separation between the aircraft and known obstacles located close to the intended flight path of the procedure in question. The procedures themselves are based on obstacle clearance domains constructed using internationally accepted standards.
+Two main sets of procedures exist:
+
+ICAO Procedures, described in ICAO Doc 8168 Procedures for Air Navigation Services (PANS-OPS). PANS-OPS procedures are the international standard and are used throughout Europe and in many other countries world-wide.
+
+
+United States Standard for Terminal Instrument Procedures (TERPS), described in FAA Order No 8260.3C. US TERPS are used in USA and in certain other countries. These include Canada, Korea, Saudi Arabia and Taiwan. Some NATO military procedures are also based on US TERPS standards.
+
+Pilots should be aware that there are differences in obstacle clearance criteria between procedures designed in accordance with ICAO PANS-OPS and US TERPS. This is especially true in respect of Circling Approaches where the assumed radius of turn and minimum obstacle clearance are markedly different (see below).
+Circling Approaches
+Minimum Visibility
+Both PANS-OPS and US TERPS assume values of minimum visibility available to the pilot at the lowest obstacle clearance altitude (OCA). These values are calculated differently and therefore, may result in different AOM. Table 1 shows the lowest value of visibility assumed by each method:
+
+Table 1: Minimum Visibility at OCA
+
+
+Aircraft category
+A
+B
+C
+D
+E
+
+
+
+
+Minimum Visibility
+PANS-OPS
+
+1.9 km
+2.8 km
+3.7 km
+4.6 km
+6.5 km
+
+
+Minimum Visibility
+US TERPS
+
+1.6 km
+1.6 km
+2.4 km
+3.2 km
+3.2 km
+
+
+
+Minimum Obstacle Clearance (MOC)
+ICAO PANS-OPS uses a varying MOC which increases with aircraft category as shown in Table 2:
+
+Table 2: Minimum Obstacle Clearance (MOC) - PANS-OPS
+
+
+Aircraft category
+A
+B
+C
+D
+E
+
+
+
+
+Obstacle Clearance
+295 ft
+295 ft
+394 ft
+394 ft
+492 ft
+
+
+
+The FAA has modified the criteria for circling approach areas via TERPS 8260.3C. The circling approach area has been expanded to provide improved obstacle protection. As a result, circling minima at certain airports may increase significantly.
+TERPS 8260.3C - Circling approach areas for approach procedures use the radius distances (in NM) as depicted in Table 3. These distances, dependent on aircraft category, are also based on the circling altitude which accounts for the true airspeed increase with altitude.
+
+Table 3: TERPS 8260.3C - Criteria for circling approach areas
+
+
+Circling MDA in feet MSL
+Approach Category and Circling Radius (NM)
+
+
+CAT A
+CAT B
+CAT C
+CAT D
+CAT E
+
+
+1000 or less
+1.3
+1.7
+2.7
+3.6
+4.5
+
+
+1001 – 3000
+1.3
+1.8
+2.8
+3.7
+4.6
+
+
+3001 – 5000
+1.3
+1.8
+2.9
+3.8
+4.8
+
+
+5001 – 7000
+1.3
+1.9
+3.0
+4.0
+5.0
+
+
+7001 – 9000
+1.4
+2.0
+3.2
+4.2
+5.3
+
+
+9001 and above
+1.4
+2.1
+3.3
+4.4
+5.5
+
+
+
+From May 2, 2013, the FAA started publishing new instrument approach plates that include an enlarged segment of airspace to protect aircraft during circling approaches. The new airspace also offers pilots additional obstacle clearance while considering their MSL altitude above the MDA, which affects true airspeed. The boundaries of protected airspace for circling approaches are defined by arcs drawn from the threshold of each runway at an airport. The higher the speed of the aircraft, the larger the arc. Previous versions of the FAA’s terminal instrument procedures (Terps) used a radius of 1.7 nm from the end of the runway for a Category C aircraft such as a Hawker 800. Under the new criteria that radius will increase by 65 percent, to 2.7 nm. Chart providers U.S. Terminal Procedures and Jeppesen both plan to use new chart symbology to identify the updated approaches. The government plates will show an inverse “C” in a black box in the approach minimums area of the plate, while Jeppesen will use a “C” inside a black diamond. Charts without the new designation will continue to be guided by the old, smaller-radii criteria.
+
+Jeppessen charts where these criteria have been applied can be identified by the symbol <C> in the CIRCLE-TO-LAND minima box
+Radius of Circling Domain
+Both systems use a radius of the circling domain, Obstacle Evaluation Area for US TERPS and Visual Manoeuvring Area for PANS-OPS, that increases with aircraft category and is based on TAS and bank angle. Both systems assume a 25 kt wind factor, always added as a constant, without an assumption for the direction of the wind.
+Aircraft Category is based on threshold IAS (1.3 x Stall IAS) and is shown on Table 4:
+
+Table 4: Aircraft Category - PANS-OPS and US TERPS
+
+
+Aircraft Category
+A
+B
+C
+D
+E
+
+
+
+
+Threshold IAS
+less than 91 kts
+91 kts or more but less than 121 kts
+121 kts or more but less than 141 kts
+141 kts or more but less than 165 kts
+166 kts or more (but less than 211 kts)*
+
+
+
+For PANS OPS only*
+
+For PANS-OPS, the TAS is based on aircraft altitude and the visual manoeuvring IAS (Circling IAS). The latter is shown on Table 5:
+
+Table 5: Visual Manoeuvring IAS used by PANS-OPS
+
+
+Aircraft Category
+A
+B
+C
+D
+E
+
+
+
+
+Circling IAS
+100 kts
+135 kts
+180 kts
+205 kts
+240 kts
+
+
+
+
+For US TERPS, TAS calculation is based on aircraft altitude and threshold IAS appropriate to category (shown on Table 4).
+
+PANS-OPS assumes a bank angle of 20° for aircraft of all categories. US TERPS assumes a bank angle which varies with aircraft category, but is never less than 20° - see Table 6:
+
+Table 6: Bank Angle used by US TERPS
+
+
+Aircraft Category
+A
+B
+C
+D
+E
+
+
+
+
+Bank Angle (degrees)
+25
+25
+20
+20
+22
+
+
+
+
+Because the IAS used for TAS calculation is greater and the assumed bank angle is lower, the radius of the circling area used in PANS-OPS is larger than that used in US TERPS. This means that an obstacle within the assumed circling area calculated using PANS-OPS criteria might fall outside the obstacle area calculated using US TERPS.
+This is believed to have been a major factor in the following fatal accident, which resulted in considerable loss of life: B762, vicinity Busan Korea, 2002
+Additionally, pilots not aware of the increased bank angle expected in US TERPS calculations might, in certain circumstances, stray outside the circling area due to the increased circling radius.
+In summary, circling procedures based on US TERPS calculations afford considerably lower safety margins than those based on ICAO PANS-OPS. It is therefore essential that pilots understand these differences and are aware of the basis of calculations for all airfields at which they intend to operate, including alternates. The basis for calculation of minima is usually printed on the approach plate (see Further Reading: Jeppesen Chart Basics - a presentation).
+National authorities or operators may require adjustments to be applied to operating minima to compensate for these differences.
+Some other less significant differences exist between ICAO PANS-OPS and US TERPS. For details refer to the relevant documents listed below.
+Related Articles
+
+Aerodrome Operating Minima (AOM)
+Approach and Landing Risks
+Approach and Landing Accidents (ALA)
+Circling Approach
+
+Further Reading
+
+Air Pilots - Safety Briefing Note 09: "Flying Circling Approaches Safely"
+Circling Approach Discussion Paper, FSF European Advisory Committee, 24 January 2011
+ICAO Doc 8168: Procedures for Air Navigation Services - Aircraft Operations (PANS-OPS), Volume II: Construction of Visual and Instrument Flight Procedures
+US FAA Order 8260.3D United States Standard for Terminal Instrument Procedures (TERPS), February 2018
+TERPS Review - Circle to Land Tactics
+TERPS Review - Circling and the Visual Segment
+Jeppesen Chart Basics - a presentation
+Circling Traps - a presentation
+
+Note: Some of these references refer to pre-Change 21 versions of US TERPS.
+
+
+
+
+Categories
+
+
+General,
+              Controlled Flight Into Terrain
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

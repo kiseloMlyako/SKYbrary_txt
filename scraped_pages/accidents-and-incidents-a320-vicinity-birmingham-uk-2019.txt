@@ -1,0 +1,315 @@
+A320, vicinity Birmingham UK, 2019
+
+
+
+
+
+
+
+
+
+
+
+  A320, vicinity Birmingham UK, 2019
+
+
+
+
+
+
+
+
+
+Summary
+
+On 26 August 2019, an Airbus A320 attempted two autopilot-engaged non-precision approaches at Birmingham in good weather before a third one was successful. Both were commenced late and continued when unstable prior to eventual go-arounds, for one of which the aircraft was mis-configured causing an ‘Alpha Floor’ protection activation. A third non-precision approach was then completed without further event. The Investigation noted an almost identical event involving the same operator four months later, observing that all three discontinued approaches appeared to have originated in confusion arising from a slight difference between the procedures of the aircraft operator and AIP plates.
+
+
+
+
+Event Details
+
+When
+
+26/08/2019
+
+
+
+Event Type
+
+
+AGC,
+              HF,
+              LOC
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS A-320
+
+
+
+
+
+
+
+
+
+Operator
+
+Vueling
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Barcelona/El Prat Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Birmingham International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Missed Approach
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+EGBB
+
+
+
+
+General
+
+Tag(s)
+
+
+              Approach not stabilised,
+              Non Precision Approach,
+              Deficient Crew Knowledge-handling
+          
+
+
+
+
+AGC
+
+Tag(s)
+
+
+              Incorrect Readback missed
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Ineffective Monitoring,
+              Manual Handling,
+              Procedural non compliance
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Incorrect Aircraft Configuration,
+              Aircraft Flight Path Control Error
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 26 August 2019, an Airbus A320 (EC-KLT) being operated by Vueling on a scheduled international passenger flight from Barcelona to Birmingham made two consecutive non precision approaches to runway 33 in day VMC, neither of which were flown in accordance with the corresponding procedure. Both were discontinued and followed by go-arounds, the first of which was flown in such a way that the automatic ‘Alpha Floor’ energy protection mode was activated. A third such approach was subsequently completed normally.
+Investigation
+A Field Investigation was carried out by the UK AAIB with access to relevant ATC and aircraft flight data available. It was noted that the 40 year-old Captain had a total of 9,700 hours flying experience which included 8,080 hours on type. Corresponding details in respect of the First Officer were not recorded.
+What Happened
+It was established that, with the First Officer as PF, the flight was being provided with radar vectors towards a runway 33 approach in good weather conditions - light winds and no cloud below 5,000 feet aal. When the aircraft was approximately 11 nm south of the airport at 4000 feet QNH, it was cleared for the RNAV approach and to descend to the 2000 feet QNH, the altitude of the waypoint from which final descent on the procedure begins on the UK AIP version of the procedure (see the first illustration below). Although this clearance was read back correctly, half a minute later still at 4000 feet, descent clearance was again requested and the clearance previously given was repeated. Descent began at 10.5 nm from the runway but at 9.4 nm the aircraft was still at 3,800 feet, 1,000 ft above the correct procedure profile. The rate of descent was increased but by 3 nm, when ATC issued a landing clearance, the aircraft was still 660 feet above the procedure profile and at an altitude corresponding to a distance to run on the prescribed vertical profile of 5.1 nm.
+The approach was continued but at about 0.3 nm from the runway 33 threshold and at approximately 140 feet agl, a go around was commenced and ATC advised. Once the aircraft was established in the climb, the Captain took over as PF for the remainder of the flight. He advised ATC that they had “experienced a navigation problem” on their first approach and would like to make a second runway 33 approach using the LOC/DME procedure and radar vectors were provided accordingly. When on base leg, the flight was cleared to descend to 2,000 feet QNH but an incorrect readback of 3,000 feet was not corrected by ATC.
+The aircraft then descended to 3,000 feet whilst positioning to establish on the localiser, during which it was given further clearance to descend with the approach. It began descent from 3,000 feet when it was about 7 nm from the runway and crossed the final approach fix (FAF), located 5.1 nm from the runway, just 200 feet above the correct profile altitude. However, a couple of miles further on having almost ceased further descent, the crew advised that they were too high and requested a left turn which was given onto a radar heading of 240° climbing to 4,000 feet.
+This ‘go around’ climb was commenced at 1900 feet QNH with the cleared altitude set and the ‘OP CLB’ flight mode selected but without setting TOGA thrust or retracting the gear and landing flap. The resulting pitch attitude was only about 10° nose-up and as the speed dropped off, and descent rather than climb was occurring, V/S mode was set but the Alpha Protection floor was then activated. The resultant TOGA thrust led initially to an increase in speed but when the Captain then reduced thrust to prevent an exceedance of the full flap limiting speed, pitch reducing again observing the absence of a climb, ATC reminded the crew to climb. This prompted action at approximately 1,300 feet QNH (about 940 ft agl) and a 900 fpm rate of climb was selected and 4000 feet was eventually reached. ATC then provided radar vectors for another LOC/DME approach which was flown normally to a landing.
+The Investigation found that the proprietary approach plates provided by the aircraft operator for both procedures involved showed a slightly different initial vertical profile for both runway 33 non-precision approaches to the corresponding UK AIP plates which should be the basis for all derived presentations. The AIP RNAV plate, which ATC would refer to and expect to be consistent with the plates used by pilots, shows a descent to 2000 feet beginning at 9.4 nm then level flight at 2000 feet until the final descent begins at 5.1 nm (the FAF) whereas the RNAV plate used by the pilots shows level flight at 2,800 feet from 9.4 nm followed by a continuous descent beginning at 7.6 nm.
+
+The vertical profile of the runway 33 RNAV approach at Birmingham Airport taken from the UK AIP. [Reproduced from the Official Report]
+
+The Investigation found that another Vueling Airbus A320 had experienced similar difficulties during two non-precision (LOC/DME) approaches to the same runway at Birmingham on 20 December 2019, this time in IMC. The first descent was commenced slightly late and an unstable approach developed with a go around commenced at 1 nm from the runway threshold. A second approach again involved a slightly delayed start to the descent and an attempt to establish on the correct vertical profile followed using a selected rate of descent of 2,900 fpm which was maintained until 6.2 nm from the runway threshold. The track and flight path angle modes (TRK-FPA), the normal mode combination for any non-precision approach commenced from the correct top of descent position, were then selected but a descent below the required vertical profile followed. This was initially not noticed but a climb towards the correct profile did eventually follow although the aircraft then remained above the profile but had continued to a landing anyway.
+It was observed that whilst the initial two approaches on 26 August and the first approach on 20 December were all discontinued eventually, in each case this had only happened some time after the approach had become unstabilised, which had “reduced safety margins as highlighted in previous safety studies”. It was considered that the change from an RNAV approach to a LOC/DME one for the second approach on 26 August would have “placed additional pressure on the pilots in setting up the aircraft and re-briefing (and that) positioning the aircraft further from the airport before commencing the subsequent approach would have allowed the crew more time to prepare”.
+The Investigation was provided with the findings of the aircraft operator’s internal investigation into both events and advised that both of the flight crews involved had been “appropriately experienced”. These findings highlighted the approach plate initial vertical profile difference but also stated that its crews were not accustomed to descending using the TRK-FPA mode combination which appeared to indicate (although it was not acknowledged) corresponding unfamiliarity with AP-flown non-precision approaches. The operator additionally commented that “the normal procedure for establishing the aircraft on the correct descent path when too high relied on the presence of vertical guidance such as a glideslope (but) in this case, where there was no glideslope, this would have hampered the successful implementation of the procedure”.
+In respect of the potential consequence of different procedure charts for the same approaches, it was noted that since the State AIP chart is the source document, ATC can be expected to rely on it and if operator charts differ, it is desirable for operators and ATC to ensure that any potential consequences are understood.
+The formally documented Conclusion of the Investigation was as follows:
+The aircraft did not maintain the correct vertical profile because the pilots were not sure when to commence the final descent. The depiction of the descent profile on charts provided by the operator may have contributed to this uncertainty.
+In the first event it is likely that the increased workload of an unplanned missed approach contributed to the pilots not configuring the aircraft correctly for the go-around, resulting in the aircraft entering the Alpha Floor protection mode. In the second event, having also commenced the final descent late, the pilots did not maintain the correct profile thereafter because the type of approach required them to manage the vertical flight path manually, and they were not familiar with the flight mode they were using.
+Safety Action being recommended in response to the findings of the Investigation by the aircraft operator’s safety department at the time the AAIB Investigation was completed was noted as including the following:
+
+the inclusion of high energy approaches and go-arounds in future company simulator training
+a review of approach intercept procedures to ensure they make adequate provision for approaches without a glideslope
+the introduction of procedures to assist pilots in estimating distance to run during an approach
+provision of procedures which deal more effectively with a loss of situational awareness.
+
+It was also noted that the aircraft operator and the Birmingham ANSP are understood to be “working to gain a better understanding of each other’s approach requirements”.
+The Final Report of the Investigation was published on 20 August 2020. No Safety Recommendations were made.
+Related Articles
+
+Non-Precision Approach
+Stabilised Approach
+Missed Approach
+Energy Management during Approach
+Situational Awareness

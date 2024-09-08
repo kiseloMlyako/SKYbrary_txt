@@ -1,0 +1,160 @@
+Runway Overrun Prevention System (ROPS)
+
+
+
+
+
+
+
+
+
+
+
+  Runway Overrun Prevention System (ROPS)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Runway Excursion 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+The Runway Overrun Prevention System (ROPS) is made up of two sub-functions: runway overrun warning (ROW) and runway overrun protection (ROP). The ROW function generates alerts which incite the flight crew to perform a Go-Around whereas the ROP function generates alerts which incite the flight crew to apply available deceleration means.
+Description
+ROPS is an Airbus system designed to continuously calculate whether the aircraft can safely stop in the runway length remaining ahead of the aircraft. If at any point the system detects there is a risk of a runway overrun, flight deck alerts are generated to help the crew in their decision making. ROPS is hosted in the aircraft avionics. The system has access to the parameters which affect an aircraft’s stop distance, such as:
+
+Aircraft position
+Aircraft & engine type
+Aircraft weight
+Ground speed
+Outside air temperature
+Slat/Flap configuration
+True and calibrated airspeed
+Wind
+CG
+
+ROPS is also connected to a runway database. The source of the runway database may be the Terrain Avoidance and Warning System (TAWS) or the Onboard Airport Navigation System (OANS). ROPS automatically detects the current landing runway using the runway database.
+Runway Overrun Warning (ROW)
+ROW becomes active at 500ft and remains active throughout short-final, the flare and touchdown until transition to ROP. ROW stopping distances are based on the same principles as the Airbus In-Flight Landing Distances.
+On Airbus A380, A330 and AIRBUS A-320 family, ROW continuously calculates two stopping distances, the stopping distance on a DRY runway and the stopping distance on a WET runway. If the stopping distance on a WET runway becomes longer than the available runway length, the system triggers an amber message on the PFD “IF WET: RWY TOO SHORT”. If the stopping distance on a DRY runway becomes longer than the available runway length, the system triggers a red message on the PFD “RWY TOO SHORT” and a below 200ft an aural message “RUNWAY TOO SHORT”.
+
+Figure 1 - RWY TOO SHORT message on the PFD
+On the Airbus A350, the flight crew has a runway state selector knob on the instrument panel. Consequently, ROW predicted stop distance is based on the runway state selected by the crew and thus ROW alerts are directly “RWY TOO SHORT” corresponding to the flight crew selection. At entry-into-service of the A350, the runway states DRY and WET are available for pilot selection. Extension to contaminated runway states is planned.
+
+Figure 2 - Runway State Selection Knob available on the Airbus A350
+ROP
+ROP becomes active on-ground after transition from ROW and remains active until taxiing speed. ROP uses the aircraft’s current deceleration and aircraft characteristics to determine where the aircraft can safely stop on the runway. If ROP detects a risk of runway overrun, aural and visual alerts are triggered. On the PFD the red visual alert “MAX BRAKING, MAX REVERSE” is displayed. Aural alerts are prioritized: “BRAKE, MAX BRAKING, MAX BRAKING” aural alert is triggered until pilot application of pedal braking, then aural alert “SET MAX REVERSE” if maximum reverse thrust has not been selected. If overrun condition still exists at 70kt, the aural alert “KEEP MAX REVERSE” will trigger to remind the flight crew to keep maximum reverse thrust.
+ROP is reversible and alerts are cancelled when overrun risk is no longer present. On the Airbus A380 and A350, if an Autobrake mode is engaged, ROP will automatically apply maximum braking in case of runway overrun risk. ROPS and Navigation Display
+On the Airbus A380 and A350, ROPS is integrated with the aircraft flight management and navigation systems and provides pilots with a real-time, constantly updated picture on the navigation display of where the aircraft will stop on the runway in WET or DRY conditions (or pilot selected runway condition for A350).
+
+Figure 3 - Flight display showing magenta lines on runway where the aircraft will stop in WET and DRY conditions
+ROPS and Brake-to-Vacate
+On the Airbus A350 and A380, the ROPS system is directly integrated with Airbus’ Brake-to-Vacate (BTV) which is an autobrake mode that optimizes the deceleration to achieve the runway exit selected by the pilot.
+ROPS on Airbus Aircraft
+ROPS was certified for:
+
+Airbus A380 in 2009
+Airbus A320 Family in 2013
+Airbus A350 in 2014
+Airbus A330 in 2015
+
+Related Articles
+
+Runway Excursion
+Runway End Safety Area
+Global Action Plan for the Prevention of Runway Excursions (GAPPRE)
+
+Further Reading
+
+Runway Overrun Prevention System - Airbus presentation at ECAST meeting on 6 March 2013.
+Runway Overrun Prevention System (ROPS), F. Villaume & T. Lagaillarde, Airbus FAST Magazine No. 55, January 2015.
+Directory of ROPS runways: Honeywell (spreadsheet table).
+
+
+
+
+
+Categories
+
+
+Runway Excursion,
+              Overrun on Landing,
+              Safety Nets
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

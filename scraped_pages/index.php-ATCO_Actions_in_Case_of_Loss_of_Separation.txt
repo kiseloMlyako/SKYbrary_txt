@@ -1,0 +1,174 @@
+ATCO Actions in Case of Loss of Separation
+
+
+
+
+
+
+
+
+
+
+
+  ATCO Actions in Case of Loss of Separation
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Separation 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Responsibility
+In the process of ATC provision the controller is responsible for ensuring that separation minima are maintained. A loss of separation (LOS) event requires an adequate action to be taken by the controller in order to resume the established separation and to prevent the situation developing into an accident. When separation has already been, or is in the process of being, lost and the controller perceives a risk of collision, there is no longer an issue of providing standard separation; the essential task is preventing a collision.
+Scenarios
+There are many hazards associated with incorrect or inadequate avoiding instructions. In the case of loss of separation and Short Term Conflict Alert (STCA) alert, controller actions, delay or lack of action may lead to certain operational hazards such as:
+
+Lack of controller instruction to solve a short-term conflict (lack or absence of action) - The controller does not issue any avoiding instruction, although there is a real short-term conflict with loss of separation.
+Late controller instruction to solve a short-term conflict - no TCAS resolution advisory (RA) - The controller issues an avoiding instruction with such a delay that he/she cannot prevent loss of separation, but before a potential TCAS RA is issued.
+Avoiding instruction by controller received prior to a TCAS RA and incompatible with the TCAS RA - The controller, unaware of the TCAS RA that the crew is going to receive, issues an avoiding instruction in the opposite direction to the subsequent TCAS RA. The time delay between the avoiding instruction and the RA is sufficient for the pilot to start an avoiding manoeuvre.
+Avoiding instruction by controller received simultaneously to a TCAS RA and incompatible with the TCAS RA - The controller, unaware of the imminent TCAS RA, issues an avoiding instruction which is received by the crew at about the same time as the TCAS RA but is in the opposite direction.
+Insufficient controller instruction to resolve a short-term conflict - The controller issues an avoiding instruction to resolve a short-term conflict, but the instruction does not allow the aircraft to maintain or restore separation.
+Incorrect controller instruction to resolve a short-term conflict - The controller issues a corrective instruction to resolve a short-term conflict, but this leads to a reduction of the safety margins instead of an increase.
+
+Consequences
+Consequences of the various possible outcomes of the hazards may be:
+a) Minor reduction of separation under control by controller or pilot;
+b) Minor reduction of separation with no control by controller nor pilot;
+c) Major reduction of separation under control by ATC or pilot;
+d) Major reduction in separation with no control by controller nor pilot;
+e) Accident.
+According to EUROCONTROL Safety and Regulatory Requirement – Risk assessment and Mitigation in ATM (ESARR 4), transposed into Community Law by Commission Regulation (EC) No 2096/2005 (replaced by Commission Implementing Regulation (EU) No 1035/2011 of 17 October 2011) minor reduction in separation is less than half the separation minima.
+Defences
+It cannot be over-emphasised that each situation must be judged individually. It is not possible to give hard and fast collision avoidance guidance which is universally applicable. A controller is in a very difficult situation when faced with an immediate collision risk and must rely on both general and emergency orientated training when faced with such a scenario. As with any unusual or emergency situation, controllers should exercise their best judgment when dealing with the apparent consequences of loss of separation.
+The following list of actions is very general and is universaly accepted, but it is by no means exhaustive:
+
+Assess the situation
+Provide adequate reaction
+Speak clearly and use standard phraseology
+Provide traffic information as appropriate
+If an RA manoeuvre is reported and/or observed – do not attempt to modify the aircraft flight path until the pilot reports “Clear of Conflict”
+Maintain constant situational awareness of other air traffic – when the problematic situtaion develops, it is a natural human tendency to narrow the attention and focus on the problem
+Prioritise actions connected with other traffic as necessary
+
+Communication
+The use of standard phraseology and good transmission technique is essential when passing instructions to pilots particularly when timeliness and clarity are important as is the case when passing avoiding action instructions. Any misunderstanding may result in the pilot asking the controller to repeat the instruction, further reducing the time available to execute the avoiding action.
+ACAS Procedures
+The following procedures referring to aircraft equipped with airborne collision avoidance systems (ACAS) are given in ICAO Doc 4444:
+
+When a pilot reports an ACAS RA, the controller shall not attempt to modify the aircraft flight path until the pilot reports “Clear of Conflict”.
+Once an aircraft departs from its ATC clearance or instruction in compliance with an RA, or a pilot reports an RA, the controller ceases to be responsible for providing separation between that aircraft and any other aircraft affected as a direct consequence of the manoeuvre induced by the RA. The controller shall resume responsibility for providing separation for all the affected aircraft when:
+
+the controller acknowledges a report from the flight crew that the aircraft has resumed the current clearance; or
+the controller acknowledges a report from the flight crew that the aircraft is resuming the current clearance and issues an alternative clearance which is acknowledged by the flight crew.
+
+
+
+Related Articles
+
+Loss of Separation
+ACAS: Guidance for Controllers
+Loss of Separation - ATCO-induced Situations
+Loss of Separation - Pilot-induced Situations
+RA Downlink
+Accident and Serious Incident Reports: LOS
+
+Further Reading
+ICAO
+
+ICAO Doc 4444 PANS-ATM
+
+Note* ICAO Doc 4444 is included in ICAO Search
+EUROCONTROL
+
+Performance and safety Aspects of Short-term Conflict Alert – full Study (PASS Project)
+
+CAA UK
+
+CAP 717 Radar Control - Collision Avoidance Concepts
+
+
+
+
+
+Categories
+
+
+Loss of Separation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

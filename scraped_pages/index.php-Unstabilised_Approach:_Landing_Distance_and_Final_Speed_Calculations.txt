@@ -1,0 +1,123 @@
+Unstabilised Approach: Landing Distance and Final Speed Calculations
+
+
+
+
+
+
+
+
+
+
+
+  Unstabilised Approach: Landing Distance and Final Speed Calculations
+
+
+
+
+
+
+
+
+
+Toolkit Navigation
+
+
+Stabilised Approach Awareness Toolkit for ATC
+
+
+
+
+
+
+Contribution of Unstabilised Approaches to Aircraft Accidents and Incidents
+Stabilised Approach
+Flight Crew Workload in Preparation for the Execution of an Approach
+Unstabilised Approach: Delayed Descent Instructions
+Unstabilised Approach: Inappropriate ATC Speed Instructions
+Unstabilised Approach: Lack of or Wrong Information About Distance to Touchdown
+Unstabilised Approach: Landing Distance and Final Speed Calculations
+Unstabilised Approach: Late Runway or Approach Type Change
+Unstabilised Approach: Vectoring into Short Final Distances
+Unstabilised Approach: Vectoring Resulting in Intercepting the Glidepath from Above
+Unstabilised Approach: Vectoring to Runways with Significant Tailwind Component
+
+
+
+
+
+
+
+
+
+
+
+
+
+Landing Distance
+Various factors affect the actual landing distance. Many of these factors may arise because of an unstabilised approach.
+These factors are:
+
+deviation from the required vertical profile
+deviation from calculated final approach speed
+variable wind velocity on approach and during the landing flare and landing roll
+frozen deposits or excessive water depth on the runway
+deviation from threshold crossing height (TCH)
+
+According to Federal Aviation Administration (FAA) (Advisory Circular No 91-79) these elements add a significant amount of distance required to complete a safe landing roll:
+ 
+
+Effects of the excess airspeed on the landing distance
+Using these assumptions, one may calculate that an aircraft originally requiring landing distance of 4000 feet (1210 meters) could, by flying an approach 10 knots too fast onto a wet runway and crossing the threshold 20 feet too high, need 4900 feet (about 1500 meters). That is 25 % more. Add a late touchdown too and required landing distance may almost double.
+If the original calculation of the landing distance assumes landing onto a dry runway with maximum braking action and the correct height over the threshold (50 ft agl) the following circumstances may require the increase of landing distance:
+Fast + 20 %
+Tailwind + 20 %
+Long flare + 30 %
+High approach + 30 %
+Wet runway + 40 %
+Final Speed Calculations
+Air traffic controllers observe that final speeds of planes in their sectors vary depending on weather and wind conditions. Having the knowledge of how such speeds are calculated by crews can significantly help in understanding the role of speed in stabilised and safe approach.
+FSF ALAR Toolkit reminds that for a safe landing a balanced distribution between computed final approach speed and resulting landing distance is required. Such statement becomes even more significant if we recall that fast approaches or touchdowns were factor in 30 % of 329 runway excursion accidents worldwide from 1995 to 2008.
+The final approach speed is the airspeed to be maintained down to 50 feet (15 meters) over the runway threshold.
+The final approach speed computation is the result of the decision made by the flight crew to ensure the safest approach and landing for a given:
+
+gross weight,
+wind
+flap configuration
+aircraft system status (corrections or abnormal configurations)
+icing conditions
+use of automation (autothrottle or autoland)
+
+The final approach speed is based on the reference landing speed – Reference Speed (Vref) and it is defined as 1.3 times the stall speed with full landing flaps or with selected landing flaps. The final approach speed is defined as Vref plus any required corrections.
+The airspeed corrections are usually not cumulative and only the highest airspeed correction should be added to Vref.
+Corrections are as follow:
+
+gross weight – the aircraft operating manual usually provides Vref values as a function of gross weight in a table or other graphical form
+wind conditions – here different methods are used:
+(a) half of the steady head wind component plus the entire gust value (limited to a maximum value – usually 20 knots) is added
+(b) one-third of the ATC reported average wind velocity or the gust velocity (whichever is higher), limited to a maximum value (usually 15 knots)
+(c) or a graphical assessment based on the ATC reported wind velocity and angle, limited to maximum value (usually 15 knots)
+
+
+Usually no wind corrections are applied for tailwind.
+Flap configuration – when there are several flap configuration certified for landing, Vref is either:
+
+Vref for full flaps with a correction for the selected flaps setting; or
+Vref for selected flaps setting
+
+Wind shear – usually the airspeed correction is up to 15-20 knots based on the expected wind shear value.
+Conditions like use of autothrottle, autoland (CAT II/III), icing conditions lead to a typical correction of 5 knots.
+ 
+Further Reading
+
+Stabilised Approach
+DGAC (France) Publications on Non-Stabilised Approaches
+CFIT Precursors and Defences
+Continuous Descent Final Approach (CDFA)
+Runway Overrun After Unstabilised Approach (OGHFA SE)
+
+CANSO
+
+Runway Excursions - An ATC Perspective on Unstable Approaches
+Avoiding Unstable Approaches - Important Tips for ATCOs
+Unstable Approaches – ATC Considerations, January 2011

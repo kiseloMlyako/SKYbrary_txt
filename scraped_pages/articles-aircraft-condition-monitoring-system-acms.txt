@@ -1,0 +1,144 @@
+Aircraft Condition Monitoring System (ACMS)
+
+
+
+
+
+
+
+
+
+
+
+  Aircraft Condition Monitoring System (ACMS)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Airworthiness 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+An Aircraft Condition Monitoring System (ACMS) is a predictive maintenance tool consisting of a high-capacity flight data acquisition unit and the associated sensors that sample, monitor, and record information and flight parameters from aircraft systems and components.
+Condition Monitoring
+Condition monitoring (CM) is a critical component of predictive maintenance. It is the process by which one or more parameters of a machine are either periodically measured, or continuously monitored, to identify significant changes that usually are indicative of an impending failure. This allows the operator to plan maintenance actions focused on avoiding failures and their consequences. Continuous condition monitoring is most often applied to rotating machinery such as fans, compressors, pumps, and combustion engines.
+Sensor Types
+Depending upon the piece of machinery or type of component concerned, there are a number of parameters that can be measured or monitored. There are also a number of different types of sensors with which these measurements can be accomplished. Sensor types include, but are not limited to:
+
+Vibration monitors - these are particularly relevant to rotating machinery such as engines, fans, compressors, and generators. All rotating equipment exhibits a certain degree of vibration. As the equipment degrades or falls out of alignment, the amount of vibration increases. Vibration sensors can be used to detect when this becomes excessive. An increase in vibration can be indicative of an "out of balance" condition or the progressive failure of a shaft bearing or other component.
+Temperature monitors - in the context of aircraft systems, there are numerous potential components subject to temperature monitoring. These include items such as engine oil temperature, bleed air temperature, both at the engine extraction point and at the user components such as the anti-ice system or the Pressurisation and Air Conditioning System (PACS), and engine exhaust temperature, most typically measured as Exhaust Gas Temperature (EGT), Turbine Inlet Temperature (TIT) or Interstage Turbine Temperature (ITT). Abnormal temperatures in any of these components can indicate a leak, blockage, or a component failure, as appropriate to the monitored system.
+Pressure monitors - measurable parameters include engine oil pressure, hydraulic system pressure, bleed air duct pressure and aircraft cabin differential pressure. A change in a pressurisation parameter can indicate a progressive (or catastrophic) failure of a pump, duct, or valve.
+Electrical current measurement and analysis - many components of an aircraft electrical system can be monitored. Generator output, system (or individual bus) load, and battery health are all measurable parameters.
+Speed ​​Measurement - in the general context of condition monitoring, speed measurement most often refers to rotational speed as in the case of an engine, fan, motor, or generator. However, from an aviation perspective, there is also value in measuring other speed-related parameters to monitor events such as aerodynamic stall, activation of Stall Warning Systems, unreliable airspeed indication events, airspeed exceedances, or the extension/retraction speed of various ancillary components.
+
+Monitoring Methodology
+CM is a maintenance strategy that monitors the actual condition of an asset to decide what maintenance needs to be done. CM dictates that maintenance should only be performed when certain indicators show signs of decreasing performance or upcoming failure. In the aircraft context, there are also time-limited components and an established periodic maintenance cycle. An ACMS provides an additional level of safety by providing advance warning of a potential failure. An ACMS is typically installed at the time of manufacture, as retrofitting the necessary sensors, wiring and data collection equipment is a difficult, time-consuming, and expensive process.
+With the ACMS units in place and all monitored components calibrated and performing to manufacturer specifications, baseline values for vibration, temperature, pressure, rotational speed, and other measured parameters, are established. Once in service, condition data is gathered either at specified intervals, or continuously, depending upon the parameter being measured and the type of sensor associated. In the specified interval case, an exceedance of a pre-defined limitation will typically result in an additional data point being recorded. All of this data is used to monitor parameter "creep" (movement away from baseline values indicating wear or degradation) and tolerance exceedances (values that are beyond predefined thresholds), both which can indicate an increase in failure potential and the requirement for maintenance intervention.
+Data Download and Analysis
+One or more quick access recorders, incorporated into the ACMS, facilitate the download of the raw data collected by the various system sensors. Data download or "dumping" can be done between flights as a maintenance task, and requires little time or specialised equipment. Some operators delegate this task to the flight crew when the aircraft is away from a maintenance base, and transmission of the data file is sometimes accomplished using a mobile phone. Automatic data transfer, using the ACARS (Aircraft Communications, Addressing and Reporting System) or similar systems, is a common practice. In this situation, the data will be transmitted regularly, with transmission timing based on a specified set of parameters: for example, at a specified time interval whilst in cruise or at engine shutdown at the end of the sector. Aircraft utilising automatic data transfer will normally also generate and transmit an immediate report in the event of an exceedance or failure.
+Raw data is most often subject to computer-based analysis to identify trends and anomalies prior to human review. These actions can be accomplished by the operator's maintenance organisation or they can be contracted to a third-party service provider. Trends indicative of a pending failure will result in allocation of maintenance resources, parts procurement, and adjustment of the aircraft utilisation schedule followed by the appropriate overhaul or repair, either by the operator or at a third-party maintenance facility.
+Advantages
+There are a number of advantages to an ACMS, the most obvious of which is enhanced safety. Detecting and addressing a pending failure can prevent the potential damage and the associated safety risk of a catastrophic failure. Other advantages include:
+
+Improving dispatch reliability
+Reducing the potential for collateral damage to the aircraft caused by a catastrophic failure
+Minimising unscheduled downtime due to catastrophic failure
+Minimising operational impact by being able to plan the maintenance activities
+Minimising maintenance overtime costs by being able to schedule the repair/component replacement
+Reducing the requirement to inventory emergency spare parts
+
+Related Articles
+
+Aircraft Maintenance
+Aircraft Communications, Addressing and Reporting System
+Health and Usage Monitoring System (HUMS)
+Quick Access Recorder (QAR)
+Digital ACMS Recorder (DAR)
+
+
+
+
+
+Categories
+
+
+Airworthiness,
+              General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

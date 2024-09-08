@@ -1,0 +1,225 @@
+Conflicts with Adjacent Sectors – Typical Causes and Contributors
+
+
+
+
+
+
+
+
+
+
+
+  Conflicts with Adjacent Sectors – Typical Causes and Contributors
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Separation 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+This article elaborates on the most common scenarios for the occurrences of conflicts with adjacent sectors. It also describes the contributing factors that usually play some role in the buildup of such events.
+Typical scenarios
+Loss of separation with adjacent sectors usually means that standard procedures have not been followed or something has gone wrong with the coordination of a non-standard solution. The most common scenarios are:
+
+Correct coordination but incorrect action – a common solution of the conflict was agreed by the two controllers but the transferring controller could not ensure that the aircraft would comply with it. Examples:
+
+Clearance issued too late – e.g. an aircraft was supposed to descend but the clearance was issued at a moment when it was no longer possible for the aircraft to reach the coordinated level at the boundary, creating a conflict with another aircraft in the next sector;
+Inadequate or unexpected by ATC aircraft performance – e.g. an aircraft could not reach its assigned level before the boundary due to performance limitations and the transferring controller did not coordinate this with the next sector. As a result, the aircraft was still climbing at a low rate and was in a conflict with another aircraft shortly after the boundary.
+
+
+Incomplete or misunderstood coordination – a misunderstanding between the controllers occurred resulting in each controller having a different plan for the situation. Examples:
+
+Ambiguity – e.g. referring to “the traffic at FL 380” while there are two or more aircraft that fit the description.
+Expectation bias – e.g. the transferring controller expects that the conflict should be resolved by manipulating aircraft A while the accepting controller requests that this should be aircraft B.
+
+
+Incorrect plan – all coordination procedures were followed and the phraseology used was clear and unambiguous but the plan itself had a flaw. Examples:
+
+As a result of the coordination, the aircraft crossed a third party airspace and none of the controllers bothered to advise the third party.
+The coordination solved the conflict but created another one that was even worse.
+
+
+Lack of coordination – a coordination should have been made but the transferring controller either forgot or did not identify the need to do it. Examples:
+
+The controller did not identify the need of a coordination – e.g. a top sector was just opened and an aircraft from the lower sector requested to climb. The controller (who was in control of the whole airspace just a while ago) cleared the aircraft into the upper sector without coordination.
+The controller knew they should initiate a coordination at an earlier stage but forgot about that e.g. because they were too busy.
+The controller knew they were supposed to make a coordination but decided not to as the situation appeared to be safe (while it was not) – e.g. the controller scanned the other sector's traffic and did not identify any threats. A conflicting aircraft was not spotted due to its colour representation (e.g. dark grey label on a black screen).
+The controllers did not have time to perform a coordination due to high workload. As a result, both sectors initiated uncoordinated conflict solving actions that resulted in the creation of a new conflict.
+
+
+Failure to correctly apply Standing Agreements or procedures – a standard procedure laid down in a manual or an agreement was not followed. Examples:
+
+The transferring controller did not notice the A380 catching up with the B733 and transferred them both at the same level. Shortly afterwards the separation minimum was breached and the accepting controller was unable to react due to the poor radio coverage in the area.
+The two controllers vectored the aircraft on their side too close to the boundary. While each aircraft remained within the respective controller's airspace, the separation minimum was breached.
+A controller was supposed to transfer two aircraft at different levels (as prescribed in the letter of agreement because the transfer-of-control points were too close to each other) but for some reason did not.
+A non-RVSM (civil) aircraft was transferred between FL 290 and FL 410. Shortly afterwards the 2000 ft separation minimum was breached.
+
+
+
+Contributing factors
+A number of factors (that can otherwise be considered safe or irrelevant) can contribute to an event if combined in a certain way. The most common of these are:
+
+Transfer too early – this leads to a controller providing ATS in another controller's airspace for a relatively long period of time while not having the tools, competence or situational awareness required. Possible consequences:
+
+Receiving an aircraft on the frequency gives the controller the ability to vary the point of boundary crossing a lot. This may create a conflict in the transferring controller's airspace that the transferring controller might not think were even possible.
+Depending on system implementation it is possible that some tools (e.g. MTCD) only work within the area of responsibility. Therefore, system support for conflict detection before the aircraft crosses the boundary may be limited.
+The receiving controller might not have the necessary competence to provide ATS within the transferring controller's airspace. They may not be familiar with the local peculiarities (e.g. hot spots).
+The receiving controller may not be fully aware of the situation in the transferring controller's sector (e.g. activated special use areas, aircraft without transponders, military aircraft, etc.)
+
+
+Transfer too late – generally, an aircraft is supposed to be transferred 1-2 minutes before crossing the boundary. For various reasons however, it is possible that the transfer took place exactly over the boundary or even after passing it. Possible consequences:
+
+Sometimes the hotspots in a sector (especially in [Free Route Airspace]] environment) are too close to the boundary. Transferring an aircraft too late may limit the options of the receiving controller to solve a conflict.
+Transferring an aircraft after crossing the boundary is also a situation when a controller provides ATS in an airspace they are not supposed to, similar to the transfer too early situation.
+In case of poor radio coverage, it is possible that the transfer of communication cannot be effected thus leading to a loss of communication (and possible separation infringement in RVSM airspace).
+
+
+Wrong frequency – a wrong frequency given to (or read-back by) a pilot may result in various complications depending on the circumstances, e.g.:
+
+Later-than-normal check-in on the new frequency (due to the need to switch back to the previous one). Even if no further complications arise, the workload for both the executive and the planner controllers of the accepting sector is increased.
+Controllers in the accepting sector not being aware of the flight crew's intentions (e.g. if they were cleared for a direct flight shortly before the transfer).
+Controllers in the accepting sector not being able to issue urgent instructions to the flight crew.
+Prolonged loss of communication if the pilot is unable to switch to correct frequency for a long time, for example pilot unable to establish contact on the previous frequency to obtain the correct next sector frequency.
+
+
+Sector skipping – sector clipping (an aircraft passing through a sector within a very short period of time, usually less than a minute) usually results in the controllers' desire to skip the “short” sector and avoid unnecessary frequency changes. Sometimes however, the definition of “short” becomes too stretched and a sector is skipped when it should not have been (e.g. a controller not spotting an aircraft there because of its dull colour representation).
+Workload too high – this may cause incomplete situational awareness or lower-priority actions (e.g. transfer of control) being neglected, which, in turn, may lead to:
+
+Transfer of control too early or too late (not when appropriate but when time permits)
+Wrong assessment of the situation (inability to spot a potential conflict)
+Not finding time to perform a coordination
+Reduced quality of hear-back (the controller transfers the aircraft and moves to the next task not really hearing the pilot's read-back).
+
+
+Workload too low –this may cause distraction and negligence, which, in turn, may lead to:
+
+Aircraft being transferred too early (so that the controller has a feeling of their job finally done).
+Aircraft being transferred too late (e.g. the controller was engaged in other activities and did not pay enough attention to the single aircraft on the frequency).
+Neglecting or not identifying the need to perform a coordination.
+A false sense of safety (the attitude “I have no issues with my traffic therefore everyone around me does not have either”).
+
+
+Obscured track label – a combination of different colours, overlapping labels and high workload may easily cause a track not to be seen correctly by the controller, leading to e.g.:
+
+Not being able to identify a conflict due to partly obscured information (speed, level).
+Not being able to identify the need for a coordination (e.g. that an aircraft would not be able to reach its assigned level before the boundary).
+Misinterpretation of history dots and the speed vector, especially in a busy situation, and transferring an aircraft back to the previous sector or failing to transfer an aircraft leaving the airspace.
+
+
+Incorrect/insufficient plan – the lack of an adequate plan may result in erratic last-minute action which may interfere with the neighbouring sector's idea on how to solve the situation, e.g.:
+
+A last-minute descend against an opposite traffic.
+A sharp turn, creating a conflict with another aircraft.
+A clearance for a direct route that e.g. infringes a special use area or third party airspace.
+
+
+
+Related Articles
+
+Loss of Separation at Sector Boundaries
+Conflict Detection with Adjacent Sectors
+Conflict Detection with Adjacent Sectors – Prevention Barriers
+Loss of Separation During Weather Avoidance
+Free Route Airspace (FRA)
+Loss of Separation - ATCO-induced Situations
+ATM Sector Management
+Civil-Military Interaction in ATM
+Loss of Separation
+Loss of Separation - Pilot-induced Situations
+Medium Term Conflict Detection (MTCD)
+ATC Unit Coordination
+ATC Team Coordination
+
+Further Reading
+
+Operational Safety Study: Conflict Detection with Adjacent Sectors, by EUROCONTROL SISG
+
+
+
+
+
+Categories
+
+
+Loss of Separation,
+              Airspace Infringement
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

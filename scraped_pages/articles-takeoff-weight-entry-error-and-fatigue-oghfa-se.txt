@@ -1,0 +1,239 @@
+Takeoff Weight Entry Error and Fatigue (OGHFA SE)
+
+
+
+
+
+
+
+
+
+
+
+  Takeoff Weight Entry Error and Fatigue (OGHFA SE)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+OGHFA 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ Flight Safety Foundation
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 The Incident as a Situational example
+Your series of flights started the previous day on another continent and with several long legs. Prior to the incident flight, you reported for your first flight after a two-week off-duty period.
+The cargo airline you work for is growing rapidly, putting a lot of pressure on flight crews. It has adopted a “can-do” attitude that favors shortcuts and rewards results. There is a chronic shortage of pilots, and the number of pilots leaving the airline has prompted the suggestion of a new compensation package to provide better financial incentives. Your augmented crew is scheduled for a 24.5-hour duty day and has so far been on duty continuously for almost 19 hours.
+What is your attitude toward a duty period of more than 24 hours?
+The airline is contravening its operations manual (OM) by planning a flight that would exceed a 24-hour duty period. So are the crewmembers by accepting a flight planned to exceed the maximum allowable duty period.
+After a long night flight, the airplane lands before dawn and taxies to the ramp. After shutdown, loading starts. During these loading operations, two crewmembers sleep in passenger seats.
+The cargo loaded consists of 18 built-up pallets. Neither the local freight forwarder nor the ground handling agent provides the weight of the pallets because the airport lacks weighing facilities. In addition to the cargo, the airplane is loaded with fuel. The weight and balance sheet from the previous flight leg indicates a total ramp fuel of 90,000 kg (198,414 lb).
+Automatic terminal information service (ATIS) information Whiskey received in the early morning is: “Wind 260 at 5, visibility 15, ceiling 1,800 overcast, temperature 10, dew point 9, altimeter 2967 in Hg, ILS approach Runway [XX], landing and departing Runway [XX], inform ATC that you have information Whiskey.”
+In order to calculate takeoff performance data, you use a laptop computer software tool that was introduced by the airline without much direction, assistance or approval from the civil aviation authority. Pilots were to study the informational material themselves, with little direct training provided.
+What other documents can be used to check takeoff performance data?
+The airplane is within the center of gravity limits for its weight, and after clicking on the icon to confirm the weight and balance page in the software, the takeoff weight listed on that page appeared automatically in the planned takeoff weight block on the performance page.
+Once the appropriate power rating is selected on the screen, the airport and atmospheric data are entered. Pushing the "calculate" button gives the maximum takeoff weight for that runway and the engine pressure ratio (EPR) setting for maximum thrust for that power rating. This gives a V1 of 123 kt, Vr of 129 kt and V2 of 137 kt. The maximum thrust takeoff performance data are displayed on the upper right of the screen, and the reduced-thrust takeoff performance data are displayed on the lower right. Performance data on the right of the screen also include aircraft weights on which the data are based. The appropriate data are then transferred to a takeoff data card.
+Without looking at the card, do you remember the values for V1, Vr and V2?
+You complete the “Before Start” checklist and, just before completing the “Start and Pushback” checklist, the captain signs the load sheet and the weight and balance sheet. He also checks that the takeoff weight and the load distribution are within limits and transcribes the calculated stabilizer trim setting indicated on the weight and balance sheet onto the takeoff data card.
+The operations are routine, it is very early in the morning, and you feel tired. But you have confidence in each other and do not feel the need to repeat the departure briefing.
+After pushback, you begin to taxi, flaps are extended to 20 degrees and the horizontal stabilizer is set to 6.1 trim units. The flight control checks are completed, the airplane enters the runway, backtracks to the threshold and then makes a 180-degree turn to line up.
+At the start of the takeoff roll, the captain smoothly advances the thrust levers from ground idle, approximately 1.0 EPR, to takeoff power with all final EPR settings indicating between 1.3 and 1.33. The engines spool up normally and stabilize at takeoff thrust with no anomalies noted.
+At 130 kt calibrated airspeed (KCAS), the captain initiates rotation. It is still dark, which prevents getting a proper visual indication of the airplane’s position relative to the runway end.
+The captain pulls the control column back to an indicated 10-degree pitch attitude, which results in a tail strike. The pitch attitude stabilizes in the 11-degree range for the next four seconds, ending the brief contact of the lower aft fuselage with the runway.
+Thrust levers are advanced, and the EPRs increase to 1.60. A second tail strike occurs. As the airplane passes the end of the runway, pitch attitude is 11.9 degrees nose-up, and airspeed is 152 KCAS. Nose-up pitch is further increased to 14.5 degrees, and speed is 155 KCAS.
+The lower aft fuselage strikes a localizer berm, the tail section separates, and the rest of the airplane continues to fly before it strikes terrain and bursts into flames. The final impact is approximately 750 m (2,461 ft) past the departure end of the runway.
+
+2 Data, Discussion and Human Factors
+The crew tried to take off using an inadequate thrust setting and takeoff speeds significantly lower than those required to become airborne safely.
+Once the takeoff began, the crew did not realize until it was too late that the aircraft's performance was too sluggish compared with what they expected. They were not in a position to recover.
+After adding the extra weight on the pallets — 2,000 kg (4,410 lb) — and the combined weight of the fly-away kit, the catering and the flight crew — 1,120 kg (2,469 lb) — the actual aircraft weight would have been approximately 3 tons heavier at 353,800 kg (779,987 lb).
+The above scenario shows both active and latent failures such as:
+
+Wrong thrust setting and takeoff speeds selected due to an entry error in the laptop performance software.
+Lack of situational awareness of airplane performance at takeoff.
+Nonadherence to airline standard operating procedures (SOPs).
+Crew fatigue due to excessive duty time.
+Inadequate crew training on laptop performance software.
+
+The accident investigation report states that it was difficult to determine the exact reasons why the flight crew used such a low EPR setting and low rotation speed. A comparison of the takeoff performance data against the previous airport takeoff performance data was very revealing.
+
+2.1 Thrust Calculation
+According to the performance chapter of the aircraft flight manual (AFM), the stall speed for flaps 20, at idle power and 353,800 kg, is 133 KCAS. The expected minimum unstick speed (Vmu) was approximately 150 ± 2 kt.
+According to AFM charts for the prevailing pressure altitude and airport temperature, an EPR setting of 1.60 was required for maximum thrust, minus 0.21 EPR for reduced thrust. The comparative figures selected by the crew were, respectively, 1.43 for actual derated maximum thrust and a maximum reduction of 0.14 EPR for reduced thrust. Those settings definitely compromised a safe takeoff.
+
+2.2 Airplane Performance Calculation Software
+The airline was using a portable computer program for determining performance calculations. The investigation report stated the pilots were probably not aware that in the software, the takeoff weight in the weight-and-balance page would appear in the planned takeoff weight block on the performance page. This feature is believed to be a key element in how the crew generated incorrect takeoff performance data.
+Moreover, flight data recorder (FDR) data for the takeoff were nearly identical to that of the previous takeoff, indicating that the previous weight was probably used to generate the performance data at the airport where the accident occurred. The pilot then selected "calculate," which resulted in takeoff performance data containing incorrect V-speeds and thrust settings. The flight crew used incorrect V-speeds and thrust settings that were too low for a safe takeoff.
+The following factors were cited as likely contributors:
+
+Flight crew fatigue;
+Nonadherence to procedures;
+Inadequate training on the software; and,
+Personal stress.
+
+Once the takeoff had begun, the crew's situational awareness likely was not sufficient to allow them to detect the inadequate acceleration in a timely manner. Fatigue and the darkness probably contributed to the degradation of the crew’s situational awareness.
+Rest, duty and flight time
+International Civil Aviation Organization (ICAO) Annex 6, Part 1, Attachment A, provides guidance on flight time and duty period limitations. It describes two types of fatigue — transient and cumulative. Transient fatigue is experienced following a period of work, exertion or excitement and is normally remedied by a single sufficient period of sleep. Cumulative fatigue might occur after delayed or incomplete recovery from transient fatigue or as the aftereffect of too much work or overexertion without sufficient opportunity to recuperate. The duty-time limitations procedure in use by the operator at the time of the accident for an augmented crew — with three pilots operating four sectors — was 24 hours.
+The accident flight was delayed from the start, and the crew’s circadian low point would have fallen just before takeoff time.
+At the time of the accident, however, with the delays that had been experienced in the previous legs, the crew would likely have been on duty for approximately 30 hours at their final destination.
+
+2.3 Active Failures
+
+The takeoff weight at the previous airport was likely used to generate the airport takeoff performance data, which resulted in incorrect V-speeds and thrust settings being transcribed to the takeoff data card.
+It is likely that the crewmember who used the laptop software to generate takeoff performance data did not recognize that the data were inappropriate for the planned takeoff weight. It is likely that the crew did not adhere to the operator's procedures for an independent check of the takeoff data card.
+The pilots did not carry out the gross error check in accordance with the airline's SOPs, and the incorrect takeoff performance data were not detected.
+Crew fatigue likely increased the probability of error during calculation of the takeoff performance data and degraded the crew's ability to detect the error.
+Crew fatigue, combined with the night takeoff, likely contributed to a loss of situational awareness during the takeoff roll. Consequently, the crew did not recognize the inadequate takeoff performance until the aircraft was beyond the point where the takeoff could be safely conducted or rejected.
+The airline did not have a formal training and testing program on the laptop software.
+
+
+2.4 Latent Organizational Failures
+The accident report mentioned latent organizational failures at the airline, the airport authorities and the civil aviation authority.
+Airline and local ground handling agent
+
+The airline’s increase of maximum flight duty time for an augmented crew from 20 to 24 hours increased the potential for fatigue.
+Airline planning and execution of very long crew duty periods substantially increased the potential for fatigue.
+The airline was experiencing a shortage of pilots; fewer crews were available, increasing stress and fatigue.
+There were no regulations or airline rules governing maximum duty periods for loadmasters and ground engineers, increasing fatigue and associated errors.
+The airline flight operations quality and flight safety program was in the early stage of development.
+The operating empty weight of the aircraft did not include 1,120 kg (2,469 lb) for personnel and equipment. Consequently, it was possible that the maximum allowable aircraft weights were exceeded.
+The ground handling agent at the airport did not have the facilities to weigh built-up pallets.
+Some crewmembers did not adhere to all airline SOPs; airline and regulatory oversight did not address this deficiency.
+
+
+3 Prevention Strategies and Lines of Defense
+Apart from experience in similar operational conditions, there are two ways to improve the situation: improve technical theoretical knowledge and training to avoid erroneous inputs in the laptop software, and implement crew scheduling schemes and monitoring of duty times to better manage crew fatigue.
+The following actions were taken after the accident:
+
+The software manufacturer released a message to all users that reviewed the built-in features of the software that automatically overwrite any entry.
+There have been extensive revisions to the training manual, and a new assistant training manager with an extensive background in training management was appointed.
+The airline's OM was updated to include various flight briefings to improve the level of situational awareness. Procedures were developed to ensure continued alignment of training manuals with current national and international regulations and manufacturers’ service bulletins.
+A crew notice was issued concerning noting duty times on trip reports to enable better monitoring of required rest times.
+The airline’s rostering staff was briefed on limitations and monitoring crew scheduling with in-house developed software to prevent such excesses. Crews were briefed on the new flight-time limitations and their responsibilities for compliance. Flight documents were subject to close inspection to ensure that captains’ discretionary reports were completed when required.
+A crew notice was issued concerning counseling to reduce both fatigue and stress in light of the accident. A new pay scheme was introduced to improve the financial security of crew members and was well received.
+
+
+4 Key Points
+The airplane was landed in the very early morning and taxied to the ramp after a long flight. Once the fueling and loading were completed, the augmented crew began taxiing the airplane to the runway and began the takeoff roll. A few seconds later, after rotation, a tail strike occurred, and the airplane remained in contact with the ground beyond the end of the runway. The airplane barely became airborne, but the lower aft fuselage struck an earth berm. The tail separated on impact, and the rest of the aircraft struck the ground and burst into flames. The aircraft was destroyed, and all seven crewmembers were killed.
+The flight crew had made an error in takeoff performance calculations that resulted in a takeoff thrust setting and associated speeds that were too low and prevented the airplane from becoming airborne safely with enough margin to avoid the terrain. Situational awareness during the takeoff roll did not alert the crew to the impending event. Stress and crew fatigue, due to excessive duty time, also played a role. Airline planning and execution of very long flight crew duty periods substantially increased the potential for fatigue.
+The key points are:
+
+Current technical information — in this case, computer software — distribution and updating are essential to maintain safety awareness.
+Cross-checking is essential to safety.
+Conducting effective briefings reduces crew errors.
+
+
+5 Associated OGHFA Material
+Briefing Notes
+
+Flight Preparation and Conducting Effective Briefings
+Adherence to SOPs
+Situational Awareness
+Stress and Stress Management
+Fatigue Manifestations
+
+Visual
+
+Fatigue and Alertness Management in Aviation
+
+
+6 Additional Reading Material
+
+Flight Safety Foundation Approach and Landing Accident Reduction (ALAR) Toolkit
+U.S. Federal Aviation Administration. inFO 08031 Weight and Balance Control Methods - Auxiliary Performance Computer
+Performance Data Errors in Air Carrier Operations: Causes and Countermeaures, NASA, June 2012
+
+ 
+Related Skybrary Articles
+
+Aircraft Performance
+Pilot Workload
+Situational Awareness
+SOPs
+Fatigue
+
+
+
+
+
+Categories
+
+
+OGHFA,
+              Situational Examples,
+              Human Factors
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,211 @@
+Hazard Identification
+
+
+
+
+
+
+
+
+
+
+
+  Hazard Identification
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Management 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+Hazard
+A hazard is anything with the potential to cause harm.
+A hazard is any condition, event, or circumstance which could induce an accident (EUROCONTROL ESARR 4).
+A hazard is any existing or potential condition that can lead to injury, illness, or death to people; damage to or loss of a system, equipment, or property; or damage to the environment.
+A hazard is a condition that could foreseeably cause or contribute to an accident or incident. (FAA AC 120-92B: Safety Management Systems for Aviation Service Providers).
+Hazard Identification
+Hazard identification is the process used to identify hazards..
+ICAO Requirements
+Recently approved changes to several Annexes of the Chicago Convention introduce harmonised requirements for the implementation and operation of safety management systems (SMS) by aircraft operators and aviation service providers. Within the organisational framework of the SMS, operators/service providers “shall develop and maintain a formal process for effectively collecting, recording, acting on and generating feedback about hazards in operations, based on a combination of reactive, proactive and predictive methods of safety data collection”.
+Hazard Identification Sources
+The safety assessment process in the Design and Certification process identifies and classifies most of the hazards, assesses the risks, and introduces controls - this is a good starting point for identifying the hazards to the operation and there should ideally be a clear link between design and certification and operations.
+
+Safety Reporting - includes safety occurrence reporting through mandatory and voluntary reporting schemes;
+Internal investigation of safety occurrences;
+Safety occurrence trend analysis;
+Information provided by personnel, from operational perspective and training;
+Analysed data from automated data collecting tools (e.g. flight data analysis (FDA) in the airline industry);
+Results from safety surveys and operational oversight safety audits carried out internally (by the operator/service provider) and by States;
+Monitoring of “day-to-day” normal operations and environment;
+Official State investigation results of accidents and serious incidents; and
+Information-exchange practices between operators/service providers.
+
+(Note: The list of sources listed above is by no means full and comprehensive.)
+Hazard Identification Methods
+The SMS Working Group of the European Commercial Aviation Safety Team (ECAST) has produced guidance material on hazard identification for airline operators. The document provides a summary of a number of specific tools and techniques for hazard identification and lists their advantages and disadvantages.
+Depending on the hazard identification sources and the approach to hazard identification, two groups of methods for identifying hazards can be defined:
+
+Reactive hazard identification methods - hazards are recognised through trend monitoring and investigation of safety occurrences. Incidents and accidents are clear indicators of systems’ deficiencies and should be therefore investigated to determine the hazards that played role in that event.
+Proactive hazard identification methods - hazards are identified analysing systems’ performance and functions for intrinsic threats and potential failures. The most commonly applied proactive methods are the safety surveys, operational safety audits, safety monitoring and safety assessments. Other methods, such as FDA, specifically designed to track normal operations (trends), and Line Operations Safety Audit (LOSA) and Normal Operations Safety Survey (NOSS) designed to capture real life strategies (i.e. human performance), play an important role in proactive hazard identification.
+
+In real life scenarios, both reactive and proactive methods provide an effective means of hazard identification. Incident investigation is still one of the largest contributors in identifying hazards. In successful safety management systems, the proactive approach for hazard identification is utilised extensively, so the hazard is recognised and addressed before it could turn into an occurrence.
+According to the Future Aviation Safety Team (FAST) three complementary approaches should be used to identify hazards that affect safety of the global aviation system:
+
+The “Historic” approach is based on accident and incident investigation and analysis. It uses proven investigative techniques to discover all facts pertinent to a past aviation incident or accident, and thus identify opportunities for improvements meant to avoid future, similar accidents.
+The “Diagnostic” approach is targeted at identifying accident pre-cursors within the larger collections of information in various aviation safety reporting systems. There are many diagnostic processes being developed for application to the global aviation system.
+A “Prognostic” or “Predictive” approach is aimed at discovering future hazards that could result as a consequence of future changes inside or outside the global aviation system, and then initiating mitigating action before the hazard is introduced. Prognostic hazard identification informs design processes so that the hazards can be eliminated from the future, avoided in the future, or mitigated in the future.
+
+In 2021, the European Aviation Safety Agency (EASA) published an opinion on Operational Suitability Data that addresses the issue of the link between certification and operation. Hazards identification performed at the operations stage should ideally refer to Design and Certification, where hazards were first considered and risks assessed and mitigated. In practice, this link is seldom done and should therefore be encouraged. ·
+Scope of Hazards in Aviation
+The scope of hazards existing in aviation operation environment is very wide. That is why hazard identification is a complex process as it considers extensive range of possible sources of failure. Depending on the nature and size of the organisation, its operational scope and environment, there are different factors to consider during hazard identification. The following factors listed in ICAO Doc 9859 Safety Management Manual are examples of common hazard sources in aviation:
+
+Design factors, including equipment and task design;
+Procedures and operating practices, including their documentation and checklists, and their validation under actual operating conditions;
+Communications, including the medium, terminology and language;
+Personnel factors, such as company policies for recruitment, training and remuneration;
+Organisational factors, such as the compatibility of production and safety goals, the allocation of resources, operating pressures and the corporate safety culture;
+Work environment factors, such as ambient noise and vibration, temperature, lighting and the availability of protective equipment and clothing;
+Regulatory oversight factors, including the applicability and enforceability of regulations; the certification of equipment, personnel and procedures; and the adequacy of surveillance audits; and
+Defences, including such factors as the provision of adequate detection and warning systems, the error tolerance of equipment and the extent to which the equipment is hardened against failures.
+
+Hazard Classification
+Hazard Classification, the classification of the severity of Hazards, is half way to Risk Assessment.
+Each hazard that is identified must be evaluated and classified. This is done in order to determine whether the hazard is individual (i.e. bears consequences for specific operation/s) or systemic. Hazards are classified in terms of the severity of consequences arising in the case of occurrence and are recorded in a hazard log. This process is documented and organised into a database which facilitates the storage and retrieval of hazard data.
+Hazard classification matrices are used by the operators/service providers and aircraft manufacturers for evaluating hazards. Hazards are assigned to 5 generic classes depending on their effect. It should be noted that the exact description of the possible effects may differ depending of the types of the aviation service provided.
+The table below is an example of hazard severity classification matrix, provided in EUROCAE ED -78A.
+
+Operational Safety Assessment Hazard Classification Matrix
+Another important characteristic of hazards is their likelihood (frequency) of occurrence. The hazard severity and its likelihood of occurrence are used to assess the risk that a hazard can pose to the provision of an aviation service, in particular to aircraft operations and eventually to human life.
+A structured approach to the identification of hazards ensures that, to the extent possible, all potential hazards are identified and assessed. The assessment of hazards should take into consideration all possible outcomes - from the least likely to the most likely. Hazard identification determines to a great extent the effectiveness of an organisation’s risk management process, as it provides the input for the other two risk management components, notably the Risk Assessment and Risk Mitigation.
+Related Articles
+
+Safety Management
+Risk Assessment
+Bow Tie Risk Management Methodology
+Acceptable Level of Safety
+Flight Data Monitoring (FDM)
+
+Further Reading
+ICAO
+
+ICAO Doc 9859 - Safety Management Manual, Fourth Edition - 2018;
+ICAO Integrated Safety Management website;
+
+European Commission
+
+Regulation 2017/373 - Requirements for Providers of ATM/ANS and other ATM Network Functions and their Oversight
+
+EUROCONTROL
+
+Safety Regulatory Requirement - ESARR 3, Use of Safety Management Systems by ATM Service Providers;
+Safety Regulatory Requirement - ESARR 4, Risk Assessment and Mitigation in ATM;
+FAA/EUROCONTROL ATM Safety Techniques and Toolbox;
+Safety Assessment Methodology Guidance Material on Planning and Conducting FHA Sessions;
+
+EASA
+
+Guidance on Hazard Identification;
+
+FAA
+
+FAR Part 25.1309;
+FAA AC 120-92B - Safety Management Systems for Aviation Service Providers;
+Transforming Risk Management;
+
+SAE
+
+ARP4754: Guidelines for Development of Civil Aircraft and Systems
+
+Others
+
+EUROCAE website;
+NLR-CR-2004-094 Guidelines for the Identification of Hazards - How to make unimaginable hazards imaginable?.
+
+
+
+
+
+Categories
+
+
+Safety Management,
+              Safety Management System
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

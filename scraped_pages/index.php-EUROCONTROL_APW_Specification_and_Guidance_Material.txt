@@ -1,0 +1,166 @@
+EUROCONTROL APW Specification and Guidance Material
+
+
+
+
+
+
+
+
+
+
+
+  EUROCONTROL APW Specification and Guidance Material
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Nets 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Area Proximity Warning (APW) warns the controller about unauthorised penetration of an airspace volume by generating, in a timely manner, an alert of a potential or actual infringement of the required spacing to that airspace volume.
+Since 1998, EUROCONTROL has produced safety net guidelines to support the implementation of safety nets in the European Civil Aviation Conference (ECAC) area. These specify the minimum requirements and provide guidance for the definition, implementation, optimization and operation of ground-based safety nets. This article provides references to EUROCONTROL Area Proximity Warning Specification and Guidance Material. Links to the articles about the other safety nets can be found at the bottom of this page.
+EUROCONTROL APW Specification and Guidance Material has been developed over the years by the safety nets community based on the accumulated practical experience.
+EUROCONTROL APW ‘Level 2’ Specification and Guidance Material
+The EUROCONTROL APW Specification describes the minimum requirements for the development, configuration and use of APW in Europe. The Specification exists only as the final draft version while the Guidance Material has a ‘released’ status. Currently, there is no plan to undertake any further development of the Specification.
+EUROCONTROL Specification for Area Proximity Warning Draft
+Comprehensive guidance material to assist in implementing the EUROCONTROL Specification for Area Proximity Warning covers the full APW lifecycle:
+
+Definition of objectives
+
+
+Implementation or change
+
+
+Tuning and validation
+
+
+Operation and monitoring
+
+The APW Guidance is provide with several appendices to support ANSPs in the implementation of APW.
+EUROCONTROL Guidance Material for Area Proximity Warning Released
+Appendix A: Reference APW System: Detailed technical explanation of typical implementation details of APW with emphasis on parameterisation and performance optimisation. Optimisation concepts are also covered in detail.
+Appendix B: Safety Assurance: A set of three documents that can be used as starting point for APW safety assurance work in a particular local context.
+
+Appendix B-1: Safety Argument for APW System: This document describes a possible initial Safety Argument.
+Appendix B-2: Generic Safety Plan for APW Implementation: Describes what safety assurance activities should be considered at each lifecycle phase, who should do them, and what the criteria for success are.
+Appendix B-3: Outline Safety Case for APW System: Addresses in detail the assurance and evidence from the System Definition stage and outlines the likely assurance and evidence for the later stages.
+
+Appendix C: Cost Framework:
+
+Appendix C: Cost Framework for the Standardisation of APW: A set of guidelines for users of the Cost Framework (an Excel model) to assess the economic impact of the standardisation of Area Proximity Warning for individual ANSPs.
+Appendix C: Supporting Spreadsheet: Supporting Excel spreadsheet for the Cost Framework model.
+
+Appendix D-1: Case Study: Enhancement of APW for ATCC Semmerzake: Identifies potential solutions for a number of issues.
+EUROCONTROL APW ‘Level 3’ Documentation
+The ‘Level 3’ material, published in 2017, is a series of documents specifying the minimum requirements and providing guidance for the definition, implementation, optimisation and operation of safety nets. These guidelines, building on the legacy of the previous two editions, are intended to facilitate the harmonisation of safety nets by providing recommendations and implementation examples.
+It is important to note that the ‘Level 3’ documents are guidelines as opposed to the mandatory ‘Level 2’ Specifications they replace. This allows ANSPs to adopt a more flexible approach towards implementing safety nets that meets their needs. The guidelines also complements other recognised documentation such as International Civil Aviation Organisation (ICAO) provisions.
+Part I - Concept and Requirements - describes the safety net concept of operations and requirements.
+Part II - Lifecycle Description - contains overall guidance for the various stages of the safety nets lifecycle.
+Part III - Implementation and Optimisation Examples - provides a generic implementation example and detailed guidance for optimisation and testing of that safety net.
+Related Articles
+
+Area Proximity Warning
+
+
+EUROCONTROL STCA Specification and Guidance Material
+
+
+EUROCONTROL APM Specification and Guidance Material
+
+
+EUROCONTROL MSAW Specification and Guidance Material
+
+Further Reading
+
+EUROCONTROL Safety Nets Guide, 21 May 2011
+EUROCONTROL Safety Nets Guide 2017
+NetAlert 22
+
+
+
+
+
+Categories
+
+
+Safety Nets
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

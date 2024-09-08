@@ -1,0 +1,143 @@
+Area Navigation Systems
+
+
+
+
+
+
+
+
+
+
+
+  Area Navigation Systems
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Flight Technical 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+RNAV is a method of navigation which permits the operation of an aircraft on any desired flight path; it allows its position to be continuously determined wherever it is rather than only along tracks between individual ground navigation aids. RNAV includes Performance Based Navigation (PBN) as well as other RNAV operations that are not within the definition of PBN.
+Various types of ground-based area navigation systems have been available from terrestrial sources for nearly thirty years; these were originally dependent on VLF/Omega and LORAN ‘C’ long range radio signals. More recently R-NAV moved to position derived from VHF Omnidirectional Radio Range (VOR) radials (up to 62nm slant distance) and/or Distance Measuring Equipment (DME) distances. LORAN ‘C’ can also be used in certain circumstances and lNS can be used to maintain prior tracking for up to 2 hours. As RNAV accuracy has improved, it has begun to play a vital role in increasing ATM efficiency whilst also sustaining safety performance.
+The advent of Global Navigation Satellite Systems (GNSS), mainly in the specific form of GPS, has now brought a completely new opportunity to derive an accurate three-dimensional (VNAV) position as well as a highly accurate two-dimensional (LNAV) position over an area not restricted by the disposition of ground transmitters. RNAV of sufficient accuracy is now seen ultimately as providing a replacement for all ground-based navigational aids. Although the only reliable and extensive GNSS presently available is the GPS coverage of the US Department of Defence, there is also the partially operative Russian Global Orbiting Navigation System (GLONASS) system and the planned European system, GALILEO. Initial GALILEO services will be made available by the end of 2016. Then, as the constellation is built-up, new services will be tested and made available, with system completion scheduled for 2020.
+Although the use of GNSS input for RNAV has made this method of navigation truly global, it has led to the availability of a very wide range of accuracy in RNAV - and therefore the uses to which it can be put - depending on how GNSS data is used. RNAV use of GNSS varies from hand held GPS, as an aid to day Visual Flight Rules (VFR) navigation, to the use of approach procedures which meet the highest accuracy and integrity standards of RNP-RNAV.
+In Europe, Basic Area Navigation (B-RNAV) has been in use since 1998 and is mandated for aircraft using higher level airspace. It requires a minimum navigational accuracy of +/- 5nm (RNP=5) for 95% of the time and is not approved for use below Minimum Sector Altitude. European standards for Precision Area Navigation (P-RNAV) are now also defined - a navigational accuracy of +/- 1nm (RNP=1) for 95% of the time. Qualifying systems must have the ability to fly accurate tactical offsets, P-RNAV routes must be extracted directly from the FMS data base and must be flown by linking the R-NAV system to the Flight Management System/Autopilot. As well, flight crews are restricted from manually adding waypoints to the route. This level of navigation accuracy can be achieved using DME/DME, VOR/DME or GPS. It can also be maintained for short periods using IRS (the length of time that a particular IRS can be used to maintain P-RNAV accuracy without external update is determined at the time of equipment certification). It should be noted that if GPS is not used as a source then two independent ground-based sources are required to meet P-RNAV minimum requirements apart from specified short periods of INS ‘backup’, which is a more stringent requirement than for some older FMS. P-RNAV is now being used to provide more routes and terminal area procedures and may be used down to the FAF on designated approach procedures. Since the use of a GNSS source for navigation in P-RNAV is optional, it is used only for lateral navigation and baro-VNAV.
+The final stage of RNAV navigational performance RNP-RNAV combines VNAV with LNAV at an RNP <1, which is expected to be between 0.3nm and 0.1nm for LNAV. This will require suitable augmented GNSS to be the source of position rather than an option for it and will deliver precision approach accuracy in both VNV an LNAV.
+Further Reading
+EUROCONTROL
+
+Performance Based Navigation (PBN) Training Modules - v2.0 (2013)
+European GNSS Contingency/Reversion Handbook for PBN Operations: Scenarios and Options. PBN Handbook No.6, Feb 2019
+
+CASA
+
+CASA GNSS RNAV guide
+
+DGCAA (France)
+
+Technical Guidelines O1 - PBN, Guidelines for RNP APCH operations also known as RNAV(GNSS) Edition No 2 published June 2011
+
+AirServices Australia
+
+Using GNSS as a VFR navigation tool
+
+ICAO
+
+RNAV to RNP Instrument Approach Chart Depiction, a presentation by ICAO, February 2016
+
+FAA
+
+FAA InFO 16020: Naming of Performance Based Navigation (PBN) Instrument Approach Procedures (IAP)
+
+ATSB Australia
+
+Perceived Pilot Workload and Perceived Safety of RNAV (GNSS) Approaches, ATSB Australia, December 2006.
+
+
+
+
+
+Categories
+
+
+Flight Technical
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

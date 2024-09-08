@@ -1,0 +1,134 @@
+Take-off and Climb
+
+
+
+
+
+
+
+
+
+
+
+  Take-off and Climb
+
+
+
+
+
+
+
+
+
+Toolkit Navigation
+
+
+Flight Deck Procedures - A Guide for Controllers
+
+
+
+
+
+
+Pre-flight Planning
+Set-up and Briefing
+Start-up,  Push-back and Taxi
+Take-off and Climb
+Cruise
+Descend,  Approach and Landing
+Crew Information and Action Flow
+Automatic Flight
+Operation of the Radio and Intercom Selector Panels
+Windshear Detection
+GPWS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Actions when Entering or Vacating a Runway
+When entering or vacating a runway the flight crew will be required to perform certain actions, most or all of which will be due to Standard Operating Procedures (Standard Operating Procedures (SOPs)). This will mean that one or both pilots become ‘heads down’ in the cockpit whilst performing such actions. Although as stated previously there is now a greater emphasis on the avoidance of becoming ‘heads down’ and of appropriately monitoring the ground movement of the aircraft; in certain situations this cannot be avoided as the actions must be accomplished. It is therefore at the judgment of the flight crew how best to manage these tasks and the maintenance of their situational awareness in such circumstances. During fam flights it is useful for controllers to observe such actions with regards to being ’heads down’ particularly in the case of the ‘before take-off’ checklist and the ‘after landing scan’ as these are often lengthy processes.
+If possible the ‘before take-off’ checklist will be constructed such that it can be completed before the aircraft enters the runway. Ideally it will be accomplished and completed either whilst on a straight portion of the taxiway or whilst stationary at the holding point. This, however, may not be possible depending on the specific aircraft type or operator in question, and may require part of or the entire ‘before take-off’ checklist to be completed only when a clearance to enter the runway is received.
+Relevance of 80kts and Incapacitation Calls
+When lined up on the runway and cleared for take-off, the PF will start to advance the thrust levers. On aircraft that are powered by fan engines – especially aeroplanes like the AIRBUS A-300/A330 Family where the engines are relatively large – inertia in the big fans at the front may mean that both or all engines do not always ‘spool up’ at the same rate. Until this has happened, the pilot should not advance the throttles any further as to do so could set up an asymmetry that he/she might find difficult to control through nose-wheel steering alone. Once the engines have all ‘spooled up’ it is safe to advance the thrust levers together to the position that will enable the engines to deliver the amount of thrust required for take-off. It is for ‘spool up’ reasons that tower controllers may sometimes observe a hesitation – typically 6 to 10 seconds - after the aeroplane begins to roll forward before its acceleration along the runway appears ‘normal’, and why pilots may not always seem to respond quickly to requests to ‘expedite departure’. The required thrust should be attained before the aeroplane’s indicated air speed passes 80kts.
+In order to reduce the likelihood of a rejected take-off resulting in an over-run or other undesirable outcome, it is often stated in the SOPs that once above a specified speed during the take-off roll the take-off should only be rejected for specified occurrences. The specified speed is typically 80 knots. Below this speed the take-off may be rejected for any reason. Above the specified speed it is typical for the SOPs to state that the take-off should only be rejected for an engine failure, any type of fire or an unsafe condition that would render the aircraft unable to fly. The call at 80 knots is also used to check that the pilots have not become incapacitated during the take-off roll. If the PM does not make the call, or if the PF does not respond, it could be due to incapacitation and the take-off should be aborted.
+Thrust Reduction and Acceleration Procedures
+On take-off, in order to position the aircraft to a safe height away from terrain and obstacles (i.e. a flight path of maximum height and minimum ground distance desired), the engine thrust is set to a high ‘take-off power’ setting (although this is not necessarily full power) and the aircraft attitude is pitched up to maintain a specific speed (usually in the region of V2 + 15kts). Once the ‘safe height’ is reached the engine thrust can therefore be reduced to a more appropriate (i.e. efficient) setting and the aircraft flight path can be changed to a more appropriate (i.e. efficient) flight path.
+In order to achieve that described above and also to provide minimum noise disturbance to the area surrounding the airport, regulatory procedures require aircraft to fly one of the two profiles given below during every departure. The aerodrome briefing pages will state which one of the two profiles is to be flown at each particular airport:
+
+At 1,500ft aal reduce thrust to climb power and accelerate the aircraft towards 250 knots, retracting flaps and slats.
+At 1,500ft aal reduce thrust to climb power maintaining V2 + 15kts. At 3,000ft accelerate the aircraft.
+
+Operator’s SOPs must therefore enable the above procedures to be flown and, as such, controllers will witness flight crews performing certain actions and verbal SOP callouts during the initial climb in order to accomplish this. Aircraft that have highly automated systems will perform the thrust reduction and acceleration manoeuvre with minimal input from the flight crew. Note that the flight crew must input the required data into the FMS during the pre-flight procedure to enable such aircraft to accomplish this. In such aircraft it may be the case that the only physical action required by the flight crew is to move the flap lever, the remainder of the actions are of a monitoring nature to ensure that the correct Flight Mode Annunciator (FMA) modes engage and that the aircraft physically performs the manoeuvre correctly. In less automated aircraft it will require an increased amount of button pushing, knob turning and verbal calls to perform the thrust reduction and acceleration manoeuvre. During the initial climb, at the heights stated above, the thrust reduction and acceleration procedure therefore gives rise to issues regarding increased workload in the flight deck.
+Workload during Initial Departure (and Go-around)
+During take-off and in initial climb controllers will be aware that flight crews have a high workload in general and that this will increase at certain points during the departure. Particular moments of increased workload will be when:
+
+Changing comms frequency, then calling ATC with departure details (especially if the frequency is busy) whilst the aeroplane rapidly changes its current altitude.
+Sometimes, when the take-off has been performed with ‘bleeds off’, it may be necessary for PM to reinstate the bleed air supply from the engines at this early stage so that the aircraft can become pressurised.
+
+• Selecting anti-icing systems ‘on’ (when icing conditions exist) and confirming that the systems respond correctly. • Changing altimeter pressure settings (eg from QNH to ‘Standard’ – i.e. 1013.2 mbs/29.92in) when cleared to climb to the first flight level, both pilots cross-checking that their altimeter readings agree and that the cleared flight level has been selected correctly. • Changing NavAid frequency. • At lateral turning points. • Making MCP selections and reconfiguring aircraft systems. • At thrust reduction and acceleration height. • Accomplishing checklists and alerting the other pilot when approaching cleared altitudes or flight levels.
+And throughout this immediate after take-off phase, the PF will be monitoring where the autopilot is taking the aircraft in terms of vertical and horizontal flight profiles, confirming that minimum and maximum speeds appropriate to the changing flap/slat configuration are not being infringed, and ensuring that altitude and/or flight level clearances are being observed. If proximate aircraft are being displayed on TCAS, one pilot will keep an eye on their symbols just to be satisfied that they are not likely to become a viable threat. Upon reaching the transition altitude the standby altimeters will be set to Standard pressure, and when the aircraft is cleared to a Flight Level the main altimeters will be set to Standard pressure.
+Making a mental note of such points of increased workload will aid controllers in providing minimum extra workload to flight crews with respect to issuing instructions during departure. It will often be the case that multiple items are required at the same time, e.g. when a turn, thrust reduction, acceleration and a frequency change coincide. When the items described above occur this requires one, or possibly both, pilots to be ‘heads down’ in the cockpit in order to physically perform the required actions. This therefore gives rise to issues with respect to that flight crew member physically being unable to monitor the aircraft.
+In order to appropriately navigate the aircraft during departure, the NavAids must be selected, identified and monitored appropriately. Note that a change of NavAid may be required at certain points, which may coincide with a turning point or other workload point as listed above. It is a legal requirement that NavAids must be identified before being used. If a change of NavAid is required during departure this therefore requires one of the flight crew to listen to the ident, which will increase their workload and decrease their ability to process other aural inputs.
+Note that in more modern aircraft the aircraft systems are able to identify NavAids and inform the flight crew when a NavAid is identified. This information is usually displayed in the bottom corner(s) of the Navigation Displays (NDs) and is such that when a NavAid is selected but not identified, the frequency (i.e. numbers, for example ‘113.55’) will be displayed, and when the NavAid is identified, the 3 letter ident (i.e. letters, for example ‘MCT’) will be displayed. This more modern system therefore requires the pilot to include such an ident display in his visual scan but reduces the aural workload, enabling crew and radio communications to be monitored more accurately.
+The flight crew duties and associated workload during a go-around are, in general, the same as those described above for the take-off and initial climb, although there are occasions when the workload will be greater during a go-around. The following is a description of a go-around with respect to the high workload issues:
+
+The point of initiating the go-around gives a high workload due to the many changes that occur at the same time e.g. flight parameters, FMA modes and reconfiguring the undercarriage and flaps. NavAids may also need to be re-selected almost immediately as appropriate to the navigation of the missed approach procedure.
+Thrust reduction and acceleration may also follow in a short space of time depending on the height at which the go-around was initiated.
+The missed approach initial stop altitude is often lower than that used for departure and may be reached in a short space of time, upon which FMA mode changes etc. will occur during the level off.
+The missed approach route and hold may not be in the FMS and so may require much button pushing of the FMS in order to construct the procedure and hold.
+Checklist items may become lengthy particularly where it is SOP to complete the ‘After take-off’, ‘Descent’ and ‘Approach’ checklists when a go-around has been flown.
+There is also likely to be discussion between the flight crew as to the reasons for the go-around and the subsequent intentions, as well as communications with the cabin crew and passengers.
+
+Monitoring the Autopilot during Level Off
+When approaching an assigned level, and during the level off manoeuvre, it is important for the pilot to confirm that the correct Flight Director (FD) mode is engaged and that the FD commands and the autopilot are suitably acquiring the selected level. The usual sequence of events for the FD when acquiring a level is for the FD, which will initially be in a climb or descent mode, to change to an ‘Altitude Capture’ mode, and then change to an ‘Altitude Hold’ mode. Such mode changes will be displayed on the Flight Mode Annunciator (FMA). Note that with the level set in the Mode Control Panel (MCP) and the FD engaged in a climb or descent mode, the mode changes required to accomplish the level off manoeuvre are engaged automatically i.e. the pilot does not have to separately select ‘Altitude Capture’ and ‘Altitude Hold’ modes.
+The FMA mode change sequence described above is worthy of observation during fam flights. Also worthy of note is the timescale involved during the mode change sequence. The point, or in particular, the level at which the FD will change to the altitude acquiring modes is determined (automatically) by the flight computers and is a function of the vertical (climb or descent) rate of the aircraft i.e. the greater the vertical rate, the greater the level difference will be when the altitude acquiring process commences. However, as can be observed during fam flights, at vertical rates in the region of 2,000-3,000 fpm as are often achieved in the low to medium levels, the altitude acquiring process (as announced to the pilot by the change of mode displayed on the FMA) will not commence until 200-300ft from the selected level. Whilst this is sufficient to give a smooth level off for passenger comfort with no noticeable change in g-force, should the FD or auto-pilot commands not change to those required to acquire the selected level, this will leave minimal time for the pilot to manually take over and prevent a level bust. In the unlikely event that the pilot has to take over manually to acquire the required level, the amount of overshoot that occurs will depend on the individual circumstances and therefore may or may not, due to the legal definition, constitute a ‘level bust’.
+At high levels, particularly those that are close to the aircraft’s maximum level due to performance, the altitude capture process may not commence until in the region of only 20 feet from the selected level due to the very low climb rate achieved. In such a case the ‘Altitude Capture’ mode may only exist for a fraction of a second and consequently the FMA may show a change directly to the ‘Altitude Hold’ mode from the climb mode. With such a low climb rate, should the FD or autopilot not acquire the selected level, it is possible for the pilot to manually take over and acquire the required level with an overshoot in the region of only 20ft.
+Awareness of Proximate Traffic on the TCAS Display
+Controllers may notice during fam flights that pilots generally have a tendency to place a great deal of belief in the TCAS displayed information. Whilst the following of any TCAS generated advisories (both ‘cautions’ in the form of traffic advisories (TA) and ‘warnings’ in the form of resolution advisories (RA)) is necessary, other details may result in (minor) issues for controllers as described below. TAs alert pilots to be prepared for an RA to follow, and RAs provide advice on manoeuvring in the vertical plane to avoid any conflicting aircraft that is deemed to be a threat.
+Controllers may notice that flight crews often become very wary of proximate traffic, sometimes asking the controller to clarify the associated details or clearances in order to confirm that a collision hazard does not exist. This, however, may occur when (in the opinion of the controller) the proximate traffic is not necessarily that ‘close’ to the aircraft in question. Radar controllers spend their working lives controlling aircraft to the appropriate minima, typically 3nm, 5nm or 10nm, with the range scale of the radar screen set to enable the controller to accurately judge the required distance. Pilots however, although spending much of their working lives in busy traffic environments close to proximate traffic, do not have experience of working in front of a radar screen and so their perception of ‘close’ is different to that of a controller. In general therefore, and depending on the situation, traffic that is within 10nm - 20nm may be considered by flight crews to be ‘close’ and a state of apprehension may follow. Also, due to the fact that the range of the TCAS display can be altered by the pilot, with a longer range selected the traffic symbol will therefore be closer on the TCAS display to the aircraft symbol compared to when a shorter range is selected. Even though the pilot knows the range he/she has selected for the TCAS display, with other than a short range selected, this can lead to the mindset that the traffic is relatively close.
+Controllers may notice that pilots also have a tendency to believe that the TCAS displayed information is true in the lateral plane. Current TCAS equipment is not certified for use in the lateral plane and whilst, in general, pilots are aware of this, it is surprisingly difficult when viewing proximate traffic on the TCAS display to gain the mindset that what is being displayed (laterally) may not actually be true. Although it is not a common occurrence for TCAS equipment to be (wildly) inaccurate in the lateral plane such occurrences have been reported.
+Another factor to consider when using the TCAS display is that of the height band selection. There are many different specifications of TCAS equipment fitted in aircraft and so the exact details will vary according to the particular specification. However, typical height band selections are:
+
+‘Above’: 2,000ft below to 6,000ft above aircraft’s level.
+‘Normal’: 2,000ft below to 2,000ft above aircraft’s level.
+‘Below’: 6,000ft below to 2,000ft above aircraft’s level.
+
+It is therefore necessary to set the height band selector to the appropriate setting for the phase of flight, particularly with reference to climb and descent, in order to view proximate traffic effectively. Note also that transponding traffic that is not reporting any altitude information can also be shown on the TCAS display, typically its symbol being a white diamond. Although pilots know that aircraft are required to contact ATC and obtain a clearance before entry into controlled airspace, it could be assumed that any such ‘white diamonds’ are likely to be beneath the base of controlled airspace and therefore should not constitute a collision hazard. However, if any non altitude-reporting aircraft infringes the ‘traffic advisory’ time boundary determined by TCAS, the system will generate a TA because it considers such targets as being ‘co-altitude’. The white diamond then changes to a yellow circle. In such circumstances TAs can be a cause of apprehension for pilots of TCAS-equipped aircraft if the non altitude-reporting aircraft continues to approach and poor visibility prevents them from sighting it visually. There can then be a strong temptation to call ATC for confirmation that there is adequate vertical separation. (Normally, TA and RA symbols display relative vertical height intervals from the TCAS-equipped aircraft.)
+Verbal Silence and the ‘Sterile Cockpit’ during Climb and Descent
+In order to ensure that ATC transmissions are heard correctly and to consequently ensure that the correct clearance is flown (in particular, avoiding level busts) during the stages of flight which are the busiest and where traffic is more prevalent, a greater emphasis is now being given to the removal of non-essential verbal communication between flight crew members during such stages of flight (i.e. removing trivial conversations and general chit-chat). In general this therefore means that most operators will have SOPs that state that a ‘verbal silence’ is to be imposed below a certain level during climb and descent except for required SOP calls and those necessary for the safe operation of the aircraft in order to provide a ‘sterile cockpit’. It is a common SOP among operators to impose a verbal silence below 10,000ft both climbing and descending, although some operators may use different levels, possibly up to the initial cruising level during the climb, and from when leaving the cruising level at commencement of descent.
+ 
+
+
+
+Things to look out for
+
+
+
+
+How the crew make sure that the approach is clear before entering the runway;
+
+
+The workload on the flight deck, and perceived ability of the crew to receive instructions during initial climb (remember that the actions on the flight deck are similar during a go around);
+
+
+Does the sequence in which you usually provide multiple instructions to aircraft tally up with the sequence in which the actions actually are carried out on the flight deck?
+
+
+How other traffic visible on TCAS affects the crew’s decision to ask for further climb.
+
+
+
+
+
+Go To Cruise
+Return to Flight Deck Procedures - A Guide for Controllers

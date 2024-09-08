@@ -1,0 +1,134 @@
+FLARM
+
+
+
+
+
+
+
+
+
+
+
+  FLARM
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Separation 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+FLARM (an acronym based on 'flight alarm') is the proprietary name for an electronic device which is in use as a means of alerting pilots of small aircraft, particularly gliders, to potential collisions with other aircraft which are similarly equipped. The most recent versions, which are supplied under the proprietary name 'PowerFLARM', have options which, if taken, allow them to also detect aircraft fitted with ADS-B capable transponders and to provide estimated range and altitude difference (only) on other aircraft fitted with mode C/S transponders. The system is also capable of being used to alert pilots to obstacle proximity subject to use of a suitable database. The idea was inspired by the concept of broadcasting position which led to the concept of ADS-B. The 'problem' with FLARM is, however, that it does not transmit any signal detectable by ACAS or ADS-B. This means that small aircraft which rely exclusively on FLARM for collision avoidance will be invisible to aircraft which rely on ACAS as a safety net against mid air collision. The FLARM serial data protocol is public, while the prediction engine of the FLARM radio-protocol is proprietary and licensed to various OEMs. The prediction engine itself is subject to a patent held by Onera (France).
+How it works and what it does best
+FLARM obtains its own-aircraft position from an internal Global Positioning System (GPS) unit and a barometric sensor and this is updated every second. The data is then broadcast by a low power RF transmitter (868.2 MHz) along with a 30 second projection of likely 3D flight path. Its receiver searches for other FLARM devices within range and processes the information received. Data on potential conflicts with up to 50 other participating aircraft are stored and aural and visual alerting is used to warn the pilot. The FLARM Unit will provide an alert in respect of the greatest current danger by means of a 'buzzer' or 'beep') and illumination of a Light Emitting Diode (LED) indicator. The display will show the threat level and the lateral and vertical bearing of this threat. If a suitable database is installed, FLARM can also warn of the presence of static aerial obstacles such as masts and cables.
+Unlike ADS-B, FLARM has a low power consumption and is relatively inexpensive to buy and to install. The range of transmitted and detected signals varies from 3-5 kilometres for the original FLARM equipment to over 10 kilometres for the latest versions. If the detection of proximity to other similarly-equipped and slow moving which are manoeuvring is the main requirement, FLARM is an attractive solution. Gliders and in some cases small helicopters have become popular FLARM platforms in Europe and also to some extent in the USA and in South Africa and Australia /New Zealand. Since the design of ACAS is predicated on the need for a safety net for fixed wing aircraft on relatively stable tracks, it is of little use in preventing gliders from colliding with each other because they are frequently close to each other without being in danger of collision. In these circumstances, ACAS would generate give many nuisance advisories, whereas FLARM only gives selective alerts to similarly-equipped aircraft posing a collision risk.
+Flight Conflict Scenarios
+The information and performance comments in this paragraph refer primarily to gliders and are taken from the US website GliderPilot.org
+"The following scenarios provide a description of the general differences when FLARM is used versus the scanning for traffic performance without FLARM:
+
+Potential Collision Situations Between Gliders
+Frontal approach - the human eye is not so efficient, particularly in the shade of clouds or in low sunlight. The worst situation for collision is when the two gliders are at nearly the same altitude and when they present their smallest profile and are less visible. In addition, the human eye has evolved to be particularly good at detecting motion. When two objects are on a collision course, neither object appears to move relative to the other; therefore, the eye does not see a relative motion and is less likely to detect the other glider, especially at a distance. Frontal approach is a situation where FLARM is reported to work very well.
+Approach from side and back - FLARM also performs adequately in relative approach from the side or back. In this case the pilots are not seeing each other mostly because the nose, the fuselage or the wing hide the other glider from view. FLARM’s help is reported as being very good in this situation.
+Entry in thermal while another glider is circling - In the situation of one glider coming to enter a thermal in which another glider is already turning, the pilot of the turning glider is rarely able of detecting the incoming glider, mostly because his/her attention is typically driven toward the center of the spiral especially if the other gliders are turning too. Another reason is that for at least half of the turn, the nose and/or the fuselage body of the banked glider are obstructing the line of sight toward the incoming glider. Fortunately FLARM is reported as providing good help to the turning glider and very good help to the incoming glider in detecting the other.
+Opposite direction/off-set spiral - The case of two spirals intersecting each other, or two spirals slightly off-centered from each other as depicted in the graphic or two spirals in opposite directions, is normally contrary to the basic rules of safety and etiquette while thermalling. However, these cases are relatively frequent when two gliders have just arrived under a cloud and start thermalling or looking for the core of the thermal. It is good that FLARM is reported as providing good threat detection help in these cases.
+Similar spiral turns - The last case is the one in which two or more gliders are following each other fairly closely in the same circle. FLARM's help is reported as poor because it may, rightfully so, send frequent alarms, which may be annoying to the pilots if they are keeping the other gliders well in sight. The alarm sound can be temporarily turned off, but then this is the point: in this situation where possibly several gliders try to maintain close nose-to-tail separation at the same altitude, the pilot’s lookout and avoidance skills are still the best defence."
+Conclusion
+In all situations, FLARM is an aid to the “see and be seen” principle rather than a substitute. In any case the basic safety principle of VFR flight must never be neglected just because a detection aid, and especially one that in its basic form provides only collision avoidance protection against similarly-quipped aircraft, is available. It is imperative that the limitations of the FLARM equipment installed in a small aircraft or helicopter must be understood by those using it.
+Related Articles
+
+See and Avoid
+Visual Scanning Technique
+Empty Field Myopia
+
+Further Reading
+
+FLARM Homepage
+Safety Management System Manual v10.1, by the British Gliding Association (BGA), 26 February 2016
+
+
+
+
+
+Categories
+
+
+Loss of Separation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

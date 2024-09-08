@@ -1,0 +1,389 @@
+AT75, en-route, near Almansa Spain, 2017
+
+
+
+
+
+
+
+
+
+
+
+  AT75, en-route, near Almansa Spain, 2017
+
+
+
+
+
+
+
+
+
+Summary
+
+On 9 September 2017, an ATR 72-500 crew temporarily lost control of their aircraft when it stalled whilst climbing in forecast moderate icing conditions after violation of applicable guidance. Recovery was then delayed because the correct stall recovery procedure was not followed. A MAYDAY declaration due to a perception of continuing  control problems was followed by a comprehensively unstabilised ILS approach to Madrid. The Investigation concluded that the stall and its sequel were attributable to deficient flight management and inappropriate use of automation. The operator involved was recommended to implement corrective actions to improve the competence of its crews.
+
+
+
+
+Event Details
+
+When
+
+09/09/2017
+
+
+
+Event Type
+
+
+HF,
+              LOC,
+              WX
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+IMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+ATR ATR-72-500
+
+
+
+
+
+
+
+
+
+Operator
+
+Swiftair
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Alicante-Elche Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Madrid-Barajas Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Climb
+
+
+
+
+
+
+
+
+Location
+
+Approx.
+
+10 nm north of NARGO waypoint at FL170
+
+
+
+
+
+
+
+
+
+
+General
+
+Tag(s)
+
+
+              Approach not stabilised,
+              Copilot less than 500 hours on Type,
+              Deficient Crew Knowledge-automation,
+              Deficient Crew Knowledge-handling,
+              Deficient Crew Knowledge-systems
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Authority Gradient,
+              Flight / Cabin Crew Co-operation,
+              Inappropriate crew response - skills deficiency,
+              Inappropriate crew response (automatics),
+              Manual Handling,
+              Plan Continuation Bias,
+              Procedural non compliance
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Flight Management Error,
+              Environmental Factors,
+              Temporary Control Loss,
+              Extreme Bank,
+              Incorrect Aircraft Configuration,
+              Aerodynamic Stall
+          
+
+
+
+
+WX
+
+Tag(s)
+
+
+              In Flight Airframe Icing
+          
+
+
+
+
+EPR
+
+Tag(s)
+
+
+              MAYDAY declaration
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Non-aircraft damage
+
+Yes
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+Yes
+
+
+
+Ditching
+
+Yes
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Airworthiness
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 9 September 2017, an ATR 72-500 (EC-KKQ) being operated by Swiftair on a domestic passenger flight from Alicante to Madrid for Air Europa as AEA4050 was climbing in icing conditions when control of the aircraft was temporarily lost in day IMC. After recovery, the crew continued to report control problems and declared a MAYDAY requesting priority routing to their destination where the flight was completed with a high speed unstabilised approach. One of the 22 passengers required medical attention on arrival after appearing to suffer a prolonged anxiety attack following the stall episode; others with similar responses to it recovered quickly.
+Investigation
+An Investigation was carried out by the Spanish Commission for the Investigation of Accidents and Incidents (CIAIAC). Both the CVR and FDR were removed from the aircraft and downloaded with their data used to assist the Investigation. CVR data was only available from just under half an hour before landing, beginning one minute after the MAYDAY had been declared. A full record of all relevant ATC communications was also available.
+It was found that the 55 year-old Captain had a total of 18,294 flying hours experience including 4,497 hours on type of which 1,230 hours had been as a Captain. He had been employed by Swiftair for two years. The 33 year-old First Officer, who had been designated as PF for the flight had a total of 1,431 flying hours which included 421 hours on type and had been employed by Swiftair for 11 months.
+Most of the aircraft systems were those found on any similar twin turboprop aircraft but one type-specific addition in this case was the Aircraft Performance Monitoring (APM) system which is automatically activated in icing conditions and in view of its relevance to the investigated flight is described below.
+The APM works by monitoring the detected aerodynamic drag against the theoretical performance that should prevail and provides alerts if the airspeed drops towards or below a safe minimum speed when the system has detected an abnormal increase in drag. Three visual indications are provided on the flight deck which, in order of increasing importance are:
+
+CRUISE SPEED LOW - blue - which is illuminated when an abnormal increase in drag causes the airspeed to fall 10 knots more than expected. The required response is to “monitor icing conditions and speed”.
+DEGRADED PERF - amber - which is illuminated in climb or cruise if there is an abnormal increase in aerodynamic drag but the speed is still above the minimum severe icing speed. The required response is to select de-icing on, ensure the speed remains above the severe icing speed, disengage the AP and “if the conditions are confirmed, apply the severe icing procedure”.
+INCREASE SPEED -amber- which is illuminated at any time there is an abnormal increase in aerodynamic drag and the indicated airspeed is below the minimum severe icing speed. The required response is to immediately move the control column forward to recover speed and then apply the severe icing procedure.
+
+In order for the APM system to generate these cautions appropriately, the aircraft weight must be manually entered after engine started on each flight sector using a 12 position rotary switch which must be moved even if the value to be set is the same as for the previous sector.
+What Happened
+The flight departed Alicante for Madrid, a flight of around 200 nm, with an initial climb planned en-route to waypoint ‘NARGO’ (see the illustration below) some 35 nm distant followed by cruise at FL170. Although the weather at Alicante was good, the route forecast was for light icing to be encountered in the climb from FL140 followed by moderate icing after ‘NARGO’.
+
+The planned/actual track of the flight. [Reproduced from the Official Report]
+As the aircraft passed FL100 eight minutes into the flight, the indicated TAT reached 7º C, which when in visible moisture is defined as indicating the presence of icing conditions. Two minutes later and climbing at 175 KCAS, the TAT was 2.7° C and the electrical anti-icing system, which covers the flight deck side windows, the outer extremities of the flight control surfaces and the inboard leading edges of the propeller blades, was switched on. Half a minute after that, the ‘ICING’ light, which is activated when ice builds up on the ice detector located under the left wing, was Illuminated and this prompted the crew to switch on the pneumatic boot airframe de icing system fitted to the wing and empennage leading edges.
+After a further four minutes, during which the rate of climb had reduced from 1100 fpm to 500 fpm, the aircraft was climbing through FL160 at 169 KCAS and the APM ‘DEGRADED PERF’ caution was activated. When the climb ceased altogether at FL 162, this altitude was maintained for a minute and a half and then the Captain (who was PM) selected VS mode at 1100 fpm “in order to climb clear of the cloud layer” and requested and was granted re-clearance to cruise at FL190. Within 20 seconds, in conditions that were probably worse than forecast, this action had led the speed to reduce to 153 KCAS at which point, twelve minutes after takeoff, the aircraft stalled and the Captain took over as PF (remaining as such for the rest of the flight).
+The stall continued without any initial attempt at recovery for 33 seconds, during which the aircraft descended at an average of over 3000 fpm at an angle of attack of up to 19.6º, a nose down pitch angle of up to 11º and bank angles ranging 58º to the right and 39º to the left. Intervention to recover the aircraft to controlled flight eventually occurred with a recorded airspeed of 195 KCAS as the aircraft continued to descend. The AP was not re-engaged and remained out for the remainder of the flight. Continued descent was requested from Valencia ACC who gave clearance for descent at the crew’s discretion, advising that the base of radar cover was FL070. The crew then advised that they intended to continue on track and asked if there were any significant weather phenomena ahead and were advised that there were not. The controller then asked the reason for the descent and was told “we stalled due to icing” and on hearing this informed them of the location of the airport at Valencia relative to their position.
+A few minutes later, descent was stopped at around FL130 and ATC were advised that the flight was clear of the cloud and were proceeding toward waypoint ‘CENTA’, which “was interpreted by the controller as meaning they had solved their icing problem” and was the information he then passed to the Madrid ACC controller to whom he was about to transfer the flight. Soon after this, as the aircraft turned left to avoid entering cloud, the First Officer requested routing direct to waypoint ‘PRADO’. One minute later, the ‘DEGRADED PERF’ caution cleared having been active for almost 13 minutes. After complying with a request to climb to FL150, which they were advised was the minimum altitude in the Madrid ACC sector they would be entering, the aircraft was transferred to that sector.
+On checking in with Madrid, the controller asked if the icing problem had been resolved to which the crew replied that “they had taken on a lot of ice (and) that something was wrong (with) the problem still present but they were stable”. Five minutes later, the crew reported that actually they had not solved the problem and wanted to descend and followed this with a MAYDAY declaration and requested direct to Madrid due to continuing “problems with the controls” which was approved. Once descent from FL150 towards Madrid began, the average recorded airspeed increased to around 245 KCAS, “a value that was (then) maintained practically until landing”. On being asked if ground assistance was required on arrival, the crew replied no. After requesting runway 32R for landing despite 32L being the active runway with 32R closed for maintenance access, this was eventually agreed and tracking thereafter was towards it.
+CVR data available from just after the MAYDAY declaration confirmed that by then there were three people on the flight deck, the two pilots and an Air Europa Captain who was positioning on the service and had gone into the flight deck at the operating Captain’s request after the stall recovery. Subjects of conversation during the initial part of the descent included the aircraft’s continued vibrations and “concern about performance when they had to lower the flaps for landing”, the later leading to the decision to make a flapless approach to land on what would be a long runway relative to that required. The Senior Cabin Crew Member ( SCCM) also entered to report that a passenger was going to be administered oxygen. Later, the First Officer “is heard preparing the manoeuvre […] confirming that the speed would be 130 knots” - the correct speed was actually 135 knots.
+Once transferred to APP, the crew “asked if there had been any reports of turbulence in the area where they were flying” and were told there had not and the flight was cleared for the requested ILS approach to 32R. Approaching 8500 feet, the First Officer reported having the runway, still 20 nm away, in sight. Passing 7,300 feet, the Captain stated that he would land above 130 knots and that “if something strange happens, I’ll give it power”. When the First Officer asked for confirmation of what to do with the flaps in case of a go-around, the Captain replied, “don’t even think of going around, we have to land”. He also decided to land without the yaw damper out and it was disengaged passing 6,300 feet.
+On transfer to TWR, on 7 nm finals, the aircraft was still to the right of the ILS LLZ and on checking in, the First Officer advised that the flight remained “in a MAYDAY situation”, was “unable to do a go-around” and needed confirmation that they could expect a landing clearance, since “the runway seemed to be occupied”. Soon after this, the ILS LLZ was captured and after inspection vehicles had cleared the runway, the aircraft, still maintaining high speed (216 KCAS) and descending at 1200 fpm, was given landing clearance.
+With 3 nm to go, and passing 840 feet agl, the Captain was recorded ordering “gear down” with the aircraft still at 213 KCAS. The First Officer, “having previously warned the captain on three occasions that the speed was too high to lower the gear” reminded him of the maximum gear extension speed of 170 KCAS but when the Captain repeated “gear down”, the sound of the gear lever being moved was recorded at 204 KCAS which “triggered a sequence of four aural warnings” upon which “the First Officer rebuked the Captain”, who then noticed the speed and quickly reduced it to below 170 KCAS before again ordering it down. With the aircraft now 340 feet agl and the gear down and locked, the First Officer called “speed” as it had increased again to 183 KCAS as the rate of descent reached 1000 fpm.
+The flight crew had not alerted the cabin crew to prepare the cabin - and the Captain had not spoken to the passengers since the stall - and so at 126 feet agl, the SCCM, recognising that landing was obviously near, made the landing announcement and reminded passengers to fasten their seat belts. At the same time, a sequence of five EGPWS Mode 4B “TOO LOW, TERRAIN” warnings were annunciated, ending at 37 feet agl with the aircraft still at 160 KCAS. Touchdown, with the airport fire service in attendance, occurred 759 metres beyond the threshold of the 3,500-metre-long runway and as the aircraft decelerated, the Captain stated that “the pedals aren’t working, the left pedal, they’re jammed” but nevertheless achieved normal directional control and was able to vacate the runway and taxi to the allocated parking position where the passengers were disembarked.
+A vertical profile of the complete flight was prepared (see the first illustration below) and a more detailed one of the stall (see the second illustration below).
+
+The vertical profile of the complete flight. [Reproduced from the Official Report]
+
+The detailed vertical profile of approach to, occurrence of and recovery from the stall. [Reproduced from the Official Report]
+An Analysis of Crew Aircraft Handling
+The Investigation made a detailed analysis of the performance of the flight crew in creating and responding to the aircraft handling issues which defined this event which it concluded were as follows:
+
+Flight in severe icing conditions. The fact that three minutes before stalling, the aircraft was unable to continue climbing and that the airspeed was beginning to drop were “clear indications” which were described as such in the applicable procedures, that the climb performance of the aircraft was degrading. Explicit indications that ice was building up on the airframe (the ICING LIGHT was on) and that the drag was increasing (the DEGRADED PERF alert was on) were also available. Both demonstrated that the aircraft climb performance was degrading “and that the aircraft was flying in uncertified conditions”.
+Management of the Climb. During the climb, the crew took actions that were inconsistent with the procedures and recommendations specified by both the aircraft manufacturer and the aircraft operator. Although some of these actions were initially inconsequential, others such as the failure to carry out the severe icing and degraded performance procedures and the failure to use IAS mode in icing conditions did have consequences. The crew failed to consider the implications of the behaviour of the aircraft during the final part of the climb, forced the aircraft to its limits and then attempted to climb beyond them, all as a result of focusing on the objective of a continued climb. Autopilot modes which were expressly prohibited when in any icing conditions, such as the use of ‘VS’ mode, ultimately drove the aircraft to stall.
+Management of the Stall. The recorded actions suggest that the Captain failed to recognise that the aircraft had stalled until 21 seconds had elapsed or alternatively that if he did identify it, he did not take the only essential action that is required, which is to push the stick forward to lower the angle of attack and recover airspeed, or indeed any of the other secondary actions in the stall recovery procedure.
+Subsequent Management of the flight. The approach was performed at high speed, no procedures or checklists were used to verify that the aircraft was correctly configured for landing and the stabilised approach criteria were not met. No action - such as a missed approach - was even considered because the Captain was completely focused on landing. He also ignored the First Officer’s calls regarding basic flight parameters, such as speed. Fortunately, the length of the landing runway was such that there were no consequences of a touchdown well past the TDZ.
+
+In summary, there were multiple deficiencies not only in how the emergency was handled, but in respect of the flight as a whole which involved:
+
+The failure to follow SOPs.
+The failure to perform Checklists.
+A certain complacency in how the flight was handled in icing conditions.
+The failure to recognise the aircraft stall.
+The narrow focus first on increasing the aircraft’s altitude and later on landing.
+The first officer’s lack of assertiveness.
+
+It was observed that all of these behaviours are related to training which both pilots had completed and it is therefore assumed that they had thereby acquired the intended “knowledge, skills and abilities” yet the deficiencies identified during this Investigation have shown that “these were not present at the time of the flight”.
+Similar ATR Airframe Icing Events
+Two similar events involving in-flight loss of control of ATR 72 aircraft in 2016 were noted. In one, involving a climb by an ATR72-500 in the UK, APM cautions on airframe icing were also ignored and a stall followed and in the other, involving a climb by an ATR72-600 in Norway in which the crew also lost control in icing conditions, which at the time of publication was still under investigation by the Norwegian Accident Investigation Board.
+Relevant Findings from Two Previous Swiftair Investigations
+It was also noted that two previous CIAIAC Investigations into events involving a Swiftair-operated aircraft in 2012 and to the same ATR72-500 as was involved in this event in 2013 (published in the Spanish language only) had involved “a failure to adhere to operating procedures” similar to the failure found in this Investigation and that three Safety Recommendations had been made to Swiftair to address this problem. Swiftair had subsequently “informed the CIAIAC of the plan of action that had been put in place (and) since these measures were deemed to be satisfactory, insofar as they complied with the objectives of the recommendations”, all three had been closed out prior to the publication of the Final Report on this Investigation.
+The Probable Cause of the the loss of control in icing conditions was determined as “deficient flight management by the crew and an inappropriate use of automation”.
+Relevant Safety Action has been taken by ATR since this event to add relevant improved procedures already communicated directly to operators prior to this event into the AFM and to modify these procedures to bring them into line with revision 3 of the ICAO Airplane Upset Prevention and Recovery Training Aid (AUPRTA) issued in February 2017 by linking the decision making process with the objective performance figures to support the efficient management of aircraft energy.
+Four Safety Recommendations were made as a result of the Investigation as follows:
+
+that Swiftair, as the operator, take the measures needed to ensure that its technical crews maintain over time the knowledge and skills related to the following areas:
+
+Flying in icing conditions.
+Aircraft assistance and protection systems in icing conditions.
+Stall and recovery procedures. [REC 12/19]
+
+
+that Swiftair, as the operator, take the measures needed to ensure that its technical crews maintain over time the knowledge and skills related to the following areas:
+
+Non-technical skills (CRM): decision making, emergency management, focus and assertiveness.
+Adherence to operating procedures, task assignment in the cockpit and completion of checklists.
+Communication and coordination with the passenger cabin in emergency situations. [REC 13/19]
+
+
+that Swiftair, as the operator, provide the measures needed to ensure that its passenger cabin crews acquire and maintain over time the knowledge and skills needed to manage, in a complete and adequate manner, medical emergencies on board. [REC 14/19]
+that Swiftair, as the operator, take the necessary measures involving the quality control of the oxygen supply equipment on board to ensure to operability of the oxygen bottles and masks. [REC 15/19]
+
+The Final Report of the Investigation was approved for release in both Spanish and in English translation on 27 November 2019 and both versions were then published on 4 February 2020.
+Related Articles
+
+Loss of Control
+In-Flight Icing
+Aircraft and In Flight Icing Risks
+Ice Formation on Aircraft
+Aircraft Ice Protection Systems
+Standard Operating Procedures (SOPs)
+Recovery from Unusual Aircraft Attitudes
+Crew Resource Management (CRM)
+Authority Gradients
+Decision Making
+Operational Use of Flight Path Management Systems
+AT72, vicinity Manchester UK, 2016
+MD83, Kandahar Afghanistan, 2012

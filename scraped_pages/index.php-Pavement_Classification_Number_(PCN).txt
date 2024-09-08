@@ -1,0 +1,157 @@
+Pavement Classification Number (PCN)
+
+
+
+
+
+
+
+
+
+
+
+  Pavement Classification Number (PCN)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Pavement Classification Number (PCN) is a number that expresses the load-carrying capacity of a pavement for unrestricted operations.
+Source: FAA AC 150/5335-5
+Description
+PCN is an International Civil Aviation Organisation (ICAO) standard used in combination with the Aircraft Classification Number (ACN) to indicate the strength of a runway, taxiway or apron. This helps to ensure that they are not subjected to excessive wear and tear, thus prolonging their usable life.
+The PCN is the ACN of the most damaging aircraft that can use the pavement on a regular basis (regular being defined by the operator). The PCN values are published in the Aeronautical Information Publications (AIPs), part AD (aerodromes).
+The PCN is actually expressed as a five-part code, separated by forward-slashes, describing the piece of pavement concerned.
+The first part is the PCN numerical value, indicating the load-carrying capacity of the pavement. This is always reported as a whole number, rounded from the determined capacity. The value is calculated based on a number of factors, such as aircraft geometry and a pavement's traffic patterns, and is not necessarily the direct bearing strength of the pavement.
+The second part is a letter: either an R or an F, depending on whether the pavement itself is of a rigid (most typically concrete) or a flexible (most typically asphalt) design.
+The third part is another letter from A to D expressing the strength of what is underneath the pavement section, known as the subgrade. So a subgrade of A would be very strong (e.g. like concrete-stabilised clay). A subgrade of D would be very weak (e.g. uncompacted soil).
+The flexible pavements have four subgrade categories:
+
+A. High Strength – CBR 15 (All CBR above 13%).
+B. Medium Strength – CBR 10 (For CBR between 8% to 13%).
+C. Low Strength – CBR 6 (For. CBR between 4% to 8%).
+D. Ultra Low Strength – CBR 3 (For CBR below 4%).
+
+Note: The California bearing ratio (CBR) is a penetration test for evaluation of the mechanical strength of natural ground, subgrades and base courses beneath new carriageway construction. It is performed by measuring the pressure required to penetrate soil or aggregate with a plunger of standard area. The measured pressure is then divided by the pressure required to achieve an equal penetration on a standard crushed rock material. The result is then multiplied by 100 and given as percentage.
+The rigid pavements have four subgrade categories:
+
+A. High Strength – Subgrade k = 150 MN/m3 (All k values above 120 MN/m3).
+B. Medium Strength – k = 80 MN/m3 (For values between 60 and 120 MN/m3).
+C. Low Strength – k = 40 MN/m3 (For values between 25 and 60 MN/m3).
+D. Ultra Low Strength – k = 20 MN/m3 (All k values below 25 MN/m3).
+
+The fourth part is either a letter, or a number with units expressing the maximum tire pressure that the pavement can support. The letters that can be used are:
+
+W (unlimited) - no tyre pressure limit.
+X (high) - maximum tyre pressure of 1.75 MPa.
+Y (medium) - maximum tyre pressure of 1.25 MPa.
+Z (low) - maximum tyre pressure of 0.5 MPa.
+
+The fifth part is a letter describing the method through which the first value was obtained:
+
+T indicates technical evaluation.
+U indicates usage – a physical testing regime.
+
+Example:
+PCN of 80/R/B/W/T means that
+
+the underlying pavement's value indicating load-carrying capacity is 80 (unitless)
+the pavement is rigid (R)
+the pavement is on a medium-strength subgrade (B)
+the pavement has no limit on tyre pressure (W)
+the value of 80 has been calculated through technical evaluation (T)
+
+Related Articles
+
+Aircraft Classification Number (ACN)
+ICAO Aerodrome Reference Code
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

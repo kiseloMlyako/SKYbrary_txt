@@ -1,0 +1,352 @@
+B773, en-route, north northwest of Adelaide Australia, 2017
+
+
+
+
+
+
+
+
+
+
+
+  B773, en-route, north northwest of Adelaide Australia, 2017
+
+
+
+
+
+
+
+
+
+Summary
+
+On 14 October 2017, a Boeing 777-300ER en route to Sydney declared a MAYDAY and diverted to Adelaide after the annunciation of a lower deck hold fire warning and the concurrent detection of a burning smell in the flight deck. The remainder of the flight was completed without further event and after landing a precautionary rapid disembarkation was performed. The Investigation found that the fire risk had been removed by the prescribed crew response to the warning and that the burning which had occurred had been caused by chafing of a wiring loom misrouted at build.
+
+
+
+
+Event Details
+
+When
+
+14/10/2017
+
+
+
+Event Type
+
+
+AW,
+              FIRE
+
+
+
+
+Day/Night
+
+Night
+
+
+
+Flight Conditions
+
+Not Recorded
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 777-300
+
+
+
+
+
+
+
+
+
+Operator
+
+Etihad Airways
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Abu Dhabi International Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Sydney Airport
+
+
+
+
+
+
+
+Actual Destination
+
+
+
+
+Adelaide International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Cruise
+
+
+
+
+
+
+
+
+Location
+
+Approx.
+
+about 286 nm north northwest of Adelaide
+
+
+
+
+
+
+
+
+
+
+General
+
+Tag(s)
+
+
+              En-route Diversion,
+              Extra flight crew (no training)
+          
+
+
+
+
+FIRE
+
+Tag(s)
+
+
+              Non-Fire Fumes
+          
+
+
+
+
+EPR
+
+Tag(s)
+
+
+              MAYDAY declaration,
+              Precautionary Rapid Disembarkation
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Electrical Power
+          
+
+
+
+Contributor(s)
+
+
+              Component Fault after installation
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Aircraft damage
+
+Minor
+
+
+
+Non-aircraft damage
+
+Yes
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Number of Non-occupant Fatalities
+
+0
+
+
+
+Number of Occupant Fatalities
+
+0
+
+
+
+Off Airport Landing
+
+Yes
+
+
+
+Ditching
+
+Yes
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 14 October 2017, a Boeing 777-300ER (A6-ETR) was being operated by Etihad on a scheduled international passenger flight from Abu Dhabi to Sydney at night with an augmented crew when a burning smell coming from an air vent in the flight deck was followed by a lower deck hold fire warning. After discharging the hold fire extinguisher, a MAYDAY diversion was made to Adelaide without further event. After landing, a fire service inspection found no evidence of an active fire and a precautionary rapid disembarkation was completed.
+Investigation
+An Investigation was carried out by the Australian Transport Safety Bureau (ATSB). It was established that with the relief crew in charge of the aircraft, a burning smell had been detected coming from an air vent. After checking with cabin crew in the forward galley that there was no similar burning smell there, two other members of the cabin crew were asked to enter the flight deck and they confirmed the presence of a burning smell there. At around this time, a fire warning was activated accompanied by an EICAS message indicating that the location was the forward cargo hold. The corresponding Check List was completed and, a MAYDAY declared and a diversion to Adelaide, the nearest suitable airport, was commenced.
+Soon after this, the primary flight crew, who had just completed their scheduled rest period, re-entered the flight deck and were briefed on the situation and then, as planned, assumed control. The relief flight crew remained on the flight deck to provide assistance. A rapid descent to FL 125 was made and ATC were advised that, if smoke or fire from the forward cargo hold was confirmed by emergency services on inspection after landing, they would order an emergency evacuation of the aircraft on the runway.
+Almost 50 minutes after the burning smell had initially been detected, an uneventful landing was made at Adelaide. After the aircraft had stopped on the runway, airport emergency services carried out a general inspection of the exterior of the aircraft in the vicinity of the forward hold and advised the flight crew that they had not observed any signs of smoke or fire emanating from the aircraft. The aircraft was then taxied clear of the runway and stopped on the exit taxiway where a more detailed external inspection of the aircraft using a thermal imaging camera was conducted. This found no hot spots which might have indicated that there was an on-going fire in the forward cargo compartment and on receipt of this information, the Captain decided that a precautionary rapid disembarkation was appropriate. This was achieved in a controlled manner using mobile boarding steps.
+Once the contents of the forward hold had been removed, the hold was inspected for evidence of fire by maintenance engineers. A small quantity of soot was found between a fibreglass ceiling panel and some fibreglass joint sealing tape and when the panels in that area and below it in the hold side wall were removed, more soot was found and further inspection identified heat damage and a chafed 115-volt electrical wire in a wiring loom which supplied power to the right lower flight deck recirculation fan. This chafing had enabled the wire core to come in contact with a ceiling panel retainer screw where it passed through the stand-off brackets and carbon fibre floor beam. After temporary repairs to the wiring had been made and floor beam damage evaluated, regulatory approval was given for a non-revenue position flight back to the UAE for further inspections and permanent repairs.
+
+Floor beam, web and wiring soot-covered and damaged shown with the ceiling panel open. [Reproduced from the Official Report]
+It was subsequently found that the 115 volt wire bundle involved had been incorrectly routed and that it was this which had eventually led to it coming into contact with the screws and nut plates used to attach the cargo-ceiling panel to the ceiling standoff clips. Heat damage was found to have occurred to the electrical wiring, to fourteen of the cargo ceiling panel standoff clips and to sections of the carbon fibre beam web and beam flange in the vicinity. The latter were also found to be between 6 and 7 percent delaminated in three locations due to electrical current tracking. Boeing determined that the incorrect position of the wiring loom was likely to have occurred during assembly of the aircraft in 2013 and noted that this was the fifth incident involving cargo hold wire chafing and arcing in Boeing 777 aircraft known to them but the first which had triggered the cargo hold fire warning system in flight. The cause of all five of these incidents had been incorrect installation of the wiring loom involved during manufacture.
+It was noted that in the event being investigated, the Electrical Load Control Unit (ELCU) which is supposed to trip and disable the wiring to the recirculation fan wiring system if it is subjected to differential or overcurrent loading had not done so. Since this ELCU was subsequently found to be functioning correctly, it was suspected that the chafed wire may have been intermittently shorting to earth through the panel stand-off clips because the insulation properties of the material they were made of - polyetheretherketone resin (PEEK) - had prevented sufficient current reaching the ELCU to trigger its trip threshold. It was also suspected that when the crew armed the forward hold fire switches as part of the prescribed response to the EICAS fire warning, the chafed wire within the affected loom had been de-energised, thereby preventing further current flow and short circuiting.
+It was also noted that materials used in the construction of the space between the passenger cabin floor and the lower deck cargo hold ceiling such as electrical wire and cable insulation are required to be (at least) self-extinguishing and that the cargo liner panels themselves are an integral part of passive lower deck hold fire protection.
+Boeing advised having received reports of five separate in-service events where a ceiling liner screw in the forward cargo compartment was found in contact with a wire bundle, resulting in a short to ground that damaged cargo ceiling standoffs, the wire bundle, and the floor beam in some cases. It was noted that wiring looms which do not have the correct clearance from the ceiling liner screws, can result in chafing causing exposed conductors and shorting.
+Conclusions
+
+the flight crew identified a burning smell in the flight deck and completed the appropriate actions to manage the situation.
+arming the forward cargo fire suppression system removed electrical power from the recirculation fans, which prevented further arcing and damage to the structural carbon fibre beam, support brackets and wiring.
+even though there was a significant amount of soot and electrical arcing, de-energising the electrical circuit manually before sufficient current went to ground negated the Electrical Load Control Unit from tripping.
+it was likely that once the electrical circuit involved was no longer live, the smoke had also stopped.
+on this occasion, discharging the forward lower deck hold fire bottles, although procedurally correct, had nil effect because the source of the electrical arcing was in the sealed zone between the cargo ceiling panel and the passenger floor compartment, not in the hold itself.
+an incorrectly routed electrical wiring harness had led, over several years, to it chafing against the forward hold ceiling liner retainer screws with electrical current from the chafed wire then dispersing through the passenger floor carbon fibre beam through which it passed.
+the electrical current generated sufficient heat for 14 of the cargo ceiling ‘PEEK’ resin standoff brackets to be heat damaged and several areas of the structural carbon fibre beam to be chafed and delaminated.
+the smoke generated from the arcing was of such a magnitude that it migrated through the forward hold ceiling liner into the forward cargo compartment and activated the forward cargo fire detection system.
+
+Safety Action taken by Boeing as a result of the event and known to the Investigation prior to its completion was noted as having included the following:
+
+Issue of a Service Bulletin recommending operators of all Boeing 777 aircraft up to and including aircraft line number 1527 to inspect for and correct similar conditions to those that led to the investigated event - wire bundles in lower deck holds chafing on ceiling liner nut plates, warning that if this service bulletin is not followed “wire chafing can result in a short circuit and a system failure”.
+Additional spacing will be added to new aircraft when wire bundles are in close proximity to ceiling liner screws.
+All new aircraft with effect from production line number 1529 are being inspected for correct installation of wire bundle runs.
+
+The Safety Message derived from this Investigation was formally recorded as follows:
+“Despite complex systems of design and manufacturing, training, and quality control, errors do occur during manufacturing that may not be apparent for some time. In this case, the aircraft was manufactured 4 years prior to the incident.
+While this was a serious incident, the severity of the damage sustained was minimised through regulatory design requirements, material composition, system protections and crew actions. In response to this, and four other incidents, the aircraft manufacturer utilised their system of communication to alert all operators of the issue and took actions in an effort to prevent reoccurrence. Regardless of this, operators and maintenance providers are another line of defence for detecting errors. Due diligence during scheduled aircraft maintenance and defect rectification will assist with ensuring that aircraft systems meet the design intent and function accordingly.”
+The Final Report was released on 22 August 2018. No Safety Recommendations were made.
+Related Articles
+
+Smoke
+Airworthiness
+Aircraft Electrical Systems
+Aircraft Fire Detection Systems
+Precautionary Rapid Disembarkation

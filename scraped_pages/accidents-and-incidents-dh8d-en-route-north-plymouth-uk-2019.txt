@@ -1,0 +1,347 @@
+DH8D, en-route, north of Plymouth UK, 2019
+
+
+
+
+
+
+
+
+
+
+
+  DH8D, en-route, north of Plymouth UK, 2019
+
+
+
+
+
+
+
+
+
+Summary
+
+On 14 November 2019, a Bombardier DHC8-400 experienced roll control difficulties after takeoff. These were manageable but it was decided a precautionary diversion should be made and this was accomplished without any significant roll control difficulty. The Investigation found that the right wing aileron control cable had failed due to undetected wear and that an option to fit an upgraded cable had not been taken. It also found the aircraft had a history of an intermittently unresponsive right aileron and discovered that signal noise filters which smoothed recorded data for all three primary flight control channels compromised FDR data value.
+
+
+
+
+Event Details
+
+When
+
+14/11/2019
+
+
+
+Event Type
+
+
+AW,
+              HF,
+              LOC
+
+
+
+
+Day/Night
+
+Night
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOMBARDIER Dash 8 Q400
+
+
+
+
+
+
+
+
+
+Operator
+
+Flybe
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Cornwall Airport Newquay
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+London Heathrow Airport
+
+
+
+
+
+
+
+Actual Destination
+
+
+
+
+Exeter International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Climb
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+General
+
+Tag(s)
+
+
+              En-route Diversion,
+              CVR overwritten
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Procedural non compliance
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Significant Systems or Systems Control Failure
+          
+
+
+
+
+EPR
+
+Tag(s)
+
+
+              PAN declaration
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Flight Controls
+          
+
+
+
+Contributor(s)
+
+
+              Component Fault in service
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Airworthiness
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 14 November 2019, a Bombardier DHC8-400 (G-FLBE) being operated by Flybe on a scheduled domestic passenger flight from Newquay to London Heathrow experienced roll control difficulties soon after takeoff in night VMC. On levelling at FL200, the issues were reviewed and it was decided to declare a ‘PAN’ and make a precautionary diversion to Exeter and this was then accomplished without significant worsening of the problem. 
+Investigation
+After a delay in notification of the event, a Field Investigation was carried by the UK AAIB. Relevant FDR data was available but relevant data from the 2 hour CVR was overwritten because it had not been electrically isolated after the aircraft arrived at Exeter. It was noted that the 51 year-old Captain had a total of 8,778 hours flying experience including 5,257 hours on type. The First Officer had recently been employed by the operator as a direct entry Captain and was required by their procedures to complete three months as a First Officer before transitioning to command status. 
+What Happened 
+The Captain was PF for the departure due to adverse strong winds but intended to hand control to the First Officer at a suitable point once airborne. At 1,000 feet aal, the Captain engaged the AP and passed control to the First Officer who set an appropriate en-route heading. The First Officer stated that having felt that the aircraft had “struggled” to maintain the right turn which this heading required, he had informed the Captain of “an issue with the controls” and pointed out that the control yoke was deflected significantly to the right with the wings level to an extent estimated by the Captain to have been 30° to 40°. 
+The Captain briefly took control noting the control yoke displacement did not change when the AP was disconnected. He considered that when flown manually the aircraft felt in trim and there was no unusual feedback through the controls. The AP was reselected, and control passed back to the First Officer. After stopping the climb at FL200, it was decide to divert to Exeter. As descent began, the First Officer noticed that the amount of control deflection required to keep the wings level was increasing. The crew advised that the QRH was consulted but no relevant checklist was found but it was subsequently noted during the Investigation that it contained a procedure for “Roll Control Malfunction” (see below) which the aircraft manufacturer advised was relevant. A precautionary ‘PAN’ was declared to ATC.
+The Captain concluded that given that the control yoke was deflected to the right, it would be preferable to fly left turns whilst positioning to land and a corresponding request was made to ATC. As the flight neared Exeter, the cabin was not ready for landing and so a request to hold was made to enter the hold. As airspeed reduced, the outboard spoilers became active and the control yoke deflection was observed to reduce. Once the cabin had been secured, the aircraft was positioned onto a left hand downwind leg for an approach to Runway 08 and the Captain took over as PF. On disconnecting the AP, he recalled a slight pull to the right on the control yoke but felt that the aircraft was completely controllable. The approach and landing were uneventful, and a normal landing after 40 miutes airborne followed.
+
+The QRH Roll Control Malfunction Checklist. [Reproduced from the Official Report]
+Post flight inspection of the roll control system found that the lower left aileron cable had broken just outboard of the left engine where it passed over a pulley to accommodate a change in the wing dihedral (see the illustration below).
+
+The broken aileron cable and its associated pulley. [Reproduced from the Official Report]
+Why It Happened
+It was noted that roll control was enabled by a combination of ailerons and roll spoilers. The latter consist of an inboard and outboard hydraulically powered spoiler on each wing. The inboard spoilers operate across the full speed range but the outboard spoilers automatically de-activated as the speed rises above 170 knots and reactivated as the speed reduces through 165 knots. The position of all four roll spoilers is displayed to the flight crew. The left control column is connected to the roll spoiler control circuit and the right one to the aileron control circuit. For normal operations the connected control columns mean that either one operates both ailerons and roll spoilers.
+    
+The aileron and roll spoiler control cables were routed along the wing rear spar and were both closed-loop circuits consisting of upper and lower cables with turnbuckles to set a nominal tension of 97 lb (+/- 2.5 lb) which could be adjusted in accordance with the AMM for variations due to local air temperature. Immediately outboard of each engine, where the failure occurred, it was noted that pulleys alter the cable direction by approximately 3° to accommodate a change in the wing dihedral.  
+FDR data indicated that the aileron cable break had not been present during the earlier approach and landing but had been present during takeoff and thereafter. The aircraft manufacturer stated that the data showed that the position of the left aileron and control of it was dependent on a number of factors including the aircraft speed and the direction of turn. In particular, when the control yoke was moved to the left, the intact cable on the left aileron “would pull the surface upwards”, but when it was moved to the right, “the tension in the intact cable would reduce and the aileron would be moved by aerodynamic loads”. The manufacturer confirmed that the aircraft had sufficient roll authority with the left aileron in the most adverse position and that was the justification for such a failure of an aileron control cable being assessed as “minor” during type certification.
+The removed failed cable, which was subject to ‘on-condition’ maintenance and had been fitted for six years and flown approximately 13,000 hours, left a residue on a cloth when wiped and had a heavy accumulation of dirt where the aileron and spoiler cables ran along the inboard section of the rear spar. A detailed examination of the failed cable and its associated pulley using optical and scanning electron microscopes found all wire failure within the cable was attributable to progressive in-service wear rather than to any “manufacturing anomalies, corrosion or fatigue”. 
+In the absence of any evidence to the contrary, it was considered that the cable had either failed during landing at Newquay on the previous flight or during the subsequent takeoff. Although the former would have made it possible for the pilot performing the pre flight external check to notice that the right aileron was at an unusual angle, since this inspection had been carried out “at night (and) in gusty, showery conditions” it would have been more difficult to detect this abnormality.
+It was noted that a long history of excessive cable wear at the point where this cable had failed had eventually, in 2015, resulted in the issue of optional SB 84-27-68 which introduced modified aileron and spoiler cables with the aim of reducing cable wear at the “critical point” near the pulley wheel and extending the required inspection interval. However this modified cable had not been fitted to the aircraft under investigation.
+The operational implications of a failed aileron cable were considered. It was found that whilst an on-ground failure of the upper cable will cause the aileron to deflect downwards, deflection after such a failure in flight would be dependent on the aerodynamic loads consequent on the speed of the aircraft. The FDR data from the flight was found to show that the left aileron had at times reached a “high trailing edge up” position during the flight under investigation, which would have led to an un-commanded roll that would need to be corrected either by the pilot or by the AP. It was noted that failure of an aileron control cable had been assessed as “Minor” during the certification process on the basis that it “would not significantly reduce aircraft safety and would involve crew actions well within their capabilities”.  
+FDR data also showed that the cable failure had occurred when the aircraft had been experiencing repetitive periods in flight during which the right aileron did not respond to control yoke movements both during the flight under investigation and during a succession of those which preceded it. The operator had not established the cause of this issue (which was also found to be affecting 36 other aircraft in their DHC8-400 fleet) before it ceased trading early in 2020.
+The flight crew’s non use of the applicable QRH Checklist was reviewed. It was noted that their statement that the control yoke had to be displaced by up to 40° to the right to maintain level flight was effectively characterising the problem encountered as an uncommanded roll to the left. It was noted that the applicable Checklist commenced with an instruction to hold the wings level and then (since the spoiler 1/2 captions had not illuminated) to “apply power and increase airspeed” although with no guidance as to how much. The manufacturer advised that the purpose of increasing airspeed was to improve roll authority with the remaining controls. It was noted that the second part of the Checklist covered landing and directed the crew to land at an airport with minimal crosswind. It also suggested the use of flap 15 or 35, but the aircraft manufacturer stated that the aircraft was cleared to land with flaps set to 10, 15 or 35 and it was only the operator’s version of the QRH that suggested avoiding of flap 10. It was further noted that the Checklist also directs the use of the non-normal LDR table in the QRH but since it was not used, the normal VREF and landing distance were used but since the Exeter runway used was longer than the increased LDR, this had no consequences. 
+Finally, extensive use of FDR data on flight control movement during the Investigation highlighted a previously identified problem arising from the use of non-reversible filters to smooth out the detected position of primary flight control command inputs via both the control columns and the rudder pedals which prevented the actual control surface positions being reliably reconstructed. This issue had been resolved by FAA regulatory action in 2010 which applied to this aircraft type but corresponding European action had been absent despite previous AAIB Safety Recommendations made in 1999 having been accepted. It was, however, noted that the applicable ICAO SARPs under Annex 6 Part 1 which cover the construction and operation of FDR systems do not cover the issue.
+The Conclusion of the Investigation was as follows:
+The most probable reason for the aileron cable breaking was that its strength had reduced as a result of wear leading to the failure of individual wires within the cable. The cable failed where it passed over a pulley on the rear wing spar where dirt accumulates which can penetrate into the strands and form an abrasive compound. This can accelerate the normal rate of cable wear. Post-modification cables are available which have a sleeve fitted over the susceptible section to prevent the ingress of dirt. The Investigation established that the inspection procedure in the AMM would not have detected the damage to individual wires that run inside the cable.  
+[Although] the unresponsive right aileron on the aircraft was not causal to this Serious Incident [...] further investigation is required to determine if there is a wider safety issue.
+Filters applied to some of the flight control parameters recorded on the FDR can affect the reconstruction of the rapid movement of the controls. Such filters are not permitted to be installed on the DHC-8-400 aircraft registered in the USA, but there is no similar requirement on aircraft registered in Europe or the UK. While this did not affect this Investigation, this could affect others safety investigations.
+
+Three Safety Recommendations were made as a result of this Investigation as follows:
+
+that Transport Canada require De Havilland Canada to determine why the aileron control surfaces on the DHC-8-400 series of aircraft can become unresponsive to control yoke movements and ensure that the findings and any rectification action is promulgated to operators. [2020-024]
+that The European Union Aviation Safety Agency require that the flight data recorder system fitted to DHC-8-400 series of aircraft registered in the United Kingdom record unfiltered data for the parameters representing primary flight control input positions and input forces, so that their original sensor signal values can be reliably established.
+that The International Civil Aviation Organisation provide guidance on the recording of filtered parameters by the flight data recorder system. The guidance should address as a minimum:
+
+Definitions for filtered and unfiltered parameters.
+Parameters on the FDR for which filtering is not permitted.
+The need to be able to reconstruct the original sensor signal values from filtered data recorded during extremely dynamic conditions and that the information to achieve this is a permanent part of the aircraft specific FDR system documentation package.
+
+
+
+The Final Report was published on 15 October 2020.
+Related Articles
+
+Loss of Control
+Ailerons
+Flight Controls
+Quick Reference Handbook (QRH)

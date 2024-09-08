@@ -1,0 +1,131 @@
+Consol
+
+
+
+
+
+
+
+
+
+
+
+  Consol
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sonne
+Consolan
+History
+Consol ("by the sun") was the name given by the British to a German long range navigation system called Sonne ("sun") which was developed during World War II. The Germans used Sonne as a both a navigation aid and a bomb release point aid for their bomber aircraft fleets and as a navigation aid for their U-boats operating in the North Atlantic. When the British became aware of the merits and, for the time, the relatively high accuracy of Sonne, they too used the system, referring to it as Consol, to hunt for those same submarines. After the war ended, the original German transmission stations were kept in service and new stations were built to expand system coverage. Development and progressive accuracy improvements of more user friendly systems, such as LORAN-C and Omega, gradually reduced the popularity of the Consol system. Shut down of the last Consol station occurred in the early 1990's.
+Description
+Fundamentally, Consol falls within the definition of a hyperbolic navigation system as a line of position (LOP) was derived from the difference in arrival times of synchronised transmissions. However, it was actually an example of a 'collapsed' hyperbolic system wherein the baseline between the transmitting aerials was made so short that the hyperbolae created degenerated into radials at a very short distance making it more of a bearing system than a hyperbolic one. Each Consol station operated independently and consisted of a transmission system and three closely spaced antennae. Only a basic radio receiver was required for Consol as time difference in the signal was determined by counting a series of dots and dashes which corresponded to a position line on a pre-published chart. As only a single line of position could be determined from a given Consol station, a second station, or a different navigation aid, was required to generate a second LOP which intersected with the first enabling the current position to be determined.
+Signal Transmission
+Consol used three aerials positioned in a straight line and spaced approximately 1000m apart or about three wavelengths at the operating frequency of 300 kHz. An identical signal was fed to all three of the aerials with the signal strength greater at the centre antenna. At one outer aerial, the signal was initially delayed by 90 degrees of phase while at the other outer aerial it was initially advanced by 90 degrees relative to that at the centre antenna. As a consequence of this phase shift, the interaction of the three aerials produced multiple lobes with deep nulls between them. By steadily changing the phase shift in the two outer aerials (further delaying one whilst simultaneously advancing the other) so that it interchanged every 30 seconds, these lobes were caused to sweep. The phase of the transmissions from the outer antenna was also switched at a very much faster rate in synchronism with a Morse pattern of dots and dashes, the effect being that each lobe carried only either dots or dashes and was replaced by its complement over the 30 second period. During each 30 second period, a total of 60 dot/dash patterns was transmitted. Each time the transmission from the two outer aerials were in antiphase (180 degrees out of phase) their signals would cancel each other out leaving only the signal from the centre antenna. At that moment, a user would hear neither dots nor dashes, only the signal from the centre antenna known as the equisignal. The multiple equisignals produced by the sweeping lobes of the system defined hyperbolic lines of position. The time lapse between the start of the 30 second transmission cycle and the equisignal (as determined by the dot or dash count) identified the LOP on which the receiver was located.
+Using Consol
+Operational use of Consol was relatively straight forward. The only necessary equipment for use was a standard radio receiver that was capable of operating on the transmitter frequency. A Radio Direction Finder (RDF) loop antenna also could be used to establish a rough receiver position but was not strictly required.
+Consol stations commenced their transmission sequence by stopping the phase shifted transmissions from the outer antennae and using only the centre aerial to broadcast the station identifier in Morse code. With RDF capablity, this segment of the broadcast signal could be used by the navigator to determine an approximate bearing to the Consol station. Upon completion of the station identifier transmission, the phase shifted transmission from the two outer antennae would resume for a period of 30 seconds and with it, the dot-dash keying signal. Listening on the transmitted frequency, the navigator heard a series of dots slowly merging into the steady tone of the equisignal and then becoming a series of dashes (or dashes becoming dots). He simply had to count how many dots or dashes he could hear before the equisignal and then plot his position line on a suitably overprinted map.
+In practice, however, the occurrence of the equisignal was not always a clearly defined moment in time. Under poor signal conditions, a number of dots or dashes immediately before and after the equisignal might not be clearly heard. It was therefore common practice to count both the dots and the dashes knowing that the total should be 60. Any shortfall in the count was assumed to be half dots and half dashes and the count prior to the equisignal was adjusted accordingly prior to using a Consol chart to plot the position. For example:
+
+Actual count = 18 dots and 36 dashes
+Lost count = 60 - (18 +36) = 6 (or 3 dots and 3 dashes)
+Corrected count = 21 dots and 39 dashes
+
+In this example, it would be the 21 dots that defined the LOP as it is the timing before the equisignal that was used.
+Related Articles
+
+Hyperbolic Navigation
+Global Positioning System (GPS)
+Omega
+LORAN-C
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

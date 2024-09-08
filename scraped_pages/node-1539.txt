@@ -1,0 +1,284 @@
+Pilot Report (PIREP)
+
+
+
+
+
+
+
+
+
+
+
+  Pilot Report (PIREP)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PIREP
+Description
+A Pilot Report or PIREP is a report of the actual weather conditions as encountered by an aircraft in flight. Traditionally, these reports are transmitted by radio to an appropriate ground station for dissemination but, when necessary, they can be made by telephone after landing. More recently, appropriately equipped aircraft can automatically send meteorological reports using the Aircraft Meteorological Data Relay (AMDAR) programme.
+The Need
+Hazardous weather exists in many forms inclusive of turbulence, in-flight icing and thunderstorms. Pilots encountering any of these phenomena can contribute to the safety of flight for other aircraft by reporting the time, location and intensity of the encountered threat.
+The Process
+PIREPs are encouraged in virtually all airspace. In some parts of the world, air traffic facilities are required to solicit PIREPs when any of the following conditions are reported or forecast:
+
+ceilings at or below 5,000 feet
+visibility at or below 5 miles (surface or aloft)
+thunderstorms and related phenomena
+icing of light degree or greater
+turbulence of moderate degree or greater
+wind shear
+reported or forecast volcanic ash cloud
+
+Pilots are urged to cooperate and promptly volunteer reports of these conditions and other atmospheric data such as: 
+
+cloud bases, tops and layers
+flight visibility
+precipitation
+visibility restrictions such as haze, smoke and dust
+wind at altitude
+temperature aloft
+
+The ground station receiving the Pilot Report will format and disseminate the information to all concerned parties. Beyond advising other aircraft in the immediate area of the hazard, the PIREP is used:
+
+by ATS for hazardous weather avoidance procedures
+by the flight service centres to brief other pilots, to provide inflight advisories, and weather avoidance information to enroute aircraft
+by the area control centre to expedite the flow of enroute traffic, to determine most favorable altitudes, and to issue hazardous weather information within the center’s area
+by the national weather service to verify or amend the aviation forecast. In some cases, pilot reports of hazardous conditions are the triggering mechanism for the issuance of advisories
+by the national weather service, other government organizations, the military, and private industry groups for research activities in the study of meteorological phenomena
+
+The Report
+When providing a PIREP, the pilot should strive to be as accurate as possible. Mandatory information includes the location (normally reference a navigation aid or fix, the time, the altitude and the aircraft type followed by a description of the hazard. When describing the intensity of icing or turbulence, the pilot should use the standard definitions as per the National Aviation Authority (NAA) AIPs or other appropriate publication. The ground station receiving the PIREP will then code the information in a standardised format for dissemination.
+The PIREP Code Chart
+A Pilot Report is coded for transmission in accordance with the following table.
+  
+
+
+
+ 
+PIREP ELEMENT
+PIREP CODE
+CONTENTS
+
+
+
+
+1
+3−letter station identifier
+XXX
+Nearest weather reporting location to the reported phenomenon
+
+
+2
+Report type
+
+UA or UUA
+(may vary by country)
+
+Routine or Urgent PIREP
+
+
+3
+Location
+/OV
+In relation to a VOR
+
+
+4
+Time
+/TM
+Coordinated Universal Time
+
+
+5
+Altitude
+/FL
+Essential for turbulence and icing reports
+
+
+6
+Aircraft Type
+/TP
+Essential for turbulence and icing reports
+
+
+7
+Sky cover
+/SK
+Cloud height and coverage (sky clear, few, scattered, broken, or overcast)
+
+
+8
+Weather
+/WX
+Flight visibility, precipitation, restrictions to visibility, etc
+
+
+9
+Temperature
+/TA
+Degrees Celsius
+
+
+10
+Wind
+/WV
+Direction in degrees magnetic north and speed in knots
+
+
+11
+Turbulence
+/TB
+As per AIP definitions
+
+
+12
+Icing
+/IC
+As per AIP definitions
+
+
+13
+Remarks
+/RM
+For reporting elements not included or to clarify previously reported items
+
+
+
+Example Pilot Reports
+The following are examples of PIREPS with decode provided:
+KCMH UA /OV APE 230010/TM 1516/FL085/TP BE20/SK BKN065/WX FV03SM HZ FU/TA 20/TB LGT
+
+KCMH - Closest weather reporting airport (Columbus Ohio)
+UA - Routine PIREP
+/OV APE 230010 - location one zero miles southwest of Appleton VOR
+/TM 1516 - time 1516 UTC
+/FL085 - altitude eight thousand five hundred
+/TP BE20 - aircraft type Beech 200 Super King Air
+/SK BKN065 - base of the broken cloud layer is six thousand five hundred
+/WX FV03SM HZ FU - flight visibility 3 miles with haze and smoke
+/TA 20 - air temperature 20 degrees Celsius
+/TB LGT - light turbulence
+
+UACN10 CYXU 271338 YZ UA /OV CYYZ 180055 /TM 1338 /FLDURD /TP A319 /TB MDT 200-240 /IC MDT MXD 040-050
+
+UACN10 - Routine PIREP (Canadian coding)
+CYXU 271338 - Issuing airport (London Ontario) issued the 27th at 1338 UTC
+UA - Routine PIREP
+/OV CYYZ 180055 - location fifty five miles south of Toronto Airport
+/TM 1338 - time 1338 UTC
+/FLDURD - altitude - during descent
+/TP A319 - aircraft type Airbus A-319
+/TB MDT 200-240 - turbulent moderate between FL200 and FL240
+/IC MDT MXD 040-050 - moderate mixed icing between 4000' and 5000'
+
+Related Articles
+
+Aircraft Meteorological Data Relay (AMDAR)
+In-Flight Icing
+Turbulence
+
+Further Reading
+NAV Canada
+
+Current Canadian PIREPs
+
+US National Weather Service
+
+Current USA PIREPS
+
+NTSB
+
+Special Investigation Report: Improving Pilot Weather Report Submission and Dissemination to Benefit Safety in the National Airspace
+
+
+
+
+
+Categories
+
+
+General,
+              Weather
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

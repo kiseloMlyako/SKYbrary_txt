@@ -1,0 +1,127 @@
+SE034: Displays and Alerting Systems
+
+
+
+
+
+
+
+
+
+
+
+  SE034: Displays and Alerting Systems
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+CAST Safety Enhancements 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ CAST
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ CAST
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Status: COMPLETED
+Background
+This safety enhancement reduces fatal accidents due to loss of control, display and alerting systems in new airplane designs should include:
+
+Graphic speed trend information
+A pitch limit indication
+Bank angle limits to buffet
+Barber poles and amber bands on primary airspeed indications
+Detection and annunciation of conflicting attitude, airspeed and altitude data information
+Detection and removal of invalid attitude, airspeed and altitude data information (i.e.. from an internal fault)
+Detection and removal of misleading attitude, airspeed and altitude data information (e.g., from an external sensor fault) to the extent feasible
+Information to perform effective manual recovery from unusual attitudes using chevrons, sky pointers, and/or permanent ground-sky horizon on all attitude indications
+Salient annunciation of autoflight mode changes and engagement status changes (e.g., blinking/colored/boxed mode information)
+Effective sideslip information and alerting of excessive sideslip (e.g., split trapezoid on attitude indicator)
+Clear annunciation of engine limit exceedances and significant thrust loss.
+
+Related Implementation Plan
+Detailed Implementation Plan
+Related Outputs
+Federal Aviation Administration (FAA) Advisory Circular AC 25-11A, Electronic Flight Deck Displays was revised to include recommendations developed by the Task Avionics Working Group (ASHWG) Aviation Rulemaking Advisory Committee (ARAC). This AC provides guidance for showing compliance with certain requirements of Title 14, Code of Federal Regulations (CFR), part 25, as well as general guidance for the design, installation, integration, and approval of electronic flight deck displays, components, and systems installed in transport category airplanes.
+
+
+
+
+Categories
+
+
+CAST Safety Enhancements,
+              CAST Safety Enhancements Plan
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

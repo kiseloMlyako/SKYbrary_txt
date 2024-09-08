@@ -1,0 +1,148 @@
+Aircraft Classification Number (ACN)
+
+
+
+
+
+
+
+
+
+
+
+  Aircraft Classification Number (ACN)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Aircraft Classification Number (ACN) is a number that expresses the relative effect of an aircraft at a given configuration on a pavement structure for a specified standard subgrade strength.
+Source: FAA AC 150/5335-5
+Description
+The ACN expresses the effect of individual aircraft on different pavements by a single unique number, which varies according to pavement type and subgrade strength, without specifying a particular pavement thickness. It is is twice the derived single-wheel load expressed in thousands of kilograms, with single-wheel tire pressure standardized at 1.25 megapascals (= 181 psi). Additionally, the derived single-wheel load is a function of the sub-grade strength. Four subgrade categories are defined (high, medium, low, and ultra low) for each pavement type (flexible or rigid).
+The ACN of an airplane is a function of not only its weight but also the design parameters of its landing gear such as the distances between the wheels of a multiple-wheel landing gear assembly.
+ACN values for selected aircraft have been calculated by International Civil Aviation Organisation (ICAO). Manufacturers are required to calculate the ACN for a new aircraft as it comes into service and publish the results in the flight manual. The tables give ACN values for two weights, one at the maximum total weight authorized and the other at the operating weight when empty. If an aircraft is operating at an intermediate weight, the ACN value can be calculated by a linear variation between the limits. Extrapolation is not permissible.
+The flexible pavements have four subgrade categories:
+
+A. High Strength – CBR 15 (All CBR above 13%).
+B. Medium Strength – CBR 10 (For CBR between 8% to 13%).
+C. Low Strength – CBR 6 (For. CBR between 4% to 8%).
+D. Ultra Low Strength – CBR 3 (For CBR below 4%).
+
+Note: The California bearing ratio (CBR) is a penetration test for evaluation of the mechanical strength of natural ground, subgrades and base courses beneath new carriageway construction. It is performed by measuring the pressure required to penetrate soil or aggregate with a plunger of standard area. The measured pressure is then divided by the pressure required to achieve an equal penetration on a standard crushed rock material. The result is then multiplied by 100 and given as percentage.
+The rigid pavements have four subgrade categories:
+
+A. High Strength – Subgrade k = 150 MN/m3 (All k values above 120 MN/m3).
+B. Medium Strength – k = 80 MN/m3 (For values between 60 and 120 MN/m3).
+C. Low Strength – k = 40 MN/m3 (For values between 25 and 60 MN/m3).
+D. Ultra Low Strength – k = 20 MN/m3 (All k values below 25 MN/m3).
+
+Example:
+Aircraft: A320-200. ACN at maximum weight (725 kN):
+
+Flexible pavement subgrades: A - 37; B - 39; C - 44; D - 50;
+Rigid pavement subgrades: A - 40; B - 43; C - 45; D - 48;
+
+ACN at minimum weight (402 kN):
+
+Flexible pavement subgrades: A - 19; B - 19; C - 21; D - 25;
+Rigid pavement subgrades: A - 20; B - 21; C - 23; D - 24;
+
+Related Articles
+
+Pavement Classification Number (PCN)
+ICAO Aerodrome Reference Code
+
+Further Reading
+
+Aircraft Classification Numbers (ACNs)
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,311 @@
+B748, vicinity Hong Kong China, 2017
+
+
+
+
+
+
+
+
+
+
+
+  B748, vicinity Hong Kong China, 2017
+
+
+
+
+
+
+
+
+
+Summary
+
+On 24 September 2017, a Boeing 747-8UF, which had just made an easterly takeoff from Hong Kong on a moonless night but in good visibility, deviated from its correctly acknowledged SID clearance towards steep terrain and a resultant EGPWS PULL UP Warning was immediately actioned resulting in a terrain clearance of approximately 670 feet. The Investigation found that the SID track deviation was caused by the inadvertently incorrect input of a SID clearance which was supposed to be issued only to locally-based operators whereas the flight concerned was being operated by a foreign operator on behalf of a locally-based one.
+
+
+
+
+Event Details
+
+When
+
+24/09/2017
+
+
+
+Event Type
+
+
+CFIT,
+              HF
+
+
+
+
+Day/Night
+
+Night
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 747-8
+
+
+
+
+
+
+
+
+
+Operator
+
+Atlas Air
+
+
+
+Type of Flight
+
+Public Transport (Cargo)
+
+
+
+Flight Origin
+
+
+
+
+Hong Kong International Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Anchorage
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Climb
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+VHHH
+
+
+
+
+General
+
+Tag(s)
+
+
+              Copilot less than 500 hours on Type,
+              Extra flight crew (no training),
+              CVR overwritten
+          
+
+
+
+
+CFIT
+
+Tag(s)
+
+
+              Lateral Navigation Error
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Pre Flight Data Input Error,
+              Inappropriate crew response (automatics),
+              Ineffective Monitoring - PIC as PF
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 24 September 2017, a Boeing 747-8UF (N856GT) being operated by Atlas Air with an augmented crew for Cathay Pacific Airlines on a cargo flight from Hong Kong to Anchorage USA as CPA86 with one positioning company pilot who was not type-rated also on the flight deck deviated from its SID clearance shortly after takeoff from runway towards rising terrain. ATC observed the deviation and instructed the flight to turn left to regain it but a Mode 2A EGPWS PULL UP Warning occurred and was immediately actioned with terrain clearance achieved.
+Investigation
+An Investigation was opened by the Accident Investigation Division of the Civil Aviation Department of the Government of the Hong Kong SAR and transferred to the newly established Air Accident Investigation Authority (AAIA) in 2018. Recorded FDR and CVR data relevant to the Investigation was unavailable but the aircraft operator provided a flight animation based on QAR data and an annotated recreation of the aircraft ground track during the deviation. 
+It was noted that the Captain, who had been PF for the sector concerned, had a total of 31,970 flying hours which included 14,070 hours at the operator on type variants. The First Officer had a total of 11,898 flying hours which included 77 hours on type at the operator and previous experience on the Embraer ERJ170/190 and the CL65. A more senior First Officer who had a total of 15,932 flying hours which included 982 hours on type at the operator and previous experience on the Lockheed 382 and the Embraer 120 was designated as the Relief First Officer (RFO) and occupied one of the supernumerary crew seats on the flight deck for takeoff and climb. A fourth company pilot who was not type rated on the 747-8 was occupying the other flight deck supernumerary crew seat as a passenger. 
+What happened
+When the crew boarded the aircraft, the RFO started to do the upper-deck pre-flight duties while the junior First Officer carried out the external pre flight check. On completing the external check, the junior First Officer, who had no previous experience of operations out of Hong Kong, returned to the flight deck and “assumed the right seat as the PM”. Although the Captain had assumed that the RFO, who had previous experience of Hong Kong operations, would therefore take the First Officer’s seat for the departure, he “accepted the arrangement without comment”. 
+Noting that runway 07R could be expected for departure, the Captain prepared for the ATIS-advised RNAV 1 SID ‘RASSE 3A’ (see the illustration below) and gave a corresponding preliminary departure briefing to the First Officer. He had already loaded the company-filed flight plan, which did not include the expected SID, in the FMC. The PM did not carry out an independent verification of the route. The crew then attempted to obtain a Data Link Departure Clearance but eventually received a voice clearance from ATC for a ‘RASSE 1E’, a Radius-to-Fix (RF) SID with which the crew were unfamiliar and which was only intended to be offered to operators based in Hong Kong but given because the flight was operating under a Cathay Pacific callsign. Also, according to the relevant Jeppesen Airport Briefing Page consulted by the crew, any approved aircraft planning to fly an RF SID must explicitly request this which, since the crew involved were not familiar with such SIDs, was not done. 
+
+The RASSE 3A SID. [Reproduced from the Official Report]
+
+ 
+The RASSE 1E RF (Radius-to-Fix) SID. [Reproduced from the Official Report]
+When the Captain selected and programmed the RASSE 1E SID in the FMC, the initial waypoint of the (conventional) RASSE 3A SID, the ‘flyover’ waypoint PORPA was after brief discussion, mistakenly deleted so that the routing was an unrestricted turn direct to the new waypoint PORSH. At this time, both pilots had their NDs (Navigation Displays) selected to the ‘Airport Moving Map’ mode for taxiing purposes and did not change their NDs to the MAP mode to show the SID track as entered. Had they done so, it would have appeared as shown in the right hand illustration below, which would have alerted the crew to the erroneous input. It was also noted by the Investigation that the Warning on the RASSE 3A chart about not turning towards RAMEN before crossing PORPA was not replicated on the RASSE 1E RF SID because “radius-to-fix capability will ensure aircraft flying a RASSE 1E SID tracks overhead PORPA”. 
+
+The RASSE 1E SID correctly entered (left) and with waypoint PORPA incorrectly deleted (right). [Reproduced from the Official Report]
+There was no discussion about the departure amongst the crew during the subsequent taxy out or whilst they were completing the ‘Before Takeoff’ Checklist and the ‘Takeoff/Departure Review’. Both operating crew recollected having changed their NDs to ‘MAP’ mode as the aircraft was turning onto the runway and both had simultaneously increased the display range. Both the unusually angular depiction of the initial legs of the SID and the immediate deviation of the first leg to the right at the end of the runway would have easily gone unnoticed when viewed at a MAP mode scale suitable for en route use. 
+Once the aircraft became airborne, the almost immediate commencement of a right turn towards the first active waypoint, PORSH did not lead to any crew response and climbing through approximately 1,800 feet QNH, the Captain asked the PM to select AP1 to command as the aircraft continued towards the high ground at Lo Fu Tau. ATC then informed the flight that it was off track and instructed it to turn left to resume the SID and the Captain began to make a HDG Select change whilst leaving VNAV mode engaged. Soon afterwards, ATC advised the flight of terrain to the right of the aircraft and instructed it to expedite the climb to 5,000 feet QNH. Almost immediately, an EGPWS ‘TERRAIN, TERRAIN PULL UP’ (Mode 2A) Warning occurred and the Captain immediately disconnected the AP “and increased pitch and thrust”. The aircraft subsequently passed over the terrain with a clearance of approximately 670 feet and subsequently re-established on the SID track and continued without further event. It was noted that no other air traffic was affected by the track deviation which is depicted in the illustration below. 
+
+The aircraft track towards and over terrain with height annotations.[Reproduced from the Official Report as supplied by Atlas Air] 
+It was noted that Atlas Air SOPs did not required that the TERRAIN page was superimposed on the MAP display mode for the Before Takeoff Checklist and Takeoff/Departure Review. It was also noted that the Boeing 747 Flight Crew Training Manual (FCTM) included a recommendation that the ND terrain display be used during night operations and/or on departure as a means to enhance terrain/situational awareness.    
+The Cause of this Serious Incident was recorded as “modification of the RF SID RASSE 1E while programming the SID into the FMC by overwriting waypoint PORPA thereby making PORSH the first active waypoint”.
+Three Contributory Factors were also documented:
+
+CRM - assignment of the First Officer's duties and lack of communication amongst the crew on the subject.
+The crew accepted the RF SID RASSE 1E with which they were not familiar.
+The SID course and the first active waypoint were not verified.
+
+Safety Action taken by Atlas Air whilst the Investigation was in progress and known to it included, but was not limited to, the following:
+
+Company Jeppesen pages have been created for Hong Kong Airport to highlight procedures  and threats. 
+A ‘must read’ Operations Bulletin was issued to prohibit the modification of RNAV procedures. 
+A “Release Remark” was included in all Hong Kong departure flight plans requiring contact with dispatch for an airport specific briefing.
+The Flight Crew Operations Manual (FCOM) was revised to require that:
+
+all approaches/departures must be retrievable from the FMC Navigation Database and waypoints cannot be added or deleted.
+ND Range must be increased prior to takeoff to verify first fix/waypoint and track altitude and speed as required. 
+One pilot must display ‘TERRAIN’ on the ND at any airport where terrain represents a potential safety issue.
+
+
+
+Two Safety Recommendations were made at the conclusion of the Investigation as follows:
+
+that Atlas Air should not permit crew modifications to any SIDs. [08-2021]
+that Atlas Air review their FCOM to ensure that discrepancies between the flight plan and the ATC route clearance do not exist prior to takeoff. [09-2021]
+
+The Final Report was published in September 2021.
+Related Articles
+
+SIDs and STARs
+Flight Management System
+Terrain Awareness
+Crew Resource Management (CRM)
+Controlled Flight Into Terrain (CFIT)

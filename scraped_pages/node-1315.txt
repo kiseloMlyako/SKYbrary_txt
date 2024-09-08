@@ -1,0 +1,171 @@
+Flight Progress Strips
+
+
+
+
+
+
+
+
+
+
+
+  Flight Progress Strips
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+"Electronic or paper strip containing planned and current flight plan data for a specific flight, made avaiable on an electronic display or flight progress board for use by air traffic controllers in the provision of ATS." - Source: EUROCONTROL
+Description
+A flight progress strip (sometimes referred to as "flight strip") presents important information about a flight in a tabular form. It is highly standartised to allow the controller to find the necessary data quickly. The space available is divided into fields that hold specific pieces of information, e.g. aircraft identification, type, transponder code, departure and destination aerodromes, etc. In paper strips the controller can write down pertinent information (clearances, estimates, etc.).
+There is no universal standard for flight strips. Each ANSP or ATSU thereof may design an optimal layout that suits their needs best. In most cases several layouts are used, e.g. one for departing, another for arriving and a third one for transit overflying aircraft when the unit is a Control Tower or Approach. An ACC may choose to have slightly different strips for e.g. eastbound and westbound traffic.
+
+Generic flight progress strip for overflying aircraft
+Different background colours may be used to further stress on the flight strip purpose (e.g. green for departing, blue for arriving traffic).
+
+Generic flight progress strip for departing traffic.
+Strip-sized pieces of paper are commonly used to represent vehicles (on the manoeuvring area) or as memory aids (e.g. work in progress, eqipment failure, runway length temporary reduced, etc.)
+Strip Management
+Strip holders are plastic boots that are designed to accomodate a single paper strip. The holders are then placed on strip boards and arranged in a way that corresponds to the situation. The strip holders may have different colours to denote that a specific strip is inserted into them. This is especially useful if all strips are identical in colour (usually white).
+
+Strip holders can be produced in different colours
+Each ATS unit has developed procedures for strip management. They define the way the strips are moved around to represent the traffic situation and its continuous development.
+For example, in a tower environment, several areas may be designated to accomodate:
+
+Flights that have started up but have not started taxiing yet
+Flights that are in the taxi phase
+Arriving flights for which estimates have been received but are not on the TWR frequency yet
+Arriving flights that are on the TWR frequency and are expecting a landing clearances
+Flights that have been cleared to take off, land or cross the runway
+
+The strip management procedures require the controllers to move the strips around these designated areas, e.g. when a taxiing flight is cleared for take-off, the controller would take the strip from the "taxi" area and place it in the "runway" area. This would serve as a reminder that the runway is occupied and would prevent e.g. an accidental runway crossing clearance.
+Effective strip management is an important barrier for preventing runway incursions. It is also very useful for building the accepting controller's situational awareness during the handover-takeover process.
+Another important part of strip management is strip annotation. Due to the limited space, ATC clearances and other data need to be abbreviated. The symbols and abbreviations are highly standartized so that other controllers can unambiguously interpret them (e.g. up arrow means the aircraft is climbing, a tick before the SID shows that the ATC clearance has been delivered, the letter I represents ILS approach, etc.).
+Electronic Strips
+Paper strips have a number of inherent limitations:
+
+cannot be linked to other systems (e.g. Advanced Surface Movement Guidance and Control System, Safety Nets)
+time consuming to print and update
+no information sharing (if the controller updates a strip, the data can only reach others through verbal coordination)
+updated information can be unreadable due to e.g. poor handwriting/misspelling, lack of discipline (controller input in the wrong field)
+require maintenance - consumables (paper, ink, toner, etc.) need to be changed on a regular basis
+
+Electronic strips have been developed as a response to paper strip limitations. Their look and feel is similar to the paper strips in terms of layout, colours and strip management. Editing strips is usually done similarly to editing fields in the aircraft label in stripless ATM systems.
+Electronic strips offer a number of advantages over the paper ones:
+
+More visualization tools available, e.g.
+
+different colours may represent a field being updated/coordinated with other controller/communicated to the crew, etc.
+different fonts and background shades may be used to highlight specific portions of the flight strip.
+colours may change dynamically to attract attention
+
+
+Can be linked to the ATM system safety features, e.g. if a controller inputs a conflicting clearance, the system may issue an early warning.
+Flight information can be updated and shared (coordinated) instantly
+
+
+Generic electronic strip bay (ESB). Note that specific colours are used for double SSR, NONRVSM state aircraft and RCF SSR code (7600).
+Paper strips have some advantages over their electronic counterparts though:
+
+they are immune to power and software failures
+offer greater flexibility, e.g. all free space can be used for annotations, not just the standard fields
+
+Stripless Systems
+While strips (either paper or electronic) are widely used in the control tower, ACCs have been gradually shifting towards stripless environment for more than 10 years. To achieve this, the information that used to be provided on the strips is integrated into various elements of the ATM systems, such as the aircraft label, windows and lists. Flight lists can contain "all" information about a particular flight, "the most significant" information about all flights that match certain criteria (e.g. are within the sector or are of interest to the sector) or specific information (e.g. all Mode S - derived information). Going paperless is intended to produce less workload for the controllers which in turn would increase their capacity.
+Paper strips still remain as a backup solution for some ACCs even after the introduction of a stripless system.
+Further Reading
+
+ORDER JO 7110.65T, Section 3. Flight Progress Strips (external link)
+MATS part 1, Appendix D: Flight Data Display
+Is Paper Safer? The Role of Paper Flight Strips in Air Traffic Control, a study by Wendy E. Mackay, University of Aarhus
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

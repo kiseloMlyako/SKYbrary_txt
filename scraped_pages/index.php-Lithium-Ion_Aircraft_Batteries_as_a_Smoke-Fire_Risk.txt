@@ -1,0 +1,166 @@
+Lithium-Ion Aircraft Batteries as a Smoke/Fire Risk
+
+
+
+
+
+
+
+
+
+
+
+  Lithium-Ion Aircraft Batteries as a Smoke/Fire Risk
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Fire Smoke and Fumes 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+This article considers the smoke and fire risks associated with large lithium-ion (Li-ion) aircraft batteries. For a full description of the various types of aircraft battery, battery theory, and the function of batteries within the aircraft electrical system, see the separate article on aircraft batteries. For information on the fire risks associated with portable electronic devices powered by much smaller lithium-ion batteries, see the separate article on aircraft fire risk from batteries carried by passengers.
+Use of Large Li-Ion Aircraft Batteries
+Aircraft manufacturers are beginning to move from the use of Nickel Cadmium (Ni-cad) batteries to Lithium Ion(Li-ion) batteries, which can offer greater capacity for less weight and, if required, more opportunities to power aircraft systems which are traditionally operated by other means with electricity. The first manufacturer of large aircraft to have attempted this was Boeing with the Boeing 787.
+The hazards to aircraft safety arising from Li-ion battery use arise from the potential for thermal runaway of one or more cells in such a battery. This overheating can lead to the emission of gas and/or smoke or the spillage of flammable electrolyte. Such possible effects of a malfunction must be mitigated by containment or discharge overboard unless the probability of their occurrence can be shown to be less than appropriately specified certification requirements. It has been considered that overcharging was the only known failure mode that could result in battery cell venting with fire but it is now recognised that cell venting of smoke and/or gas can arise from a range of other causes including external overheating, external short circuiting of appropriate impedance, internal short circuiting, recharging a battery that has been over-discharged, high-rate charging, and charging at cold temperatures.
+In the Boeing 787, which has more electrically powered systems than previous transport aircraft have had, two identical Li-Ion batteries are fitted, one in each underfloor electrical equipment bay. They provide backup power for all systems in the case of any shortfall in the power supplied by the engine-driven generators and supply all required power when the engines are not running on the ground, including APU start capability. Whilst compliance by Boeing with the Special Conditions for Type Certification set by the FAA in 2007 was accepted and a Type Certificate duly granted, the occurrence of two Serious Incidents involving battery overheating in the first 52,000 in-service flying hours called into question the efficacy of that certification process in respect of the batteries and led to a temporary grounding of the fleet pending design modifications to improve safety. These involved reducing the propagation of the effects of cell malfunction to the remainder of an affected battery and at ensuring that any possible hazardous consequences arising from battery malfunction are confined to a fire-, smoke- ,and fume-proof container which is vented directly overboard. The NTSB investigation into the U.S. battery event in Boston found that the size of individual cells within large versions of this type of battery may affect the extent and/or speed of fire propagation should an individual cell overheat for any reason. A review of the way these batteries work, and of the potential they may represent in respect of a fire hazard on in-service aircraft, is included in the references below. It should be noted that the referenced Airbus presentation was given prior to the post 787 grounding decision by Airbus to temporarily revert to Ni-cad batteries for initial certification of the Airbus A350-900 which had initially been intended to enter service with rechargeable lithium batteries installed.
+Lithium Batteries as Cargo - NTSB Recommendations
+On 9 February 2016, the NTSB issued two Safety Recommendations which respectively advocate:
+
+the physical separation of lithium batteries from other flammable hazardous materials stowed on cargo aircraft
+the establishment of maximum loading density requirements that restrict the quantities of lithium batteries and flammable hazardous materials.
+
+They are derived from the investigation of the July 28, 2011 in-flight fire and crash of Asiana Airlines Flight 991 in international waters about 80 miles west of Jeju International Airport "in which the NTSB participated".
+The NTSB has noted that "lithium batteries carried as cargo can be" both "a fire and explosion ignition source" and "a source of fuel to an existing fire" and that if subjected to overheating they "can create an explosive condition." It notes that current regulations "allow the loading of packages containing lithium batteries......in close proximity to packages of flammable materials and other classes of hazardous materials and also allows these materials to be stowed on board aircraft in large quantities in a single location" and thereby "constitute an unacceptable risk to the safe transportation of these hazardous materials." The Board "strongly believes the circumstances and findings in the Asiana Flight 991 accident show the need for new cargo segregation and loading density requirements" and that they should be "changed to be more stringent than the current ICAO requirements." It notes that the US Congress has explicitly authorised this "if it finds credible evidence of a deficiency in the international regulations that has substantially contributed to the start or spread of an on-board fire."
+The NTSB believes that the circumstances and findings in the Asiana Flight 991 accident constitutes such credible evidence that demonstrates a deficiency in cargo segregation requirements that would permit the HMR to be changed to be more stringent than the current ICAO requirements.
+The Text of the Recommendations is accompanied by a full justification for their issue.
+Lithium Batteries as Carry-on/Cargo - EASA Recommendations
+ 
+Accidents and Incidents
+
+
+B788, Boston MA USA, 2013On 7 January 2013, a battery fire on a Japan Air Lines Boeing 787-8 began almost immediately after passengers and crew had left the aircraft after its arrival at Boston on a scheduled passenger flight from Tokyo Narita. The primary structure of the aircraft was undamaged. Investigation found that an internal short circuit within a cell of the APU lithium-ion battery had led to uncontained thermal runaway in the battery leading to the release of smoke and fire. The origin of the malfunction was attributed to system design deficiency and the failure of the type certification process to detect this.
+
+B744, en-route, East China Sea, 2011On 28 July 2011, 50 minutes after take off from Incheon, the crew of an Asiana Boeing 747-400F declared an emergency advising a main deck fire and an intention to divert to Jeju. The effects of the rapidly escalating fire eventually made it impossible to retain control and the aircraft crashed into the sea. The Investigation concluded that the origin of the fire was two adjacent pallets towards the rear of the main deck which contained Dangerous Goods shipments including Lithium ion batteries and flammable substances and that the aircraft had broken apart in mid-air following the loss of control.
+
+B788, en-route Shikoku Island Japan, 2013On 16 January 2013, a main battery failure alert message accompanied by a burning smell in the flight deck was annunciated as an ANA Boeing 787-8 climbed through FL320 on a domestic flight. A diversion was immediately initiated and an emergency declared. A landing at Takamatsu was made 20 minutes later and an emergency evacuation completed. The Investigation found that the battery had been destroyed when thermal runway followed a suspected internal short circuit in one of the battery cells and concluded that certification had underestimated the potential consequences of such a single cell failure.
+
+
+
+
+Related Articles
+
+Aircraft Batteries
+Aircraft Electrical Systems
+Aircraft Fire Risk from Battery-powered Items Carried on Aircraft
+Fire in the Air
+
+Further Reading
+EASA
+
+Dangerous Goods
+Portable Electronic Devices
+Lithium Batteries FAQ
+Project SABATAIR – Safe Transport of Lithium Batteries by Air Interim Report, 3 Sept 2020.
+
+FAA Research Reports
+
+Flammability Assessment of Primary Lithium Batteries
+Fire Hazards of Lithium Ion Batteries
+
+Other
+
+ICAO Annex 18 Guidance Material
+IATA Lithium Batteries webpage
+Symposium sécurité - Batteries Lithium: Anticiper le risqué de feu à bord, DSAC, 3 Dec 2020.
+NTSB: Primer on lithium ion battery technology
+Risks Related to Lithium Batteries, Presentation given by Christine Bezard, A350XWB Flight Safety Leader, to 18th Airbus Flight Safety Conference, Berlin, 19-22 March 2012.
+Lithium batteries: safe to fly?, C. Bezard et al., Airbus Safety First No. 21, pp. 22-41, January 2016.
+
+
+
+
+
+Categories
+
+
+Fire Smoke and Fumes,
+              Operational Fires
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

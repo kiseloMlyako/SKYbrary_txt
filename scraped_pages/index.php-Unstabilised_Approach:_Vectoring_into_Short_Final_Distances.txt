@@ -1,0 +1,96 @@
+Unstabilised Approach: Vectoring into Short Final Distances
+
+
+
+
+
+
+
+
+
+
+
+  Unstabilised Approach: Vectoring into Short Final Distances
+
+
+
+
+
+
+
+
+
+Toolkit Navigation
+
+
+Stabilised Approach Awareness Toolkit for ATC
+
+
+
+
+
+
+Contribution of Unstabilised Approaches to Aircraft Accidents and Incidents
+Stabilised Approach
+Flight Crew Workload in Preparation for the Execution of an Approach
+Unstabilised Approach: Delayed Descent Instructions
+Unstabilised Approach: Inappropriate ATC Speed Instructions
+Unstabilised Approach: Lack of or Wrong Information About Distance to Touchdown
+Unstabilised Approach: Landing Distance and Final Speed Calculations
+Unstabilised Approach: Late Runway or Approach Type Change
+Unstabilised Approach: Vectoring into Short Final Distances
+Unstabilised Approach: Vectoring Resulting in Intercepting the Glidepath from Above
+Unstabilised Approach: Vectoring to Runways with Significant Tailwind Component
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Radar vectoring which provides a closing heading to establish on final which results ILS LLZ capture at less than 6nm from touchdown.
+Effect of Action on Flight Crew and Their Potential Response
+Many of the actions to prepare the aircraft for landing cannot be carried out until the aircraft is on final.
+High workload arising from a late arrival on final may contribute to a failure to stabilise the approach sufficiently to meet mandatory stabilised approach ‘gates’.
+Description
+Radar vectoring that provides short final distances contribute to approaches becoming unstabilised. According to many airlines SOPs a flight must be stabilised at 1000 feet above airport elevation in Instrument Meteorological Conditions (IMC). With 3 degree glide path that means about 3 NM from touchdown.
+According to PANS-ATM (ICAO Doc 4444): „When vectoring to intercept the final approach course or track, the final vector shall meet the following conditions: […] provide at least 1.9 km (1.0 NM) straight and level flight prior to the final approach course or track intercept, and enable the aircraft to be established on the final approach course or track in level flight for at least 3,7 km (2,0 NM) prior to intercepting the glide path or vertical path for the selected instrument approach procedure.”
+„The final vector shall enable the aircraft to be established on the final approach track prior to intercepting the specified or nominal glide path of the approach procedure from below, and should provide an intercept angle with the final approach track of 45 degrees or less.”  This angle is reduced to 30 degrees or less in case of independent parallel approaches. 
+It is important to note that autopilots have LOC-capture operating envelops (i.e. intercept angle versus distance to runway) that make short-distance captures more challenging.
+An absolute distance of 5 to 6 NM is essential for an approach to become stabilised. But if we add to this any other, adverse, variables (such as excessive altitude or speed) or adverse conditions (like heavy precipitation, tail wind, crosswind, turbulence, reported or predicted windshear etc.) even the 5 to 6 NM final distance may not be sufficient to ensure a stabilized approach.
+Typical optimal vectoring results in 6 NM (and 2000ft) from touchdown on final.
+ATC Options to Avoid the Action
+
+Ensure adequate relationship between the altitude and the track-distance to touchdown (typically a 300 ft / nm relationship).
+Use reasonable speed control below FL100 to improve flight path predictability.
+Take proper account of any strong upper winds and their likely effect on track miles / ground speed.
+Vectoring the aircraft to final that is compatible with a reasonable and safe deceleration and configuration sequence (accounting for differences between ILS versus non-ILS approaches)
+
+ATC Options to Manage the Consequences
+
+Be prepared to recognise that an unstable approach may result from a late arrival on final and be prepared to proactively position the aircraft under radar vectors back onto final at an early stage.
+Do not offer or instruct a visual manoeuvring on final as a solution to problems which may have arisen.
+Be prepared to instruct a go around at any time if spacing or any other operational safety consideration appears to demand this.
+Recognise that a crew which reaches their limiting workload are likely to focus on the priority order ‘aviate, navigate, communicate’.
+
+Further Reading
+
+Stabilised Approach
+Non-stabilized Approach After ATC-Requested Runway Change (OGHFA SE)
+Runway Overrun After Unstabilised Approach (OGHFA SE)
+DGAC (France) Publications on Non-Stabilised Approaches
+CFIT Precursors and Defences
+Continuous Descent Final Approach (CDFA)
+
+CANSO
+
+Runway Excursions - An ATC Perspective on Unstable Approaches
+Avoiding Unstable Approaches - Important Tips for ATCOs
+Unstable Approaches – ATC Considerations, January 2011

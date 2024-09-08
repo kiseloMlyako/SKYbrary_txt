@@ -1,0 +1,326 @@
+B738, vicinity Paris Orly France, 2019
+
+
+
+
+
+
+
+
+
+
+
+  B738, vicinity Paris Orly France, 2019
+
+
+
+
+
+
+
+
+
+Summary
+
+On 6 December 2019, a Boeing 737-800 below Decision Altitude on an ILS approach at Paris Orly was unexpectedly instructed to go-around in day VMC without explanation. The go around was mishandled and the aircraft began to descend after initially climbing which triggered EGPWS Warnings and controller alerting before recovery was achieved. It was suspected that surprise at the go-around and the early climbing turn required may have initiated the crew’s mismanagement of automated flight path control with further surprise leading to failure to revert to manual control when they no longer understood the automated system responses to their inputs.
+
+
+
+
+Event Details
+
+When
+
+06/12/2019
+
+
+
+Event Type
+
+
+CFIT,
+              HF,
+              LOC
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 737-800
+
+
+
+
+
+
+
+
+
+Operator
+
+Air Algerie
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Zenata – Messali El Hadj Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Paris/Orly Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Missed Approach
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+LFPO
+
+
+
+
+General
+
+Tag(s)
+
+
+              CVR overwritten
+          
+
+
+
+
+CFIT
+
+Tag(s)
+
+
+              Vertical navigation error
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Inappropriate crew response (automatics),
+              Procedural non compliance
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Flight Management Error
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description  
+On 6 December 2019, a Boeing 737-800 (7T-VJM) being operated by Air Algérie on a scheduled international passenger flight from Tlemcen to Paris Orly as AH 1086 was unexpectedly instructed to go around below Decision Altitude (DA) in day VMC without explanation. The go around was commenced but was then mishandled over a three minute period during which the aircraft began to descend after initially climbing, triggering EGPWS Warnings and alerting from the controller because of the potential CFIT risk. Recovery was then achieved and repositioning for a second approach was without further event and followed by a successful landing.
+Investigation
+A Serious Incident Investigation was carried out by the French Civil Aviation Accident Investigation Agency, the BEA using relevant QAR and recorded ATC data but as the CVR was not isolated after landing and the aircraft continued in service, relevant data from it was lost. Requests for crew statements were only partially successful and this and the absence of CVR data limited the ability of the Investigation to gain full insight into the sequence of crew action and inaction.
+The Captain had “approximately 8,000 hours” flying experience which included 1,400 hours on type and was accompanied by a First Officer who “had logged over 3,700 hours” of which 1,700 hours were on type. The First Officer was acting as PF for the approach.
+What Happened 
+Having been cleared to land from an ILS approach to runway 25, the First Officer disconnected the AP and then the A/T with around 100 feet to go before the applicable DA. As the aircraft reached the DA, the TWR controller received a RIMCAS warning due to the detection of a vehicle within the runway safety area and with the flight passing 13 feet below DA responded by instructing it to go around without adding an explanation.  
+The crew could not determine any reason but the First Officer began the go-around procedure by selecting TO/GA on the thrust levers at 117 feet agl (see point 1 on the illustration below) and pitching up - the minimum height reached was 73 feet agl. The A/T was not re-engaged and the thrust levers were manually set to around 90% N1. The resultant pitch attitude was 18°, slightly above the F/D command bar which was at 15° and the vertical speed quickly increased to 4000 fpm. Still below DA, the flaps were retracted to 15° followed by selection of the landing gear to up and re-engagement of the A/T. The required left turn at 700 feet QNH (410 feet aal) was started late and from a position to the right of the extended runway centreline. The bank angle reached 38° which triggered an EGPWS ‘BANK ANGLE’ Alert. The missed approach intermediate stop altitude of 2,000 feet QNH was slightly exceeded during this corrective turn before the combined effect of a nose-down input from the PF and the A/T reducing thrust led to a descent back below 2,000 feet. The controller then cleared the flight to continue the climb to 3,000 feet QNH but the crew selection of this altitude resulted in a V/S mode reversion based on the instantaneous vertical speed of -1,100 fpm (point 2 on the illustration) with the thrust set reducing through 45% N1. The crew then followed the resultant F/D cues whilst disconnecting the A/T and slowly increasing the thrust to 50% as the descent continued at around 1,200 fpm. 
+
+The horizontal and vertical flight paths of the aircraft after takeoff. [Reproduced from the Official Report]
+At 1,260 feet agl (point 3 on the illustration), an EGPWS Mode 3 ‘DON’T SINK’ alert (reportedly accompanied by a ‘PULL UP’ message on the pilots’ EADIs) which should only accompany a Mode 1 or Mode 2 Warning began and the crew responded by engaging the A/T in MCP SPD mode with a 175 knot target. A few seconds later, the controller called to say he could see the flight descending on radar and reminded them to climb as cleared to 3,000 feet QNH. The descent was finally stopped at around 1,000 feet agl and the flaps were retracted, the pitch set to +11° and, after disconnecting the A/T, the thrust was slowly increased to 70 % N1 (point 4 on the illustration). 
+As the aircraft began to accelerate it remained more or less level and the stick shaker was briefly active until the selected pitch attitude was reduced. The F/D was still commanding a 1,100 fpm rate of descent as a further EGPWS ‘DON’T SINK’ alert occurred. Thirty seconds level at around 1,000 feet agl followed as the acceleration continued and included a brief selection and then retraction of the first stage of flap as the speed increased to a recorded 292 KCAS - above the maximum speed for flap selection. The A/T was then re-engaged and a climb to 3,000 feet QNH was completed in just ten seconds at “more than 4,000 fpm” and the AP engaged (point 5 on the illustration). Landing following a second approach to runway 25 subsequently occurred without further event half an hour later.
+Why It Happened 
+The activation of the RIMCAS warning occurred because the system had detected the presence of a bird control vehicle within the runway safety area and when there was no response to a call to the vehicle driver to exit the runway safety area, the go around instruction was given. The driver indicated that he had not heard the call and had anyway been clear of the runway safety area. It was found that RIMCAS configuration had not been updated after a change in the position of the holding point on the taxiway where the bird control vehicle was four days earlier and had consequently activated a the warning when it was not valid. Corrective action was subsequently taken. 
+The flight crew’s failure to manage the go around in accordance with the specified procedure was the direct result of their inability to effectively manage a dynamic manoeuvre which should have been fully briefed. However, it was noted that the context for this performance failure could be considered as the combination of:
+
+the low height of the aircraft when the instruction was given 
+the absence of any apparent reason or explanation for it
+the need for a very early turn (410 feet agl)
+the existence of a low initial stop altitude (equivalent to 1,700 feet agl)
+the relatively low weight of the aircraft
+
+Key points based on the mismanagement of the go around and, in the absence of both CVR data and any useful statements from either pilot, suggestions as to potential explanations were, in summary, identified as follows:
+
+The high vertical speed, the turn, the retraction of the flaps and the sharp increase in the headwind during the approach to 2,000 ft could have constituted stabilisation and levelling off conditions which were not conducive to the AFDS (Autopilot Flight Director System) acquiring the altitude.
+The crew did not disconnect the A/T and the F/D as recommended in the FCTM when the target altitude risks being exceeded. They had perhaps not sufficiently anticipated this risk.
+The crew surprise at the instruction to go around led to some questioning during the initial part of the go around which may have compromised the focus of the pilots on the challenges of both the early left turn and the relatively low maximum initial altitude. Such surprise may have contributed to inaccuracies in following the go around procedure and recovery from the descent which followed automation mismanagement at various points.
+The crew probably followed the guidance cues given by the F/D command bars without having checked that the associated modes and target values were compatible with the flight path to be followed.
+The extended time it took to react to the EGPWS “DON’T SINK” alert and the controller’s complimentary reminders to climb to 3,000 feet and the following 30 seconds of level flight at 1,000 feet agl before initiating a climb can be explained by the crew’s difficulty in assessing or understanding the situation.
+
+A number of Potential Contributory Factors were documented at the conclusion of the Investigation:
+
+The surprise at the go-around ordered by the controller when at a low height.
+The missed approach path with a low published altitude and a left turn in the initial climb which created a high workload in a short time.
+The crew’s application of an initial high thrust given the missed approach initial clearance limit.
+Piloting based on a hybrid use of automatic systems (A/P, A/T and F/D) which was not conducive to acquiring the published altitude of the missed approach procedure.
+A breakdown in crew cooperation which may be explained by a combination of surprise at the go-around instruction and to the workload mentioned above.
+The display of the vertical speed target value on the PFD which may require verification on the MCP and which may have contributed to the crew not detecting that the target value was not consistent with the desired flight path.
+The absence of a check for system consistency between the action taken (selection of a higher altitude) and its result (mode reversion leading to a descent) along with the absence of a crew alert.
+
+The Investigation noted that in 2019, whilst only 21% of all go-arounds at Paris Orly involved an initial clearance altitude of 2000 feet, 75% of those events where a go around breached its initial clearance altitude by more than 200 feet were those where this altitude was 2000 feet. It also noted that as a result of the BEA Investigation into another Paris Orly go around in 2020 the French ANSP had been recommended to consider increasing relatively low published missed approach initial stop altitudes at the airport so as to give crews more time to carry out all the initial tasks associated with a go-around procedure and thereby reduce the chances of a deviation from the required flight path.
+It was also noted that the investigation into a 2019 go around involving a Boeing 737 at Bristol which had involved similar mismanagement of the automation capability of the aircraft had resulted in a similar unintended descent during a go around.
+Finally, it noted that the conclusions of the BEAs 2013 Aeroplane State Awareness during Go-Around (ASAGA) Report remain relevant. In particular, it was observed that “the fact that the crew followed the F/D cues when the AFDS was in V/S mode with a negative vertical speed following a mode reversion” was supportive of one of the recommendations made in the report to the EASA on the need for ergonomic improvements which would facilitate the interpretation of the Flight Mode Annunciator modes and the detection of any changes to them. 
+The Final Report was simultaneously published in the definitive French language and in an English Language translation version on 12 October 2021. 
+Related Articles
+
+Missed Approach
+Go Around
+CFIT
+Flight Director
+Autopilot
+Terrain Avoidance and Warning System (TAWS)
+Runway Incursion Monitoring and Conflict Alert System (RIMCAS)
+FCTM
+A359, vicinity Paris Orly France, 2020
+B738, vicinity Bristol UK, 2019
+
+Further Reading
+
+Study on Aeroplane State Awareness during Go-Around, BEA France, August 2013

@@ -1,0 +1,161 @@
+Unstabilised Approach: Inappropriate ATC Speed Instructions
+
+
+
+
+
+
+
+
+
+
+
+  Unstabilised Approach: Inappropriate ATC Speed Instructions
+
+
+
+
+
+
+
+
+
+Toolkit Navigation
+
+
+Stabilised Approach Awareness Toolkit for ATC
+
+
+
+
+
+
+Contribution of Unstabilised Approaches to Aircraft Accidents and Incidents
+Stabilised Approach
+Flight Crew Workload in Preparation for the Execution of an Approach
+Unstabilised Approach: Delayed Descent Instructions
+Unstabilised Approach: Inappropriate ATC Speed Instructions
+Unstabilised Approach: Lack of or Wrong Information About Distance to Touchdown
+Unstabilised Approach: Landing Distance and Final Speed Calculations
+Unstabilised Approach: Late Runway or Approach Type Change
+Unstabilised Approach: Vectoring into Short Final Distances
+Unstabilised Approach: Vectoring Resulting in Intercepting the Glidepath from Above
+Unstabilised Approach: Vectoring to Runways with Significant Tailwind Component
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Flight Safety Foundation found that the inability of a flight crew to control key aircraft parameters (airspeed, altitude, rate of descent) was a major factor in 45% of a sample of 76 approach-and-landing accidents and serious incidents examined. Flight handling difficulties occurred in situations which arose from attempts to comply with inappropriate ATC clearances, sometimes compounded by adverse weather conditions and / or with the improper use of automation.
+Definition
+ATC speed control instructions that are incompatible with the distance to go and required vertical profile below FL100, taking account of any significant prevailing wind velocity throughout the height band.
+Effect on Flight crew and Their Potential Response
+If an abnormally high workload is needed to achieve the required flight path, the ability of a flight crew to maintain situational awareness can be affected.
+There is an increased risk that an unstabilised approach could develop, which may then be difficult to correct, and culminate in either a go around or a poorly handled landing, with increased risk of a heavy landing or a runway excursion.
+Description
+Modern jet aircraft are designed to have the highly efficient aerodynamic characteristic of low drag. This helps to reduce fuel consumption but in turn means that longer distances may be needed for descent and deceleration.
+Modern jet aircraft need greater distance to descend and decelerate.
+The use of speed control (e.g. "Maintain 210 knots") below FL100 is expected - and often welcomed by - flight crew, but must be applied so as not to make aircraft control unduly difficult. Descent planning is a matter of managing energy, which in jet aircraft is effectively is done by altering drag. As shown by the figure below altering an aircraft’s speed is a way of altering drag.
+
+Altering an aircraft’s speed is a way of altering drag
+A jet aircraft will descend more quickly if it accelerates as the total drag will be increasd. Going faster therefore increases the rate of descent and can be used as a means of keeping the aircraft on the vertical profile. If no speed instruction is given to an aircraft it will probably descend at the optimum speed for the prevailing conditions as calculated by the FMS, and will probably descend at idle power. In either case, should ATC instruct an aircraft to reduce speed, the rate of descent will decrease and may lead to the aircraft drifting above the required descent profile. At this point the only option is to use spoilers and/or to request more track miles. An instruction to maintain a higher than normal speed may not necessarily be a problem as the flight crew can simply add power to keep the aircraft on the descent profile.
+Instructing an aircraft to reduce speed during the upper parts of the descent will usually cause it to drift above its descent profile.
+An aircraft that is simultaneously descending and decelerating is dissipating both its kinetic and gravitational energy, which obviously would require a longer distance compared to an aircraft only decelerating, or only descending. As the aircraft decelerates, less drag is available to dissipate energy which increases the distance further.
+Although deceleration characteristics largely depend on the aircraft type and gross weight, the following typical values, based on FSF ALAR BN 4.2, can be considered for a quick assessment and management of the aircraft deceleration capability:
+Deceleration in level flight
+
+
+
+With approach flaps extended
+10 - 15 kts per NM
+
+
+With landing gear down and flaps full
+20 - 30 kts per NM
+
+
+
+Deceleration on a 3 degree glide path
+
+
+
+With landing flaps and gear down
+10 - 20 kt per NM
+
+
+
+When established on a typical 3 degree glide slope with only slats extended (i.e., with no flaps), it will take approximately 3 NM (1000 ft) to decelerate to the target final approach speed and to establish the landing configuration. The use of speedbrakes is typically not recommended or, on some types, not possible once land flap has been selected.
+If the maximum deceleration achievable whilst descending on the final approach track (FAT) with slats and approach flap deployed is around 20 knots per nm then a reasonable minimum speed to be required by ATC until not later than 4 nm from the threshold is 160 kts. This is the maximum speed from which a stabilised approach condition by 1000 feet above the runway is likely to be achievable from that range. The necessary speed reduction thereafter can be achieved whilst continuing descent by selection of land flap and/or the deployment of the landing gear as required by SOPs. However, it should be noted that for some modern twin-aisle aircraft types, approach stabilisation by 1000 feet above the runway may require speed reduction from 160 kts to begin slightly earlier than 4 nm.
+
+Typical speed reduction on a precision approach
+Many Operators will have SOPs that require that the aircraft is fully configured for landing and at approach target speed earlier than 4 nm when on a non precision approach and in such cases, ATC speed control should not be applied once the aircraft is descending on the FAT.
+ATC Options to Avoid the Action
+The objective is to allow a crew to readily manage the energy state of their aircraft in a way that will lead to a stabilised approach, and which is compatible with the various versions of ‘should’ and ‘must’ stabilised approach gates. They need to be presented with either a standard practice or with ad hoc instructions which recognise what is practicable for each of the different aircraft types using the airport in respect of both simultaneous "go down and slow down" and deceleration in level flight.
+In both cases, it is a widely adopted aircraft operator SOP (and in some areas an airspace requirement) that the maximum speed to be flown below FL100 is 250KIAS and no higher speed should ever be requested below FL100. Progressive deceleration is incorporated into most STAR's and is likely to have the aircraft in the 200to 220 knot range by the downwind termination waypoint. Many aerodromes publish a specific speed profile for use during radar vectors; for example, 210 knots on base leg, 185 when on the intercept heading maintaining that speed to a specified distance from touch down followed by a speed of about 160 at a distance in the 4-6 mile from touchdown range. Inside that point, speed is at pilot discretion. If specific speeds are not published, radar vectors should be used so that the intercept heading to the FAT can be flown with the aircraft in level flight. Once on the FAT, ATC should not require a speed higher 160 KIAS and all speed control must cease not later than 4nm from touchdown.
+The busier the airport, the more prescriptive ATC procedures are likely to be. If flexibility is going to be an option some or all of the time, then it is essential to provide sufficient controller training on the capabilities of different aircraft types to ensure that instructions will be compatible with aircraft type capabilities and the achievement of a stabilised final approach.
+ATC Awareness
+
+Be able to recognise from the radar screen that an aircraft is having difficulty achieving the combination of instructions issued in respect of speed and descent.
+Be prepared to respond promptly and constructively if a crew decline unrealistic instructions or advise difficulty in complying with previously accepted instructions.
+Be prepared for the declaration of a go around by the crew at any time and try to avoid any change to the missed approach procedure other than one which simplifies it.
+Be prepared to instruct a go around if spacing or any other operational safety consideration appears to demand this.
+Issue a landing clearance as soon as possible. Do not, for example, request an approaching aircraft to call ‘runway in sight’ when carrying out an instrument approach procedure.
+
+SKYclip
+
+
+
+
+
+
+
+
+
+
+
+ Read more
+
+
+
+
+Speedcontrol for final approach (SKYclip)
+
+
+
+
+
+
+
+
+
+
+Related Articles
+
+Stabilised Approach
+Top 10 Stabilised Approach Considerations for Air Traffic Controllers
+DGAC (France) Publications on Non-Stabilised Approaches
+CFIT Precursors and Defences
+Continuous Descent Final Approach (CDFA)
+Non-stabilised Approach After ATC-Requested Runway Change (OGHFA SE)
+Runway Overrun After Unstabilised Approach (OGHFA SE)
+Global Action Plan for the Prevention of Runway Excursions (GAPPRE), 2021
+
+Further Reading
+Airbus
+
+Aircraft Energy Management during Approach - Airbus FOBN
+Control your Speed… During Descent, Approach and Landing, Airbus Safety First Magazine, #24, July 2017
+
+CANSO
+
+Runway Excursions - An ATC Perspective on Unstable Approaches
+Avoiding Unstable Approaches - Important Tips for ATCOs
+Unstable Approaches – ATC Considerations, January 2011

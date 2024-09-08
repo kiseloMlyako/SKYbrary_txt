@@ -1,0 +1,223 @@
+ICAO Global Accident Rate
+
+
+
+
+
+
+
+
+
+
+
+  ICAO Global Accident Rate
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Monitoring & Oversight 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+The ICAO Global Accident Rate is an indicator used by ICAO to measure the global safety performance on a yearly basis. The methodology used to trend and define this indicator is described in the ICAO Methodology for Accident Rate Calculation and Trending.
+Accidents are the events as defined by the ADREP Occurrence Class Taxonomy, limited to commercial scheduled flights and aircraft with a MTOW over 2550 kg. The number of accidents has been extracted from the ICAO ADREP/ECCAIRS database.
+The number of annual commercial scheduled flights has been extracted from the ICAO statistical database on the air transport industry.
+ 
+Contents
+
+1 Definition
+2 Safety Indicator board
+3 Analysis
+4 Related articles
+5 Further reading
+
+Safety Indicator board
+
+
+
+Last updated
+27/05/10
+
+
+Indicator
+Accident rate
+
+
+Unit
+Accidents per million flights per calendar year
+
+
+Scope
+WORLD
+
+
+
+
+
+
+
+
+
+
+Indicator values
+
+
+Accident rate
+3.98
+
+
+ICAO Adaptive Moving Average (IAMA)
+4.11
+
+
+Short Term Trend (1 year)
+0.00%
+
+
+Long Term Trend (5 year)
+0.00%
+
+
+Since last significant change
+6 years
+
+
+
+
+
+
+
+
+Analysis tools
+
+
+Upper Band (IAMA + 1 stdv)
+4.35
+
+
+Lower Band (IAMA - 1 stdv)
+3.87
+
+
+Standard deviation
+0.24
+
+
+%b
+32.28%
+
+
+Bandwidth
+11.79%
+
+
+
+
+
+
+
+
+Analysis
+The global accident rate average (IAMA) was reinitialized on 1st of January 2005 using data from 01/01/2000 to 31/12/2004. No significant increase or decrease was recorded since then, making the IAMA a straight line. The upper band was busted once in 2005, however this bust was not confirmed in 2006, inducing that this increase was a one-time event and does not indicate any trend change.
+
+The bandwidth is well within acceptable limits and assures ICAO that the indicator is valid and may be used to detect significant upward or downward trends. The bandwidth or volatility has even decreased in 2009, allowing for more precise future measurements.
+Related articles
+
+ICAO Methodology for Accident Rate Calculation and Trending
+Acceptable Level of Safety
+ICAO ADREP
+
+Further reading
+
+ICAO statistical data on the air transport industry
+ICAO Global Aviation Safety Plan: 2014 - 2016
+ICAO Global Aviation Safety Plan: 2017 - 2019
+ICAO Global Aviation Safety Plan: 2020 - 2022
+ICAO 2021 Safety Report
+
+
+
+
+
+Categories
+
+
+Monitoring & Oversight
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

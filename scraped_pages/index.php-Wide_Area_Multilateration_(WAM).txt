@@ -1,0 +1,113 @@
+Wide Area Multilateration (WAM)
+
+
+
+
+
+
+
+
+
+
+
+  Wide Area Multilateration (WAM)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Wide-area multilateration is a Surveillance technique that exploits the 1090 MHz transmissions broadcast from aircraft. From these signals it can create a track containing parameters such as aircraft identification, position, height, etc. Active interrogation is also possible in order to trigger transmission.
+Although the manner in which WAM constructs Surveillance data differs significantly from Automatic Dependent Surveillance Broadcast (ADS-B), the synergies between these two Surveillance techniques in addition to their high performance and lower cost are expected to bring significant operational benefits. Consequently, composite WAM/ADS-B systems are widely offered by industry and deployed by ANSPs in Europe and worldwide, thus exploiting these synergies.
+The optimal mix of the various Surveillance techniques (Transponder Mode S, ADS-B, WAM) will however depend upon the local environment, operational needs and business case, from an overall ATM Network viewpoint.
+ADS-B and WAM are key enablers of the future European ATM Network, contributing to the achievement of the Single European Sky (SES) performance objectives, including safety, capacity, efficiency and environmental sustainability.
+Further Reading
+See EUROCONTROL Surveillance web-site.
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

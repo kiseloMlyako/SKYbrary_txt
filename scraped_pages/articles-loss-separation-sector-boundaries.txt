@@ -1,0 +1,178 @@
+Loss of Separation at Sector Boundaries
+
+
+
+
+
+
+
+
+
+
+
+  Loss of Separation at Sector Boundaries
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Separation 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+This article provides a general overview to controllers of some typical scenarios of loss of separation (LOS) at or near sector boundaries. It offers some considerations to help controllers provide as much support as possible to the aircraft concerned and maintain the safety of other aircraft in the vicinity of the potential conflict. There is no set of ready, out-of-the-box rules and procedures to be followed universally. The controllers should exercise their best judgment when dealing with LOS. The examples given in this article are not intended to be exhaustive and described best practices shall not have prejudice to local ATC procedures.
+Description
+Loss of separation at sector boundaries is a safety occurrence that happens at or near the boundary between (at least) two different ATC sectors or units. In most cases the aircraft involved are not on the same frequency.
+This type of loss of separation deserves special attention because of the risk associated, reasons that usually cause it and the different techniques (as opposed to techniques used for solving of LOS in own sector) that could be used to resolve the hazardous situation.
+Useful to know
+Mind the neighbour – the adjacent ATC sector/unit might have a different plan to solve the conflict. It is therefore essential to coordinate the corrective action(s) or use greater-than-normal changes in the flight profile as necessary (e.g. higher rates of climb/descent, more pronounced vectoring range)
+Typical scenarios
+Poor or missing coordination between sectors/units – e.g. an aircraft is cleared to climb (descend) or fly on a direct route without notifying the concerned sector/unit. Such actions may lead to confusion about the aircraft intentions and wrong assumptions can be made.
+
+Example 1: Poor coordination between sectors/units
+
+XYZ789 is estimated to cross the boundary at FL310 but is cleared to climb higher without coordinating with sector “B”.
+ZGV789 is flying on a direct route without prior coordination with sector “B” and the entry FL is ambiguous. It could be 300 (same as the current FL) in case the controller from sector “A” has spotted the conflict with ABC123. It is also possible that the controller from sector “A” has not spotted the conflict with ABC123 and is about to issue a climb clearance to ZGV789 (so that ZGV789 reaches the estimated FL320 before the boundary).
+
+Poor transfer of communication – e.g. transferring potentially conflicting aircraft, transferring the higher aircraft first (in case of two descending aircraft on converging courses) etc.
+
+Example 2: Poor transfer of communication – XYZ789 is transferred on the next sector’s frequency before ABC123. It is possible that XYZ789 descends below FL310 (e.g. due to next sector’s controller error or due to misinterpretation of ATC clearance). In such situations controllers have limited options to take effective and timely corrective actions.
+Aircraft flying along the sector boundary – a flight might penetrate adjacent sector’s airspace for some reason (e.g. avoiding adverse weather) leaving very little time to controllers to resolve a potential conflict with other flight(s) in the close vicinity. Often, the colour coding and the attributes of the corresponding tracks displayed on ATC screens do not support timely identifications of such situations by controllers.
+
+Example 3: Aircraft flying along the sector boundary, XYZ789 begins a turn to the right and converges with ABC123. The track label presentation of XYZ789 is such that the aircraft does not draw controllers’ attention (e.g. use of gray colour to display flights controlled by other sectors).
+At least one of the aircraft involved is not correlated – normally all aircraft that are of any interest to the controller are correlated. Uncorrelated aircraft are not supposed to enter the sector and therefore they are usually represented in ATS systems in an inconspicuous way so that they do not distract the controller. It is possible however (due to a technical problem or a human error) to have an uncorrelated aircraft entering a sector which can lead to incomplete picture in the controller’s mind. As a result, a conflict can be detected too late.
+
+Example 4: Aircraft in adjacent sector (transponder A1234) is not correlated. The display attributes of the uncorrelated track label are such that it does not draw controllers’ attention. As a result the controller of ABC123 fails to spot the potential conflict with the uncorrelated traffic and issues a clearance to descend to FL340.
+Different separation minima used in adjacent sectors/units – it is possible that for some reason (e.g. airspace structure, vectoring close to the sector boundary) one of the sectors/units considers that separation minima are met, and the other considers they are not. Usually LOAs/local procedures cover some aspects of this scenario (e.g. vectoring near the common sector/FIR boundary).
+Note: Different separation minima can be used for a number of reasons (legislation, equipment, etc.) and can be temporary (e.g. separation minimum may be increased due to a radar failure) or permanent (e.g. the minimum may be reduced after new radar is put into operation).
+
+Example 5: The separation minimum in the north sector is 5NM while in the south sector it is 10NM. Both aircraft are flying along published airways. From the north sector controller’s point of view the aircraft are separated. From the south sector controller’s point of view there is a period of time during which prescribed separation was not achieved.
+Miscommunication – e.g. a pilot misunderstands an ATC clearance and then changes frequency. This might lead to an aircraft behaviour that surprises both sectors while at the same time none of them has radio contact with the aircraft concerned.
+Contributory factors
+Adverse weather avoidance. Aircraft avoiding adverse weather sometimes make unexpected manoeuvres without communicating intentions or even informing the controller on already executed manoeuvres. Pilot behaviour and actions are difficult to predict by ATC due to the variation of SOPs among operators. Another aggravating factor is the RT frequency congestion which may prevent pilots from obtaining, in a timely manner, controller’s approval to deviate from current clearance.
+Equipment. A ground-ground communication failure could delay the transfer of flight information thus increasing the probability of uncorrelated aircraft entering sector’s airspace.
+Workload. A controller might be preoccupied with solving conflicts in well known sector hotspots and fails to monitor an aircraft that is flying on a non-standard route (e.g. due to a direct route clearance or weather avoidance)
+Transfer of communication too early/too late. If the communication with a flight is transferred too early, the accepting controller might issue a clearance that creates a conflict in the transferring sector. If the aircraft is transferred too late, the accepting controller might not have enough time to solve a conflict within their airspace.
+Transfer on the wrong frequency. This may result in the inability of both controllers to issue a last-minute avoiding clearance.
+Sector skipping. This usually happens when a flight clips a sector for a very short time. As a result, an urgent coordination might be complicated by the accepting controller trying to find the correct sector to coordinate with.
+Too many colours. The sector boundary is usually a place where all kinds of colours are used (different representations for own, incoming, transferred, nearby, etc. aircraft). Combined with high workload this may easily cause a confusion for the controllers.
+Defences
+Controllers should be pro-active and:
+
+Search for and obtain information about uncorrelated aircraft approaching the sector and verify without undue delay intentions ;
+Verify entry flight levels in case of doubt;
+Ensure increased separation in “suspicious” situations (e.g. if an aircraft appears to climb higher than the previously coordinated level). See the picture below;
+
+
+Controllers should exercise extra caution during transfer of control and communication:
+
+Avoid the combination of clearance and frequency change in one transmission;
+Watch out for call sign confusion;
+
+Controllers should initiate timely and pro-active coordination as applicable:
+
+Make sure all potentially conflicting aircraft are on the same frequency;
+If necessary, request earlier transfer on frequency, release for climb/descent etc.;
+If appropriate, ask the upstream sector controller to issue an ATC clearance to the aircraft (vector, direct routes, climb/descent);
+Coordinate as soon as possible with the adjacent sector’s controller avoiding actions given to own traffic which may take it close to or into the adjacent sector’s airspace;
+Coordinate with the other sector/unit when it is known or suspected that different separation minima are in use.
+
+Related Articles
+
+ATCO Actions in Case of Loss of Separation
+Loss of Separation - ATCO-induced Situations
+Loss of Separation - Pilot-induced Situations
+Conflict Detection with Adjacent Sectors
+Blind Spots – Inefficient conflict detection with closest aircraft
+Loss of Separation During Weather Avoidance
+Free Route Airspace (FRA)
+Controller Workload
+Interruption or Distraction
+ACAS: Guidance for Controllers
+Accident and Serious Incident Reports: LOS
+
+
+
+
+
+Categories
+
+
+Loss of Separation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

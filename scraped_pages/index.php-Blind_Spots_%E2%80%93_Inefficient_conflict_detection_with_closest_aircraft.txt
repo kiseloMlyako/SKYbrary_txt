@@ -1,0 +1,208 @@
+Blind Spots - Inefficient conflict detection with closest aircraft
+
+
+
+
+
+
+
+
+
+
+
+  Blind Spots - Inefficient conflict detection with closest aircraft
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Separation 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+“Blind Spot” is a type of human error. Unlike other uses of the term, in air traffic control it refers to the failure to detect a problem (conflict) right in middle of the controller’s field of view.
+Currently, controller blind spot is one of the ATM top 5 operational safety priorities identified by EUROCONTROL Operational Safety Group (SAFOPS). It has been identified as an initiator in many high severity en-route incidents (see the Tableau dashboard for details).
+Possible Outcome
+Loss of separation “Blind Spot” events are typically characterised by the controller not detecting a conflict with the closest aircraft. Such events usually occur after an incorrect descent or climb clearance. Usually there is very little (or no) time to react to such an error and most of the conflicting clearances result in an incident.
+Typical Scenarios
+In the case of Blind Spot occurrence, the scenario mechanism is basically reduced to only one – inadequate attention. This is because the mechanism of the blind spot occurrence by definition is ‘controller not detecting a conflict’. The most common triggers for this are:
+
+Rushed vertical clearance after a pilot request: This scenario trigger occurs when a pilot makes a request for climb/descent. This grabs the attention of the controller whose focus was elsewhere. There is a perceived need to deal with the request as quickly as possible so that the limited attention resource can be returned to other tasks. The controller does not carry out a structured scan for potential conflicts and agrees to the request. The clearance leads to a conflict.
+Instruction to meet constraints: Airspace design for en-route and TMA sectors has become complex. To accommodate the various constraints, such as the transfer of control, the task is increasingly governed by silent handovers either by standing agreements or individual electronic acceptance. The controller’s attention turns to a requirement to climb/descend an aircraft to meet these constraints and does not take into account the potential conflict ahead.
+Clearance not following the horizontal flight plan route: Flight Data Processing (FDP) systems are designed to highlight the planned routing of aircraft. This may be via paper or electronic strips, or by information overlaid onto the radar display. When flights do not tactically follow the pre-planned flight profile, the information gleaned from the FDP system may no longer highlight the potential conflict. This scenario trigger involves instruction or clearance from the controller that result in horizontal deviation from flight planned route. This includes the first clearance and any subsequent clearance before the aircraft re-joins the Flight Planned horizontal route, including the instruction to resume own navigation after vectoring.
+Conflict Resolution Instruction: Solving potential conflict and not detecting the resultant conflict.
+
+These triggers are necessary elements for the scenario – the occurrence could not have occurred without some of them. Preventing the scenario triggers will reliably prevent the blind spot occurrences, but this may not be operationally feasible.
+Contributing Factors
+The contributing factors are not mutually exclusive and they may be dependent. Here is a list of identified contributing factors.
+
+Distraction e.g. focussing attention elsewhere.
+Controller workload issues – high workload or under-load.
+Controller fatigue.
+Obscured track labels:
+
+other colour and intensity for tracks that are still within the controlled airspace but that are not anymore, or are still not, under control of the sector or
+overlaps of the track labels, or a track label and other information, that make some of the information partially or completely obscured.
+
+
+Recent hand-over, sector split or sector collapse impacting the quality of the mental ‘traffic picture’.
+Flight data display not updated to show direct routing.
+Production pressure.
+Inadequate training.
+
+Safety Barriers
+Preventing any of the other contributing factors would not reliably prevent the blind spot occurrences but would only reduce the chance of them to happen. Albeit unreliable, the following may be one of the most efficient risk reduction strategies.
+Generally, two types of safety barriers exist:
+
+Prevention barriers are intended to solve the problem before it has emerged.
+Mitigation barriers are intended to reduce or eliminate the impact of a problem after it has happened.
+
+The following barriers can help prevent loss of separation caused by Blind Spots:
+
+Routine Structured Scan. Scanning is a basic building block in ATC training. Prior to making an executive decision the controller should scan all of the appropriate information (the situation display, the flight data (strips), the co-ordinations agreed), evaluate immediate situation, and consider any future implications. The Operational Safety Study:Blind Spots has shown that this technique has the potential to prevent most losses of separation caused by Blind Spot. There are situations where information may be suppressed or diffused. Track labels may be obscured and flight data displays may not be arranged in such a way to highlight a conflict. Time pressure and workload may erode the attention that the controller is able to give to each piece of information. Working knowledge may then become layered and the filtered. When a controller gets under pressure, a “return to basics” such as using a structured scan before making an executive decision would reduce the likelihood of controller error.
+Use of velocity vectors. The velocity vectors achieve a very simple thing of making the dynamic characteristics of targets (i.e. aircraft) on controllers’ display visually available. Velocity (speed) vectors help controllers anticipate in what direction flight objects (tracks) are about to move and where they would be positioned in the near future. Current ATC automated systems support display of velocity vectors, with typically up to 5 min look-ahead time, selectable in one minute interval. Without such visualisation the controller would be under a heavy cognitive burden having to rely on past experience on the target dynamics (memory or history dots, if available) and integration of a large number of circumstantial factors to predict the targets’ trajectories into the future.
+Operational Team Resource Management. This barrier relies on available, vigilant and proactive colleagues. It can be both preventative and mitigational. Proactive team work may involve making a mistake less likely by encouraging/suggesting a plan to a colleague, pointing out potential conflicts or building in assured safety in co-ordinations. It may also prevent the loss of separation by the alerting of a colleague to an apparent error or misjudgement before separation minima have been compromised.
+Medium term conflict prediction tools with route updates (e.g. MTCD). These are tools that predict the trajectory of the aircraft in mid-term of up to 20-30 minutes and are usually based on flight plan information, updated with surveillance information about the position and speed of the aircraft and actual and forecasted meteorological information. Considering the aircraft type performance, the tools calculate if the aircraft will come into conflict with another aircraft. Some medium term conflict detection tools are equipped with functionality for the controller to update the route of the aircraft should this not follow the flight planned route.
+Short Term Conflict Probe (What-if). There are various forms of “What if” or level assessment tools available to probe the safety of an offered level change. Generally, the controller inputs the intended clearance into the ATC system without actually communicating it to the flight crew. The ATC system processes the information and checks for conflicts. To some extent, this fulfils the role of scanning. The Operational Safety Study:Blind Spots has shown that this tool has the potential to prevent most losses of separation caused by Blind Spot except for scenarios of clearance not following the horizontal flight planned route as the existing probes are what-if tools for vertical manoeuvres. The advantage of the probe is that it is purely preventive barrier to be used before any instruction or clearance is given. This hypothetical character can also be considered by some controllers as a drawback and affect their willingness to use it.
+Predictive Separation Alert Tool (e.g. STCA) with ATC intentions inputs like Cleared Flight Level (CFL). CFL allows the predictive STCA to identify conflicts much earlier and to identify them even before the crew start the execution of the conflicting clearance. The Operational Safety Study:Blind Spots has shown that this tool has the potential to prevent all losses of separation caused by Blind Spot. This barrier is less efficient in proactively identifying potential conflicts due to unplanned horizontal manoeuvres towards a proximate aircraft. The barrier may be affected by the consistency of inputting the Cleared Flight Level (CFL) information in the system. Unlike “What-if” tools however, it does not require additional controller input (a slight change of working habits may be required though, i.e. the controllers should input the clearances into the system before issuing them rather than afterwards).
+Predictive Separation Alert Tool with flight crew intentions inputs. Some medium term conflict prediction systems have tactical update facility. The system starts with the FPL routing but updates it tactically when the aircraft deviates from that route. The display is updated according to downloaded aircraft headings and selected flight levels. The Operational Safety Study:Blind Spots has shown that this tool has the potential to prevent all losses of separation caused by Blind Spot. The barrier efficiency will depend on the proximity of the conflicting aircraft and will be triggered later compared with the STCA with CFL inputs. On the other hand, this barrier will not depend on the controller consistency in inputting the CFL into the system.
+
+The following mitigation barriers could mitigate the consequences of a loss of separation due to inefficient detection of conflict with the closest aircraft:
+
+operational TRM – colleague warning;
+Short Term Conflict Alert;
+ACAS;
+see and avoid;
+providence (geometry of encounter).
+
+These barriers are generic (i.e. not specifically designed to mitigate a particular risk). Their presence and effectiveness are independent of the blind spot as a reason for the loss of separation. Therefore, they will not be described in detail in this article.
+SKYclip
+
+
+
+
+
+
+
+
+
+
+
+ Read more
+
+
+
+
+Controller Blind Spot (SKYclip)
+
+
+
+
+
+
+
+
+
+
+Related Articles
+
+EUROCONTROL TOP 5 Operational Safety Priorities
+Structured Scan for Mitigating the Blind Spot Effect
+Tactical Controller Tool (TCT)
+Loss of Separation
+Loss of Separation - ATCO-induced Situations
+Radar Control - Collision Avoidance Concepts
+Safety Nets
+Medium Term Conflict Detection (MTCD)
+Free Route Airspace (FRA)
+
+Further Reading
+
+Controller Blind Spot - EUROCONTROL Network Manager Top 5 Operational Safety Review, published March 2022
+Operational Safety Study: Blind Spots, by EUROCONTROL SISG
+
+
+
+
+
+Categories
+
+
+Loss of Separation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

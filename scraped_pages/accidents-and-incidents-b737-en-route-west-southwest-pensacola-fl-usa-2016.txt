@@ -1,0 +1,343 @@
+B737, en-route, west southwest of Pensacola FL USA, 2016
+
+
+
+
+
+
+
+
+
+
+
+  B737, en-route, west southwest of Pensacola FL USA, 2016
+
+
+
+
+
+
+
+
+
+Summary
+
+On 27 August 2016, debris from sudden uncontained failure of the left CFM56-7B engine of a Boeing 737-700 climbing through approximately FL 310 west southwest of Pensacola in day VMC penetrated the fuselage barrel and caused a rapid depressurisation. An emergency descent and a diversion to Pensacola followed without further event. The Investigation found that collateral damage had followed low-cycle fatigue cracking of a single fan blade due to a previously unrecognised weakness in the design of this on-condition component which, because it had not been detected during the engine certification process, meant its consequences “could not have been predicted”.
+
+
+
+
+Event Details
+
+When
+
+27/08/2017
+
+
+
+Event Type
+
+
+AW,
+              LOC
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 737-700
+
+
+
+
+
+
+
+
+
+Operator
+
+Southwest Airlines
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+New Orleans
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Orlando International
+
+
+
+
+
+
+
+Actual Destination
+
+
+
+
+Pensacola International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Climb
+
+
+
+
+
+
+
+
+Location
+
+Approx.
+
+around 70 statute miles on a bearing of 240° from Pensacola Airport
+
+
+
+
+
+
+
+
+
+
+General
+
+Tag(s)
+
+
+              En-route Diversion
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Airframe Structural Failure,
+              Loss of Engine Power
+          
+
+
+
+
+EPR
+
+Tag(s)
+
+
+              Emergency Descent,
+              “Emergency” declaration
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Engine - General
+          
+
+
+
+Contributor(s)
+
+
+              Component Fault in service,
+              Corrosion/Disbonding/Fatigue,
+              Ejected Engine Failure Debris
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Aircraft damage
+
+Major
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 27 August 2016, a Boeing 737-700 (N766SW) being operated by Southwest Airlines on a domestic passenger flight from New Orleans to Orlando as flight 3472 was climbing through FL 310 and passing south of Mobile over the Gulf of Mexico when a sudden explosive noise was followed by indications of left engine failure. Resultant debris penetrated the left side of the passenger cabin and a rapid depressurisation followed. An emergency descent and a diversion to Pensacola followed without further event and on arrival a normal passenger disembarkation occurred. There were no injuries to the 104 occupants but the aircraft sustained substantial damage including a large hole in the left side fuselage shell.
+Investigation
+An Investigation was carried out by the NTSB. Relevant data from the SSFDR and the SSCVR were successfully downloaded, although it was found that the SSFDR had stopped recording eight minutes after the engine stopped due to loss of electrical power. Attempts by the Investigation to find the cause of this loss of power were unsuccessful. Having found no evidence that any of the flight operations or ATC aspects of the response to the engine failure were other than expected, the documented Investigation was confined to the airworthiness issues raised by the engine failure.
+What Happened
+It was established that the failure, followed by considerable airframe vibration, had occurred 14½ minutes after the aircraft had been cleared for takeoff from New Orleans as the aircraft was climbing through 31,259 feet. FDR data showed in the 4 seconds following the recorded sound of the failure, the left engine fan speed had dropped from 99% to 39% and half a minute later the cabin altitude warning had been annunciated. By then, the Captain had asked the First Officer to declare an emergency (which was immediately done) and the crew had completed the applicable emergency checklist and commenced an emergency descent. Both pilots then donned their oxygen masks and ATC advised that Pensacola was about 70 miles away and a diversion to there was initiated. It was decided to maintain high speed in the descent despite continued airframe vibration.
+A few minutes later, the Captain communicated with the cabin crew to brief them and instruct that the cabin be secured, subsequently advising that there would be no need for an emergency evacuation on landing. Flight crew oxygen masks were removed once no longer required and ATC advised that an ILS approach to runway 17 at Pensacola could be expected. Approximately 21 minutes after the engine failure had occurred, the aircraft touched down at Pensacola.
+A detailed examination of the aircraft found that the left side fuselage hole (see below) measured 40 cm horizontally and up to 13 cm vertically and was located just below the cabin windows at seat rows 11/12 but no corresponding damage was visible to the interior cabin sidewall. Evidence of other debris impact damage was visible “on the left side of the fuselage, the left wing and the left horizontal stabiliser and the left winglet front spar was partially severed”.
+
+The fuselage hole and its external location. [Reproduced from the Official Report]
+In addition, it could be seen that most of the left engine inlet was missing and the part that remained was badly damaged - the illustration below shows the aft bulkhead remaining in place but the rivets connecting it to the attachment ring were sheared right around the ring.
+The Airworthiness Issues
+It was noted that a “Fan Blade Out” (FBO) event of the type which had caused the engine failure “consists of four phases - the impact phase, the engine surge phase, the engine rundown phase, and the wind-milling phase - during which the aircraft structure is subjected to various loads”.
+The variant of the CFM56 engine installed on the aircraft was the -7B24 which is one of six -7B variants installed on Boeing 737NG aircraft. It was noted that the engine inlet, which is part of the airframe, “is an aerodynamic fairing that guides air into and around an engine (which is) attached to the front of each engine's fan case (and) is part of the nacelle, which houses the engine”. It was further noted “other nacelle components include the fan cowl and the thrust reverser”.
+The fan blade involved, one of 24, was found to have failed where at its dovetail join with the fan disc. In addition to the design of fan blades and their mountings inside the fan case, various manufacturing processes are also employed to reduce the vulnerability of blades to residual stress, to reduce surface erosion and to limit fan blade radial movement in normal operation. The latter helps to ensure that the axial (longitudinal) forces which might occur in the event of bird ingestion or a single FBO event will be transmitted to the hub and minimise their consequences. On the CFM56-7B, the engine inlet is attached to the fan case by 24 fasteners and consists of inner and outer barrels and an aerodynamic lip to create efficient airflow into the fan.
+
+An annotated longitudinal cross section of the CFM 56-7B engine. [Reproduced from the Official Report]
+It was noted that the design of the -7B engine was jointly certificated by the FAA and the French DGAC and the resultant type certificates were issued in December 1996, the French one being replaced by an EASA equivalent in 2004. The aircraft type certificate was subsequently issued by the FAA in December 1997.
+The failed engine was installed on N766SW in October 2007 and at the time of the accident had accumulated 60,790 flight hours and 36,329 flight cycles since new and its 24-blade fan blade set had accumulated 62,852 flight hours and 38,152 flight cycles since new. The fan blade set had originally been installed in a different engine that was installed new on a different Southwest 737-700 in 1998. Although CFM56-7B fan blades were not certified as life-limited parts, and so their times and cycles were not required to be tracked, they stayed together as a set and so it was possible for the Investigation to create a history for them based on a review of relevant general maintenance records.
+Since 2007, no off-wing maintenance interventions relevant to the fan blade set had been recorded and the only on-wing maintenance performed on it was the recommended periodic re-lubrication of the dovetails during which the fan blades were visually inspected to assess the condition of their blade coatings. The most recent of these blade re-lubrications/inspections had been completed in November 2015.
+The only fan blade which failed during the investigated event was blade number 23 - all the other blades were variously damaged but still intact. Laboratory inspection of the dovetail of the failed fan blade found that the coating was chipped and missing on the convex side of the dovetail and that this damage was centred about 5 cm aft of the dovetail leading edge on the convex side of the blade and spanned about 3.5 cm beginning at 1.3 cm from the leading edge. Further examination of this damaged area disclosed clear evidence of a fatigue origin and a region of axial progressive crack growth almost 6 cm long and up to 1.8cm deep was identified with evidence of related ductile overstress beyond this.
+According to the AMM, if a loss of coating is found, affected fan blades can be either replaced or remain in place subject to a reduced inspection interval depending on the amount and location of the coating loss. It was noted that “the loss of coating on fan blade No. 23 at the last re-lubrication was such that the blade could continue in service for 50 flight cycles or 75 flight hours, whichever came first” after which the blade must be replaced. The blade was found to have remained in service for a further 2,397 hours and 1,396 cycles, well beyond the stipulated removal limit.
+Nine of the other 23 intact blades were also found to have areas of missing coating. All were subject to further examination and cracks were found in six of them using various NDT methods. All these cracks had their origins in the same location as the failed blade.
+A re-evaluation by engine design authority CFM prompted by this accident found that the blade fatigue cracks identified “had initiated in an area of high stress on the dovetail and that the dovetail was experiencing peak stresses that were higher than originally predicted”. They also found that higher operational stresses were resulting from spalling of blade coating, higher friction levels when operated without lubrication or a shim, variations in coating thickness, higher loading than originally predicted at the dovetail surface/fan disk interface and losses/relaxation of blade compressive residual stress.
+The Investigation noted the subsequent occurrence of a similar blade root failure event in2018 which had been traced to a low cycle blade fatigue crack that had initiated in the blade dovetail.
+The Probable Cause of the accident was determined to be as follows:
+A low-cycle fatigue crack in the dovetail of fan blade No. 23, which resulted in the fan blade separating in flight and impacting the fan case. This impact caused the fan blade to fracture into fragments that travelled further than expected into the inlet, which compromised the structural integrity of the inlet and led to the in-flight separation of inlet components. A part of the inlet struck the fuselage and created a hole, causing the cabin to depressurise.
+Safety Action taken by CFM International as a result of this accident and the investigation of it was noted to have included the following:
+
+An Eddy Current Inspection (ECI) of fan blade dovetails was added to the engine shop manual overhaul requirement in November 2016. This procedure involves a manual scan of both the concave and convex sides of the dovetail with the blade coating removed followed by an ECI. This has a higher sensitivity than a Florescent Penetrant Inspection (FPI) and can detect cracks near the surface as well as on it.
+In March 2017, a new series of ultrasonic crack inspections which can be performed without the need to remove the blade coating and can therefore be carried out at the same time as on-wing blade re-lubrications were introduced.
+
+The Final Report of the Investigation was published on 30 March 2020. No new Safety Recommendations were made.
+Related Articles
+
+Uncontained Engine Failure
+Rapid Depressurisation
+Cabin Altitude
+Ageing Aircraft - Structural Failure
+Certification of Aircraft, Design and Production
+Non Destructive Testing of Composite Materials in Aviation
+B737, en-route, northwest of Philadelphia PA USA, 2018

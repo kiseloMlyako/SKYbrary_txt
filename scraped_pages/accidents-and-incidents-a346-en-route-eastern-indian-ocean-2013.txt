@@ -1,0 +1,366 @@
+A346, en route, eastern Indian Ocean, 2013
+
+
+
+
+
+
+
+
+
+
+
+  A346, en route, eastern Indian Ocean, 2013
+
+
+
+
+
+
+
+
+
+Summary
+
+On 3 February 2013, an Airbus A340 crew in the cruise in equatorial latitudes at FL350 in IMC failed to use their weather radar properly and entered an area of ice crystal icing outside the prevailing icing envelope. A short period of unreliable airspeed indications on displays dependent on the left side pitot probes followed with a brief excursion above FL350 and reversion to Alternate Law. Excessive vibration on the left engine then began and a diversion was made. The engine remained in use and was subsequently found undamaged with the fault attributed to ice/water ingress due to seal failure.
+
+
+
+
+Event Details
+
+When
+
+03/02/2013
+
+
+
+Event Type
+
+
+HF,
+              LB,
+              LOC,
+              WX
+
+
+
+
+Day/Night
+
+Night
+
+
+
+Flight Conditions
+
+IMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS A-340-600
+
+
+
+
+
+
+
+
+
+Operator
+
+Etihad Airways
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Abu Dhabi International Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Melbourne Airport
+
+
+
+
+
+
+
+Actual Destination
+
+
+
+
+Singapore Changi Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Cruise
+
+
+
+
+
+
+
+
+Location
+
+Approx.
+
+International Waters and within the Melbourne FIR (between the waypoints ELATI and PIPOV).
+
+
+
+
+
+
+
+
+
+
+General
+
+Tag(s)
+
+
+              Copilot less than 500 hours on Type,
+              Deficient Crew Knowledge-automation,
+              En-route Diversion
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Inappropriate crew response (automatics),
+              Manual Handling,
+              Procedural non compliance
+          
+
+
+
+
+LB
+
+Tag(s)
+
+
+              Accepted ATC Clearance not followed
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Uncommanded AP disconnect,
+              Environmental Factors
+          
+
+
+
+
+WX
+
+Tag(s)
+
+
+              In Flight Airframe Icing,
+              En route In-cloud air turbulence
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Non-aircraft damage
+
+Yes
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Number of Non-occupant Fatalities
+
+0
+
+
+
+Number of Occupant Fatalities
+
+0
+
+
+
+Off Airport Landing
+
+Yes
+
+
+
+Ditching
+
+Yes
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Airworthiness
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 3 February 2013, an Airbus A340-600 (A6-EHF) being operated by Etihad Airways on a scheduled international passenger flight from Abu Dhabi to Melbourne with an augmented crew was in the cruise at FL350 in night Instrument Meteorological Conditions (IMC) when a brief period of unreliable airspeed indication on two of the three available displays occurred with loss of the AP. Concurrently, an unintentional excursion above the cleared level took place. On recovery from this and restoration of normal airspeed displays, it was found that the AP could not be re-engaged. Excessive vibration on the left engine then began and a PAN was declared using CPDLC with a diversion to Singapore commenced. The engine remained in use and the vibration ceased during descent with the rest of the diversion uneventful, apart from the need to dump fuel and fly manually.
+Investigation
+An Investigation was carried out by the UAE GCAA Air Accident Investigation Sector (AAIS). Data from the DFDR and DAR were successfully downloaded and used to support the Investigation but the relevant recording on the 2 hour CVR was overwritten during the diversion.
+The flight was being operated with an augmented crew consisting of two Captains and two First Officers. The 39 year-old Operating Captain had 10,636 hours total flying experience including 1094 hours on type and 3050 hours command time on all types. The 24 year-old First Officer was found to have 520 hours total flying experience including 324 hours on type. The 44 year-old Relief Captain had 9159 hours total flying experience including 216 hours on type and 2135 hours command time on all types. The 31 year-old Relief First Officer was found to have 5759 hours total flying experience including 189 hours on type and 1141 hours command time on other types.
+It was established that the aircraft had been in the cruise at FL350 in "light to medium" turbulence when fluctuation in airspeed indications, which were clearly false, occurred over a period of almost two minutes on both the Captain's and the SBY ASIs. Those on the First Officer's ASI remained correct throughout and the other two indications returned to and remained normal after the two minute episode. However, the loss of valid data from the ADR modules of two out of the three available ADIRUs and the fact that the faulty indications on the two affected displays were not the same, resulted in the reversion of the flight control system to Alternate Law in accordance with system design principles. This reversion was initially very brief but then became permanent for the remainder of the flight because the discrepancy between ADR outputs had been 'latched' in the Flight Control Primary Computer (FCPC). FDR data showed that during the unreliable airspeed episode, the aircraft had climbed above its cleared level by 832 feet before recovery. A number of non-standard ways to try to get the AP re-engaged, which is not possible in Alternate Law, were also attempted by the crew.
+DFDR data indicated that the Ice Detection System had not detected any ice build-up during the event but the SAT was -42ºC (ISA +13º) which, it was found, was within the range found to have been characteristic of previous recorded occurrences of temporary pitot probe blockage during ice crystal icing encounters.
+Very soon after the period of unreliable airspeed indications, the crew noticed that the N1 vibration for the No. 2 engine had increased considerably. DFDR data showed that, after a brief rise from 0.2 units to 1.6 units then back to 0.3 units, the vibration level had then increased continuously to a maximum of 7.1 units, triggering the corresponding Advisory Message as it passed 3.8 units. A combination of the concern in respect of both the high level of vibration and the loss of the AP led to the decision to divert to Singapore. Initially a descent to FL290 was made to clear RVSM airspace and to remain in VMC, because of initial crew uncertainty about the correct function of the weather radar. In respect of the need to leave RVSM airspace, the Investigation noted that the requirement was only that "an automatic altitude control system is required for operation in defined RVSM airspace" without any "explicit requirement that the system must be operational". However, it was considered that the interpretation of the provision – according to which the installed system should also be operational – was nevertheless reasonable. The abnormal engine vibration had continued to fluctuate on either side of the 3.8 Advisory Message 'trigger' for approximately 90 minutes until well into the descent to FL290 before ceasing completely during further descent to FL100.
+Communications after the onset of both problems were found to have proved somewhat problematic. Attempts to contact both Brisbane and Melbourne ATCC using HF were unsuccessful so an emergency message was sent via CPDLC to Melbourne ATC reading: “PAN PAN unable maintain altitude due to A/C perform, weather, turbulence” and “Aircraft’s loss of RVSM capability”. Melbourne ATCC replied via the same means about 20 minutes later and provided clearance for a diversion to Singapore. SATCOM was used to communicate with the Operator’s Maintenance Control Centre and Network Operations Centre to seek technical and operational assistance and advise of the intention to divert. The diversion took approximately 3 hours and was uneventful.
+The forecast chart provided to the crew pre-flight was found to have shown an area of isolated embedded cumulonimbus clouds up to FL 450 in the area where the incident occurred. Available evidence suggested that similar actual conditions had prevailed and it was considered that since the aircraft was reported to have been in Instrument Meteorological Conditions (IMC) at the time, the cause of the incorrect indications was that the two pitot probes on the left hand side of the aircraft had been intermittently obstructed by ice crystals despite their automatic electric heating functioning normally. The ambient temperature of the convective cloud through which the aircraft was found to have been flying was conducive to the occurrence of ice crystal icing, which was outside the CS23 Appendix C icing envelope applicable at the time the aircraft type certificate was granted.
+The cause of the excessive No.2 N1 vibration was found to have been water or ice crystals entering and passing through the spinner fairing and accreting as ice under the annulus fillers creating an ice out-of-balance situation and leading to a directly consequential increase in the observed N1 vibration indications until the ice melted. Subsequent inspection of the engine did not find any engine damage and attributed the ingress of water/ice crystals to the disbanding of a seal on the spinner nose cone. It was concluded that there had been no link between the unreliable airspeed indication and the increase in No. 2 engine N1 vibration except that the ice present or formed had occurred outside the prevailing CS23 icing envelope.
+It was found that the weather radar had "functioned correctly" throughout the flight and that the failure of the crew to detect the probability of conditions conducive to ice crystal icing and avoid them was attributed to their incorrect use of manual tilt on the equipment. Otherwise, the only observation in respect of crew performance was that "CRM was practiced appropriately during the Incident, before and during the descent and the approach to the diversion airport".
+In respect of Cause, the Investigation formally stated as follows:
+
+The Unreliable Airspeed Indications resulted from "the intermittent obstruction of the aircraft left side pitot probes due to, most probably, accumulations of ice crystals".
+The (entirely unrelated) No. 2 engine N1 high vibration resulted from "the ingress of water through a gap created after the Omega Seal disbanded (allowing) the water to freeze into ice, which then entered and passed through the spinner fairing and accreted under the annulus fillers".
+
+Two Contributory Factors were identified in respect of the Unreliable Airspeed Indications as follows:
+
+An incorrect weather radar tilt setting was selected. Accordingly, there was no predictive detection of the cumulonimbus cloud that may have enabled the crew to take avoidance manoeuvres.
+The ambient temperature and the aircraft altitude were outside the icing envelope parameters of the JAR specification and the manufacturer's design requirements for pitot probes.
+
+Safety Action already taken as a result of the investigated event or noted as already under way as a result of the AF447 accident was noted as follows:
+
+EASA has now published a revised general specification for large aircraft certification in respect of the airframe risks from ice crystal and mixed phase icing in Amendment 16 to CS-25. A new ETSO C16 (pitot tubes) is due for approval and release in 2015 and the corresponding ETSO revision will follow at the next regular CS-ETSO update. The CS-25 amendment provides new icing test conditions for all flight probes which will be consistent with the new ETSO standards.
+EASA is working with Airbus on the certification of new pitot probes for Airbus aircraft which will comply with a Special Condition which mandates function in the extended icing envelope CS-25 Amendment 16. EASA is currently engaged in formal certification of the new probes which will take "approximately one year". EASA has not yet determined the regulatory requirements which will apply in respect of the new probes, in particular the date from which they will be required and any retrofit requirement.
+Rolls Royce is working on solutions to reduce the possibility of Spinner Omega Seal disband, and is considering other possible changes to ensure that the high vibration risk is effectively managed.
+
+Four Safety Recommendations were made as follows:
+
+that Etihad Airways should add to the existing initial and refresher type training syllabi appropriate material, such as that contained in the published manufacturer documentation regarding optimum techniques for use of the manual weather radar, in order to maximize the weather surveying and detection capabilities. (SR 41/2015)
+that the European Aviation Safety Agency (EASA) should consider mandating the qualification aspects of the pitot probes in icing conditions to meet the new requirements of CS-25 Amendment 16 for forward fitting to aircraft in production and for retrofitting to aircraft already in service. (SR 42/2015)
+that the General Civil Aviation Authority of the United Arab Emirates should establish communication with the type certification authorities recognized by the UAE to examine the ‘ice protection certification specification’ regarding aircraft operating outside the older applicable certification specification, JAR part 25, and the new EASA CS-25 Amendment 16. (SR 43/2015)
+that the General Civil Aviation Authority of the United Arab Emirates should take the necessary action to require operators which are regulated by the General Civil Aviation Authority of the United Arab Emirates to include optimum techniques for use of manual weather radars in initial and refresher type training syllabi. (SR 44/2015)
+
+The Final Report was released on 28 December 2015.
+Related Articles
+
+High Level Ice Crystal Icing: Effects on Engines
+Weather Radar
+In-Flight Icing
+Pitot Static System
+Ice Formation on Aircraft
+Icing Certification
+Controller Pilot Data Link Communications (CPDLC)
+Air Speed Indicator
+
+Further Reading
+
+Adverse Weather Operations: Optimum use of the Weather Radar, Airbus FOBN

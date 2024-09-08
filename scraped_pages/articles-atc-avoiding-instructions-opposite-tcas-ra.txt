@@ -1,0 +1,143 @@
+ATC Avoiding Instructions Opposite to TCAS RA
+
+
+
+
+
+
+
+
+
+
+
+  ATC Avoiding Instructions Opposite to TCAS RA
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Nets 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+When a loss of separation is likely to occur or has occurred, the controller will issue instruction(s) to one or both aircraft. These instructions may conflict with an Airborne Collision Avoidance System (ACAS) RA, creating the potential for confusion and the possibility of an inappropriate response.
+Such a conflict often arises because of the much more rapid update of relative position available to the flight crew via TCAS than to ATC with even the best radar refresh rates. Controllers must also:
+
+potentially react to more than one conflict detection source (e.g. radar display and Short Term Conflict Alert (STCA));
+
+
+assess the situation;
+
+
+develop a solution in a very short period of time; and,
+
+
+communicate this solution to the aircrew as quickly and clearly as possible.
+
+Controller detection of a potential conflict may be delayed due to tasks with other aircraft under control and communications with conflicting aircraft may then also be delayed because of RTF congestion or misunderstandings between the controller and the pilots.
+TCAS II automatically detects a risk of collision based upon the straight line projection of relative trajectories. When a risk of collision is detected, an appropriate avoidance manoeuvre is calculated and communicated directly to the flight crew via both flight instrument display and aural annunciation. It does this within one second of the detected conflict in keeping with the TCAS 'refresh' interval of 1 second.
+Whenever both aircraft are operating TCAS II in RA mode, TCAS II coordinates the RAs and safe separation depends on both RAs being promptly and accurately followed. Therefore, if TCAS indicates a descent to one aircraft, but the pilot were to climb in response to current ATC instructions, the collision avoidance logic is completely negated.
+Therefore, whenever TCAS II gives a RA, flight crew must follow it even if it is contrary to instructions received from the controller.
+This necessity is supported by ICAO SARPs and by IR-OPS (and EU-OPS 1), which require that "An operator shall establish procedures to ensure that:
+... When undue proximity to another aeroplane (RA) is detected by ACAS, the commander or the pilot to whom conduct of the flight has been delegated must ensure that any corrective action indicated by the RA is initiated immediately, unless doing so would jeopardize the safety of the aeroplane;
+The corrective action must:
+(i) Never be in a sense opposite to that indicated by the RA
+(ii) Be in the correct sense indicated by the RA even if this is in conflict with the vertical element of an ATC instruction."
+References
+
+IR-OPS CAT.OP.MPA.295 and EU-OPS 1.398 - Use of Airborne Collision Avoidance System
+
+Further Reading
+ICAO
+
+ICAO Doc 4444: PANS-ATM Chapter 15;
+ICAO Doc 8168: PANS-OPS Volume 1, Chapter 3;
+
+EUROCONTROL
+
+ACAS Bulletin 1;
+
+
+
+
+
+Categories
+
+
+Safety Nets
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

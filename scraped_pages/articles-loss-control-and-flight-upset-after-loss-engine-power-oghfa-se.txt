@@ -1,0 +1,236 @@
+Loss of Control and In-Flight Upset After Loss of Engine Power (OGHFA SE)
+
+
+
+
+
+
+
+
+
+
+
+  Loss of Control and In-Flight Upset After Loss of Engine Power (OGHFA SE)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+OGHFA 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ Flight Safety Foundation
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Incident as a Situational example
+You are the captain of a large four-engine jet on a trans-pacific flight at Flight Level (FL) 410 with the autopilot on when engine no. 4 loses power. You switch on the "Fasten Seatbelt" sign when the flight encounters clear air turbulence. In accordance with company procedures, the flight engineer has placed the ignition switches in the "Flight Start" position, thereby providing continuous ignition to all four engines.
+What are you going to do in terms of task sharing?
+In response to your order, the flight engineer takes out his checklist to review the applicable engine-out procedures as well as the performance charts to ascertain the three-engine en route cruise altitude. You tell the first officer to request a lower altitude from air traffic control (ATC) in order to descend and restart the engine.
+The relief flight engineer and the relief captain are resting in bunks at the rear of the flight deck. You instruct the relief flight engineer to come forward and help the on-duty flight engineer. The relief flight engineer moves forward to help restart the no. 4 engine. When the relief captain climbs out of his bunk after the relief flight engineer has moved forward, he can see neither the flight instruments nor any outside visual references.
+The first officer tells you that airspeed is decreasing.
+What would you react?
+The first officer requests a lower altitude from ATC. He does not tell them about the engine failure, nor does he declare an emergency. ATC tells him to "stand by," and the first officer does not recall hearing anything further in response to his request.
+You see the indicated airspeed drop through 240 kt. As the airplane continues to decelerate, you turn the autopilot speed mode to "Off" to release it from the altitude hold mode. This switches the autopilot to the pitch attitude hold mode while maintaining aircraft track in the autopilot roll mode without any pilot input. You then rotate the pitch control wheel on the autopilot manual control in the nose-down direction to begin a descent to counter the airspeed loss. As airspeed continues to decrease, you disconnect the autopilot and manually lower the nose at a faster rate in a further attempt to stop the airspeed loss.
+After his radio call, the first officer notices that the airplane is continuing to bank slightly to the right, and he tells you. You are concentrating on your attitude director indicator (ADI) to make a left-wing-down turn, but you notice the horizon reference line rotating rapidly to the left and all the way to the vertical position. You do not see any ADI failure flags or lights. You look at the first officer’s ADI and at the standby ADI and do not see any inconsistency between them. The airplane enters a cloud layer, and you cannot confirm the attitude.
+At that moment, the flight engineer tells you that the other three engines have also lost power and that the airplane “dropped all of a sudden.”
+What would your next move be?
+You pull back on the control column, but the airspeed continues to increase rapidly until it exceeds the maximum operating speed (Vmo). Meanwhile, the first officer notices his ADI has rotated to the left in the same manner as yours, and he does not see any ADI failure flags or lights either. At this point, he thinks that both his ADI and yours "have malfunctioned," the airplane is out of control, banking steeply left and right.
+What would your next move be?
+The flight engineer attempts without success to restart the engines because g forces in this abnormal attitude are so great that he cannot move his arm and his head is forced down onto the pedestal.
+The relief flight engineer is thrown back into the rear jump seat by the strong g forces, and the relief captain is thrown to the floor while trying to move forward to help. Throughout the descent, g forces are so strong that he cannot get up.
+You are unable to recover the airplane. In the clouds, you are not sure what the attitude is and are moving the control wheel left and right.
+What would your next move be?
+As the airplane accelerates, you continue to pull the control column back. Airspeed slows rapidly to between 80 and 100 kts. To avoid stalling, you lower the nose. The airplane accelerates again, and the airspeed again exceeds Vmo.
+What would your next move be?
+The first officer asks for help, and you both pull the control column back. The airplane decelerates. You lower the nose smoothly. The airplane begins to decelerate slowly and emerges from the clouds at about 11,000 ft at around 180 kt. You tell the other crewmembers you can see the horizon.
+Using outside visual references, you regain stabilized control at about 9,500 ft. The first officer confirms his ADI is "coming back."
+The flight engineer confirms that the no. 1, no. 2 and no. 3 engines "came in," but says the no. 4 engine would not restart. He is able to restart no. 4 later, following the airline’s procedures. After checking the electrical control panel, he says that “everything is back to normal.”
+ATC is contacted when the airplane is stabilized, and you report having experienced a "flameout, ah, an emergency … we are at niner thousand feet.”
+The crew is then cleared to climb to and maintain FL 350. While the airplane is climbing, the flight engineer checks his instrument panel. Annunciator lights indicate that the center landing gear door is open and the center gear is extended and locked. In addition, the no. 1 hydraulic system fluid-level gauge indicates empty.
+How do you see the situation now?
+Because of the landing gear indications, you choose to level off at FL 270 with the gear extended. The maximum operating altitude for flight with the gear extended is FL 290. After checking the airplane's fuel status and fuel consumption, you decide to divert and instruct the first officer to inform ATC, which gives you the requested clearance.
+Three minutes later, you declare an emergency again and state that there are injured people aboard. ATC clears you direct to the diversion airport and to descend at "pilot's discretion." The remaining part of the flight is uneventful.
+After landing, due to the inoperative no. 1 hydraulic system which decreases the ability to steer while taxiing, you stop the airplane after it is clear of the runway and shut down the engines. The airplane is towed to the gate.
+During the upset, a passenger and a cabin crewmember were seriously injured. The airplane was substantially damaged by aerodynamic overload. A landing gear assembly was forced open, the auxiliary power unit separated from its structure, and a large part of the horizontal stabilizer is missing.
+Data, Discussion and Human Factors
+Analysis of 20 transport category airplane loss-of-control accidents from 1986 to 1996 by the U.S. National Aeronautics and Space Administration Aviation Safety Reporting System and the U.S. National Transportation Safety Board (NTSB) indicates that stalling was one of the most prevalent causes of aircraft upsets.
+Upsets are usually defined as an airplane in flight unintentionally exceeding the parameters normally experienced in line operations or training, such as:
+
+Pitch attitude greater than 25 degrees nose-up;
+Pitch attitude greater than 10 degrees nose-down;
+Bank angle greater than 45 degrees; or,
+Within the above parameters, but flying at airspeeds inappropriate for these conditions.
+
+The majority of upsets are caused by environmental factors such as turbulence, mountain waves, wind shear, thunderstorms, microbursts, wake turbulence and icing.
+Airplane upsets also can be induced by system anomalies. Flight crews are trained to overcome or mitigate the impact of flight instrument, autoflight system and flight control anomalies.
+More related human factors are pilot-induced upsets, primarily when the crew is misled by erroneous sensory inputs in the absence of outside visual references.
+Minor upsets can occur due to improper instrument cross-checks by pilots. More severe upsets can be the consequence of incorrect attitude or power adjustments, inattention or distractions, spatial disorientation, pilot incapacitation or pilot-induced oscillations.
+In this accident, situational awareness began to deteriorate when the crew concentrated on the problem with the no. 4 engine. This was a scenario that the crew had not anticipated. The captain focused on his ADI while the airplane entered clouds, preventing the crew from using outside visual references.
+The airplane decelerated for 3 minutes and 40 seconds. The captain was fully aware of the engine situation, and his attention appeared to focus almost exclusively on the airplane’s decreasing airspeed.
+The NTSB’s accident report mentioned that one of the causes of this incident was the captain’s reliance on automation while the airplane was decelerating. He allowed himself to get out of the control loop by leaving the autopilot engaged. He was therefore not aware of the increasing control inputs required to maintain constant flight level. Had he disengaged the autopilot when the engine problem began, he would have been more aware of the increasing asymmetrical forces placed upon the airplane because he would have been required to counteract those forces himself to stay level.
+The captain’s attention seemed to be almost uniquely focused on the airspeed indicator while attempting to stop the airspeed decrease. Apart from airspeed, the only instrument available in the cockpit that would have alerted the crew about a worsening control situation was the control wheel’s slowly increasing deflection. But the change was so slow that it was almost imperceptible. Since the captain was not “hands on,” he was not aware of it.
+When the autopilot finally was disengaged, the control deflection was so pronounced — a 20-degree right-wing-down attitude — that immediate action was required to correct the situation. However, the captain was unable to assess it properly, and his actions most probably aggravated the situation. Concentrating on the airspeed, he did not observe the continuous roll passing the 45-degree mark. That the first officer did not notice this shows he, too, was distracted. Both the captain’s and the first officer’s scan patterns were absent.
+The captain relied too much on automation, which aggravated the situation because it masked the impending loss of control.
+The report also mentioned that, although the occurrence happened four to five hours after the captain usually went to sleep, he had been able to get about five hours of rest. He had been on duty for three hours and was alert at the time of the event.
+Additionally, loss of thrust from the no. 4 engine at cruise altitude and speed did not place the airplane in a dangerous situation.
+Prevention Strategies and Lines of Defense
+In this accident, the captain did not disengage the autopilot in a timely manner after thrust was lost from the no. 4 engine. The autopilot masked the approaching onset of the loss of control.
+The captain was distracted from monitoring the flight by his participation in the evaluation of the no. 4 engine malfunction, as was the flight engineer. The captain was also distracted by his attempts to correct the airplane’s decreasing airspeed. This contributed to his inability to detect early the airplane’s increasing bank angle.
+The lateral deflection associated with the thrust asymmetry and decreasing airspeed exceeded the limits of the autopilot. This caused the airplane to roll and yaw to the right. The captain lost control when, after disengaging the autopilot, he failed to make the proper correction to recover the situation, being “outside of the loop.”
+Adequate flight monitoring, effective situational awareness, timely decision making and prompt procedural actions and task sharing would also have contributed to avoiding the upset. Avoiding getting into a situation is always the best preventive measure.
+The first actions taken to recover from an airplane upset must be correct and timely. Improper inputs during any upset recovery can lead to a different upset situation. Troubleshooting the cause of the upset is always secondary to initiating the recovery. Regaining and maintaining control of the airplane are of paramount importance.
+The situation analysis sequence is:
+
+Communicate with other crewmembers;
+Locate the bank indicator;
+Determine pitch attitude;
+Confirm attitude by reference to other means; and,
+Assess the energy level.
+
+Airplane upsets are the results of multiple causes and do not happen often. Crews are usually surprised when they occur. There can be a tendency for pilots to react before analyzing what is happening or to fixate on a single indication and thus fail to properly diagnose the situation.
+When an upset occurs, the crew must regain control of the airplane and then determine and eliminate the cause of the upset by:
+
+Recognizing and confirming the situation.
+Disengaging the autopilot and autothrottles.
+Recovering to level flight.
+
+The following strategies are recommended to avoid this type of incident:
+
+Work as a team for accurate risk assessments and tactical decision making.
+Explicitly define task sharing so it is clear who is to monitor all critical flight parameters.
+
+Applicable human factors principles lead to these simple guidelines that can help you stay out of trouble:
+
+Actively search for new information from all available sources to complete situational awareness; missing information may be vital.
+Communicate with each other to make sure that the entire team has a common understanding of the situation.
+Do not fixate on one single indication.
+Use all available resources as an integral part of the team.
+Focus extra attention on critical parameters relevant to your actual situation. In this example, the crew should have concentrated more on the airplane heading and on the roll indication rather than only on the decreasing airspeed.
+Cross-check what you see, hear and feel with available flight instruments.
+Make sure you use callouts effectively when needed.
+
+Key Points
+This situational example describes an accident that was caused by the captain’s preoccupation with an in-flight engine malfunction and his failure to properly monitor the flight instruments. This resulted in loss of control and the captain’s inability to restore the airplane to stable flight until it had descended to 9,500 ft.
+This accident could have been prevented if the flight crew had recognized that they were distracted and had lost situational awareness by relying too much on automation, and had demonstrated proper decision making to restore their situational awareness. Addressing human factors issues in situations such as preventing airplane loss of control requires concentrating on the following key activities:
+
+Maintain situational awareness at all times and assess whether available information is sufficient to support mission goals.
+Be sensitive to the possibility of experiencing confusion potentially associated with never-before-seen situations.
+Work together as a team to make appropriate decisions, taking into account the operational facts and priorities of the situation.
+Manage pressures, stress and distractions due to unexpected events or unusual and infrequent circumstances.
+
+Associated OGHFA Material
+Briefing Notes:
+
+Situational Awareness
+Flight Preparation and Conducting Effective Briefings
+Stress and Stress Management
+Decision Making
+Managing Interruptions and Distractions
+
+Visuals:
+
+Situational Awareness
+Stress Management
+
+Checklist:
+
+Situational Awareness Quick Reference and Reminder
+Decide - Checklist
+
+Related Skybrary Articles
+
+Crew Resource Management;
+Loss of Control;
+Situational Awareness.
+
+Additional Reading Material
+
+Airplane Upset Recovery Training Aid Chapter 2, “Pilot Guide to Airplane Upset Recovery.”
+ICAO Amendment No.3 to PANS-TRG (Doc 9868) - Chapter 7, Upset Prevention and Recovery Training, April 2014.
+FAA AC 120-111 Upset Prevention and Recovery Training, January 2017.
+Aviation Safety and Pilot Control: Understanding and Preventing Unfavorable Pilot-Vehicle Interactions, by the US National Academy of Sciences, 1997
+
+
+
+
+
+Categories
+
+
+OGHFA,
+              Situational Examples,
+              Human Factors
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

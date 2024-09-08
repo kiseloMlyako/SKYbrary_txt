@@ -1,0 +1,165 @@
+Runway Identification
+
+
+
+
+
+
+
+
+
+
+
+  Runway Identification
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Runway Excursion 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Positive Runway Identification is usually described as the unequivocal association of a runway with its correct identity prior to landing on it, prior to taxiing onto it in a fixed wing aircraft, hover taxiing over it in a rotary wing aircraft or entering it as a vehicle driver.
+Discussion
+Accident and incident reports show that misidentification of runways by pilots - and sometimes by vehicle drivers too - can be a significant factor in both accidents and serious incidents in which a runway collision risk was created. The unintended use or otherwise attempted use of parallel taxiways for both take off and landing has in the past been at least as common as Wrong Runway Use. In extreme cases, large aircraft on public transport flights have been landed on runways that are not even at the right airport. Runway misidentification can result in a runway incursion or a runway overrun and may lead to the use of a taxiway or an incorrect runway for take off or landing. Ultimately a collision with another aircraft, a vehicle or ground obstructions can create the conditions for a fatal accident.
+The Take Off Case
+A typical take off case involves a departing aircraft lining up on a parallel taxiway after being cleared to do so on the adjacent runway. There are also cases of aircraft lining up on the runway edge lights in the mistaken belief that they were runway centreline lights and, since this error can be difficult for ATC to detect, then making a take off on this false alignment. Such errors usually occur either in restricted visibility or at night. See, for example, A332, Abu Dhabi UAE, 2012, A319, Las Vegas NV USA, 2006, AT72, Dresden Germany, 2002 and B738, Oslo Gardermoen Norway, 2005 which all occurred at night. However, the serious incident A320, Oslo Norway, 2010 occurred when a take off from the same parallel taxiway as the one involved in the 2005 incident was made in daylight in the presence of frozen deposits on the manoeuvring surfaces. Norway was somewhat unusual at that time in mandating the use of surface markings which were contrary to the ICAO Standard usually encountered. This was apparently a state-wide response to the perceived difficulties with standard white markings in the winter period when a 'back to blacktop' policy for removal of frozen deposits is frequently considered to be an impracticable objective. Modification of this policy so that the main international airports (only) in Norway are ICAO-compliant has since been re-considered.
+Less often, and usually in the presence of complex airport layouts, a runway parallel or nearly parallel to that authorised is inadvertently used for take off - see for example B732, Seattle WA USA, 2006. If a wrong runway is involved and it is closed or partially closed for Runway Maintenance, then the eventual outcome, if the line up error is undetected, can be a collision with obstructions - see for example B744, Taipei Taiwan, 2000. More often, a take off from a parallel taxiway is (just) successful, albeit with considerably reduced margins of safety which leave no margin for unexpected occurrences during the take off roll - see for example A343, Hong Kong China, 2010 and A343, Anchorage AK USA, 2002.
+The Landing Case
+The most typical landing case involves a landing on a taxiway parallel to the correct runway, by day or by night. See for example B734, Palembang Indonesia, 2008, B732, London Gatwick UK, 1993 and B739, Akita Japan, 2007. Less often another runway at the same airport is inadvertently used; even less often, an approach - and sometimes even a landing - is made to runway with a similar orientation in the vicinity of the extended centerline of the correct runway, but at a different airport, is used, see for example B733, vicinity Belfast Aldergrove UK, 2006. A few cases where aircraft landed on a runway at the wrong airport have occurred, see for example A320, Ballykelly Northern Ireland UK, 2006.
+The Common Feature
+Almost all occurrences where the correct runway was not positively identified have been because of complacency in visual acquisition. Such a failure most frequently occurs when a paved surface near to the correct with the same or a similar orientation is selected. However, an exception is the fatal accident which resulted from the use of an incorrect runway for take off in 2006, see CRJ1, Lexington KY USA, 2006.
+In most departure cases and almost all landing cases, visual reference is not restricted and there is simply a complete absence of any attempt at positive runway identification. Most documented occurrences have involved multi-crew aircraft, which indicates an additional failure of the effectiveness of cross monitoring by the pilot designated as PM. Incidents involving operations in restricted forward visibility occasionally feature in the take off case, but it appears that the more rigorous procedures and heightened flight crew awareness of the scope for inadvertent error which apply in these circumstanced are generally an effective mitigation against increased risk.
+Defences
+
+Pre flight briefing should include a review of airport layouts with which one or both pilots are not wholly familiar with.
+Flight Crew and vehicle drivers should ensure that they maintain progressive position awareness whilst undertaking ground movement. For aircraft taking off, a check for the correct take off position by alignment alone cannot provide assurance that the aircraft is on the correct runway (although of course a check against the correct ILS LLZ display - can).
+Flight crew should at all times ensure that the cross monitoring by the pilot designated as PM of the actions of the PF is effective, both in respect of detection and response. Similar vigilance and where necessary response should be exercised by supernumerary crew members occupying flight deck seats for take off and landing.
+If a straight-in precision approach is expected to be flown to or near to DA before the required viusual reference for a landing is obtained, then an extra check that any radio aid frequency being used is tuned and identified as corresponding to that for the correct runway.
+If an offset ILS, any non precision approach (NPA), a circling approach or an entirely visual approach is being flown, the approach briefing should include discussion of how positive runway identification will be accomplished.
+Runway Lighting is coloured completely differently to Taxiway Lighting and should provide a normally alert flight crew with an opportunity to distinguish one from the other.
+Since runway edge lighting is spaced differently to any runway centreline lighting, line up with reference to the edge lighting should be avoidable.
+If ATC have surface movement radar or more sophisticated equipment to track aircraft ground movements, this can prevent an error in runway identification from having a serious consequence. If time permits or if there is are any indications of position uncertainty in respect of a particular aircraft, especially in restricted forward visibility conditions, then active aircraft ground position monitoring is especially valuable prior to the issue of a take off clearance. A-SMGCS can additionally provide a range of alerts where an aircraft fails to follow its issued clearance or it has been given an inappropriate ATC clearance.
+The addition of RAAS functionality to ‘standard’ TAWS provides a direct means of confirming that runway identification is correct.
+
+Accidents and Incidents
+SKYbrary contains reports on the following events that the use of the wrong active runway:
+
+
+B39M, Pittsburgh USA, 2022On 21 June 2022, a Boeing 737-9 cleared for a visual approach and landing on runway 28C at Pittsburgh landed on the adjacent runway 28L instead. The controller stated that having become aware that the aircraft was lined up with the wrong runway in the absence of any potential hazards, he had decided not to intervene. The crew said that a transient avionics fault on final approach had reduced their opportunity to ensure correct runway alignment but this fault was found to have cleared much earlier. It was noted that runway 28L had sequenced approach lighting whereas 28C had none.
+
+DH8D, Belagavi India, 2021On 24 October 2021, a Bombardier DHC8-400 inbound to Belagavi initially advised to expect a non-precision approach to runway 08 was subsequently cleared for an equivalent approach to runway 26. An approach to runway 08 was then flown without ATC intervention or pilot error recognition, but with no actual consequences. The error was attributed to pilot expectation bias and distraction and controller failure to order a go-around after eventually realising what was happening. The context that had facilitated the errors was considered to be procedure and performance inadequacy at both the aircraft operator and ATC.
+
+B752, Tulsa USA, 2022On 8 June 2022, a Boeing 757-200 making a night visual approach to Tulsa inadvertently landed on runway 18R instead of 18L as briefed and cleared. ATC did not intervene. Neither pilot recognized the error until the captain realized there was less runway ahead than he had expected. He had planned to "roll long," expecting a the turnoff at the end of the much longer runway 18L. Although both pilots reported not being fatigued, it was concluded that lack of recognition of their error suggested otherwise, and probably facilitated plan continuation bias aided by inability to efficiently integrate available information.
+
+SH36, Ndola Zambia, 2021On 24 October 2021, a Shorts SD360 intending to land at the international airport serving Ndola did so at the recently closed old international airport after visually navigating there in hazy conditions whilst unknowingly in contact with ATC at the very recently opened new airport which had taken the same name and radio frequencies as the old one. The Investigation found multiple aspects of the airport changeover and re-designation had been mismanaged, particularly but not only failure to publish new flight procedures for both airports and ensure that NOTAM communication of the changes internationally had been effective.
+
+B738, Busan South Korea, 2019On 7 September 2019, the crew of a Boeing 737-800 completed a circling approach to runway 18R by making their final approach to and a landing on runway 18L contrary to their clearance. The Investigation found that during the turn onto final approach, the Captain flying the approach had not appropriately balanced aircraft control by reference to flight instruments with the essential visual reference despite familiarity with both the aircraft and the procedure involved.It was concluded that the monitoring of runway alignment provided by the relatively low experienced first officer had been inadequate and was considered indicative of insufficient CRM between the two pilots.
+
+
+...further results
+
+
+Related Articles
+
+Wrong Runway Use
+Landing without ATC Clearance
+Runway Incursion and Airport Design
+Parallel Runway Operation
+
+Further Reading
+
+European Action Plan for the Prevention of Runway Incursions, Appendix D - Flight Crew Best Practices
+ICAO Doc 9870 App B - Best Practices on the Flight Deck
+Identification Techniques to Reduce Confusion Between Taxiways and Adjacent Runways, J. W. Patterson, Jr., R. N. Frierson, September 2007.
+Engineering Brief No. 72A - Positive Identification Of Runways For Landing, FAA, November 2007.
+SAFO 17010: Incorrect Airport Surface Approaches and Landings, 2017
+
+
+
+
+
+Categories
+
+
+Runway Excursion,
+              Wrong Runway Use,
+              Preventing Incorrect Presence on Runway
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

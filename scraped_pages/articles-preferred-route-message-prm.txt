@@ -1,0 +1,151 @@
+Preferred Route Message (PRM)
+
+
+
+
+
+
+
+
+
+
+
+  Preferred Route Message (PRM)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+A Preferred Route Message (PRM) is an operator generated message detailing their anticipated North Atlantic (NAT) activity and route preferences during the upcoming Organised Track System (OTS) period. The message is transmitted to the appropriate Oceanic Control Area (Gander or Shanwick) OTS planning section and all other concerned parties via AFTN.
+Discussion
+As part of the Collaborative Decision Making (CDM) procedures for NAT track design, operators proposing to execute NAT crossings during the upcoming OTS period are encouraged to contribute to the OTS planning process. This CDM process commences with the PRM system. To enable oceanic planners to take into consideration operators' preferred routes in the construction of the OTS, all NAT operators (both scheduled and non-scheduled) are urged to provide information regarding the optimum tracks of any/all flights they intended to operate during the upcoming peak traffic periods. Such information should be provided as far in advance as possible, but not later than 1900 UTC for the following daytime OTS and 1000 UTC for the following night-time OTS.
+The requirement, schedule and AFTN addresses for submitting PRMs for daytime, westbound flights are specified in the United Kingdom Aeronautical Information Publication (AIP) in section ENR 2.2. The corresponding information for night-time, eastbound flights is found in the Transport Canada Aeronautical Information Manual (AIM) in section NAT - North Atlantic (NAT) Operations.
+Message Format
+The following message format and example messages are for information purposes only. Please consult the applicable publications (UK AIP or TC AIM) for the most up-to-date information.
+Eastbound
+The following format is to be used for eastbound PRMs:
+[PRIORITY] [DEST ADDRESS] [DEST ADDRESS] [etc] — [DATE TIME OF ORIGIN] [ORIGIN ADDRESS][MESSAGE TYPE]-[COMPANY]-[EB]-[YYMMDD AT 030°W] - [(DEP/ DEST)(INLAND FIX)(OEP)(OCA RPS) (LANDFALL) (LAST UK POINT)(NUMBER OF FLT 01-99)]
+NOTES:
+
+If there is no inland navigation fix (INF), the latitude crossing 080°W is to be used.
+Message information from DEP/DEST to NUMBER OF FLT is to be repeated for each city pair.
+
+Example:
+FF EGGXZOZX EGTTZDZE CZQXZQZX CZQMZQZX CZULZQZX CYHQZDZX KCFCZDZX KZNYZRZX BIRDZQZK LPPOZOZX 120936 EHAMKLMW PRM-KLM-E-160613-KJFK/EHAM TOPPS RIKAL 53/50 53/40 54/30 54/20 54/15 BABAN BLUFA 03 CYMX/EHAM YML HOIST 57/50 58/40 58/30 57/20 56/10 MAC BLUFA 01
+Westbound
+The following format is to be used for westbound PRMs:
+[PRIORITY] [DEST ADDRESS] [DEST ADDRESS] [etc] — [DATE TIME OF ORIGIN] [ORIGIN ADDRESS] [MESSAGE TYPE]-[COMPANY]-[WB]-[YYMMDD AT 030°W]-[(DEP/DEST)(FIRST UK POINT)(ANCHOR POINT) (OCA RPS) (OEP)(INLAND FIX)(NUMBER OF FLT 01-99)]
+NOTES:
+
+If there is no inland navigation fix (INF), the latitude crossing 080°W is to be used.
+Message information from DEP/DEST to NUMBER OF FLT is to be repeated for each city pair.
+
+Example:
+FF EGGXZOZX EGTTZDZE CZQXZQZX CZQMZQZX CZULZQZX CYHQZDZX KCFCZDZX KZNYZRZX BIRDZQZK LPPOZOZX 111824 LSZHSWRW PRM-SWR-W-160612-LSZH/KJFK BNE BEL 55/10 56/20 57/30 55/40 53/50 YAY TOPPS 02 LSZH/KIAD BNE BURAK 53/15 53/20 52/30 51/40 50/50 ELSIR TUSKY 01
+Related Articles
+
+North Atlantic Operations - Airspace
+North Atlantic Operations - Organised Track System
+
+Further Reading
+ICAO
+
+Doc 007 - North Atlantic Operations and Airspace Manual
+
+United Kingdom
+
+UK Aeronautical Information Publication (AIP)
+
+Transport Canada
+
+Transport Canada Aeronautical Information Manual (AIM)
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

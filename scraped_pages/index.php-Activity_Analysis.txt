@@ -1,0 +1,226 @@
+Activity Analysis
+
+
+
+
+
+
+
+
+
+
+
+  Activity Analysis
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+A finite number of observable activities is defined by subject matter experts. During a pre-defined period the number of, or time spent on, the defined activities is recorded.
+Discussion/References
+Activity analysis is a simple and effective technique for assessing the working of an individual or a team. It was used in aviation as far back as 1947, when Christensen (1947) used it to study the activities of aircrew in Arctic Navigation. Shackel employed a continuous activity analysis in 1970 to observe aircrew activity in civil airline operation. The technique was employed at EUROCONTROL Experimental Centre (McCluskey et al 1973) in a sampling form. A single observer walked round the simulated operations room, noting the activities of the operators as she passed them. This required the observer to walk continuously during 90 to 100 minutes for two or more sessions per day. Although the task was shared between two observers for several occasions, the physical effort was considerable, and was not appreciated by the observer.
+In that study, observations were made at 1-minute intervals on six individuals, and distinguished Keying, Strip Marking, Strip Handling, Communication (R/T or telephone), Liaison (with adjacent operators), Observation (of radar and strips) and Non-simulation activity.
+Empirical observation suggests that it takes about 15 seconds to identify what activity the operator is engaged in - provided that the activities have been sufficiently well defined.
+Although the manual observation method is practical, a contemporary realisation would probably use video-observation and/or video recording. A ‘fish-eye’ panoramic lens might be used with a suitably mounted camera, or a number of cameras might be used to provide a mosaic image. As in Postural Analysis (see below) a stop-motion camera may be used to provide time samples at regular intervals. The Noldus Observer system could be used to provide a simple and effective method of registering the data for analysis.
+
+
+
+
+Categories
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+Generics
+
+
+Type of method
+Observation
+
+
+Target of method
+Strategies, Usability
+
+
+Life Cycle Design
+Requirements, Mock-up, Prototype, Real-Time Simulation, Real World
+
+
+Time Scale of method
+Minutes
+
+
+Activity analysis usually involves activities which take 15 seconds to 30 minutes. In general, several measurements are required to establish a change in the situation.
+
+
+Portability of method
+Yes
+
+
+Activity analysis can be carried out virtually anywhere, provided a good view of the activities being measured can be obtained. (Analysis can be carried out using video- either directly or in recorded form).
+
+
+Observer Effect
+Yes
+
+
+If an operator is aware that he being directly observed by an investigator, he may take more care to use correct procedures. (In practice, this sort of observer effect wears off rapidly, particularly under heavy workload). Indirect observation is less intrusive, but may be more difficult to interpret.
+
+
+Context of studies
+
+
+Laboratory studies
+Use
+
+
+ 
+
+
+Simulation studies
+Use
+
+
+ 
+
+
+Field studies
+Use
+
+
+ 
+
+
+Potential problems with the method
+
+
+Failure risk
+Low
+
+
+If the activities have not been well defined, in the sense that they can be clearly identified by the observer, the latter may not be able to make usable observations.
+
+
+Bias risk
+Moderate
+
+
+Where some activities are rare, or particularly important, the observer is more likely to notice them. In sampling analysis, where the observer reports the state of the operators at a specific time, there is always a tendency to report an ‘interesting’ activity that has just finished, or is just about to begin at the instant that is being sampled.
+
+
+Ethical problems
+None
+
+
+No specific problems.
+
+
+Costs of the method
+
+
+Staff Cost
+Low
+
+
+One observer can normally carry out a continuous activity analysis on up to three operators, provided that the activity definitions are adequately defined, and each activity takes at least ten seconds. Alternatively, one observer can carry out sampling activity analysis on a full control room, monitoring each position in turn.
+
+
+Set-up Cost
+Low
+
+
+The primary cost of setting up is that of defining the activities. These have to be defined so that they have a valid ATC meaning, and also some well-defined physically recognisable activity.
+
+
+Running Cost
+Low
+
+
+Activity analysis used to be a form filling activity, but in any modern context, a laptop or palm-top, pre-programmed to accept key signals would normally be used.
+
+
+Analysis Cost
+Low, Moderate
+
+
+The cost of analysis varies depending on the data collection method used. Modern systems use pre-defined data collection routines, which allow for cheap and easy analysis.
+
+
+Analysis data
+
+
+Analysis Speed
+Fast
+
+
+The data collection phase of activity analysis can be organised so that the final analysis is available at the end of each exercise.
+
+
+Data Automation
+Yes
+
+
+The collection of activity analysis data is at present not practically automatable, since it requires a certain level of judgement by the observer. If this can be avoided or a suitable substitute found, the method could be much more valuable, and would be more used.
+
+
+Analysis Automation
+Yes
+
+
+There are no practical problems about the automation of data analysis for Activity Analysis, provided that the data are available in suitable form.
+
+
+Status
+Established
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

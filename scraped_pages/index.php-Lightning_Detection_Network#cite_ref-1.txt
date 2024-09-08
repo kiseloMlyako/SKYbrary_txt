@@ -1,0 +1,147 @@
+Lightning Detection Network
+
+
+
+
+
+
+
+
+
+
+
+  Lightning Detection Network
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Weather 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Relevance
+Lightning is a hazard to: aircraft operations (in flight and on the ground), airport operations, and the provision of Air Traffic Services (ATS). Lightning may also indicate the presence of other meteorological hazards to operations. In some situations it may be the only reliable means of detecting these other hazards. Therefore, a reliable and accurate system for detecting lightning over a large area, and providing this information, in real-time, to pilots, aerodrome operators and air traffic units is a great benefit to safety.
+Lightning Detection Networks
+Lightning Detection Networks (LDN) monitor thunderstorm development, intensity, and movement and are used for issuing severe weather warnings and forecasts. LDN’s exist in many countries and may be linked to operate on a Continental basis (e.g. EUCLID – European Cooperation for Lightning Detection). Often government operated (or funded), their purpose is multiple, but primarily to protect the public and certain industries through warnings, forecasts and deployment of rescue and response teams. Typical industries, apart from aviation, that rely on lightning and associated severe weather reports include power generation, forestry, hazardous materials, and sport and leisure. Historical archived data is also used to aid investigations, future predictions and insurance risk calculations.
+A typical LDN will consist of a network of fixed ground-based aerials that detect the electrical signals radiated from cloud-to-ground and cloud-to-cloud lightning discharges. At least three aerials are required to triangulate an accurate location. This ground-based network can also be supported by mobile ground detectors and space-based detectors. However, neither of these latter two will enhance the standard of service that is demanded by aviation – accuracy and speed: mobile units operating solo can introduce ambiguities of location, and satellite data takes several minutes to reach the user.
+Pre-flight
+Meteorological services will utilise data from LDN where available and indicate in both Observations (METAR) and forecasts (Area and TAF) whether in-cloud (LTGIC) or cloud to ground (LTG) lightning has been detected or is expected. Such information, together with data on Cumulonimbus (Cb) formation and Turbulence will allow safe route planning.
+Aerodrome Operations
+Lightning and associated weather present a hazard to many Ramp and other aerodrome activities and those personnel engaged in them, such as aircraft refuelling, construction and turnarounds. It is usual for Air Traffic Control (ATC) to provide aerodrome operations with relevant weather information, including updates on lightning and associated weather that could directly affect the aerodrome. This allows the aerodrome to postpone and suspend certain operations until the risk has passed.
+Air Traffic Control
+Real-time data from an LDN provides ATC with information that is essential in coordinating aircraft movements and is also used to issue severe weather warnings to pilots. Ground-based weather radars may have restricted views due to terrain and there may also be large areas without weather radar coverage. Therefore, in these cases, lightning detection can provide the only immediate indication of severe weather.
+As well as lightning having an impact on “usable” en-route airspace, lightning and associated weather in the vicinity of an aerodrome can seriously disrupt operations – especially arrivals and departures. Lightning also presents a direct threat to Air Traffic Systems’ power supplies and therefore navigation and communication systems.
+In-flight
+Typically an aircraft will utilise the on-board weather radar to detect heavy precipitation indicating thunderstorms, icing and turbulence. However, it is possible that aircraft weather radar does not detect all thunderstorms (cumulonimbus) in the area and pilots would therefore find real-time data from an LDN to be most valuable[1]. Information from an LDN can be relayed via an airline’s operations department or through Air Traffic Services. However, it may also be possible to automatically display real-time data from an LDN, in the cockpit, if the aircraft systems are compatible and a contract with a service provider is available.
+Capability
+Capability of LDNs vary depending on the technology used and the density of antennas installed within the area of coverage. Reliability, detection rates and accuracy of location, intensity and movement can all be experienced above 90%. To provide an example of the information that is available, a short excerpt is shown below from the Canada Transport Safety Board Report into the accident - 2 Aug 2005, Air France Flight 358, Airbus-340 at Toronto:
+There was significant lightning activity in the vicinity of the runway late on the approach. An analysis of the cloud-to-ground lightning strikes that could have intersected the path of the aircraft was conducted using recorded lighting strike information. The analysis showed that, at approximately 2000:17, within a period of approximately one second, there were six cloud-to-ground lightning strikes in the area of the threshold of Runway 24L. At 2001:20, when the aircraft was approximately 400 feet agl, there was a group of five cloud-to-ground strikes abeam the touchdown zone, to the left of Runway 24L. At approximately 2001:49 (within a one-second period), five seconds before touchdown, there were nine cloud-to-ground lightning strikes off the end of the runway. These numbers are likely a conservative estimate of the number of lightning strikes visible to the crew, since they only account for cloud-to-ground lightning that could have intersected the approach path.[2]
+Related Articles
+
+Lightning
+Thunderstorm
+Cumulonimbus (Cb)
+Weather Forecast
+Weather Radar
+Terminal Doppler Weather Radar (TDWR)
+Meteorological Terminal Air Report (METAR)
+Automated Weather Observing System (AWOS)
+Turbulence
+A343, Toronto Canada, 2005
+
+Further Reading
+
+Development of the National Lightning Detection Network, Orville, R. E., American Meteorological Society Journal, February 2008. (c) American Meteorological Society. Used with Permission. Provides a good summary of technological developments and the creation of an LDN in North America.
+European Cooperation for Lightning Detection (EUCLID) - lightning strike realtime map
+
+References
+
+^ Lightning Strike Data, Safety News, AeroSafety World, June 2012
+^ Canada Transport Safety Board Report into the accident - 2 Aug 2005, Air France Flight 358, Airbus-340 at Toronto
+
+
+
+
+
+Categories
+
+
+Weather,
+              Weather Phenomena
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

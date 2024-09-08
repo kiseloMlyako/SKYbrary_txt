@@ -1,0 +1,304 @@
+BE20, en-route, near Lausanne Switzerland, 2019
+
+
+
+
+
+
+
+
+
+
+
+  BE20, en-route, near Lausanne Switzerland, 2019
+
+
+
+
+
+
+
+
+
+Summary
+
+On 23 February 2019, a Raytheon B200 King Air which had recently departed Saanen was passing FL155 for cleared altitude FL240 when a total electrical failure occurred. On subsequently making contact with ATC on a hand-held personal radio, the pilot advised his intention to exit controlled airspace and complete an already commenced visual diversion to Lausanne which was then done. It was found that failure to use the prescribed normal checklists had resulted in an undetected electrical system selection error which had led to the successive discharge of both main batteries when corresponding alerts and warnings also went unnoticed.
+
+
+
+
+Event Details
+
+When
+
+23/02/2019
+
+
+
+Event Type
+
+
+AGC,
+              HF,
+              LOC
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BEECH 200 Super King Air
+
+
+
+
+
+
+
+
+
+Type of Flight
+
+Private
+
+
+
+Flight Origin
+
+
+
+
+Saanen Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Amsterdam Airport Schiphol
+
+
+
+
+
+
+
+Actual Destination
+
+
+
+
+Lausanne-la Blecherette Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Climb
+
+
+
+
+
+
+
+
+Location
+
+Approx.
+
+12.2nm northeast of Lausanne airport
+
+
+
+
+
+
+
+
+
+
+General
+
+Tag(s)
+
+
+              Copilot less than 500 hours on Type,
+              En-route Diversion
+          
+
+
+
+
+AGC
+
+Tag(s)
+
+
+              Loss of Comms
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Procedural non compliance
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Significant Systems or Systems Control Failure,
+              Degraded flight instrument display,
+              Flight Management Error
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 23 February 2019, a Raytheon B200 King Air (N7779V) in US corporate ownership and on a private IFR flight from Saanen to Amsterdam in day VMC experienced a sudden and complete loss of all the flight instrument displays whilst climbing en-route as cleared ten minutes after takeoff. This was interpreted (correctly) as the consequence of a complete electrical failure which the pilot advised to ATC on his personal air band radio with the information that he intended to divert to Lausanne which was subsequently achieved in VMC without further event. 
+Investigation
+An Investigation was carried out by the Swiss Transportation Safety Investigation Board (STSB). The pilot was a Dutch citizen born in 1962 who held an FAA-issued Commercial Pilot's Licence (CPL) endorsed to operate the aircraft type involved and had a total of 14,200 hours flying experience which included 549 hours on type. Although not authorised to operate the aircraft type involved, another Dutch citizen who also held a CPL and was born in 1981 was also on board and had a total of 427 hours flying including 239 hours on type although none of this had occurred within the previous 90 days. 
+No flight data recording devices were installed in the aircraft nor was this required.
+What Happened 
+Thirteen minutes after takeoff, the flight reported in the climb to passing FL150 for FL180 and was re-cleared to FL240 en route to ‘PENDU’. Less than four minutes later, a dedicated label appeared on the controller’s display which indicated radar contact with the aircraft had been lost which was the time when the aircraft lost all electrical power and, therefore, all electrically-powered flight instrument displays. At this time, the aircraft was passing 11 nm north east of Lausanne.
+Just over five minutes after the loss of contact, a call was received on 121.5 MHz advising that the aircraft had lost all electrical power. It transpired that the call had been made by the pilot using a hand held personal air band radio. This call advised that the aircraft was maintaining VMC and had turned back towards Lausanne to complete an emergency diversion there which it did after 20 minutes airborne.
+Why It Happened
+The aircraft was subjected to a detailed airworthiness inspection in Lausanne and no evidence of any relevant faults was found except that the battery was found to no longer pass the prescribed function tests and had to be replaced.
+It was found that the left engine three-position ignition and engine start switch located in the lower left corner of the vertical switch and instrument panel (see the illustration below) had been left in the ‘on’ position after start instead of being returned to the ‘off’ position. This after start action is required once the engine speed has accelerated to 50% N1 or higher. Failure to do this meant that the left engine starter generator continued to be powered taking a high electrical load so that the demands of the rest of the electrical system were all being supplied by the right engine generator and battery. Since this electrical load exceeded the capacity of the right engine generator, the linked battery slowly discharged.
+
+The left engine three-position ignition and engine start switch in the erroneous 'on' position. [Reproduced form the Official Report]
+Ten minutes into the flight, the right battery voltage dropped below 16 volts which caused complete failure of the avionics system and therefore the flight instrument and other indications displayed on the three EFIS screens (see the illustration below). Only the Standby Attitude Module (SAM), which was powered by a separate battery, continued to provide an attitude display in such a situation. Indications of voltage and amperage were provided on the overhead panel and generator failure and ‘ignition on’ were presented on an annunciator panel below the central EFIS screen. It was considered that this panel may have been dimmed below the level which (illuminated) annunciation would be readily detectable.
+
+The main panel layout as installed in the aircraft involved. [Reproduced from the Official Report] 
+The Final Report of the Investigation was completed on 11 February 2022. No Safety Recommendations were made.   
+Related Articles
+
+Loss of Control
+Aircraft Electrical Systems
+Standard Operating Procedures (SOPs)
+Checklists - Purpose and Use

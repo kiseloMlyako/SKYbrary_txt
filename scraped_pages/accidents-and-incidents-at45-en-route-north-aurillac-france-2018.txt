@@ -1,0 +1,322 @@
+AT45, en-route, north of Aurillac France, 2018
+
+
+
+
+
+
+
+
+
+
+
+  AT45, en-route, north of Aurillac France, 2018
+
+
+
+
+
+
+
+
+
+Summary
+
+On 25 March 2018, an ATR 42-500 main landing gear bay door weighing 15 kg detached shortly after a night descent had begun but this was unknown until the flight arrived at Aurillac. The Investigation found that the root cause of the detachment was a loose securing nut which had triggered a sequence of secondary failures within a single flight which culminated in the release of the door. It was concluded that the event highlighted specific and systemic weakness in relevant airworthiness documentation and practice in relation to the lost door and the use of fasteners on this aircraft type generally.
+
+
+
+
+Event Details
+
+When
+
+25/03/2018
+
+
+
+Event Type
+
+
+AW,
+              LOC
+
+
+
+
+Day/Night
+
+Night
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+ATR ATR-42-500
+
+
+
+
+
+
+
+
+
+Operator
+
+HOP!
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Paris/Orly Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Aurillac Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Descent
+
+
+
+
+
+
+
+
+Location
+
+Approx.
+
+38 nm north of Aurillac Airport
+
+
+
+
+
+
+
+
+
+
+General
+
+Tag(s)
+
+
+              Copilot less than 500 hours on Type,
+              Inadequate Airworthiness Procedures
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Airframe Structural Failure
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Landing Gear
+          
+
+
+
+Contributor(s)
+
+
+              Maintenance Error (invalid guidance available),
+              Component Fault in service,
+              In flight separation of failed component
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Aircraft damage
+
+Minor
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Airworthiness
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 25 March 2018, an ATR 42-500 (F-GPYF) being operated by Air France subsidiary HOP! on a scheduled domestic passenger flight from Paris Orly to Aurillac as A5-235 in night VMC had just commenced descent to destination from FL190 when those on board heard a thud and felt a jolt for which the flight crew could not find any explanation. After landing, ground staff reported that the left hand main landing gear door was missing and it was subsequently found at a location on the ground corresponding to the position where the unexplained noise/movement had occurred in flight. Related mainly superficial damage to the aircraft was then identified. None of the 51 passengers were injured.
+Investigation
+An Investigation into the Accident was carried out by the French Civil Aviation Accident Investigation Agency, the BEA. The FDR and CVR were both downloaded and their relevant data were synchronised. These data provided very useful information on both the prelude to the door detachment and the location of the wreckage of the door on the ground to be determined.
+The Captain had a total of 7,294 hours flying experience which included just over 6,700 on type whilst the PF First Officer had a total of 414 hours flying experience of which 132 hours were on type. 
+What Happened
+The climb after departure continued to FL 110 where the aircraft was temporally levelled off. Despite a normal power setting, a ‘CRUISE SPEED LOW’ alert was annunciated for 60 seconds beginning approximately two minutes after this temporary level off.  Then, the climb to the final cruise level of FL190 was completed and again, two minutes after reaching it, a ‘CRUISE SPEED LOW’ alert was annunciated and remained active throughout the cruise until ceasing (by design) as descent began. The flight crew followed the relevant OM procedure and checked the airspeed which showed that the indicated airspeed of 212 KIAS was 12 knots below the expected 224 KIAS which was to be expected for the prevailing flight conditions.
+Later on, shortly after descent had begun, the aircraft was passing FL 178 when all those on board heard a thud and felt a jolt. There was no significant deviation in the aircraft’s AP controlled trajectory and no abnormal flight parameters were seen so the descent was continued and there were no further unexplained occurrences. After taxiing in at Aurillac, the crew were made aware of a missing left main landing gear door and upon inspecting the area confirmed this. Various mainly superficial damage to the aircraft was subsequently found including to the left wing root fairings, the vertical stabiliser, some cabin windows, the surrounding fuselage and the left lower wing surface skin. A tear on the lower surface skin of the left flap was also found.
+The Investigation was able to identify from FDR data the point when the gear door had detached by an identifiable change in the recorded drag coefficient which occurred because of changes in the angle of attack which caused measurable changes in all three accelerations (longitudinal, lateral and vertical). It was apparent that during the cruise and as the descent began, the gear door had been in a position (or had freedom of movement) which generated additional drag which had essentially remained constant until it disappeared when the 15 kg door detached. The two unexplained CRUISE SPEED LOW Alerts were found to have been caused by the marginal misalignment of the insecure landing gear door which had created additional drag. This showed that the door had been insecure from at least the level off at FL110 and perhaps earlier in the flight although no FDR evidence was found to indicate that this had been the case on previous flights. It was noted that FDR data alone was insufficient to determine whether the door had closed incorrectly during gear retraction after takeoff or whether it had opened progressively during the climb to FL 110.   
+A ground search for the lost door was focused on the known position it had detached modified by the wind velocity at intervals below and using assumptions about its aerodynamic characteristics. Three parts of the door were found respectively on 31 March 2018, 8 April 2018 and 1 May 2018 all within a 1 nm radius of the estimated point of loss of the door. 
+With reference to the recovered parts in addition to recorded minor changes to the drag coefficient, it was possible to establish the sequence of in-flight events which had culminated in the detachment of the door as follows:
+
+the nut of the door’s rear hinge assembly had unscrewed in service before coming off.
+the screw then moved backwards which allowed the male hinge to come out of the female hinge resulting in the landing gear door being slightly misaligned with the fuselage surface.
+the abnormal position of the door also resulted in additional loads on the other landing gear door attachment points, in particular the link which failed under fatigue at the start of the descent.
+the loss of this link and the rear hinge assembly attachment points then introduced substantial loads on the remaining main attachment point, the front hinge assembly, until failure under overload of its male hinge. 
+once the three main attachment points were no longer effective (link, front hinge assembly and rear hinge assembly), the door then swung upwards around hinge No. 1 and struck the fuselage and window which resulted in the noise heard and the jolt felt by those on the aircraft.
+this was then quickly followed by the failure under overload of the remaining hinge thus completely releasing the door from the aircraft
+
+
+Recovered door components. Source: BEA [from official Report]
+Discussion
+The nut of the rear hinge assembly of the left main landing gear door was missing and was not found. It was this loss that set off the sequence which culminated in the detachment of the door in flight which both damaged the aircraft and created a potential hazard for people and structures on the ground.
+The exact reason for the loss of the nut could not be established but it was found that the nut of the front hinge assembly of the left main landing gear door did not comply with the configuration specified during the initial design in that the material and protection were different to that contained in the IPC. It was also found that the nuts of both the front and rear hinge assemblies of the right main landing gear door of the aircraft were similarly IPC non-compliant and the P/N of these three nuts “could not be determined with precision”. It was noted that alternatives to the IPC Part Numbers for these nut were approved by ATR through its “generic documentation” but it was found that this documentation “could result in nuts with a P/N which does not comply with the IPC being installed”.
+It was also found that neither the Job Instruction Card (JIC) applicable at the date of the investigated event nor the generic ATR documentation indicated the tightening torques to be applied to the IPC P/N of the landing gear door hinge fasteners. Errors were also found in the generic documentation in respect of the tightening torques to be used with possible alternatives to the IPC P/N nuts.
+It was noted that the most recent maintenance intervention involving the rear bay door hinge assembly of the left main landing gear had been over three years prior to the investigated event when it was removed and reinstalled. It was found that that the securing nuts of interest had not been replaced during this operation. 
+The Investigation was unable to determine when and under what circumstances these nuts had first been installed on the aircraft and it was noted that at the time the investigated event occurred, the landing gear maintenance programme did not require any specific check of these hinge assemblies. It was also noted that ATR’s generic maintenance documentation allowed nuts to be reused without any check being performed on their self-locking capability.
+An examination of the fasteners of all HOP! ATR 42 aircraft found that “around 50%” of the nuts did not comply with the IPC specification" and it was additionally found that the various deviations observed on the assemblies of the HOP! ATR 42 fleet “were not a priori connected to work carried out by a particular maintenance workshop” and observed that the nuts used for the door hinge assemblies are also used elsewhere on the aircraft so that the errors found in the generic maintenance documentation may also affect fasteners used elsewhere on the aircraft.
+Conclusion - Airworthiness
+Overall, the Investigation resulted in the discovery of errors in the generic maintenance documentation that could lead to the installation of screw/nut combinations outside of state-of-the art criteria. Whilst the consequences of these deviations from good practice, on the mechanical performance of the screwed joints affected were not precisely determined, it was concluded that they could result in such fasteners no longer fulfilling their intended function. 
+Three potential Contributory Factors to the nut of the rear hinge assembly of the left main landing gear door becoming loose and then unscrewing were identified: 
+
+The ATR maintenance documentation concerning the choice of nuts to be used as an alternative to the IPC P/Ns was complex and contained errors which could lead to the choice of a nut with an unsuitable P/N.
+The tightening torque to be applied to this fastener and to the associated alternatives was missing from the ATR documentation.
+The ATR generic maintenance documentation allowed nuts to be reused without checking their self-locking capability. The landing gear door removal/installation job card did not specify that it was a self-locking nut and did not require a check for its self-locking capability or its replacement with a new nut.  
+
+Two Safety Recommendations were issued as a result of the Investigation as follows:
+
+that ATR ensure, with respect to standard parts with nuts, that there is no ambiguity in the documents about the choice of P/N and its alternatives, along with the tightening torque to be applied. [FRAN 2021-001]
+that ATR define a policy for reusing self-locking nuts and ensure that the information about the presence of self-locking nuts can be easily found by the maintenance operator. [FRAN 2021-002]
+
+The Final Report was initially published in the definitive French language on 2 October 2021 and this was followed on 2 December 2021 by an English Language translation.
+Related Articles
+
+Aircraft Maintenance
+Ageing Aircraft - Structural Failure

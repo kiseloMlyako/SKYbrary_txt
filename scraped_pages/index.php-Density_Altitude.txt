@@ -1,0 +1,147 @@
+Density Altitude
+
+
+
+
+
+
+
+
+
+
+
+  Density Altitude
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Weather 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ RMetS
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ RMetS
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Density altitude is pressure altitude corrected for temperature. In layman's terms it directly affects the performance parameters of any aircraft, and in effect it is the equivalent altitude of where, performance-wise, the aircraft “thinks” it's at. The higher the density altitude, the lower the aircraft performance, and vice versa.
+Density and pressure/temperature
+The Ideal Gas Law for dry air:
+pV = RT
+where:
+p = air pressure (hPa) (kg m-1 s-2) V = air volume (m3) R = universal gas constant for dry air (287 J kg-1 K-1) T = air temperature (K)
+For atmospheric applications, however, volume is not well defined, and since density is mass per volume, using atmospheric mass and volume, the Gas Law can be reformulated:
+p = ρRT where ρ = air density
+Therefore
+ρ = p R-1 T-1
+Density is directly proportional to pressure and indirectly proportional to temperature.
+As pressure increases, with temperature constant, density increases. Conversely when temperature increases, with pressure constant, density decreases. Air density will decrease by about 1% for a decrease of 10 hPa in pressure or 3 °C increase in temperature.
+A decrease in density results in an increased density altitude, whereas an increase in density results in a decreased density altitude. Considering the notion that the aircraft performs on the basis of density altitude, at higher elevations with high temperatures the aircraft performance is greatly reduced compared to its relative performance at that level with standard temperatures. Conversely, at lower altitudes with colder temperatures aircraft performance is greatly increased compared to its relative performance at that level with standard temperatures.
+The density of air decreases more rapidly with height in warm air than in cold air. The commonly accepted value for density altitude decrease with height is 120 ft °C-1, and in some publications, articles may even be simplified to 100 ft °C-1.
+Density and water vapour
+Water vapour is less dense than dry air. Therefore with increasing amounts of water vapour in air, with pressure and temperature constant, the air's density is decreased. Therefore, with increasing amounts of water vapour in the air, with pressure and temperature constant, density altitude is increased. However, this increase is less than one per cent of the total density, and therefore with the exception of low level regions in the tropics, the effect of water vapour on density is neglected.
+Calculating density altitude knowing pressure altitude and temperature
+Since density altitude is pressure altitude corrected for temperature, the temperature deviation from the ISA value at that pressure altitude needs to be corrected, with lower temperatures than standard lowering the density altitude and higher temperatures raising the density altitude. The correction factor of 120 ft °C-1 will be used.
+DA = PA + CF (Ta – Tstd)
+where DA = density altitude (ft), PA = pressure altitude (ft), CF = correction factor (120 ft oC-1), Ta = actual temperature (°C), and Tstd = standard temperature (°C)
+Calculating density altitude knowing only QNH altitude, outside air temperature, and QNH
+Density altitude is derived from pressure altitude, therefore QNH altitude is converted to pressure altitude. Pressure altitude is measured from the ISA mean sea level pressure isobaric surface (1013 hPa), and thus the QNH altitude is converted to its corresponding pressure altitude. The conversion factor of 27 ft hPa-1 will be used:
+PA = A + CV (1013 hPa – QNH)
+where A = QNH altitude (ft), and CV = conversion factor (27 ft hPa-1)
+Thereafter:
+DA = [A + CV (1013 – QNH)] + CF [Ta – Tstd]
+Standard temperature at a pressure altitude is derived from subtracting 2°C for every 1000 ft of pressure altitude:
+Tstd = 15 °C – 2 °C (1000ft)-1 (PA)
+DA = [A + CV(1013 – QNH)] + CF [Ta – [15 – 0.002 (A + CV (1013 – QNH)]
+= A (1 + 0.002CF) + CF (Ta – 15) + CV CF (2.026 – 0.002 QNH) – CV (QNH) + 1013 (CV)
+= 1.24A + 120 Ta – 33.48 QNH + 32115.24
+Related SKYbrary articles
+
+Hot and High Operations
+Factors Affecting Aircraft Performance During Takeoff and Climb - from Aircraft Performance for ATCOs Toolkit.
+Retreating Blade Stall
+Flight in Mountainous Terrain
+Weather Go/No-Go VFR Flight Checklist
+
+
+
+
+
+Categories
+
+
+Weather,
+              Atmosphere
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,127 @@
+Cross-Connected Systems
+
+
+
+
+
+
+
+
+
+
+
+  Cross-Connected Systems
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Flight Technical 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Cross-connected systems describes the incorrect or inappropriate connection of one system or system component to another system or system component. Cross connection can occur to any type of system to include electrical, hydraulic, pneumatic, or mechanical systems. For example, if a flight control linkage to an aircraft's elevator is cross connected, pulling back on the control stick might result in a dive rather than a climb.
+Discussion
+Preventing cross connected systems is a challenge in aviation maintenance. When two systems or system components that are not designed to be connected are connected, the risk of an adverse occurrence is increased. The most effective means to reduce the risk of a cross connection is to have and use accurate and clear information on system connections in maintenance manuals and to insure strict adherence to these procedures by maintenance personnel. There are several other interventions that can be used to eliminate, or at least minimise the possibility of a system cross connection.
+
+Hard Fix: One way to prevent a cross connection is to make it physically impossible for systems or system components to be cross connected. This can be done by making system connectors with a different size or type of connection that cannot be physically connected to another system or system component.
+Soft Fix: This is the most common way of preventing cross connections. The maintenance manuals and procedures that address system connections should clearly depict the correct connection procedure, and should also provide specific cautions against any potential cross connection possibilities. Another soft fix is to color code connections so that only identical color connections are the correct ones.
+Technical Fix: Another method to reduce the risk of a cross connection is to ensure that systems have some sort of built in test (BIT) capability that can be used to verify that all connections are correct.
+
+Summary
+Cross-connected systems create increased risk because they can compromise or reduce the effectiveness of the systems involved. There are several interventions to help reduce the risk of cross connecting systems. The primary intervention is clear, concise, and accurate maintenance manuals and strict adherence to these procedures by maintenance personnel. Other interventions also include hard fixes, soft fixes, and technological fixes. Some or all of these can be used to reduce the risk of cross connected systems.
+Accidents and Incidents
+
+IL76, St John's Newfoundland Canada, 2012: On 13 August 2012, an Ilyushin IL76 freighter overran landing runway 11 at St John's at 40 knots. The Investigation established that although a stabilised approach had been flown, the aircraft had been allowed to float in the presence of a significant tailwind component and had not finally touched down until half way along the 2590 metre long runway. It was also found that reverse thrust had then not been fully utilised and that cross connection of the brake lines had meant that the anti skid pressure release system worked in reverse sense, thus reducing braking effectiveness.
+A320, vicinity Frankfurt Germany, 2001: On 21 March 2001 an Airbus A320-200, operated by Lufthansa, experienced a flight controls malfunctions shortly after take-off which resulted in loss of control and subsequent near terrain impact. The uncontrolled roll, due to the malfunction of the pilot flying's sidestick, was recovered by the other pilot and the aircraft safely returned to land in Frankfurt without further incident. The investigation found that during repair work on the plug of the Elevator Aileron Computer (ELAC) no. 1, two pairs of wires had been connected inverted.
+
+Related Articles
+
+Maintenance Error
+
+
+
+
+
+Categories
+
+
+Flight Technical,
+              Airworthiness
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

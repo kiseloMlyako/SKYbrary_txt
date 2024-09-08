@@ -1,0 +1,217 @@
+Minimum Safe Altitude Warning (MSAW)
+
+
+
+
+
+
+
+
+
+
+
+  Minimum Safe Altitude Warning (MSAW)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Nets 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+A ground-based safety net intended to warn the controller about increased risk of controlled flight into terrain accidents by generating, in a timely manner, an alert of aircraft proximity to terrain or obstacles.
+Source: EUROCONTROL
+Description
+Minimum Safe Altitude Warning (MSAW) is a ground-based safety net intended to warn the air traffic controller (ATCO) about the increased risk of controlled flight into terrain by generating, in a timely manner, an alert of aircraft proximity to terrain or obstacles.
+The main purpose of MSAW is to enhance safety and not to monitor adherence to any specified minima. In practice MSAW is a part of the ATC system and from this perspective it can be regarded as a “function”.
+The term MSAW can be found in ICAO documents; however an ICAO definition has not been established as yet.
+MSAW Logic
+The MSAW function compares the levels reported by aircraft transponders that have pressure-altitude reporting capability against defined minimum safe altitudes. When the level/altitude of an aircraft is detected or predicted to be lower than the applicable minimum safe altitude, a visual and, in some implementations, audible warning is generated to the ATCO within whose area of responsibility the aircraft is operating.
+MSAW adds independent alerting logic to the control loop to help prevent controlled flight into terrain by generating alerts of existing or pending situations related to aircraft proximity to terrain or obstacles, which require attention/reaction.
+MSAW normally obtains input from the surveillance data processing, the environment data processing and possibly from the flight data processing systems in order to generate alerts. Some examples are presented below:
+
+Surveillance data, including tracked pressure altitude information, can be used to predict hazardous situations;
+Flight data can be used in the following manner:
+
+Type/category of flight: to determine the eligibility for alert generation and possibly also the parameters applied;
+Concerned sector(s): to address alerts;
+Cleared Flight levels: to increase the relevance of alert generation.
+
+
+Environment data and parameters include:
+
+Terrain and obstacle data;
+Alerting parameters;
+Additional items (QNH, temperature, etc.).
+
+
+
+Performance
+The alerting performance of MSAW is generally dependent on three key elements:
+
+An accurate terrain definition
+An appropriate ‘look-ahead time’ setting
+Inhibition of certain types of aircraft (e.g. those intentionally remaining close to the ground)
+
+If these three elements are appropriately defined, then it should be expected that the air traffic controller would be able to rely on MSAW during the provision of service. Any one of the above elements being insufficiently optimised will very likely result in either too many unnecessary alerts or, if too short a look ahead time in set, insufficient time for the air traffic controller to respond effectively to an MSAW alert.
+Terrain and obstacles
+In order to provide the MSAW function with proper data for monitoring, a terrain and obstacles model should be created in the air traffic control system. The following methods could be used:
+Use of digital terrain/elevation data
+Use of an appropriate and accurate Digital Terrain Model (DTM) or a Digital Elevation Model (DEM) usually reduces the number of nuisance alerts since it provides much finer representation of the terrain than a series of hand-made polygons.
+It is important to understand the nature of any digital data that is used. A Digital Terrain Model (DTM) does not capture obstacles on the terrain, so it follows that a comprehensive set of obstacle definitions should additionally be made available to MSAW. Note that a Digital Elevation Model (DEM) may not capture all obstacles – obstacles on the terrain may be mobile, be newly built or simply not captured by technology used to construct the DEM.
+States are required by ICAO Annex 15 (Chapter 10) to provide Electronic Terrain and Obstacle Data (eTOD) for the use in different air navigation applications, including MSAW. The eTOD should be provided as data sets having specific numerical requirements and covering the following Areas:
+
+Area 1: the entire territory of a State
+Area 2: within the vicinity of an aerodrome, sub-divided in 4 smaller sections
+Area 3: the area bordering an aerodrome movement area
+Area 4: the area extending 900x60m prior to the threshold of a category II or III runway.
+
+Use of Polygon Volumes
+Polygon Volumes are volumes of airspace which are set several hundred feet below the lowest applicable minimum safe altitude. As appropriate, that could be the Minimum Vectoring Altitude (MVA), the Minimum Obstacle Clearance Altitude (MOCA) or Minimum Sector Altitude (MSA), or it may be set to more closely follow the terrain.
+MSAW exclusion areas may be defined where no detection of hazardous situations will be done. Such areas can be established by ATC in order to preclude the MSAW function from unnecessarily scanning that portion of the airspace.
+If deemed appropriate, a mixed model, with the use of both polygons and digital terrain data for the description of terrain and obstacles, can be used.
+Settings
+Time settings
+The future position of the aircraft is extrapolated forward from the current track position for a predefined period of time know as the “look-ahead time”.
+The look-ahead time and MSAW function processing time define the “warning time” – that is, the period available for the ATCO to react to a hazardous situation.
+A long look-ahead time may lead to too many unnecessary alerts generated by MSAW. Too short a look-ahead time could lead to insufficient warning time for the controller to be able to respond effectively to an MSAW alert.
+The appropriate warning time will depend very much on the nature of the local terrain and the accuracy and resolution of the terrain model that is used by MSAW. Generally, a finer resolution terrain model allows the look-ahead time to be extended (compared to manually defined polygons), which both enhances warning time performance and reduces the nuisance alert rate.
+ 
+Flight settings
+To optimise the MSAW function, different types of flights may be specified for monitoring. These could include civil, military, IFR flights, VFR flights, etc.
+Secondary Surveillance Settings
+The MSAW function may allow the user to explicitly inhibit alerts from specified secondary surveillance radar (SSR) code(s) or code blocks.
+These can be SSR codes for traffic which is not under ATC or which operates regularly in close proximity to the ground (e.g. airport helicopters, aircraft taking part in special events).
+Such settings may reduce the number of false alarms generated by the MSAW function.
+Alert Inhibition
+It may be necessary to inhibit alerts for predefined volumes of airspace (e.g. exercise areas) or for specific flights (e.g. Calibration Service Aircraft on a defined flight pattern) to suppress nuisance alerts.
+Operating MSAW
+Hazardous situations related to aircraft altitude can remain unnoticed by the flight crew and the controller. The controller’s workload and priorities may cause an imminent hazardous situation to remain undetected if not alerted by MSAW. This is especially likely to occur during heavy workload conditions. For the successful implementation of MSAW, it is necessary to tune the function taking into account the specifications and local environment and to provide the relevant training to ATCOs and engineers.
+ICAO Doc. 4444 PANS-ATM, Chapter 15, Para 15.7.4. specifies MSAW procedures:
+15.7.4.1: "Local instructions concerning the use of the MSAW function shall be specified, inter alia:
+a) the types of flight which are eligible for generation of MSAW;
+b) the sectors or areas of airspace for which MSAW minimum safe altitudes have been defined and within which the MSAW function is implemented;
+c) the values of the defined MSAW minimum safe altitudes;
+d) the method of displaying the MSAW to the controller;
+e) the parameters for generation of MSAW as well as warning time; and
+f) conditions under which the MSAW function may be inhibited for individual aircraft tracks as well as procedures applicable in respect of flights for which MSAW has been inhibited."
+15.7.4.2: "In the event an MSAW is generated in respect of a controlled flight, the following action shall be taken without delay:
+a) if the aircraft is being vectored, the aircraft shall be instructed to climb immediately to the applicable safe level and, if necessary to avoid terrain, be assigned a new heading;
+b) in other cases, the flight crew shall immediately be advised that a minimum safe altitude warning has been generated and be instructed to check the level of the aircraft."
+15.7.4.3: "Following an MSAW event, controllers should complete an air traffic incident report only in the event that a minimum safe altitude was unintentionally infringed with a potential for controlled flight into terrain by the aircraft concerned."
+Performance
+The performance of the MSAW function can be described as the best balance between warning time and nuisance alert, taking into account local environment. In this way the air traffic controller would be able to rely on the MSAW during the provision of service.
+Investigations
+The operational use of MSAW has not always led to the best advantage being taken of its potential as a safety net. Investigations of accidents and serious incidents which occurred in an ATS environment where MSAW was available sometimes disclosed problems with the display of MSAW alerts to controllers, its selection and serviceability and with the operational procedures and associated training.
+Trust
+The operational use of MSAW will depend on the controller’s trust in the system. Trust is a result of many factors, such as reliability and transparency. Neither mistrust nor complacency are desirable and training and experience are needed to build trust at the appropriate level. An excessive number of false alarms can reduce the ATCO's confidence in the MSAW.
+Training
+Best practices for using the MSAW have shown that the increasing complexity of the MSAW and the environment in which it is used are addressed through appropriate training and competency assessment.
+The primary goal of the training is to develop and maintain an adequate level of trust in MSAW, i.e. to make controllers aware of situations where MSAW is likely to be effective and, more importantly, situations in which MSAW will not be so effective (e.g. sudden, unexpected manoeuvres).
+Statistical analysis
+Retaining electronic records of all MSAW alerts generated by the appropriate ATS authority may facilitate the statistical analyses. The data and circumstances pertaining to each alert should be analysed to determine whether an alert was justified or not. Non-justified alerts, e.g. during visual approach, should be ignored. A statistical analysis should be made of justified alerts in order to identify possible shortcomings in airspace design and ATC procedures as well as to monitor overall safety levels.
+Related Articles
+
+EUROCONTROL MSAW Specification and Guidance Material
+Safety Nets
+Short Term Conflict Alert (STCA)
+Area Proximity Warning
+
+Further reading
+
+ICAO Doc. 4444 PANS-ATM.
+ICAO Doc 10066 PANS-AIM Section 5.3 "Digital Data"
+ICAO Annex 15 - Section 5.3 ‘Digital Data Sets’
+ICAO Annex 15, Chapter 10 - Terrain and Obstacle Data, Appendix 8 "Numerical requirements for Terrain and obstacle data
+EUROCONTROL Terrain and Obstacle Data Manual, Edition 3.0, May 2021
+EUROCONTROL Safety Nets Guide, 21 May 2011
+EUROCONTROL Safety Nets Guide 2017
+EUROCONTROL NetAlert Newsletters
+
+
+
+
+
+Categories
+
+
+Safety Nets,
+              Controlled Flight Into Terrain
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

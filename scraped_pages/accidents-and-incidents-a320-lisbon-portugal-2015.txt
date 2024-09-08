@@ -1,0 +1,338 @@
+A320, Lisbon Portugal, 2015
+
+
+
+
+
+
+
+
+
+
+
+  A320, Lisbon Portugal, 2015
+
+
+
+
+
+
+
+
+
+Summary
+
+On 19 May 2015, an Airbus A319 crew attempted to taxi into a nose-in parking position at Lisbon despite the fact that the APIS, although switched on, was clearly malfunctioning whilst not displaying an unequivocal ‘STOP’. The aircraft continued 6 metres past the applicable apron ground marking by which time it had hit the airbridge. The marshaller in attendance to oversee the arrival did not signal the aircraft or manually select the APIS ‘STOP’ instruction. The APIS had failed to detect the dark-liveried aircraft and the non-display of a steady ‘STOP’ indication was independently attributed to a pre-existing system fault.
+
+
+
+
+Event Details
+
+When
+
+19/05/2015
+
+
+
+Event Type
+
+
+GND,
+              HF
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+On Ground - Normal Visibility
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS A-320
+
+
+
+
+
+
+
+
+
+Operator
+
+Brussels Airlines
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Brussels Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Lisbon Humberto Delgado Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Taxi
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+LPPT
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Inappropriate crew response (technical fault),
+              Procedural non compliance
+          
+
+
+
+
+GND
+
+Tag(s)
+
+
+              Aircraft / Object or Structure conflict,
+              Wingtip clearance
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Aircraft damage
+
+Minor
+
+
+
+Non-aircraft damage
+
+Yes
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Number of Non-occupant Fatalities
+
+0
+
+
+
+Number of Occupant Fatalities
+
+0
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+Airport Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Operation
+Airport Management
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 19 May 2015, an Airbus A320 (OO-SNB) being operated by Brussels Airlines on a scheduled international passenger flight from Brussels to Lisbon as SN 3815 was taxied into the allocated stand at destination in normal ground visibility by following the guidance provided by the Aircraft Positioning and Information System (APIS) but its left wing collided with the airbridge before any ‘stop’ instruction had been annunciated on the APIS. Damage was caused to the left engine intake cowl and some intake fan blades and to the airbridge but there were no injuries to the 150 occupants or any other persons. The aircraft was pushed back and passengers were disembarked via the 2L door using external airstairs.
+
+The damage to the aircraft (left) and airbridge (right). [Reproduced from the Official Report]
+Investigation
+The event was notified to the Portuguese Accident Investigation Agency (the GPIAA) which carried out an Investigation. It was found that the 48 year old Captain held a licence restricted to multi pilot aircraft and had accumulated 10,200 total flying hours which included 2,000 hours on type. The 23 year old First Officer had a total of 1,205 flying hours of which 1,003 hours were on type.
+The aircraft Captain described the arrival at stand 114 to the Investigation as follows:
+“Upon Arrival at the gate 114, I took control of the aircraft because the guidance system needs the left hand pilot to guide the aircraft. Everything was fine until I realised I might be too close to the bridge position. I braked at the same time that I saw the marshaller who was on standby lifting his arms. The aircraft stopped. We didn’t feel anything. We set the parking brake, and during all this, the guidance system was showing full distance (all yellows dots on) as if we were still far from the stop position. It was only when we had communication with the ground that we realised the left hand engine had come into contact with the boarding bridge”.
+He also stated at interview it was his first flight after “a long absence for medical reasons” and also that the briefing about the risk of the unusually liveried aircraft not being detected by APIS had been read in the briefing room. He noted that the First Officer had been PF for the flight and had not included anything in his arrival briefing about parking and it had not been mentioned when he took control as the aircraft reached the vicinity of Stand 114. The Captain stated that he had not seen the stop marks painted on the apron surface but made no reference to the fact that the APIS display of distance to go was not reducing, except that he was aware that the display indicator was still a considerable distance away. He stated that he had stopped the aircraft “when he felt uncomfortable” whilst “thinking that he was still far from the stop location”. Only at that moment, when communicating with ground personnel, did he realise that the aircraft had hit the airbridge and expressed surprise that none of those present had alerted him before it happened.
+The marshaller in attendance claimed that he “didn’t have time to press the button which could have prevented the crash […] or manually signal the aircraft to stop in accordance with the procedures he was required to follow”. The Investigation considered that his performance had “demonstrated a lack of reinforcement training in relation to parking operations” and concluded that the airport operator had not shown that it provided adequate training for such staff given that they represent the ultimate safety barrier during APIS parking operations.
+It was found that when the aircraft hit the airbridge, it had been 6 metres past the designated stopping position marked on the ground. The Investigation found that the airport manoeuvring chart showed that all the heads-of-stand on Apron 11, which includes Stand 114 where the collision occurred, were the same, whereas Stand 114 differed from Stands 115, 116 and 117 in that the terminal building did not project as far out into the stand area. This meant that the APIS display unit was mounted further away from the intended aircraft parking position (see the illustration below) to the rear of a service road. It was noted that the APIS function is based on LIDAR which uses a Class 1 laser beam to measure the distance between an approaching aircraft and its designated stopping position and display the distance to go in the form of a thermometer scale. If the APIS display to the incoming aircraft or the operator panel displays information other than that which corresponds to the applicable parking procedure, the airport operator’s marshaller in attendance is required to activate the emergency switch on the operator display panel. This action will disable the display in such a way that the pilot will receive an immediate ‘STOP’ command thereby preventing any risk of personal injury or damage to aircraft or ground equipment.
+
+The chart incorrectly depicting Apron 11 at Lisbon at the time of the collision with a uniform terminal building airside design at stands 114-117 whereas that at stand 114 was different. [Reproduced from the Official Report]
+The Investigation was able to obtain the recording of the APIS function on stand 114 as the aircraft was taxied towards its intended stand 114 parking position. This showed that the aircraft was initially detected slightly later than usual - at a distance of 20.9 metres rather than within the range 22.2 and 22.9 metres - and the message “STOP” was immediately displayed in the upper part of the display alternating with “E-62” in the lower part of it. The “E-62” annunciation indicated that “Error 62” (the failure to detect an approaching aircraft during parking) had been oscillating between E-62 and blank at a rate of multiple cycles per second which had meant, according to the aircraft Captain in conversation with the attending Maintenance Supervisor that, as expected, the APIS display of distance to go remained “frozen”. This confirmed the Captain’s report but did not explain why he had continued taxiing when the display was evidently not functioning normally.
+The manufacturer of the stand 114 APIS installation advised the Investigation that it had been installed in 2005 and had not been upgraded since. It also found that the MU800 battery which was part of the system had been malfunctioning at the time of the investigated event and that this was the reason why the display was cycling rapidly between ‘STOP’ and blank rather than displaying ‘STOP’ continuously. Whilst this was not the intended failure indication, it was clearly indicative, along with failure of the distance to go indicator to show a reducing distance as the aircraft advanced, of a system malfunction.
+It was found that the possible consequence of the non-standard and much darker livery of the aircraft involved than other Company aircraft (see the first illustration below) and the potential implications of this when entering nose-in stands for parking had been covered by an inclusion in the Company pre-flight crew briefing library for the aircraft involved 10 days prior to the investigated event. This briefing element had then been included in the tailored pre-flight briefing the crew had received before going to their aircraft to prepare for the flight to Lisbon (see the second illustration below).
+ 
+
+The predominantly dark paint scheme of the aircraft involved. [Reproduced from the Official Report]
+
+An extract from the crew pre-flight briefing showing at the bottom of the page a caution in respect of APIS use specific to the aircraft involved. [Reproduced from the Official Report]
+The formally-documented Findings of the Investigation were as follows:
+
+The APIS system did not recognise the aircraft because of the dark colour of its painting.
+The location of the APIS display at stand 114 was set back further from the designated aircraft parking position than the display at stand 115.
+The marshaller in attendance did not follow his prescribed SOP.
+The pilots were vulnerable to tunnel vision because of the greater set back of the APIS display at the head of stand 114.
+The pilots unquestioningly accepted the electronic signal provided by the APIS.
+
+The combination of Causes which led to the event was determined to have been as follows:
+
+The failure of the APIS system at stand 114 to recognise the aircraft.
+An unsafe operation of the aircraft by its Captain.
+The failure of the marshaller to assist the parking of the aircraft.
+
+Six Contributory Factors were also identified:
+
+Operations at a critical stand without guidance from an airport technical operative.
+The pilots did not recognise the failure of the APIS.
+The loss of situational awareness of the pilots whilst taxiing the aircraft into its designated parking position.
+A lack of CRM by the pilots, who did not include gate arrival in their briefing prior to descent as provided for in their Operations Manual, making the operation unsafe.
+Brussels Airlines did not have a decision item (“go - no go”) regarding the procedure to follow in case of an APIS fault.
+NAV Portugal published ground manoeuvring charts which contained errors in the position of the terminal buildings at stand 114.
+
+Eleven Safety Recommendations were made as a result of the Investigation as follows:
+
+that ANA AEROPORTOS DE PORTUGAL should require that until Safety Recommendation 18/2017 has been implemented, one marshaller is always present during aircraft parking operations at stand 114 in accordance with the recommendation included in the applicable procedure in the Lisbon Airport Manual. [17/2017]
+that ANA AEROPORTOS DE PORTUGAL should relocate the APIS display indicator at stand 114 on a gantry aligned with the existing APIS displays at stands 115,116 and117. [18/2017]
+that ANA AEROPORTOS DE PORTUGAL should review the procedures implemented in the airport manual of ANA, providing for greater assistance from the TOA in situations where there are specific emergency procedures in assisting aircraft parking. [19/2017]
+that ANA AEROPORTOS DE PORTUGAL should issue a safety report explaining the problems that had occurred at stand 114, distribute it to Marshallers and alert them to the need to supervise the final part of an aircraft parking manoeuvre and be ready to assist in case of pilot error or equipment failure. [20/2017]
+that APIS MANUFACTURER FMT should develop a parallel failure warning system to ensure redundancy in the event of APIS failure. [21/2017]
+that BRUSSELS AIRLINES should develop a risk assessment system to be used in new aircraft painting projects. [22/2017]
+that BRUSSELS AIRLINES should introduce a parking system failure scenario during pilot simulator training sessions. [23/2017]
+that BRUSSELS AIRLINES should publish a safety bulletin for its pilots, emphasising the need for a more comprehensive briefing, especially when arriving at foreign airports. [24/2017]
+that BRUSSELS AIRLINES should use a mnemonic in the cabin of special projects aircraft to remind pilots of possible deficiencies in docking systems. [25/2017]
+that ANSP NAV PORTUGAL should redesign its aerodrome ground manoeuvring charts for Lisbon Airport using the most accurate possible geometrical depiction of relevant features. [26/2017]
+that ANSP NAV PORTUGAL should publish a NOTAM requiring the assistance of a marshaller for the parking of aircraft at Lisbon stand 114 until the publication of a corrected aerodrome ground chart as per Safety Recommendation 26/2017. [27/2017]
+
+The Final Report of the Investigation was published on 24 November 2017.
+Related Articles
+
+Stand Entry Guidance Systems
+Flight Information Publication (FLIP)
+Ground Handling
+Emergency Hand Signals

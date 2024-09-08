@@ -1,0 +1,203 @@
+Loss of Separation - ATCO-induced Situations
+
+
+
+
+
+
+
+
+
+
+
+  Loss of Separation - ATCO-induced Situations
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Separation 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Loss of separation between aircraft sometimes occurs as a result of action taken (or not taken) by the ATCO. In most cases this involves one or more of the following scenarios:
+
+Flight clearance does not provide adequate separation from other traffic.
+ATCO does not detect developing potential conflict.
+Avoiding action issued is too late or inadequate to provide safe separation.
+Instruction not received or not understood by intended recipient due to breakdown in air-ground communications.
+The controller issues a clearance that creates a conflict with a neighbouring aircraft due to the blind spot effect.
+
+
+When issuing descent clearance to ABC123, the controller spots both PQR265 and XYZ312 but overlooks DEF763
+Contributory Factors
+The factors listed below would usually not be sufficient (on their own) to cause loss of separation but can exacerbate the situation:
+
+ATCO Work-Load. Obviously, high workload situations make people more prone to making errors. It is important to know, however, that low-workload situations may lead to the same end result:
+
+A high workload situation may cause the controller to skip (intentionally or not) an important action (e.g. checking for an immediate conflict before issuing a clearance).
+A low workload situation can result in errors due to complacency.
+A steep peak of the workload (i.e. a "tidal wave" of complex traffic) may result in missing one out of ten important details (e.g. a sharp turn after the sector entry point or an abnormally slow/fast traffic).
+A steep decline of workload after a (well-managed) complex situation may result in over-relaxation.
+
+
+Volume of traffic. Even if this does not result in high complexity (e.g. a lot of conflicts, traffic avoiding weather, etc.), the sheer volume of aircraft may cause a controller to miss something or make an error.
+Military traffic operating out of the segregated area in civil airspace normally requires special attention (e.g. more coordination effort and extended monitoring) and may drive the focus away from another situation.
+Flight crews (military or civil) unfamiliar with the applicable rules and procedures in a particular volume of airspace could increase workload by e.g. not properly (or timely) compliance with ATC clearances and instructions, requests for repetition, etc.
+Failure to pass an IFR aircraft timely traffic information about VFR aircraft in its vicinity.
+Issue of a VFR clearance in airspace where the only prescribed traffic separation is IFR against IFR when the ability of the VFR aircraft to comply with its clearance and maintain an effective visual lookout may be compromised by weather conditions.
+Poor (or missing) coordination between adjacent sectors or units.
+Transfer on the wrong frequency may result in the inability of both controllers to issue timely instructions or a communication loss.
+Obscured track labels (e.g. due overlapping, filters, colour representation, etc.).
+Interruption or Distraction may draw the controller's attention away from a potential conflict or may contribute to forgetting to perform an action.
+Fatigue in general reduces a person's working capacity and may even cause a microsleep (i.e. a person seems to be awake but is actually not).
+
+Defences
+At an organizational level, this includes:
+
+Standard Operating Procedures in the ATSU, which detail procedures to be followed to reduce the chance of loss of separation.
+Implementation of controller support tools, e.g. Tactical Controller Tool (TCT), Probe (What-if), MTCD, etc.
+Implementation of ground-based equipment designed to warn of potential collision with other aircraft, e.g. Short Term Conflict Alert (STCA).
+Use of two-person teams on one sector (normally designated a planner and an executive controller). Having two controllers handling the same traffic increases the likelihood of error detection.
+Improved standard of ATCO training (including refresher training), especially in:
+
+Air-ground communications safety;
+Loss of situation awareness;
+Use of structured scan;
+Response to safety net warnings.
+
+
+
+In order to reduce the likelihood of making errors that lead to loss of separation, controllers should:
+
+Follow the standard procedures (but be ready to deviate from them if the situation requires it).
+Perform routine structured scan to detect potential conflicts well in advance and mitigate the "blind spot" effect.
+Make use of the support tools available which would allow them to do more in less time, thus freeing up precious seconds.
+Resist the urge to accommodate crew requests if unsure about their impact on the overall traffic situation. Naturally, this does not mean that such requests are to be disregarded.
+Quickly assess a safety net warning, create a simple plan and only then execute it (without delay). Starting to speak without having decided what to do is likely to make the situation worse.
+
+ACAS/TCAS is an onboard aircraft equipment designed to warn of potential collision with other aircraft. This barrier is meant to mitigate the consequences of a separation loss.
+Accidents and Incidents
+This section contains events where ATC error was considered as a contributory factor.
+
+
+B738 / B738, vicinity Sydney Australia, 2023On 29 April 2023, a Boeing 737-800 night takeoff clearance at Sydney was delayed by unexpectedly slow landing traffic clearance and it became necessary for another Boeing 737-800 on approach to the same runway to be instructed to go around and minimum separation was reduced below safe distances both laterally and vertically. It was found that the conflict had resulted from a combination of inappropriate intervention by the Tower Supervisor and the controller’s own actions. A review of potential conflicts during mixed mode runway use at Sydney to improve resilience to inevitable pilot and controller error was initiated by ATC.
+
+B789 / A332, vicinity Sydney Australia, 2022On 28 September 2022, a Boeing 787-9 and an Airbus A330-200 were successively cleared for takeoff from Sydney having been instructed to follow the same SID and climb to the same level - FL280. The A330 climbed faster than the controller anticipated and turned towards the next waypoint inside the preceding aircraft, resulting in a loss of separation. The Investigation found that the SID concerned did not provide separation assurance to aircraft with different performance characteristics because aircraft had to satisfy two separate conditions prior to turning which meant the turning point was not a fixed position.
+
+A320 / A320, en-route, northeast of Surabaya Indonesia, 2018On 17 January 2018, two Airbus A320s both inbound to Surabaya at night were vectored to the same waypoint to hold, one at FL210 and the other at FL200 but the one initially given FL210 was then re-cleared to also descend to FL200. The two aircraft subsequently received and followed coordinated TCAS RAs which restored prescribed separation. The Investigation found that before the conflict, the experienced controller involved had made several transmissions to aircraft other than the intended ones and noted that the usually-available ATC conflict alerting system had been temporarily out of service without any consequent mitigations in place.
+
+DH8D / P180, en-route, near Kelowna BC Canada, 2019On 3 January 2019, prescribed vertical separation was lost between a Bombardier DHC8-400 and a Piaggio P180 on converging cruise tracks at FL 220 and only restored after a resulting TCAS RA was followed. The Investigation found both aircraft were being flown in accordance with their clearances and that the controller involved had not been aware of corresponding traffic and conflict alerting system activations. A specific traffic display fault which arose from failure to follow a routine software upgrade procedure correctly and the shift supervisor failing to recognise the need to act as controller when workload increased were assessed contributory.
+
+B738 / B738, en-route, south of Écija Spain, 2019On 16 July 2019, a Boeing 737-800 inbound to Malaga and another Boeing 738-800 inbound to Seville and under area radar control lost separation after the Malaga-bound aircraft was unexpectedly given radar headings to extend its destination track miles after early handover to a control  sector which it had not yet entered. With no time to achieve resolution, the two aircraft, both descending, came within 1.3 nm of each other at the same level. The Investigation attributed the conflict to an overly-permissive Letter of Agreement between Seville Centre and Malaga Approach and recommended that it be revised to improve risk management.
+
+
+...further results
+
+
+Related Articles
+
+Loss of Separation
+Loss of Separation - Pilot-induced Situations
+Minimum Hours in Position
+Conflict Detection with Adjacent Sectors
+Loss of Separation at Sector Boundaries
+Loss of Separation During Weather Avoidance
+Blind Spots – Inefficient conflict detection with closest aircraft
+Single Person Operations in ATC
+
+Further Reading
+HindSight Articles:
+
+HindSight1 Analysis of an AIRPROX between a B737 and an A340;
+HindSight2 Loss of Separation - an Incident at Paris/Orly;
+HindSight3 Loss of separation: The Blind Spot;
+HindSight4 Loss of Separation - A Lesson for the Instructor;
+HindSight5 Loss of Separation - TCAS and STCA - Not Just Anagrams
+HindSight6 Loss of Separation - Mid-Air Collisions, Elephants, and Systems Approaches
+
+
+
+
+
+Categories
+
+
+Loss of Separation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,142 @@
+Flight Control Protection from Damage by Strong Winds
+
+
+
+
+
+
+
+
+
+
+
+  Flight Control Protection from Damage by Strong Winds
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Ground Operations 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Almost all aircraft types have some means of protecting the primary flight control surfaces - rudder, elevator/stabiliser and ailerons - from significant movement due to strong winds or exposure to jet efflux or prop wash which occur whilst the aircraft is parked out of service or taxiing. The way in which this is accomplished is related to the way in which the flight controls are operated. The objective is to prevent sudden movements of control surfaces which may impact the full travel position at speed and introduce the possibility of structural damage to the surfaces themselves or to the adjacent structure or actuation systems.
+However, the risk to safe flight arises not from any damage which may be caused in this way but because there are some circumstances where such damage may be not obvious from the flight deck or detectable during a normal pre flight external inspection. If a Special Inspection by an engineer is not initiated in such cases, an aircraft may be released to service and get airborne without detection of damaged flight controls or their operating systems which can lead to partial or even complete loss of control as occurred to a Boeing 737-800 in Europe in 2011 after an overnight microburst.
+Getting airborne with fitted or selectable flight control locks still on can also lead to loss of control. The final assurance that elevators and ailerons are not physically locked on any aircraft type requires that a 'full and free' movement check of both elevators and ailerons is mandated before take off.
+Aircraft Certification
+Aircraft certificated under 14 CFR 25.415 or EASA CS 25.415 are required to be capable of exposure to wind speeds of 65 knots from any direction without sustaining damage whilst parked or taxiing. This requirement assumes that unlocked controls will be subject to guarding by the pilots and that unattended controls will be locked. A previous version of the relevant requirements which referred to a lower wind speed of 52 knots may be the compliance condition for older aircraft or their newer variants due to grandfather rights, although in the latter case, aircraft manufacturers have often chosen to voluntarily design to the latest standard as in the case of the Boeing NG family. The FAA has issued an AC 25.415-1 (2014) to provide guidance on compliance with 25.415.
+Control Locks or Gust Locking/Damping?
+In the case of most large transport aircraft with power-assisted flying controls, the required protection is provided automatically by the gust damping function of the various actuators once the hydraulic systems are no longer powered. No pilot action is required to activate this protection. Many smaller and some larger but older transport aircraft where the flight surfaces are primarily operated directly by cables use externally-fitted gust locks to effect absolute prevention of control surface movement when necessary. Light aircraft types may use a mechanical control lock which is fitted directly to the control column and completely prevents movement of the column and thus the elevator/stabiliser and ailerons. Some high performance business aircraft which have hydraulically-assisted cable-operated flight control systems have control locks which are lever-selected in the flight deck.
+Direction of Parking
+In the event that strong winds are forecast, it is generally desirable that aircraft are parked nose into wind and that linked pairs of appropriately-sized chocks are installed at all landing gear positions. If a significant change in wind direction is expected whilst the aircraft will be parked, it may be necessary to ensure that the situation is actively monitored and there are arrangements in place to re-orientate the aircraft. However, the heavier the aircraft, the less this matters unless very strong winds are expected and even then, interference with air movement due to the effect of large buildings such as hangars or terminals in the vicinity can distort the direction from which the wind will actually come compared to the forecast and reduce its likely strength. Such effects may mean that nose in parking at a terminal building in what is a usual overnight position may still be acceptable despite strong forecast winds.
+Strong Wind Damage Risk Mitigation
+Aircraft operators should have a procedure in place to enable proactive identification of any risk of damage to parked aircraft once there is no longer a flight crew on board. Arrangement for any necessary aircraft re-positioning from an arrival gate must be in place as must the option of weather monitoring and response if a significant change in wind direction is forecast. Overnight or other parking for a significant period can often involve an aircraft having very little fuel in the tanks, which can reduce the weight to the point where the stability of the aircraft in very strong winds could be compromised and the risk of flight control damage thereby increased. Some operators of narrow body aircraft have a policy which allows loading 75% of maximum fuel onto aircraft that are to be parked when strong wind damage is considered possible. Aircraft up to and including the size of large turboprops are vulnerable and extreme conditions can require action in respect of all narrow body aircraft. The ultimate consequences of inaction can be a hull loss as is understood to have followed significant damage caused to an ATR 42-300 which was parked and unattended at a terminal gate at Shannon, Ireland on 12 February 2014 and exposed to a side wind which peaked at nearly 80 knots.
+
+ATR-42 Damaged during storm in Ireland, 12 Feb., 2014 (Source: ARFF Working Group http://arffwg.org/)
+Effective Aircraft Inspection After High Wind Exposure
+Whilst pre-exposure action should be able to prevent flight control and all other damage due to strong winds, the specific risk to flight safety - loss of control - arises if flight control damage is not detected before the next flight. The larger the aircraft, the less likely it is that flight control damage will be detectable by a flight crew external inspection, even the particularly thorough version of this that is made prior to the first flight of the day in short haul operations or before any long haul sector. Any such episode occurring whilst an out of service aircraft is parked must therefore also lead to an appropriate inspection of the aircraft by a licensed engineer who is qualified in respect of the flight control systems of the aircraft type. Operator procedures must be in place to ensure the awareness of a flight crew, arriving at an aircraft which is not already in service, of any significant strong wind episode which may have occurred prior to their arrival at the airport so that they are in a position to exercise special vigilance prior to the commander's aircraft acceptance. If flight crew find any evidence that an appropriately secured out of service aircraft which has flight control protection based on damping provided by the hydraulic actuators has moved position on account of wind effects and external control locks were not also fitted at the time, then an entry in the Aircraft Technical Log is appropriate with clearance of the entry made only by a licensed engineer.
+The nature of the inspection to be performed by an engineer should be detailed in the AMM as a 'Special Inspection' for the potential 'high load' event which unrestrained movement of flying control surfaces represents. This will usually be described as 'Very High Wind Gust Inspection' or similar and, as after alI 'high load' events, is likely to follow a phased sequence of inspection procedures which continue only until the evidence suggests that airworthiness is assured. General guidance for the development of such Special Inspections by aircraft manufacturers or for aircraft operators when adapting that guidance for their operation is provided in an AIA Guide. However, aircraft operators may find that not all manufacturers include procedures for high wind inspection in their published manuals and an ad hoc request for inspection guidance may be necessary.
+Related Articles
+
+Flight Control Locks
+Aircraft Tie Down
+Flight Crew Pre Flight External Check
+Weather Forecast
+Thunderstorm
+Microburst
+Jet Efflux Hazard
+Prop Wash
+Certification of Aircraft, Design and Production
+
+Further Reading
+
+FAA AC 25.415-1 Ground Gust Conditions, December 2014
+AIA 'Best Practices Guide - Inspection Processes following High Load Events', September 2005
+Runway Overrun During Rejected Takeoff Ameristar Air Cargo, Inc., dba Ameristar Charters, flight 9363 Boeing MD-83, N786TW Ypsilanti, Michigan, March 8, 2017. U.S. NTSB, Accident report AAR-19/01 PB2019-100293, 14 Feb. 2019.
+"Exception to the Rule," by Mark Lacagnina, Flight Safety Foundation, AeroSafety World, April 2019.
+
+
+
+
+
+Categories
+
+
+Ground Operations
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

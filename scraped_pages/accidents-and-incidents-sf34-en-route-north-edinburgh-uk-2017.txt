@@ -1,0 +1,304 @@
+SF34, en-route, north of Edinburgh UK, 2017
+
+
+
+
+
+
+
+
+
+
+
+  SF34, en-route, north of Edinburgh UK, 2017
+
+
+
+
+
+
+
+
+
+Summary
+
+On 5 June 2017, a Saab 340B encountered an unexpected short period of severe in-cloud turbulence and icing soon after climbing through FL 100 on departure from Edinburgh and a temporary but constrained loss of pitch control occurred during which three successive Angle of Attack-triggered stick shaker activations occurred before the severity of the turbulence reduced and the intended climb could be resumed. The Investigation found that the crew had not responded to the problem in accordance with prescribed procedures and that at no time during the episode had they set Maximum Continuous Power to aid prompt and effective recovery.
+
+
+
+
+Event Details
+
+When
+
+05/06/2017
+
+
+
+Event Type
+
+
+HF,
+              LOC,
+              WX
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+IMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+SAAB 340
+
+
+
+
+
+
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Edinburgh Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Sumburgh Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Climb
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+General
+
+Tag(s)
+
+
+              Copilot less than 500 hours on Type,
+              CVR overwritten
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Procedural non compliance
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Uncommanded AP disconnect,
+              Environmental Factors,
+              Extreme Pitch
+          
+
+
+
+
+WX
+
+Tag(s)
+
+
+              In Flight Airframe Icing,
+              En route In-cloud air turbulence
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Number of Non-occupant Fatalities
+
+0
+
+
+
+Number of Occupant Fatalities
+
+0
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 5 June 2017, a Saab 340B (G-LNGB) being operated by Loganair on a scheduled domestic passenger flight from Edinburgh to Sumburgh was climbing in day IMC when it unexpectedly encountered severe icing and turbulence and temporary loss of pitch control which was accompanied by a succession of stick shaker activations before the crew regained control as the turbulence lessened. The flight thereafter was uneventful.
+Investigation
+A Field Investigation was carried out by the UK AAIB. Relevant recorded data was available from the FDR but that on the CVR had been overwritten. It was noted that the 34 year-old Captain had 6,638 total flying hours of which all but 251 hours were on type. The experience of the First Officer, who had only “very recently” completed his conversion to type, was not documented.
+It was noted that the forecast chart provided to the crew by the Operator’s ‘flight planning contractor’ prior to the flight was a Significant Weather Chart which covered the whole of Europe between FL 100 and FL 450 which indicated that moderate icing and turbulence could be expected en route between FL 100 and FL 180. This chart did not show the position and expected movement of surface weather fronts but a UK-only low level forecast chart not presented to the crew but based on the same data source (see below) showed that the sector could be expected to take place in the vicinity of an active occluded front with moderate convective turbulence and icing likely between FL080 and FL 100. An aftercast made by the UK Meteorological Office conceded that the investigated event had occurred in an area and within a time period where there had been an (un-forecast) high probability that severe icing would occur.
+Initially, light turbulence in cloud was experienced but as the aircraft climbed through FL 100 with the AP engaged in IAS mode set to 163 KIAS and the recorded OAT -5°, light turbulence was encountered and the aircraft began pitching up and down in order to maintain the selected speed. The turbulence continued and increased but shortly after restarting the climb after briefly levelling at FL103, it began to intensify more quickly. Airframe ice accretion began to occur rapidly and pitch attitude increased to 6.3° nose-up as the AoA increased in one second from just over 0° to in excess of +5.9°, the trigger for stick shaker activation, and the latter occurred and the AP disconnected.
+The First Officer then attempted to accelerate the aircraft by reducing the pitch attitude but although this was quickly reduced to 2.8° nose-up, it then increased again to 13° nose-up in 4 seconds as the AoA varied rapidly, at one point dropping to -7°. The AP was then re-engaged but airspeed and pitch attitude continued to be erratic and 13 seconds later, after a rapid pitch up to 5.6° accompanied by a similarly rapid AoA increase to peak at a recorded 6°, it disconnected again. The aircraft then briefly levelled off as both pitch attitude and AoA rapidly increased with the recorded AoA peaking at 6.3° triggering a third stick shaker activation. The First Officer responded to this by manually initiating a rapid descent from FL 110 to FL 105 to increase airspeed. The AP was then again re-engaged for a third time but as this coincided with a sustained reduction in turbulence, it was possible to resume the climb to the planned FL 170 cruise altitude and the remainder of the flight was uneventful. FDR data showed that the lowest airspeed reached during the episode was 149 KIAS and the highest just over 190 KIAS.
+
+The Aviation low level Area Forecast Chart. [Reproduced from the Official Report]
+An analysis of the FDR data during this episode by the manufacturer led to them concurring with the view that the rapid variation in pitch attitude and AoA had been caused by the turbulence and confirming that the stick shaker activations had all been triggered by momentary exceedance of the 5.9° AoA threshold and that the aircraft had not entered an aerodynamic stall.
+The Standard Operating Procedures (SOPs) detailed in the Aircraft Manufacturer’s AOM and the Company OM relevant to flight in turbulence and icing conditions were reviewed and it was noted that these include but are not limited to use of IAS mode at not less than 160 KIAS as normal in icing conditions and a requirement that speeds below 160 KIAS in such conditions should not occur with the AP engaged. They also state that it is advisable to increase speed up to but not beyond the turbulence penetration speed of 190 KIAS up to FL 210 (and up to but not beyond Vmo -30 knots above that level) “when encountering more than light turbulence” in order to achieve a greater margin over the stick shaker trigger AoA and thus reduce the occurrence of transient activations.
+It was also found that the SOP for recovery from a Stall Warning is not included in the Emergency and Abnormal Checklist and is provided in the ‘Flight Procedures Training Section’ of the AOM and states that the response should be a call to set Maximum Continuous Power and an immediate decrease in pitch “by approximately 5 degrees” whilst “not hesitating” to trade altitude for speed whilst avoiding an “unnecessary dive”.
+It was noted that none of this guidance or the related procedures had been followed and that the prescribed response to a Stall Warning had not occurred. In particular, at no time had engine power been increased to the Maximum Continuous Power (MCP) setting to assist recovery. It was also noted that whilst it was permitted to disregard activations of the stick shaker which lasted “less than one second”, this could only be done if at or above the 160 KIAS ‘Clean Manoeuvring Speed’ which in two of the three activations in this episode, it was not.
+It was observed that “increasing the airspeed when the aircraft encountered turbulence, as recommended in the AOM, might have avoided this event because it would have increased the AoA margin over the stick shaker”. The crew commented that “they were fully aware of the stall procedures (and that) the lack of the trigger call ‘Stall - Max Power’ from either pilot in response to the stall warnings meant neither recognised the situation as one which required the (prescribed) actions”. They also “noted how quickly the ice built up on the aircraft” during the encounter.
+The Investigation noted that because of events in the worldwide Saab 340 fleet in which aircraft encountered a stall without any prior stall warning, a 2014 AD had mandated modifications to the stall warning system within 18 months. This modification had increased the stall warning speed trigger thresholds to compensate for possible wing ice accretion on the wings and had involved the trigger AoA for stick shaker being lowered from 12.1° to 5.9°. This “Ice Speed” function is activated by switching on the engine anti-ice system but remains live even when the engine anti-ice system is selected off until a separate switch is also selected off since the engine anti-ice system must remain on for five minutes after exiting icing conditions. It was found that introduction of this modified system had been accompanied by a very significant increase in UK-reported Saab 340 stick shaker events and noted that the EASA had asked Saab to “review the system architecture and logic to look for any possible adaptation which would address the safety concerns associated with the repeated warnings”. As a result, it was noted that EASA is now expected to mandate a minor change to use of the “Ice Speed” function by allowing it to be switched off independently of the requirement to keep the engine anti ice system on for five minutes after exiting icing conditions.
+The formally-documented Conclusion of the Investigation was as follows:
+After encountering severe icing, probably associated with a CB, the Saab 340 stall warning system functioned as it was designed to by alerting the crew, through the stick shaker, of an AOA in excess of 5.9°. The crew actions did not initially address the problem sufficiently and the stick shaker occurred again. Following the third activation of the stick shaker the crew descended the aircraft to regain a safe airspeed. Although maximum power was not set, the aircraft did accelerate and the crew were able to clear the icing and turbulent conditions before continuing their flight without further incident.
+Safety Action taken by the Operator as a result of this event was noted as the introduction of a new OFDM event which identifies when the AP disconnects due to AoA exceedances.
+The Final Report of the Investigation was published on 8 March 2018. No Safety Recommendations were made.
+Related Articles
+
+Loss of Control
+Stall Warning Systems
+In-Flight Icing
+Ice Formation on Aircraft
+Aircraft and In Flight Icing Risks
+Aerodynamic Effects of In-Flight Icing
+Turbulence
+Safety Occurrence Reporting

@@ -1,0 +1,128 @@
+Mean Aerodynamic Chord (MAC)
+
+
+
+
+
+
+
+
+
+
+
+  Mean Aerodynamic Chord (MAC)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Mean Aerodynamic Chord is the average chord length of a tapered, swept wing.
+Description
+
+Chords on a swept wing
+The distance between the leading and trailing edge of the wing, measured parallel to the normal airflow over the wing, is known as the chord. If the leading edge and trailing edge are parallel, the chord of the wing is constant along the wing’s length. Most commercial transport airplanes have wings that are both tapered and swept with the result that the width of the wing changes along its entire length. The width of the wing is greatest where it meets the fuselage at the wing root and progressively decreases toward the tip. As a consequence, the chord also changes along the span of the wing. The average length of the chord is known as the Standard mean chord (SMC).
+Mean aerodynamic chord (MAC)
+In large aircraft, centre of gravity limitations and the actual centre of gravity are often expressed in terms of percent MAC.
+Mean aerodynamic chord (MAC) is defined as:
+
+where y is the coordinate along the wing span, S is the wing area, b is the span of the wing, and c is the chord at the coordinate y.
+The MAC is a two-dimensional representation of the whole wing. The pressure distribution over the entire wing can be reduced to a single lift force on and a moment around the aerodynamic center of the MAC. Therefore, not only the length but also the position of MAC is often important. In particular, the position of the centre of gravity (CG) of an aircraft is usually measured relative to the MAC, as the percentage of the distance from the leading edge of MAC to CG with respect to MAC itself.
+Note that the figure above implies that the MAC occurs at a point where leading or trailing edge sweep changes. In general, this is not the case. Any shape other than a simple trapezoid requires evaluation of the above integral.
+The ratio of the length (or span) of a rectangular-planform wing to its chord is known as the aspect ratio, an important indicator of the lift induced drag the wing will create. (For wings with planforms that are not rectangular, the aspect ratio is calculated as the square of the span divided by the wing planform area.) Wings with higher aspect ratios will have less induced drag than wings with lower aspect ratios. Induced drag is most significant at low airspeeds. This is why gliders have long slender wings.
+Related Articles
+
+Chord
+Centre of Gravity(CG)
+Mass and Balance
+
+Further Reading
+US FAA Aircraft Weight and Balance
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

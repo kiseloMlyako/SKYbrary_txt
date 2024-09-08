@@ -1,0 +1,328 @@
+A320, en-route, northwest Greece, 2017 
+
+
+
+
+
+
+
+
+
+
+
+  A320, en-route, northwest Greece, 2017 
+
+
+
+
+
+
+
+
+
+Summary
+
+On 29 September 2017, the crew of an Airbus A320 detected a smell of burning plastic and simultaneously observed black smoke entering the flight deck near the right side rudder pedals. Completion of appropriate response procedures reduced the smoke and a diversion to Athens with a MAYDAY declared was without further event. The origin of the smoke and fumes was traced to the failure of the static inverter which was part of a batch which had been previously notified as faulty but not identified as such by the aircraft operator’s maintenance organisation which has since modified its relevant procedures.
+
+
+
+
+Event Details
+
+When
+
+29/09/2017
+
+
+
+Event Type
+
+
+AW,
+              FIRE
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS A-320
+
+
+
+
+
+
+
+
+
+Operator
+
+EasyJet
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Mykonos Island National Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Milan/Malpensa Airport
+
+
+
+
+
+
+
+Actual Destination
+
+
+
+
+Athens/Eleftherios Venizelos International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Cruise
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+General
+
+Tag(s)
+
+
+              En-route Diversion,
+              Inadequate Aircraft Operator Procedures
+          
+
+
+
+
+FIRE
+
+Tag(s)
+
+
+              Electrical fumes - No fire
+          
+
+
+
+
+EPR
+
+Tag(s)
+
+
+              MAYDAY declaration
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Equipment / Furnishings
+          
+
+
+
+Contributor(s)
+
+
+              Maintenance Error (valid guidance available),
+              OEM Design fault,
+              Component Fault in service
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Aircraft damage
+
+Minor
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 29 September 2017, an Airbus A320 (G-EZOC) being operated by easyJet on a scheduled international passenger flight from Mykonos to Milan Malpensa as EZY2952 was in the cruise at FL 360 in day VMC when smoke and fumes in the flight deck led to a MAYDAY declaration and a diversion to Athens which was accomplished without further event after both pilots had donned oxygen masks and completed the appropriate abnormal procedure. The 192 occupants disembarked normally and the only resulting damage to the aircraft was to part of a static inverter installed below the flight deck.
+Investigation
+An Investigation was carried out by the Hellenic Air Accident Investigation and Aviation Safety Board (AAIASB). 
+It was noted that the 38 year-old Captain had a total of over 5000 hours on type and held an ATPL (Airline Transport Pilot's Licence) issued in 2011 and that the First Officer had over 4000 hours on type and held an ATPL issued in 2014.   
+What Happened
+It was established that when the fumes and smoke appeared, the latter appearing to emanate from the flight deck floor in the vicinity of the right side rudder pedals, the aircraft was level at FL360 and had already overflown Athens. Both pilots donned their oxygen masks and completed the corresponding QRH non normal procedure and then notified ATC of their wish to divert to Athens and declared an emergency which was completed without any further issues arising in flight or on the ground after landing.   
+Why it Happened
+An inspection after landing found that the fumes and smoke had originated from the static inverter located on the right hand side of the avionics equipment bay located beneath the flight deck. This inverter supplies 115VAC/60Hz power to three outlets in the flight deck so that electronic devices such as EFBs can be charged and was noted to have been a standard fit to A320 family aircraft since 1999. It was also noted that the floor of the flight deck is, by design, not sealed so that any smoke or fumes generated in the avionics bay is liable, as in this case, to enter it.
+The inverter and the extractor fan which had also failed were removed and sent to the OEM for examination. This showed that the origin of the smoke and fumes was a capacitor in the inverter, shown in the illustration below in a ‘before’ and ‘after’ comparison. As a precaution, the associated blower fan and air filter were, although serviceable, also replaced.
+The Investigation found that the failed capacitor had been notified as within a batch recommended for removal for modification involving replacement of the failed capacitor by an alternative in SB 1830-25-37 published by the inverter OEM on 13 October 2016 in order to avoid an “operational impact due to possible failure”. Six days later, the existence of this SB was then notified to aircraft maintenance organisations by Airbus using an updated version of a ‘Technical Follow-Up’ (TFU) originally issued on 9 March 2016 which had advised that inverters in the same batch had been identified as containing a capacitor that was liable to overheat in flight and cause the inverter to fail but that no recommended remedial action was yet available. The identification of the problem with this batch of capacitors was triggered by a series of in-flight static inverter failures similar to the one investigated. Two of these had involved easy Jet A320 aircraft, the first on 28 August 2014 and the second on 27 January 2015. 
+
+A before and after view of the capacitor which “overheated” [Reproduced from the Official Report] 
+On 15 December 2016, after a third EasyJet A320 had diverted due to smoke and fumes from an overheated inverter capacitor on 28 November 2016, Airbus issued an ‘Operators Information Transmission’ (OIT) to all A320 family operators to “highlight” that the reason for the multiple failures of the static inverter had been identified and that the OEM SB 1830-25-37 published on 13 October had addressed this problem.  However, this SB did not provide a list of the affected aircraft by MSN, which was not made available until the OIT was revised and reissued on 6 October 2017, a week after easyJet’s fourth overheated inverter capacitor event, the one under investigation.
+It was found that the EasyJet system of overseeing continued airworthiness issues did not include monitoring of Airbus TFUs or ensuring that it registered with OEMs to receive notification of potentially relevant SB Alerts.
+Discussion
+The failure of EasyJet to ensure its awareness of some important safety-relevant technical communications from both Airbus and component OEMs such as the one supplying approved static inverters for the A320 aircraft family delayed their awareness of any published SB resolution aimed at addressing in-service problems. Their exposure to the static inverter problem had therefore not been fixed by the time their third similar diversion event occurred on 28 November 2016. This prompted the company to contact Airbus and led to the issue of the OIT (Operators Information Transmission) on 15 December 2016 and their prior awareness of its content. 
+This should have prevented the fourth identical event to G-EZOC but it did not because the only published information initially made available was the time interval during which the static inverters supplied had been fitted with the suspect capacitor - between 10 September 2012 and 25 November 2014. The affected inverter S/N range was not included in the OIT and EasyJet did not seek this information from the OEM or seek the MSNs of the aircraft affected from Airbus. Instead, they carried out a fleet check using the aircraft manufacturing date as if it was the inverter manufacturing date which was self evidently unlikely. This meant that a number of aircraft in the fleet fitted with the ‘at risk’ inverters, including G-EZOC, continued in service. Only after the fourth easyJet inverter-diversion event occurred on 29 September 2017 and this Investigation by the Greek AAIASB did Airbus issue a revised version of the 15 December 2016 OIT a week later which included a list of affected aircraft.
+The Cause of the investigated event was formally documented as “the failure of the Static Inverter capacitor due to overheating".
+A Contributory Factor was identified as “Insufficient evaluation of the information available to the Continuous Airworthiness Management Organisation at EasyJet to identify the static inverters that needed to be removed and modified".  
+Safety Action taken by EasyJet in response to the findings from the Investigated event was noted as having included:
+
+beginning to monitor Airbus’ TFUs in order to capture any operationally relevant safety information contained within them.
+a new requirement for maintenance to communicate with OEMs when a “quality escape” on components is discovered or notified and get clarification as to which aircraft are affected if the relevant MSNs are not listed in the alerting documentation. 
+If component S/N fitment against MSN's cannot be identified by OEM’s or the aircraft Manufacturer, then engineering must carry out a fleet check.  
+
+The Final Report of the Investigation was published on 21 January 2021 simultaneously in English and in the definitive Greek version. It noted that as the Operator involved had since acted to ensure that their procedures would in future be able to detect all safety-related notifications at issue, no Safety Recommendations were being issued.
+Related Articles
+
+Cabin Fumes from Non-Fire Sources
+Smoke
+Continuing Airworthiness
+Service Bulletin (SB)
+Inverter

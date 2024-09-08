@@ -1,0 +1,361 @@
+A320 / SW4, Calgary AB Canada, 2016
+
+
+
+
+
+
+
+
+
+
+
+  A320 / SW4, Calgary AB Canada, 2016
+
+
+
+
+
+
+
+
+
+Summary
+
+On 2 December 2016, the crew of an Airbus A320 passing 100 knots on takeoff at Calgary saw another aircraft crossing an intersection ahead but continued because they considered that, as the other aircraft was already more than half way across, it would be clear before they reached that point. The Investigation found that the GND Controller had cleared the other aircraft to cross after forgetting that the runway was active and under TWR control. It was concluded that the response of the ANSP SMS process to a history of identical controller errors and related reports had been inadequate.
+
+
+
+
+Event Details
+
+When
+
+02/12/2016
+
+
+
+Event Type
+
+
+HF,
+              RI
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+On Ground - Normal Visibility
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS A-320
+
+
+
+
+
+
+
+
+
+Operator
+
+Air Canada
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Calgary International Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Vancouver International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Take Off
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+SWEARINGEN Metroliner
+
+
+
+
+
+
+
+
+
+Type of Flight
+
+Out of Service
+
+
+
+Flight Airborne
+
+No
+
+
+
+Phase of Flight
+
+Taxi
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+CYYC
+
+
+
+
+HF
+
+Tag(s)
+
+
+              ATC clearance error,
+              ATC Unit Co-ordination,
+              Procedural non compliance
+          
+
+
+
+
+RI
+
+Tag(s)
+
+
+              ATC error,
+              Incursion pre Take off,
+              Runway Crossing
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Number of Non-occupant Fatalities
+
+0
+
+
+
+Number of Occupant Fatalities
+
+0
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Air Traffic Management
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 2 December 2016, an Airbus A320 (C-FDQV) being operated by Air Canada and departing Calgary on a scheduled passenger flight to Vancouver as ACA 221 was accelerating through 100 knots on runway 29 in “twilight” but otherwise excellent day visibility when its crew saw an out of service Swearingen SA226-TC (C-FGEW) being operated by Sunwest Aviation crossing the runway ahead. Because this aircraft was already half way across, the A320 crew elected to continue their takeoff which was accomplished without further incident.
+Investigation
+An Investigation was carried out by the Canadian Transportation Safety Board (TSB). Sufficient relevant recorded data and testimony was available to enable a detailed reconstruction of the events leading up to the incursion. It was noted that the benign prevailing weather conditions had played no part in the incursion. It was noted that the GND controller involved had 15 years’ experience of which 11 were at Calgary and had been on duty for 4 hours at the time of the occurrence.
+What Happened
+It was found that runway 11/29 had been transferred from GND to TWR control 10 minutes prior to the conflict after a change in forecast wind velocity had led, some 40 minutes earlier, to the decision to change the active runways from 17L and 17R to 29. Soon after the changeover of runway 11/29 to TWR control, the A320 was cleared by GND to taxi to the 29 holding point - position [5] on the illustration below. Five minutes later, the same GND controller cleared the A226 to taxi on ‘W’ and ‘A’ to hold short of runway 29 – shaded position [6] on the illustration. The A320 was instructed by GND to change to TWR and, on checking in, was cleared to continue taxiing onto the runway and to take off. However, the controller did not then update the computer display system. Almost a minute later, the GND controller cleared a just-landed CRJ900 to the main apron and immediately updated the computer display system. He then proceeded to update the computer display system for the SA226 “to reflect the clearance instruction to hold short of Runway 29” and immediately informed the same aircraft that it was cleared to cross Runway 29. He then further updated the computer display system to reflect the revised clearance limit of the intersection of taxiways ‘A’ and ‘J’ to await the passing of the CRJ 900 on taxiway ‘J’.
+
+Part of the Calgary Airport Taxi layout annotated with the tracks of the three relevant aircraft. [Reproduced from the Official Report]
+Soon afterwards, the A320 began its takeoff and soon after that, the SA226 crossed the runway 29 holding point, both aircraft being in compliance with their respective clearances. Twelve seconds later, the SA226 was crossing the centreline of runway 29 - shaded position [7] on the illustration and the A320 crew first saw it ahead as they accelerated through 100 KIAS. They decided to continue on the basis that the conflicting aircraft was likely to clear before they reached it. Three seconds after the SA226 crossed the northern hold short line - shaded position [8] on the illustration, the A320, by now just airborne, crossed over the taxiway ‘A’ centreline at a ground speed of approximately 136 knots.
+Only the ATC aspects of the event were examined. The late sighting of the crossing aircraft by the A320 crew and their decision to continue with the takeoff after sighting the obstruction ahead were not investigated.
+ATC Working Procedures
+Significant aspects of the provision of ATC at Calgary were noted as including:
+
+in line with general NAV CANADA MATS procedures, aircraft crossing active runways are not required to receive their clearances from the runway controller or to listen out on that frequency whilst crossing but are instead able to obtain such clearances from GND controllers who obtain them from the relevant runway controller and then pass them to their traffic, which remains on their frequency while crossing.
+Calgary has a Stage 1 A-SMGCS which is referred to as ASDE in the Unit Operations Manual. There is also an MLAT system from which information is integrated with radar data to create traffic locations on the ADSE.
+Since the new parallel runway 17R/35L opened in 2014, runway 29 had seen less use. The opening of the new runway was subject to a comprehensive risk assessment but this did not consider the secondary implications of its introduction into service.
+Since parallel runway operations had begun, there had been four identical incursions of runway 29 when designated as an active runway. No significant risk mitigation measures resulted from the first three of these and only the most minor of the three recommendations from the internal investigation of the fourth one in November 2015 was implemented with the other left for “consideration”.
+Between the third and fourth identical events, NAV CANADA had received a report on the same safety issue under its ‘ARGUS’ Confidential Safety Reporting Program which aims to “provide managers with timely information regarding otherwise unidentified perceived system safety and risk management deficiency and/or allows employees to make suggestions as to where safety performance might be enhanced”. This report raised concerns about controller proficiency in the use of Runway 29 as an active runway given the relative rarity of this. The response to this report “indicated that local management and the Calgary Tower Operations Committee were discussing the inclusion of Runway 11/29 simulation in local yearly refresher training” and also stated that the same Committee “was looking into technical and procedural cues that could be implemented to support Runway 11/29 operations”. In the six months before the fourth event occurred, no relevant action had been taken.
+In respect of the type of error made by the GND controller in this event, it was identified as a “habit intrusion” attentional error in which an intended sequence of actions is replaced by “a stronger, well-rehearsed schema”. It was noted that “necessary conditions” for this type of error to occur have been identified as:
+
+the conduct of well-practised tasks in familiar surroundings;
+an intention to depart from routine; and
+the presence of a strong schema outlining the usual pattern of actions.
+
+
+
+The implications of these observations for controller training in infrequently used procedural skills such as use of 29 as an active runway were noted as best addressed by frequent reinforcement of such skills to enhance retention and proficiency.
+In terms of the wider Runway Incursion risk, the Investigation noted that whilst the annual total of all recorded Canadian runway incursions during the six year period 2011-2016 appeared to have peaked, 21 of the 48 of those incursions categorised as having a serious outcome (defined as ICAO Class ‘A’) had occurred in the single year 2016. Runway Incursions remain on the TSB Watchlist as they have been since 2010.
+The formally-stated Findings as to Causes and Contributing Factors were as follows:
+
+The runway incursion occurred after the combined ground controller cleared the SA226 to cross runway 29 while Air Canada flight 221 was departing on runway 29.
+Due to a strong habit intrusion error, the combined ground controller reverted to the frequently practised routine of instructing the aircraft to cross Runway 29 without prior coordination with the tower controller.
+The infrequent use of runway 29 during the day, together with the absence of relevant training scenarios or simulation of runway 29 operations, meant that controllers rarely encountered situations where the need to coordinate prior to executing crossings of Runway 29 was re-enforced.
+The runway jurisdiction system did not provide a sufficiently compelling cue to ensure that the ground controller did not revert to the well-practised routine of clearing aircraft across Runway 29 without coordination.
+
+The one formally-stated Finding as to Risk was as follows:
+
+If proposed safety actions are not tracked to completion, there is an increased likelihood that identified safety risks will not be effectively mitigated.
+
+Safety Action taken as a result of the occurrence by ANSP NAV CANADA was noted as having included the following:
+
+Virtual stop bar procedures have been added on airport surface detection equipment (ASDE) for use during Runway 11/29 operations.
+A new “monitor” control position has been implemented. The position is to be open during runway 11/29 operations or “chinook operations” (operations in strong westerly winds). The location of the monitor position provides an efficient visual scan of the ASDE, Runway 29 and taxiways G, C, A, J, and W.
+A number of modifications which are relevant to runway 11/29 operations have been made to the controllers’ computer display system.
+
+The Final Report of the Investigation was authorised for release on 17 January 2018 and it was officially released on 5 February 2018. No Safety Recommendations were made.
+Related Articles
+
+Runway Incursion
+Runway Crossing Incursions
+Safety Management System
+SMS in Air Traffic Management
+Risk Management
+Management of Change
+Human Error Types

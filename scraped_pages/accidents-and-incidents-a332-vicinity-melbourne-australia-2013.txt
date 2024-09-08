@@ -1,0 +1,312 @@
+A332, vicinity Melbourne Australia, 2013
+
+
+
+
+
+
+
+
+
+
+
+  A332, vicinity Melbourne Australia, 2013
+
+
+
+
+
+
+
+
+
+Summary
+
+On 8 March 2013, the crew of a Qantas A330 descended below controlled airspace and to 600 feet agl when still 9nm from the landing runway at Melbourne in day VMC after mismanaging a visual approach flown with the AP engaged. An EGWS Terrain Alert was followed by an EGPWS PULL UP Warning and a full recovery manoeuvre was flown. The Investigation found degraded situational awareness had followed inappropriate use of Flight Management System
+
+
+
+
+Event Details
+
+When
+
+08/03/2013
+
+
+
+Event Type
+
+
+CFIT,
+              HF
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS A-330-200
+
+
+
+
+
+
+
+
+
+Operator
+
+Qantas
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Sydney Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Melbourne Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Descent
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+YMML
+
+
+
+
+General
+
+Tag(s)
+
+
+              Approach not stabilised,
+              Inadequate Aircraft Operator Procedures,
+              Deficient Crew Knowledge-automation
+          
+
+
+
+
+CFIT
+
+Tag(s)
+
+
+              Into terrain,
+              Vertical navigation error,
+              IFR flight plan
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Inappropriate crew response (automatics),
+              Ineffective Monitoring,
+              Manual Handling,
+              Pilot Medical Fitness,
+              Procedural non compliance,
+              Ineffective Monitoring - PIC as PF
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 8 March 2013, the crew of an Airbus A330-200 (VH-EBV) being operated by Qantas on a scheduled passenger flight from Sydney to Melbourne unintentionally descended prematurely during an attempt by the crew to fly an approved visual approach in day VMC and activation of an Terrain Avoidance and Warning System (TAWS) 'PULL UP' Warning was followed by a full recovery climbing to 4000 feet. None of the 222 occupants were injured during that manoeuvre.
+Investigation
+An Investigation was carried out by the ATSB. It was noted that the Captain had accumulated over 20,000 flying hours including approximately 2270 on the A330. The First Officer had accumulated just over 10,000 including approximately 1000 on the A330.
+It was established that, shortly before the crew had been about to begin descent with the Captain as PF and the AP engaged, ATC had "cancelled all speed restrictions, requested a high-speed descent and advised the crew to expect track shortening" and the high speed descent was accepted. Approaching approximately 20 nm from destination and in descent just above 4000 feet ATC asked the crew to report when visual which, already having the runway in sight, they then did - although the Captain later told the Investigation that "visibility was affected by sun glare and terrain shadowing due to mid-level scattered cloud". At this stage, the aircraft "was about 2,000 ft below a nominal 3° descent profile and 1,500 ft above the lower limit of controlled airspace". After further descent clearance, 3000 feet altitude was reached when 14 nm from touchdown and "on a bearing displaced 45° from the extended landing runway 16 centreline". This position was 800 feet above the lower limit of controlled airspace and about 1,800 feet below the operator-recommended nominal 3° descent profile. Then, leaving 3000 feet, the Captain selected a 1000 feet altitude target (equivalent to 550 feet agl) and began to descend in 'Open Descent' mode. The First Officer subsequently stated that he had not heard the Captain verbalising these actions and had been unaware that the altitude selector had been changed. The resultant rate of descent remained high (about 2000 fpm) although the aircraft was already well below a 3° descent profile.
+The Captain reported that despite not being on or near the extended runway centreline, he had been monitoring the ILS GS deviation indication and that it had been continuing to indicate that the aircraft was above the glide slope. Despite the fact that other valid flight path information was available he continued to use this indication as his "primary vertical flight path guidance". Meanwhile, the First Officer stated that he had been monitoring the aircraft flight path by visual reference to the ground and he had considered the approach to be "proceeding normally" until he realised from looking out that the aircraft was too low. He reported having then cross-checked the ILS GS deviation on his PFD and finding that it showed the aircraft to be below-profile. This had prompted him to warn the Captain that the aircraft was too low and in response, the Captain had selected V/S mode at 500 fpm on the FCU. However, eight seconds later and 9nm from touchdown, two EGPWS ‘TERRAIN’ alerts occurred with the aircraft at about 600 feet agl. Activation of an EGPWS 'PULL UP' followed almost immediately and the Captain responded by initiating a full recovery climbing to 4000 feet. At the point this action was taken, the aircraft was 1900 feet below a nominal 3° approach vertical profile and had also just left controlled airspace. On completion of the recovery and reaching 4000 feet, radar vectors were provided for an ILS approach to runway 16 and this and the subsequent landing were normal.
+After the occurrence, ANSP Airservices Australia advised that the MSAW system "had been inhibited in certain areas to the north-east of Melbourne to reduce the number of false alarms in those areas" and that "when a flight is cleared for a visual approach, its corresponding cleared flight level is set to zero feet on the controller’s air situation display which automatically inhibits the MSAW aural alarm and display for that flight.
+In respect of pilot Standard Operating Procedures (SOPs) applicable to visual approaches, it was noted that Qantas had a prohibition on the use of Open Descent Mode for 'final approach' and also required that the rate of descent when between 5000 feet and 1000 feet agl should not be greater than the aircraft height agl. Any excessive rates of descent required the PM to call ‘Rate of Descent’ and the PF "to acknowledge and adjust accordingly". In the investigated approach, once the aircraft was descending below 2000 feet agl, this maximum rate was mainly exceeded and, as the aircraft descended through 1000 feet agl, the achieved rate of descent was almost double the maximum permitted. It was also noted that an EGPWS PULL UP Warning occurring in "daylight visual conditions, with terrain and obstacles clearly in sight" could be considered cautionary subject to "positive action was to be taken until the alert stopped or a safe flight path was assured". Use of ILS GS indications when an aircraft was not on the ILS LOC was not specifically addressed in Qantas SOPs, but the ILS signal protection requirements in ICAO Annex 10 only cover the integrity of the GS within 10 nm of the runway and up to 8° either side of the ILS LOC.
+It was considered that the evidence available suggested that "the crew did not have a shared mental model of how the approach would be flown" and that "the absence of a shared mental model increased the risk that the First Officer would not identify and respond appropriately to the Captain’s actions". It was also considered possible that "general limitations of human monitoring capability....may have influenced the First Officer’s performance".
+More generally, it was considered that "Operators may benefit from considering the adequacy of their guidance on how FCU target altitude selections should be used during visual approaches" since if such guidance was sufficient, it would reduce the risk of inadvertent descent below an intended flight path.
+Finally, the Investigation noted a number of previous incidents investigated by the ATSB in which use of 'Open Descent' mode had led to inadvertent significant deviation below the intended flight path
+The Findings of the Investigation were formally documented as follows:
+Contributing Factors
+
+During the latter stages of a visual approach the Captain assessed the aircraft’s flight path using glide slope indications that were not valid, resulting in an incorrect assessment that the aircraft was above the nominal descent profile.
+The combination of the selection of an ineffective altitude target while using the auto-flight Open Descent mode and ineffective monitoring of the aircraft’s flight path resulted in a significant deviation below the nominal descent profile.
+The flight crew’s action to reduce the aircraft's rate of descent following detection of the altitude deviation did not prevent the aircraft descending outside controlled airspace and the activation of the Enhanced Ground Proximity Warning System.
+
+Other Factors that increased risk
+
+Qantas provided limited guidance on the conduct of a visual approach and the associated briefing required to enable the flight crew to have a shared understanding of the intended approach. (Safety issue)
+The Captain’s performance capability was probably reduced due to the combined effects of disrupted and restricted sleep, limited recent nutrition and a cold/virus.
+
+Other Findings
+
+The flight crew acted to reduce the aircraft's rate of descent prior to the activation of the Enhanced Ground Proximity Warning System (EGPWS) and conducted a recovery manoeuvre immediately after the EGPWS ‘PULL UP’ warning.
+
+Safety Action taken by Qantas in relation to the identified 'Safety Issue' was noted as:
+
+Updating of guidance material for visual approaches in their flight training library.
+Provision of enhanced material on visual approaches in the Captain and First Officer conversion/promotion training books which included targeted questions that required [Cross-checking Process|Check Pilot]] sign-off for proficiency.
+Adding visual approaches as a subject for discussion during flight crew route checks for 2013/2014 and 2015.
+
+The Final Report was published on 9 July 2015. No Safety Recommendations were made.
+Related Articles
+
+Controlled Flight Into Terrain (CFIT)
+Cross-checking Process
+CFIT Precursors and Defences
+Response to a "PULL UP" Warning
+Terrain Awareness
+Visual References
+Flying a Visual Approach
+Missed Approach
+Minimum Safe Altitude Warning (MSAW)
+Flight Management System
+Use of Selected Altitude by ATC
+Operational Use of Flight Path Management Systems
+Cross-checking Process
+Threat and Error Management Preventing CFIT (OGHFA SE)

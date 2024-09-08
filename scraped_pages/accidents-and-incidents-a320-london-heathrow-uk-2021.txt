@@ -1,0 +1,352 @@
+A320, London Heathrow UK, 2021
+
+
+
+
+
+
+
+
+
+
+
+  A320, London Heathrow UK, 2021
+
+
+
+
+
+
+
+
+
+Summary
+
+On 9 June 2021, an Airbus A320 Captain performing a relatively light weight and therefore rapid-acceleration takeoff from London Heathrow recognised as the standard 100 knot call was imminent that he had no speed indication so announced and performed a high speed rejected takeoff. Subsequent maintenance inspection found that the left pitot mast was blocked by the nest of a seasonally active solitary flying insect, noting that the aircraft had previously been parked for 24 hours on a non-terminal stand. Similar events, including another rejected takeoff, then followed and a comprehensive combined Investigation found all were of similar origin.
+
+
+
+
+Event Details
+
+When
+
+09/06/2021
+
+
+
+Event Type
+
+
+AW,
+              LOC
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+On Ground - Normal Visibility
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS A-320
+
+
+
+
+
+
+
+
+
+Operator
+
+British Airways
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+London Heathrow Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Manchester International Airport
+
+
+
+
+
+
+
+Actual Destination
+
+
+
+
+London Heathrow Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+No
+
+
+
+Flight Completed
+
+No
+
+
+
+Phase of Flight
+
+Take Off
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+EGLL
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Degraded flight instrument display,
+              Environmental Factors
+          
+
+
+
+
+RE
+
+Tag(s)
+
+
+              High Speed RTO (V above 80 but not above V1)
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Indicating / Recording Systems
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 9 June 2021, an Airbus A320 (G-EUUO) being operated by British Airways on a scheduled domestic passenger flight from London Heathrow to Manchester as BA1386 made a high speed rejected takeoff on runway 27R in normal day visibility because of a significant difference in the two pilots’ primary airspeed indications. After coming to a stop with plenty of runway ahead, the aircraft was taxied back to the terminal.
+Investigation
+After a third Heathrow event involving a departing British Airways aircraft experiencing faults in the display of air speed information had occurred in the space of two days, a low speed rejected takeoff by a Boeing 777-200 which had been parked prior to flight at a different location to the first two, the operator determined that immediate reporting action to the UK AAIB was appropriate and quarantined the aircraft. The AAIB immediately attended and commenced a Field Investigation into all three events. During this, two other related events which subsequently occurred at the airport were added to the initial three. Only the first event involved a high speed rejected takeoff with one other, a British Airways Boeing 777-200  (G-YMMR) making a low speed rejected takeoff and the other, involving a British Airways Airbus A320neo (G-TTNH) which occurred during engine start/pushback. Two subsequent in-flight events in which related pitot/static system anomalies occurred were also included in the Investigation. These involved a British Airways Boeing 787-9 (G-ZBKJ) and a Virgin Atlantic Airways Airbus A330-300 (G-VKSS). 
+The Investigation sought to determine the likely reasons for an abnormal concentration of pitot system-related problems associated with the operation of Heathrow-based aircraft both before and after the flight concerned had become airborne. Relevant Digital ACMS Recorder (DAR) data for the first three events was downloaded to assist the Investigation.
+What Happened
+(1) G-EUUO 9 June 2021
+On 4 June 2021, the aircraft had made an uneventful flight to Heathrow from London Gatwick after a period of 2 months storage. Before this positioning flight, it had been through standard return to service requirements which had included a flush of the pitot/static system and subsequent leak checks with no adverse findings. On arrival at Heathrow the aircraft was subject to further maintenance action to prepare it for service which included an operational check of the engine bleed air valves. No further work was carried out on the pitot/static system and the aircraft was then parked on remote stand TD4 in the south eastern part of the airport (see the illustration below) for 26½ hours until being towed to Terminal 5 for an early morning departure on 9 June 2021. The fitting of pitot/static covers for such a short period remotely parked was not required and they had not been fitted.
+The flight crew consisted of a 40 year-old Captain with a total of 9,271 flying hours experience, all but 189 hours on type and a First Officer for whom age/experience details were not given. The Captain was acting as PF for the first sector. Both pilots stated that just after the engines had been started, they had been aware for about ten seconds of a smell described as similar to “burning hair” from the air conditioning ducts but all flight deck indications were normal as they taxied to the takeoff runway. 
+Takeoff commenced with rapid acceleration due to the unusually low takeoff weight and shortly after the First Officer had called that thrust was set, the Captain saw that his air speed indication was still less than 40 knots whereas the First Officer’s was already over 70 knots. By the time he made a “STOP” call, it almost coincided with the First Officer’s routine100 knot call. The rejected takeoff was completed with considerable runway still remaining ahead and the subsequent return to stand was uneventful. 
+
+The parking positions of three of the affected aircraft. [Reproduced from the Official Report]
+Subsequent maintenance inspection of the pitot/static system found that the left pitot mast – the one feeding the left side PFD, was blocked with what appeared to be solid soil-like material and it was replaced after which the system was tested and confirmed serviceable. At this point, the operator took the view that this was an isolated occurrence and noted that the blockage must have occurred when the aircraft was parked in an area where insect-source pitot/static contamination had occurred in the past although not since most of a hedge in the vicinity had been removed for other reasons.
+Although the computed airspeed recorded by the FDR was as displayed to the crew, it was sourced from a single pitot mast, the computed airspeed from each of the three pitot masts was recorded in the aircraft’s Digital ACMS Recorder (DAR). This allowed the performance of each of the three airspeeds recorded during the takeoff roll to be displayed (see the illustration below). It confirmed the failure of the left PFD indication and the normal function of the right PFD display and that fed to the standby display system
+(2) G-TTNH 10 June 2021
+Prior to being towed to Terminal 5 to operate a domestic passenger flight to Aberdeen as BA1306, the aircraft had been on stand TD5 next to the one occupied by G-EUUO for two days since its last flight. Again in accordance with company procedures for such a relatively short period parked, the fitting of pitot/static covers had not been required.
+
+DAR speed and engine thrust data generated by the three independent source systems. [Reproduced from the Official Report]
+Once push back from the gate was under way with the engines being started, multiple, unexpected error messages were presented, the first being a short duration ECAM alert relating to the rudder travel limiter system. Towards the end of the pushback, the Captain saw his PFD speed scale indicating in excess of 160 knots before it then fell to zero. With no hard faults present, engine starting continued but once the first (right) engine was running, a series of new ECAM messages began to appear including failure messages for both radio altimeter systems, engine 1 (although it had not yet been started) and for the right side AoA sensor. The flight control mode had also downgraded from Normal to Alternate Law. On advice from Maintenance Control, engine 2 was shut down and the Air Data Inertial Reference Units (ADIRU) were re-initialised before a second attempt at engine start but when this made no difference, the ECAM faults remained so the aircraft was returned to the gate, shut down and the passengers disembarked.
+Data from the aircraft DAR showed that on completion of pushback with both engines at idle thrust, all three pitot masts had been sensing airspeeds in excess of 100 knots even though the aircraft was not moving. During the three minutes the aircraft was stationary, eleven ECAM alerts had been generated all of which were associated with an airspeed of < 80 knots.
+Inspection found that two out of the three static masts were blocked with debris similar to that found the previous morning on G-EUUO. The two affected probes were changed and after extensive system testing was successful, the aircraft was released to service. Since the aircraft had been parked on a stand next to the one which G-EUUO had been, the aircraft operator still considered that this was likely to be a problem confined to that particular area of their parking bays.
+(3) G-YMMR 11 June
+Prior to being positioned to Terminal 5 to operate a mid morning departure to Accra as BA81, the aircraft had been at Heathrow parked out of service for five days since arriving from Johannesburg on the morning of 6 June. Most of this time the aircraft was in the overspill parking area at Terminal 4, but at times also on a maintenance stand at the north-eastern corner of the airport, at all times without pitot mast covers being fitted.
+No system anomalies were observed until the takeoff roll had commenced. Then, just after the PM called that takeoff thrust was set, both pilots looked at their PFD airspeed displays and saw that their airspeed indications were absent. The Captain immediately called “STOP” and the takeoff was rejected 275 metres into the take off roll at 64 knots groundspeed. The aircraft was taxied clear and returned to Terminal 5 where the engines were shut down and the passengers were disembarked. 
+Inspection of the pitot masts found that both right and centre ones were blocked by debris similar to that already found in the masts of the two A320s. This time, since the aircraft had been parked at a different location to the other two, the operator recognised that this should now be considered as a wider issue so the aircraft was quarantined and the AAIB notified. 
+The operator also introduced an immediate requirement for any aircraft that had stopped at Heathrow overnight to be subject to a Detailed Visual Inspection (DVI) of the interior of the pitot masts within the two hours prior to any Heathrow departure from within an arm’s length of the masts and with the use of visual aids if necessary. The results of each inspection were to be entered into the aircraft Technical Log. By 14 June, 265 such DVIs had been carried out with no further pitot mast blockages found.
+
+One of the two blocked pitot masts on Boeing 777-200 G-YMMR. [Reproduced from the Official Report] 
+On arrival at Heathrow, the AAIB team were briefed on the first three events and having inspected the blockages just found, concluded that some form of insect infestation had been a significant contributor if not the sole cause of all three events. It was considered that some form of alert to aircraft operators was necessary and the UK CAA agreed to do this (see the section ‘Safety Action’ below).
+Blocked pitot probes removed from the three aircraft involved were examined by the AAIB to see if it was possible to identify the exact origin of the debris causing the blockages.   
+ 
+On 15 June 2021, three aircraft failed their pre service DVIs and findings from these ‘events’ were included in the AAIB Investigation. The aircraft involved were as follows:
+
+a Boeing 787-9 (G-ZBKJ) right pitot mast was found to be blocked with insect eggs after being parked on stand TA4 for three days.  
+a Boeing 777-300 (G-STBJ) parked on stand TA6 was found to have its right pitot mast blocked and an insect, suspected to be a bee or wasp, was photographed entering the mast. 
+a Boeing 787-8 (G-ZBJF) parked on stand TA3 was found to have its right pitot mast blocked.
+
+Following these three findings, the operator introduced new procedures for the fitting of pitot mast covers at Heathrow which required them to be used on any aircraft parked on an engineering base stand and to any aircraft staying parked overnight at any location. 
+The Boeing 787-9 G-ZBKJ was subsequently released to service as the BA165 flight to Tel Aviv during which an ECAM fault indication for the left Air Data Module (ADM), which measures air pressure in the pitot static system, was annunciated. On the ground in Tel Aviv, a system test cleared the fault message and after a DVI of all pitot masts did not lead to any recording of blockage evidence. However, on the return sector from Tel Aviv to Heathrow as BA 164, the same fault message re-appeared. Since abnormally high pitot system air pressure is typically caused by partial obstruction of the air flow, on arrival at Heathrow, a fault investigation was initiated.
+After a succession of events affecting British Airways aircraft, on 1 July 2021, a Virgin Atlantic Airways Airbus A330-300 (G-VKSS) which had been ferried from long term storage at Manchester and then prepared for a return to service, departed Heathrow for Milan Malpensa and a failure of the right hand side pitot heater was annunciated en route. The required response, to select the standby system, resolved the fault and there were no other fault annunciations or abnormal Electronic Attitude Director Indicator (EADI) indications. Following the return flight to Heathrow under MEL-based release to service provisions, maintenance subsequently found evidence of “debris and contamination” at the quick-disconnect union on the rear of the right hand pitot mast unit but also discovered further similar debris and contamination within in the left hand side pitot mast, although not enough to compromise function. It was found that after arriving at Heathrow on 17 June, the aircraft had been parked at various remote stands when not in a hangar but that pitot mast covers had not been fitted until 20 June. Enhanced use of pitot cover for all company aircraft was implemented. 
+Finally, on 19 July, a live insect was observed inside the left hand pitot mast of a British Airways Airbus A319 (G-DBCG) during the pre service DVI and after sealing and removing the mast, engineers captured and contained the live insect (see the illustration below) and passed it to the AAIB Investigators. No further events were reported.
+
+The live insect recovered from the A319 G-DBCG. [Reproduced from the Official Report] 
+Investigation into the insect species involved 
+A detailed analysis of debris found in the pitot masts ultimately removed because of debris contamination was made. That from the masts of the first two events had been reduced to dust because the mast heaters had been on. In the case of the third event, a hard cap remained at the entrance to the mast and specialist advice identified it as typical of solitary bees but as the debris inside had also been reduced to dust by heating, no more could be learnt from that.  
+The pitot mast subsequently removed from the 777-300 which a wasp or bee had been photographed entering was found to be a capped nest which, because the mast heater had not been on, contained a larva which was still alive (see the illustration below) and was sent for analysis.
+
+The blocked mast (left) with the blockage removed to show the larva inside. [Reproduced from the Official Report] 
+Unlike the other cases, the debris recovered from the Virgin Atlantic A330-300 (G-VKSS) had been further from the mast heater and as a result had been better preserved. On removal, it was found to consist of a mixture of “small shards of leaf material and dead larvae”.
+The London-based Natural History Museum was contracted to carry out an expert analysis of insect, larvae and debris evidence collected. Their DNA analysis and expert visual identification identified two species involved as the Mason Wasp Ancistrocerus parietum and the Leafcutter Bee Megachile pilidens. The former was the species involved in the case of the live insect photographed entering the A319 mast on 19 July and also the larva discovered inside a 777-300 mast on 15 June. The latter was the species involved in the Virgin Atlantic A330-300. Whilst the Mason Wasp species found was described “common and widespread” throughout much of the British Isles and widely distributed in mainland Europe, North Africa and Asia, the Leafcutter Bee species found was described as “not generally found” in the British Isles although present in Europe, North Africa and Central Asia.
+The potential effects of abnormal environmental factors 
+It was observed that “whilst the hazard of insects blocking pitot masts is not new, it is unusual for such a spate of events to occur in such a short timeframe” with aerodrome wildlife hazard management understandably more focused on the dangers to aircraft presented by birds.
+Data available from routine environmental monitoring of both air quality and noise around the airport indicated that the dramatic reduction in the volume of both air and road traffic during the spring and summer of 2020 due to very significant pandemic-related travel and activity restraints had created a number of potential contributors to an increased prevalence of flying insects. These insects included those associated with solitary wasps and bees looking for nest sites.
+These environmental changes were noted to have included:
+
+A very significant reduction in all the primary pollutants such as Nitrogen Dioxide.  
+A change in air quality which increased the floral aromas from vegetation because their hydrocarbons were no longer being destroyed by the presence of much higher than normal levels of ground level ozone than those normally detected. This normally high ozone level would usually have negatively affected plant health and thus indirectly affected flying insect habitats resulting in more energy being expended both to forage and to seek out nest sites. Its absence would alone have been likely to lead to a more successful breeding season.
+Vibration and noise pollution were both dramatically lower, a significant benefit to animals of all kinds due to their acute sensitivity to both. Apart from very low levels of aircraft and vehicle movements, activity at construction sites on or in the vicinity of Heathrow was greatly reduced compared to normal. 
+
+It was considered that “the temporary surge in these events came about as a result of a confluence of factors of the pandemic, but it is also a reminder that the environmental response to changes in human behaviour can be unpredictable and have unforeseen consequences”. It was also noted that one long term consequence of “greener aviation” and improved urban environmental quality will be to create the kind of environments in and around urban area airports which are more attractive to insects such as bees and wasps.
+The Conclusion of the Investigation was formally documented as follows:
+Over a short period of time, several aircraft suffered air data problems related to the blockage of pitot probes by insect nests.
+From an operational perspective, pilot training, preparedness and effective TEM should be considered key elements for assuring early detection of pitot/static system blockages in the takeoff roll, thus minimising the hazards associated with high-speed rejections. As the airline industry increases its operational tempo toward pre-pandemic levels, operator support for crews balancing commercial pressures against reduced recency will be an important enabler for safely rebuilding operational fluency.
+Insects blocking aircraft pitot/static systems is not a new hazard, but one likely exacerbated at Heathrow in 2021 due to the unusually low operational tempo resulting from the Covid-19 pandemic.  Reduced traffic levels and human activity resulted in a surge of insect activity during the pandemic lockdowns. With less aircraft activity, including less noise and jet efflux to deter the insects, the parked aircraft made an attractive opportunity, with the pitot probes providing an ideal construction site for nests.
+The high level of insect activity in 2021 could lead to a larger number of insects emerging in the spring of 2022. Therefore, even though traffic levels and aircraft utilisation are expected to increase in 2022, the seasonal risk of insects blocking pitot probes could be significant. Proactive habitat management and aircraft monitoring will be required to mitigate the risk. With the move towards ‘greener’ aviation, this may become even more important in the future.
+
+Safety Action taken during the Investigation as a result of its findings was as follows:
+
+The UK CAA issued a Safety Notice on ‘Pitot Blockage Events’
+British Airways and Virgin Atlantic Airways: for the duration of the identified problem, the requirement for fitting pitot mast covers to parked aircraft was enhanced and DVIs of pitot masts for blockages were required as part of initial pre flight external inspections on all aircraft which had previously been parked away from the terminal gates at Heathrow.
+Heathrow Airport decided to update its environmental hazard management plan to take the findings of the Investigation into account.
+
+The Final Report of the Investigation was published on 27 January 2022. No Safety Recommendations were made but it was noted that although the Investigation had been confined to Heathrow Airport and its surrounds, in view of the environmental factors which had emerged during it, some of the findings may also have potential relevance at other aerodromes at certain times of the year.  
+Related Articles
+
+Pitot Static System
+Non Avian Wildlife Hazards to Aircraft
+Rejected Take Off
+Unreliable Airspeed Indications
+Detailed Visual Inspection (DVI)
+
+Further Reading
+
+SN–2021/014: Pitot Blockage Events, UK CAA, 12 June 2021
+CAP772: Wildlife hazard management at aerodromes, UK CAA, October 2017

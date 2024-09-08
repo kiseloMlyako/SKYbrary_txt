@@ -1,0 +1,196 @@
+ATCO Actions during Prolonged Loss of Communication
+
+
+
+
+
+
+
+
+
+
+
+  ATCO Actions during Prolonged Loss of Communication
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Air Ground Communication 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+After the terrorist attacks of 11 September, 2001, Prolonged Loss of Communication (PLOC) events, already a concern in terms of the potential for loss of traffic separation, became a very sensitive issue for security reasons. As PLOC events are often now initially treated as potential security risks, it is important that both pilots and ATCOs are made aware of the problem and its potential consequences.
+This article describes the possible consequences of a prolonged (two-way) loss of communication (PLOC) event and suggests defences, best practices and mitigations which could be used by air traffic controllers (ATCOs). However, these are not intended to be exhaustive or automatically applicable and should not prejudice local ATC procedures.
+Description
+Communication between air traffic controllers and pilots continues to be an essential part of air traffic control operations and communication-related problems can lead to hazardous situations. Loss of communication between an aircraft and ATC can occur for various reasons, some could be technical and others attributable to the human factor element, for example due to inadvertent mismanagement of the human-machine interface. The duration of any loss of communication can vary greatly. The description Prolonged Loss Of Communication (PLOC) has yet to be officially defined but it is usually applied to a period of loss of communication in excess of 10 minutes. However, the absolute time before any loss of communication is so defined often depends on the airspace within which it takes place.
+Typical Scenarios
+Typical situations conducive to PLOC include
+
+Readback / hearback error
+No pilot readback due to distraction
+Communication equipment problem
+Wrong aircraft accepting frequency change (e.g. due to similar call-signs)
+Use of non standard phraseology for frequency change or poor air-ground communication (high speech rate, clipping transmissions, etc.), heavy accent
+Blocked transmission
+Radio interference
+‘Sleeping VHF receiver’
+‘Stuck microphone’
+
+Contributory Factors
+
+Poor readback
+Poor hearback
+Pilot performance issues (e.g. ineffective en route monitoring 121.5 MHz, failure to notice and/or react to prolonged lack of R/T activity on the frequency selected, failure to check in on a newly selected but incorrect frequency)
+Faulty radio equipment
+Too high or too low workload for controller or pilots
+
+What to expect
+
+Airspace Infringement, including interruption of military or other user activities in restricted, danger or prohibited areas;
+Military interception if the aircraft suffering PLOC is judged to be a potential security threat;
+Level or heading (track) change which could ultimately result in loss of separation
+Landing without a clearance or execution of a go around.
+
+Possible ATCO actions in case of PLOC
+
+Transmit blind on all the frequencies available on which the aircraft is supposed to be listening
+Use other aircraft to attempt to relay messages to the aircraft suffering PLOC
+Monitor 121.5 MHz constantly
+Check with the upstream ATC unit whether the aircraft has been tranferred correctly
+Forward information about the Radio Communication Failure (RCF) to relevant downstream ATS units
+Check the flight plan for alternate aerodromes and other relevant information as level, route and speed changes, etc
+En-route: separate the aircraft with RCF from the other traffic as appropriate
+On approach: allow for a long final to be flown and hold all departures and arrivals
+At the airport: keep the active runway clear
+If the aircraft is approaching restricted, danger or prohibited airspace, ensure that a timely alert is passed to the appropriate military or other authority
+
+Defences
+As an air traffic controller
+
+Provide timely and clear instructions regarding frequency changes. A planned frequency change is by far the most common point from which this type of communication problem originates. Typical examples of frequency change issues are: a significant delay in pilots making their selection of and/ or checking in with the next sector frequency; controllers delaying frequency change instructions (e.g. due to high workload or other lack of proper traffic oversight) to the extent that the aircraft exits the coverage of allocated ground radio transmitter(s) for the frequency; the selection of an incorrect frequency by pilots or the transmission of an incorrect next sector frequency by a controller
+Be attentive to pilots’ readback and provide appropriate correction immediately when an incorrect frequency readback is identified
+When the readback is ambiguous (for example: the call-sign is omitted during the readback, or when the readback is unclear), promptly repeat the instruction
+Use standard phraseology and English language only
+Recognise the potential for misunderstanding created by heavily-accented English, especially when the two parties' accents differ significantly
+Be proactive. Inform pilots as necessary when there are aircraft with similar call-signs (e.g. Airline 213 and Airline 313) on the same frequency. Also, a simple call ("Airline 213, ATS unit") can be used to draw the pilot's attention before issuing the frequency change instruction. If a response is received from the wrong aircraft (or from both), clarifying the misunderstanding would be easy.
+When giving instructions, speak slowly, clearly and at a constant rate and adopt the same level of care when pronouncing call-signs; use short and concise messages
+Issue a frequency change as a single instruction
+
+Organisational defences
+
+Training – controllers should be made aware of the factors leading to PLOC, its potential consequences, how to recognise such events and how to apply correctly available defences
+Implementation of controller-pilot data link communications (CPDLC)
+
+Further Reading
+EUROCONTROL
+
+Investigations into Loss of Communications
+Air-Ground Communication Safety Study Causes and Recommendations
+Air-Ground Communications Briefing Note 3 - Loss of communication
+EUROCONTROL AGC Safety Letter December 2004
+AGC Safety Study - An Analysis of Pilot-Controller Occurrences
+
+
+
+
+
+Categories
+
+
+Air Ground Communication
+
+
+
+
+
+
+
+
+
+Related Articles
+
+Prolonged loss of communication
+Pilot-Controller Communications (OGHFA BN)
+Communication Failure: Guidance for Controllers
+Call-sign Confusion
+Radio Discipline
+Non-Standard Phraseology
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

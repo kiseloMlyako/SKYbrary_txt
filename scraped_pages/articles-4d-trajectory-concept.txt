@@ -1,0 +1,162 @@
+4D Trajectory Concept
+
+
+
+
+
+
+
+
+
+
+
+  4D Trajectory Concept
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+SESAR 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+The 4D trajectory of an aircraft consists of the three spatial dimensions plus time as a fourth dimension. This means that any delay is in fact a distortion of the trajectory as much as a level change or a change of the horizontal position. Tactical interventions by air traffic controllers rarely take into account the effect on the trajectory as a whole due to the relatively short look-ahead time (in the order of 20 minutes or so).
+The implementation of 4D trajectory management is being researched by SESAR (Single European Sky ATM Research) in the EU and NextGen in the US.
+Description
+The 4D trajectory concept is based on the integration of time into the 3D aircraft trajectory. It aims to ensure flight on a practically unrestricted, optimum trajectory for as long as possible in exchange for the aircraft being obliged to meet very accurately an arrival time over a designated point.
+Related Terms and Abbreviations
+
+RBT – reference business trajectory – the business trajectory which the airspace user agrees to fly and the ANSP and airports agree to facilitate (subject to separation provision). Business trajectory is the representation of an airspace user’s intention with respect to a given flight. It is aimed at guaranteeing the best outcome for the flight as seen from the airspace user’s perspective;
+CTA – controlled time of arrival (sometimes referred to as constrained time of arrival) – an ATM imposed time constraint on a defined merging point associated to an arrival runway;
+TBO – trajectory based operations – the concept of improving throughput, flight efficiency, flight times, and schedule predictability through better prediction and coordination of aircraft trajectories;
+SWIM – system wide information management is an advanced technology program designed to facilitate greater sharing of Air Traffic Management (ATM) system information, such as airport operational status, weather information, flight data, status of special use airspace, etc.
+
+Benefits of 4D Trajectory Operations
+
+Improvement of air traffic operations by increasing the overall predictability of traffic;
+Optimal operations for airlines (aircraft using preferred routes and levels);
+Better service provided (due to ground-ground and air-ground interoperability) – fewer trajectory distortions;
+Reduced costs (e.g. fuel and/or time);
+Reduced emissions;
+Increased capacities (en-route and airport) – controllers would be able to handle safely more traffic;
+Easier to handle traffic for the controllers (fewer conflicts, information comes well in advance);
+
+Issues
+
+Limited effect unless widespread – if only part of a given trajectory is subject to TBO, the achievable benefit is limited since the optimized section of the trajectory will be, by definition, shorter and disturbances in the non-TBO sections ripple over in unpredictable ways. TBO limited to one’s own Functional Airspace Block (FAB) is of lesser value if the trajectory extends beyond the FAB boundaries.
+
+
+Example: An aircraft overflies three FABs on its way from A to B. The trajectory (grey) turns out to be inefficient compared to the business trajectory (green) although it is optimal within each FAB. The situation could be even worse if there were several volumes of airspace controlled by different States in the middle instead of FAB 2.
+Note: The preferred 4D trajectory by an aircraft operator may not follow the great circle between the point of departure and point of arrival. For example, to use tailwind en-route an operator may file a route that is tens of miles longer than the shortest route.
+
+Technology challenge – new equipment is required for aircraft, ANSPs and airports.
+Attitude change – controllers will have to consider the impact of their actions on the trajectory as a whole and pilots will have to accept more restrictions (the aircraft should reach certain points at defined times, not earlier and not later).
+More challenging conflict detection – at present the airspace structure is such that most conflicts occur at specific points (e.g. airway crossings). With the introduction of TBO aircraft trajectories will no longer follow standard airways and the conflicting points will not be at fixed locations, similar to free route operations. This should not be much of an issue if appropriate equipment is available to controllers since the number of conflicts is expected to be reduced.
+Equipment failures – sector capacities will be recalculated to reflect the use of TBO. This could easily lead to controller overload in case of equipment failure (a situation similar to surveillance system failure nowadays).
+
+Equipment Requirements
+
+Enhancements to the weather model in the Flight Management System;
+Improvements to the FMS to improve the ability to meet time constraints;
+Introduction of CPDLC;
+Introduction of SWIM.
+
+4D Trajectory Operations in SESAR
+In the context of SESAR, airspace users will agree a preferred trajectory with Air Navigation Service Providers (ANSPs) and airport operators. Aircraft and ground systems will exchange trajectory information and the ability to meet assigned CTAs.
+The introduction of 4D trajectory management is scheduled to happen in two stages. The first is called initial 4D (i4D) and the second is Full 4D. The necessity to divide the process comes from the fact that i4D does not pose much of a technical challenge. This means that positive effects can be achieved with slight upgrade of current equipment. Initial 4D operations consist in giving a time constraint at merging point to each aircraft converging to this point, in order to sequence the traffic for arrival. Typical merging point could be the Initial Approach Fix (IAF) point, in the vicinity of a congested airport (CTA should be given before Top of Descent).
+Related Articles
+
+SESAR
+ATM Master Plan
+System-wide Information Management (SWIM)
+
+Further Reading
+
+A comparison of 4D-trajectory operations envisioned for NextGen and SESAR, some preliminary findings, G. Enea, M. Porretta, paper presented on the 28th International Congress of Aeronautical Sciences (ICAS)
+NCOIC Comparison of the SESAR and NextGen Concepts of Operations, E. Ulfbratt, J. McConville
+
+
+
+
+
+Categories
+
+
+SESAR
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

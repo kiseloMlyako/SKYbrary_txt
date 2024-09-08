@@ -1,0 +1,209 @@
+Using GNSS as a VFR Navigation Tool
+
+
+
+
+
+
+
+
+
+
+
+  Using GNSS as a VFR Navigation Tool
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+Continuing improvements to the accuracy, affordability and usability of GNSS and its flying-related applications has lead to an increasing number of Visual Flight Rules (VFR) pilots using it as a navigation aid. As with most new technologies some safety issues have arisen and improper use of, or overreliance on, GNSS have been identified as a contributory factor to a number of safety occurrences.
+Main Issues
+The most common contributory factors to GNSS-related occurrences are:
+
+Overreliance on GNSS - In many areas of the world, the National Aviation Authority (NAA) regulations allow the use of GNSS as a supplement to other VFR navigation techniques. However, they do not necessarily approve it as a "sole means" navigation capability. In general, GNSS is a reliable system but, under certain circumstances (e.g. battery failure, software errors, erroneous input made by the pilot, etc.) it might become unusable or unreliable. Overreliance on a GNSS unit could lead to complacency inclusive of inadequate pre-flight preparation, and that combined with a GNSS failure can easily cause loss of orientation leading to Airspace Infringement, loss of terrain awareness, fuel emergency, etc.
+Improper use of the “Go to” function – The "Go to" or "Direct" function provides a direct track between the aircraft and the selected point and does not take into account airspace boundaries, danger areas, prohibited areas, etc. The indiscriminant use of this feature can easily result in an airspace infringement;
+A false sense of safety given by the GNSS equipment – The GNSS unit can provide the pilot with a track to follow, irrespective of the ceiling or visibility. In marginal weather conditions the crew might opt to continue the flight as planned instead of following standard diversion or reroute procedures (or landing at the nearest suitable aerodrome) thus greatly increasing the risk of CFIT.
+
+Typical Scenarios
+Overreliance on GNSS and poor pre-flight preparation may lead to a number of safety-related scenarios, including but not limited to:
+
+Aircraft flying into controlled airspace without clearance. This could occur due to inappropriate use of "Go to", pilot input error or out of date GNSS data base;
+Aircraft flying into danger/prohibited/restricted areas. This could occur due to inappropriate use of "Go to", pilot input error or out of date GNSS data base;
+Loss of orientation due to GNSS failure. If navigation has been solely predicated on use of the GNSS unit, e.g. if there are no other maps on board or the pre-flight preparation has been inadequate, failure of the GNSS unit could result in the pilot's inability to determine the aircraft position;
+Fuel emergency as a consequence of loss of orientation;
+Aircraft crossing interstate border and being considered an intruder as a consequence of loss of orientation or inappropriate use of the "go to" function;
+Aircraft flying in marginal conditions and hitting an obstacle, for example, a wind turbine or mast, due to outdated charts or GNSS data base;
+Loss of separation due to lack of visual scanning and observation because of "head down" focus on the GNSS equipment;
+Poor communication with air traffic control, leading to increased workload for both pilots and controllers (e.g. the pilot is unable to report the position in terms of distance and bearing to a navigation point)
+
+Defences
+
+GNSS should only be used as a supplementary tool for VFR flights;
+The “Go to” function should only be used when there is reasonable assurance that the resulting track would not result in an airspace infringement (i.e. there are no active restrictions on the way). Pilots should, at all times, be aware of their current position and be ready to act appropriately in the event of weather deterioration;
+Proper pre-flight planning and route preparation with special attention paid to any prohibited areas or activated restricted/danger areas. Appropriate maps should be carried on board, especially when the pilot is not familiar with the route and terrain;
+Pilots should be well familiarised with the GNSS equipment, software and user interface. Manipulating the GNSS equipment in-flight is more difficult than on the ground due to the other tasks that must be addressed simultaneously (aircraft control, observation, communication, etc.). Not being familiar enough with the GNSS degrades aircraft handling, wastes time and increases the likelihood of an erroneous GNSS input;
+Use of up-to-date GNSS data will reduce the chance of an airspace infringement;
+
+GPS Problem Areas
+Global Positioning System (GPS) equipment and its installation vary considerably.
+
+Most equipment designed for use in commercial aircraft is permanently installed in tested and approved locations with appropriate power supplies, and, crucially, is fully integrated with other flight systems.
+Some equipment, especially that used by general aviation, is portable with battery power and lightweight antenna design. Such equipment may create problems in use rather than aid safe navigation when used by pilots who do not fully understand its limitations and its capabilities.
+
+At present, there is little formal guidance or training in the use of stand-alone GPS in General Aviation (GA). This presents a serious problem for GA pilots who are often unaware how to properly use GPS as a supplementary Visual Flight Rules (VFR) navigation aid. GPS equipment instruction manuals are often found to be complex and difficult to understand for some of those who acquire or plan to use such equipment; many pilots require assistance in applying the capabilities of the GPS to safe navigation.
+To address these problems, some flying clubs organise sessions where experienced GPS users demonstrate and discuss the use of their systems, however, that merely guarantees that the 'instructor' knows more than the 'student' and may not necessarily ensure that the right ideas are being spread.
+An extensive list of GPS-based navigation tools is available here: VFR navigation tools table.
+Challenges to successful use of GPS
+The following paragraphs highlight particular technical problem areas in the use of GPS.
+
+Equipment Installation. Battery failure, unintentional aerial disconnection and poor internal aerial reception may be the causes of poor reliability and performance.
+
+These difficulties are absent when the equipment is correctly installed.
+
+
+Data Programming. GPS relies on correct data input, with effective cross checking against a map position to verify accuracy.
+
+Pilots should employ strict cross checking procedures before using GPS for navigation. Manual data input without verification may produce wildly inaccurate navigation, which may remain undetected until an infringement of controlled airspace occurs.
+
+
+Use of the “GO TO” Function. Following a deviation from track, care must be taken in using the “go to” function to ensure that the new track does not infringe controlled airspace.
+Poor Database Accuracy. Poor database accuracy may be due to incorrect depiction, the absence of some controlled airspace boundaries, or out-of-date information. American databases do not always cater for every European airspace category.
+
+Controlled airspace characteristics change from time to time; it is therefore essential that pilots maintain database currency by purchasing updates from the manufacturer. If hiring an aircraft, the GPS should be checked to ensure that it has the latest database up-date.
+
+
+Lookout. Re-routing usually necessitates re-programming of the GPS. This may require considerable time spent with “heads in cockpit”.
+
+Pilots must ensure that look-out is not compromised while programming GPS.
+
+
+Excessive reliance on GPS. Large navigational errors can arise where GPS is used as the sole navigation aid.
+
+GPS navigation should be augmented by reference to map-reading and/or radio navigation aids.
+
+
+Pressing on in Bad Weather. Because of the known accuracy of GPS, there is a tendency for pilots to “press on” in adverse weather, where previously, with map reading as their main source of navigation, they would have turned back or diverted. Some pilots also plan to fly very close to controlled airspace boundaries in the belief that GPS will deliver exceptional accuracy.
+
+Experience and reported incidents have verified the danger of these assumptions.
+
+
+
+Related Articles
+
+Global Navigation Satellite System (GNSS)
+Interference to GNSS Signals
+Airspace Infringement
+
+Further Reading
+EUROCONTROL Guidance Notes for GA pilots
+
+GPS Navigation
+Flight preparation
+Getting aeronautical information before flight
+Visual navigation
+Entering controlled airspace
+
+UK CAA
+
+Airspace & Safety Initiative
+General Aviation Safety Sense Leaflets
+CAP 1535: The Skyway Code, September 2017
+
+EGAST
+
+Using Advanced Navigation Technology Safely
+
+Others
+
+Using GNSS as a VFR Navigation Tool, safety information leaflet by Airservices Australia
+
+
+
+
+
+Categories
+
+
+General,
+              General Aviation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

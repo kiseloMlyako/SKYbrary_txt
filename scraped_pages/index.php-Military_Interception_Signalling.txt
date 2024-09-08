@@ -1,0 +1,259 @@
+Military Interception Signalling
+
+
+
+
+
+
+
+
+
+
+
+  Military Interception Signalling
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Air Ground Communication 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Signals used for communication between an intercepting military aircraft and the intercepted aircraft.
+Description
+Military aircraft are often tasked to intercept unknown aircraft, aircraft which are not in communication with the appropriate ATC agency, and aircraft which are not responding to attempted ATC contact or have departed from their current clearance.
+A civil aircraft is most likely to be intercepted if it has lost communication with ATC or strays into airspace without appropriate diplomatic or other clearance and without contact with the appropriate controlling authority.
+Since the events of 11 September 2001, military interception of aircraft which are not responding to communications with ATC has become more likely. Furthermore, because of the potential security issues, such intercepts are potentially hazardous and it is important that crews know what to expect when intercepted and are aware of the signals used by military aircraft and how to respond.
+Interception and ACAS
+If the intercepting aircraft is/are equipped with an altitude encoding transponder which is left active during the approach to the target, then the first indication the intercepted aircraft will have of the interception may be on the TCAS display. If an approach is obsrved, especially from behind, it is suggested that a response to any consquent TCAS RA may be inappropriate. See the example given at ACAS Bulletin 9. Once visual contact with intercepting aircraft is available, usually as they arrive alongside from behind, the intercepted aircraft should set the TCAS to TA.
+The Interception
+Day Visual Meteorological Conditions (VMC)
+If there are two intercepting aircraft, the second will usually adopt a surveillance position while the lead aircraft moves in closer to positively identify the aircraft and the status of its flight crew. Separation should not be less than the minimum necessary to identify aircraft and flight crew status.
+If the interceptors are not equipped with altitude encoding transponders or have switched them off, then the first awareness of interception may come from passengers via the cabin crew.
+The interceptor aircraft can be expected to be careful not to alarm the crew and passengers and will manoeuvre slowly and deliberately. The lead aircraft of two can be expected to adopt a position slightly ahead, higher and to the left of the intercepted aircraft.
+Night and Instrument Meteorological Conditions (IMC)
+In IMC or at night, the intercepting aircraft can be expected to establish themselves in a radar trail comfortably behind the intercepted aircraft and will maintain a safe vertical separation.
+Actions on Interception
+The flight crew of an intercepted aircraft should follow the instructions given by the interceptor, interpreting and responding to the visual signals (see the paragraph on Interception signals below).
+The flight crew should notify the appropriate ATC unit and attempt to establish radio communication with the interceptor on 243.0 MHz or 121.5 MHz, giving the identity and position of the aircraft and the nature of the flight. The flight crew should then Squawk emergency (7700) unless otherwise instructed.
+If the intercepted aircraft receives intructions from any source which conflict with the instructions given by the intercepting aircraft, they should seek clarification but continue to comply with the instructions given by the intercepting aircraft.
+Military Aircraft Performance
+The intercepted aircraft crew can expect to see different drag devices deployed by the interceptor as it stabilises its speed and position. Turboprops should anticipate the need to maintain an IAS above 200 kts so as not to cause the fighter any difficulty in maintaining formation.
+Interception Signals
+Ref: ICAO Annex 2, Appendix A, 2.1 and 2.2
+
+Signals initiated by intercepting aircraft and responses by intercepted aircraft
+
+
+Series
+INTERCEPTING Aircraft Signals
+Meaning
+INTERCEPTED Aircraft Responds
+Meaning
+
+
+
+
+1
+
+DAY-Rocking wings from a position slightly above and ahead of, and normally to the left of, the intercepted aircraft and, after acknowledgement, a slow level turn, normally to the left, on to the desired heading.
+NIGHT-Same and, in addition, flashing navigational lights at irregular intervals.
+NOTE 1-Meteorological conditions or terrain may require the intercepting aircraft to take up a position slightly above and ahead of, and to the right of, the intercepted aircraft and to make the subsequent turn to the right.
+NOTE 2-If the intercepted aircraft is not able to keep pace with the intercepting aircraft, the latter is expected to fly a series of race-track patterns and to rock its wings each time it passes the intercepted aircraft.
+
+You have been intercepted. Follow me.
+
+AEROPLANES:
+DAY-Rocking wings and following. NIGHT-Same and, in addition, flashing navigational lights at irregular intervals.
+HELICOPTERS: DAY or NIGHT-Rocking aircraft, flashing navigational lights at irregular intervals and following.
+
+Understood, will comply.
+
+
+2
+DAY or NIGHT-An abrupt break-away maneuver from the intercepted aircraft consisting of a climbing turn of 90 degrees or more without crossing the line of flight of the intercepted aircraft.
+
+You may
+proceed.
+
+
+AEROPLANES:
+DAY or NIGHT-Rocking wings.
+HELICOPTERS: DAY or NIGHT-Rocking aircraft.
+
+Understood, will comply.
+
+
+3
+
+DAY-Circling aerodrome, lowering landing gear and overflying runway in direction of landing or, if the intercepted aircraft is a helicopter, overflying the helicopter landing area.
+NIGHT-Same and, in addition, showing steady landing lights.
+
+Land at this aerodrome.
+
+AEROPLANES:
+DAY-Lowering landing gear, following the intercepting aircraft and, if after overflying the runway landing is considered safe, proceeding to land.
+NIGHT-Same and, in addition, showing steady landing lights (if carried).
+HELICOPTERS: DAY or NIGHT-Following the intercepting aircraft and proceeding to land, showing a steady landing light (if carried).
+
+Understood, will comply.
+
+
+
+ 
+
+Signals initiated by intercepted aircraft and responses by intercepting aircraft
+
+
+Series
+INTERCEPTED Aircraft Signals
+Meaning
+INTERCEPTING Aircraft Responds
+Meaning
+
+
+
+
+4
+DAY or NIGHT-Raising landing gear (if fitted) and flashing landing lights while passing over runway in use or helicopter landing area at a height exceeding 300m (1,000 ft) but not exceeding 600m (2,000 ft) (in the case of a helicopter, at a height exceeding 50m (170 ft) but not exceeding 100m (330 ft) above the aerodrome level, and continuing to circle runway in use or helicopter landing area. If unable to flash landing lights, flash any other lights available.
+Aerodrome you have designated is inadequate.
+
+DAY or NIGHT-If it is desired that the intercepted aircraft follow the intercepting aircraft to an alternate aerodrome, the intercepting aircraft raises its landing gear (if fitted) and uses the Series 1 signals prescribed for intercepting aircraft.
+If it is decided to release the intercepted aircraft, the intercepting aircraft uses the Series 2 signals prescribed for intercepting aircraft.
+
+
+Understood, follow me.
+ 
+ 
+Understood, you may proceed.
+
+
+
+5
+DAY or NIGHT-Regular switching on and off of all available lights but in such a manner as to be distinct from flashing lights.
+Cannot comply.
+DAY or NIGHT-Use Series 2 signals prescribed for intercepting aircraft.
+Understood.
+
+
+6
+DAY or NIGHT-Irregular flashing of all available lights.
+In distress.
+DAY or NIGHT-Use Series 2 signals prescribed for intercepting aircraft.
+
+Understood.
+ 
+
+
+
+
+Hazards
+
+Loss of Separation. Military aircraft climbing at a high rate through or close to controlled airspace need to be deconflicted with other traffic to maintain system safety. This requires effective coordination between civil and military ATC.
+
+Further Reading
+
+ICAO Annex 2 Appendix 2: Interception of civil aircraft.
+Annex to Regulation 923/2012, Section 11, SERA.11015 Interception
+
+
+
+
+
+Categories
+
+
+Air Ground Communication
+
+
+
+
+
+
+
+
+
+Related Articles
+
+Loss of Communication
+Loss of Separation
+NATO-EUROCONTROL ATM Security Coordinating Group (NEASCOG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

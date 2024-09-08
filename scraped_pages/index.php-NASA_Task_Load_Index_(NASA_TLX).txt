@@ -1,0 +1,241 @@
+NASA Task Load Index (NASA TLX)
+
+
+
+
+
+
+
+
+
+
+
+  NASA Task Load Index (NASA TLX)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+The NASA Task Load Index NASA-TLX) is a subjective, off-line self-assessment method. The controllers rate their experience of the exercise on six aspects, as a point on a 20-unit scale.
+
+Mental Demand
+Physical Demand
+Temporal Demand
+Performance
+Effort
+Emotional Stress
+
+These are combined to form a single index.
+Discussion/References
+The NASA-TLX instrument is now maintained by the Human Systems Information Analysis Centre (formerly CSERIAC) a US Department of Defence Information Analysis Centre.
+
+Hart, Sandra G. and Lowell E. Staveland (1988), "Development of NASA-TLX (Task Load Index): Results of Empirical and Theoretical Research," in eds. Peter A. Hancock and Najmedin Meshkati, Human Mental Workload, 139-183. Amsterdam: Elsevier Science Publishers B.V.
+David, H.; Pledger, S. (1995): Intrusiveness of On-Line Self-Assessment in ATC Simulation Using Keyboard and Speech Recognition. EEC Report No. 275, Eurocontrol Experimental Centre, Bretigny, France.
+NASA TLX
+
+
+
+
+
+Categories
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+Generics
+
+
+Type of method
+Subjective
+
+
+Data derived from controllers’ responses.
+
+
+Target of method
+Workload
+
+
+Time Scale of method
+Hours
+
+
+The NASA-TLX is an off-line measure, usually administered at the end of a simulation exercise, which normally lasts from 60-90 minutes.
+It is therefore a global measure, and says little about detailed problems
+
+
+
+Portability of method
+Yes
+
+
+Only paper forms and briefing material are needed for the NASA-TLX, so that it can be carried out anywhere.
+
+
+Observer Effect
+No
+
+
+Controllers fill in the NASA-TLX form individually, and they are collected or handed in to the exercise supervisor, who does not comment on the responses.
+
+
+Context of studies
+
+
+Laboratory studies
+Use
+
+
+ 
+
+
+Simulation studies
+Use
+
+
+ 
+
+
+Field studies
+Use
+
+
+ 
+
+
+Potential problems with the method
+
+
+Failure risk
+Low
+
+
+In extreme circumstances controllers might refuse to fill in the NASA-TLX forms. However, this would only occur when a simulation was so seriously out of order that normal considerations would not apply.
+
+
+Bias risk
+Moderate
+
+
+In general, controllers are reluctant to admit to emotional stress, (and would certainly not admit to strain). The NASA-TLX asks the controllers to rate the situation as a whole, which may cause difficulties where a situation has been calm for most of the time, with a short period of high strain.
+
+
+Ethical problems
+None
+
+
+None, provided it is made clear, before any simulation, that information on the performance or physical state of individual controllers will not be disclosed or quoted in any identifiable form.
+
+
+Costs of the method
+
+
+Staff Cost
+Nil
+
+
+Distribution and collection of NASA-TLX forms can be handled by simulation staff.
+
+
+Set-up Cost
+Low
+
+
+Since all briefing material and recording forms are publicly available, set-up cost is very low. The test must be properly explained, in addition to the printed explanations, by someone of sufficient status to convince the controllers that it is to be taken seriously.
+
+
+Running Cost
+Low
+
+
+The only running cost is that of one form per controller per exercise.
+
+
+Analysis Cost
+Low
+
+
+Analysis requires the transcription of the controllers’ initial relative scale weightings, to form the weights to be applied to their ratings, transcription of their ratings, and application of a formula to calculate the final index value.
+
+
+Analysis data
+
+
+Analysis Speed
+Moderate
+
+
+In principle, results should be available 15-30 minutes after the exercise. Analysis can never be fast, because the controllers’ full attention is required for several minutes after the exercise completion.
+
+
+Data Automation
+Easy
+
+
+A simple data collection program could be incorporated into the simulator software. To date, there has been no pressure for this to be done.
+
+
+Analysis Automation
+Easy
+
+
+Easily implemented on a palm-top or laptop computer.
+
+
+Status
+Established
+
+
+Established - routinely used.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,298 @@
+B772, vicinity Kahului Hawaii USA, 2022
+
+
+
+
+
+
+
+
+
+
+
+  B772, vicinity Kahului Hawaii USA, 2022
+
+
+
+
+
+
+
+
+
+Summary
+
+On 18 December 2022, a Boeing 777-200 which had just departed Kahului in IMC had reached 2,100 feet over the sea in cloud when it began to descend in response to flight control inputs without the Captain as pilot flying recognising what was occurring. Recognition and recovery was slow and only prompted by a combination of EGPWS and verbal PULL UP warnings from the First Officer with a high speed descent to within less than 800 feet of the sea surface. The occurrence was not reported - nor apparently required to be - and the Investigation scope was thereby significantly compromised.
+
+
+
+
+Event Details
+
+When
+
+18/12/2022
+
+
+
+Event Type
+
+
+CFIT,
+              HF
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+IMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 777-200 / 777-200ER
+
+
+
+
+
+
+
+
+
+Operator
+
+United Airlines
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Kahului Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+San Francisco International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Climb
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+PHOG
+
+
+
+
+General
+
+Tag(s)
+
+
+              Copilot less than 500 hours on Type,
+              Root Cause Not Determined,
+              CVR overwritten,
+              Delayed Accident/Incident Reporting
+          
+
+
+
+
+CFIT
+
+Tag(s)
+
+
+              No Visual Reference,
+              Vertical navigation error
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Authority Gradient,
+              Inappropriate crew response - skills deficiency
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Aircraft Flight Path Control Error,
+              Environmental Factors
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 18 December 2022, a Boeing 777-200 (N212UA) being operated by United Airlines on a scheduled domestic passenger flight from Kahului to Francisco as UAL1722 ceased climbing shortly after takeoff in day IMC and descended over the sea and in cloud in controlled flight from 2,100 feet asl to 748 feet asl until recovery was eventually initiated in response to an EGPWS ‘PULL UP’ Warning and the normal climb out was recommenced. The remainder of the flight was completed without further event.
+Investigation
+This Serious Incident was not reported to the US National Transportation Safety Board (NTSB) who only became aware of it “about two months later” by which time relevant data on both the CVR and FDR had been overwritten. On 8 March 2023, the aircraft operator provided the NTSB with a chart showing the variation of relevant parameters based on previously downloaded QAR data by email. The reason given by the aircraft operator for not notifying the NTSB of the event was that the occurrence had not met the requirements of Title 49 CFR Part 830.5 which detailed the criteria for reporting abnormal events to the FAA and apparently also to the NTSB. The 55 year-old Captain, who was acting as PF for the departure, had a total of 19,600 hours flying experience which included 5,000 hours on type. The First Officer had a total of 5,300 hours flying experience which included 120 hours on type.
+What Happened
+Because of reports of light low level turbulence, a flap 20 manual takeoff with full thrust and the A/T engaged was made from runway 20 at Kahului. The initial rate of climb was 2,000 fpm in continuing heavy rain as cloud was entered. At the 1,500 feet acceleration altitude, flap 15 was selected by the First Officer (although the Captain recollected calling for flap 5).The climb continued to just over 2,000 feet as the Captain reduced thrust to prevent a flap overspeed which with flap 15 set steadily reduced the achieved pitch attitude. This height was very briefly maintained and flap 5 was selected, but the already reduced pitch attitude then quickly became negative and the aircraft began to descend despite climb thrust still being set. 
+Almost immediately, the Captain asked for flap 1 and the First Officer observed that the control column had moved forward and the airspeed was increasing. He subsequently stated that he “had known the Captain was having difficulty with airspeed control” and had queried him about it as he had initially considered that his own instrumentation may have been in error. Having not received an immediate response, he then reported having looked out and sensed that they may be about to break out of cloud and had “instantly recognised the severity of the situation”.
+Four seconds after the flap 1 selection, the descent triggered an EGPWS Mode 1 Warning and “SINK RATE, PULL UP” was annunciated at 1,800 feet above sea level (asl) and the First Officer reported having repeated ‘Pull Up’ multiple times. The flaps were selected to zero and three seconds later with almost 17° nose down pitch, a maximum rate of descent of 8,536 fpm was recorded at 1,385 feet asl. The nose down pitch attitude subsequently reached a recorded maximum of 23.42° and 9 seconds after the PULL UP Warning, with thrust initially back to idle as the Captain finally began to respond to the situation, an EGPWS Mode 4 Alert “TOO LOW TERRAIN” occurred with the aircraft at its minimum of 748 feet above the sea surface. A climb away was then made and the aircraft was returned to the normal departure climb profile and the AP was engaged. The maximum speed for flaps 1 was significantly exceeded during the descent by up to 30 knots.
+
+A reconstruction of the flight path based on ADS-B data annotated with information derived from QAR data provided by the aircraft operator. [Reproduced from the Official Report]
+
+QAR Flight Data Derived Strip Chart. [Reproduced from the Investigation Docket] 
+The position of the lowest point of the descent was identified as approximately 5 nm from the point where the rotation for takeoff had occurred. There was no evidence of any windshear-related explanation for the erratic vertical flight profile.
+The Probable Cause of the accident was formally documented as “The flight crew’s failure to manage the aircraft’s vertical flightpath, airspeed and pitch attitude following a miscommunication about the Captain’s desired flap setting during the initial climb”.
+Safety Action taken by United Airlines as a result of the occurrence was noted to have been the modification of one of their operations training modules to address it and the “issue of an awareness campaign” about flight path management at their flight training centre.
+The Final Report was published on 10 August 2023. No Safety Recommendations were made. 
+Editor's Note: The information in the Final Report which was the primary source of the above summary was supplemented where deemed appropriate by reference to the event ‘Docket’ which if required is accessible via the link at the end of the Final Report. 
+Related Articles
+
+Controlled Flight Into Terrain (CFIT)
+Terrain Avoidance and Warning System (TAWS)
+Flight Path Monitoring
+Pilot Flying (PF) and Pilot Monitoring (PM)
+Safety Occurrence Reporting
+
+Further Reading
+
+Title 49 CFR Part 830.5, FAA, 2015

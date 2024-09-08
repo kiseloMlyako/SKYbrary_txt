@@ -1,0 +1,158 @@
+Radio Interference
+
+
+
+
+
+
+
+
+
+
+
+  Radio Interference
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Air Ground Communication 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+“Radio Interference” is the term used to describe a range of different situations in which transmissions other than those from authorised users of an RTF frequency interfere with radio reception.
+Radio interference often comes from commercial stations on the ground.
+Effects
+
+Interference can make communication difficult or even impossible, resulting in loss of communication.
+Increased pilot workload and ATCO workload.
+Callsign Confusion.
+
+Defences
+
+Transmitter Screening. In many cases, ATC receivers are not affected by radio interference, because their antennas are close to the ground and are screened from the source of the interference.
+Frequency Change. In most cases of radio interference the short-term remedy is to change frequency. On notification that a frequency is unusable, ATC will assign a new frequency. However, in extreme cases, aircraft may not be able to hear the assigned frequency. In this case, aircraft should request instructions on another listed frequency for the facility in use.
+Squelch. Careful adjustment of the radio squelch control may reduce the effect of interference.
+
+Example Scenario
+
+Several airports share the same aeronautical frequency but are several hundred nautical miles apart. Atmospheric conditions result in aircraft inbound to one airport having interference from the ATC and aircraft using the same frequency at another airport. The controller on the ground may have no knowledge that the aircraft he is controlling are suffering radio interference because he may not be able to hear the transmissions relating to the other airport.
+
+Contributory Factors
+
+Weather. - for example the static generated in thunderstorm clouds.
+Atmospheric Conditions. - In unusual propagation conditions, especially high pressure situations, transmissions from authorised aeronautical transmitters using the same frequency may interfere with transmissions from stations which are well beyond the protected range.
+Unauthorised transmissions. Interference may result when an unauthorised transmitter is established on a frequency close to the aeronautical frequency, or on one of its sub-harmonic frequencies.
+Malicious Transmissions. There have been rare occasions when an unauthorised station has made malicious transmissions on an aeronautical frequency, presumably with the intention of misleading pilots. This form of interference is usually fairly obvious because the transmissions lack credibility due to their non-standard timing, content or form; however, such transmissions made at critical stages, e.g. during the take-off run, can have potentially very dangerous consequences.
+
+Solutions
+
+All cases of radio interference should be reported using the national mandatory occurrence reporting scheme.
+Cases of malicious interference should be investigated by the police, with the objective of identifying and prosecuting the culprit.
+Interference from other sources should also be reported to ATC, who should pass the information on to the appropriate national authorities so that the source of interference can be detected and arrangements made to prevent recurrence.
+
+Further Reading
+The European Action Plan for AGC Safety contains the following Air Ground Communications Briefing Notes which relate to this subject:
+
+AGC Briefing Note 1 - General;
+AGC Briefing Note 4 - Blocked Transmissions.
+
+
+
+
+
+Categories
+
+
+Air Ground Communication
+
+
+
+
+
+
+
+
+
+Related Articles
+
+Aeronautical Frequency Protection from Interference
+Communication Channel Spacing
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

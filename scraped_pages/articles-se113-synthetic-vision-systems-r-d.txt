@@ -1,0 +1,136 @@
+SE113: Synthetic Vision Systems (R-D)
+
+
+
+
+
+
+
+
+
+
+
+  SE113: Synthetic Vision Systems (R-D)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+CAST Safety Enhancements 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ CAST
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ CAST
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Status: COMPLETED
+Background
+The purpose of this project is to develop capabilities that permit flight crews to operate in a day VMC-like environment, regardless of visibility. Features should include
+
+Terrain and obstacle alerting,
+Geospatial databases,
+Weather display,
+Traffic display and alerting,
+Flight path information,
+Energy state awareness information
+
+Related Implementation Plan
+Detailed Implementation Plan
+Please note a more-detailed Plan is under development.
+Completed Outputs
+As part of a past National Aeronautics and Space Administration (NASA) Synthetic Vision Systems (SVS) project (early-to-mid 2000’s), research was undertaken to develop and support the implementation of Synthetic Vision Systems (SVS) (SVS) for commercial transport, business jet, general aviation (GA), and rotorcraft applications.  There are now numerous certified SVS systems in use, mostly for improved situation awareness. More recently, NASA, in collaboration with Gulfstream and the FAA, completed flight tests of Complete Synthetic and Enhanced Vision Systems in actual low-visibility conditions to help define new rulemaking, design guidelines, and airport infrastructure needs associated with the [www.faa.gov/nextgen/ Next Generation Air Transportation System (NextGen)]. This is aimed at ultimately providing operational credit and allowing operational benefits for SVS equipage.
+
+NASA Flight Simulator Evaluation of Synthetic Vision Display Concepts to Prevent Controlled Flight Into Terrain (CFIT)
+EUROCAE Flight Simulator Evaluation of Synthetic Vision Display Concepts to Prevent Controlled Flight Into Terrain (CFIT)
+
+Related Safety Enhancements
+
+SE200: Airplane State Awareness - Virtual Day-VMC Displays
+
+Related SKYbrary Articles
+
+Synthetic Vision Systems (SVS)
+Enhanced Vision System
+
+
+
+
+
+Categories
+
+
+CAST Safety Enhancements,
+              CAST Safety Enhancements Plan
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

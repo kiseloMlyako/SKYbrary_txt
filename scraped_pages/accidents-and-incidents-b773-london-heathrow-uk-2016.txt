@@ -1,0 +1,320 @@
+B773, London Heathrow UK, 2016
+
+
+
+
+
+
+
+
+
+
+
+  B773, London Heathrow UK, 2016
+
+
+
+
+
+
+
+
+
+Summary
+
+On 30 August 2016, a Boeing 777-300 crew began takeoff from London Heathrow at an intersection one third of the way along the runway using the reduced thrust calculated for a full-length take off instead of the rated thrust calculated for the intersection takeoff. As a result, the aircraft was only just airborne as it crossed the airport boundary and an adjacent public road. The Investigation attributed the data input error to crew failure to respond appropriately on finding that they had provisionally computed performance data based on different assumptions and concluded that the relevant Operator procedures were insufficiently robust.
+
+
+
+
+Event Details
+
+When
+
+30/08/2016
+
+
+
+Event Type
+
+
+HF,
+              RE
+
+
+
+
+Day/Night
+
+Night
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 777-300
+
+
+
+
+
+
+
+
+
+Operator
+
+Jet Airways
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+London Heathrow Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Chhatrapati Shivaji International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Take Off
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+EGLL
+
+
+
+
+General
+
+Tag(s)
+
+
+              Use of Erroneous Performance Data,
+              CVR overwritten
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Authority Gradient,
+              Data use error,
+              Pre Flight Data Input Error,
+              Ineffective Monitoring - PIC as PF
+          
+
+
+
+
+RE
+
+Tag(s)
+
+
+              Overrun on Take Off,
+              Intentional Premature Rotation
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Non-aircraft damage
+
+Yes
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Number of Non-occupant Fatalities
+
+0
+
+
+
+Number of Occupant Fatalities
+
+0
+
+
+
+Off Airport Landing
+
+Yes
+
+
+
+Ditching
+
+Yes
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 30 August 2016, a Boeing 777-300 (VT-JEK) being operated by Jet Airways on a scheduled international passenger flight departing from London Heathrow runway 27L for Mumbai as JAI 117 in night VMC was observed to only just get airborne after commencing takeoff from an intersection rather than using the full length of the runway. After achieving minimal initial ground clearance, the aircraft climbed away normally and continued uneventfully to its destination.
+Investigation
+The occurrence was reported to the UK AAIB who provided an initial assessment of it to the State of the Operator, India, who then accepted an invitation to undertake the required Serious Incident Investigation which was carried out by a Committee of Inquiry constituted by the Ministry of Civil Aviation. Relevant data were downloaded from the aircraft DFDR/QAR and ATC radar and voice recordings were also available, but relevant CVR data had been overwritten during the subsequent flight.
+It was noted that the 45 year-old Captain, who was acting as PF for the departure, had accumulated 13,436 total flying hours which included 2,003 hours in command on type. The First Officer was Cat III qualified and had 1,996 total flying hours almost all of which (1,743 hours) were on type.
+The Investigation found that movement area improvement work in progress at Heathrow meant that at the time the flight under investigation was ready to depart, taxi access from Terminal 4 direct to the full length of runway 27L was only available from the north (central area) side of the runway and necessitated crossing the runway before taking the parallel taxiway on the north side to reach the only available full length departure runway entry point. This situation was correctly NOTAM'd and on the ATIS and although re-advice of this situation was not an operational requirement, all aircraft departing from Terminal 4 were being asked by ATC if they required a full length takeoff. The Jet Airways aircraft clearly stated that departure from intersection S4 was acceptable and acknowledged receipt of this clearance when issued.
+
+The area south of runway 27L showing gate 407 where aircraft had boarded its passengers. [Reproduced from the Official Report]
+It was also found that around the time of the investigated departure, only one other aircraft, an AirbusA320, accepted takeoff from the S4 intersection. Three others, an Airbus 340-600, an Airbus A330-200 and another Jet Airways Boeing 777-300 elected to cross to the north side for a full length departure.
+As part of her pre-flight duties, the First Officer had used her EFB Onboard Performance Tool (OPT) to check whether the estimated takeoff weight was within the aircraft performance-limited MTOW from intersection S4W and found that it was. Subsequently, the load and trim sheet arrived, and each pilot re-ran the performance calculation again using the actual TOW to establish takeoff speeds and the thrust setting for the takeoff. However when they compared their respective outputs, it was apparent that the Captain had used the ‘First Four’ option for entry to the runway from the first four north-side access points NB1, NB2E, NB2W and NB3 (see the illustration shown above) whereas the First Office has used access at S4W. Without any attempt to understand the difference, the First Officer “changed the option in her OPT to match the Captain’s option and did not select S4W again” so that the reduced thrust calculated for a full length departure was input instead of the rated thrust which was required for takeoff from S4.
+During the takeoff, as the aircraft approached Vr, the Captain reported having noticed the runway centreline lighting change from all-white to alternating red-and-white lights, a change which occurs when only 900 metres of runway remains. FDR data showed that actual rotation commenced a little earlier than Vr and the First Officer commented that rate of rotation “was a bit faster than normal”.
+Ground track analysis showed that lift off occurred just 95 meters from the end of the 3,658 metre-long runway. As it crossed the end of the runway, the aircraft was at 16 feet agl and had reached only 112 feet agl as it passed over a public road just beyond the airport perimeter. Between these two points there were a series of promulgated obstructions up to 31 feet agl.
+Subsequent calculations showed that the Takeoff Distance Required had been 3,349 metres, which was within the full length Takeoff Distance Available but that the Takeoff Distance Available from intersection S4E was only 2,589 metres, i.e. 760 metres less than that required. Although the aircraft lifted off within the actual Takeoff Distance Available, it was noted that the takeoff:
+
+Did not meet regulatory requirements for the all-engine, continued takeoff case.
+Would not have been able to reject the takeoff and stop on the runway remaining following an engine failure just below V1.
+Would not have been able to continue the takeoff while meeting regulatory requirements following an engine failure just above V1.
+
+The Investigation considered the effectiveness of the applicable Standard Operating Procedures (SOPs) in trapping data entry errors of the type which had occurred. It found that although the procedure on receipt of the load and trim sheet ensured that the OPT based its takeoff performance calculation on the actual rather than the estimated TOW, there was neither an explicit requirement to check that data input as part of the departure briefing was still valid, nor a guarantee that an earlier incorrect or invalid entry into the OPT would be corrected before the performance calculation was made. It was also noted that despite this, the fact that in this case a discrepancy between the two OPT calculations was detected, the opportunity to resolve matters was probably lost due to the significant authority gradient between the two pilots.
+The formal determination of the Investigation in respect of Probable Cause attributed the Serious Incident to “the wrong selection of aircraft take-off performance by the Captain despite the First Officer selecting the right take-off performance initially but the Captain overruled her take-off performance selection”.
+A total of 5 Safety Recommendations were made as a result of this Investigation as follows:
+
+that Jet Airways (India) amend its Standard Operating Procedure for the “Departure Briefing” to specify the takeoff data to be input into the Electronic Flight Bag (EFB) On-board Performance Tool (OPT).
+that Jet Airways (India) amend its Standard Operating Procedure for “On receipt of Load and Trim sheet” to ensure that:
+
+Before the performance calculation is made, data entered into the Electronic Flight Bag On-board Performance Tool (OPT) is valid and appropriate to the current circumstances.
+The runway and intersection used for the performance calculation and the power setting required for the takeoff are read aloud from the OPT and cross checked.
+
+
+that Jet Airways (India) require its crews to call out and resolve discrepancies identified between the output of the commander and co-pilot’s Electronic Flight Bag On-board Performance Tool before entering data into the Control and Display Unit.
+that Jet Airways (India) shall provide corrective training to the crew of the occurrence aircraft by means of a similar simulator exercise, theory classes on intersection take offs and CRM.
+that Jet Airways (India) and all other Indian Airlines shall ensure that all their pilots undergo one simulator exercise of this sort during their next scheduled recurrent training.
+
+The Final Report was completed on 22 February 2018 and released without restriction on 10 August 2018.
+Related Articles
+
+Aircraft Performance
+Take Off Distance Available (TODA)
+Crew Resource Management (CRM)
+Authority Gradients
+Aircraft Load and Trim

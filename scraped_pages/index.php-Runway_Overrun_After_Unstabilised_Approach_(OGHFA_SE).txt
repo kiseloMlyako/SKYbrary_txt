@@ -1,0 +1,219 @@
+Runway Overrun After Unstabilised Approach (OGHFA SE)
+
+
+
+
+
+
+
+
+
+
+
+  Runway Overrun After Unstabilised Approach (OGHFA SE)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+OGHFA 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ Flight Safety Foundation
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 The Accident as a Situational Example
+The flight departed from an airport where dispatch had released another aircraft to make up for delays that would otherwise have taken your crew beyond the airline’s duty time limitation (14 hours).
+You are an above-average junior first officer and have not previously flown with your captain, who is quite senior and a former station chief pilot. While waiting for the aircraft, you received an advisory from the airline and from the national weather service that there is thunderstorm activity all along your route.
+In flight, messages from the airline reiterate this weather for the arrival but do not mention delays or diversions. An en route air traffic control (ATC) center broadcasts significant meteorological information (SIGMET) about a line of severe thunderstorms with large hail and strong wind gusts. After transfer to the next ATC center, it appears that the controllers do not have access to real-time weather radar data and that no meteorologists are on duty at the center.
+What do you think of the weather situation?
+You begin to realize that the flight conditions will be very turbulent with a line of squalls heading for your destination airport. You press ahead and tell the cabin staff to complete passenger duties. You go through the descent and approach checklists, selecting manual brakes rather than autobrakes at the captain’s request.
+ATC informs you that a thunderstorm northwest of the airport is closing in. You discuss crosswind limitations for landing. Unaware of the storm’s severity because of technical radar limitations, ATC offers a visual approach to the runway, which you acknowledge inconclusively while waiting for further weather information. A few moments later, ATC informs you that surface winds have shifted and that the airport low-level Low Level wind shear alert system (LLWAS) has generated a wind shear alert.
+In light of this wind shear alert, what would your next step be?
+Preferring a headwind landing, you inform the controller. He then vectors you for a right turn from your northeasterly heading 4 nm southeast of the airport, the long way around for an Instrument Landing System (ILS) (instrument landing system) approach to another runway.
+You conduct an abbreviated briefing for the new runway, including localizer frequency, final approach course, minimum safe altitude and decision altitude, but do not include the missed approach procedure. You see the airport, but the captain, the pilot flying, does not. He requests a first selection of flaps and asks for visual cues that he has difficulty getting and maintaining.
+You also lose visual reference. ATC gives an intercept heading for an ILS approach and instructs you to descend. You are very close to the storm. Then you are cleared to continue the right turn to join the localizer close to the outer marker (OM).
+ATC clears you for the ILS approach and to turn to a right heading 3 nm (6 km) from the OM. The controller adds that there is heavy rain over the airport, visibility is less than a mile, runway visual range (RVR) is 3,000 ft (1,000 m) and there is a crosswind of 300 degrees at 30 kt gusting to 45 kt. You read back this wind information as 030 degrees gusting to 45 kt, which would give a crosswind component of less than 10 kt. ATC does not correct you.
+The airport’s automated surface observing system (ASOS) is not available.
+At this stage, the aircraft intercepts the localizer with the captain still undecided as to landing with such an RVR and requesting landing gear and lights. ATC relays another LLWAS alert — wind 350 degrees at 32 kt gusting to 45, and the RVR down to 1,600 ft (500 m). Established on final, the captain asks for 20 kt to be added to the final approach speed of 130 kt.
+What do you suggest to the captain?
+Passing 1,000 ft, you suggest full flaps while still helping the captain with visual references. The resulting rapid pitch change becomes an extra disturbance in trying to stabilize the aircraft.
+The approach is stabilized until the aircraft begins drifting right at about 400 ft above ground level (AGL), one dot to the right of the localizer course. As it nears the decision height (DH) of 460 ft, the glideslope deviation is between one and one and a half dots and increasing. When the aircraft is between 5 ft and 20 ft above DH, the captain acquires visual contact with the runway for the first time. Seconds later, however, the ground-proximity warning system (GPWS) “SINK RATE” warning sounds. You then call out radio altitude in 10-ft increments until touchdown about 2,000 ft from the runway threshold with a right drift angle of 5 degrees at 147 kt and near maximum landing weight.
+Since manual brakes rather than autobrakes had been selected at the captain’s request, the autospoiler system is not activated. Therefore, the spoilers do not extend automatically at touchdown. The crew does not react by extending them manually. Consequently, the aircraft is hydroplaning with very little effective braking or steering. The aircraft points left and skids right. Reverse thrust has little effect because rudder effectiveness has decreased.
+After departing the end of the runway at 70 kt in a left skid, the aircraft strikes the left edge of the ILS localizer array, passes through a security fence and over a rock embankment to a floodplain below the runway, and collides with the structure supporting another runway‘s lighting system.
+
+2 Data, Discussion and Human Factors
+Approach-and-landing accidents account for 55 percent of hull losses and 50 percent of fatalities (Flight Safety Digest, “Killers in Aviation,” 1999). The following points illustrate the human factors elements in this case:
+
+The flight crew’s extended continuous hours of wakefulness were consistent with the development of fatigue. Both pilots had slept more than nine hours the night before the accident and had not accumulated any significant sleep debt in the days before. At the time of the accident, they had been awake for 16 hours and on duty for 14. As we know from fatigue and alertness management, knowledge lapses and lack of vigilance increase as the normal working day is extended and no remedial countermeasures are put in place. After several landings at busy airports, dispatch uncertainties, an aircraft substitution, weather delays, crew changes and little food, fatigue is natural, especially if stress increases at the flight’s end.
+
+
+This situation can increase the temptation to press on in the face of a stream of red flags that were persistently ignored. Fatigue can also strongly catalyze press-on-itis — the impulse to press on and complete the flight regardless of repeated safety signals, warnings and clues throughout the approach. The line of squalls was heading for the airport, so the crew was prompted to try to beat the weather. As final descent began, wind shifts precipitated a runway change. As the aircraft penetrated the storm cell, the crew had to abbreviate approach briefings and rush or skip some checklists. Although the first officer saw the runway, the captain had sight difficulties that persisted throughout descent, final approach and touchdown, with rapidly deteriorating visibility at night with rain, turbulence and wind shear.
+
+
+Situational stress resulted from these accumulated adverse weather conditions and from the crew’s unabated intention to press on. The manifest intention to expedite the landing in spite of recurring cues of adverse and worsening weather diverted the crew‘s attention from essential activities toward the end of the flight. The captain’s acceptance of a turn onto the final approach course close to the OM increased the crew’s already high workload by limiting the amount of time that was available to accomplish required tasks. After the first officer said that he was gradually becoming uncomfortable, the captain pressed on. After the first officer expressed his uneasiness in a composed manner, the captain showed his own concern openly: “I hate droning around visual at night without having some clue where I am.” The captain also said, “This is a can of worms,” but pressed on. Each pilot suffered from undue stress given the growing uncertainties ahead and was burdened with such a workload that each had to skip essential safety-related tasks. Tunnel vision took over in their ultimate attempts to get the aircraft down on the runway and finish the flight.
+
+
+And, as often happens in such a situation, airmanship and judgment quickly eroded. The crew’s situational awareness and decision making were clearly affected. When information from the ASOS was unavailable, another indication about unsafe landing indications was lost. Based on surface wind and Runway Visual Range (RVR) information provided by ATC, the crew might have believed that they could land before the thunderstorm hit the airport. Even a last opportunity to question whether regulatory stipulations were met was lost when the captain rejected an attempt by the first officer to review those limitations:
+
+With weather below published minimums, the airline’s practices and official regulations allowed aircraft established on final approach to continue.
+The flight manual stipulated that before descending below the minimum stabilized approach altitude (500 ft AGL in visual meteorological conditions, 1,000 ft AGL in instrument meteorological conditions), the aircraft should be configured at approach speed, on the proper flight path and at the proper sink rate with stabilized thrust. Callouts of localizer and glideslope deviation also were required.
+
+
+
+
+In this case, it would be more appropriate to refer to violations of airline flight operations policy and lack of discipline and adherence to Standard Operating Procedures (SOPs). The first officer realized on short final that the aircraft was not stabilized and not in a position to make a normal landing. He called for a go-around but did not make the callout forcefully.
+
+
+However, a role reversal occurred when the captain was superseded by the first officer in his decision making. Throughout the approach, the first officer made suggestions, but the normal chain of decision-making responsibility appeared to have broken down. From descent to touchdown, the first officer made suggestions and assertions to the point of gradually taking over leadership. He decided to descend, perform the checklists, have flight attendants seated early, review crosswind limitations, refresh situational awareness about weather and the airport, orient the captain throughout, refrain from going visual, coordinate with ATC and go around. Whether this role shift was due to the captain’s fatigue, workload and stress cannot be determined after the event, but a role reversal had effectively occurred, of which neither pilot had become aware and which resulted in fixation. No choice of alternates was ever discussed, nor any diversion option chosen, nor the simple decision taken to hold and wait.
+
+
+3 Prevention Strategies and Lines of Defense
+Whenever there is a change in the assigned runway and insufficient time available to prepare for the approach, a crew must focus more on being prepared for a go-around.
+All along, accurate risk assessments and tactical decision making must be performed based on weather and winds, approach type, and risk of specific threats, such as an approach conducted in haste.
+Whenever a difficult situation occurs for either crewmember, critical thinking should become part of flight management.
+The following warning signs of error chain formation have been identified:
+
+Ambiguity: when two or more independent sources of information do not agree.
+Fixation or preoccupation: the attention of the crew is focused on one item, event or condition to the exclusion of all others.
+Empty feeling or confusion: when a pilot is unsure of the condition of the aircraft.
+Violating minimums: when pilots consider or intentionally violate minimums.
+Undocumented procedure: when consideration is given to using an undocumented procedure or actually using one.
+No one flying the aircraft: likely the result of a fixation or preoccupation but also may occur in routine flying.
+No one looking out the window: with sophisticated flight management systems, there is a real possibility that both pilots are head-down at the same time.
+Failure to meet targets: when limits or expectations of events, such as expected fuel burn or takeoff thrust settings, are not met.
+Unresolved discrepancies: when confusion, questions or statements of concern are not resolved.
+Departure from SOPs: when the procedure is not used at the right time.
+
+You must recognize and break the error chain before it breaks you.
+
+4 Key Points
+The probable causes of this accident were the crew’s failure to discontinue the approach when severe thunderstorms were in the airport area and the failure to ensure that the spoilers had extended after touchdown. The crew could have stopped the aircraft with 700 ft (213 m) of runway remaining had the spoilers been extended, maximum braking used and reverse thrust maintained at the appropriate setting.
+Contributing to the accident were the flight crew’s impaired performance resulting from fatigue and the stress associated with the intent to land under the circumstances; continuation of the approach to a landing when the company’s maximum crosswind component was exceeded; and use of excessive reverse thrust adversely disrupting airflow over the rudder, impairing directional control.
+This accident was preventable if the pilots had recognized that they were driven by ATC into a high and fast situation that they could and should have refused.
+Human factors issues in the unstabilized approach include:
+
+Insufficient time to prepare for the essential elements of an approach.
+The captain becoming fixated on making it to the destination at the end of an exhausting day to the point that fatigue, stress and workload impaired his airmanship and judgment. He no longer fully grasped his situation, was distracted by lightning, rain and wind shear and was unable to hear wind callouts and to compute crosswind components.
+The first officer was alert, communicated his concerns and gradually took over leadership and decision making while still assisting a struggling captain. But he had difficulty in coping with his own tasks such as the landing checklist so that autobrakes failed to deploy without manual action.
+
+
+5 Associated OGHFA Material
+Briefing Notes:
+
+Situational Awareness
+Error Management
+Press-on-itis
+Flight Preparation and Conducting Effective Briefings (OGHFA BN)
+Stress and Stress Management
+Decision-Making
+Decision-Making Training
+
+Visuals:
+
+Situational Awareness
+Critical Thinking
+Error Management
+Stress Management
+
+Checklists:
+
+Situational Awareness Quick Reference and Reminder
+Decide - Checklist
+
+
+6 Additional Reading Material
+
+Flight Safety Foundation Approach and Landing Accident Reduction (ALAR) Toolkit
+
+Related SKYbrary Articles
+
+Runway Excursion
+Runway Availability
+Microburst
+Flight Safety Foundation ALAR Toolkit
+
+
+
+
+
+Categories
+
+
+OGHFA,
+              Situational Examples,
+              Human Factors
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

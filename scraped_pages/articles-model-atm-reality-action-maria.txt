@@ -1,0 +1,181 @@
+Model of ATM Reality In Action (MARIA)
+
+
+
+
+
+
+
+
+
+
+
+  Model of ATM Reality In Action (MARIA)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Management 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+The Model of ATM Reality In Action (MARIA) is a knowledge database and an automation framework developed by NAV Portugal to provide a sound base for safety analysis by describing the whole ATM system and the interdependencies between its functions. It is coded as a graph providing additional possibilities of automatic analysis. The model has undergone extensive validation and is considered mature. Experimental work has been done on hazard and cause identification with success.
+Purpose
+MARIA is neither a business, nor a safety model. It is built to allow several perspectives of analysis depending on the aim at hand. It may be used in simulations to identify strong and weak points, to evaluate risk mitigation strategies and for other purposes.
+The following goals were defined at the start of model development:
+
+provide a global view of the system (people, procedures and equipment);
+show the dependencies between functions / processes;
+build a description of the system architecture;
+provide the reference for future safety assessments;
+come up with a systematic and reproducible hazard identification method;
+help the definition of risk mitigation strategies.
+
+Modelling Process
+MARIA was developed capturing the work performed daily at NAV Portugal to provide ATM services via interviews with the people actually doing the work. The questions addressed what is done to ensure safe provision of services, in line with the Safety II approach. The interviews were preceded by collection of information from existing documentation to allow a better understanding by the interviewers of the subject and thus allow for a better lead and structure of the interviews. The information was captured in a bottom-up way and afterwards consolidated in a top-down model. The achievement of this abstract view is one of the major advantages of the work carried out.
+A first version of the generic ATM architecture was released at the start of 2014. The local architecture descriptions were built and distributed for validation by operational and maintenance staff from the sites in the second quarter of 2014. More than fifty people were involved and over 3000 work hours were invested.
+MARIA is based on the day-to-day activities modelled top-down, starting with very high level functions which are systematically decomposed down to the level where the resources performing them can be identified. The level of abstraction is kept uniform at each level of function decomposition to ensure that the description covers all system parts (is complete), and facilitates verification and validation. The modularity of the model allows the addition of new blocks, derived either from new features or changes in scope.
+The main difficulties with the modelling were:
+
+to define the scope;
+the lack of a global picture by most of the interviewed staff;
+the complexity of the system;
+the great interdependency and data diversity;
+the specific terminology;
+the amount of implicit knowledge.
+
+Top Level Functions
+The top level functions are represented in the following figure.
+
+Each of the system functions is described and further decomposed. An additional function to maintain the infrastructure, which includes the provision of resources, was derived. A fictitious function designated as “Exterior” was added to cover the data exchange with external systems/functions. The description of the system functions does not cover the mechanisms that perform the function. This is only included in the description of the system architecture which is ANSP specific.
+The information gathered from the interviews describes mainly the human functions and all the inputs required from the technical support function. To ensure the consistency of MARIA, namely that all flows have a start and an end, each function and each data flow are assigned a unique identifier thus enabling referencing and automatic checking.
+The functions are decomposed until a specific enabler is identified. The human functions are decomposed to a level where specific training or rating requirements are specified. Technical functions are decomposed up to the level where the mechanism is identified – the set of related equipment used to provide a specific function. The top-down functions’ decomposition has been validated by a bottom-up matching of the existing equipment.
+The Structured Analysis and Design Technique (SADT) was used to represent the top level functions and the associated inputs and outputs. Details of some of the functions were captured using Business Process Modelling Notation (BPMN), a much richer notation which permits recording the way work is done. The following diagram illustrates the description of the sub-function ‘Conflict resolution’.
+
+Model Dimensions
+In terms of dimension there is a maximum of seven levels of decomposition of a function. Each node has as properties: Name, Parent, Unit, Extras and Type (optional); each flow is described by: Name, Parent, Origin, Control, Destination, Enabler, Extras and Unit (optional). The following table provides information MARIA’s current dimension.
+
+Model Framework
+The model framework is open allowing the easy addition of new properties to the existing descriptions, and new areas or systems, e.g. the aircraft functions. All functions, data flows, connections and hierarchy are coded in YAML, a human-readable data serialisation format. This data is considered to be a knowledge database which can be enlarged both to introduce new functions or data flows and to insert further knowledge such as function characteristics. Tools exist to automatically check the consistency of the knowledge database and to produce views.
+Currently the framework provides the following automated functionalities: loading, checking, filtering, and documentation production. The checking functionality automatically verifies that the knowledge database is coherent, that all flows have a start and an end, all functions and flows have a parent except for the top level ones, the functional decomposition does not lose or create flows.
+Model Benefits
+MARIA is a knowledge database and an automation framework providing a global view of the ATM system, covering the high level, abstract functions, and their decomposition to the system’s building blocks (components) and their interactions. It is an answer to the need for a better knowledge and understanding of current ATM systems, and a basis for safety assessments being done at system level.
+MARIA is independent from the underlying technology or implementation as it only covers the functions and the information flows. It helps harmonization of the designation of functions which will facilitate the communication between ATM stakeholders.
+The current version of the MARIA is starting to be used for safety analysis and impact assessment. The impact of equipment failure can be derived from the model in terms of the functions directly and indirectly impaired. This information can be used to adapt the monitoring indicators.
+The model describes both the system functions and the architecture with all its mechanisms. From this base the specific architecture of an ATS unit can be automatically obtained.
+The use of MARIA for hazard identification has been validated by means of a trial FHA session at Lisbon ACC. It is now systematically used in the FHA done for the ATC units of the Lisbon FIR.
+Model Evolution
+The used approach to model development allows for expansion, both by adding new aspects such as variability or dynamics and by adding new functions or further detail.
+The current version is static, lacking information on dynamic properties of the system. Functional Resonance Analysis Method (FRAM) is proposed to model complex socio-technical systems and is based on SADT adding two new “sides” to the function description, namely time and preconditions. These two new properties describe dynamics and thus adding these new features to the functions is a way to integrate dynamics in the existing model. The main difficulty will be to obtain this information for the existing system. Adding it in the current knowledge database will be straightforward. Variability is another FRAM characteristic associated with the system dynamics, used to explain why functions can become coupled and how this leads to unexpected outcomes. It is a function property relevant for the outputs and studies are needed to find the best way to add this knowledge to the model.
+The following figure depicts the existing knowledge and framework database and possible evolution plug-ins, covering the three layers:
+
+The model in green
+The coded knowledge inside the dark blue box
+The automated view inside the turquoise box and reliant on the coded knowledge
+
+
+Notes on figure above:
+
+Green, yellow and orange boxes: Already existing
+Straight line: Finished
+Dotted boxes: Work started
+Grey boxes: To be added.
+
+Related Articles
+
+Risk Assessment
+Hazard Identification
+
+Further Reading
+
+Modelling ATM day to day operations - A functional model of the ATM system, P. Santos and P. Monteiro (NAV Portugal), January 2017
+Coordination and simplexity in modelling air traffic control as a service: The case of NAV Portugal - Case study by Wellington university, New Zealand
+A methodology used for the development of an air traffic management functional system architecture (Imperial College)
+
+
+
+
+
+Categories
+
+
+Safety Management,
+              SM Methods and Tools
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,159 @@
+Ice Induced Roll Upset
+
+
+
+
+
+
+
+
+
+
+
+  Ice Induced Roll Upset
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Weather 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ The Air Pilots
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Ice induced roll upset is an uncommanded, and potentially uncontrollable, rolling moment caused by airflow separation in front of the ailerons which results in self-deflection of unpowered control surfaces.
+Description
+Roll upset is associated with flight in icing conditions that are severe enough to result in water droplets flowing back behind those wing surfaces that are protected by Aircraft Ice Protection Systems before freezing. The ice from this "flow-back" forms ridges that cannot be removed by aircraft de-icing equipment. These ridges can cause flow separation which can result in a roll upset.
+Roll upset is most often associated with icing conditions involving Supercooled Large Droplets (SLD). In theory, it can occur in conventional icing conditions when temperatures are just slightly below 0°C to -40°C. A roll upset can occur well before the normal symptoms of ice accretion are evident to the pilot and at an angle of attack (AOA) less than what would be the critical AOA for the ice contaminated wing. The control forces necessary to overcome the self-deflection of the ailerons may be beyond the pilot's physical capability.
+Conventional ailerons are balanced; that is, in normal flight with the lateral control centred, the hinge moment in one direction on one aileron is compensated by the hinge moment on the opposite aileron. The net force on the pilot’s lateral control wheel is very low. However, should the compensating hinge moment on one side change significantly, the ailerons will automatically self-deflect resulting in an uncommanded roll of the aircraft.
+In one accident attributed to an ice induced roll upset, the aircraft was in a holding pattern with the flaps partially extended and the autopilot engaged. Just prior to the Loss of Control, the flaps were retracted. The increase in the wing AOA due to the flap retraction resulted in a flow separation at the wing tip due to the ice accretion. This flow separation induced a hinge moment imbalance at the aileron, which in turn caused the ailerons to self-deflect to full deflection. The autopilot was unable to correct the overbalance, and the aeroplane departed controlled flight from which recovery was not accomplished.
+Note that it is the (unpowered) ailerons producing the rolling motion, rather than an aerodynamic stall as might be encountered with leading edge icing.
+Symptoms
+The symptoms of an incipient roll upset may be masked by the autopilot. If the autopilot is disconnected when operating in icing conditions, warning signs of incipient roll upset, in the form of sloppy aileron response or abnormal roll control forces, may be detected.
+Corrective Actions
+Note that in ALL cases, manufacturer's procedures and Aircraft Flight Manual (AFM) guidance take precedence over any recommendations of this article
+If icing conditions (especially severe icing conditions) are inadvertently encountered, pilots should consider the following actions to help avoid roll upset:
+
+Exit the icing conditions as soon as possible. Activate ice protection systems and verify that the wing ice protection system is operating symmetrically by visual observation. If it is not, follow the AFM procedures.
+Disengage the autopilot and manually fly the aeroplane. As indicated previously, the autopilot may mask important clues of an incipient upset. It may also self-disconnect, should control forces exceed limits, thus presenting the pilot with an abrupt unusual attitude and abnormal control forces.
+Reduce the angle of attack by increasing speed. If turning, roll the wings level and maintain.
+If flaps are extended, do not retract them unless it can be determined that the upper surface of the wing is clear of ice. Retracting the flaps will increase the AOA at any given airspeed, possibly leading to the onset of roll upset.
+Set appropriate power and monitor airspeed and AOA. If it is not possible to climb out of the icing conditions, a controlled descent is far preferable to an uncontrolled descent.
+
+Note that the procedures for recovery from an incipent roll upset are, for all intents, the same as those for an incipient stall recovery and are essentially the opposite of those required to recover from a tailplane stall. Should the situation be mis-diagnosed and the wrong procedures applied, a critical situation can be made significantly worse.
+Accidents and Incidents
+
+AT43, en-route, Folgefonna Norway, 2005 (On 14 September 2005, an ATR 42-320 operated by Coast Air AS experienced a continuous build up of ice in the climb, despite the activation of de-icing systems aircraft entered an uncontrolled roll and lost 1500ft in altitude. The crew initiated recovery actions, the aircraft was stabilised, and the flight continued without further event.)
+AT73, en-route, Roselawn IN USA, 1994 (On 31 October 1994, an ATR 72 exited controlled flight after a flap retraction when descending through 9000 feet was followed by autopilot disconnect and rapid and very large un-commanded roll inputs from which recovery, not within the scope of received crew training, was not achieved. The investigation found this roll upset had been due to a sudden and unexpected aileron hinge moment reversal after ice accretion on the upper wings aft of the leading edge pneumatic de-icing boots during earlier holding in icing conditions which had been - unknown to the crew - outside the icing certification envelope.)
+AT75, en-route, near Almansa Spain, 2017 (On 9 September 2017, an ATR 72-500 crew temporarily lost control of their aircraft when it stalled whilst climbing in light to moderate icing conditions after violation of applicable guidance. Recovery was then delayed because the correct stall recovery procedure was not followed. A MAYDAY declaration due to a perception of continuing ‘control problems’ was followed by a comprehensively unstabilised ILS approach to Madrid. The Investigation concluded that the stall and its sequel were attributable to deficient flight management and inappropriate use of automation. The operator involved was recommended to implement corrective actions to improve the competence of its crews.)
+AT76, en-route, near Førde Airport Norway, 2016 (On 14 November 2016, an ATR72-600 crew lost control at FL150 in severe icing conditions. Uncontrolled rolls and a 1,500 feet height loss followed during an apparent stall. After recovery, the Captain announced to the alarmed passengers that he had regained control and the flight was completed without further event. The Investigation found that the crew had been aware that they had encountered severe icing rather than the forecast moderate icing but had attempted to continue to climb which took the aircraft outside its performance limitations. The recovery from the stall was non-optimal and two key memory actions were overlooked.)
+ATP, en-route, Oxford UK, 1991 (On 11 August 1991, an British Aerospace ATP, during climb to flight level (FL) 160 in icing conditions, experienced a significant degradation of performance due to propeller icing accompanied by severe vibration that rendered the electronic flight instruments partially unreadable. As the aircraft descended below cloud, control was regained and the flight continued uneventfully.)
+C560, vicinity Oslo Norway, 2017 (On 11 January 2017, control of a Cessna Citation 560 departing Oslo on a short positioning flight was lost during flap retraction when a violent nose-down manoeuvre occurred. The First Officer took control when the Captain did not react and recovered with a 6 g pullout which left only 170 feet of ground clearance. A MAYDAY - subsequently cancelled when control was regained - was declared and the intended flight was then completed without further event. The Investigation concluded that tailplane stall after the aircraft was not de-iced prior to departure was the probable cause of the upset.)
+CVLT, en-route, Kapiti Coast New Zealand, 2003 (On 3 October 2003, a Convair 580 on a scheduled night freight flight from Christchurch to Palmerston North, was observed on radar to enter a tightening left turn and disappear while descending through an area of severe icing. The aircraft impacted the sea vertically and at high speed.)
+MD83, en route, near Gossi Mali, 2014 (In the early hours of 24 July 2014, a Boeing MD 83 being operated for Air Algérie by Spanish ACMI operator Swiftair crashed in northern Mali whilst en route from Ouagadougou, Burkina Faso to Algiers and in the vicinity of severe convective actvity associated with the ICTZ. Initial findings of the continuing Investigation include that after indications of brief but concurrent instability in the function of both engines, the thrust to both simultaneously reduced to near idle and control of the aircraft was lost. High speed terrain impact followed and the aircraft was destroyed and all 116 occupants killed.)
+SF34, en-route, Santa Maria CA USA, 2006 (On 2 January 2006, an American Eagle Saab 340 crew failed to notice a progressive loss of climb performance in icing conditions and control of the aircraft was lost when it stalled at 11,700 feet and was only recovered after a 5200 feet height loss. The Investigation noted that the aircraft had stalled prior to the activation of the Stall Protection System and that the climb had been conducted with the AP engaged and, contrary to SOP, with VS mode selected. It was concluded that SLD icing conditions had prevailed. Four Safety Recommendations were made and two previous ones reiterated.)
+SH36, vicinity East Midlands UK, 1986 (On 31 January 1986, at night during an instrument approach, a Shorts SD3-60 operated by Aer Lingus Commuter experienced a loss of control attributed to airframe ice accretion. When fully established on the Instrument Landing System (ILS), the aircraft began a series of divergent rolling oscillations which were accompanied by a very high rate of descent. The crew was able to regain control of the aircraft just before contact with power cables and subsequent impact with terrain near East Midlands Airport.)
+
+Related Articles
+Weather/Aircraft Icing
+
+In-Flight Icing
+Ice Formation on Aircraft
+Icing - Collection Efficiency
+Ice Contaminated Tailplane Stall
+
+Loss of Control
+
+Stall
+Recovery from Unusual Aircraft Attitudes
+
+Further Reading
+
+TP 185 - Aviation Safety Letter
+
+
+
+
+
+Categories
+
+
+Weather,
+              Icing,
+              Loss of Control
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

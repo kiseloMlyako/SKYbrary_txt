@@ -1,0 +1,123 @@
+Propeller Pitch Control Unit (PCU)
+
+
+
+
+
+
+
+
+
+
+
+  Propeller Pitch Control Unit (PCU)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Flight Technical 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Variable pitch propeller
+A variable pitch propeller is one in which the pilot is able to adjust the blade pitch during flight. The blade angle can thus be adjusted to its optimum value for the phase of flight, be it takeoff, climb or cruise. In some installations, it is possible to feather the propeller. For a variable pitch propeller, the pilot controls the blade pitch with the propeller control. However, the propeller RPM will vary, in the same fashion as a fixed pitch propeller, as a function of engine RPM or of airspeed. A more sophisticated variant of the variable pitch propeller is the constant speed propeller which, while in flight, will maintain the same RPM irrespective of throttle lever movement or airspeed.
+
+Propeller of a Dash 8 Q400 incorporating a PCU [Source: Wikicommons, Author: Bide, June 2012]
+Propeller Pitch Control Unit
+The propeller Pitch Control Unit (PCU) is a hydromechanical device that interfaces with the propeller. Commanded electrically by the Propeller Electronic Control (PEC) Unit, the PCU meters high pressure engine oil to a two stage servo valve mounted on the PCU. The PCU controls the flow of the high pressure oil into the fine or coarse pitch chambers of the propeller pitch change cylinder as directed by the PEC so that the blades move in the desired direction to achieve the required system functions. In the event of electronic control malfunction, the PCU controls the minimum blade pitch that can be obtained in flight.
+Related Articles
+
+Dangers of Flight with Power Below Flight Idle
+Fixed Pitch Propeller
+Constant Speed Propeller
+Propeller
+
+Further Reading
+
+Propeller operation and malfunctions - basic familiarization for flight crews; informal note produced by CAST.
+
+
+
+
+
+Categories
+
+
+Flight Technical
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

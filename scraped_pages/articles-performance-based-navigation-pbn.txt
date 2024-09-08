@@ -1,0 +1,188 @@
+Performance Based Navigation (PBN)
+
+
+
+
+
+
+
+
+
+
+
+  Performance Based Navigation (PBN)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+PBN aims to ensure global standardisation of RNAV and RNP specifications and to limit the proliferation of navigation specifications in use world-wide. It is a new concept based on the use of Area Navigation (RNAV) systems. Significantly, it is a move from a limited statement of required performance accuracy to the following:
+The ICAO PBN Manual (Doc 9613) definition is:
+Area navigation based on performance requirements for aircraft operating along an ATS route, on an instrument approach procedure or in a designated airspace.
+Where:
+Airborne performance requirements are expressed in navigation specifications in terms of accuracy, integrity, continuity and functionality needed for the proposed operation in the context of a particular airspace concept. Within the airspace concept, the availability of GNSS Signal-In-Space (SIS) or that of some other applicable navigation infrastructure has to be considered in order to enable the navigation application.
+PBN is then described through means of RNAV and RNP applications with respective RNAV and RNP operations.
+Components of the PBN Concept
+PBN is one of several enablers of an Airspace Concept. The others are Communications, ATS Surveillance and ATM. The PBN Concept is comprised of three components: The Navigation Specification, the Navaid Infrastructure and the Navigation Application.
+The Navigation Specification prescribes the performance requirements in terms of accuracy, integrity, continuity for proposed operations in a particular Airspace. The Navigation Specification also describes how these performance requirements are to be achieved i.e., which navigation functionalities are required to achieve the prescribed performance. Associated with the navigation specification are requirements related to pilot knowledge and training and operational approval. A Navigation Specification is either an RNP specification or an RNAV specification. An RNP specification includes a requirement for on-board self-contained performance monitoring and alerting while an RNAV specification does not.
+The Navaid Infrastructure relates to ground- or space-based navigation aids that are called up in each Navigation Specification. The availability of the navaid infrastructure has to be considered in order to enable the navigation application.
+The Navigation Application refers to the application of the Navigation Specification and Navaid Infrastructure in the context of an airspace concept to ATS routes and instrument flight procedures.
+The Navigation Capability graphic depicts the overall Navigation Capability and the relationship between the navigation specifications defined within the ICAO PBN Concept:
+
+Performance Based Navigation Capability Graphic
+Note: Precision approach and landing systems such as the Instrument Landing System (ILS), Microwave Landing System (MLS) and GNSS Landing System (GLS) form part of the navigation suite, but are not included within the concept of Performance-based Navigation. They differ from PBN applications in that they are not based on area navigation techniques
+The PBN Manual
+The PBN Manual (ICAO Doc 9613) comprises two Volumes. Volume I of the PBN Manual is made up of two parts:
+
+Part A describes the PBN Concept, The Airspace Concept and how the PBN Concept is used in practice.
+Part B provides Implementation Guidance for ANSPs in the form of three processes. Volume II of the PBN Manual is also made up of three parts. Part A describes on-board performance monitoring and alerting and Safety Assessments, whilst Parts B and C contain ICAO’s RNAV and RNP specifications which are to be used by States as a basis for certification and operational approval.
+
+PBN Benefits
+PBN represents a fundamental shift from sensor-based to performance-based navigation and offers a number of advantages over the sensor-specific method of developing airspace and obstacle clearance criteria, i.e.:
+
+reduces the need to maintain sensor-specific routes and procedures, and their associated costs;
+avoids the need for developing sensor-specific operations with each new evolution of navigation systems, which would be cost-prohibitive;
+allows for more efficient use of airspace (route placement, fuel efficiency and noise abatement);
+clarifies how RNAV and RNP systems are used; and
+facilitates the operational approval process for operators by providing a limited set of navigation specifications intended for global use.
+
+PBN can potentially enable operational benefits in the areas of safety, flight efficiency and airspace capacity, as well as improved cost-efficiency and reduced environmental impact.
+PBN Naming Convention
+Currently, the PBN approach procedure naming convention is not standardized throughout the world and is inconsistent with the PBN navigation specifications. Examples of differing naming conventions used by States include RNAV (GPS) RWY XX, RNAV (GNSS) RWY XX, RNAV (RNP) RWY XX. The ICAO Circular 336 provides guidance to assist States and other stakeholders with the transition from RNAV to RNP approach chart identification. This circular provides the necessary guidance to States on how to make that transition. From 1 December 2022, only the term RNP will be permitted, e.g. RNP RWY XX or RNP RWY XX (AR) will be acceptable while RNAV, GPS and GNSS will not be. During the transition period however, it is possible to have a considerable variation in the IAP designation policies of different countries.
+PBN instrument rating privileges
+The following provisions for pilot licensing are introduced with Regulation (EU) 2016/539:
+
+Applicable from 25 August 2018, pilots may only fly in accordance with PBN procedures after they have been granted PBN endorsement to their instrument rating (IR).
+Until 25 August 2020, IR pilots without PBN privileges may only fly on routes and approaches that do not require PBN privileges and no PBN items shall be required for the renewal of their IR.
+After 25 August 2020, PBN privileges shall be required for every IR.
+
+A PBN endorsement is granted after:
+
+the pilot has successfully completed a course of theoretical knowledge including PBN.
+the pilot has successfully completed flying training including PBN.
+the pilot has successfully completed either a skill test or a proficiency check.
+
+PBN Implementation Challenges
+A number of challenges exist associated with the introduction of PBN, most notably in the fields of:
+
+Pilot training. Globally, pilots do not have the same knowledge and skill level with regard to PBN. Since no worldwide standardization exists on this, the scope, length and methods of training, as well as trainer knowledge and skills, may vary considerably.
+Aircraft systems. Aircraft automation is becoming more precise and more complex resulting in divergent user platforms based on the operator’s avionics and aircraft manufacturer requirements. The systems should preferably made upgradable, have common “look and feel” characteristics with common procedures between applications and aircraft, and be intuitive for the pilot to readily interpret the information displayed.
+Names, definitions and charts. As with any new technology there are many definitions, names and criteria and these are still evolving. This may create confusion among pilots, airlines and regulators.
+Global harmonization and implementation. The lack of standard ICAO SARPs leads to different implementation approaches in different countries. For example, SESAR and NextGen (USA programme) have provided regional implementations of PBN but these are not globally harmonized. There is also a lack of harmonized state implementation of PBN phraseologies.
+
+Related Articles
+
+Precision-Area Navigation (P-RNAV)
+Area Navigation Systems
+
+Further Reading
+ICAO
+
+ICAO PBN iKIT published in 2015.
+ICAO Doc 9613
+RNAV to RNP Instrument Approach Chart Depiction, a presentation by ICAO, February 2016
+Doc 9997: Performance-based Navigation (PBN) Operational Approval Manual, 2nd Edition, 2015
+
+EUROCONTROL
+
+European GNSS Contingency/Reversion Handbook for PBN Operations: Scenarios and Options. PBN Handbook No.6, Feb 2019
+Performance Based Navigation (PBN) Training Modules - v2.0 (2013)
+EUROCONTROL Navigation Domain website
+
+European Commission
+
+Regulation (EU) No (EU) 2016/539: Pilot training, testing and checking for PBN
+
+FAA
+
+FAA InFO 16020: Naming of Performance Based Navigation (PBN) Instrument Approach Procedures (IAP)
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,244 @@
+E75S, vicinity Atlanta GA USA, 2016
+
+
+
+
+
+
+
+
+
+
+
+  E75S, vicinity Atlanta GA USA, 2016
+
+
+
+
+
+
+
+
+
+Summary
+
+On 6 November 2019, the crew of an Embraer E175LR which had just taken off from Atlanta experienced difficulty in maintaining pitch control after an apparent pitch trim runaway and an emergency was declared. Control was subsequently regained and a return to land was made without further problems. The Investigation is continuing but has identified the root cause as wiring damage arising from incorrect installation, noted that potentially related corrective action was not mandated and determined that the operator’s QRH drill for the situation encountered had significantly contained only one memory action rather the two in the aircraft manufacturer’s version.
+
+
+
+
+Event Details
+
+When
+
+06/11/2019
+
+
+
+Event Type
+
+
+AW,
+              LOC
+
+
+
+
+Day/Night
+
+Night
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+KATL
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Significant Systems or Systems Control Failure
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Flight Controls
+          
+
+
+
+Contributor(s)
+
+
+              Maintenance Error (valid guidance available),
+              Inadequate QRH Drills
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Number of Non-occupant Fatalities
+
+0
+
+
+
+Number of Occupant Fatalities
+
+0
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Airworthiness
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 6 November 2019, an Embraer E175LR (ERJ 170-200LR) (N117HQ) being operated by Republic Airways for American Airlines on a domestic passenger flight from Atlanta to New York La Guardia as AA4439 had just taken off in night VMC when the crew declared an emergency reporting difficulty in controlling the pitch of the aircraft and requested and completed a return to land.
+Investigation
+An Investigation by the NTSB was commenced and while the cause of the difficulties reported by the flight crew has not yet been determined, the investigation has identified a number of safety issues. A summary of the findings in support of ten Safety Recommendations made to the Brazilian Safety Regulator in respect of the operation of these aircraft globally and to the FAA in respect of their operation by US carriers in particular has been published.
+It was established that the Captain, who was acting as PF for the flight, had been unable to engage the AP as the aircraft climbed through approximately 2,200 feet QNH and had identified a concurrent pitch trim-related flight control issue which was making it difficult to prevent an excessive pitch attitude developing. He stated that he had initially responded by pressing and holding his control column AP/TRIM DISC button, the single memory action which begins the ‘Pitch Trim Runaway’ QRH drill and asking the First Officer do the same to the button on his control column. Neither pilot noticed any change in the pitch condition and they “continued to have difficulty holding the nose down” during which time subsequent examination of the FDR data confirmed that the stabiliser did not move when these disconnect buttons were pushed and held as the system design intends. The crew reported that they had both needed to use both hands to counter the unwanted pitch-up and that this had “involved such effort that neither felt that they could reach for the QRH to troubleshoot the problem”. Having declared an emergency to ATC because of this control difficulty, the aircraft was eventually able to be trimmed using the First Officer’s trim switch and a landing back at Atlanta was achieved without further problems about 15 minutes after the emergency had been declared. FDR data confirmed that the control difficulty had corresponded to a period during which the aircraft had been in a mis-trimmed condition.
+The Investigation is continuing but examination of the aircraft and the system fault encountered has already identified that undetected wire chafing in the control column was involved. Placing this finding, itself of concern, in a wider context, two additional “areas of concern” have already been identified in respect of the application of SBs related to the pitch trim switch and with the content of the current non-normal checklist for unintended operation of the pitch trim system.
+The wire chafing itself had occurred where the Captain’s control column passes through the floor of the flight deck and involved “chafed insulation around the wires connecting the horizontal stabiliser actuator control electronics to the Captain’s pitch trim switch and the AP/TRIM DISC button" which it was determined had resulted from contact with the incorrectly positioned “pigtail” of the forward mechanical stop bolt safety wire (see the illustration below).
+
+The wire damage (left) and the mis-positioned “pigtail” which had caused the damage (right). [Reproduced from the Official Report]
+A targeted inspection of other aircraft of the same type by both the operator involved in the event under investigation and a different one has since found similarly damaged wiring in the same area adjacent to the forward mechanical stop bolt from the same apparent cause. It has also been noted the AMM procedures for adjustment of the mechanical stop bolt “do not currently draw any specific attention to this critical area”. It has therefore been concluded that such damaged wiring could be present more widely on this aircraft type and that since other all variants within the wider Embraer E-Jet family have a similar control column design, these could be similarly vulnerable.
+Unrelated to the wire chafing problem, removal of the Captain’s pitch trim switch from the control column yoke disclosed witness marks which indicated that this switch had been installed in an inverted position. It was noted that pilot reports of similar flight control problems on similar Embraer aircraft several years ago had been found to be consequent on similarly incorrectly installed pitch trim switches and that in response, Embraer had in 2015 issued SBs recommending that a support should be installed in the control column yoke to prevent this happening and that this should be done not later than 7,500 flight hours or 36 months from the date of SB issue. However, neither the Brazilian (ANAC) nor the US (FAA) safety regulator had decided to mandate this action via an AD and the modification had not been incorporated on the aircraft involved in the investigated event. Whilst it has not yet been established whether this finding is related to the control difficulty event currently being investigated, “the NTSB is concerned that an inverted switch installation resulting in pitch trim operation opposite to that expected by a flight crew could lead to confusion, delaying appropriate recognition and response to increased control forces”.
+Finally, at this early stage in the Investigation, it has already become clear that “the adverse effects of excessive nose-up trim were masked by expected airplane orientation during climb” with little warning before control forces became, according to the crew involved, “almost unmanageable”. As such they were understandably perceived as a pitch trim runaway with no ability to refer to the QRH for guidance after completing the initial memory action from the drill believed to be applicable. This has led the NTSB to be concerned that “in the event of high control forces resulting from a pitch trim malfunction, flight control failure, or other system anomaly” in a similar phase of flight, pilots may find it difficult to respond quickly to the situation. In this respect, the Investigation noted that contrary to the Republic Airways’ ‘Pitch Trim Runaway’ checklist in which only the first action was designated as a memory item, in the corresponding Embraer checklist, the second item, operating the cut-out switches for both Pitch Trim systems, was also designated as a memory item. This difference was considered to have placed the crew in a much more difficult position when seeking to recover control in the presence of high control forces since they had to rely on their general understanding of the pitch trim system without the further memory action which would have enabled them to quickly re-trim the aircraft. It has been noted that the FAA Flight Operations Inspectorate has now requested that the Aircraft Flight Manual (AFM) and QRH at Republic Airways replicate the memory items in Embraer’s 'Pitch Trim Runaway' drill.
+As a result of the findings of the Investigation so far, a total of ten Safety Recommendations have been made as follows:
+
+that the National Civil Aviation Agency of Brazil require Embraer to develop instructions for operators of Embraer EMB-170/175/190/195/Lineage 1000 series airplanes to inspect the wiring in the Captain’s and First Officer’s control columns for damage, replace where needed and ensure proper clearance from adjacent components, including the forward mechanical stop bolt and its safety wire.
+
+[A-20-1]
+
+that the National Civil Aviation Agency of Brazil, once Embraer develops inspection instructions for the wiring in the Captain’s and First Officer’s control columns as requested in Safety Recommendation A-20-1, require operators of Embraer EMB-170/175/190/195/Lineage 1000 series airplanes to inspect that wiring for damage, in compliance with Embraer’s instructions, replace where needed and ensure proper clearance from adjacent components, including the forward mechanical stop bolt and its safety wire.
+
+[A-20-2]
+
+that the National Civil Aviation Agency of Brazil, once inspections are completed as outlined in the instructions developed in response to Safety Recommendation A-20-1, require Embraer to review the inspection results and revise design and maintenance documentation for Embraer EMB-170/175/190/195/Lineage 1000 series airplanes as necessary to prevent any hazards identified during the inspections.
+
+[A-20-3]
+
+that the National Civil Aviation Agency of Brazil, once Embraer revises design and maintenance documentation for Embraer EMB-170/175/190/195/Lineage 1000 series airplanes as requested in Safety Recommendation A-20-3, require operators of these airplanes to incorporate these changes.
+
+[A-20-4]
+
+that the National Civil Aviation Agency of Brazil, mandate the incorporation of Embraer Service Bulletins (SB) 170-27-0051, 190-27-0039, and 190LIN-27-0019 on all applicable airplanes, as specified in the SBs.
+
+[A-20-5]
+
+that the National Civil Aviation Agency of Brazil, in coordination with the Federal Aviation Administration, Embraer, and US operators, determine if changes to the Embraer EMB170/175/190/195/Lineage 1000 series airplane Pitch Trim Runaway checklists are required to adequately address all potential trim system failures, and make such changes as necessary.
+
+[A-20-6]
+
+that the Federal Aviation Administration, once Embraer develops inspection instructions for the wiring on the Captain’s and First Officer’s control columns as requested in Safety Recommendation A-20-1, require operators of Embraer EMB-170/175/190/195/Lineage 1000 series airplanes to inspect that wiring for damage, in compliance with Embraer’s instructions, replace where needed, and ensure proper clearance from adjacent components, including the forward mechanical stop bolt and its safety wire.
+
+[A-20-7]
+
+that the Federal Aviation Administration, once Embraer revises (the) design and maintenance documentation for Embraer EMB-170/175/190/195/Lineage 1000 series airplanes as requested in Safety Recommendation A-20-3, require operators of these airplanes to incorporate these changes.
+
+[A-20-8]
+
+that the Federal Aviation Administration mandate the incorporation of Embraer Service Bulletins (SB) 170-27-0051,190-27-0039 and 190LIN-27-0019 on all applicable airplanes, as specified in the SBs.
+
+[A-20-9]
+
+that the Federal Aviation Administration, in coordination with the National Civil Aviation Agency of Brazil, Embraer, and US operators, determine if changes to the Embraer EMB-170/175/190/195/Lineage 1000 series airplane Pitch Trim Runaway checklists are required to adequately address all potential trim system failures, and make such changes as necessary.
+
+[A-20-10]
+The NTSB Safety Recommendation Report, on which this summary is mainly based, was completed on 16 January 2020 and officially published on 29 January 2020. The NTSB published its formal Preliminary Report on the event on 4 December 2019.
+Further Reading
+
+Trimmable Horizontal Stabiliser
+Service Bulletin (SB)
+Airworthiness Directive

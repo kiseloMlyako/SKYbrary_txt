@@ -1,0 +1,237 @@
+Body Fluids
+
+
+
+
+
+
+
+
+
+
+
+  Body Fluids
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+In principle, there is a group of methods that involve the analysis of particular chemicals associated with the secretion of adrenaline in response to stress. Catecholamine, Vanillylmandelic acid (VMA) and Cortisol have all been investigated. Blood, urine and, more recently, saliva have been analysed.
+Discussion
+There have been many attempts to assess the strain on controllers by the analysis of body fluids. The present writer is not well informed in biochemistry, and can only report the studies known to him, and their (generally disappointing) results.
+Early studies concentrated on catecholamine, a breakdown product of adrenaline, using urine samples. Klimmer et al (1972) found paradoxical results for catecholamine analysis, which they eventually traced to the controllers’ habit of drinking coffee during low traffic periods. Some metabolic by-products of caffeine or other components of coffee registered as catecholamine with the analysis used. As the traffic increased, the controllers had less opportunity to drink coffee.
+Costa (1993) studies the concentrations of Vanillylmandelic acid in urine of practising controllers before and after shift work, but found no significant effects.
+Cabon (1997, 1998, 1999a) studied cortisol in saliva. This technique is considerably more convenient that urine (or even more so, blood) sampling. The controller is required to chew a cotton wool strip, which is then stored in a glass tube and frozen for later analysis. It is considered to be more responsive, since saliva is more quickly affected than urine. (Blood sampling is not acceptable in the context).
+In individual studies, where only one subject was measured at a time, significant results were obtained. The levels of cortisol varied sharply within the day, so that only before/after exercise differences could be analysed. It was possible to distinguish different groups of controllers having generally low or high cortisol levels, the latter group appearing to be more motivated. Translation of this technique to a large-scale simulation proved disappointing however, possibly because the samples were not adequately preserved before analysis.
+In general, although saliva analysis appears a promising technique, the variations associated with time of day and the greater effects of physical effort in the field, where control of the situation is difficult, have, so far, produced disappointing results.
+References
+
+Klimmer F, Aulmann HM, Rutenfranz J., Catecholamine excretion in urine during mental work load in the air traffic control service, Int. Arch. Arbeitsmed. 1972;30(1):65-80. PMID: 5084925.
+
+
+
+
+
+Categories
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+Generics
+
+
+Type of method
+Physiological
+
+
+Physiological data is data from measures of the controllers body states.
+
+
+Target of method
+Strain
+
+
+Body fluids are, in theory related to strain levels.
+
+
+Time Scale of method
+Hours
+
+
+It is not usually possible to take physiological samples at close intervals. Most can only be taken ‘off-line’ before and after exercises.
+
+
+Portability of method
+No
+
+
+The analysis of body fluids requires elaborate laboratory facilities. These are, in general, not easily transportable. Samples of fluids can be stored for subsequent transportation, although this requires at least a refrigeration facility, and possibly a deep-freeze system.
+
+
+Observer Effect
+No
+
+
+Observer effects are not probable for physiological measures.
+
+
+Context of studies
+
+
+Laboratory studies
+Avoid
+
+
+ 
+
+
+Simulation studies
+Avoid
+
+
+ 
+
+
+Field studies
+Avoid
+
+
+ 
+
+
+Potential problems with the method
+
+
+Failure risk
+High
+
+
+The obtaining and handling of body fluid samples is a delicate process, and may be upset so that results are lost. More frequently, samples may deteriorate in the interval between the exercise and analysis without the knowledge of the experimenters. It is then too late to do anything about it.
+
+
+Bias risk
+High
+
+
+Physiological measures, because they essentially holistic, are influenced by many uncontrolled variables, such as the circadian rhythm, ageing, life-style stresses etc. Cortisol levels vary considerably in the course of the day, and, in some experimenters opinion, are simply too erratic for use as a measure of strain.
+
+
+Ethical problems
+Medical
+
+
+Physiological measures normally used for medical diagnosis may indicate actual or incipient illnesses. Only a properly qualified medical practitioner may extract diagnostic information.
+
+
+Costs of the method
+
+
+Staff Cost
+High
+
+
+Electrophysiological methods usually need at least one post-doctoral level supervisor, and one skilled technician per controller observed.
+
+
+Set-up Cost
+High
+
+
+A professional biotechnology laboratory is needed to handle the sampling and analysis of body fluids.
+
+
+Running Cost
+High
+
+
+Electrophysiological methods, such as salivary cortisol analysis, require the use of sterilised containers and freezer cabinets for sample storage. (Each sample for salivary analysis is taken using a cotton plug, which is chewed by the controller, and stored in an individual glass phial).
+
+
+Analysis Cost
+High
+
+
+Body fluids must be analysed by a medical laboratory, using sophisticated equipment at commercial prices.
+
+
+Analysis data
+
+
+Analysis Speed
+Slow
+
+
+Body fluid samples must be transported to the analytic laboratory, and analysed in batches. Results are therefore not available until some weeks after the exercise.
+
+
+Data Automation
+No
+
+
+No practical method exists for the taking of body fluid samples automatically.
+
+
+Analysis Automation
+Used
+
+
+Biological analysis is more or less automated, in that large batches of samples are treated together. Results normally are generated and treated by computer-based processors, which can as easily store data on disc and print it out.
+
+
+Status
+Tested
+
+
+Tested - These methods have been used at EEC and other ATC centres.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

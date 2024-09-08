@@ -1,0 +1,337 @@
+BCS3, Porto Portugal, 2018
+
+
+
+
+
+
+
+
+
+
+
+  BCS3, Porto Portugal, 2018
+
+
+
+
+
+
+
+
+
+Summary
+
+On 15 July 2018, an Airbus 220-300 crew were slow to recognise that the maximum de-rate thrust required for their takeoff from Porto had not been reached but after increasing it were able to get safely airborne prior to the end of the runway. The Investigation found that applicable SOPs had not been followed and that the function of both the spoiler and autothrottle systems was inadequately documented and understood and in the case of the former an arguably flawed design had been certified. Five similar events had been recorded by the aircraft operator involved in less than six months.
+
+
+
+
+Event Details
+
+When
+
+15/07/2018
+
+
+
+Event Type
+
+
+AW,
+              HF,
+              RE
+
+
+
+
+Day/Night
+
+Night
+
+
+
+Flight Conditions
+
+On Ground - Normal Visibility
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOMBARDIER BD-500 CSeries CS300
+
+
+
+
+
+
+
+
+
+Operator
+
+Swiss International Airlines
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Porto/Francisco de Sá Carneiro Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Geneva Cointrin International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Take Off
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+LPPR
+
+
+
+
+General
+
+Tag(s)
+
+
+              Copilot less than 500 hours on Type,
+              PIC less than 500 hours in Command on Type,
+              Use of Erroneous Performance Data,
+              CVR overwritten,
+              Delayed Accident/Incident Reporting
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Pre Flight Data Input Error,
+              Procedural non compliance
+          
+
+
+
+
+RE
+
+Tag(s)
+
+
+              Incorrect Aircraft Configuration
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Flight Controls
+          
+
+
+
+Contributor(s)
+
+
+              OEM Design fault
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Non-aircraft damage
+
+Yes
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+Yes
+
+
+
+Ditching
+
+Yes
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Airworthiness
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 15 July 2018, an Airbus 220-300 (HB-JCC) being operated by Swiss International Airlines on a scheduled international passenger flight from Porto to Geneva as LX 2077 failed to get airborne in normal visibility at night until much nearer the end of the runway than should have been the case, after it was realised that the thrust initially set for takeoff was insufficient and it had been increased accordingly. The remainder of the flight was without further event.
+Investigation
+No notification of the event was made to either to the Portuguese Air and Rail Accident Investigation Agency (GPIAAF) or the Swiss Transportation Safety Investigation Board (STSB) until the latter was advised of it 9 days later. After passing this information to the GPIAAF, they delegated investigation to the STSB who then carried out a comprehensive investigation. Relevant data on the CVR had long since been overwritten but DFDR data was downloaded and recorded ATC data from Porto was also retrieved.
+It was noted that the Captain (born 1959 and a Swiss national) who had been PF for the investigated flight, had a total of 14,766 flying hours of which 301 hours were on type and that the First Officer (born 1984 and also a Swiss national) had a total of 1,783 flying hours of which 397 hours were on type. It was additionally noted that the flight from Porto to Geneva was the crew’s second sector since beginning their current flight duty period after being free of duty for in excess of 20 hours at Geneva.
+It was established that flight crew had calculated and set the engine thrust required for takeoff from runway 35 using intersection ‘C’ based on load and trim sheet data (including a takeoff mass of 48,413 kg which was well below the 60,000 kg MTOM) and prevailing meteorological conditions and had decided that a maximum allowable de-rated thrust setting of 80.7% N1 would suffice. The associated speeds were calculated as V1 117 KIAS, VR 122 KIAS and V2 129 KIAS. After subsequently receiving their departure clearance and entering it into the FMS, the crew noticed that “contrary to expectations the flight plan displayed a discontinuity” and when then giving the takeoff brief, the Captain asked the First Officer to “keep a close eye on the FMS during the takeoff roll”.
+During the taxi out, TWR cleared the flight to line up and take off at intersection ‘C’ and on reaching the runway, the Captain armed the A/T and, once on the runway centreline, initiated a rolling takeoff by advancing the thrust levers to a Thrust Lever Angle (TLA) of 20.6°. Unknown to the crew at this stage, a TLA above 23° was needed to automatically change the A/T status from ‘armed’ to ‘engaged’. As the speed increased, FDR data showed that, as wheel speed exceeded 60 knots, the spoilers (as per system design) had automatically extended without activating a corresponding information or alert message to the flight crew.
+At the 80 KIAS flight deck callout to verify that the required takeoff thrust is set and that both primary airspeed indications are the same, FDR data showed that the N1 had only reached 65.3 % instead of the required 80.7 %. During subsequent interviews, both pilots stated that “they could not say for certain whether they had executed the 80 KIAS check including the associated monitoring of the power output". The Captain stated that as the speed approached 100 KIAS, the First Officer had advised that the FMS discontinuity had disappeared and that he (the Captain) had considered that acceleration seemed slower than usual, although this did not seem significant at the time given that a maximum de-rated thrust takeoff was being performed. Nevertheless, it prompted him to check the thrust and, having realised it was too low, he had then pushed the thrust levers further forward. The data shows that this action was taken at 109 KIAS and that it resulted in the N1 increasing to 76.6 % - still below the originally calculated required N1 of 80.7%.
+According to both pilots, almost simultaneously an EICAS ‘CONFIG SPOILER’ warning lasting for 4 seconds was activated which led the First Officer to immediately see and call that the spoiler lever was in the (correct) retracted (RET) position. The Captain stated that he had briefly considered rejecting the takeoff but as V1 had by then been exceeded, he had decided to continue. The aircraft subsequently became airborne after a 52 second takeoff roll and after travelling 150% of the (correctly) calculated takeoff distance with approximately 1,000 metres of the 3,480 metre-long runway remaining.
+A simulator replication of the investigated takeoff was made but without the corrective manual thrust increase. As expected, the spoilers extended at 60 knots and remained deployed. Without any thrust increase, the V1 of 117 KIAS was reached at virtually the same time but it then took 6 seconds longer to reach VR and the subsequent rotation was also slow, and after 900 metres had resulted in a tail strike rather than a lift off. Had a rejected takeoff been initiated at this point, it was found that “it would not have been possible to bring the aircraft to a stop on the runway”.
+The Investigation observed that given the remaining length of the runway and the required obstacle clearance during the climb out, in particular in the event of an engine failure, it is desirable that if it is recognised at any stage that takeoff thrust has not been reached, the thrust levers should be “firewalled” which whilst it would disconnect the A/T, it would result in the maximum possible takeoff thrust being applied, a particularly relevant response during a takeoff with de-rated thrust.
+The Investigation found that although relevant aircraft systems appeared to have functioned as designed and as documented in most - but not all - respects, even the correct supporting documentation was not presented at all the points where system function awareness was needed and information of considerable importance to the operation of the aircraft type had thus remained widely unappreciated by both the aircraft operator and its pilots. This had indirectly led to an inadequate focus on takeoff safety and the procedures intended to support it.
+Because the Thrust Lever Angle (TLA) initially set when the takeoff was commenced was less than the minimum required to ensure that the A/T was activated, the thrust ceased increasing at 60 knots when the previous ‘ARMED’ status of the A/T changed to ‘HOLD’ status where, with no further intervention, it would then, by design, remain until the aircraft was above 400 feet agl. The fact that the A/T had not engaged was evident from the FMA ‘THRUST’ indication which remained illuminated and coloured white instead of changing to green but this went unnoticed by the crew. At the 80 knot call, it appears that the specified ‘thrust achieved’ check was not always performed with the concurrent speed cross check. Only a perception that acceleration had been slow, that the takeoff roll was taking longer than usual and that the end of the runway was nearer than expected then remained to trigger an explicit check of the thrust set and corrective action.
+Secondly, spoiler deployment occurred automatically as the aircraft speed increased through 60 knots without any alert to the crew simply because the TLA was not above 23°. This potential activation of a system intended to support safe landings was considered to “carry great safety risks” and had quite clearly not been considered when the spoiler system was designed and the aircraft certificated.
+SOPs for checking that the thrust intended to be used is achieved were found to rely on the 80 knot speed cross check, with which the ‘thrust set’ check was linked. It was considered that this as a first and only check is too late and that an earlier and more explicit requirement to confirm that it has been reached is required. It is therefore considered essential that progress towards the achievement of the required takeoff thrust is continuously monitored by the PM and confirmed immediately it occurs. The existing SOP was found to include only a general requirement that flight and engine displays should be “monitored” prior to the 80 knot check. Also of note in this respect was the fact that any correction to increase achieved thrust after 60 knots will mean the A/T will be in ‘HOLD’ mode and would therefore disconnect should a corrective increase in thrust be made manually.
+A history of similar events at the airline involved
+The Investigation found that Swiss International Airlines had, between 14 February 2018 and 30 July 2018, recorded five similar takeoff performance events on their Airbus A220 fleet in which the required N1 was not set properly, all caused as in the investigated case by the setting of a TLA below the minimum required to activate the A/T. In four of the five cases, this went unnoticed by the flight crews involved and it was not possible to tell from their recorded statements whether the required 80 knot ‘thrust set' check had been made. The fifth case, involving a different aircraft to the one in the investigated event, was almost identical. The initial TLA setting was below 23° and when 60 knots was exceeded, the spoilers extended without a CONFIG SPOILER warning until five seconds after the TLA was advanced above 23° which was followed by the spoilers retracting and the A/T automatically disconnecting and the takeoff then being rejected from around 90 knots. The only difference in response was that the takeoff was rejected from below V1 rather than continued from above it.
+The Cause of the Serious Incident was determined as “the flight crew was too late to notice that the engine power required for takeoff was not set”.
+Two Contributory Factors were also identified as:
+
+Non-compliance with the aircraft operator’s standard operating procedures (SOPs).
+Inappropriate prioritisation by the flight crew during the takeoff roll.
+
+Two Risk Factors which did not influence the development and course of the Serious Incident were also identified as:
+
+The design of the spoiler deployment system.
+The design of the autothrottle (A/T) system whereby the A/T switches (automatically) to ‘HOLD’ mode during the takeoff roll even if the required takeoff power (target N1) has not yet been reached.
+
+Safety Action known to have been taken whilst the Investigation was in progress was noted to have included but not been limited to the following:
+
+Airbus issued an AOM to A220 aircraft operators to remind their flight crews to ensure the A/T is engaged when taking off with A/T (the A/T engages at 23° TLA or 68 % N1) and to ensure that the required takeoff engine thrust is properly set.
+Swiss International Airlines added two new callouts to their takeoff SOP, a requirement for the Captain to call ‘THRUST ARMED’ and receive the response ‘CHECKED’ before beginning takeoff and a requirement for the PF to call “THRUST” after observing clear A/T-driven thrust lever movement and then checking that the FMA A/T indication has changed to green and receive the reply ‘CHECKED’ from the PM.
+
+One Safety Recommendation was made as a result of the Investigation as follows:
+
+that Transport Canada, as the aircraft type certification authority, should ensure that the spoilers are not automatically deployed when taking off with insufficient takeoff power (set).
+
+The Investigation noted the following initial response from Transport Canada:
+This incident investigation has brought to light that the FMA Autothrottle (A/T) annunciations could be misleading during the takeoff flight phase. Transport Canada (TC), will recommend the OEM investigate the A/T mode annunciation design.
+In addition to recommending that the manufacturer investigate possible improvements to the automatic Ground Lift Dumping (GLD) function robustness, TC acknowledges that a better description of the spoiler’s auto deployment conditions and criteria during takeoff could be useful, and this will be investigated with the manufacturer.
+The STSB also issued ‘Safety Advice No 26’ to the aircraft operator which stated that it “should use suitable measures to ensure that the required takeoff thrust is immediately checked and confirmed by the flight crew after it has been set”.
+The Final Report of the Investigation was completed on 25 February 2020 and subsequently published on 11 March 2020.
+Related Articles
+
+Use of Erroneous Parameters at Take-Off
+FMS Data Input Errors
+Thrust
+Rejected Take Off
+Type Certificate
+Certification of Aircraft, Design and Production

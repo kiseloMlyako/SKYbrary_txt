@@ -1,0 +1,209 @@
+Use of Personal Electronic Devices (PEDs) on Aircraft
+
+
+
+
+
+
+
+
+
+
+
+  Use of Personal Electronic Devices (PEDs) on Aircraft
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Airworthiness 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+A portable electronic device (PED) is defined by the International Air Transport Association (IATA) as any piece of lightweight, electrically powered equipment. These devices typically are consumer electronic devices, capable of communication, data processing and/or computing. Examples are laptop computers, tablets, e-readers, smartphones, MP3 players, drones, and electronic toys.
+Introduction
+The rapid increase in use of and range of PEDs has led regulators to reassess their policies on PED use on board aircraft used for commercial air transport. Although there was never any documented evidence of risk to flight safety, for many years, the “Precautionary Principle” was applied and the use of all PEDs was banned during critical phases of flight (takeoff/initial climb and approach and landing), this being usually defined by the illumination of the seat belt signs during those flight phases.
+Following the issue of revised guidance, airlines regulated by the U.S. Federal Aviation Administration (FAA) or the European Union Aviation Safety Agency (EASA) are able to permit passenger use of PEDs operating in non-transmitting mode in all phases of flight as detailed:
+Federal Aviation Administration
+
+Information for Operators InFO 13010 issued 31 October 2013 on Expanding Use of Passenger PEDs and based on a detailed report submitted by the PED Aviation Rulemaking Committee (ARC).
+
+European Union Aviation Safety Agency
+
+EASA Safety Information Bulletin No: 2013-21 issued 9 December 2013 and advising of EASA ED Decision 2013/028/R made on 26 November 2013, which modified the AMC and Guidance Material for Part CAT in respect of PED in order to align with the FAA position.
+
+It is expected that other regulatory agencies will follow with similar guidance to their commercial air transport operators.
+Under the guidance issued by FAA and EASA, any PED which is capable of transmitting and receiving - termed a T-PED - must still be selected to "Flight Mode" or "Airplane Mode" before takeoff and remain so until after landing so that their transmitting and receiving capability is disabled. Any T-PED without such a capability must remain off throughout the flight. The guidance on extended use of PEDs is permissive rather than mandatory and it is therefore at the discretion of each airline whether its provisions are used. Before allowing more extensive use of PEDs on board, operators are expected to carry out a risk assessment exercise to ensure that any identified hazards are appropriately managed. The FAA has provided detailed guidance on how it is expected that this will be done: Supplement to FAA InFO 13010 “Aid to Operators for the Expanded Use of Passenger PEDS." Each airline which chooses to relax their PED use policy is required to inform their safety regulatory authority of such action and confirm that appropriate risk management is in place.
+It should be noted that, whilst the use of T-PEDs will still be prohibited once the engines have been started prior to taxi out and whilst airborne, EASA has now joined the FAA and Transport Canada in permitting airlines to allow their use during the taxi in after landing.
+The following table provides a general summary of permitted PED use with activated/deactivated "Flight Mode" during the different flight phases (note that the policies of individual airlines may be more restrictive).
+
+
+
+Flight phase
+PED Flight mode “ON”
+PED Flight mode "OFF"
+
+
+
+
+Taxi Out
+YES but subject to cabin crew instructions and stowage of heavy items before take-off
+NO
+
+
+Take-off & Initial Climb
+YES
+NO
+
+
+Climb Cruise and Initial Descent
+YES
+YES but only in specially equipped aircraft and when crew explicitly permit this
+
+
+Approach & Landing
+YES
+NO
+
+
+Taxi In
+YES
+YES
+
+
+
+Communicating Airline Policies on PED permitted use
+The regulators require that airlines provide appropriate information on their PED policy to passengers before flight. This information should include at least the following:
+
+which PEDs can be used/are not to be used throughout the flight, especially during critical phases of flight and when taxiing;
+if, when, and where PEDs are to be stowed during critical phases of flight and taxiing; and
+that all instructions of the crew in respect of PED use must be followed at all times, given that operational circumstances may require that additional temporary restrictions on their use may need to be imposed.
+
+The regulatory guidance referenced earlier also advises that airlines should use recognisable and standard terminology in all announcements about PED use so as to preclude passenger confusion.
+It is anticipated that there will be some differences in the PED use policies adopted by airlines. It is therefore stressed that the information to passengers should correspond to the specifics of the policy adopted by the individual airline. For example, see the British Airways Policy for on-board use of PED.
+
+Information leaflet provided by the FAA
+It should be noted that whilst the latest guidance is believed to be sufficient to mitigate the threat to aircraft systems posed by electromagnetic radiation from PEDs, its effectiveness depends upon the cabin crew ensuring that passengers do not ignore instructions, which is acknowledged to be challenging. All electronic equipment installed in or accepted as an essential crew-use item on any aircraft, for example flight crew EFBs operated independently of the aircraft systems, must comply with appropriate airworthiness certification requirements. Since this is clearly impractical in the case of passengers’ PEDs, the revised Regulatory position has effectively deemed such action unnecessary.
+Electromagnetic Interference from PEDs
+Any T-PED and virtually all non-transmitting PEDs emit low levels of electromagnetic radiation which could theoretically interfere with aircraft avionics when switched on but, unless they are transmitting, even multiple simultaneous use has now been deemed not to prejudice aircraft systems function. Historically, no evidence has been presented that correctly functioning non-transmitting PEDs have caused interference or malfunction of aircraft systems. Increasing numbers of aircraft are being fitted with WiFi access, which enables controlled passenger access to the Internet in flight via their PEDs. It is common for such access to be permitted only when the aircraft is above 10,000 feet or only made available at the same time as the in-flight entertainment system.
+The problem with T-PED use in the cabin of an aircraft in flight has always been that if used to attempt direct communication with a ground station, these devices would have to transmit at maximum power to be received, and it has been considered that multiple simultaneous such attempts could create a risk of interference with aircraft systems[1]. It is also the case that mobile phone ground networks are not designed to handle connections from T-PEDs travelling at high speed or at a height where they are able to connect to several different ground stations simultaneously. Any attempt to use them in flight could therefore also lead to network problems and, whilst this is not a flight safety issue, it is a further consideration influencing the continuing general ban on in-flight use of T-PEDs.
+The solution to this problem, which is already employed in specially equipped aircraft is the use of Picocells. A picocell acts as a pseudo-mobile telephone tower which communicates with T-PEDs on board an aircraft and relays the signals to either satellite or terrestrial receivers. The picocell is designed and maintained for full compatibility with the rest of the on-board avionics. Communication between the picocell and the rest of the mobile telephone network is on separate frequencies that do not interfere with either the terrestrial cellular system or the aircraft avionics, much like the on-board phone systems already installed in some commercial aircraft. Since the picocell antennae within the aircraft fuselage will necessarily be close to passengers, only very low power is needed for both the picocell and mobile phone to connect, so that the likelihood of interference with aircraft systems becomes negligible.
+Aircraft System Tolerance to PED use
+It has generally been accepted that the risk of uncontrolled passenger PED use affecting aircraft systems has been highest in more modern aircraft where the rise of automation has been facilitated by an increase in the scale and complexity of electrical rather than mechanical system control. A supplementary investigation into the possibility that PED interference had affected aircraft systems prior to the loss of an aircraft in 1988 concluded, in 2013, that it had been unlikely in the case of the "legacy" aircraft type involved - see the Editor's Note which follows below. The risk that there might be such system effects has been more recently addressed by the Aircraft Type Certification process for new aircraft, which now requires evidence that aircraft systems can tolerate the level of electromagnetic radiation which routine use of a particular aircraft type might generate. Guidance such as the AMC issued by the FAA as AC 20-164 exists.
+Editor's Note
+
+^ On 16 December 2013, the Norwegian AIB (SHT) published a report of a supplementary investigation into a CFIT accident to a Wideroe DE HAVILLAND CANADA DHC-7 aircraft which occurred on a nonprecision approach to Brønnøysund Norway in IMC during a domestic flight in 1988 in which the aircraft was destroyed and all occupants killed. This report was made available in English translation on 24 January 2014. The purpose of the supplementary investigation, which was prompted by queries raised during 2013, was to examine whether mobile phone use had affected aircraft systems in any way that might have contributed to the premature descent that had occurred. It was concluded that the presence and possible use of the mobile phones on board the aircraft had not led to interference from these devices and would not have been capable of influencing the course of events.
+
+Accidents and Incidents
+Unauthorised PED use
+None on SKYbrary
+Faulty or misused PED
+
+B738, en-route, Colorado Springs CO USA, 2006 (B738 diversion into KCOS following in-flight fire. The fire started after a passenger's air purifier device caught fire whilst in use during the flight. The user received minor burns and the aircraft cabin sustained minor damage.)
+
+Related Articles
+
+Aircraft Fire Risk from Battery-powered Items Carried on Aircraft
+Personal Electronic Device Fire - Cabin Crew Checklist
+Interference to GNSS Signals
+
+Further Reading
+
+FAA Information for Operators InFO 13010 issued 31 Oct. 2013 on Expanding Use of Passenger PEDs
+FAA Aid to Operators for the Expanded Use of Passenger PEDS issued 31 Oct 2013 as a Supplement to FAA InFO 13010
+A Report from the Portable Electronic Devices Aviation Rulemaking Committee to the FAA, 30 September 2013
+EASA Safety Information Bulletin No: 2013-21 issued 9 December 2013
+British Airways Policy for on-board use of PEDs - as prepared in December 2013
+FAA AC 20-164A Designing and Demonstrating Aircraft Tolerance to Portable Electronic Devices (2017) - details an AMC for aircraft design purposes
+FAA AC 91-21.1D, Use of Portable Electronic Devices Aboard Aircraft, 27 Oct. 2017.
+CAP 756 "Portable Electronic Device Generated Electro-magnetic Fields on board a Large Transport Aeroplane" - UK CAA
+"The airline passenger - a partner in the safety management system or an obstacle to it?" - article in HindSight 9, July 2009. This article, written by John Barrass in conjunction with Professor Robert Bor, looks at passenger behaviour and attitude to safety.
+Guidance on the Expanded Use of Passenger Portable Electronic Devices (PEDs) - IATA, July 2014
+Traveling with Portable Electronic Devices (PEDs), IATA website
+
+
+
+
+
+Categories
+
+
+Airworthiness,
+              Cabin Safety
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

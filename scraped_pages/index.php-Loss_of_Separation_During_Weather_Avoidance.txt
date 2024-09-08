@@ -1,0 +1,174 @@
+Loss of Separation During Weather Avoidance
+
+
+
+
+
+
+
+
+
+
+
+  Loss of Separation During Weather Avoidance
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Separation 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+This article provides a general overview for controllers of some typical scenarios involving loss of separation (LOS) during weather avoidance. It offers some suggestions to help controllers provide as much support as possible to the aircraft concerned and considerations for maintaining the safety of other aircraft in the vicinity of the potential conflict. In the context of this article, the term ‘weather avoidance’ is used to describe avoiding actions taken by a pilot to circumnavigate weather which may be considered by the pilot in command to be prejudicial to either the safety of their aircraft or to the comfort of its passengers such as a Thunderstorm, Cumulonimbus (CB) or Towering Cumulus (TCU) cloud and the severe turbulence and hail which may be associated with them.
+There is no set of ready, out-of-the-box rules which can be universally applied. Controllers should aim to exercise their best judgment when dealing with LOS risks. The advice and illustrations provided in this article are not intended to be exhaustive and should not prejudice the application of local ATC procedures.
+Description
+Loss of separation during weather avoidance is usually caused by an unexpected and significant change to the trajectory of one or more aircraft. The options for manoeuvring and restoring any lost separation will often be very limited.
+Useful to Know
+In adverse weather scenarios, reduction of available airspace is to be expected in both lateral and vertical dimensions. In some countries, attempts to prevent hail by active intervention and the corresponding activation of danger areas may further reduce the volume of available airspace. Depending on the scale and position of the adverse weather, some sector entry and/or exit points may not be usable and normally discrete entry and exit traffic flows may be merged over one single sector entry/exit point. It may not be possible to apply normal procedures which are included in Letters of Agreement (LoA) between adjacent ATC units, such as flight level allocation schemes for transfer of control and this will impose an increased burden in respect of verbal coordination between the ATC units concerned.
+Speed control as a means to achieve separation can be ineffective during weather avoidance because of uncertainty on likely aircraft future track. This means of separation is also likely to be more difficult to apply because most aircraft types are subject to Aircraft Flight Manual (AFM) limitations which impose a speed limit (Va) for the maximum deflection of any primary flight control which cause pilots to consider proactively reducing speed if they consider that maintaining aircraft control might require such inputs. It is also usual for aircraft to have a recommended maximum "rough air" speed (Vra) for all flight in significant turbulence in order to reduce the effect of turbulence on passenger comfort.
+The opportunities for radar vectoring may be constrained in the presence of significant areas of convective instability. A pilot would be likely to reject any instruction that would take their aircraft into close proximity with any CB cloud. Also, while ground weather radar systems have a greater range than most on-board equipment, even if weather radar display is available to controllers, it often presents a rather old “picture” compared to on-board weather radar data. All of this means that pilots are usually in the best position to determine the most suitable avoiding action.
+Unfortunately, pilots will sometimes commence avoiding action without obtaining ATC clearance or even advising of their action at the point of commencement. Such action represents a potentially significant safety threat, especially in congested airspace and is contrary to most aircraft operator SOPs and may sometimes occur when a decision to deviate around adverse weather has been delayed beyond the point where the majority of pilots would have acted.
+Typical Scenarios
+
+Sudden change of heading into conflict– an aircraft unexpectedly turns towards another one;
+Sudden change of heading/level – in the event of a sudden encounter with severe icing/turbulence an aircraft may promptly leave the hazardous area without prior communication with ATC;
+VFR flight avoiding cloud – in class B or C airspace this might lead to a LOS event with an IFR flight;
+Degradation of RVSM capability – in the case of severe turbulence, aircraft may not be able to accurately maintain assigned flight level;
+
+Contributory Factors
+
+Surprise – the first adverse weather avoidance action of a subsequent sequence may be unexpected by the controller;
+Traffic complexity - and the corresponding controller workload - is increased due to the non-standard routes being used and the dynamic conflict points;
+Communication – safe operations during weather avoidance require increased air-ground (with pilots) and ground-ground (with adjacent sectors) communication;
+Frequency congestion - may be caused by the significant increase in air-ground communication exchange;
+Unpredictable avoidance manoeuvres – different airlines have different SOPs regarding weather avoidance.
+
+Defences
+As a controller:
+
+Inform pilots as soon as practicable about any reports of adverse weather ahead, especially about those relating to turbulence and in-flight icing.
+In the case of turbulence avoid, insofar as is possible, avoid the use of opposite flight levels to solve crossing conflicts. Vectoring or 2000ft separation are usually more appropriate better options.
+Be prepared to ask pilots about the likelihood of their taking weather avoiding action or making a weather-predicated change of track within the next few, say 3-5, minutes in order to help build an adequate short-term plan.
+Assign safe (non-conflicting) flight levels to climbing and descending aircraft.
+Issue instructions for traffic to cross other traffic at conflicting levels only after ensuring that the crossing will be safe using rates, locked headings or equivalent conditions.
+If unsure whether an intended clearance in relation to adverse weather will be acceptable, ask pilots that question before issuing it.
+Assign required minimum or maximum rates of climb/descent to make sure climbing/descending aircraft remain separated, even in case of a sharp unexpected turn.
+Remember that assigning different flight levels to aircraft on converging flight paths is generally preferable to speed control or vectoring. Be aware that the number of aircraft on converging flight paths may increase if exit points become unavailable.
+Advise adjacent sectors or units for aircraft that are unable to maintain RVSM due to turbulence.
+Think ahead - work out the essentials of alternative plans for separating flights in adverse weather conditions; take account of things like an aircraft being be too heavy to climb higher and the natural reluctance of pilots to accept significantly lower cruise levels due to concerns about increased fuel burn.
+
+Organisational Defences
+
+Training and awareness. The rating training phase usually includes some exercises focused on operations during adverse weather. In addition, the ANSPs should consider introducing seasonal refresher training (e.g. before the start of the summer season). This should improve ATCO performance when encountering actual or potential loss of separation during weather avoidance scenarios.
+Workload management. Possible measures include:
+
+Sector configuration (e.g. opening more sectors than would normally be used at given traffic levels);
+Adding an additional controller for the affected sector(s);
+Implementing appropriate tactical flow control measures.
+
+
+
+Related Articles
+
+Loss of Separation
+Loss of Separation - Pilot-induced Situations
+ATCO Actions in Case of Loss of Separation
+ATC Operations in Weather Avoidance Scenarios
+Aligned Weather Impact Management
+Loss of Separation at Sector Boundaries
+Conflict Detection with Adjacent Sectors
+ACAS: Guidance for Controllers
+
+Further Reading
+
+Green Paper on the gains for the European ATM Network of aligned weather impact management, EUROCONTROL, September 2013
+Severe weather risk management survey, EUROCONTROL, April 2013
+UK AIC: P 056/2010, "The Effect of Thunderstorms and Associated Turbulence on Aircraft Operations", 12 Aug 2010.
+CAP 493 - Manual of Air Traffic Services Part 1: UK CAA. Paragraph 17: "Weather Avoidance".
+
+
+
+
+
+Categories
+
+
+Loss of Separation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

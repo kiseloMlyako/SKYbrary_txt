@@ -1,0 +1,227 @@
+Delta Rhythm
+
+
+
+
+
+
+
+
+
+
+
+  Delta Rhythm
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Traditionally, the traces obtained by Electroencephalography are analysed by Fourier analysis, which decomposes any signal into sine-wave components with varying frequencies.
+The Delta rhythm (approximately 1-3 Hz) is the slowest rhythm normally recorded.
+Discussion/Reference
+The Delta rhythm (approximately 1-3 Hz) is the slowest rhythm normally recorded. According to the text books, it is normally occurs in small children and in some physiological mental disturbances.
+Cabon et al (1997), however, found that a surprisingly high level of delta rhythm could be observed when controllers were under relatively low workloads, diminishing significantly when the workload increased.
+
+
+
+
+Categories
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+Generics
+
+
+Type of method
+Electroencephalography
+
+
+Target of method
+Strain
+
+
+The presence of Alpha rhythm EEG is conventionally taken as an indication that the brain is ‘idling’.
+
+
+Time Scale of method
+Seconds, Minutes
+
+
+EEG signals have a frequency range up to 30-40Hz. To carry out Fourier analysis epochs of several seconds are needed.
+
+
+Portability of method
+No
+
+
+It is sufficiently difficult to obtain EEG readings under laboratory conditions, and usually requires a trolley of equipment for each individual.
+
+
+Observer Effect
+No
+
+
+The activity recorded by EEG measurements is not normally under the control of the controller.
+
+
+Context of studies
+
+
+Laboratory studies
+Use
+
+
+ 
+
+
+Simulation studies
+Use
+
+
+ 
+
+
+Field studies
+Avoid
+
+
+ 
+
+
+Potential problems with the method
+
+
+Failure risk
+Moderate
+
+
+Surprisingly good quality EEG signals can be recorded in simulation and in real life control rooms. This is probably because most electronic activity in these locations involves much higher frequencies.
+
+
+Bias risk
+Possible
+
+
+We do not really know enough about EEG to say what it can be affected by, although some observation of specific elements is available.
+
+
+Ethical problems
+Medical
+
+
+We do not examine EEG records for traces of abnormality, which is the proper study of the medical profession.
+
+
+Costs of the method
+
+
+Staff Cost
+High
+
+
+Electroencephalography usually needs at least one post-doctoral level supervisor, a skilled EEG technician and one specially trained observer per controller observed.
+
+
+Set-up Cost
+High
+
+
+EEG requires expensive equipment, and considerable preparation before each exercise.
+
+
+Running Cost
+High
+
+
+EEG tends to require specialised recording equipment, and the volume of data produced usually requires considerable control activity in the course of a simulation.
+
+
+Analysis Cost
+High
+
+
+The cost of EEG analysis is largely that of the specialised programs, and peripherals required. Most EEG systems, having been designed for clinical use, are self contained, and require considerable attention in use.
+
+
+Analysis data
+
+
+Analysis Speed
+Slow
+
+
+Although EEG analysis is usually carried out by computer, the interpretation of the analysis usually seems to contain a certain subjective element. In addition, EEG is liable to artefacts, usually due to displacement of cable leads, or chewing or blinking by the subject.
+
+
+Data Automation
+Yes
+
+
+Data can only be collected automatically.
+
+
+Analysis Automation
+No
+
+
+The analysis of EEG is, in general, automated - usually by Fourier analysis, but the interpretation of the results is not normally susceptible to automation.
+
+
+Status
+Tested
+
+
+This method has been used in a number of relevant studies, at EEC and elsewhere.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

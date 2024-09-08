@@ -1,0 +1,139 @@
+Voice Communication System (VCS)
+
+
+
+
+
+
+
+
+
+
+
+  Voice Communication System (VCS)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+A voice communication system (VCS) integrates multiple means of communication into one system. While some ATS units (e.g. an AFIS or a Tower unit at a small airport) may find a simple telephone to be sufficient for their purposes, this is not usually the case with large ATC centres accommodating varying number of sectors or when several ATS units are located in the same facility (e.g. a Tower, Approach and Area control units).
+Typical Features
+While there is no standard about what a VCS should look like, what features are to be incorporated or how the human-machine interface should look like, the following is a list of commonalities found in most systems:
+
+A touch-screen interface
+Part of the screed dedicated to frequency management (frequency selection and adjustment, coupling, etc.).
+Part of the screen (normally the largest) dedicated to phone shortcuts (phones that can be dialed using a single button). These may be placed on multiple pages in some systems.
+Additional phone options, e.g. a dial pad, a phone directory, etc.
+A control panel, containing options for e.g. volume adjustment, selection of output devices (e.g. headset or speakers), incoming call sound selection, etc.
+Functional buttons, e.g. for transferring calls, conference calls, push-to-talk feature, etc.
+Definition of roles and corresponding layouts. For example, different ACC sectors may have different phone shortcuts or different frequencies available, while an assistant panel may lack the frequency section.
+
+A generic example of a VCS layout is shown below:
+ 
+Benefits
+The VCS provides various benefits both in operational as well as in organisational terms:
+
+Role allocation. Each position can be assigned a specific role that can be dynamically managed. For example, when a new sector is open, the appropriate phone lines need to be linked to the new positions. Similarly, when a sector is closed, the connections need to be redistributed to other working positions so that incoming calls are received by the appropriate controller.
+Customization. Most VCS systems use touchscreen panels that are easily customizable. For example, each sector will only be shown quick dial buttons related to their position. These can also be colour coded for better recognition (e.g. using a specific colour for other sectors in the current unit, another for nearby Tower and Approach units, ACCs and others). Depending on the system, multiple layouts can be supported, i.e. each controller working position can be configured to accommodate any sector.
+Common human-machine interface. When separate pieces of equipment are used it is possible to have e.g. two phones (one for landline and another for satellite connections) with different feature implementation (e.g. different ways to dial numbers, transfer calls, etc.).
+Better frequency management. Standalone radios often offer limited options for selecting and adjusting frequencies. VCSs, on the other hand, normally have features such as easy coupling, frequency shortcuts, selection of transmitters and receivers, etc.
+Reduced workplace clutter. Several systems are replaced by a single screen which takes considerably less space and is normally integrated into the console. 
+Integration. A controller can operate both the radio and the telephone features using the same headset. It should be noted though, that in busy environments, using the phone as an executive controller could be challenging.
+Training-friendly. Most VCSs are designed with controller training in mind and offer the ability to connect multiple devices (e.g. headsets). Thus, an on-the-job training instructor can connect to the VCS using their own equipment and quickly intervene if necessary. Also, this configuration is more convenient for monitoring the trainee's phone calls.
+Enhanced situational awareness. Most VCSs provide additional information about the working positions within the same ATS unit, e.g. if they are currently engaged in a phone call or if a frequency is in use at another sector.
+
+Related Articles
+
+Automation and ATM
+ATM Sector Management
+Executive and Planner Controller
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,245 @@
+Subjective Workload Assessment Technique (SWAT)
+
+
+
+
+
+
+
+
+
+
+
+  Subjective Workload Assessment Technique (SWAT)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+When a LED lights at the position, the controller indicates his current work state on the scale:
+
+High - (Fully Loaded)
+Fair - (Reasonable)
+Low - (light work) on each of three scales
+
+
+Time Load
+Mental Effort
+Emotional Stress
+
+Scores are combined using a subjective self-scaling technique.
+Discussion
+
+EEC report # 275 (1995) compared the SWAT and ISA techniques systematically. SWAT requires three responses each at one of three levels, ISA requires one response on a five level scale. Verbal and keyboard response methods were compared. It appeared that SWAT was more disruptive of the controllers’ mental activity, as measured by the TRACON score obtained, than was ISA, whether control was exercised by keyboard or by voice. ISA itself is subject to qualms about its potential for disturbance of the controllers’ work patterns, particularly under heavy stress, and SWAT appears to be even less desirable.
+EEC Report # 183 (1985) included an attempt to use SWAT off-line, retrospectively, to judge the difficulty of an exercise just completed. It proved to be insufficiently sensitive to distinguish between heavy and light strain.
+
+References
+
+Cha, D.W. (2001) Comparative study of subjective workload assessment techniques for the evaluation of ITS-orientated human-machine interface systems. Journal of Korean Society of Transportation. Vol 19 (3), pp 45058
+Dean, T.F. (1997) Directory of Design support methods, Defence Technical Information Centre, DTIC-AM. MATRIS Office, ADA 328 375, September.
+Hart, S.G., & Staveland, L.E. (1988) Development of a multi-dimensional workload rating scale: Results of empirical and theoretical research. In P.A. Hancock & N. Meshkati (Eds.), Human Mental Workload. Amsterdam. The Netherlands. Elsevier.
+Reid, G.B. & Nygren, T.E. (1988) The subjective workload assessment technique: A scaling procedure for measuring mental workload. In P.S. Hancock & N. Meshkati (Eds.), Human Mental Workload. Amsterdam. The Netherlands. Elsevier
+Vidulich, M.A., & Tsang, P.S. (1985) Assessing subjective workload assessment. A comparison of SWAT and the NASA bipolar methods. Proceedings of the Human Factors Society 29th Annual Meeting. Santa Monica, CA: Human Factors Society, pp 71-75.
+Vidulich, M.A., & Tsang, P.S. (1986) Collecting NASA Workload Ratings. Moffett Field, CA. NASA Ames Research Center.
+Vidulich, M.A., & Tsang, P.S. (1986) Technique of subjective workload assessment: A comparison of SWAT and the NASA bipolar method. Ergonomics, 29 (11), 1385-1398.
+
+
+
+
+
+Categories
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+Generics
+
+
+Type of method
+Subjective
+
+
+The controller’s subjective judgement is recorded.
+
+
+Target of method
+Strain, Stress
+
+
+Time Scale of method
+Minutes
+
+
+The system is normally set to call for a value every 2 minutes. Longer or shorter intervals may be used, at risk of interrupting the controller’s thought processes.
+
+
+As used at EEC, the response keyboards are wired into the working positions. (Portable systems can be built, and are available commercially).
+
+
+Observer Effect
+No
+
+
+No observer present. The distraction involved in responding to a flashing light may disturb controllers’ thought patterns. (See EEC Report # 275)
+
+
+Context of studies
+
+
+Laboratory studies
+Use
+
+
+ 
+
+
+Simulation studies
+Use
+
+
+ 
+
+
+Field studies
+Use
+
+
+ 
+
+
+Potential problems with the method
+
+
+Failure risk
+Low
+
+
+Where controllers are very heavily loaded, they may not have time or effort available to answer the flashing light. The EEC system suppresses the light after 20 seconds, and makes a recording to this effect.
+
+
+Bias risk
+Low
+
+
+Three levels of workload are relatively easy to understand, but the three workload scales are not easy to separate mentally. Under strain, all three tend to rise together.
+
+
+Ethical problems
+None
+
+
+No ethical problems. It is made clear, before any simulation that information on the performance or physical state of individual controllers will not be disclosed or quoted in any identifiable form.
+
+
+Costs of the method
+
+
+Staff Cost
+Nil
+
+
+ 
+
+
+Set-up Cost
+Moderate, High
+
+
+The initial cost of the system involved the purchase of a suitable PC, and the construction of suitable key-boxes and cabling. When the system is used in a simulation at EEC, the control cables and key-boxes must be installed when the room is configured, and the software informed of which key-box corresponds to which position.
+
+
+Running Cost
+Nil
+
+
+Once set up, the system has only to be set going for each exercise, for which the running cost is practically negligible.
+
+
+Analysis Cost
+Nil
+
+
+Analysis, in the form of an on-line graphic display, is built-in. Off-line comparative analysis can also be carried out using stored data if required.
+
+
+Analysis data
+
+
+Analysis Speed
+Immediate
+
+
+SWAT results are presented in real time on PC screens at the supervisor’s position. A Historical record is presented for each exercise, and the data file is incorporated into system records.
+
+
+Data Automation
+Inherent
+
+
+ 
+
+
+Analysis Automation
+Inherent
+
+
+ 
+
+
+Status
+Dubious
+
+
+Not recommended for routine use.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

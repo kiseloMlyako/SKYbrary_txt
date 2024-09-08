@@ -1,0 +1,289 @@
+B773, en-route, Bering Sea, 2013
+
+
+
+
+
+
+
+
+
+
+
+  B773, en-route, Bering Sea, 2013
+
+
+
+
+
+
+
+
+
+Summary
+
+On 2 July 2013, a Korean Air Lines Boeing 777-300 experienced an uncommanded in-flight shutdown of one of its GE90-115B engines while crossing the Bering Sea. The crew made an uneventful diversion to Anadyr Russia. The Korean Aviation and Railway Accident Investigation Board (ARAIB) delegated investigative duties of this event to the National Transportation Safety Board (NTSB) which identified the cause of the failure as a manufacturing process deficiency which could affect nearly 200 similar engines.
+
+
+
+
+Event Details
+
+When
+
+02/07/2013
+
+
+
+Event Type
+
+
+AW,
+              LOC
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 777-300
+
+
+
+
+
+
+
+
+
+Operator
+
+Korean Air
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Chicago O'Hare International Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Incheon International Airport
+
+
+
+
+
+
+
+Actual Destination
+
+
+
+
+Ugolny Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Cruise
+
+
+
+
+
+
+
+
+Location
+
+Approx.
+
+Bering sea
+
+
+
+
+
+
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Significant Systems or Systems Control Failure,
+              Loss of Engine Power
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Engine - General
+          
+
+
+
+Contributor(s)
+
+
+              Damage Tolerance,
+              Component Fault in service
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Non-aircraft damage
+
+Yes
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+Yes
+
+
+
+Ditching
+
+Yes
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 2 July 2013, a Boeing 777-300ER (HL8275) being operated by Korean Air Lines, on a scheduled passenger flight from Chicago O’Hare to Seoul Incheon in day Visual Meteorological Conditions (VMC) experienced a failure and uncommanded in flight shut down of its No 1 GE90-115B engine whilst in the cruise at FL340. The crew diverted to Anadyr, Russia where an uneventful single engine landing was carried out.
+Investigation
+Delegation of the Investigation was initially requested by the Korean Aviation and Railway Accident Investigation Board (ARAIB) but since the failed engine was of US design and manufacture, the National Transportation Safety Board (National Transportation Safety Board (USA) (NTSB))was then asked to undertake the Investigation.
+It was established that the first indication of a problem with the operation of the No 1 GE90-115B engine was a loss of N2 speed. It was found that the engine had accumulated only 239 hours 38 cycles since new (CSN).
+An examination of the engine on wing found that the Transfer Gear Box (TGB) housing was fractured and the internal gears were damaged. The No. 1 engine was removed from the aircraft for shipment to a GE facility where the TGB was removed. A separated radial bevel gearshaft (subsequently referred to as a radial gearshaft) was found within the TGB. Various TGB components including the separated radial were sent for metallurgical examination. Visual examination of the radial gearshaft found "three X-shaped cracks in the short shaft side outer diameter at the shaft-to-web transition radius, with one of the X-shaped cracks (associated with fractured and missing material) linked to a 0.049-inch axial crack". This axial crack was considered the primary crack and the origin of the failure. The metallurgical examination found evidence of "fatigue propagation and a morphology consistent with initial fatigue initiation occurring under a torsional and/or biaxial stress condition". Microhardness tests near the origin of the fracture revealed a deficiency in the level of near surface hardness which it was concluded was attributable to decarburization due to marginal (thin or detached) copper plating existing on the gearshaft surface during the hardening process.
+The Investigation determined that the Probable Cause of the engine failure was "the failure of the transfer gearbox resulting from the fracture and separation of the radial gearshaft from fatigue cracking as a result of a combination of high residual tensile stresses produced by local decarburisation during the manufacturing process coupled with the normal operating stresses".
+Safety Action taken by General Electric (GE) as a result of the manufacturing process deficiency discovered during the Investigation involved the issue of seven SBs, four requiring the removal of suspect radial gearshafts from service, one to detail a specific crack detection inspection and two to repair and toughen existing shafts. To ensure that the removal of the suspect gearshafts was expedited, the FAA issued three separate ADs. GE has advised that all 186 gearshafts affected by the various FAA ADs have been removed from service.
+The Final Report was published on 15 May 2014. No Safety Recommendations were made as a result of the Investigation.
+Further Reading
+
+Jet Engine
+Loss of Control
+Engine Failure: Guidance for Controllers
+Loss of Control and In-Flight Upset After Loss of Engine Power (OGHFA SE)
+Handling Engine Malfunctions, Airbus FOBN
+Airworthiness - The System
+Airworthiness Directive

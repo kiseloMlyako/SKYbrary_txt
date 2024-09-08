@@ -1,0 +1,400 @@
+AT45, en-route, north of Islamabad Pakistan, 2016
+
+
+
+
+
+
+
+
+
+
+
+  AT45, en-route, north of Islamabad Pakistan, 2016
+
+
+
+
+
+
+
+
+
+Summary
+
+On 7 December 2016, the crew of an ATR 42-500 lost control after airworthiness-related complications followed shutdown of the left engine whilst in the cruise and high speed terrain impact followed. The Investigation concluded that three pre-existing faults with the left engine and its propeller control mechanism had led to a loss of power which had necessitated its shutdown but that these faults had then caused much higher left side drag than would normally result from an engine shutdown and made it progressively more difficult to maintain control. Recovery from a first loss of control was followed by another without recovery.
+
+
+
+
+Event Details
+
+When
+
+07/12/2016
+
+
+
+Event Type
+
+
+AW,
+              FIRE,
+              LOC
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+ATR ATR-42-500
+
+
+
+
+
+
+
+
+
+Operator
+
+Pakistan International Airlines
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Chitral Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Islamabad International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+No
+
+
+
+Phase of Flight
+
+Cruise
+
+
+
+
+
+
+
+
+Location
+
+Approx.
+
+3.5nm south southeast of Havellian and approximately 24 nm north of the former Islamabad Airport (OPRN)
+
+
+
+
+
+
+
+
+
+
+General
+
+Tag(s)
+
+
+              Copilot less than 500 hours on Type,
+              Inadequate Airworthiness Procedures,
+              Ineffective Regulatory Oversight
+          
+
+
+
+
+FIRE
+
+Tag(s)
+
+
+              Post Crash Fire
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Significant Systems or Systems Control Failure,
+              Loss of Engine Power,
+              Temporary Control Loss,
+              Aerodynamic Stall
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Propellers,
+              Engine - General
+          
+
+
+
+Contributor(s)
+
+
+              Maintenance Error (valid guidance available),
+              Inadequate Maintenance Schedule,
+              Component Fault in service,
+              Maintenance FOD
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Aircraft damage
+
+Hull loss
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Occupant Fatalities
+
+Most or all occupants
+
+
+
+Number of Occupant Fatalities
+
+47
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Airworthiness
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 7 December 2016, an ATR42-500 (AP-BHO) being operated by Pakistan International Airlines on a scheduled domestic passenger flight from Chitral to Islamabad crashed en-route in day VMC after the crew were unable to retain control when their attempt to shut down the malfunctioning left engine was complicated by unrelated faults which then prevented the normal operation of the propeller feathering mechanism. The aircraft was destroyed by impact forces and an intense post-impact fire and all 47 persons on board were killed.
+Investigation
+An Investigation was carried out by the Pakistan Accident Investigation Board in accordance with ICAO Annex 13 principles. The DFDR and the CVR were recovered from the wreckage and the data from both were successfully downloaded.
+It was noted that the 43 year-old Captain, who was acting as PF, had a total of 11,265 hours flying experience which included 1,216 hours on type, his only multi crew command experience. His other multi-crew experience had all been gained as a First Officer on Fokker F27, Airbus A300/310, Boeing 737 and Boeing 777 aircraft. The 26 year-old First Officer had a total of 570 hours flying experience, all but 201 hours of which were on type. Another 40 year-old First Officer was occupying the flight deck supernumerary crew seat for the sector and he had a total of 1,742 hours flying experience which included 1,416 hours on type. He had previously been a First Officer on DHC6 ‘Twin Otter’ and Fokker F27 aircraft.
+What Happened
+The accident flight was the last in a sequence of six for the aircraft and its crew operating out of the former Islamabad International Airport which has since been replaced by a new-build civil airport. After no abnormalities during the first five sectors, as soon as the aircraft became airborne from Chitral, examination of the DFDR data showed degraded accuracy in the speed governing of the left engine propeller but CVR data indicated that this was not apparent to the flight crew. The flight reached its planned cruise altitude of FL135 but was observed from the recorded data to have stabilised at 186 KCAS rather than the expected 230 KCAS which the Investigation attributed to the degraded performance of the left engine.
+Approximately 27 minutes after takeoff, a series of malfunctions began to affect the left hand engine and its propeller control system. Initially, fault indications for the Propeller Electronic Control (PEC) were annunciated which the pilots initially responded to it by resetting the system which was unsuccessful and then by de-powering it. The recorded propeller speed decreased slowly from the 82% cruise setting to a recorded 62% and 36 minutes after takeoff, the left engine lost power and was shut down. The recorded propeller speed, which had been reducing, then increased to a recorded 102% before reducing to “Non-Computed Data” (NCD). At this point, simulation results indicated that the blade pitch angle would have increased to a position which may have been close to the feather position before propeller speed began to record again as it increased to between 120% and 125% for 40 to 45 seconds - probably due to malfunction of its control mechanism due to oil contamination - before abruptly dropping below the NCD threshold again. At the same time, simulation results suggested that the blade pitch angle may have stabilised at a value different to that which would occur with a normally feathered propeller.
+During this unusual variation of propeller speed, “drastic variations in the aircraft aerodynamic behaviour and sounds” were recorded with the AP initially maintaining directional control. When the left engine power loss occurred, the crew response of increasing power on the right engine was delayed and a 15 second commanded reduction of the power on the right engine power then subsequently occurred whilst the left propeller rpm was in the range of 120% to 125%, both of which contributed to a loss of airspeed. This loss of airspeed continued, aided by another commanded reduction in the no 2 engine power setting and as the AP disengaged, the effect of all this was the aircraft was soon flying close to a stall with the airspeed down to around 120 knots. The aircraft began to roll left and descend and the stick shaker and stick pusher were activated.
+The estimated drag on the left side of the aircraft was calculated to have peaked earlier when the recorded left engine propeller speed had been briefly in the 120% to 125% range and during the subsequent transition of this propeller speed to NCD which abruptly reduced the additional component of the drag (possibly caused due to abnormal behaviour of left propeller) suddenly reduced. The advancing of power on the No 2 Engine coupled with right rudder input intended to counter the change in the asymmetric condition coincided with the last abrupt drop in recorded propeller speed and it was deduced that the aircraft stalled, became inverted and lost over 5000 feet of altitude “as a combined effect of resultant aerodynamic forces”, to end up at just over 8000 feet amsl.
+The crew successfully recovered from this loss of control and it was deduced by means of a “complex series of simulations and assumptions” that the blade pitch of left engine propeller “may have settled at an angle around low pitch in flight while rotating at an estimated speed of 5%”. The available evidence indicated that as a result of this, additional high drag forces were present on the left side of the aircraft from two minutes after the left engine shutdown for the remaining 4 minutes of flight and it was clear that the behaviour of the aircraft had been markedly different from that typical of single engine operation following the in-flight shut down of an engine. It was considered that this situation would have made it impossible to maintain a level flight whilst not precluding lateral control if a controlled descent were to be initiated. At this stage it was also clear that the aircraft performance had been outside the certification performance envelope and it would therefore have been very likely to have been exceptionally difficult for the pilots to understand and hence maintain control of the aircraft. An annotated illustration of the ground track during the final 15 minutes of the flight is provided below.
+The crash site was in a small valley surrounded by terrain with a general elevation of between 3,500 feet and 4000 feet amsl. Because of the speed of impact, most of the wreckage was in pieces and much of it buried in the ground. Signs of a severe post-impact fire were visible on most of the wreckage except a few parts which had been detached on impact. The entire fuselage including the flight deck had completely disintegrated and the parts all burnt beyond recognition.
+
+An annotated ground track of the final 15 minutes of the accident flight. [Reproduced from the Official Report]
+Why It Happened
+Although the Investigation considered that the crew response to the engine malfunction and its aftermath had not been objectively optimal, it was accepted that dealing with the situation which had presented itself would have been challenging for any flight crew. It was particularly noted that the “immense psychological impact” on the flight crew of the inverted roll during the first loss of control would have in itself impaired their capacity to perform normally. Although on recovery from this upset, there had been no further technical degradation and the left propeller blade pitch angle and rotation speed had both stabilised, it was likely that the resulting aerodynamic drag on the left side of the aircraft was likely to have been around seven times greater than that which would arise during flight within the normal single engine flight envelope i.e. with the affected side propeller in the feather position.
+In the light of the above, the principal focus of the Investigation was therefore on establishing how the loss of airworthiness which had presented the flight crew with circumstances which could not be addressed solely by following documented non-normal procedures had arisen.
+A problem with in-service failure of first stage high pressure turbine blades installed in Pratt & Whitney Canada PW127 series engines had been apparent since 2007. Various attempts to resolve this problem were not effective and so on October 2015, the OEM introduced a completely new blade design through SB 21878 and subsequently, six months prior to the investigated accident, amended the Engine Maintenance Manual by specifying replacement criteria for both new and old design blades.
+The aircraft operator’s maintenance records were found to show that the left engine had been removed from another of their ATR 42 aircraft for unscheduled maintenance just under a month before the accident because of rubber FOD stuck inside the engine low pressure impeller. The notified pre-conditions to replace the old design first stage high pressure turbine blades specified in the updated Engine Maintenance Manual were therefore met but were not replaced and the engine was then installed in the left hand position of the accident aircraft three weeks prior to the occurrence of the investigated accident. By the time the accident occurred, the left engine first stage high pressure turbine blades were 97 hours above the new recommended hard life and the failure of one of these blades then “triggered a sequence of technical malfunctions in the event flight”.
+It was shown that a fractured pitot valve pin in the left propeller overspeed governor had been present since it was last accessed during a maintenance activity but absence of proper records meant that it was not possible to establish when or where this maintenance activity had taken place.
+The contamination by debris which was found to be present in the left engine propeller valve module was considered most likely to have been introduced when the propeller system LRUs were not installed on the gearbox during maintenance activity. It was not possible to establish when or where this had occurred because of a lack of records.
+Overall, these airworthiness findings led to the conclusion that they were indicative of “gaps in the monitoring and evaluation in the domain of airworthiness and safety oversight” by the Pakistan CAA which was considered to have been “unable to demonstrate proportionate conclusions, identify trends, and undertake proactive interventions” based on its maintenance oversight activity. It was also considered that the same airworthiness findings were also indicative of the absence in Pakistan International Airlines of an effective mechanism for safety and quality management in maintenance capable of ensuring compliance with required procedures and the meeting of expected safety standards. It was also concluded that the Pakistan International Airlines SMS “did not identify or implement appropriate corrective measures”.
+The Probable Cause of the accident was, in summary, as follows:
+Probable Primary Factors
+
+The dislodging and fracture of one of the first stage power turbine blades of the no 1 engine which triggered a chain of events. This combination of a fractured and dislodged first stage power turbine blade with two latent factors, the broken pin inside the overspeed governor and probable contamination inside the propeller valve module, was unusual. Had any of these factors existed alone, or had they not been coupled with an in-flight shutdown (IFSD) of the engine on the same side (in the manner it was experienced during this event), a different and/or less serious outcome may have resulted.
+The dislodging and fracture of one of the first stage power turbine blades of no 1 engine occurred after the non-compliance with SB 21878 by the aircraft operator’s Engineering Department during unscheduled maintenance performed on the engine in November 2016, in which the first stage power turbine blades had fulfilled the criteria for replacement, but were not replaced.
+The fracture and dislodging of one of these first stage power turbine blades in the no 1 engine, after it had accumulated slightly more than the soft life of 10,000 hours due to a known quality issue.
+
+
+Probable Contributory Factors
+
+A fractured pin and contamination inside the overspeed governor contributed to a complex combination of technical malfunctions. The pin fractured because of improper re-assembly during some unauthorised / un-documented maintenance activity. It was not possible to ascertain exact time and place when and where this improper re-assembly may have occurred.
+Contamination / debris found in the overspeed line of propeller valve module of the no 1 engine probably occurred when the propeller system line replaceable units were not installed on the gearbox after maintenance work and which contributed to the un-feathering of the propeller. It was not possible to ascertain exact time and place when and where this contamination was introduced.
+
+
+In addition, eight Findings made during the Investigation which did not have any direct contribution to the causes of the accident were considered as being of significant importance and were formally documented as Important Observations as follows:
+
+In February 2017, the aircraft operator’s engineering department reviewed the life of the old design first stage power turbine blades and decided to define 10,000 hours as a hard life instead of a soft life irrespective of the conditions given in the AMM. The enabling reasons for this review and details of the participation of CAA Pakistan in this review were not recorded / provided.
+After issue of the first ‘Immediate Safety Recommendation’ made during the course of the Investigation in January 2019, both the aircraft operator’s engineering department and the CAA Pakistan Directorate of Airworthiness maintained their position that SB-21878 was not mandatory contrary to the related revision to the Engine Maintenance Manual which introduced a recommendation to replace the old blades on completion of 10,000 flight hours when the power turbine assembly or the turbine disk is accessed.
+CRM training of flight crew is governed by CAA Pakistan ANO-014-FSXX-2.0 which prescribes that refresher sessions are undertaken every two years. This training was not effective and did not yield the expected improvement in the behaviours / responses of flight crew. Neither aircraft operators nor the CAA Pakistan Directorate of Flight Standards had an effective mechanism to assess the efficacy of CRM training.
+Operational Flight Data Monitoring (OFDM) as established at Pakistan International Airlines is not being effectively utilised and detailed records of operational trends have not been used as input to SOP definition and the flight crew training programme.
+Flight Standards Inspectors from the CAA Pakistan periodically supervise the flight crew simulator sessions of all airlines and the pilots’ response to exposure to different situations is formally evaluated and weak areas are identified. Pakistan International Airlines needs to establish a system of continuous monitoring of regular flight operations to check on the identified weak areas by using suitable tools such as OFDM.
+It was established that metal debris (small particles), probably originating from the No 6 bearing seal of No 1 Engine travelled inside the overspeed governor through contaminated engine oil. The same oil is used by propeller control system components including the overspeed governor, the propeller valve module and the feathering and secondary low speed stop solenoids. The overspeed governor incorporates orifices and polyester screens which protect downstream components from contaminants too large to exit through the Propeller Valve Module (PVM) solenoid hydraulic drain, whereas the protection valve inside the PVM has wire mesh screens.
+As a redundant design, when the Propeller Electronic Control (PEC) is set to ‘on’, it provides a secondary control for feathering by means of its commands to the PVM's Electro Hydraulic Valve. Prior to the in-flight shutdown involved in the investigated accident, the PEC was unpowered and therefore off whereas the normal feathering method using PEC command to the PVM's electro hydraulic valve might have provided an additional margin. However, an acceptable means of incorporating a specific operating procedure change, into the overall fault accommodation philosophy utilised on ATR aircraft systems, has not been identified by ATR.
+The overspeed governor CMM has recently been revised by the OEM and the AAIB understands that these changes essentially encompass all conditions necessary to rule out the possibility of incorrect assembly of the lower body of the overspeed governor and consequent damage to the pin. Furthermore it is now expected that once an overspeed governor has been through any inspection at an MRO facility, it will have no hidden / latent defect.
+
+
+Two Immediate Safety Recommendations were issued during the course of the Investigation on 9 January 2019 as follows:
+
+that Pakistan International Airlines ensures the immediate implementation of the Service Bulletin No 21878 which recommends the introduced a new design of the first stage power turbine blade in ATR 42 aircraft PW127 engines in accordance with corresponding amendments made to the Engine Maintenance Manual in May 2016, approximately six months prior to the accident, which specified replacement criteria for both new and old design blades.
+that the Pakistan CAA evaluates its oversight mechanism for adequacy to discover maintenance lapses, proactively intervene, ascertain shortfall(s) and undertake necessary improvements.
+
+
+A further Immediate Safety Recommendation was issued during the course of the Investigation on 20 August 2019 at the request of Collins Aerospace and the NTSB as follows:
+
+that Pakistan International Airlines recycle all 48 overspeed governors currently held on their inventory through an authorised facility where they can be disassembled, inspected and parts replaced (packing and hardware) followed by re-assembly and functional testing.
+
+
+Thirteen new Safety Recommendations were issued at the conclusion of the Investigation as follows:
+
+that Pakistan International Airlines ensures ensure replacement of all first stage power turbine blades as per the schedule given in the Engine Maintenance Manual Chapter 5 in letter and spirit on the entire fleet of ATR aircraft (in the light of the 9 January 2019 Immediate Safety Recommendation).
+that Pakistan International Airlines ensures the recycling of all 48 overspeed governors currently held through an OEM-certified MRO facility to verify and confirm that no other overspeed governor has any internal pre-existing anomaly (in the light of the 20 August 2019 Immediate Safety Recommendation).
+that Pakistan International Airlines ensures strict compliance with SIL-568F-796 issued by Collins Aerospace which covers the maintenance of proper cleanliness and FOD prevention during engine and propeller storage and maintenance.
+that Pakistan International Airlines undertakes improvements in (and ensures continued compliance with) all the areas identified in the Pratt & Whitney Canada site survey report of their MRO facility established for the maintenance of PW127 series engines.
+that Pakistan International Airlines management identify critical performance indicators in the domains of both airworthiness and flight operations. The data is to be utilised for establishing trends and weak areas, further leading towards proactive corrective measures and corresponding improvements in SOPs and training programmes.
+that Pakistan International Airlines ensures effective utilisation of its OFDM system output and observations noted during simulator check flights and training sessions to identify and maintain records of operational trends. This mechanism may also include continuous monitoring and must enable requisite/proportionate improvements in relevant SOPs and training programmes.
+that Pakistan International Airlines revamps its CRM training system (in the light of purposes and objectives of relevant ICAO publications and applicable SARPs) and evolves a purposeful internal assessment mechanism to gauge the effectiveness of CRM training.
+that the CAA Pakistan (Directorate of Airworthiness, State Safety Programme Management and/or any other relevant departments) identifies relevant performance indicators and establishes a mechanism for monitoring of such indicators (in the light of purposes and objectives of relevant ICAO publications and applicable SARPs). Pratt &Whitney Canada data comparing the reliability of the Pakistan International Airlines ATR fleet engines and details of IFSD instances (as per records held by the airline / Pakistan CAA) can be considered as a reference. The established mechanism must also include relevant management tools to identify trends and recognise weak areas and execute proactive intervention(s), proportionate with the nature and extent of identified concerns.
+that the CAA Pakistan (Directorate of Airworthiness) undertakes necessary improvements (in the light of purposes and objectives of relevant ICAO publications and applicable SARPs) to ensure that appropriate management tools are evolved / adopted and effective procedures are established to identify weak areas related to the compliance with the OEM-specified requirements / procedures etc. Pratt & Whitney Canada PW127 engine shop visits at the Pakistan International Airlines’ MRO for maintenance can be considered as a reference.
+that the CAA Pakistan (Directorate of Flight Standards), keeping in view actions by the accident flight crew regarding the aircraft energy and Automation state and Crew Resource Management during the failure experienced, should consider the following measures:
+
+revamping the CRM training system (in the light of purposes and objectives of relevant ICAO publications and applicable SARPs) and instituting and implementing regular / periodic CRM facilitator interactive training workshops to emphasise the objectives of CRM, sharing of experiences and knowledge from industry accident / incident investigations and evaluating the positive outcomes of CRM.
+evolving a purposeful internal assessment mechanism for aircraft operators which will increase the effectiveness of CRM training by identifying tangible performance indicators and may consider developing a software module which will enable the accumulation of CRM observations in a database which will facilitate analysis.
+instituting and implementing feedback and analysis tools for use by aircraft operators along with the necessary training / guidelines. This may include the use of existing systems of OFDM analysis, hazard reporting, voluntary reporting of events and flight crew self-assessment etc.
+instituting and implementing an elaborate mechanism for aircraft operators for separately recording the weak areas identified during CAA Flight Inspector-supervised flights/simulator tests and continuous monitoring during regular training sessions and Flight Data Monitoring analysis. Effective utilisation should be ensured by establishing detailed records of operational trends and utilising these to inform airline SOPs and training programmes etc.
+
+
+that ATR considers including, as part of their training philosophy, a procedure in the relevant aircraft publications to handle the aircraft in case of severe structural damage (to correlate an aerodynamic degradation similar to the investigated event), so that flight crew are enabled to respond to such situations in a more appropriate manner.
+that the FAA re-evaluates the revised overspeed governor CMM in the light of the Woodward Service Review carried out for the NTSB during this Investigation to ensure that the CMM encompasses all conditions necessary to rule out the possibility of incorrect assembly of the lower body of the overspeed governor and consequent damage to the pin.
+that the FAA / Collins Aerospace consider, in the light of Collins’ SIL-568F-796) reminding maintenance organisations to maintain proper cleanliness and FOD prevention during engine and propeller storage and work, a system review and possible improvements to the oil system filtration inside the propeller control system to enhance existing protections against any debris entering the propeller valve module overspeed governor line (including the feather and secondary low pitch stop solenoids) that could affect safety functions.
+
+The 194 page Final Report of the Investigation was completed on 16 November 2020.
+Related Articles
+
+Safety Oversight
+Loss of Control
+Continuing Airworthiness
+Airworthiness - The System
+Foreign Object Debris (FOD)
+Crew Resource Management (CRM)
+National Reporting Systems
+Flight Data Monitoring (FDM)

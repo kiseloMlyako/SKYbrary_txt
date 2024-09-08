@@ -1,0 +1,141 @@
+Contained Engine Failure
+
+
+
+
+
+
+
+
+
+
+
+  Contained Engine Failure
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Airworthiness 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+This article summarizes circa-2019 discussions of gas turbine engine features designed to successfully contain shrapnel fragments/ejected debris during engine failures. The article complements a 2017 SKYbrary article titled “Uncontained Engine Failure,” incorporating basic introductory content and adding newer material from investigations of relevant events and from observations by subject matter experts. Containment of engine failure receives a high priority from governments and the aviation industry because the alternative — uncontained engine failure — is likely to be extremely violent. The overriding objective is to prevent engine fragments from exiting the engine case at high speeds in uncontrolled directions. That scenario poses extreme potential hazards not only to the aircraft occupants, but to the pressurised aircraft structure, the adjacent engine(s), and the integrity of the flight control system.
+Description
+Containment of engine failure — Historical data confirm that turbine engine failures most often are contained. This term means that even if components disintegrate or separate inside the engine, they either safely remain within the engine case or exit the engine case via the tail pipe as intended by the engineers.
+This is a standard design feature of all turbine engines. The desired outcome is that the failure of a single engine on a multi-engine aircraft will not present an immediate risk to the safety of the occupants or the aircraft. (Nevertheless, sufficiently large pieces of otherwise safely ejected fragments potentially could injure or kill persons on the ground.)
+Engineered Risk Mitigations
+As noted, effectively mitigating the risks of uncontained engine failures has a long history. Such failures can affect both the fan section and the turbine section; therefore, related engine and airframe designs must address both scenarios.
+Scientists and engineers pursue aircraft design features and turbine engine design features partly in response to information sources such as the results of engine-failure investigations (such as the 2019 example below).
+This pursuit of improved containment requires systems safety assessment, common cause analysis, particular risks analysis (e.g., engine “rotor burst”) and zonal analysis (an aspect of assessing effects of uncontained engine failures).
+Often-cited design features that help assure containment are the:
+
+Fan blade containment ring — This structural component provides a measure of protection in the event of fan blade separation;
+Aircraft systems–routing segregation — This engineering practice addresses rotor burst and rapid depressurisation scenarios; and,
+Fuel tank dry bays — Positioning empty sections within the most likely disk-shrapnel trajectories to reduce the risk of aeroplane fire ignition.
+
+Design features also must minimise the hazards to the aeroplane in the event of a fire originating within the turbine engine that burns through the engine case.
+Improving Structural Integrity
+The U.S. National Transportation Safety Board’s (NTSB’s) investigation of an April 2018 engine failure on a Boeing 737, conducted between April 2018 and November 2019, identified significant opportunities for the commercial air transport industry to improve structural integrity for future containment of turbine engine failures.
+The CFM56-7B engine and the Boeing 737-700 aeroplane involved were certificated in December 1996 and December 1997, respectively. NTSB said, “Given the results of CFM’s engine fan-blade-out [FBO event, i.e., the fracture of a fan blade at its root] containment certification tests and Boeing’s subsequent structural analyses of the effects of an FBO event on the airframe, the post-FBO events that occurred during this accident could not have been predicted. … New technologies and analytical methods have been developed that will better predict the interaction of the engine and airframe during an FBO event and the response of the inlet, fan cowl, and associated airplane structures.”
+NTSB explained that the separated fan blade, which impacted the engine fan case and fractured into multiple fragments, caused a rare cascade of damage that exceeded what would be expected from the engine-design risk mitigations.
+“The fan blade fragments that traveled forward of the fan case, along with the displacement wave created by the fan blade’s impact with the fan case, caused damage that compromised the structural integrity of the inlet and caused portions of the inlet to depart from the airplane,” NTSB said. “Portions of the fan cowl departed the airplane because (1) the impact of the separated fan blade with the fan case imparted significant loads into the fan cowl through the radial restraint fitting and (2) the associated stresses in the fan cowl structure exceeded the residual strength of the fan cowl, causing its failure. …"
+“The structural analysis modeling tools that currently exist to analyze [an FBO] event and predict the subsequent engine and airframe damage will allow airplane manufacturers to better understand the interaction of the engine and airframe during an FBO event and the response of the inlet, fan cowl, and associated structures in the airplane’s normal operating envelope."
+“Some of the fan blade fragments traveled forward of the engine and into the inlet. In addition, the fan blade’s impact with the fan case caused the fan case to deform locally over a short period of time. This deformation traveled both around and forward/aft of the fan case. After reaching the airplane structure … the deformation generated large loads that resulted in local damage to the inlet. The forward-traveling fan blade fragments and the deformation compromised the structural integrity of the inlet, causing portions of the inlet to depart the airplane."
+“The impact of the separated fan blade with the fan case also imparted significant loads into the fan cowl (also part of the nacelle) through the radial restraint fitting, which was located at the bottom of the inboard fan cowl. These loads caused cracks to form in the fan cowl skin and frames near the radial restraint fitting. This damage then propagated forward and aft, severing the three latch assemblies that joined the inboard and outboard halves of the fan cowl, which caused large portions of both fan cowl halves to separate and depart the airplane.”
+According to NTSB, key structural integrity–relevant safety issues included these:
+
+“It is important that the interaction of the fan case, radial restraint fitting, and fan cowl during an FBO event be well understood to preclude a failure of the fan cowl structure on Boeing 737NG-series airplanes. … Boeing’s post-accident analyses found that the fan cowl structure is more sensitive and more susceptible to failure when a separated fan blade impacts the fan case near the six o’clock position because of the proximity of this fan blade impact location to the radial restraint fitting (at the bottom of the inboard fan cowl);” [and,]
+There also is a need to “determine whether other airframe/engine combinations have any critical fan blade impact locations and how an impact at those locations could affect nacelle components.”
+
+Related Articles
+
+Uncontained Engine Failure
+Engine Failure: Guidance for Controllers
+
+
+
+
+
+Categories
+
+
+Airworthiness,
+              Flight Technical
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

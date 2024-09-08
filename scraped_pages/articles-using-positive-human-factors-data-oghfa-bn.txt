@@ -1,0 +1,366 @@
+Using “Positive” Human Factors Data (OGHFA BN)
+
+
+
+
+
+
+
+
+
+
+
+  Using “Positive” Human Factors Data (OGHFA BN)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+OGHFA 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ Flight Safety Foundation
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Background
+There is a tendency in aviation to focus on human factors issues only after an accident or incident. As a result, most existing taxonomies of human factors issues contain only “negative” components such as errors or failures to perform. The Operator’s Guide to Human Factors in Aviation (OGHFA) is focused on the proactive use of human factors principles to prevent accidents and incidents and to increase operational efficiency. This briefing note discusses how the existing taxonomies of human factors can be altered or supplemented to encompass not only information on accident and incident causes but also to include “positive” human factors that have avoided problems or lessened their impact.
+International Civil Aviation Organization (ICAO) Annex 13 defines a serious incident as “an incident involving circumstances indicating that an accident nearly occurred.” A note to this definition adds: “The difference between an accident and a serious incident lies only in the result.”
+From a human factors viewpoint, it is also worth exploring whether a conscious, positive action or decision contributed to any improved outcome. If a favorable outcome appears to be merely a matter of chance — that is, no human positive intervention was identified or likely — then the occurrence should be investigated in more depth to obtain an understanding of its causes. There was no positive factor identified. On the other hand, if a positive act or intervention can be identified and classified according to an appropriate positive taxonomy, the resulting data can serve as an important lesson learned for anyone facing the same situation in the future.
+Introduction
+A taxonomy is a classification of items into specially named groups based either on shared characteristics or on established relationships as inferred from experience. Taxonomies are useful in understanding how diverse elements, such as the causes of accidents or incidents, relate to each other. Databases structured with appropriate taxonomies make it possible to assess how frequently each causal element occurs.
+The current international standard for aviation accident/incident databases is the ICAO Accident/Incident Data Reporting System (ADREP) 2000 taxonomy. It encompasses a causal model built on the human factors SHELL model. Its factors can be articulated at active and systemic levels in a dynamic approach. The ADREP 2000 taxonomy enables an analyst to break down an occurrence into a list of events, each of which is described by descriptive and explanatory factors. In the structure shown in Figure 1, modifiers are available for both descriptive and explanatory factors.
+[632 modifiers are available in ADREP 2000. They underscore deficiencies by using negative words, such as:
+
+NOT … (e.g., not aborted, not activated…) or
+UN… (e.g., unable to reset, unacceptable, unclear…) or
+TOO… (e.g., too early, too close, too high…) or
+OVER… or UNDER… (e.g., overestimated or underestimated…)]
+
+
+Figure 1: Questions and Levels of Analysis Based on ICAO’s Breakdown of an Occurrence
+
+Now, only failures (active or latent) are encoded by the ADREP taxonomy. The purpose of the coding is to keep track of the frequency (recurrence) of these encoded factors. By comparing frequency with an assessment of severity, risk levels of various undesirable events can be defined. If the factor categories contained both negative and positive modifiers, the data would be inappropriate for calculating risk factors because the frequency of occurrence of each factor would mix both causes of and prevention of the resulting problem. By definition, positive factors cannot be causal in accidents or incidents. For example, if the explanatory factor “human interface-standard operating procedures” encoded with a positive modifier such as “appropriate” were to be aggregated together with the causal factor of “inappropriate human interface-standard operating procedures,” the result would be an erroneous inflation of the causal frequency of this factor.
+[In ADREP 2000, the code of this factor is: 401010000. Its definition is: “Factors related to the interface between liveware [human] and Standard Operating Procedures, e.g. the procedure is inappropriate or the manner in which the procedures are written down is ambiguous.”]
+Encoding only negative factors in the ADREP 2000 taxonomy ensures that the resulting database can be used to assess the risk associated with human factors causal elements in accidents and incidents. Unfortunately, without the inclusion of positive factors, the current framework makes it difficult to identify actions or situations that were preventive rather than causal (e.g., stopped an incident from becoming an accident). Therefore, it would appear beneficial to develop dedicated taxonomy entries for positive factors. The data to form these factors would necessarily come from the operating experience of the people in the system.
+The causal structure found in the events and factors section of ADREP 2000 corresponds to analyzed data and seeks to provide answers to the questions “how” and “why.” It complements factual information (e.g., “who,” “where,” “when,” “what”). Technical safety barriers or nets can already be recorded in the ADREP 2000 taxonomy[1], as implemented in the European Coordination Centre for Aviation Incident Reporting Systems (ECCAIRS).
+[So far, only technical (“hard”) barriers can be recorded in the ADREP taxonomy, throughout ECCAIRS (European Co-ordination Centre for Aviation Incident Reporting Systems). There are dedicated fields:- in the Controlled Flight Into Terrain (CFIT) section of the “Aircraft” topic for: GPWS/TAWS/GPWS/TAWS (section 440 in ECCAIRS): Ground Proximity Warning System / Terrain Awareness and Warning System, - in the “ATS Unit” topic for: ATM safety nets (section 870) that can flag: Short Term Conflict Alert (STCA) (attribute 380): Short Term Conflict Alert, Minimum Safe Altitude Warning (MSAW) (attribute 370): Minimum Safe Altitude Warning System, APWI (attribute 364): Area Proximity Warning Information, Advanced Surface Movement Guidance and Control System (attribute 367): Aerodrome Surface Movement Guidance Control System, - in the “Separation topic” for: Airborne Collision Avoidance System (ACAS)/Airborne Collision Avoidance System (ACAS) alerts (attribute 563): Airborne Collision Avoidance System / Traffic alert and Collision Avoidance System. Remark: The presence of these systems, the failure of their expected function, the reaction of the front-line operators characterizing the coupling of the human system can be captured in these fields. Albeit already embedded in the taxonomy, they are not often used.]
+When analyzing how human defenses may have prevented or lessened the severity of incidents, it is not currently possible to keep track of positive factors such as a successful third party intervention or the correct and timely application of the relevant procedure. If these successful human interventions were recorded, the resulting database would serve a proactive role in accident and incident prevention. This would be in addition to the current reactive paradigm in which data are used to define a defense (a new system or regulation) after an accident. The exchange of these proactive safety data within and between the different organizations involved in safety would be a valuable prevention tool.
+Tracking "Soft" Defenses
+Rules and procedures are part of the defenses to prevent undesirable occurrences. Compared to “hard” defenses (e.g., fail-safe designs, engineered safety features, mechanical barriers), procedures, regulations and safety instructions are “soft” defenses that depend on human compliance and therefore tend to fail more easily (Reason, Parker and Free, 1994). Many efforts have been made to study and classify the failures of these human (soft) defenses. Little, however, has been done to structure data on the recovery from dangerous situations. Hence, the need to develop a positive taxonomy for incident analysis.
+Benner and Rimson[2] discuss some of the characteristics of a positive safety-related taxonomy. Table 1 summarizes some of their key points.
+
+Table 1: Key Attributes of a “Positive” Safety Taxonomy[2]
+
+
+1. Adjust the "Opportunity" paradigm from "Post-accident" to "Pre-accident," (i.e., redefine "accident" and "incident" from mere outcome attributes to functional process descriptors).
+"An incident is an incipient accident which failed to attain its full potential because of successful intervention by persons, things or fortuity within the system."
+Redirect data acquisition concentration from accidents (which identify "causes" or operational failures) to incidents (which identify both operational failures and successful recoveries from them).
+
+
+
+2. Adjust the "Attitude" paradigm from negative: "What went wrong to cause the accident?" to positive: "What went right to prevent it?"
+Acknowledge both the ubiquity of human error, and the human capability to recover from errors. Redirect resources toward successful intervention processes that thwart accident progression, thereby focusing on adaptation to error rather than error perpetuation.
+Expand the scope of investigations to include positive factors. Encourage witnesses to provide accurate data for constructing effective prevention strategies, in contrast to defensive "CYA" (defensive) strategies fostered by current judgmental perspectives which emphasize failures and errors.
+
+
+
+
+Taxonomies Integrating Positive Factors
+Various reviews of human factor taxonomies[3][4][5] mention proactive initiatives with ad-hoc taxonomies on human factors but do not include specific entries for positive factors. For example, the human factors analysis and classification system (HFACS)[6] and the line operations safety audit (LOSA)[7] use databases that aim at tracking systemic deficiencies without a coded structure for recovery (positive) factors. ICAO LOSA-implementation documentation mentions that positive data are captured by “written narratives describing what the crew did well” (ICAO, 2002). These narratives are unstructured and cumbersome to analyze.
+The U.S. National Aeronautics and Space Administration Aviation Safety Reporting System (ASRS) database supports specific products and research addressing a variety of aviation safety issues. The ASRS database includes narratives that are an exceptionally rich source of information for policy development and human factors research. The database also contains coded information from the original report, which is used for data retrieval and statistical analyses (NASA, 2006).
+ASRS coding forms support the recording of “detection and resolutory actions” that can be linked to some occurrences recorded in ASRS. The list contains 34 possible items describing at various levels (flight crew, controller, aircraft or other) an action or an event that was involved in the resolution of an adverse situation. This is an excellent example of positive taxonomy categories.
+The Global Aviation Information Network (GAIN) has compiled a list of fact sheets on reporting systems and analytical tools. Of the 38 fact sheets on current and planned government safety information collection and sharing programs across the world, only the fact sheet from the French voluntary and confidential reporting system (REC) explicitly mentions dedicated fields for positive factors:
+
+
+
+The reports are stored in a database that facilitates the search of events for future safety studies. Specific fields are found, like:
+
+a simple description of the event itself,
+causes,
+safety barriers that prevented the accident from occurring,
+safety issues linked to the event.
+
+
+
+
+
+REC was created in 2000 by the Bureau d’Enquêtes et d’Analyses (BEA, 2002). It focuses on general aviation (GA) to complement the reporting schemes that already existed for French airlines as required by JAR-OPS 1.037 or in air traffic services[8]. The analyzed reports present high quality information on the behavior and decision-making processes of front-line actors. These human factors characteristics are difficult to highlight in traditional accident investigations, especially when there are fatal injuries or liability issues. In addition to traditional fields, the REC database includes a dedicated field to encode the human factor elements that acted to prevent an occurrence from becoming an accident.
+[Paragraphs 1.037 of JAR OPS 1 and the French regulation of 12 May 1997 have the same title, “Accident Prevention and Flight Safety Program,” but their content is slightly different. Paragraph 1.037 of the French regulation states: “An operator shall establish an accident prevention and flight safety program which includes an analysis of flight safety or flight parameter recording reports.” This requirement was put in place in response to recommendations after the accident that occurred on 20 January 1992 near Strasbourg, France. Flight data monitoring (FDM) became mandatory in France in 2000.]
+Identification of the Need for Positive Factors
+A potential avenue for aviation safety improvements lies in recording and disseminating decisions that have proven to be productive during the course of a potentially negative occurrence. One of the justifications for a positive taxonomy is that it provides the ability to learn from successful solutions and strategies applied by others in circumstances you may encounter.
+The proposed approach to a positive taxonomy encompassing the types of information contained in the OGHFA emphasizes the positive aspects of front-line operator decisions. It underlines successful actions and opportune judgments. The safety message inherent in compiled positive information complements the recurrent warnings aviation personnel receive about problems caused by breaches such as migrating practices, errors and threats. It places increased emphasis on positive aspects such as: "In adverse circumstances, the human can innovate, make appropriate decisions and therefore provide model solutions for unusual situations to other actors that may face similar situations.”
+A List of Positive Factors
+The REC database was created with the intention of integrating results from working groups such as the ADREP 2000 study group (Corrie, 1995). It also took into consideration studies from:
+
+The French Aeronautics and Space Research Center (ONERA, 1998) on the development of a reporting system and safety analysis tools in GA
+The French Civil Aviation Authority (DGAC, 1999) on the development of a methodology for Operational Incident Reporting and Analysis Systems (OIRAS).
+
+The list of keywords in REC was created by using adaptive keywords:
+
+Source: DGAC, 1999.
+
+
+Adaptive keywords
+
+Recognizing the evolutionary nature of an OIRAS as an organizational learning tool, certain keyword groups will be 'living lists' that will expand as more data are received from operators and as analysts challenge and expand their own thinking.
+
+
+
+
+
+For each occurrence, positive factors were encoded such as those that:
+
+Prevented an accident
+Mitigated the consequences of the incident
+Ultimately permitted the actor to restore normalcy to the situation
+
+In a consistent manner, a list was empirically generated with known recovery strategies, as well as known protections and defenses against dangerous outcomes of failures. They all resulted from the analysis of voluntary reports with a strong emphasis on human factors. The resulting list of 17 numbered factors shown in Table 2 is revisited and updated on a regular basis. Figure 2 illustrates their frequency in the REC database.
+
+Table 2: List of Factors From REC Database
+
+
+Number
+Title
+Definition
+
+
+
+
+1
+Assistance of an instructor/supervisor
+The instructor or supervisor assists in giving the trainee a hint or the solution. This can also be done through radio communications when they are not physically in the same place.
+
+
+2
+Sound reasoning
+Implementation of empirical sound reasoning, not necessarily based on an aeronautical context or on specific instructions. An example of such common sense could be to call on the previous frequency when confronted with radio problems.
+
+
+3
+Use of training instructions/SOPs
+In unusual circumstances, the front-line operator acts in an autonomous way and follows the SOPs learned during his/her initial or recurrent training.
+
+
+4
+Decision to go around
+The reporter decided to go around and safely landed.
+
+
+5
+Decision to land as precaution
+This factor includes decisions to land as a precaution outside any airport boundaries with or without emergency conditions. An example would be an interruption of the flight in relation to an adverse environment.
+
+
+6
+Decision to land on an unexpected runway
+This factor includes decisions to execute landings on an unexpected surface, such as a secondary runway, a grass runway or a surface within the airport boundaries.
+
+
+7
+Air traffic intervention
+Information coming from an ATS unit (control, AFIS, etc.) obtained by radio and having a safety benefit for the rest of the flight.
+
+
+8
+Decision to reject takeoff
+This factor includes decisions to reject a takeoff before or after starting the takeoff roll or when a flight was cancelled, postponed or delayed in order to correct a situation for a higher safety level.
+
+
+9
+Decision to return to departing point
+This factor includes the decisions to return to the departure or to alternate airports after a flight interruption (often during initial climb).
+
+
+10
+Visual detection
+External monitoring enabled the avoidance of another aircraft, an obstacle, high terrain, clouds, etc.
+
+
+11
+Third party intervention
+A person outside to the aircraft spontaneously helps the pilot to act or make a decision that enables a safe flight continuation.
+
+
+12
+Passenger intervention
+A person on board, not belonging to the flight crew, spontaneously helps a pilot to act or make a decision that enables a safe flight continuation.
+
+
+13
+Accurate usage of documentation
+The reading and, especially, the interpretation of documents (like charts and maps) allows the pilot to enhance situational awareness.
+
+
+14
+Avoidance manoeuvre
+Visual detection and avoidance of another aircraft on the ground or in flight. For example, this category also encompasses decisions to execute a taxiway excursion to avoid other aircraft.
+
+
+15
+Environment observation
+The observation or interpretation of the environment (e.g., landmarks) helps the front-line operator to enhance his situation awareness.
+
+
+16
+Engine failure anticipation
+The pilot plans and acts in order to land safely in case of an engine failure, especially on take-off. By extension, this factor is selected to include the risk of an engine failure in flight (e.g. non-certified aircraft in GA) or on approach with a troublesome engine.
+
+
+17
+Radio procedures
+Transmission of radio messages that enabled the breaking of a causal chain that could have possibly have led to an accident, with or without the regulatory phraseology.
+
+
+
+
+Figure 2: Distribution of Positive Factors in the REC Database (2001-2005)
+
+A single occurrence can have several of these factors that worked together to complement each other. The few occurrences that are only descriptive (i.e., with no explanatory factors or causes) do not generally include such a positive factor. Between 2000 and May 2005, 904 positive factors were recorded in a consistent manner. Eighty-one percent of the occurrences include one or more recovery factors. Priority was placed on data quality, rather than quantity, in order to produce a comprehensive and consistent dataset for analyses. This is supportive of the notion that ideas to improve human performance and prevent accidents can come from individual occurrences without having to wait for a "sufficient" sample of incidents to occur[9].
+The distribution in Figure 2 illustrates predictable results. It shows that training instructions are probably the most efficient way to prevent accidents in GA. The introduction in ICAO’s documentation on LOSA also highlights that “training interventions can be reshaped and reinforced based on successful performance, that is to say, positive feedback” (ICAO, 2002). Thorough visual detection is also a frequent safety net in the prevention of collisions. Some factors are related to outside interventions, and others highlight the key role of ATC and the decision-making process.
+Learning from General Aviation
+The REC database contains reports from GA and focuses on decision making. From a human factors standpoint, commercial aviation can learn much from GA, especially when it comes to a more in-depth analysis of the decision-making process. This is because:
+
+In GA, especially in visual flight rules (VFR) operations, the recurrent training requirements and procedures (i.e., the “soft” defenses) are minimal (BEA, 2004). Therefore, when a situation becomes increasingly difficult for a pilot (e.g., adverse weather), he or she cannot fall back upon detailed and specific procedures to make the appropriate decision for flight safety. Fewer procedures also imply a less pervasive operational structure (e.g., no flight operations department) to support and help the front-line actor. The absence of an organizational structure may also mean reduced opportunities to benefit from the experience of others in similar situations.
+The spectrum of decision possibilities is much broader in GA than in commercial aviation where crews are operating within better defined boundaries and measurable thresholds. That is why the REC system decided to tackle voluntary GA reports with emphasis on decision making.
+The analysis of each decision undertaken during the process of a report was based on safety principles and not on strict application of rules and procedures. The objective was to learn as much as possible about why the occurrence happened. Regulations aim to define the limits of the expected safe range of actions. Although comprehensive, regulations cannot possibly foresee the entire spectrum of decision-making situations a pilot may face. GA judgments and decisions are made along a risk continuum without many defined benchmarks. Commercial aviation decision making is overlaid by regulations that often define precisely what is allowed and what is forbidden (see Figure 3).
+
+
+Figure 3: Judgment and Regulations (BEA, 2003)
+The REC system is dedicated to collecting and disseminating this type of information to pilots and others in the aviation system. The REC approach ensures that the context of the reported decision making and actions is adequately identified, documented and reported (Benner and Rimson, 1996). It aims to avoid the retrospective fallacy that can be encountered in some investigations when the actors cannot describe their “stream of decisions” (Vaughan, 1996).
+Many airline pilots undertook their basic training in GA. In some public transport accident investigations, deficiencies in initial training were identified as contributing factors. Conversely, the judgment and decision making that are core parts of the training of a VFR pilot are generally not revisited in the program for commercial qualification and instrument or type ratings and can be vital to saving the day. For example, the final report of an incident in which a pilot had to perform a “dead-stick” landing in a commercial aircraft stresses: “Although he [the pilot] had never received formal training on gliding approaches, he had experienced doing power-off approaches to landing in a number of aircraft types that he had flown.”
+Using a Positive Taxonomy
+Developing a positive taxonomy is useless if safety investigators and analysts do not contribute to it. Assessing positive factors in addition to looking for the causal elements of a situation can influence the way an occurrence, particularly an incident that did not turn into an accident, is considered. Relevant questions that are typically not included when only looking for causes include:
+
+Why did this incident not turn into an accident?
+Was there equipment, a decision or a procedure that prevented an accident from occurring?
+In case of an accident, could it have been more serious?
+What prevented it from resulting in more serious damage or injuries?
+Were the results of this occurrence simply a matter of chance or did some prior factor predispose a more positive outcome?
+Were there any positive human factors that mediated the outcome?
+
+Key Points
+
+A potential avenue for aviation safety improvement lies in recording and disseminating decisions that have proven to be efficient in breaking a chain of events that would have led to an accident. Such a positive human factors taxonomy supports learning from successful solutions and strategies applied by others.
+A positive human factors taxonomy must be as simple as possible with prescribed entries in a database system and a limited list of factors to be coded.
+Pilots and other front-line operators are the sources for the positive information. It is important for them to view an incident not only in terms of its causes but also with respect to what prevented a more serious outcome.
+Emphasis should be put on fine-tuning the definitions within a positive human factors taxonomy in order to achieve a common understanding of their meaning and goals.
+There is much to be learned from GA decision making because it is relatively unconstrained.
+The taxonomy development process should give priority to having usable and unambiguous definitions in order to support a taxonomy that would easily and consistently cope with a wide variety of situations.
+The availability of a positive taxonomy would also produce a “safety exchange language” that would facilitate aviation information exchange.
+The absence of any positive human factor in an occurrence could help classify the seriousness of the event and the extent to which its causal factors must be examined.
+
+References
+
+^ Menzel, R. (2004). “ICAO Safety Database Strengthened by Introduction of New Software.” ICAO Journal, 59(4), 19-26.
+^ a b Benner L.; Rimson, I.J. (1995). “Paradigm Shifts Toward Exploiting Successful Human Factors Intervention Strategies to Prevent Aircraft Accidents.” Position paper prepared for the U.S. Federal Aviation Administration (FAA) Office of System Safety Workshop on Flight Crew Accident and Incident Human Factors, McLean, Virginia, USA, June 21-23, 1995.
+^ FAA (1995). Office of System Safety Proceedings of the Workshop on Flight Crew Accident and Incident Human Factors, June 21-23, 1995. Washington, D.C.
+^ Beaubien, J.M.; Baker, D.P. (2002). “A Review of Selected Aviation Human Factors Taxonomies, Accident/Incident Reporting Systems, and Data Reporting Tools.” International Journal of Applied Aviation Studies, 2(2), 11-36.
+^ EATMP Human Factors and Manpower Unit (DIS/HUM) (2002). Technical Review of Human Performance Models and Taxonomies of Human Error in ATM (HERA). HRS/HSP-002-REP-01. Ed. 1.0. Brussels: Eurocontrol.
+^ Wiegmann, D.A.; Shappell, S.A. (2001). „Applying the Human Factors Analysis and Classification System (HFACS) to the Analysis of Commercial Aviation Accident Data.” In, R.J. Jensen (Ed) Proceedings of the 11th International Symposium on Aviation Psychology. Columbus, Ohio, USA: Ohio State University Press.
+^ Klinect, J. (2002). “LOSA Searches for Operational Weaknesses While Highlighting Systemic Strengths.” ICAO Journal, 57(4), 8-9.
+^ Boudou, B.; Ferrante, O. (2002). Genesis of a Feedback System Based on Human Factors for the Prevention of Accidents in General Aviation. In C. Johnson (Ed) Proceedings of the Workshop on the Investigation and Reporting of Incidents and Accidents (IRIA 2002), 204-214, Glasgow, United Kingdom.
+^ Benner, L.; Rimson, I.J. (1996). “Preventing Flight Crew Errors: Primary Data Must Drive Analyses,” Second Workshop on Flight Crew Accident and Incident Human Factors, June 12-14, 1996. FAA Office of System Safety.
+
+Additional Reading Material
+
+French Bureau Enquêtes Accidents (BEA). (2005). REC Info 2/2005. Le Bourget, France.
+BEA (2004). REC Info 2/2004.
+BEA (2003). REC Info 2/2003.
+French Direction Générale de l’Aviation Civile (DGAC) (1999). Final Report on Development of a Methodology for Operational Incident Reporting and Analysis Systems. Authors: Paries, J.; Merritt, A. ; Dédale Schmidlin, M. ; Speyer, J.J.
+
+
+Global Aviation Information Network (GAIN) (2004). Fact Sheet on the Confidential Event Reporting System, BEA France. 28-29. In, Updated List of Major Current or Planned Government Aviation Safety Information Collection Programs. September 2004.
+Government of Portugal (2004). Accident Investigation Final Report — All Engines-out Landing Due to Fuel Exhaustion — Air Transat Airbus A330-243 marks C-GITS, Lajes, Azores, Portugal, 24 August 2001. Ref: 22 /ACCID/GPIAA/2001.
+ICAO (2002). Line Operations Safety Audit (LOSA). Doc 9803-AN/761 (First Edition). Montreal, Canada.
+
+
+NASA (2006). Aviation Safety Reporting System Program Overview.
+O’Leary, M.J. (2003). “Should Reporting Programmes Talk to Each Other?” In, Proceedings of the Second Workshop on the Investigation and Reporting of Incidents and Accidents, IRIA 2003, 165-174. NASA Langley Research Center.
+ONERA (1998). Analyse Globale de Sécurité en Aviation Générale — Documentation Technique de l’Outil d’Analyse SIRIUS. Volume 2. Report no. RT 1/3379 DPRSY. Authors: Hermetz, J. ; Le Tallec ; Aumasson, C. Office National d'Etudes et Recherches Aérospatiales.
+Reason, James; Parker, Dianne; Free, Rebecca. Bending the Rules: The Varieties, Origins and Management of Safety Violations. Department of Psychology, University of Manchester, England. September, 1994.
+Vaughan, D. (1996). The Challenger Launch Decision. University of Chicago Press, Chicago, 1996, 243-247.
+
+
+
+
+
+Categories
+
+
+OGHFA,
+              Informational Influences,
+              Human Factors
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

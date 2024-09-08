@@ -1,0 +1,122 @@
+Rockwell Collins TPR-901 Transponder
+
+
+
+
+
+
+
+
+
+
+
+  Rockwell Collins TPR-901 Transponder
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Warning Message
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+A recent incident has highlighted the need for Air Traffic Controllers to remain vigilant to the possible consequences of aircraft transmitting an erroneous Mode A code (‘0607’), despite the threat of such occurrences continuing to decrease as more aircraft are modified.
+A conflict between two aircraft was aggravated because one of the aircraft involved transmitted an erroneous Mode A code ‘0607’, with no Mode C information, which caused the ATC STCA (STCA) system to become inhibited. The lack of mode C information does not appear to be related to the ‘0607’ problem and is currently under investigation. The conflict was resolved by Airborne Collision Avoidance System (ACAS).
+This Safety Warning Message updates and reinforces Safety Warning Message “Update on Rectification Programme for Rockwell Collins TPR-901 Transponder Issue (Erroneous ‘0607’ Squawk) dated 08/03/2006
+Transponder Modification Programme
+The transponder rectification programme managed by Rockwell Collins remains firmly on schedule. On 6th June 2006, it was reported that 41.4% of all transponders involved (1192 of 2876 units) had been modified, and that the rectification programme completion target date remained 21st November 2006. Progress of the field modification programme continues to be closely monitored by European Aviation Safety Agency (EASA) and the EUROCONTROL Mode S & ACAS Programme.
+Recommendations for Air Traffic Controllers
+The Recommendations for Air Traffic Controllers published in the previous Safety Warning Message on this subject (dated 08/03/2006) remain valid and are reproduced below. It is emphasised, however, that this list of actions is by no means exhaustive and that individual actions may not be appropriate to every ATC environment. In the event that an aircraft is affected with the erroneous ‘0607’ code issue, controllers are recommended to consider the following:
+
+Thoroughly and systematically check all flight progress displays/strips for possible conflictions prior to issuing instructions.
+If possible, annotate the affected aircraft’s flight progress display/strip in some fashion for the duration of time that it is being controlled, to act as an aide memoir and help the conflict checking process.
+Assess the potential effect on controller workload and conflict detection in deciding when to split ATC sectors.
+Advise subsequent controllers of any persistent observations of the erroneous ‘0607’ code issue involving specific aircraft.
+File an appropriate report should any unusual performance occur.
+
+Disclaimer
+© European Organisation for Safety of Air Navigation (EUROCONTROL) June 2006. This alert is published by EUROCONTROL for information purposes. It may be copied in whole or in part, provided that EUROCONTROL is mentioned as the source and to the extent justified by the non-commercial use (not for sale). The information in this document may not be modified without prior written permission from EUROCONTROL. The use of the document is at the user’s sole risk and responsibility. EUROCONTROL expressly disclaim any and all warranties with respect to any content within the alert, express or implied.
+
+
+
+
+Categories
+
+
+Safety Warning Message
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

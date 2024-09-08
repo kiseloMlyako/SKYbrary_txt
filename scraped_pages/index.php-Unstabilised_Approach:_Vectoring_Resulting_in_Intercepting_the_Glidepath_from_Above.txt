@@ -1,0 +1,98 @@
+Unstabilised Approach: Vectoring Resulting in Intercepting the Glidepath from Above
+
+
+
+
+
+
+
+
+
+
+
+  Unstabilised Approach: Vectoring Resulting in Intercepting the Glidepath from Above
+
+
+
+
+
+
+
+
+
+Toolkit Navigation
+
+
+Stabilised Approach Awareness Toolkit for ATC
+
+
+
+
+
+
+Contribution of Unstabilised Approaches to Aircraft Accidents and Incidents
+Stabilised Approach
+Flight Crew Workload in Preparation for the Execution of an Approach
+Unstabilised Approach: Delayed Descent Instructions
+Unstabilised Approach: Inappropriate ATC Speed Instructions
+Unstabilised Approach: Lack of or Wrong Information About Distance to Touchdown
+Unstabilised Approach: Landing Distance and Final Speed Calculations
+Unstabilised Approach: Late Runway or Approach Type Change
+Unstabilised Approach: Vectoring into Short Final Distances
+Unstabilised Approach: Vectoring Resulting in Intercepting the Glidepath from Above
+Unstabilised Approach: Vectoring to Runways with Significant Tailwind Component
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Failure to provide radar vectoring which meets the provisions of ICAO PANS-ATM (Doc 4444) in respect of facilitating ILS GS capture from below and from level flight pre-established on the corresponding final:
+The final vector shall enable the aircraft to be established in level flight on the final approach track prior to intercepting the specified or nominal glide path if an MLS, Instrument Landing System (ILS) or radar approach is to be made.”
+Description
+Some autopilots, do not allow for G/S capture prior to LOC capture. This issue is also linked to the capability (or lack of) of modern jetliners to go down (descend) while slowing down
+The following two examples show a reference scenario during which an aircraft is correctly vectored for a precision approach and a scenario where unrealistic vectoring results in the aircraft either performing a missed approach and/or becoming unstable.
+In the correctly executed scenario the aircraft at Point A is vectored in for an approach, and is likely to intercept the localiser before the glide-slope, or at least at the same time as the glide slope (Point B). In this case the aircraft will intercept the glide-slope from below, which is preferred. Provided that the aircraft has been cleared for the approach it can safely descend on the glide-slope as it has both lateral and vertical guidance. Basic aircraft instruments are shown, with the vertical bar on the dial showing the localiser, and the horizontal bar showing the glide-slope.
+
+Vectoring scenario 1
+The scenario shown in the next figure depicts the use of vectors which result in the aircraft becoming unstable causing it to either execute a missed approach or incorrectly continue the approach. The aircraft at Point D has been cut in short by ATC and has not yet arrived at the localiser. However it is picking up the glide-slope signal as it is within range. As the aircraft moves closer to the runway the glide slope indicator tells it to descend in accordance with the glide slope even if the aircraft has not arrived at the localiser and therefore has no lateral guidance. The pilot must ignore this indication as descending would be unsafe. Therefore the aircraft continues in level flight.
+
+Vectoring scenario 2
+As the aircraft reaches Point E it finally picks up the localiser and now has both lateral and vertical guidance, but is at this point very high on the glide slope and is unable to descend sufficiently to regain the glide-slope. As the aircraft is already descending and probably also decelerating, increasing the rate of descent is difficult. The aircraft should therefore execute a missed approach.
+Effect of Action on Flight Crew and Their Potential Response
+Attempting ILS GS capture from above is contrary to most Operators’ SOPs and crew training is not provided for it. Attempted capture from this position is conducive to an unstabilised or late stabilised approach which may culminate in a go around.
+Radar vectoring which leads to simultaneous capture of the ILS LLZ and GS is usually manageable but may also lead to flight path management problems depending on aircraft type, avionics fit and whether a coupled or manual approach is being flown.
+ATC Options to Avoid the Action
+
+Ensure track miles are adequate to avoid this practice and adjust them at any time they are judged inadequate.
+Use reasonable speed control below FL100 to improve flight path predictability.
+Take proper account of any strong upper winds and their likely effect on track miles / ground speed.
+
+ATC Options to Manage the Consequences
+
+Be prepared to recognise that an unstable approach may result from an attempt to capture the ILS GS from above and be prepared to proactively position the aircraft under radar vectors back onto finals at an early stage.
+Do not offer or instruct a visual manoeuvring on finals as a solution to problems which may have arisen.
+Be prepared to instruct a go around at any time if spacing or any other operational safety consideration appears to demand this.
+
+Further Reading
+
+Stabilised Approach
+Runway Overrun After Unstabilised Approach (OGHFA SE)
+Non-stabilized Approach After ATC-Requested Runway Change (OGHFA SE)
+DGAC (France) Publications on Non-Stabilised Approaches
+CFIT Precursors and Defences
+Continuous Descent Final Approach (CDFA)
+
+CANSO
+
+Runway Excursions - An ATC Perspective on Unstable Approaches
+Avoiding Unstable Approaches - Important Tips for ATCOs
+Unstable Approaches – ATC Considerations, January 2011

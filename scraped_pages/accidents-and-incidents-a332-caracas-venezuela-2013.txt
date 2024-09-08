@@ -1,0 +1,331 @@
+A332, Caracas Venezuela, 2013
+
+
+
+
+
+
+
+
+
+
+
+  A332, Caracas Venezuela, 2013
+
+
+
+
+
+
+
+
+
+Summary
+
+On 13 April 2013, an Air France Airbus A330-200 was damaged during a hard (2.74 G) landing at Caracas after the aircraft commander continued despite the aircraft becoming unstabilised below 500 feet agl with an EGPWS ‘SINK RATE’ activation beginning in the flare. Following a superficial inspection, maintenance personnel determined that no action was required and released the aircraft to service. After take off, it was impossible to retract the landing gear and the aircraft returned. Considerable damage from the earlier landing was then found to both fuselage and landing gear which had rendered the aircraft unfit to fly.
+
+
+
+
+Event Details
+
+When
+
+13/04/2013
+
+
+
+Event Type
+
+
+AW,
+              HF,
+              LOC
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS A-330-200
+
+
+
+
+
+
+
+
+
+Operator
+
+Air France
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Paris/Charles de Gaulle Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Simón Bolívar International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Landing
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+SVMI
+
+
+
+
+General
+
+Tag(s)
+
+
+              Approach not stabilised,
+              Extra flight crew (no training),
+              Inadequate Airworthiness Procedures,
+              Approach Unstabilised after Gate-no GA
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Ineffective Monitoring,
+              Maintenance Visual Inspection,
+              Plan Continuation Bias,
+              Procedural non compliance,
+              Ineffective Monitoring - PIC as PF
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Hard landing
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Landing Gear
+          
+
+
+
+Contributor(s)
+
+
+              Inadequate Maintenance Inspection,
+              Component Fault in service,
+              Dispatch of Unserviceable Aircraft
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Aircraft damage
+
+Major
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Airworthiness
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 13 April 2013, an Airbus A330-200 (F-GZCB) being operated by Air France on a scheduled passenger flight from Paris CDG to Caracas with an augmented crew present in the flight deck became unstable below 500 feet agl on an Instrument Landing System (ILS) approach completed in day Visual Meteorological Conditions (VMC) but continued to a hard landing. Following an inspection, maintenance personnel determined that no action was required and released the aircraft to service. Later, after take off for Paris CDG, the (different) crew found that it was impossible to retract the landing gear and the aircraft returned to Caracas.
+Investigation
+An Investigation was carried out by the French Bureau d'Enquêtes et d'Analyses (BEA) which was informed by recorded flight data from the QAR and interviews. The relevant Cockpit Voice Recorder (CVR) data was overwritten.
+In respect of the damage sustained to the aircraft as a result of the hard landing, it was noted that although the aircraft, with the aircraft commander as PF, had been stabilised at 500 feet agl, this status had then been lost without it resulting in the go around required in accordance with SOPs. The surface wind reported for the approach to runway 10 was from 060° at 10 knots with “windshear at one mile”. Shortly after intercepting the ILS GS at 6nm, the AP and A/T were disconnected. The runway was acquired visually at 1000 feet aal and, after corrections in response to calls from the PM, the 500 feet agl stabilisation gate criteria were met. Then, as cautioned by ATC, the effects of windshear were encountered, with the response to a 15 knot speed increase at 200 feet being the commencement of a progressive and continuous reduction in thrust to flight idle. At 50 feet agl, a “sustained pitch up input” was applied with the speed already at Vapp and decreasing. At approximately 35 feet agl, an Terrain Avoidance and Warning System (TAWS) ‘SINK RATE’ Alert was activated which then continued until the compression of the main landing gear oleos. Due to the rate of descent at touchdown - approximately 1200 fpm - a “violent” contact of the main landing gear with the runway occurred. In the absence of threshold criteria being met, no windshear warning (which in any case is inactive below 50 feet agl) was triggered. The hard landing was recorded in the aircraft Technical Log.
+The Air France Station Technical Team “was busy preparing another aeroplane” and so the off-going Captain had no direct contact with them. Soon afterwards, prior to being aware of the entry in the Technical Log “one of the airline’s two technicians performed an external inspection of the aeroplane in very heavy rain and in poor light”. When he then read the entry, he “applied the (procedures detailed in) technical data sheet (31-032) dealing with hard landings (which was) contained in the on-board documentation”. He checked to see if a ‘Load 15’ report had been generated for the landing by the Aircraft Condition Monitoring System (ACMS) but it had not. There were no other messages relating to the flight just completed and so no inspection was required and the entry in the Technical Log was answered accordingly. He then completed a further inspection of the aircraft landing gear, with the weather having improved and with daylight still prevailing and “no anomaly was detected at the level of the shock absorbers”. The second technician then arrived at the aircraft without meeting his colleague and carried out an external inspection with no abnormality detected. Both technicians finished the required complete inspection of the aircraft together and the release to service was signed accordingly. The Aircraft Maintenance Manual was not consulted at any stage.
+Approximately four hours after the arrival of the aircraft in Caracas, a member of the on-coming flight crew carried out a pre-flight external inspection accompanied by a technician and nothing untoward was found. Following the failure to successfully raise the landing gear and the return to Caracas after burning off excess fuel, the aircraft was inspected on the parking stand and “considerable damage was observed on the right landing gear and on the fuselage”.
+The right hand main landing gear was removed and examined. The absence of hydraulic fluid and internal fractures to the body of the fixed upper piston in this assembly were noted and it was concluded that the fractures “were the result of abnormally high stress” with no signs of any prior weakness. The evidence indicated that fracturing was sudden but had occurred in two stages, which it was considered would have been initially at the hard landing and later as a result of deterioration “either during taxiing to take-off on the (next) flight or during landing of (that) same flight”. It was concluded that the hard landing had created “an excessive local increase in the damping hydraulic pressure in the lower part of the mechanism (which caused) excessive compression of the static piston, subsequently limiting its movement” and that it was this damage that had prevented the normal operation of the landing gear retraction sequence.
+
+The damaged right main landing gear damper fixed piston (reproduced from the Official Report)
+The absence of a ‘Load 15’ report for the hard landing was attributed to a known fault tendency within the ACMS.
+The Investigation found that although the technical data sheets used in response to the report of a hard landing - which included an explanatory overview of the processes to apply in the form of a flowchart - had referred to the AMM, their logic was not consistent with the content of the AMM or the version of the ACMS which was installed on the aircraft.
+It was noted that although both members of the operating flight crew were experienced in proportion to rank and both had landed at Caracas on six previous occasions, both had relatively limited experience on the A330. It was established noted that the increase in the rate of descent below 500 feet agl prior to the hard landing had been the result of variation in wind velocity which, combined with a pitch down input by the PF, had caused an increase in the vertical speed after which “the absence of thrust adjustment led to a reduction in airspeed”.
+It was concluded that the Cause of the hard landing was “the continuation of the landing although the trajectory deviations should have led to a go-around”. It was also concluded that a Contributory Factor has been “the work load generated by piloting without the assistance of the A/T in degraded meteorological conditions”.
+It was further noted that “this hard landing (had) caused the implosion, undetected on the ground during the stopover, of the right landing gear damper fixed piston (which) made landing gear retraction impossible during the return flight”. It concluded that it was “the use of inadequate Air France technical data sheets which were in effect on the day of the event and the absence of a “Load 15” report” which meant that the damage caused by the hard landing was not detected which “led to the departure of a commercial flight with a substantially damaged aeroplane”.
+Safety Action taken by Air France was noted as including the revocation of the two Company “Technical Data Sheets” to which reference had been made in place of a proper inspection and the subsequent application of the relevant AMM procedures which it would have triggered.
+One Safety Recommendation was issued as a result of the Investigation as follows:
+
+that Airbus ensure that the chapters in the AMM relating to hard landings of aeroplanes equipped with the “Hard landing” report generation function take into consideration the absence of Load 15 reports, specifically by integrating flow charts useful to establishing a diagnosis. [FRAN-2013-062]
+
+The Final Report was published in English translation in December 2013 after earlier publication in French in September 2013.
+Further Reading
+
+Stabilised Approach
+Low Level Wind Shear
+Go-around from Low Airspeed/Low Thrust
+Cross-checking Process
+Energy Management during Approach
+Pilot Workload
+DGAC (France) Publications on Non-Stabilised Approaches
+Maintenance Error
+Maintenance Workload
+Captain's Aircraft Acceptance

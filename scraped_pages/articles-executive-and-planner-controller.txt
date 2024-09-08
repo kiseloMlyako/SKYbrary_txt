@@ -1,0 +1,153 @@
+Executive and Planner Controller
+
+
+
+
+
+
+
+
+
+
+
+  Executive and Planner Controller
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Air traffic controllers often work in teams of two with one person designated as the executive controller (EXE) and the other one as the planner controller (PLN). While being responsible for the provision of ATS in the same volume of airspace, they are performing different (but interconnected) tasks and ultimately, working as a team. This arrangement is somewhat similar to flight crews, however while the pilot in command makes the final decision and bears the responsibility for it, controllers are of equal authority (unless otherwise stated in the local procedures).
+The EXE's main responsibilities are air traffic management within the sector (area of responsibility, AoR) and performing the tactical tasks (which is why they are sometimes called "tactical controller"). The main tool of the EXE is the microphone (or equivalent means of communication) which is used to communicate with aircraft, pass instructions and clearances to provide separation and deliver useful information.
+The PLN's main responsibility is to coordinate with the neighbouring sectors and units about the conditions under which aircraft will enter or exit the AoR. The overall aim is to ensure that there are no surprises to the EXE and that the traffic enters and leaves the sector in a well organized way. The main tool of the PLN is the telephone (or equivalent means of communication).
+Task Distribution
+While being responsible for the same volume of airspace, the PLN and the EXE are doing different tasks. This division is described in detail in the local Manual of operations. While there are differences between ATS facilities, the following provides examples of typical duties that are generally used.
+The following is an (unexhaustive) list of the EXE's main responsibilities:
+
+Provide separation between aircraft
+Follow the plan of the PLN (but has the option to discuss it and make changes)
+Perform communication with aircraft
+Issue ATC clearances and instructions
+Monitor all aircraft and make sure the clearances and instructions are complied with
+Provide useful information to pilots
+Inform the PLN of any significant (e.g. emergency or abnormal) situation that the PLN may not be aware of (due to e.g. being busy with a phone call), etc.
+
+The following is an (unexhaustive) list of the PLN's main responsibilities:
+
+Identify safety risks (e.g. conflicts between aircraft, potential airspace infringement, etc.)
+Create a plan to resolve the situations (but the EXE has the option to discuss it and offer a different solution)
+Coordinate the entry and exit conditions to ensure smooth and orderly traffic flow
+Coordinate any deviations from the standard procedures and letters of agreement with adjacent sectors
+Inform the supervisor of any significant (e.g. emergency or abnormal) situation
+Inform the adjacent sectors of any significant event (e.g. an emergency or abnormal situation that would affect them, a change of the frequency used, etc.)
+Coordinate with the appropriate authorities about operational air traffic
+Coordinate the passage through (or the deactivation of) a special use area with its user
+
+In addition to the above, interaction with the ATC system may be limited depending on the role. For example, some fields in the aircraft label or some windows may only be available to one of the controllers.
+Cross-checking
+Normally, each controller tries to monitor the other one's actions as much as possible. This is known as "the four-eye principle" and is somewhat similar to the PF/PM division of responsibilities. The goal is to prevent (or timely correct) errors or to otherwise improve the provision of service. For example, the PLN may detect lapses or errors in the EXE's clearances and the EXE may come up with a better plan or notice a situation that requires coordination with an adjacent sector that was not detected by the PLN. While such actions are not (and cannot formally be) a part of the controllers' duties, they often prove to be a good barrier against safety hazards.
+Example
+This section contains an example scenario explaining workload distribution between EXE and PLN. Note that there are multiple solutions to the scenario.
+
+On receiving an estimate about IVB995, the PLN examines the label and the flight path. The current level is FL 320 and the requested level is FL 400. The planned trajectory within the sector is ENTRY-FIREX.
+Then, the PLN checks whether FL 400 is achievable at the exit point. PLN notices that ABC123 is already maintaining FL400 and is also exiting via FIREX. Therefore, PLN sets the exit flight level of IVB995 to FL 380. However, PLN also notices that there is a crossing conflict with DJK0905 at FL 360. Therefore, PLN advises EXE to initially clear IVB995 to FL 340.
+Several minutes later, IVB995 checks in on the frequency, EXE informs the crew that they are identified and asks the pilot to confirm the requested cruising level. The response is FL 400 (as expected) and EXE clears the flight to climb to FL 340 (so that there is procedural separation with DJK0905). A few minutes later EXE notices that the rate of climb is high enough and discusses with PLN the option to reclear the flight to FL 380. Both controllers find this feasible so EXE asks the pilot if they are able to continue climb at this rate. The pilot confirms and EXE clears the action.
+Meanwhile EXE notices that IVB995 and DJK0905 are diverging after FIREX (the yellow and blue lines) and asks PLN to coordinate a direct routing for IVB995 with the next sector so that the requested level is achieved earlier. The planner contacts the next sector with this request and obtains an approval.
+EXE waits until IVB995 has climbed above DJK0905 and clears it to fly on a direct route (red line). Then, when IVB995 and ABC123 are safely separated, EXE clears IVB995 to climb to FL 400.
+Related Articles
+
+Single Person Operations in ATC
+Cross-checking Process
+Teamwork in Air Traffic Control
+Controller Workload
+How Air Traffic Control Works
+
+
+
+
+
+Categories
+
+
+General,
+              Loss of Separation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

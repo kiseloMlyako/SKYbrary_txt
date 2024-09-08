@@ -1,0 +1,168 @@
+Fly-By-Wire
+
+
+
+
+
+
+
+
+
+
+
+  Fly-By-Wire
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Flight Technical 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Fly-by-Wire (FBW) is the generally accepted term for those flight control systems which use computers to process the flight control inputs made by the pilot or autopilot, and send corresponding electrical signals to the flight control surface actuators. This arrangement replaces mechanical linkage and means that the pilot inputs do not directly move the control surfaces. Instead, inputs are read by a computer that in turn determines how to move the control surfaces to best achieve what the pilot wants in accordance with which of the available Flight Control Laws is active.
+Why it is useful
+The advantages of reduced weight, improved reliability, damage tolerance, and more effective control of a necessarily highly manoeuverable aircraft, were first recognised in military aircraft design. The first aircraft to have FBW for all its flight controls in place of direct mechanical or hydraulically-assisted operation, was the F-16 in 1973. In the context of military fast jet need for agility, and therefore relatively more unstable aircraft, FBW provides the ability to ensure that unintended increases in angle of attack or sideslip are detected and rapidly, and automatically, resolved by marginally deflecting the control surfaces in the opposite way while the problem is still small. FBW also enables highly reliable flight envelope protection systems which, provided the FBW system functions at its normal level, significantly enhances safety.
+How it Works
+The principle used is that of error control in which the position of a control surface (the output signal) is continually sensed and ‘fed back’ to its flight control computer (FCC). When a command input (the input signal) is made by the pilot or autopilot, the difference between the current control surface position and the apparently desired control surface position indicated by the command is analysed by the computer and an appropriate corrective signal is sent electrically to the control surface. Feedback compensation functions as error control and the FCC regulates the system by comparing output signals to input signals. Any error between the two becomes a command to the flight control surface until output equals input.
+In an FBW system the signal route from FCC to control surface is called the forward path while the signal route from the control surface to the FCC is called the feedback loop or path. Gain is the amplification or attenuation which is applied to the forward signal to achieve the desired aircraft response. A filter may be used to block feedback of signals or motion which occur at an undesirably frequent interval.
+An advantage of a feedback system such as this is that the flight control system (FCS) can be used to reduce sensitivity to changes in basic aircraft stability characteristics or external disturbances. The autopilot, a stability augmentation system (SAS), and a control augmentation system (CAS), are all feedback control systems.
+In a SAS, a damper function is formed in the feedback loop and usually has low gain, or authority, over a control surface. A CAS is implemented in the forward path and represents high-authority "power steering," providing consistent response over widely varying flight conditions. The CAS and SAS principles were used independently in military aircraft prior to fly-by-wire, integrated into an FCS, they can operate with more precision and much greater flexibility. Consistent aircraft response is achieved over a broad flight envelope through CAS gains that are programmed as functions of airspeed, mach, center-of-gravity position, and configuration.
+Control Laws
+The FCCs at the centre of an FCS are programmed with control laws that govern the feedback control system. Control laws are commonly named after the primary feedback parameter as ‘xxx feedback’ or ‘xxx command’. Typical feedbacks are:
+
+Pitch Channel: vertical load factor ‘g’, pitch rate ‘q’, pitch angle ‘θ’, angle of attack ‘α’.
+Roll Channel: bank angle ‘f’, roll rate ‘p’.
+Yaw Channel: yaw rate ‘r’, sideslip angle ‘b’, rate of change of sideslip angle ‘b with a dot over it’ verbalised as ‘beta dot’).
+
+‘G command’ which is a desirable capability at high speeds, means that for a particular amount of control column force, you get (available energy permitting) the same ‘g’ regardless of prevailing airspeed. Similarly, in a pitch-rate command system, you get the same amount of pitch rate for a given control column force regardless of prevailing airspeed.
+To balance the need to communicate pilot commands rapidly whilst at the same time maintaining a context for them as a basis for precision over time, the FCC provides a direct path to the elevator via the ‘proportional line’ or ‘feed forward gain’ but also routes the same command through a parallel circuit ‘integrator’ which produces a control surface command until the feedback signal is equal to the pilot's original command signal. Engineers must ‘tune’ the integrator gain setting so as to prevent excessive lag.
+Pure integrator control, or too much integrator gain ‘K’ would cause excessive lag in aircraft response which is why the proportional line is used as well. This arrangement, called "proportional plus integral" control, is found in most fly-by-wire designs, including those of both Boeing and Airbus.
+If undue lag exists in an FCS, causing delay in changing direction from, say, nose-up to nose-down, the effect would be analogous to the human performance lag well known as pilot-induced oscillation or PIO.
+An aircraft controlled in pitch by pitch-rate command or g command gives you attitude hold with controls free, similar to the control wheel steering (CWS) feature of an Autopilot. If you change pitch attitude and release control pressure at the desired attitude, the system holds that new attitude because the FCS reacts to bring pitch rate to zero. The aircraft should fly easily with only moderate control forces required and precise attitude control. A consequential benefit of either pitch-rate or g feedback is auto trim in that you can change speed without needing to re-trim for level flight. The same applies to thrust or configuration changes. Auto trim provides apparent neutral-speed stability. Even though positive speed stability was a generally accepted design requirement for conventionally controlled aircraft, the lack of it seems to be acceptable to those flying FBW aircraft with this effect un-moderated. Some FBW types, though, do retain conventional trim "feel".
+A common control law which blends g and pitch-rate feedback is called C* (verbalised as C star) At low speed in a C* airplane, pitch rate applies whereas at higher speeds, g applies. The changeover is transparent and occurs, for example, at about 210 kts in Airbus A320 series aircraft. Boeing have made use of a modified C* control law called C*U where U’ represents aircraft forward speed and which provides apparent speed stability. This works by having the trim switches set a reference speed that is summed with the actual speed in the FCC feedback loop in such a way that the pilot feels conventional control force cues as speed changes. You "trim a speed," not the pitch control surface. Because the maximum trim reference speed is 330 kts, a pilot would have to push on the control wheel to further increase speed toward Vmo which conveniently provides a tactile high-speed cue.
+Looking in more detail at specific phases of flight, FBW allows designers to optimise the effective dynamics for different flight phases by introducing, for example, an approach mode or a flare mode and creating a multi-mode FCS.
+In both the Airbus A320 series and the Boeing 777, the control laws are not fully active until after the aircraft gets airborne because the sensors used for feedback would sense a lot of vibration and ‘noise’ during the take off roll. Landing requires other transitions. Because taking ground effect into account is a ‘one off’ factor in executing a successful landing, the ruling control law may need ‘flare compensation’ to ensure that the usual rearward control column movement is required to flare. In the case of the C* control law in the Boeing 777, an artificial nose-down pitch command is input at 30 feet radio for this purpose. Boeing 777 control laws have also been used to improve the de-rotation characteristics compared to those of the Boeing 757 and 767 by fine-tuning the C*U integrator gain during flight tests. See also the separate article Flight Control Laws, which has more detail on Airbus and Boeing control laws.
+System Redundancy?
+Rather than providing a conventional FCS for backup, the approach with commercial aircraft normally controlled wholly by FBW is to provide redundancy for the FCCs and sensors by installing more of them. Civil airliner FBW design has generally employed triplex FCSs as is the case with the such as the Boeing 777 and Airbus A340 which both also have limited mechanical backup to allow a period of ‘survivability’ at cruise to sort out any electrical problems. Any duplex FBW systems should be expected to have a full mechanical backup.
+When all components are operative, an FCS is commonly said to be operating in normal law. Limited failures usually cause auto reversion to some degraded, but still computed, FCS mode. The lowest level of FBW backup mode normally features analog electronic signals that bypass the FCCs and go directly to the flight control actuators - Direct Law. Under Direct Law, there is no feedback control and there may be fixed gains aimed at providing acceptable control forces proportional to control surface deflection. The gain selected may optimise control forces for the landing configuration, or might provide different gains for cruise and landing, switched, for example, through the flap selector.
+Flight Envelope Protection
+Feedback control of airspeed, Mach Number, attitude, and angle of attack can be used to ensure that the FBW aircraft stays within its certificated flight envelope. Two strategies have been used to achieve this: the Airbus strategy of` ‘hard limits’ in which the control laws have absolute authority control unless the pilot selects Direct Law; or the Boeing strategy of ‘soft limits’ in which the pilot can override Flight Envelope Protection and so retains ultimate control over the operation of the aircraft.
+Accidents and Incidents
+The following events included flight envelope protection as a factor:
+
+
+A343, Bogotá Colombia, 2017 (2)On 19 August 2017, an Airbus A340-300 encountered significant unforecast windshear on rotation for a maximum weight rated-thrust night takeoff from Bogotá and was unable to begin its climb for a further 800 metres during which angle of attack flight envelope protection was briefly activated. The Investigation noted the absence of a windshear detection system and any data on the prevalence of windshear at the airport as well as the failure of ATC to relay in English reports of conditions from departing aircraft received in Spanish. The aircraft operator subsequently elected to restrict maximum permitted takeoff weights from the airport.
+
+E550, Paris Le Bourget France, 2017On 27 November 2017, an Embraer EMB 550 crew ignored a pre-takeoff indication of an inoperative airframe ice protection system despite taxiing out and taking off in icing conditions. The flight proceeded normally until approach to Paris Le Bourget when the Captain was unable to flare for touchdown at the normal speed and a 4g runway impact which caused a main gear leg to pierce the wing followed. The Investigation found that the crew had failed to follow relevant normal and abnormal operating procedures and did not understand how flight envelope protection worked or why it had activated on approach.
+
+A319, vicinity Tunis Tunisia, 2012On 24 March 2012, an Air France Airbus A319 Captain continued descent towards destination Tunis at high speed with the landing runway in sight well beyond the point where a stabilised approach was possible. With 5nm to go, airspeed was over 100 KIAS above the applicable VApp and the aircraft was descending at over 4000fpm with flaps zero. EGPWS activations for Sink Rate, PULL UP and Too Low Terrain apparently went unnoticed but at 400 feet agl, ATC granted a crew request for a 360° turn. The subsequent approach/landing was without further event. Investigation attributed the event to “sloppy CRM”.
+
+A320, vicinity Tel Aviv Israel, 2012On 3 April 2012, the crew of an Air France Airbus A320 came close to loosing control of their aircraft after accepting, inadequately preparing for and comprehensively mismanaging it during an RNAV VISUAL approach at Tel Aviv and during the subsequent attempt at a missed approach. The Investigation identified significant issues with crew understanding of automation - especially in respect of both the use of FMS modes and operations with the AP off but the A/T on - and highlighted the inadequate provision by the aircraft operator of both procedures and pilot training for this type of approach.
+
+A332, en-route, near Dar es Salaam Tanzania, 2012On 27 February 2012, the crew of an Airbus A330 en route at night and crossing the East African coast at FL360 encountered sudden violent turbulence as they flew into a convective cell not seen on their weather radar and briefly lost control as their aircraft climbed 2000 feet with resultant minor injuries to two occupants. The Investigation concluded that the isolated and rapidly developing cell had not been detected because of crew failure to make proper use of their weather radar, but noted that activation of flight envelope protection and subsequent crew action to recover control had been appropriate.
+
+A332 MRTT, en-route, south eastern Black Sea, 2014On 9 February 2014, the Captain of a military variant of the Airbus A330 suddenly lost control during the cruise on a passenger flight. A violent, initially negative 'g', pitch down occurred which reached 15800 fpm as the speed rose to Mach 0.9. In the absence of any effective crew intervention, recovery was achieved entirely by the aircraft Flight Envelope Protection System. The Investigation found that the upset had occurred when the Captain moved his seat forward causing its left arm rest to contact the personal camera he had placed behind the sidestick, forcing the latter fully forward.
+
+A321, en-route, near Pamplona Spain, 2014On 5 November 2014, the crew of an Airbus A321 temporarily lost control of their aircraft in the cruise and were unable to regain it until 4000 feet of altitude had been lost. An investigation into the causes is continuing but it is already known that blockage of more than one AOA probe resulted in unwanted activation of high AOA protection which could not be stopped by normal sidestick inputs until two of the three ADRs had been intentionally deactivated in order to put the flight control system into Alternate Law.
+
+LJ24, vicinity Bornholm Denmark, 2012On 15 September 2012, a Learjet 24 experienced double engine failure in daylight VMC as it positioned visually on base leg at Bornholm and an emergency was declared. The subsequent handling of the aircraft then led to a stall from which recovery was not possible and terrain impact occurred in a standing crop at low forward speed shortly after crossing the coastline. The aircraft was destroyed and both occupants seriously injured. Investigation established that the engines had stopped due to fuel starvation resulting from mismanagement of the fuel system and had been preceded by a low fuel quantity warning.
+
+
+
+
+Related Articles
+
+Flight Control Laws
+
+Further Reading
+
+A Simple Summary of the FBW Systems installed on an Airbus A330 is found in: ATSB Aviation Occurrence Investigation AO-2008-070 Final Report, Section 1.6.3 Electrical flight control system (EFCS)
+Airbus fly-by-wire: a process toward total dependability by Taverse, Lacaze and Souyris - Paper presented to ICAS in 2006
+Aviation Safety and Pilot Control: Understanding and Preventing Unfavorable Pilot-Vehicle Interactions, by the US National Academy of Sciences, 1997
+
+
+
+
+
+Categories
+
+
+Flight Technical
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

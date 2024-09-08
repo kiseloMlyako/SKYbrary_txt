@@ -1,0 +1,245 @@
+Hearing and Noise (OGHFA BN)
+
+
+
+
+
+
+
+
+
+
+
+  Hearing and Noise (OGHFA BN)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+OGHFA 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ Flight Safety Foundation
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Background
+A safety-conscious crew needs to know how and when hearing-related issues are likely to affect performance. This Briefing Note (BN) describes the process of hearing and issues that can arise related to it during flight. It will discuss the impact of noise on hearing and how performance is subsequently affected.
+Introduction
+Hearing has a much greater impact on performance than most people realize. Modern aircraft designs put high demands on vision as the primary sense for information gathering, but such designs can lead to increased attentional demands that have the potential to decrease situational awareness. To compensate, sound has become more important for delivering information or to divert a pilot’s attention to an area that needs monitoring.
+At a very basic level, the ability to hear a signal will affect a pilot’s ability to respond to that signal. A signal could be missed because of physical problems related to the ear or because of environmental issues such as noise.
+In addition to signal interference, noise associated with flight can cause physiological and/or psychological problems that can degrade performance. This BN will discuss these problems and how various levels of noise affect hearing and performance.
+Physical features of sound
+Sound is a vibration that is transmitted through various media such as air or water. Sound is simply a series of compressions (where molecules are dense) and rarefactions (where molecules are sparse). A vibration will move at different speeds depending on the medium. In air at sea level (20 C, 68F), the speed of sound is approximately 343 m/s; in water (20 C) at sea level, the speed is 1,482 m/s.
+Sound waves travel outward in all directions from their source until they are blocked. As a wave, sound has two main characteristics, frequency and amplitude, and a vibration occurs over a single wavelength. Frequency is typically expressed in Hertz (Hz), a measure of how many vibrations occur in one second, and directly corresponds to the pitch of a sound (Table 1). For example, a pure sine wave of 440 Hz corresponds to the note A on the fourth octave of the piano. The higher the frequency the higher the pitch.
+When measuring sound in air, sound pressure level is almost always expressed in decibels (Figure 1). The logarithmic decibel scale uses a reference sound pressure of 20 micro pascals (μPa) which is considered the threshold of human hearing and is roughly equivalent to the sound of a piece of paper falling to the ground. Most measurements of audio equipment are made relative to this reference point.
+
+Figure 1. The decibel scale
+ 
+
+Table 1. The frequencies of sound
+
+
+Frequency range
+Examples
+
+
+
+
+Infrasonic (<20 Hz)
+Inaudible to humans
+
+
+Low bass (20 to 80 Hz)
+Explosions, thunder and the lowest notes of a musical organ
+
+
+Upper bass (80 to 320 Hz)
+Drum kit, cello, trombone and bass
+
+
+Mid-range (320 to 2,560 Hz)
+Much of the richness of instrumental sounds occur in this range
+
+
+Upper mid-range (2,560 to 5,120 Hz)
+Frequency for which the human ear is the most sensitive; contributes to the intelligibility of speech
+
+
+Treble (5,120 to 20,000 Hz)
+Brilliance or "air" of a sound, but can also emphasize noise
+
+
+Ultrasonic (>20,000 Hz)
+Inaudible to humans
+
+
+
+Physiology of hearing
+The ear consists of the outer ear, middle ear and inner ear. It contains receptors for both hearing and equilibrium (balance). The receptors for equilibrium are the semi-circular canals. More information on equilibrium is in the Vestibular System and Illusions BN.
+The outer ear consists of the pinna and the ear canal. Sound waves are collected by the pinna and travel through the ear canal to the tympanic membrane (eardrum). Sound waves striking the eardrum cause it to vibrate. The eardrum separates the outer ear from the middle ear (Figure 2).
+
+Figure 2. The outer ear
+
+The middle ear (Figure 3) contains the following:
+
+Eustachian tube extends from the middle ear to the nasopharynx, permitting air to enter or leave the middle ear cavity. Its function is to equalize air pressure on both sides of the eardrum. Normally the walls of the tube are collapsed. Swallowing and chewing actions open the tube to allow air in or out as needed for equalization. Equalizing air pressure ensures that the eardrum vibrates maximally when struck by sound waves. The air pressure in the middle ear must be the same as the external atmospheric pressure in order for the eardrum to vibrate properly. "Popping" the ear opens the eustachian tubes, equalizing air pressures.
+Ossicles consist of three linked and movable bones that convert sound waves striking the eardrum into mechanical vibrations. These three bones are the smallest in the human body and are named for their shape.
+
+hammer joins the inside of the eardrum
+anvil is the middle bone that connects the other two
+stirrup footplate attaches to the cochlea.
+
+
+Tympanic cavity is air-filled and carved out of the temporal bone. It connects to the throat/nasopharynx via the eustachian tube.
+Tympanic membrane (ear drum) separates the external ear from the middle ear. It is stretched across the end of the ear canal and vibrates when struck by sound waves. These sound waves are transmitted to the three auditory bones. These then transmit the vibrations to the fluid-filled inner ear at the oval window.
+
+
+Figure 3. The middle ear
+
+The inner ear (Figure 4) consists of two inter-connected pathways for the vestibular and auditory systems. Both involve the following structures:
+
+Figure 4. Inner ear
+
+The inner ear contains the corti organ which is the hearing sensor. The process of hearing involves the transmission of vibrations and the generation of nerve impulses. When sound waves enter the ear canal, vibrations are transmitted by the following sequence of structures: eardrum, malleus, incus, stapes, oval window of the inner ear, perilymph and endolymph within the cochlea and hair cells of the organ of corti. When the hair cells bend, they generate impulses that are carried by the 8th cranial nerve to the brain. Sounds are heard and interpreted in the auditory areas of the temporal lobes.
+Effects of noise
+Noise can have either an extra-auditory or auditory effect on a pilot. Both of these effects may significantly affect performance and health.
+Extra-auditory effects
+Extra-auditory effects occur when biological and complex cognitive processes are affected by noise. Noise can act as a nonspecific physiologic stressor and can alter endocrine, cardiovascular and neurologic functions. These altered functions can cause biochemical changes that may have negative health effects.
+Most notably, noise can cause an increase in heart rate, vaso-constriction, digestive activity and muscular tension. Also, a 75 dB noise may change the diameter of the eye’s pupil, which can significantly impact visual acuity.
+The effects of noise on performance are complex. However, from an operational point of view, one of the most important issues is how noise affects attention. A number of studies have explored this issue. Two classic studies of the effects of noise on performance are described below. In one study conducted by Hockey (1978), subjects were asked to perform a “clock test” where they were required to detect critical signals (i.e., the double jump of the needle on a clock). The critical signals were infrequent and occurred randomly. In this study two factors were combined:
+
+One-clock condition with 113 dB versus 79 dB
+Three-clock condition with 113 dB versus 79 dB.
+
+Results showed that noise had no significant effect on performance in the one-clock condition, but in the the three-clock condition, the higher level of noise significantly decreased performance (Figure 5). This finding demonstrated that noise tends to decrease the ability to share attention between several concurrent tasks, especially when the tasks must be performed for extended periods of time.
+
+Figure 5. Effects of noise exposure of performance to a clock test (Hockey, 1978)
+
+Hockey further explored this topic in an experiment where subjects were asked to perform a tracking task and a detection task at the same time (Figure 6). For the tracking task, the higher the percentage of time spent on the target, the better the performance. In the detection task, performance was measured as correct detection of a signal. Results showed that higher levels of noise actually helped to maintain performance on the tracking task over time. For the detection task, noise improved detection of the signals located in the center of the field of vision, but decreased detection performance when the signal was in the periphery.
+ 
+
+Figure 6. Effects of noise on dual task performance (Hockey, 1978).
+ 
+Auditory effects
+Speech intelligibility is affected by the signal-to-noise (s/n) ratio. Ideally the s/n is higher than 0 dB, which means the signal is louder than the noise. Figure 7 shows the effects of s/n ratio on word articulation (the number of test words correctly identified in an intelligibility test). This figure shows that as the s/n ratio increases so does the correct identification of words. In other words, as a person’s voice becomes louder than the background noise, the voice is more easily understood.
+
+Figure 7. Word articulation as a function of signal-to-noise ratio.
+
+Auditory fatigue is a Temporary Threshold Shift (TTS) that occurs after exposure to noise.
+
+
+Figure 8 shows that this shift can reach up to 40 dB after exposure to 106 dB for 100 minutes. Simply put, an increase of 40 dB in a signal would be needed for a person to hear with the same acuity as before the exposure to the 106 dB noise for 100 minutes.
+
+
+Figure 9 shows that a TTS can last for several hours and up to 45 hours for frequencies around 5,000 Hz where many components of speech are found.
+Pathological effects of noise
+Exposure to noise may induce pathological effects, mainly cardio-vascular disease. This is due to the generation of high levels of adrenaline that narrow blood vessel diameter resulting in increased blood pressure. After three to five years of regular exposure to 85 dB noise, morbidity increased significantly increased. Other common pathological problems related to noise are cholesterol issues, gastric ulcers, sleep disturbances and mental stress.
+Approximately 10 percent of the population in industrialized societies has significant hearing loss. Pathological effects of noise on hearing are known as a Permanent Threshold Shift (PTS), meaning the threshold of hearing has permanently increased. One of the difficulties of detecting PTS is that in the early stages a person may not be aware of any issues. Figure 10 shows that at an early stage (Curve 1) speech is not affected and the person is still able to hear others speak. At this stage, only a specialized exam (audiogram) is able to detect the problem. As PTS increases as depicted by Curves 2 and 3, the hearing loss affects speech intelligibility, and the person starts to be aware that there is an issue.
+A PTS may occur after a short exposure to noise higher than 90 dB or as a result of cumulative exposure to relatively moderate levels of noise, such as 70 dB.
+
+Figure 10. Progressive development of hearing loss
+Key points
+
+Sound is a compression and rarefaction of some medium such as air or water
+The ear consists of the outer ear, middle ear and inner ear. It contains receptors for both hearing and equilibrium (balance)
+Extra-auditory effects occur when biological and complex cognitive processes are affected by noise
+Noise can have a negative effect on performance when multiple tasks are being performed at once, but sometimes noise can help maintain performance when a task is spread out over an extended period of time
+Noise can mask speech when its magnitude is near that of the speech
+As signal-to-noise ratio increases, so does the intelligibility of words
+After prolonged exposure to increased noise levels, a person may experience a temporary threshold shift where signals must be “louder” than normal to be heard by the individual. This state is usually temporary but can sometimes be permanent
+Exposure to noise may induce pathological effects, mainly cardio-vascular disease. This is due to the creation of high levels of adrenaline that narrow blood vessel diameter and the resultant increase in blood pressure.
+
+Associated OGHFA Material
+Briefing Note
+
+Vestibular System and Illusions
+
+Industry references
+
+ANSI S3.2-1989, "Method for Measuring the Intelligibility of Speech Over Communication Systems"
+HOCKEY (G.R.). "Effects of Noise on Human Work Efficiency" In: D.N. May (ed.), Handbook of Noise Assessment. New York: Van Nostrand Reinhold, 1978.
+
+
+
+
+
+Categories
+
+
+OGHFA,
+              Personal Influences,
+              Human Factors
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

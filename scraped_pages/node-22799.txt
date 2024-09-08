@@ -1,0 +1,182 @@
+Cross Wind Landings
+
+
+
+
+
+
+
+
+
+
+
+  Cross Wind Landings
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Runway Excursion 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Poorly executed cross wind landings are a major cause of runway excursions. Often the outcome is associated with prevailing runway surface friction being other than dry - possibly wet, more often contaminated. Some of the issues following also apply to the maintenance of direction control, during a take off or a rejected take off, but runway excursion outcomes on departure are much less common and are not specifically considered in this article.
+Cross Wind as a Factor in Runway Excursions
+Investigation of Runway Excursions on landing where the crosswind has been a significant factor usually identify one or more of the following:
+
+Inappropriate flight crew decision to attempt a landing
+
+The origin of such a decision usually lies in ineffective flight crew. Sometimes this relates to the ‘original’ decision to commence an approach to land which later becomes clearly questionable but is not effectively reviewed. Other times, there may be an inappropriate ‘Land/Go Around’ decision which goes unchallenged. Both Operator Culture and Authority Gradients between flight crew members can play a role in both scenarios.
+
+Inappropriate flight crew aircraft handling
+
+This may arise directly from poor skills, especially where the simulator training for the aircraft type is carried out in devices which cannot realistically replicate low level wind velocity. It may be related to insufficient understanding of the ‘basic theory’ of aircraft alignment for landing, or it may be related to the use of inappropriate, and possibly unapproved or not-recommended techniques, for aircraft control on final approach and landing.
+
+High rates of variation in surface and near-surface wind velocity
+
+Instantaneous wind velocity in the vicinity of an aircraft can vary considerably from wind velocity measurements available to pilots, who also have to relate observed conditions to the degree of inertia which their particular aircraft possesses.
+Previous experience of crosswind conditions, near the prescribed or recommended limits for an aircraft at prevailing runway surface states, may be a factor in the decision whether or not to attempt a landing. In respect of wind velocity observations, either in METARs or Automatic Terminal Information Service (ATIS) and, when nearer to a planned touchdown, directly from on-board equipment and ATC, it is important for flight crew to have a thorough understanding of what the values and changes are and in what way they can be useful to tactical decision making.
+
+Inadequate availability of information about the state of the runway surface
+
+When a runway is declared to be contaminated, there are clearly specified processes for measuring and communicating surface friction which are related in the Aircraft Flight Manual (AFM) or Operations Manual to modified cross wind landing limitations or recommendations. However, there are no general corresponding procedures for a runway surface reported as wet. In particular, there are currently no procedures for the reporting of actual measured braking action - a proxy for potential directional control difficulty in significant crosswind conditions. Relevant ‘Pilot Reports’ of braking action should be passed by ATC to following aircraft but will often constitute inconclusive evidence. It must also be noted that ATC are usually only the communications channel for information on runway surface status since the generation of this information is the responsibility of the Airport Operator. The most important point about that situation is that there is frequently a delay between a change in the prevailing conditions and the availability of such new information to ATC. If it appears to ATC that the runway surface conditions have become significantly different to those being officially reported, then they have the discretion to communicate their impressions to aircraft using the qualification ‘Unofficial Observation’.
+A study of accidents and incidents made by the Accident Investigation Board Norway (AIBN) in 2006 revealed that most of the incidents occurred in conditions of crosswind in combination with slippery runways. Crosswind has a major impact on directional stability during the landing roll. The aircraft manufacturers have defined recommended crosswind limits. However these are not included in the basis for the certification of the respective aircraft. Therefore, a recommendation was made to the aviation authorities to evaluate the airlines’ crosswind limits in relation to friction values and consider whether they should be subject to separate approval by the authorities.
+
+Incomplete understanding by flight crew of the aircraft performance limitations or recommendations in relation to cross wind landings
+
+Aircraft limitations for dry runway operations can be expected to be unequivocal in their specification and may be qualified by runway width. By contrast, the limitations or recommendations for runways which are not dry may be difficult for flight crew to apply on the basis of the information they have on wind velocity and runway surface condition at any point in time, especially in respect of the tactical perception of short-run trends as a prospective touchdown nears. It is important that flight crew have clear Operations Manual Guidance on restrictions to dry runway crosswind limitations and the decision making to which they will be exposed when operating their aircraft in such circumstances.
+Aircraft Alignment for Landing and Touchdown
+For most Operators of transport aircraft, and for most current aircraft types, the required or recommended means of flying the final approach to land is with wings level and applying a drift correction to compensate for any crosswind component. This type of approach is often referred to as a “crabbed approach”. It is possible, although nowadays rarely recommended or permitted in air transport operations, to fly a crosswind final approach by means of a sideslip in which into-wind aileron is ‘balanced’ by opposite rudder input. In this latter case, the slip indicator will show the ball off centre.
+During the flare to land following a crabbed approach, the aircraft must have its longitudinal axis transitioned to one approximating to the runway centreline whilst an essentially wings-level aircraft attitude is maintained. The rudder is used to make this alignment at an appropriate interval before main gear contact and any consequent tendency to roll is counteracted by aileron. In the case of a crosswind component near to dry runway limits, most aircraft may be landed with residual drift of up to 5 degrees to prevent a difference from wings level of more than 5 degrees occurring. Beyond this amount of departure from the ideal wings-level aircraft attitude, many aircraft with wing mounted engines may be vulnerable to engine nacelle ground contact. Also, whilst touchdown with a small drift angle on a dry runway results in the aircraft regaining the direction of the centreline without difficulty, a touch down with such residual drift on a contaminated runway is likely to lead to the aircraft trajectory on the ground being aligned with the direction of the aircraft axis at touchdown. The initial sideways force on an aircraft landed with residual drift will be aggravated by the effect of thrust reversers (or turboprop reverse pitch) if this is deployed immediately after touchdown but this effect soon decreases with decreasing airspeed or can be temporarily negated by selecting reverse idle thrust (or turboprop ground idle).
+The degree of offset of an aircraft axis, from the landing runway centreline during final approach, using a crabbed approach at typical airspeeds can be expected to reduce as wind speed reduces in line with height above the ground. If visual reference becomes available well before the typical Instrument Landing System (ILS) Decision Height, then the amount of drift correction which will have been applied by the Autopilot may be quite considerable and when transitioning to manual flying, pilots must be careful not to inadvertently remove necessary drift correction prematurely. At 3-4 nm, the typical drift correction for a 30 knot surface crosswind component might be in the vicinity of 10 to 12 degrees.
+In respect of achieving aircraft longitudinal axis alignment with the runway centreline for a crosswind touchdown, it is also sometimes forgotten that the process is much more difficult in conditions of poor forward visibility, because of the reduced perspective available.
+Wind, Wake and Turbulence Induced by Obstacles
+Wind, wake and turbulence induced by obstacles may affect the flight handling and performance of aircraft during take-off and landing. Generally aircraft are much more vulnerable to disturbed wind velocity profiles during the final stage of the approach than during take-off.
+NLR-led study titled Wind criteria due to obstacles at and around airports (full text of the study is featured in Further Reading) regarding the wind disturbance outlines three altitude bands which are defined according to their threat to safety:
+
+Height between 0ft and 200ft. In this region flare, de-crab and high speed roll out takes place. Apart from prevailing gust and turbulence due to general surface characteristics, stand alone obstacles may play a dominant role in this part. From a safety point of view this is a critical phase.
+Height between 200ft and 1000ft. Gust/turbulence levels due the build up area affecting the landing zone are dominant in this segment. Speed deficits and accompanying turbulence due to “stand alone” obstacles are submerged. From a safety point of view this phase is less critical.
+Height above 1000ft. From a safety point of view wind disturbance above 1000ft is not considered a threat for flight safety.
+
+The study specifies that for the segment that covers the approach flight phase from 1000ft AGL to 200ft AGL (as appeared both from the offline and piloted simulations) that the obstacle clearance planes defined by ICAO Annex 14 give sufficient protection with respect to wind disturbances due to “stand alone obstacles”.
+For the segment that covers the landing phase from 200ft to touch down and the high speed roll out it was established that wind disturbance criteria are necessary that are more stringent than the “Annex 14” planes. The segment where the wind disturbance plane is restrictive is bounded by a disc-shaped segment with origin in the center of the runway threshold and radii of approximately 1200m (perpendicular to runway centerline) and 900m in front of the runway threshold. In order to cover the high-speed roll out the 1:35 plane is extended up to 1500m aft of the runway threshold. The study also revealed a strong relation between surface roughness, reference wind speed and gust/turbulence levels. Surface roughness and reference wind speeds selected for the simulations lead to gust and turbulence levels varying from medium to severe.
+Accidents and Incidents
+Runway excursion events that feature a significant crosswind component:
+
+
+AT45, Amami Japan, 2020On 8 January 2020, an ATR 42-500 veered off the side of the runway at Amami after touchdown whilst attempting to complete a crosswind landing following a crosswind approach in potentially limiting conditions. It was concluded that directional control had been lost during touchdown because of sub optimal use of the combination of flight control inputs and power at and immediately after touchdown following an essentially stabilised visual approach. The aircraft manufacturer was prompted to make some changes of emphasis in normal operations guidance during the landing roll.
+
+B738, Odesa Ukraine, 2019On 21 November 2019, with variable cross/tailwind components prevailing, a Boeing 737-800 went around from its first ILS approach to Odesa before successfully touching down from its second. It then initially veered left off the runway before regaining it after around 550 metres with two of the three landing gear legs collapsed. An emergency evacuation followed once stopped. The Investigation attributed the excursion to inappropriate directional control inputs just before but especially after touchdown, particularly a large and rapid nosewheel steering input at 130 knots which made a skid inevitable. Impact damage was also caused to runway and taxiway lighting.
+
+B744, Hong Kong China, 2018On 30 August 2018, a Boeing 747-400F making a crosswind landing at Hong Kong which was well within limits veered and rolled abnormally immediately after touchdown and runway impact damaged the two right side engines. The Investigation found that the flight was an experienced Captain’s line check handling sector and concluded that a succession of inappropriate control inputs made at and immediately after touchdown which caused the damage may have been a consequence of the Check Captain’s indication just before touchdown that he was expecting a landing using an alternative technique to the one he was familiar with.
+
+F100, Newman WA Australia, 2020On 9 January 2020, a Fokker 100 overran the landing runway at Newman. The Investigation found that a stabilised approach had preceded a correctly-positioned touchdown and attributed the overrun to a combination of the approach speed required by the prevailing crosswind and runway surface conditions. It was noted that whilst the aircraft operator did not permit contaminated runway operations, they had not provided their pilots with any guidance as to when contamination might exist and also that advisory material published by the safety regulator did not cover the risk of reduced braking performance during landings in moderate or heavy rainfall.
+
+ATP, Birmingham UK, 2020On 22 May 2020, a BAe ATP made a go around after the First Officer mishandled the landing flare at Birmingham and when the Captain took over for a second approach, his own mishandling of the touchdown led to a lateral runway excursion.  The Investigation found that although the prevailing surface wind was well within the limiting crosswind component, that component was still beyond both their handling skill levels. It also found that they were both generally inexperienced on type, had not previously encountered more than modest crosswind landings and that their type training in this respect had been inadequate.
+
+
+...further results
+
+
+Related Articles
+
+Runway Excursion
+Landing Flare
+Accident and Serious Incident Reports: RE - a list of all Accident and Serious Incidents within SKYbrary which involved a runway excursion.
+Low Level Wind Shear
+ALAR Briefing Note 8.7 Crosswind Landings
+
+Further Reading
+
+EASA SIB 2014-20: Aeroplane Operations in Crosswind Conditions, 23 June 2014.
+Airbus Landing Techniques Briefing Note - Bounce Recovery - Rejected Landing;
+NLR Study - Wind criteria due to obstacles at and around airports
+"Criteria for crosswind variations during approach and touchdown at airports" - paper presented by Henk Krus at Joint Symposium of DFG FOR 1066 and DLR-Airbus CASE “Simulation of Wing and Nacelle Stall” Braunschweig, Germany, December 2014.
+Boeing Guidelines for Narrow Runway Operations discusses runway deviations under failure and crosswind and regulatory bias for Vmsg determination.
+
+
+
+
+
+Categories
+
+
+Runway Excursion,
+              Veer Off
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

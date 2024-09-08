@@ -1,0 +1,124 @@
+Monopulse Secondary Surveillance Radar (MSSR)
+
+
+
+
+
+
+
+
+
+
+
+  Monopulse Secondary Surveillance Radar (MSSR)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Monopulse Secondary Surveillance Radar (Monopulse Secondary Surveillance Radar) is a technique developed to overcome two common problems with surveillance radar systems.
+
+When several aircraft are in close proximity, or are located in the same direction, their Transponder replies can overlap due to the finite size of the anntenna beam width (typically 2-3 degrees). When this happens, the ground decoder becomes confused and the information is lost. This problem is known as 'Garbling'.
+When many aircraft are in the vicinity, responses transmitted by some of these may be interpreted as being from the interrogated SSR, causing confusion and error. This problem is known as 'Fruit'.
+
+These problems are resolved by analysing the received signals using a computer and by transmitting from the radar at a much reduced rate (about one tenth of the previously used rate). As a result, Garbling and Fruit are reduced by about 90% while directional accuracy is tripled compared to conventional SSR. This technique is known as Monopulse Secondary Surveillance Radar (MSSR).
+The improved accuracy of MSSR allows radar separation minima to be reduced by about one half - to 3 nm if the aircraft is within 40 nm of the antenna and 5 nm if more than 40nm from the radar antenna.
+Related Articles
+
+Transponder
+CASCADE
+Automatic Dependent Surveillance Broadcast (ADS-B)
+Wide Area Multilateration
+Airborne Traffic Situational Awareness
+
+Further Reading
+EUROCONTROL CASCADE web-site
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

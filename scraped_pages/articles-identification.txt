@@ -1,0 +1,182 @@
+Identification
+
+
+
+
+
+
+
+
+
+
+
+  Identification
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Identification. The situation which exists when the position indication of a particular aircraft is seen on a situation display and positively identified.
+Radar contact. The situation which exists when the radar position of a particular aircraft is seen and identified on a situation display.
+Source: ICAO Doc 4444 PANS-ATM
+Description
+The aim of identification is to unambiguously match a flight (in the air) and its representation on the situation display (a plot or a track). In other words, the controller needs to make sure which aircraft corresponds to a particular symbol on the situation display.
+Identification is a crucial for the provision of air traffic service (ATS). Before providing surveillance service to an aircraft, the controller must first identify the aircraft and inform the pilot. Identification must be maintained until termination of the surveillance service. If, for some reason, identification is lost (e.g. due to fade area), the pilot must be informed. Later, when the aircraft symbol appears again, it must be re-identified and the pilot informed accordingly.
+Identification Procedures
+The identification procedures depend on the surveillance sensor(s) used:
+
+Primary surveillance radar (PSR) - identification is based on the returns received by a PSR
+Secondary surveillance radar (SSR) or Multilateration (MLAT) - while these systems determine the aircraft position using completely different principles of operation, they both rely on transponder replies, hence the identification methods are the same - identification is based on the data received from the aircraft transponder.
+Automatic dependent surveillance - broadcast (ADS-B) - identification is based on the data received from the aircraft ADS-B transmitter
+
+Most automated ATS systems provide information on the types of sensor(s) that provide information on the particular target. Different symbols are used to distinguish between PSR, SSR/MLAT and ADS-B derived data. In addition, combo symbols can be used to indicate that more than one type of data is available. Thus, the controller is able to determine which identification procedures are applicable.
+Each procedure has its limitations. These are defined to eliminate the risk of misindification. It is the controller's responsibility to choose an appropriate method. If, for some reason, the method chosen does not result in a satisfactory identification, an alternative must be used.
+PSR Procedures
+
+Position reporting. The pilot reports the aircraft position and the controller compares this report to an observed PSR blip. If the two are close enough, and there are no other unidentified blips in the vicinity, identification is successful. The position report can be for overflying a point or a reference to one (with a distance and bearing/direction, e.g. "15 MILES SOUTH OF POINT")
+Departing aircraft. The controller receives a report for an aircraft that has just departed and compares it with a PSR blip that is within 1 NM from the end of the runway used. Particular care should be taken to avoid confusion with aircraft holding over or overflying the aerodrome, or with aircraft departing from or making a missed approach over adjacent runways.
+Vectoring. The controller issued instructions for heading changes (30 degrees or more) and compares the movement of a PSR blip to the expected manoeuvres. Ideally, one turn could be enough to complete the procedure. If necessary (e.g. there is more than one target on the screen performing similar movements), new vectors, as many as necessary, are issued.
+Transfer of identification. This is a common method that can be used for all sensors and is described in a separate subsection below.
+
+SSR/MLAT Procedures
+
+Recognition of the aircraft identification (i.e. callsign) in the label. The use of this method requires a successful correlation between the SSR code and the callsign.
+Recognition of an assigned discrete code, the setting of which has been verified. For this procedure to work correctly, a system for code assignment that guarantees unique codes must be in place. Note that only discrete codes (i.e. ones not ending with "00") can be used. If an aircraft is squawking a conspiquity code, other methods must to be used.
+Direct recognition of the aircraft identification of a Mode S-equipped aircraft. This procedure is only applicable for aircraft with Mode S transponders and can be subject to other restrictions depending on local procedures. Additionally, this procedure requires that flight crews input the correct callsign in the transponder for each flight. A mismatch between the radiotelephony callsign and the Mode-S identification can easily lead to issues with the identification process.
+Observation of compliance with an instruction to set a specific code. The controller instructs the pilot to change the SSR code and monitors the change.
+Observation of compliance with an instruction to squawk IDENT. The controller instructs the pilot to use the transponder IDENT feature and observes the special indication. The controller should take into account that garbling (i.e. receiving two transponder replies almost simultaneously) can result in a false IDENT indication.
+Transfer of identification. See dedicated subsection below for details.
+
+ADS-B Procedures
+
+Direct recognition of the aircraft identification. This is similar to the direct recognition of the Mode-S aircraft identification, the difference being that the data is obtained by an ADS-B receiver and not a radar/MLAT.
+Observation of compliance with an instruction to TRANSMIT ADS-B IDENT. This is similar to the use of the transponder IDENT feature, the difference being that the data is obtained by an ADS-B receiver and not a radar/MLAT.
+Transfer of identification. See dedicated subsection below for details.
+
+Transfer of Identification
+Generally, the "Transfer of identification" procedure is applicable for all sensors. Hohever, many of the following options are restricted to the use of particular ones:
+
+designation of the position indication by automated means (all sensors)
+notification of the aircraft’s discrete SSR code or aircraft address (SSR, MLAT). Note: The aircraft address is a 24-bit binary code, normally expressed as a six-figure hexadecimal number (digits being 0-F). It is only provided in Mode S.
+notification that the aircraft is SSR Mode S-equipped with an aircraft identification feature when SSR Mode S coverage is available (SSR+Mode S, MLAT+Mode S)
+notification that the aircraft is ADS-B-equipped with an aircraft identification feature when compatible ADS-B coverage is available (ADS-B)
+direct designation (pointing with the finger) of the position indication. This is applicable if the two situation displays are adjacent, or if a common situation display is used (all sensors)
+designation of the position indication by reference to, or in terms of bearing and distance from, a geographical position or navigational facility accurately indicated on both situation displays, together with the track of the observed position indication if the route of the aircraft is not known to both controllers (all)
+issuance of an instruction to the aircraft by the transferring controller to change SSR code and the observation of the change by the accepting controller (SSR, MLAT). This procedure requires prior coordination between the two controllers, as the change happens within a short period of time.
+issuance of an instruction to the aircraft by the transferring controller to squawk/transmit IDENT and observation of this response by the accepting controller (SSR, MLAT, ADS-B). This procedure requires prior coordination between the two controllers, as the change happens within a short period of time.
+
+Phraseology
+The following example phraseology is used in respect to the identification procedures:
+
+"IDENTIFIED" or "RADAR CONTACT" - to inform the pilot that the aircraft has been identified
+"IVB3011, FOR IDENTIFICATION TURN RIGHT HEADING 060" - a vectoring instruction, used in the PSR vectoring procedure. The phrase "FOR IDENTIFICATION" specifies the reason for the vectoring.
+"DVK1208, SQUAWK 1234" - an instruction to change the SSR code. Note that this instruction can be used for the purpose of SSR code management as well.
+"SQAWK IDENT" (for SSR/MLAT) or "TRANSMIT ADS-B IDENT" (for ADS-B) - an instruction to operate the IDENT feature of the onboard equipment.
+
+Similar Terms
+
+"Aircraft identification". While this term sounds similarly to "identification of aircraft", the two terms are substantially different. The former is a string of letters and numbers (i.e. the callsign of the aircraft) and the latter is an air traffic service procedure.
+"Correlation". Both terms refer to a procedure for matching an aircraft to its flight data. The difference is that with identification this happens in the controller's mind and correlation takes place in a computer software. It should be noted that a flight can be correlated, but not yet identified, and an identified track may be uncorrelated. An example of the former situation is where the automated ATS system correlates a flight plan to a track based on e.g. an estimate containing a wrong SSR code. In effect, the track will be linked to the wrong flight plan. An example of the latter situation is when an unknown aircraft enters the sector and establishes radio communication with the controller. The controller will identify the aircraft but it may remain uncorrelated for some time due to the lack of flight plan. Nevertheless, surveillance service can be offered in this situation as the prerequisite is identification rather than correlation.
+
+Related Articles
+
+Surveillance
+Transponder IDENT Feature
+Correlation
+Plots, Tracks and Labels
+
+Further Reading
+
+ICAO Doc 4444 PANS-ATM, Chapter 8
+CAP493: MATS Part 1, Section 1, Chapter 6
+FAA JO 7110.65: Air Traffic Control, Chapter 5, Section 3
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

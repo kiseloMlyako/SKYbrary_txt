@@ -1,0 +1,147 @@
+Regulation 310/2015 amending Regulation 29/2009 on data link services for the SES
+
+
+
+
+
+
+
+
+
+
+
+  Regulation 310/2015 amending Regulation 29/2009 on data link services for the SES
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Single European Sky 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Note: This Regulation was repealed by Regulation 2023/1770 and is no longer in force.
+Commission Implementing Regulation (EU) 2015/310 of 26 February 2015 amending Regulation (EC) No 29/2009 laying down requirements on data link services for the single European sky and repealing Implementing Regulation (EU) No 441/2014 - text published in the Official Journal of the European Union.
+Subject Matter and Scope
+Regulation (EC) No 29/2009 lays down requirements for the coordinated introduction of data link services based on air-ground point-to-point data communications.
+Air navigation service providers and operators have reported technical issues when implementing Regulation (EC) No 29/2009, particularly disconnections, known as Provider Aborts (‘PAs’), of existing air-ground data communications enabling the operations of data link services (‘DLS’) and which are beyond acceptable performance levels. For that reason certain air navigation service providers have already taken mitigation measures, consisting of the restriction of DLS operations to aircraft equipped with specific avionics through so-called ‘white lists’, so as to address potential safety impacts of those PAs in the operations of data link service.
+At the request of the Commission, the European Aviation Safety Agency (‘European Aviation Safety Agency (EASA)’) conducted an investigation to identify the root cause or causes of those technical issues and to recommend measures to address them. The investigation revealed that the random PA occurrences could not be attributed to a single, predictable cause but rather to a combination of factors related to the radio frequency environment and to the current single frequency implementation of the data link infrastructure. It was found that this excessive rate of random PAs causes a degradation in the network performance potentially presenting aviation safety risks by increasing the pilots and controllers' workload and creating confusion leading to a loss of situational awareness.
+EASA concluded in its investigation report that acceptable data link performance levels can only be established by deploying a multi-frequency infrastructure, which is also to be optimised for radio frequency interference prevention. It recommended establishing and implementing a plan of actions to further investigate the identified technical issues and to validate the necessary technical solutions. However, these measures require time and EASA therefore recommended to reconsider the date of application of Regulation (EC) No 29/2009 and the timeframes of that Regulation.
+Therefore, particularly due to the observed technical difficulties and shortcomings in the performance of the deployed DLS infrastructure and their potential impact on aviation safety and given that the necessary studies and actions to identify and remedy them are expected to be completed during the course of 2018, the date of application of Regulation (EC) No 29/2009 has been deferred to 5 February 2018.
+The dates of application ofthe requirements relating to the ground equipage for the airspace defined in Parts A and B of Annex I to Regulation (EC) No 29/2009 has been commonly set to 5 February 2018.
+The measures set out in this Regulation, in particular the amendment to the date of application of Regulation (EC) No 29/2009, are, subject to the need to adequately address any aviation safety issues that may arise in this connection.
+List of amendments
+In particular, the following amendments have been made:
+
+Zagreb FIR (Croatia) is inserted in Annex I defining the airspace where DLS shall be provided.
+A common IR applicability date, notably 5 February 2018, is introduced for all FIRs listed in Annex I, i.e. for the airspace of all EU countries above FL 285.
+Aircraft operators shall ensure that all aircraft operating GAT flights in accordance with IFR above FL 285 within the airspace defined in Annex I are capable to operate the DLS defined in Annex II of Regulation 29/2009 as from 5 February 2020, except for:
+
+State aircraft;
+aircraft with an individual certificate of airworthiness first issued before 1 January 2014 and fitted with data link equipment certified against the requirements of one of the Eurocae documents specified in point (10) of Annex III;
+aircraft which have an individual certificate of airworthiness first issued before 31 December 2003 and which will cease operation in the airspace referred to above before 31 December 2022;
+aircraft flying in the airspace referred above for testing, delivery or for maintenance purposes or with data link constituents temporarily inoperative under conditions specified in the applicable MEL.
+
+
+
+Entry into Force
+This Regulation is binding in its entirety and is directly applicable in all EU member states as from 5 February 2018.
+Commission Implementing Regulation (EU) 2015/310 of 26 February 2015 amending Regulation (EC) No 29/2009 laying down requirements on data link services for the single European sky and repealing Implementing Regulation (EU) No 441/2014 (OJ 56, 27.2.2015) - full text
+Amendment
+Regulation 29/2009 and, consequently, this Regulation were amended by Regulation 2019/1170 amending Regulation No 29/2009 on data link services for the SES. Two more aircraft equipage exemption criteria were added and references to various documents (ICAO Annex 10 and Annex 11, EUROCAE standards) updated.
+Regulation 29/2009 was supplemented by Commission Implementing Decision (EU) 2019/2012 from 29.11.2019. A list of aircraft types exempted from complying with the equipage requirements was defined.
+This Regulation was repealed by Regulation 2023/1770 and is no longer in force.
+Related Articles
+
+Regulation 29/2009 - Data link services for the Single European Sky
+Controller Pilot Data Link Communications (CPDLC)
+
+Further Reading
+
+EUR-Lex Portal: Regulation 310/2015 (available in different languages and file formats)
+
+
+
+
+
+Categories
+
+
+Single European Sky,
+              SES Implementing Rules
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

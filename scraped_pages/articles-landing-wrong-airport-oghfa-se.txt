@@ -1,0 +1,208 @@
+Landing At Wrong Airport (OGHFA SE)
+
+
+
+
+
+
+
+
+
+
+
+  Landing At Wrong Airport (OGHFA SE)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+OGHFA 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ Flight Safety Foundation
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Incident as a Situational Example
+Your aircraft is on an eastbound transatlantic flight. Toward the end of the flight, you are cleared to a waypoint on the filed flight plan that is on the edge of two flight identification regions (FIR)s.
+As you approach land, the controller clears you to descend and gives the first radar vector, causing the aircraft to deviate from the planned route. Other descent clearances follow.
+After being transferred to another center, the controller tells you to expect a standard arrival to Runway 25 at another airport. Neither you nor the first officer notices that the airport identifier is wrong.
+Successive clearances bring the aircraft down to 8,000 ft. The controller gives a direct routing to the BRUNO VHF Omnidirectional Radio Range (VOR) (VHF omnidirectional radio), but you cannot find the VOR on the destination approach charts. Consequently, you request the position of BRUNO. The controller replies that your heading is correct and that you have 33 nm left before touchdown.
+Do you proceed under air traffic control (ATC) guidance?
+After being handed over to what appears to be another arrival airport, unknown to you, the first officer calls on the indicated frequency, “Leaving flight level eight three for eight zero.” The controller replies, “Good morning, descend to 2,000 ft, QNH 1003, wind calm for 25 left.” Tuning the intended destination airport’s automatic terminal information service (ATIS), you cannot receive it.
+What is your reaction to the non-availability of the ATIS?
+The first officer then asks, “Control, can you give us the transition level this morning please?” Again, the controller does not understand the confusion and simply replies with the transition level. You acknowledge and inform him that you have not been able to get the ATIS.
+Following this, the aircraft is twice radar vectored and is finally cleared to turn for an Instrument Landing System (ILS) (instrument landing system) approach to the runway. The first officer asks to confirm the heading of 230 degrees. As the aircraft overshoots the localizer, the controller answers, “You fly now at two seven zero to intercept the localizer 25L, frequency one one zero decimal three.”
+Once you confirm that you are established on the localizer, the controller hands you over to the tower frequency. You contact the tower, “Tower, with you on final for 25 left.” Again, the tower controller clears you to land on Runway 25L and provides wind information.
+On final, you do not recognize the airport.
+What is your next move after not recognizing the airport?
+You ask, “Do you have us in sight?” The controller confirms.
+Finally at 500 ft, you realize that the runway is made of black-colored concrete whereas the intended airport’s Runway 25 is light-colored. You realize that you are not landing at the destination airport.
+Do you proceed with the landing?
+Nevertheless, since you are not fully aware of the aircraft’s position, you decide to continue the approach and clarify the situation on the ground.
+Data, Discussion and Human Factors
+The main factors involved in this situation are:
+
+Organizational problems at the en route ATC center.
+Shortcomings in controller-pilot communication.
+Loss of crew situational awareness and, contributing to this, press-on-it is.
+Fatigue and its influence on communication between crewmembers.
+
+The filed flight plan received by London ATC clearly indicated the destination airport and a primary alternate. Nevertheless, it was a third airport that was entered in the system. Investigation could not explain this error.
+An error message was triggered by the ATC ground system. The assistant controller did not use the applicable procedure but stated that he verbally informed the controller responsible for that sector. The controller could not recall this.
+Therefore, the aircraft was handled as inbound to another airport, in accordance with standard transfer procedures between two ATC centers.
+One of the core problems in this scenario is that all crewmembers lost situational awareness. All crewmembers reported after the incident that the ATC instructions to descend seemed very premature. The main cause for this loss of spatial awareness was the speed at which the descent was conducted (press-on-itis). All crewmembers had to concentrate on their tasks and ceased communicating. On top of that, the crew was taken out of the loop for navigation as the aircraft was radar-vectored all the way down.
+The flight engineer failed to notice the four tons of difference in fuel at destination and warn the other crewmembers.
+Contributing to the pilots’ confusion was the fact that none of the three controllers (control, arrival and tower) at the third airport used his station identifier, disregarding the recommendations made for standard International Civil Aviation Organization (ICAO) phraseology.
+Moreover, the arrival procedures at the intended airport and the incorrect airport were similar, and both airports have two parallel runways with the same identifier — 25L and 25R.
+The investigation also concluded that symptoms of fatigue had been influencing the crew. At the time of the event, around 0300-0500, the crewmembers’ wakefulness was at its lowest, according to their biological clocks. The resulting symptoms, which were all observed in this incident, were:
+
+Lower social interaction between crewmembers; thus, less communication.
+Reduced capacity to think ahead and a feeling of submitting to the situation.
+Acceptance of degraded performance from other crewmembers.
+
+Prevention Strategies and Lines of Defense
+As pointed out by the investigation, the core factor contributing to this incident was the loss of situational awareness. The crew did not succeed in detecting this because they did not react to the clues that indicated their loss of awareness:
+
+The feeling that the descent was premature and hasty.
+Confusion about the arrival procedure.
+VOR missing on the approach chart.
+ATIS not received.
+Wrong ILS frequency.
+Difference of four tons in fuel level.
+
+Most of these unresolved discrepancies and confusions were not shared among the crewmembers. Fatigue and press-on-itis contributed.
+Prevention strategies can be found in the Situational Awareness Checklist and can be summarized as follows:
+
+Assess factors reducing situational awareness: time pressure, fatigue.
+Be on the lookout for clues of degraded situational awareness:
+
+Ambiguity — Unclear flight plans or ATC instructions.
+Confusion — Uncertainty or misunderstanding a situation or information.
+Unresolved discrepancies — Contradictory data or personal conflicts.
+Expected checkpoints not met — Flight plan, profile, time, fuel burn.
+Poor communications — Vague or incomplete statements.
+No time — Falling behind the aircraft.
+
+
+
+Finally, stick to standard phraseology and request clarification of ATC transmissions that are not compliant with the ICAO standard.
+Key Points
+
+ATC organization errors caused the aircraft to be vectored to the wrong airport.
+Nonstandard ICAO phraseology did not clarify confusions.
+Awareness of factors that can reduce situational awareness: time pressure, fatigue.
+In case of doubt or confusion, share your thoughts and take time to think.
+
+Associated OGHFA Material
+The following briefing notes, visuals and checklists provide expanded information to complement the above overview:
+Briefing Notes:
+
+Situational Awareness
+Press-on-itis
+Pilot-Controller Communications
+
+Visual:
+
+Situational Awareness
+
+Checklist:
+
+Situational Awareness Quick Reference and Reminder
+
+Additional Reading Material
+
+U.S. Federal Aviation Administration Advisory Circular 60-22: Aeronautical Decision Making
+Joint Aviation Authorities. Joint Aviation Requirements-Operations 1.945, 1.955 or 1.965, “CRM Training.”
+Flight Safety Foundation Approach and Landing Accident Reduction (ALAR) Toolkit
+
+Related SKYbrary Articles
+
+Wrong Runway Use
+Crew Resource Management
+Situational Awareness
+Flight Safety Foundation ALAR Toolkit
+
+
+
+
+
+Categories
+
+
+OGHFA,
+              Situational Examples,
+              Human Factors
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

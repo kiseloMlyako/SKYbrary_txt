@@ -1,0 +1,207 @@
+Transponder failure types
+
+
+
+
+
+
+
+
+
+
+
+  Transponder failure types
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Air Ground Communication 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+This article describes the various transponder failure types and their impact on ATC operations.
+Transponder failure types
+The most common transponder failure types classified by feature are:
+
+Mode A code only (Aircraft Identifier);
+Mode C information only (Altitude data);
+Mode S 24-bit address only which may result in unidentified aircraft being present on the situational display or a wrong track correlation;
+Total failure (A, C & S), which may result in the aircraft disappearing from the situational display.
+Partial loss of transponder functionality (e.g. operational at reduced power limiting transponder detection by ATC radar and/or other aircraft).
+
+The transponder failure types classified by severity are:
+
+Total loss – feature(s) unavailable;
+Corrupted – feature available but wrong data is being transmitted;
+Intermittent – the data is correct but is transmitted with interruptions;
+Duplicated – two or more aircraft are transmitting the same values.
+
+Some feature/severity pairs are not applicable (e.g. duplicated mode C). The most common combinations of transponder failures are:
+
+Total loss: There is no transponder-based data received at the CWP. For the purposes of this study, it is assumed that the loss is maintained through an entire sector or multiple sectors.
+Corrupted Mode A: Information received at the CWP is incorrect, primarily due to an error input into the transponder, or the processing and transmission of the Mode A code by the transponder. Whilst errors leading to an incorrect Mode A code could occur in the ground ATM system, they are not the focus of this study.
+Intermittent Mode C: Transponder-based altitude information is lost from the CWP for short periods of time, long enough to cause the end effect (risk), for example 1-2 minutes. This is assumed to be due to transponder-based errors or detection failures, rather than ground system processing failures.
+Duplicated Mode S 24-bit address: Two aircraft are operating with the same aircraft ID, specifically the same Mode S 24-bit address. The aircraft would usually need to be proximate for this to have a significant safety impact e.g. within the same sector or adjoining sectors – although it is recognised that the resulting potentially unexpected trajectory may cause confusion even where aircraft are not proximate.
+
+Possible outcomes and impact on operations
+A duplicated mode A or mode S 24-bit address is not properly handled (or is neglected) may ultimately lead to:
+
+wrong identification and consequently to clearances being issued to a wrong aircraft with various undesired results, e.g.:
+
+loss of separation;
+possibility of a CFIT;
+airspace infringement.
+
+
+the ATC system dropping one of the tracks, considering it to be fake.
+
+Corrupted or intermittent mode C altitude information may lead to:
+
+a complete loss of track (due to the ATC system considering it invalid);
+wrong assumptions about the aircraft level which may result in a loss of separation event;
+aircraft assumed to be at all heights causing numerous false alerts;
+TCAS being inefficient.
+
+Total loss of transponder information may lead to:
+
+Controller tools (MTCD, STCA, AMAN) not accounting for the aircraft in question. This affects planning and conflict resolution.
+Loss of communication (that may further spread to more downstream sectors or units):
+
+The controllers might forget to transfer the aircraft to the next sector/unit;
+The flight crew may not ask for a frequency change when leaving the sector;
+At some point, the flight crew may be outside the radio coverage of the previous sector and be unaware of the frequency used in the airspace they are flying through.
+
+
+Incomplete situational awareness for the next sectors or units, as they may even not be aware that an aircraft without a transponder has entered their airspace (and has not checked in on the frequency);
+Airspace infringement:
+
+The aircraft may enter controlled airspace without obtaining a clearance;
+The controllers might not detect the aircraft entering a prohibited, restricted or danger area;
+The controllers may be unable to warn the flight crew of possible airspace infringements if they are unaware of the aircraft’s presence in their airspace.
+
+
+Loss of separation – if the controllers are not aware of the aircraft presence they are likely
+TCAS being inefficient – the TCAS would not generate RAs in case of a total transponder failure which may lead to an accident.
+
+Collision avoidance via procedural control – Use of altitude information acquired through voice reporting to achieve vertical separation.
+
+
+Crew collision avoidance
+
+See and avoid practiced by aircraft - This could include the executive controller actively encouraging the aircraft to see-and-avoid through informing them of the track loss situation (if detected) and notifying them of proximate aircraft’s approximate or last known position. The effectiveness of see-and-avoid for Commercial Air Transport is not thought to be high, particularly where there is no indication of the other aircraft through other means (e.g. via TCAS display or through party-line situational awareness).
+
+
+
+Further reading
+
+Operational Safety Study: Risk of operation without a transponder or with a dysfunctional one, by EUROCONTROL SISG
+
+
+
+
+
+Categories
+
+
+Air Ground Communication,
+              Loss of Separation,
+              Safety Nets
+
+
+
+
+
+
+
+
+
+Related articles
+
+Transponder
+Mode S
+Aircraft Mode S Transponders - Incorrect and Missing Data - EASA Safety Information Bulletins
+Best Practice - Use of Transponder
+ATC Loss of Transponder Signal
+Operation without a Transponder or with a Dysfunctional Transponder
+Aircraft without Transponder – Mitigations
+An aircraft without transponder – Guidance for Controllers
+Impact of transponder failure on safety barriers
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

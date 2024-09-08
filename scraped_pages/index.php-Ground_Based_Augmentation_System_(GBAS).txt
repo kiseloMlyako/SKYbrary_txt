@@ -1,0 +1,115 @@
+Ground Based Augmentation System (GBAS)
+
+
+
+
+
+
+
+
+
+
+
+  Ground Based Augmentation System (GBAS)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ground Based Augmentation System (GBAS)
+Description
+A Ground Based Augmentation System (GBAS) is one which provides differential corrections and integrity monitoring of Global Navigation Satellite Systems (Global Navigation Satellite System) data using as input data either three or four GNSS satellite signals received at three of four antennae. The differential correction message computed from this data is then continually broadcast omni-directionally (twice every second) by a ground transmitter using a VHF frequency broadcast (VDB) which is effective within an approximate 23 nm radius of the host airport. GBAS is used primarily used to facilitate GNSS-based precision approaches which are more flexible in design than is possible with ILS. Whilst the main goal of GBAS is to provide signal integrity, it also increases signal accuracy, with demonstrated position errors of less than one meter in both the horizontal and vertical plane. One GBAS Ground Station at an airport supports aircraft approach and landing to multiple runway ends as well as departures from multiple runways and surface movement for all GBAS-equipped aircraft.
+The application of GBAS to precision approach is described as the GBAS Landing System or GLS. Currently Category I GLS approaches using GPS as the GNSS source have regulatory approval and similar approval for Category II and III GLS approaches is anticipated. Note that the FAA initially referred to GBAS as LAAS - Local Area Augmentation System.
+Related Articles
+
+GBAS Landing System (GLS)
+Satellite Based Augmentation System (SBAS)
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

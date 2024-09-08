@@ -1,0 +1,139 @@
+NextGen
+
+
+
+
+
+
+
+
+
+
+
+  NextGen
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+Next Generation Air Transportation System (NextGen) is a term for the continuing transformation of the National Airspace System (NAS) of the United States, planned in stages between 2012 and 2025. At its most fundamental level, NextGen represents an evolution from a ground-based system of air traffic control to a satellite-based system of air traffic management, through the development of aviation-specific applications for existing, widely-used technologies, such as the Global Positioning System (GPS) and technological innovation in areas such as weather forecasting, data networking and digital communications. NextGen will allow more aircraft to safely fly closer together on more direct routes, reducing delays and providing benefits for the environment and the economy through reductions in carbon emissions, fuel consumption and noise.
+Description
+The movement to the next generation of aviation (NextGen) is being facilitated by a change to smarter, satellite-based and digital technologies and new procedures that combine to make air travel more convenient, predictable and environmentally friendly in the US’s increasingly congested airspace. NextGen is expected to improve safety, reduce delays, save fuel and reduce aircraft exhaust emissions. Implementing NextGen involves complex activities ranging from concept development to deployments of capabilities in the NAS.
+NextGen Elements
+NextGen consists of five elements:
+Automatic dependent surveillance-broadcast (ADS-B) - ADS-B will use GPS satellite signals to provide air traffic controllers and pilots with much more accurate information that will help keeping aircraft safely separated in the sky and on runways. Aircraft transponders receive GPS signals and use them to determine the aircraft's precise position in the sky. These and other data are then broadcast to other aircraft and air traffic control. Once fully established, both pilots and air traffic controllers will see the same real-time display of air traffic, which will contribute to improving safety. The Federal Aviation Administration (FAA) will mandate the avionics necessary for implementing ADS-B.
+Next Generation Data Communications - Current communications between aircrew and air traffic control, and between air traffic controllers, are largely realised through voice communications. Initially, the introduction of data communications will provide an additional means of two-way communication for delivery of air traffic control clearances, instructions, advisories, flight crew requests and reports. With the majority of aircraft data link equipped, the exchange of routine controller-pilot messages and clearances via data link will enable controllers to handle more traffic. This will improve air traffic controller productivity, enhancing capacity and safety.
+Next Generation Network Enabled Weather (NNEW) - Seventy percent of NAS delays are attributed to weather every year. The goal of NNEW is to cut weather-related delays at least in half. Tens of thousands of global weather observations and sensor reports from ground-, airborne- and space-based sources will fuse into a single national weather information system, updated in real time. NNEW will provide a common weather picture across the national airspace system, and enable better air transportation decision making.
+System Wide Information Management (SWIM) - SWIM will provide a single infrastructure and information management system to deliver data to many users and applications. By reducing the number and types of interfaces and systems, SWIM will reduce data redundancy and better facilitate multi-user information sharing. SWIM will also enable new modes of decision making as information is more easily accessed.
+NAS voice switch (NVS) - There are currently seventeen different voice switching systems in the NAS, some in use for more than twenty years. NVS will replace these systems with a single air/ground and ground/ground voice communications system.
+Benefits of NextGen
+
+Trajectory Based Operations - The airplanes will transmit and receive precise information about the time at which they will cross key points along their paths. Pilots and air traffic controllers will have the same precise information, transmitted via data communications. ADS-B, SWIM, and Data Communications are critical to trajectory based operations.*
+Reduce Weather Impacts - With NextGen, the impact of weather is reduced through the use of improved information sharing, new technology to sense and mitigate the impacts of weather, improved weather forecasts, and the integration of weather into automation to improve decision-making. Better forecasts, coupled with new automation, will minimize airspace limitations and traffic restrictions.
+High Density Airports - In the airspace around the US’s busiest airports (Chicago, New York, Dallas/Fort Worth, Los Angeles), NextGen will provide capabilities beyond those in other areas. New procedures will improve airport surface movements, reduce spacing and separation requirements, and better manage the overall flows into and out of busy metropolitan airspace to provide maximum use of the highest demand airports.
+Flexible Terminals and Airports - Focusing all resources on the largest, most complex airports would fail to uncover untapped capacity in the system. During busy traffic periods, NextGen will rely on the ability of aircraft to fly precise routes into and out of many airports to increase throughput
+
+Related Articles
+
+Automatic Dependent Surveillance Broadcast (ADS-B)
+Controller Pilot Data Link Communications (CPDLC)
+
+Further Reading
+FAA
+
+Next Generation Transportation System (NextGen) website
+
+Others
+
+Comparison of the SESAR and NextGen Concepts of Operations, NCOIC
+
+
+
+
+
+Categories
+
+
+General,
+              SES Implementation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

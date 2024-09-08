@@ -1,0 +1,181 @@
+Electronic Flight Bag (EFB)
+
+
+
+
+
+
+
+
+
+
+
+  Electronic Flight Bag (EFB)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Control 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+The term "Electronic Flight Bag" covers any portable electronic display hardware intended primarily for flight deck or cabin use. Some national aviation authorities (NAAs) now simplify their definition of electronic flight bag (EFB) as “any device, or combination of devices, actively displaying EFB applications.” ‘EFB devices’ can store and display a variety of aviation data or perform basic calculations for aircraft performance or fuel loading purposes.
+In the past, many of these functions were traditionally accomplished using paper references carried on board the aircraft or were based on data provided to the flight crew in various ways by an Operator’s ‘flight dispatch’ organisation. The goal is for a fully configured EFB system to be able to facilitate a paperless flight deck.
+The scope of the EFB system functionality may also include various other hosted databases and applications. EFB Hardware may use various technologies, formats, and forms of communication. Devices which function as an EFB may be referred to as an Auxiliary Performance Computer (APC) or as a Laptop Auxiliary Performance Computer (LAPC).
+EFB Hardware should be seen as part of an EFB system, in which the effectiveness of the hardware function is assured by its place in that system. It is expected that overall responsibility for maintaining the integrity of EFB systems will be specifically assigned.
+There is broad National Aviation Authority (NAA) agreement on the approach which will be taken in respect of EFB systems. The remainder of this summary is therefore generic and the detail may be found in the references given under ‘Further Reading’.
+Classes of EFB System Hardware
+The first generation of EFB hardware-software systems was defined by reference to three levels of functional sophistication starting with Class 1:
+
+Class 1 EFB Systems did not require NAA airworthiness approval. They had to be stowed for takeoff and landing and are limited to providing supplemental information only.
+Class 2 EFB Systems required a limited NAA airworthiness approval. Although considered to be a portable electronic device, an entry in the Aircraft Technical Log was required to remove a Class 2 EFB from the aircraft. It could be connected to aircraft power and to the aircraft’s data link port and could exchange data with aircraft systems, enabling it to make interactive performance calculations.
+Class 3 EFB Systems were installed aircraft equipment requiring an Supplementary Type Certificate or a certification design approval as well as NAA Airworthiness approval. Depending on the model, it could be connected to the Global Positioning System (GPS) or Flight Management System and it could be able to combine GPS position with the locations and speed vectors of other aircraft and graphic weather information into a single, detailed moving map display.
+
+The EFB Classes 1, 2, and 3 were later eliminated and a simpler concept of portable and installed equipment was introduced, to harmonize with the ICAO and to accommodate increasingly complex systems integrating both installed and portable equipment:
+
+EFB equipment components supporting EFB applications are installed when they are incorporated into aircraft type design, or as a proper alteration.
+All other components supporting EFB functionality are considered portable, regardless of how often they are removed from the aircraft.
+
+In order for portable EFB hardware to support EFB applications, installation of at least some components may be required, depending on requirements for positional integrity (e.g. installed mounts), continuity of power and data connectivity.
+Airworthiness regulations do not apply to portable EFB components other than for specifications associated with the installed components (i.e. mounting, power, and data connectivity).
+EFB Applications Classification
+Three classes of progressively increasing sophistication are defined starting with Type A. In summary, they are as follows:
+
+TYPE A APPLICATIONS - document storage and retrieval
+
+
+TYPE B APPLICATIONS - applications software which enables the independent performance of calculations needed for the operation of the aircraft, the display of aeronautical charts without actual aircraft position, use of electronic checklists, uses the Internet and/or other aircraft operational communications, displays weather information or facilitates aircraft video camera surveillance displays
+
+
+TYPE C APPLICATIONS - relate to the active control of the aircraft in flight and/or duplicate any certified avionics system and/or which, due to automatic interactions with other aircraft systems, displays and controls, raise significant human factors issues
+
+Note: Type C applications are currently not considered potential EFB applications. The adopted policy by both EASA and FAA is that any non-Type A or non-Type B software application should undergo a full airworthiness approval and so become a certified avionics function.
+Related Articles
+General
+
+Airworthiness
+Human Performance
+Loss of Control
+
+Accident & Incident Reports
+The following accidents and incidents involved crews using an EFB.
+
+B742, Halifax Canada, 2004: On 14 October 2004, a B742 crashed on take off from Halifax International Airport, Canada, and was destroyed by impact forces and a post-crash fire. The crew had calculated incorrect V speeds and thrust setting using an EFB.
+A345, Melbourne Australia, 2009: On 20 March 2009 an Airbus A340-500, operated by Emirates, commenced a take-off roll for a normal reduced-thrust take-off on runway 16 at Melbourne Airport. The attempt to get the aircraft airborne resulted in a tail strike and an overrun because insufficient thrust had been set based upon an incorrect flight crew data entry in the EFB performance calculation. The ATSB report into this incident includes some specific references to the use of EFBs:
+
+The Ergonomics of EFB use in an SOP context
+Interaction with automation and potential for error in take-off performance calculation
+Flight crew experience in the detection of erroneous take-off performance parameters
+
+
+B733, Chambery France, 2012: A B737-300 failure to become airborne from runway 36 at Chambery following rotation at the calculated speed and subsequent tail strike.
+
+Further Reading
+Boeing
+
+Electronic Flight Bag Solutions: Onboard Performance Tool, July 2012.
+
+CAST
+
+SE 183: Cockpit Moving Map Display and Runwway Awareness System, U.S. Commercial Aviation Safety Team (CAST) Safety Enhancement, 17 Sept 2018.
+
+EASA
+
+‘Airworthiness and operational consideration for Electronic Flight Bags (EFBs)', AMC 20-25, Annex II to ED Decision 2014/001/R
+
+FAA
+
+FAA Advisory Circular 120-76D; "Authorization for Use of Electronic Flight Bags", 27 Oct. 2017
+Safety Alert for Operators (SAFO) 16008, Reducing the Risk of Runway Excursions During Takeoff, 26 July 2016.
+
+Transport Canada
+
+Transport Canada Advisory Circular 700-020: Electronic Flight Bags, Issue 3, 3 March 2018.
+
+
+
+
+
+Categories
+
+
+Loss of Control,
+              Flight Technical
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

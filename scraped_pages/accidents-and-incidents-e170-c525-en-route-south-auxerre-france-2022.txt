@@ -1,0 +1,438 @@
+E170 / C525, en-route, south of Auxerre France, 2022
+
+
+
+
+
+
+
+
+
+
+
+  E170 / C525, en-route, south of Auxerre France, 2022
+
+
+
+
+
+
+
+
+
+Summary
+
+On 12 January 2022, an Embraer 170 and a Cessna 525 crossed tracks without the prescribed minimum separation, with neither ATC nor the Embraer crew being aware. Although ATC had issued acknowledged clearances to keep the Embraer 1,000 feet above the Cessna, it actually passed beneath it, violating minimum lateral separation. The underlying cause of the event was found to be an unrectified recurrent intermittent fault in one of the Cessna’s air data systems. Poor Cessna crew/controller communication during the event, systemically poor safety culture at its operator, and shortcomings in the Textron Aircraft Maintenance Manual were considered contributory.
+
+
+
+
+Event Details
+
+When
+
+12/01/2022
+
+
+
+Event Type
+
+
+AGC,
+              AW,
+              HF,
+              LB,
+              LOS
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+EMBRAER ERJ 170-100
+
+
+
+
+
+
+
+
+
+Operator
+
+HOP!
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Lyon/Saint-Exupery
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Caen-Carpiquet Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Cruise
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+CESSNA 525 CitationJet
+
+
+
+
+
+
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Paris/Le Bourget Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Geneva Cointrin International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Cruise
+
+
+
+
+
+
+
+
+Location
+
+Approx.
+
+south of Auxerre, France
+
+
+
+
+
+
+
+
+
+
+General
+
+Tag(s)
+
+
+              Copilot less than 500 hours on Type,
+              Inadequate Aircraft Operator Procedures,
+              Inadequate Airworthiness Procedures
+          
+
+
+
+
+AGC
+
+Tag(s)
+
+
+              Provision of Aircraft Performance Data
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Inappropriate crew response (technical fault)
+          
+
+
+
+
+LB
+
+Tag(s)
+
+
+              Accepted ATC Clearance not followed
+          
+
+
+
+
+LOS
+
+Tag(s)
+
+
+              Accepted ATC Clearance not followed,
+              Required Separation not maintained,
+              Level Bust
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Indicating / Recording Systems
+          
+
+
+
+Contributor(s)
+
+
+              Inadequate QRH Drills,
+              Component Fault in service
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Technical
+Air Traffic Management
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 12 January 2022, an Embraer 170 (F-HBXG) operated by Air France subsidiary ‘HOP!’ on a scheduled domestic passenger flight from Lyon to Caen as AF1672, and a Cessna 525 (F-HGPG) operated by Valljet on a nonscheduled passenger flight from Paris Le Bourget to Geneva came into close vertical proximity in day VMC whilst on crossing tracks. The Embraer pilots did not see the other aircraft they passed beneath and no proximity warnings were annunciated on board the Embraer or at the ACC which was providing control service. The Cessna pilots were aware of discrepancies between the left and right side airspeed and altitude displays prior to the conflict, but did not fully advise ATC of the extent of these discrepancies until after the loss of separation had occurred. Once they had identified which displays were correct and advised ATC, the remainder of the flight was completed without further event.
+Investigation
+A Serious Incident Investigation was carried out by the French Civil Aviation Accident Investigation Agency (the BEA), using relevant FDR from the ERJ 170, but the Cessna did not have a CVR and was not required to. Recorded ATC data was available. 
+The Cessna 525 was being operated (optionally as far as the applicable regulations were concerned) by two pilots who both held CPL/IR (commercial pilot licence instrument rules) with Cessna 525 Type Ratings. The 36-year-old captain, who was acting as PF for the sector, had a total of “approximately 2,000 hours” flying experience which included “around 1,000 hours on type”. He also had significant gliding and microlight flight experience. The 22-year-old first officer had a total of “approximately 370 hours” flying experience which included “around 110 hours on type”. 
+What Happened
+During the climb, the Cessna 525 experienced a sudden variation in pitch with the AP engaged in IAS. After briefly disconnecting the AP and flying manually, the AP was re-engaged in VS mode. Only when subsequently approaching their cleared cruise level (FL270) did they notice a significant difference in the two pilot’s altimeter indications. When asked by the crew to check the flight’s indicated altitude, the controller responded with the figure on his radar screen, generated by the data fed from the aircraft’s transponder. Notwithstanding the earlier problem with the captain’s AP-engaged climb in IAS mode, this information did not enable the crew to determine which ASI was incorrect, and the climb was continued in the presence of some uncertainty. 
+Once the flight had levelled off, the Cessna crew could see a difference of around 1,500 feet between their altimeter indications and advised ATC of their uncertainty as to their actual level. The controller “did not consider that there might be an onboard fault following this request” and responded with information concerning an ERJ170 on a crossing track and in their twelve o’clock about 2nm away at a distance of around 2 nm and 1,000 feet above (FL280) “based on the information available to him”. The two aircraft crossed tracks a few seconds later, with the Cessna crew observing an aircraft passing beneath them instead of above. The ERJ170 crew did not see the Cessna. GNSS data from the two aircraft indicated that the minimum achieved separation was 1.5 nm laterally and 665 feet vertically. No loss of separation indication was received by the ERJ170, and its transponder and TCAS system were functioning normally. No loss of separation was annunciated in ATC. 
+The controller and the Cessna crew then discussed the altimeter discrepancy and the crew then “deduced that the first officer’s altimeter and airspeed indicator information was valid” and "decided that these indications should be used to continue the flight”. This conclusion was informed by a check against the indicated GNSS altitude taking account of the geometric origin of this measurement. The first officer therefore took over as PF and ATC were advised of the crew’s conclusion. The controller responded by requesting the crew to report the conflicting indications on their altimeters and was advised that the first officer’s perceived correct one was FL 285 and the captain’s presumed incorrect one was FL 270. The crew then requested descent, and this was given to FL 230 with an instruction to deactivate their altitude encoder, which was transmitting incorrect data because it was being fed from the captain’s altimeter.
+When correctly reading back these instructions, the Cessna crew then added that the captain’s ASI was also giving erroneous indications. The controller replied that “they were starting to worry him” and that he was going to coordinate with the next control sector (Geneva) to confirm their acceptance of the flight in these circumstances. This was done and the flight was handed over. The flight proceeded to the intended landing at Geneva without further complications and at “around FL 105” the crew indicated that similar altitude and airspeed information had been restored to both pilot’s displays. One week later, a ferry flight back to Paris Le Bourget was made under special authorisation from the aircraft manufacturer with no recurrence of the fault.
+FDR data was used to create a vertical profile of the flight comparing GNSS and pressure altitude and this is reproduced below:
+
+The flight vertical profile based on geometric (GNSS) altitude compared to ADC 1 altitude with a matched depiction of ground and ADC 1-based airspeed. [Reproduced from the Official Report]
+Why It Happened
+The Investigation was unable to determine with certainty what had caused the intermittent air data system fault. However, it was found that the hose connected to the left-side air data system had an "elbow-induced" low point located just above the captain’s rudder pedals which had prevented natural draining of water in the system. Following the replacement of the in-situ hose with one installed without a low point, the fault did not recur, whereas prior to the investigated event several similar intermittent faults had occurred to the same system of the aircraft over several years. The most recent confirmed event was only one month earlier, but this defect was not entered in the aircraft Technical Log after the flight and the crew did not raise an ASR. All that occurred was an exchange with the Citation Fleet captain, who approved the aircraft continuing in service with a revenue flight during which the fault did not recur. Further reporting of the same fault “deteriorated over time (and) there was no regulatory reporting of the fault in the aircraft Technical Log in the month prior to the investigated event". 
+The fleet captain was fully aware of previous occurrences of the same malfunctions over a considerable time, but had not ensured that the company SMS and Continuing Airworthiness Management Organisation (CAMO) were similarly aware. He had personally experienced the same problem away from base in 2019, after which he had also operated a revenue sector back to base, and only after that recorded a defect in the aircraft Technical Log. However, this entry had advised that in his opinion the cause of the problem was a fault with the left-side static port rather than specifying the problems encountered which “did not lead to an appropriate maintenance response, in cooperation with the aircraft manufacturer, to identify and address the repetitive fault”. The Investigation considered that “in the absence of relevant troubleshooting guidance [...] for this type of failure, the help of the manufacturer is recommended in order to effectively address it”. When contacted during the Investigation, the aircraft manufacturer, Textron Aviation, stated that its Flight Safety department “was not aware of a similar event”. 
+It was found that neither the AFM nor the operator's QRH contained procedures for an airspeed indicator fault and/or an altimeter fault arising from an air data system malfunction. The Investigation also noted that as a result of previous Serious Incident Investigations following air data system failures, “the BEA has twice recommended to the European Union Air Safety Agency (EASA) that the manufacturer's documentation on crew procedures should be updated on this subject”.
+In respect of the evidence of serial non-recording of aircraft defects by aircraft commanders at the operator involved, it was “possible that the status of certain captains employed by the operator and the nature of their relationship with the operator encourage these practices”. In this matter, it was noted that the operator employs freelance captains for some of its flights, and considered that such pilots “may want to avoid compromising flight operations and grounding aeroplanes”. This view was supported by a number of pilots interviewed during the Investigation who “mentioned that certain freelance captains minimised (recorded defects) in this way, possibly for fear that too systematic a reporting of the faults observed by them would lead the operator to stop using their services”.  
+However, this was only part of wider systemic problems at the aircraft operator which extended to all Citation captains who had continued to “frequently and nearly exclusively ask their fleet captain for his advice in respect of technical problems despite a Maintenance Control Centre (MCC) having been set up”. It was concluded that overall “a non-compliant way of proceeding with respect to regulatory requirements had been set up, particularly by the CAMO so as to be able to process certain defects not recorded in the aircraft Technical Log” and, more widely, the Investigation found that a number of both “pilots and managers” at Valljet were of the view that “safety culture” at the operator was deficient.  
+Five potential Contributory Factors which may have contributed to the loss of separation between the Cessna 525 and the ERJ-170 were identified as follows:
+
+The [Cessna 525] flight crew not giving immediate and explicit information to the controller concerning the differences in altitude indications observed between systems 1 and 2;
+The controller not giving clear information to the crew concerning the nature and origin of the altitude information available to him on his screen, in response to the question from the crew who had not formalised their doubt; 
+The [Cessna 525] captain's confirmation bias generated by the controller's response to the crew's question (similarity of indications in near-stabilised flight); 
+the [Cessna 525] pilots giving late information to the controller concerning the altitude differences between their system 1 and 2 altimeters, limiting the options available to the controller to manage the conflict;
+the absence of a (manufacturer and/or operator) (flight) crew procedure to deal with cases of faults or uncertainties with respect to the air data system indications. 
+
+Two other potential Contributory Factors which may have resulted in an air data system being kept in an unsafe technical condition were also identified as:
+
+The inappropriate practices with respect to the reporting and technical processing of occurrences in the Valljet Citation (operation), which have been shown to be ineffective and may reflect a deficient safety culture.
+Shortcomings in the Textron Aviation maintenance manual, in particular the absence of a suitable troubleshooting procedure for this type of situation. 
+
+Two other potential Contributory Factors, which may have been relevant to the absence of operational procedures for the crew, which led to the inadequate operational management of an in-flight fault on an air data system were identified as:
+
+The limited scope of the actions taken by EASA after the serious incident of 2010, in particular with respect to the observed shortcomings of the flight manuals drawn up by the manufacturer and in relation to situations of doubtful or erroneous air data information. 
+Inadequate practices with respect to the reporting and operational processing of occurrences at Valljet, which meant that it did not identify the need to produce this type of procedure.  
+
+The Final Report was initially published in the definitive French language on 10 July 2023, and this was followed the next day by an English Language translation.
+Related Articles
+
+Loss of Separation
+Air Data Computer (ADC)
+Airspeed Indicator
+Altimeter
+Aircraft Altimeter Failure
+Aircraft Technical Log
+Emergency and Abnormal Checklist
+Safety Culture
+Continuing Airworthiness
+Internal Occurrence Reporting
+Flight Data Monitoring (FDM)

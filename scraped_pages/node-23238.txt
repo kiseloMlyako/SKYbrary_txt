@@ -1,0 +1,155 @@
+Vortex Ring
+
+
+
+
+
+
+
+
+
+
+
+  Vortex Ring
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Theory of Flight 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ The Air Pilots
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What is a Vortex Ring?
+Vortex Ring, (a flight condition also sometimes called ‘settling with power’ or ‘power settling’) is a flight condition in which a helicopter that is receiving power from its engine(s) loses main rotor lift and subsequently experiences loss of control. Recognition that this condition is developing can be difficult and the onset quick. All helicopter types are vulnerable to it and it can occur at any height outside ground effect. An understanding of how and why it develops is the best protection from an encounter.
+It should be noted that the term “Settling With Power” is often used as an alternative to Vortex Ring to describe the condition. Settling With Power is actually a subtly different condition and should be more accurately described as “Settling With Insufficient Power.” This latter condition can occur when attempting to arrest a low speed rate of descent but the power demands cannot be met by the engines within correct power limits; this is not true Vortex Ring, but Vortex Ring may develop from this condition if there is insufficient power to prevent the Rate of Descent increasing. Likewise, overpitched landings can occur when a sudden and large demand for lift, brought on by a rapid raising of the collective lever, can generate large dragging forces in the rotor which rapidly reduce rotor rpm – if the engine(s) cannot react quickly enough to overcome this the aircraft is effectively operating with insufficient power and reduced rotor rpm with a corresponding loss of lift. In extreme cases the results may be catastrophic, but this condition is not Vortex Ring.
+How it happens
+The cause of true Vortex Ring is two-fold. In all flight circumstances there is a degree of airflow circulation at the tips of the blades where the air forced downwards aerodynamically rotates around the aerofoil tip and forms a vortex; this happens with all aerofoils including fixed wing aircraft wings. The vortex generated increases drag and reduces lift. If a helicopter is descending rapidly there is an increased upflow of air at the rotor tips and this rapidly increases the strength and size of the vortices. This reduces lift and aerofoil efficiency at the tips of the blades and requires more engine power to overcome the drag. Because the rotor blades are turning (as opposed to fixed on an aeroplane) the vortex travels with the blades and the vortex is formed into a “doughnut” shaped ring at the outer edge of the rotor disc.
+Additionally, as the rate of descent increases, there is an increased upflow of air at the blade roots. The speed of the inboard sections of the blades is much slower than the tips. As rate of descent increases it is possible for the upflowing air to modify and increase the local angle of attack at the root end such that the root end of the blade stalls.
+If collective pitch is further increased when the aircraft is in this state the angle of attack along the entire length of the blade is increased. The effect of this will be to increase the extent of the tip vortex which extends further in from the tip. Consequently, the loss of lift at both ends of the blades increases and the area around the middle portion of the blade, that is actually generating lift, reduces. Total lift is reduced and the helicopter accelerates downwards. This acceleration increases the upflow of air, which aggravates the stalled condition. In the extreme, it is possible that the entire length of the blades no longer produces any lift at all.
+The effects of all these factors is increased when the helicopter is at high all up mass, because more power is required to maintain a given flight condition, and is more insidious when operating downwind, as the visual illusion of speed when downwind effectively masks the reduction of forward airspeed.
+Enabling Conditions
+The pre-conditions for vortex ring to develop are relatively simple to identify. They will vary slightly from type to type and with changes in operating conditions such as density altitude, wind conditions and all up mass. The 3 pre-conditions are:
+
+The aircraft has to be in powered flight. If the engines are not producing power, the aircraft is in autorotation and the upflow of air (rather than engine power) is being used to drive the rotor motion. It is not possible to enter the vortex ring state whilst the helicopter is in autorotation.
+There has to be a relatively high rate of descent exceeding a true value of approximately 500’/minute. (Note that due to pressure errors at low airspeed and VSI lag, a figure of 300 fpm is commonly given as a maximum Rate of Descent.) Without the rate of descent there is no upflowing air and the reversal of airflow at the blade root does not occur. Likewise, without the descent, the tip vortex is not amplified and so is not a significant factor.
+The aircraft has to be travelling at a slow forward speed.Due to unreliable ASI indications at low airseed, this isusually taken to be an IAS of less than 30kt. If there is greater forward speed then the vertical flow of air is affected by the forward motion and the vertical components, which are the generating factors, are significantly reduced or even removed as the affected air is left behind the rotor disc.
+
+Recognition
+Vortex ring gives similar symptoms in all helicopters but the severity may vary considerably from type to type. Indeed, modern rotor head design, particularly where there is an Active Vibration Damping System fitted, may reduce the symptoms of incipient vortex ring. Where the symptoms are noticeable they generally appear as follows:
+
+Incipient vortex ring conditions are typically:
+
+increased vibration and buffet,
+the onset of small amplitude ‘twitches’ in pitch and evidence of longitudinal, lateral and directional instability.
+
+
+Established vortex ring conditions are characterised by:
+
+a very rapid increase in rate of descent towards and beyond 3000fpm,
+reduced effectiveness of cyclic inputs in roll or pitch
+the application of collective pitch failing to arrest the rate of descent and usually increasing it.
+
+
+
+Recovery
+
+Incipient Stage. Once recognised, an immediate response is required. Keep the collective position unchanged and apply forward cyclic to achieve an accelerative (nose down) attitude so as to increase forward airspeed quickly. As soon as a steady increase in airspeed is indicated, and above 30 KIAS, more power can be applied if necessary without waiting until the best rate of climb speed is reached. If this action does not resolve the situation rapidly then it is best to treat the condition as established and take the actions below.
+Established Condition. Recovery can only be effected by changing the airflow around the rotor and will inevitably lead to significant loss of height, which makes recovery from a low level occurrence impossible. There are two theoretically possible actions: Moving the cyclic forward and lowering the collective. Combining these actions is likely to produce the quickest recovery with the least height loss. Application of forward cyclic should increase airspeed but a large input held for several seconds may be required before significant pitch attitude and consequent speed change is achieved, with a significant nose down attitude resulting. Lowering the collective to reduce power towards auto-rotation, so unstalling some of the inboard portion of the blades, may also be effective but forward airspeed must be gained before power is re-applied during recovery.
+
+Warning: As recovery from vortex ring is likely to result in a very large loss of altitude, the best form of recovery is to prevent the state arising in the first place. Strict adherence to monitoring rates of descent at low speed is essential, especially if the aircraft is operating at high all up mass and/or downwind.
+Related Articles
+
+B412, vicinity Karlsborg Sweden, 2003 describes an accident in which the crew of a helicopter lost control of the aircraft as a result of pilot mishandling associated with the development of a Vortex Ring State.
+Offshore Helicopter Safety Review 2014 UK CAA
+Helioffshore Automation Guidance; effective use of automation in multi crew helicopters and advocates SOPs based on it. V1.0 Published December 2016.
+
+Further Reading
+
+Helicopter Flying Handbook (FAA-H-8083-21B), FAA, 2019.
+
+
+
+
+
+Categories
+
+
+Theory of Flight,
+              Helicopter Safety
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

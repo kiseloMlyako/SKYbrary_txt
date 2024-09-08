@@ -1,0 +1,212 @@
+Transition to Visual Flight at Night (OGHFA SE)
+
+
+
+
+
+
+
+
+
+
+
+  Transition to Visual Flight at Night (OGHFA SE)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+OGHFA 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ Flight Safety Foundation
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 The Accident as a Situational Example
+You are the captain of a turbojet transport aircraft on approach to an airport in a large city on a dark, stormy night with reduced visibility. You are the pilot flying (PF). In addition to the first officer, a U.S. Federal Aviation Administration (FAA) inspector is in the cockpit. The aircraft is 45 nm from the destination when air traffic control (ATC) advises you to expect a visual approach to the runway in use. However, when the aircraft is 14 nm from the runway, at 6,500 ft, the wind direction changes markedly and gusts increase to 39 kt. ATC changes the clearance to a localizer (LOC) back-course approach to the cross runway.
+What is your next move?
+You do not conduct a briefing for the new approach, which includes a visual descent point (VDP). The approach chart also fails to identify the visual approach slope indicator (VASI) as a visual aid.
+The approach controller directs you to switch to the tower frequency. The tower controller then clears you to land and confirms gusty wind conditions. The approach controller then announces to crews on his frequency that visibility at the field has decreased to 1/2 mi (800 m) in rain. However, this call comes after the switch from approach to tower control, so you never receive this message.
+At this point, the destination airport is below landing minimums for the LOC back-course approach, which requires 1 mi (1,600 m) visibility. Knowing this, the crews of three following flights cancel their landings. But since you never received the message from the tower, you continue the approach, unaware of the deteriorating conditions.
+When you are 3 nm out and at 1,900 ft, the tower controller asks you to report the runway in sight. Shortly thereafter, the controller tells you, “I can't tell for sure but it appears we have lost the lighting on the south side of the airport.” At about the same time, you see a bright flash, which you mistake for lightning.
+What is your reaction?
+In reality, the flash occurred when the aircraft struck and severed four electric transmission cables about 75 ft above the ground a little more than 1 nm east of the runway threshold.
+You then execute a missed approach and land uneventfully at a nearby airport, albeit with a dual hydraulic failure.
+
+2 Data, Discussion and Human Factors
+In this incident, situational awareness began to deteriorate when the crew received a late clearance for a nonprecision approach to the cross runway. The crew had not anticipated this scenario. The change in runways was sufficiently late in the approach that it was difficult for the crew to prepare with the rigor and vigilance required for conducting a nonprecision approach in bad weather.
+The crew developed press-on-itis as a result of multiple operational conditions that produced time pressure and stress, including:
+
+They had only two or three minutes to prepare the approach to the alternate runway.
+There was adverse weather with reduced visibility, gusting winds and rain.
+ATC did not provide timely and accurate information to the crew.
+The presence in the cockpit of an FAA inspector for a proficiency check may have pushed the crew to showcase its skills in a challenging situation rather than adopt a more conservative and less risky strategy.
+During the few minutes of approach preparation, the crew set the navigation aids for the approach and even requested a modified go-around trajectory in recognition of the developing weather. However, it did not conduct a briefing for the new approach and therefore failed to:
+
+Fully identify the approach as nonprecision with a VDP.
+Confirm that the available visual aid was a VASI.
+Brief conditions that would trigger a go-around and associated procedures.
+Assess potential threats due to weather, the nature of the approach, the environment through which they were flying and their own limitations.
+
+
+
+Other human factors threats the crew encountered were visual illusion and visual confusion. Part of the approach was conducted over a dark area, conducive to the black hole effect. This effect typically occurs during a visual approach on a moonless or overcast night, over water or over dark, featureless terrain where the only visual stimuli are lights on and/or near the airport. The absence of visual references in the pilot’s near vision affects depth perception and creates the illusion that the airport is closer than it is and, thus, that the aircraft is too high. The pilot may respond to this illusion by conducting an approach below the correct flight path — that is, a low approach.
+Visual confusion occurred when non-airport-related lights along the approach path to the runway were mistakenly identified by crewmembers as runway lights, prompting them to descend well before the VDP. Since they did not communicate among themselves concerning what they saw and the approach charts did not contain a warning about the potentially confusing lights, cross-checking of actions was inhibited.
+Finally, the crew ignored flight circumstances that should have prompted a go-around from the nonprecision approach. They did not make any callouts or note:
+
+The absence of data from a failed altimeter on the first officer’s side.
+The fact that they did not intercept the localizer until well inside the final approach fix — the localizer needle was at full deflection at and inside the final approach fix.
+Their distance from the runway when they reached the minimum descent altitude (MDA), which would have indicated that they were too far from the runway threshold.
+
+It was only after the flight crew believed the aircraft had been hit by lightning that they initiated a go-around. A tendency in situations such as this is to be biased toward confirming one’s own preconceptions (confirmation bias). In this incident, the fact that the first officer erroneously called out “runway in sight” was likely sufficient to prompt the captain to believe that the lights they saw were, in fact, the runway lights.
+Had the simple prevention strategies and lines of defense discussed below been followed to build and maintain good situational awareness, decision making would have been improved, standard operating procedures (SOPs) would have been followed and the incident could have been avoided.
+
+3 Prevention Strategies and Lines of Defense
+Because of the inclement weather and the insufficient time available to plan for a nonprecision approach, this flight crew should have focused more on approach preparation and being prepared for a go-around.
+The following strategies can help to avoid this type of incident:
+
+Work as a team to perform accurate risk assessments and tactical decision making based on the weather, the type of approach and the risk of specific threats (e.g., visual anomalies).
+Conduct effective briefings that fully review the approach procedures, profile and aircraft configurations, including the final approach fix (FAF) and the MDA.
+Explicitly define task sharing so that it is clear who is to monitor all critical flight parameters, such as distance as a function of altitude.
+Explicitly agree on limits beyond which a go-around or other recovery action will be initiated.
+Explicitly establish that anyone on the flight deck, including an FAA observer, check airman or jump seat pilot, can call for a go-around if any predefined limit is reached.
+Do not fall victim to press-on-itis by yielding to ATC or time pressures to rush the approach. Buy time to create a common situational awareness among the crew.
+If necessary, execute a go-around to provide time to build situational awareness and stabilize any stressful situation.
+
+Applicable human factors principles lead to the following guidelines that can help you stay out of trouble:
+
+Actively search for new information from all available sources to complete situational awareness; missing information may be vital.
+Communicate with each other to make sure that the entire team has a common understanding of the situation.
+Do not fixate on completing the landing on the first attempt.
+Use all available resources — an FAA inspector, for example — as an integral part of the team.
+Focus extra attention on critical parameters relevant to your situation. In this example, the crew should have concentrated more on altitude in the context of a nonprecision approach with a failed radio altimeter, especially given the risk of visual anomalies.
+Cross-check what you sense — see, hear and feel — with your flight instruments.
+Make sure you use callouts effectively when needed — for example, cross-check altitude and distance according to SOPs when flying an unfamiliar nonprecision approach.
+
+The DECIDE Checklist expands upon these prevention strategies and lines of defense.
+
+4 Key Points
+This situational example focused on an approach incident during a transition to visual meteorological conditions (VMC) at night that was caused by the crew’s loss of situational awareness, visual illusion and confusion. During this incident, time pressure (press-on-itis) and stress led to ineffective crew briefings, poor decision making and a failure to initiate an appropriate go-around.
+This incident might have been prevented if the flight crew had recognized that they were losing situational awareness and had taken proven steps to restore it. Addressing human factors issues in situations such as transitioning to VMC at night requires concentrating on the following key activities:
+
+Maintain situational awareness at all times and assess whether available information is sufficient to support mission goals.
+Be sensitive to the possibility of experiencing visual illusions and confusion potentially associated with transitioning to VMC at night, being alert for black hole approach symptoms and confusing lights. Check the approach charts carefully for any warnings.
+Allow sufficient time to prepare for essential aspects of flight management such as studying the approach chart and fully briefing the approach as a team.
+Work together as a team to make appropriate decisions, taking into account the operational facts of the situation.
+Manage pressures, stress and distractions due to unexpected events, such as a change of approach, or unusual and infrequent circumstances, such as being observed as part of a proficiency check.
+
+
+5 Associated OGHFA Material
+The following briefing notes, visuals and checklists provide additional information:
+Briefing Notes:
+
+Situational Awareness
+Vestibular System and Illusions
+Press-on-itis
+Flight Preparation and Conducting Effective Briefings
+Stress and Stress Management
+Decision-Making
+Decision-Making Training
+
+Visuals:
+
+Situational Awareness
+Understanding Visual Illusion and Disorientations
+Stress Management
+
+
+Checklists:
+
+Situational Awareness Quick Reference and Reminder
+Decide - Checklist
+
+Related SKYbrary Articles
+
+Situational Awareness
+Stress
+Non-Precision Approach
+
+
+
+
+
+Categories
+
+
+OGHFA,
+              Situational Examples,
+              Human Factors
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,172 @@
+Correlation
+
+
+
+
+
+
+
+
+
+
+
+  Correlation
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Separation 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Correlated tracks. Tracks which have been correlated with a flight plan (sometimes this term applies only to tracks for which the Mode A code has been correlated with a call-sign in the code/call-sign list i.e. flight plan association).
+Source: ICAO Doc 9684 - Manual on the Secondary Surveillance Radar (SSR) Systems
+Description
+In general, the word correlation is used to denote some form of association. In air traffic control systems the term has a variety of meanings:
+
+association of a primary and a secondary radar plot
+association of several consecutive plots into a track
+association of a system track with a flight plan
+
+This article focuses on the correlation of a system track and a flight plan.
+Need for Correlation
+The RDP (radar data processing) system produces tracks that are visualised on a controller's situation display. The tracks contain limited information:
+
+Position (latitude and longitude), track and groundspeed (calculated by the system)
+Level and SSR code (if the aircraft is equipped with a Mode C transponder)
+Callsign, selected level, heading, airspeed, and some other parameters (if the aircraft is equipped with a Mode S transponder)
+
+There is no information about the aircraft intentions - e.g. planned trajectory, requested level, destination (and hence, top of descent), etc. which makes planning (conflict detection and solving, orderly flow of traffic) more difficult.
+How It Is Done
+There are basically two ways correlation is done - automatic and manual.
+Automatic correlation is done when the data from the system track (preferably Mode S callsign but also Mode C code) matches the data from an estimate (either a verbal one that was manually entered into the system or an OLDI ACT message). Note that the flight plan itself is not enough for automatic correlation.
+Manual correlation is done using a dedicated system feature, e.g. by clicking on a flight in a flight list window then choosing the "correlate" option and finally clicking on an uncorrelated track (regardless of its type - primary or secondary).
+
+Example of manual correlation.
+When correlation is complete (either manually or automatically), the aircraft label changes and now contains many supplementary fields.
+
+On the left (1) there is a typical uncorrelated label and on the right (2) there is a generic correlated label. The fields and colours in correlated labels depend on the local implementation.
+Correlation (matching of an FPL and a track done by the software) is different from identification (matching of a track and an aircraft by the controller). The former is a system feature while the latter is an ATC procedure. The controller may identify an uncorrelated track using an appropriate method. Conversely, a correlated track may be considered unidentified if the controller has any doubts about the correlation being correct (e.g. due to a double SSR code).
+Benefits
+Correlation helps controllers with planning thus increasing their capacity (the ability to safely handle more traffic).
+
+Availability of additional information in the aircraft label (depending on local implementation), e.g.
+
+equipment (RVSM status, RNAV equipment, etc.)
+aircraft type and WTC, number of aircraft (in case of formation flights)
+departure, destination and next point
+graphical representation of the future trajectory
+
+
+Better colour representation. With the additional information available, the system may use different colours to better represent the aircraft that are of interest to a particular sector so that these can stand out from the others.
+
+
+Example of colour coding. Flight (1) is controlled by the sector, (2) is going to enter the sector, (3) is controlled by another sector and (4) is uncorrelated and is controlled by the next ATS unit.
+
+Availability of electronic coordination. This can be achieved using system-specific features (for inter-sector use) or OLDI messages (universally applicable though not as customizable).
+Ability to enter data directly into the aircraft label (e.g. cleared level, planned entry and exit levels, speed/heading clearances, etc.)
+Availability of more system tools, e.g. MTCD, deviation alerts, etc. Note that Safety Nets and some controller tools (e.g. TCT) will work even on uncorrelated tracks.
+
+All the above mentioned benefits may be substituted by other means of obtaining the information or performing the procedure. For instance, aircraft equipment, departure, destination, routing, etc. can be seen in the Flight Plan message and coordination may be done by phone. However, when available in the aircraft label, these features greatly improve the controller's situational awareness thus allowing them to focus on high level tasks such as conflict detection and the establishment of efficient flow of traffic.
+Risks and Solutions
+While correlation works smoothly most of the time, there are situations requiring extra controller attention:
+
+No flight plan. If no flight plan has been received, correlation is still possible provided that an OLDI ACT message has been received. In this case, however, the information in the system is limited to the contents of the ACT message, so for example there will be no trajectory (and hence, no MTCD warnings will be displayed and no OLDI messages will be sent). The system is usually designed in such a way as to inform the controllers of the situation so that they can take appropriate action, e.g. call the previous ATS unit for further information or send an RQP (request flight plan) message to the IFPS.
+Wrong automatic correlation. This sometimes happens when the SSR code is used. For example, if an ACT message is received but the aircraft is not within surveillance cover yet, the system may correlate the flight plan to a track with the same SSR code somewhere else. This error is usually obvious to the controller since the correlated aircraft is likely to be in a completely unexpected portion of the airspace and fly in an illogical direction which will make the controller investigate the matter closely. Once the situation is clear, the solution is simple - the controller de-correlates the wrong track and performs a manual correlation with the right one (after it appears on the screen). Note that if the estimate is received when both aircraft are within surveillance cover, the system will most likely indicate the double SSR code and will not perform an automatic correlation.
+
+
+Example of wrong automatic correlation. ACT message is received for aircraft (2) but since it is not within cover yet and there is an aircraft with the expected SSR code, the system will correlate the flight plan to aircraft (1)
+
+Wrong manual correlation. While the controller is able to match any flight plan with any system track (and thus compensate for situation where automatic correlation has failed for some reason) this also makes possible for them to create a wrong association. In turn, this could lead to a wrong identification. It is therefore important to perform manual correlation with increased attention and use appropriate identification methods, e.g. an istruction to squawk IDENT or report the SSR code and not callsign recognition (unless the callsign/SSR code match has been verbally confirmed by the previous controller).
+
+Related Articles
+
+Automation and ATM
+Radar Identification
+
+
+
+
+
+Categories
+
+
+Loss of Separation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

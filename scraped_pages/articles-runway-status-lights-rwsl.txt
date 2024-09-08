@@ -1,0 +1,191 @@
+Runway Status Lights (RWSL)
+
+
+
+
+
+
+
+
+
+
+
+  Runway Status Lights (RWSL)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Runway Incursion 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+As developed and deployed at major airports in the USA, a RWSL system is a fully automatic, advisory safety system which provides direct alerts to both vehicles and pilots independently of the normal traffic control system operated by ATC. Its objective is to reduce both the number and severity of runway incursions and thereby prevent runway collisions. It is designed to be fully compatible with existing procedures. Early versions of the system had two elements, Runway Entrance Lights (RELs) and Take Off Hold lights (THLs). Runway Intersection Lights (RILs) were subsequently added and now the intention is to integrate the three RWSL elements with the Final Approach Runway Occupancy Signal (FAROS) system which will provide runway occupancy alerting to aircraft on final approach indicating that it is unsafe to land by automatically changing the PAPIs from a steady illumination to an intermittent one. The FAROS system is described separately.
+RWSL and any similar systems are generically identified by ICAO as Autonomous Runway Incursion Warning Systems (ARIWS). Specifications for such systems are provided in Annex 14.
+A graphic of showing a typical application of the three 'baseline'; elements of the RWSL system is shown below. In summary, the principles are that:
+
+RELs warn that it is unsafe to enter/cross a runway
+THLs warn that it is unsafe to take off from a runway
+RILs warn that it is unsafe to cross a runway intersection
+
+
+A typical deployment of a RWSL system (FAROS element not shown). Diagram prepared by MIT Lincoln Laboratory.
+It is important to note that activation of RWSL components is completely independent of ATC clearances and their activation as a backup safety net against human error bears no relation to the presence or absence of an ATC clearance. However, when RWSL indications contradict clearances, pilots and vehicle drivers are expected to priortise response to the status lights. Conversely, the absence of RWSL indications does not equate to an ATC clearance to proceed. It is routine to see these indications cycling between illuminated and extinguished as the relative disposition of traffic changes.
+Runway Entrance Lights (RELs)
+RELs are installed at taxiway/runway intersections to provide an indication when it is unsafe to enter the runway. They are installed parallel to the taxiway centreline (which may or may nor be lit) at a distance of 2 feet from it and to one side. The first light in the pattern is installed 2 feet prior to the runway holding point marking. They continue to a penultimate light pair at 2 feet before the runway edge marking with the last light then sited 2 feet before the runway centreline lights.
+
+Illuminated RELs as seen from above
+ 
+
+Pilot view of illuminated RELs
+Take Off Hold Lights (THLs)
+THLs are used at the runway departure area and provide an indication to pilots and vehicle drivers that the runway is unsafe for takeoff. They consist of red unidirectional lights installed in two longitudinal rows of 16 lights each aligned with and offset either side of the runway centreline lighting.
+
+Take off Hold Lights from above
+
+Pilot view of Take off Hold Lights
+Runway Intersection Lights (RILs)
+RILs are the third component of the RWSL system and were first installed for operational evaluation at Boston in 2010. They are used where one runway intersects another and provide an indication to pilots and vehicle drivers that there is high speed traffic on the intersecting runway and that it is unsafe for to enter or cross. They consist of red unidirectional lights installed in a double longitudinal row aligned with and offset to either side of the runway centreline lighting in the same manner as and using the same light fixtures as THLs.
+
+Pilot view of Runway Intersection Lights
+RWSL System Development
+The RWSL concept was first discussed in 2002 and once it had been validated, the task of development and overseeing the initial operational trials of its various elements was then passed to the MIT Lincoln Laboratory sponsored by the FAA under a USAF Contract.
+A study of the 167 most dangerous (defined as an actual miss distance of less than 100 feet) runway incursions in the USA between 1997 and 2000 at 100 of the busiest airports which involved at least one large passenger jet was carried out by the Lincoln Laboratory. They found that a RWSL system might have prevented or mitigated the consequences of around 75% of these.
+Successful operational evaluations of prototype RWSL systems installed at Dallas/Fort Worth and San Diego airports from 2005 led to the 2009 installation of an Lincoln Laboratory-designed RWSL system built by the ARCON Corporation at Los Angeles followed by a similar installation in 2010 at Boston. The Lincoln Laboratory then worked with FAA suppliers, in particular prime contractor ARCON Corporation, to complete technology transfer of the RWSL system. ARCON took on responsibility for the development of location-specific algorithms based on the surveillance data available at each airport where an RWSL system was to be installed and was responsible to the FAA for the implementation, monitoring and maintenance of each system.
+The technical specifications of RWSL installation are stated in FAA AC 150/5340-30J, Appendix G. At present, only the installation of RELs and THLs is described. The procedures for RILs are detailed in the Engineering Brief issued by the FAA Airports Division.
+The airports selected for installation all have ASDE-X surface radar installed which simplifies the data acquisition requirements for the RWSL system. The lead location for production deployment of the RWSL system has been designated by the FAA as Orlando FL. RWSL is currently installed at Seattle-Tacoma, San Francisco, Los Angeles, McCarran, Phoenix Sky Harbor, George Bush Intercontinental, Minneapolis-St Paul, Chicago O'Hare, Detroit Metropolitan, LaGuardia, Newark, John F. Kennedy, Baltimore/Washington Thurgood Marshall Airport, Washington Dulles, Charlotte Douglas, Orlando and Fort Lauderdale-Hollywood. Generic guidance for ATM managers and supervisors on the operation and periodic checking of the RWSL system has been issued and appropriate pilot and vehicle driver awareness and training activity will be delivered at each airport in the programme.
+How RWSL Works
+The system determines the locations of aircraft and vehicles on the airfield, as well as of departing and arriving aircraft using data from three surveillance sources:
+
+Surface primary radar returns from the Airport Surface Detection Equipment (ASDE)
+Multi-lateration calculated from the differences of time of arrival of transponder signals from aircraft and vehicles; data from several multi-lateration receiver locations are used
+Airport Surveillance Radars for aircraft operating in the vicinitiy of the airport
+
+Integrating the data from these diverse sources has been achieved so as to support a high level of reliability and accuracy. Redundancy features allow the system to generate aircraft or vehicle tracks from single or multiple surveillance sources in case of malfunction or nonexistence of sensors or equipment. This covers the presence of many airside vehicles without transponders which respond to multi-lateration interrogation.
+The integrated surveillance data is used to determine the operational status of a track including whether an aircraft object is stationary, taxiing, landing, or taking off and predicts its likely future behaviour. On the basis of this, and in accordance with pre programmed thresholds, the system determines which lights should be turned on and when and triggers activation and updates a visual display in the TWR. TWR supervisors are able to modify some RWSL settings such as light intensity and runway configuration.
+Protocol for Operations
+The pilot and vehicle operator compliance with established protocol for viewing illuminated red status lights is imperative for the system to be effective. Users of the system are trained to respond to Runway Status Lights in the following ways:
+Runway Entrance Lights (RELs)
+
+When RELs are red, the runway is unsafe to enter or cross and pilots /vehicle drivers should stop immediately.
+When the lights are off, pilots/vehicle operators shall not enter or cross the runway without ATC clearance.
+
+Note: Care should be taken not to confuse REL and stop bars, especially when LVPs are in force. Stop bars are operated by the tower controller and their switching off should always be associated with an ATC clearance, whereas RELs are fully automated, and are an additional safety measure.
+Takeoff Hold Lights (THLs)
+
+If lined-up and waiting on the runway and THLs are red, the runway is not safe for takeoff and pilots should remain in position for takeoff.
+If the takeoff roll has begun and the THLs turn red, pilots should safely stop the aircraft and notify ATC that they have stopped because of red lights.
+
+In all cases, if following the established protocol is not safe, pilots should proceed according to their best judgment of safety (understanding that illuminated RWSL indicates a potential conflict exists) and contact ATC at the earliest opportunity. When RWSL lights contradict air traffic clearances, pilots and vehicle operators are trained to respond first to the status lights since they are intended to serve as a backup safety net when the humans in the loop make errors. Conversely, pilots and vehicle operators are trained that RWSL is an advisory safety system only and that RWSL off NEVER should be perceived as an air traffic control clearance. RWSL only has two states:
+
+On – lights are red;
+Off – lights are switched off.
+
+Note: The RWSL never illuminates green lights to convey safety or clearance.
+Related Articles
+
+Autonomous Runway Incursion Warning System (ARIWS)
+Runway Holding Point Lighting
+Final Approach Runway Occupancy Signal (FAROS)
+Runway Incursion
+Airport Surface Detection Equipment, Model X (ASDE-X)
+
+Further Reading
+
+(VIDEO) FAA TV: RWSL Demonstration Video
+Runway Status Lights System, FAA Airport Engineering Division Engineering Brief No 64D (September 2011)
+Section 3-4-20, Runway Status Lights (RWSL), of the FAA Air Traffic Organization Policy JO 7110.65, Change 1, issued 24 July 2014
+Runway Status Lights: FAA Pilot Reference Guide
+Runway Status Lights: FAA Vehicle Operator Reference Guide
+RWSL at Paris-CDG airport
+ACRP Report 148: LED Airfield Lighting System Operation and Maintenance, J. Burns et al., Transportation Research Board (U.S.), 2015
+SAFO 17011: Runway Status Lights (RWSL), FAA, September 2017
+
+
+
+
+
+Categories
+
+
+Runway Incursion,
+              Airport Design and Infrastructure,
+              Preventing Incorrect Presence on Runway,
+              Runway Incursion Safety Nets
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

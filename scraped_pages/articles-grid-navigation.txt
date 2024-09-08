@@ -1,0 +1,160 @@
+Grid Navigation
+
+
+
+
+
+
+
+
+
+
+
+  Grid Navigation
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Polar Navigation
+Greenwich Grid
+Definition
+A method of navigation using an grid overlay, appropriate to the map projection, instead of true or magnetic north for direction reference.
+Description
+Prior to the advent of Flight Management Systems (FMS) and of reliable area navigation systems such as the Global Positioning System (GPS), long range navigation in the polar regions, and within the large area of magnetic compass unreliability in Northern Canada, was difficult for three primary reasons:
+
+Convergence of the meridians of longitude - following a track that is anything but directly (true) North or South requires a constant change in true heading
+Proximity of the magnetic poles - large and rapid changes in variation make magnetic compasses unreliable, even over relatively short distance
+Ground based navigation aids were few in number and widely spaced
+
+To overcome these obstacles, Grid Navigation was developed in the early 1940's and remained in use until late in the 20th century.
+In the polar regions, grid navigation is based on the use of a grid, most typically oriented parallel to a specified meridian of longitude, being overlaid on the appropriate Polar Stereographic projection navigational chart. The aircraft gyro compass is aligned to this grid, either on the ground or during flight, and is corrected, as required, for change in longitude and gyro precession using celestial navigation sightings. Although any line of longitude can be used, the Prime Meridian (0 degrees) is most commonly used as the Reference (or Datum) Meridian. This iteration is often referred to as "Greenwich Grid".
+Grid navigation was also used, on a more limited basis, in the mid latitudes and again allowed a great circle track to be flown on a constant heading. In the mid lattitudes, the grid would be oriented as best suited to the chart projection (most typically Lambert Conformal) and directional orientation. In this case, the grid did not necessarily align with any specific meridian of longitude.
+As can be seen in the following illustration, the great circle track between points A and B cuts each of the meridians of longitude at a different angle. If flying with reference to True North, this would require a constant change in heading to maintain track. However, the great circle track cuts all of the lines of the grid overlay at the same angle. This means that with the gyro compass aligned to the depicted grid, the heading required to maintain the track in no-wind conditions would be constant, making navigation considerably easier.
+
+Grid Overlay
+Definitions and Relationships
+There are a number of terms which have specific meaning in the context of Grid Navigation. Some of these are as follows:
+
+Grid Convergence - The difference between the True Track and the Grid Track is called Grid Convergence. The value of Grid Convergence at any point on the track is the difference between the Datum (or Reference) Meridian and the Local Meridian (the point where the measurement is being made). The direction of Grid Convergency is taken FROM "Grid North" TO "True North" at the Local Meridian
+Datum Meridian - The meridian where True North equals Grid North is called the Datum (or Reference) Meridian
+Grivation - Grivation is the difference between magnetic heading/track and grid heading/track, that is, the algebraic sum of variation and convergence
+Variation (Declination) - The angle between Magnetic North and True North for a given location
+
+When converting from Magnetic to True, from True to Grid, from Magnetic to Grid or when making the reciprocal conversions, there are specific rules that must be followed to derive the proper values. These are as follows:
+
+True / Magnetic - "Variation east, magnetic least" or "variation west, magnetic best".
+Grid / True - "Convergence east, true track least" or "convergence west, true track best"
+Magnetic / Grid -"Grivation east, magnetic least" or "grivation west, magnetic best"
+
+Practical Application
+Flights between airports in the polar regions and most of the Canadian arctic, as well as aircraft simply overflying these areas would often use Grid Navigation techniques. Where practical, as would be the case if the airport of origin was within or in close proximity to the region, the aircraft gyromagnetic compass (gyro compass) would be set to grid reference whilst on the ground. For illustrative purposes, consider a flight from Iqaluit (CYFB) to Resolute Bay (CYRB), both in Northern Canada.
+Iqaluit lies within Canadian Southern Domestic airspace and, as such, magnetic compasses are considered reliable at the airport. However, the boundary of the area of compass unreliability is within minutes of flight from the airport. As a consequence, setting the compass to grid reference on the ground was a common occurrence. CYFB is located at coordinates 63° 45' N 68° 33' W. The runway orientation is 16/34 with a centreline heading on runway 34 of 345°M. The magnetic variation is 29° W. For this example, we will use the Greenwich meridian (0°) as the Datum Meridian.
+Prior to taxi, the crew would calculate the grid heading of the runway. This can be done in one of two ways - conversion of magnetic heading to true heading to grid heading using variation and convergence or by calculating grivation and then converting from magnetic directly to grid. The associated calculations are as follows:
+
+Method 1. Applying the variation to the magnetic heading (variation west, magnetic best) yields a runway heading of 345° - 29° = 316°T. To convert from true to grid, the convergence must be applied. From above definitions, convergence is the difference between the reference meridian and the local meridian which, when using Greenwich as the Datum, is the local longitude. The direction of the convergence (from Grid North to True North at Iqaluit) is east (convergence east, true track least) so 316° + 69° (68° 33' rounded) = 025°G.
+Method 2. Grivation is calculated by adding variation and convergence algebraically. In this case, variation is west and convergence is east (opposite directions) so the algebraic sum becomes 29°W + 69°E = 40°E grivation. The grivation is then applied to the magnetic heading (grivation east, magnetic least) 345° + 40° = 025°G.
+
+Calculations complete, the aircraft would be taxied onto runway 34 and aligned as accurately as possible with the centreline. The gyro compass would be switched from magnetic (MAG) to directional gyro (DG) and slewed to read 025°. Once the heading reference was stable and all other checks complete, the aircraft would depart manoeuvring to intercept the plotted track to Resolute Bay once airborne.
+Resolute Bay is located at 74° 43'N 94° 58'W, a 26° change in longitude from Iqaluit. To compensate for the resulting change in convergence and to correct for any gyro precession or "drift", the crew will use a sextant or an astro compass, as fitted, to periodically determine true heading and then apply the assumed longitude to correct the DG grid heading.
+Prior to descent into Resolute, the crew will conduct a final heading check and either update the grid heading (if the intent is to do the approach and landing using grid reference) or slew the DG to the local true reference appropriate to Resolute Bay (being close to the magnetic pole, the VHF Omnidirectional Radio Range (VOR) at Resolute Bay is aligned to true north and approaches conducted with gyros referenced to local true north).
+An aircraft in flight approaching the polar region, either for overflight or planning a landing within the region, would undertake a similar process. In this case, however, instead of using the runway to initially align the DG to grid, true heading would be determined from a celestial observation and the convergence appropriate to the assumed longitude would be applied to calculate the grid heading. The compass system would then be switched from MAG to DG and the gyro slewed to the current grid heading.
+An aircraft leaving the polar region or area of compass unreliability would, after exit, reverse the process. A true heading check would be conducted and the assumed local variation applied to calculate the approximate magnetic heading. The gyro compass would be slewed to the calculated heading and then switched from DG to magnetic (MAG) reference.
+Related Articles
+
+Gyromagnetic Compass
+Celestial Navigation
+
+Further Reading
+
+Arctic Air Navigation: Keith R. Greenaway. Published Ottawa: Arctic Research, Defence Research Board, 1951
+Arctic Canada From the Air: Moira Dunbar, Keith R. Greenaway. Published Ottawa: Canada Defence Research Board, 1956
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

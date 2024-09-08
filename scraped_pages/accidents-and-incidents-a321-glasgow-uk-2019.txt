@@ -1,0 +1,291 @@
+A321, Glasgow UK, 2019
+
+
+
+
+
+
+
+
+
+
+
+  A321, Glasgow UK, 2019
+
+
+
+
+
+
+
+
+
+Summary
+
+On 24 November 2019, as an Airbus A321 taking off from the 2665 metre-long runway 05 at Glasgow approached the calculated V1 with the flex thrust they had set, the aircraft was not accelerating as expected and they applied TOGA thrust. This resulted in the aircraft becoming airborne with less than 400 metres of runway remaining. The Investigation confirmed what the crew had subsequently discovered for themselves - that they had both made an identical error in their independent EFB performance calculations which the subsequent standard procedures and checks had not detected. The operator is reviewing its related checking procedures.
+
+
+
+
+Event Details
+
+When
+
+24/11/2019
+
+
+
+Event Type
+
+
+HF,
+              RE
+
+
+
+
+Day/Night
+
+Night
+
+
+
+Flight Conditions
+
+IMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS A-321
+
+
+
+
+
+
+
+
+
+Operator
+
+British Airways
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Glasgow International Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+London Heathrow Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Take Off
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+EGPF
+
+
+
+
+General
+
+Tag(s)
+
+
+              Use of Erroneous Performance Data
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Distraction,
+              Pre Flight Data Input Error
+          
+
+
+
+
+RE
+
+Tag(s)
+
+
+              Unable to rotate at VR,
+              Reduced Thrust Take Off
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 24 November 2019, an Airbus A321 (G-EUXJ) being operated by British Airways on a scheduled domestic passenger flight from Glasgow to London Heathrow and departing Glasgow in night IMC showed no sign of becoming airborne at the calculated V1, so the crew set TOGA thrust and after then becoming airborne crossed the end of the runway at 276 feet agl.
+Investigation
+A Serious Incident Investigation was carried out by the UK AAIB. The aircraft operator provided a copy of the relevant QAR data. It was noted that the 57 year-old Captain, who had been acting as PF for the fight involved, had a total of 20,593 hours flying experience which included 12,061 hours on A320 family aircraft. The flying experience of the First Officer was not recorded. Both pilots were starting the final day of a four-day short haul duty period that would consist of just the single sector from Glasgow to London Heathrow and both stated that they had been “well rested” prior to reporting to operate the flight. During the previous three days they had flown A319, A320 and A321 aircraft.
+The crew stated that as they had “a few minutes to spare”, the Captain had “as encouraged by the operator” allowed a couple of passengers to visit the flight deck. Subsequently, whilst the crew were entering the takeoff performance figures they had calculated on their iPads into the Flight Management Guidance Computers (FMGC), the Senior Cabin Crew Member ( SCCM) asked if they could accept another flight deck visitor. The Captain reported that although he had “ignored the request” in order to focus on the data entry task, “it may have distracted him”.
+The takeoff was planned using the full length of runway 05 with the surface wind reported as from 080° at 5 knots, the visibility as 2,800 metres in drizzle, the lowest cloud as at 400 feet agl and the runway surface as wet. The result of the performance calculations made was a requirement for flap 1, reduced thrust based on a flex temperature of 49°C and a non-standard acceleration altitude of 1,070 feet. The associated speeds were calculated as a V1 of 139 knots, a VR of 147 knots and a V2 of 151 knots.
+During the subsequent taxi out, ATC asked if they would be able to depart from intersection ‘F’ as another aircraft was holding at taxiway G with a technical problem but ahead of the recalculation of takeoff figures that this would have required, the other aircraft problem was resolved and so the full length preference was available. As the speed built up during the subsequent takeoff roll, both pilots reported that they had “felt that the aircraft was not accelerating as they expected”, the Captain stating that “something was not right but I could not put my finger on it”. At approximately 100 knots, the First Officer had said “this doesn’t feel right, have we got enough power” and with 2 knots to go till V1, the Captain had advanced the thrust levers to TOGA.
+Examination of the recorded flight data showed that the aircraft had crossed the upwind end of the runway at 276 feet agl and a reconstruction of the flight path - see below - showed that less than 400 metres of runway remained when the aircraft became airborne. During the flight, the flight crew reported that they had realised they had both used a flex temperature of 79°C in their takeoff performance calculations instead of the correct figure of 49°C.
+
+The takeoff profile flown (red) compared to the intended one (green). [Reproduced from the Official Report]
+It was found that the procedures for takeoff performance calculation require that the PF must read the performance from the printed performance calculation and the PM then reads these into their MCDU. The PF then checks that this entry is correct by reference to their MCDU screen. The Captain was unsure whether he had said ‘79°’ instead of ‘49°’ when reading out the required flex temperature or if he had said the correct number and the First Officer had then inadvertently pressed a ‘7’ instead of a ‘4’ and “highlighted that the 7 and 4 keys are next to each other on the MDCU keyboard”. He stated that he was not sure why he had not spotted the error when checking the First Officer’s input on his MCDU screen, but “thought he may have been looking at the non-standard acceleration altitude”, which was a relatively unusual feature of Glasgow 05 takeoff. The cabin crew call which had occurred during the data checking process was suggested as possible distraction.
+The Investigation noted that once the error had been made, there were several points in the applicable SOPs where the flex temperature used is checked, including the pre-start checks, the before takeoff checks and in the flight mode annunciator (FMA) review as the takeoff roll commences. However, these checks only require the flight crew to read the temperature and do not represent a validation of its correctness. The Captain reported having subsequently recognised that a flex temperature of 79°C was not typical for an A321 for which it was more usually in the 50s. However, he noted that it would not be abnormal for an A319, a variant on which the crew had flown four sectors during their four day “tour”.
+It was noted that “the AAIB have investigated many other Serious Incidents involving incorrect takeoff performance figures”. In particular, it was noted that after investigating another similar event involving a Boeing 737-800 departing Belfast International in 2017 which had led to much more serious consequences, the AAIB had recommended that renewed attention should be given by both the FAA and the EASA to supporting the development of technical specifications and technical standards for a ‘Takeoff Acceleration Monitoring System’.
+The Conclusion of the Investigation was that “the error was likely made due to a combination of brief distraction and entering a non-standard acceleration height (and noted that) the subsequent checks do not require the flight crew to refer back to the source data and, whilst the selected flex temperature was unusual for a A321, it was not usual for the A319 which the flight crew had been operating during the tour”.
+Safety Action known to have been commenced during the course of the AAIB Investigation was noted to have included the following:
+
+British Airways is reviewing its takeoff performance data entry and checking procedures in order to ensure that there are sufficient opportunities in the procedures to trap any error.
+
+The Final Report of the Investigation was published on 14 May 2020.
+Related Articles
+
+Use of Erroneous Parameters at Take-Off
+Reduced Thrust Takeoff
+Standard Operating Procedures (SOPs)
+Interruption or Distraction
+Runway Excursion
+B738, Belfast International UK, 2017

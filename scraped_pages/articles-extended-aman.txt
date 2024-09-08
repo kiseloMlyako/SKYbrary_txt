@@ -1,0 +1,146 @@
+Extended AMAN
+
+
+
+
+
+
+
+
+
+
+
+  Extended AMAN
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Single European Sky 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Extended AMAN (E-AMAN), sometimes referred to as Cross-border AMAN (XMAN) is an operational procedure which aims to improve and optimise arrival management operations for major airports. The main concept is to reduce aircraft holding time at congested airports by reducing their cruising speed during the final en-route phase of flight, several hundred (usually 180-200) nautical miles away from the airport.
+E-AMAN allows for the sequencing of arrival traffic earlier, by extending the AMAN horizon from the airspace close to the airport to further upstream and so allowing more smooth traffic management. Controllers in the upstream sectors, which may be in a different control centre or even a different functional airspace block (FAB), obtain system advisories to support an earlier pre-sequencing of aircraft. Controllers implement those advisories by, for example, instructing pilots to adjust the aircraft speed along the descent or even before top-of-descent, thus reducing the need for holding and decreasing fuel consumption.
+Benefits
+Extended AMAN is focused on efficiency, therefore most of the benefits are supposed to be in this area (while preserving the existing levels of safety). The most notable improvements are:
+
+Reduction of holding times (some of the delay is absorbed during the cruise phase)
+Reduction of fuel burn and emissions (flying at lower speed and at cruise level is more economical than holding pattern at low levels)
+Reduction of delays due to better sequencing. If aircraft are sequenced earlier, less and smaller gaps would occur. Consequently, more aircraft would be processed for the same amount of time.
+Increased efficiency due to the common plan between ACC and APP (therefore fewer changes of that plan). If the plan needs to be reworked, more instructions need to be issued, the traffic will have to be rearranged and this would sometimes result in a gap after the previous aircraft and further delays for the next one(s).
+The existance of a common plan is expected to reduce the need for coordination. Therefore, controllers would have more time to focus on other (mainly efficiency-related) tasks.
+
+While not the general focus, some safety benefits also exist:
+
+Reduced workload of the APP controllers. The redistribution of workload is expected to have a positive impact on safety as the result would be more balanced working positions as opposed to an overloaded and an underloaded one. Having a common plan means further reduction of APP workload as the APP controller will not have to come up with and implement a new solution
+The integration of E-AMAN in the ATM sysems used by ACC will increase the en-route controllers' situational awareness which in turn would compensate (at least partly) the increased workload.
+
+Issues and Challenges
+
+Unexpected aircraft behaviour - e.g. if a flight crew is informed about a long expected delay, the crew may opt to drastically reduce the speed in order to lose time during the en-route phase. This, in turn, may cause a conflict with another aircraft that would otherwise not exist.
+The ATM systems of the ACC would need to be upgraded to accomodate the new features. If this is not done properly, and new E-AMAN procedures are introduced, the ACC controller workload may become excessive. Propper planning and timely implementation are key factors for avoiding such situations.
+Airspace changes (e.g. introduction of new STARs, a point merge system, etc.) are likely to occur in the TMA airspace. These will consequently affect the neighbouring ACCs. ACC controllers would therefore need to adjust their working habits.
+The ACC procedures may need to be adapted, e.g.:
+
+Speed control may need to be used more often, thus increasing controller workload.
+The transfer of control procedures are expected to be more strict and allow less margin for deviation from the standard procedures (e.g. aircraft may be required to cross cerain points at specific levels flying at specific speeds).
+The levels used for transferring aircraft between ACC and APP may need to be reconsidered (e.g. vertical stacks may need to be replaced by predominant use of horizontal spacing between successive aircraft).
+
+
+
+Development
+In April 2014, the first E-AMAN trial began at London Heathrow. The objective of the trial was to cut the amount of time aircraft circle in ‘holding stacks’. The next trials will be targeting flights inbound to Frankfurt and Paris.
+Extended AMAN in the High Density TMAs is a key functionality of the Pilot Common Project, described in Regulation 716/2014. It must be available at the following aerodromes as of 1st January 2024: London-Heathrow, Paris-CDG, London-Gatwick, Paris-Orly, London-Stansted, Milan-Malpensa, Frankfurt International, Madrid-Barajas, Amsterdam Schiphol, Munich Franz Josef Strauss, Rome-Fiumicino, Barcelona El Prat, Zurich Kloten, Düsseldorf International, Brussels National, Oslo Gardermoen, Stockholm-Arlanda, Berlin Brandenburg Airport, Manchester Ringway, Palma De Mallorca Son San Juan, Copenhagen Kastrup, Vienna Schwechat, Dublin, Nice Cote d'Azur. The Regulation also states that the functionalities should be available at Istanbul Ataturk Airport.
+Related Articles
+
+Arrival Manager (AMAN)
+Regulation 716/2014 - Pilot Common Project
+
+
+
+
+
+Categories
+
+
+Single European Sky,
+              SES Implementation,
+              SESAR
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

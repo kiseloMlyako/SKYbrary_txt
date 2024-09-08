@@ -1,0 +1,288 @@
+A319, Nice France, 2019
+
+
+
+
+
+
+
+
+
+
+
+  A319, Nice France, 2019
+
+
+
+
+
+
+
+
+
+Summary
+
+On 29 August 2019, an Airbus A319 crew used more runway than expected during a reduced thrust takeoff from Nice, although not enough to justify increasing thrust. It was subsequently found that an identical error made by both pilots when independently calculating takeoff performance data for the most limiting runway intersection had resulted in use of data for a less limiting intersection than the one eventually used. The Investigation concluded that the only guaranteed way to avoid such an error would be an automatic cross check, a system upgrade which was not possible on the particular aircraft involved.
+
+
+
+
+Event Details
+
+When
+
+29/08/2019
+
+
+
+Event Type
+
+
+HF,
+              RE
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS A-319
+
+
+
+
+
+
+
+
+
+Operator
+
+EasyJet
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Nice-Côte d'Azur Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Newcastle Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Take Off
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+LFMN
+
+
+
+
+General
+
+Tag(s)
+
+
+              Use of Erroneous Performance Data,
+              PIC aged 60 or over
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Pre Flight Data Input Error,
+              Ineffective Monitoring
+          
+
+
+
+
+RE
+
+Tag(s)
+
+
+              Incorrect Aircraft Configuration,
+              Reduced Thrust Take Off
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 29 August 2019, an Airbus A319 (G-EZBI) being operated by Easyjet on a scheduled international passenger flight from Nice to Newcastle and departing Nice in day VMC became airborne with less runway ahead than the experienced Captain in command was expecting and routine flight data analysis subsequently found that the wrong performance data had been independently calculated by both pilots.
+Investigation
+A Serious Incident Investigation was carried out by the UK AAIB in order to seek to establish how the errors made had gone undetected and the actual risk which had resulted. It was noted that the 62 year-old Captain had a total of 19,991 hours flying experience which included 7,235 hours on type. The flying experience of the First Officer was not recorded.
+It was established that during pre flight preparations, the flight crew had decided to calculate takeoff performance for departure runway 04R from B3, the most limiting intersection they were likely to be able to use (see the illustration below). The subsequent cross check of their independent performance calculations disclosed a 1 knot discrepancy in calculated takeoff speeds which was considered acceptable and the most conservative figures were input to the FMC.
+
+An overview of Nice with an expanded inset view of the intersections mentioned. [Reproduced from the Official Report]
+As the runway was neared, ATC offered a departure from intersection A3, which would provide more runway than B3 and so this was accepted. The reduced thrust takeoff was subsequently commenced but on reaching the calculated V1, the Captain reported having considered that the runway remaining ahead was “less than he would have expected, but not alarmingly so (and) did not feel TOGA was required”.
+However, a takeoff performance calculation error was later detected by the operator’s OFDM programme and a comparison of the OFDM information and the corresponding EFB calculations which had been made showed that both pilots had inadvertently selected the Q3 (almost full length) intersection and not B3 in their performance software. This parallel mis-selection was not detected during either an initial data validation which checked the departure distance and cross-checking the EFB outputs simply confirmed that they agreed.
+The TORA available from Q3 as actually input was 2,858 metres, from A3 as used was 2,473 metres and from B3, which it was believed had been input, was 2,157 metres. The actually available TORA was thus 385 metres less than that actually available, instead being 316 metres more. The Investigation completed an “indicative calculation” which indicated that the likely outputs from takeoff performance calculations based on B3 and Q3 differed significantly - from B3 rather than Q3, takeoff speeds were at least 13 knots slower, the flex temperature was 8° lower and a flap 2 rather than flap 1 would have been required. From A3 as actually used, the speeds would have been 8 knots slower than from Q3, the flex temperature would have been 4° lower and again Flap 2 was the optimum setting. It was noted that “meaningful comparisons of the takeoff run required could not be drawn because all three calculations used different settings to achieve a balanced-field performance”.
+It was noted that the aircraft operator was “in the process of introducing an EFB performance software update that placed greater emphasis on a graphical, rather than text-based, representation of runway dimensions and associated intersections” but noted that outputs would still be vulnerable to human performance errors associated with all data entry tasks. It was additionally noted that Airbus was understood to be in the process of making an automated takeoff performance checking system called “TOS2”, which was already available on the A350, also available on the A320. These checks include one to confirm that the aircraft is on the intended runway and that the takeoff performance data entered by the flight crew is “compatible with the runway distance available”. However, whether or not this system can be retrofitted on a particular A320 aircraft depends on its exact system configuration and the aircraft involved in this event was found to be incompatible with it.
+The Investigation observed that “comparison of indicative takeoff performance parameters for B3 and Q3 departures indicated that the only credible explanation for the calculation error was mis-selection of Q3 by both pilots”. Why the ‘departure point distance confirmation check’ referred to by the Captain had not identified the error could not be determined and it was considered that the event “showed that simultaneous independent errors were possible and that an EFB output cross-check and TORA cross-check would not necessarily trap them”.
+The Conclusion of the Investigation was that the Serious Incident had “resulted from identical independent errors not being trapped by a TORA cross-check or by EFB output validation” and that “while revised software with a graphical runway presentation could have helped reduce the likelihood of this occurrence, automated systems, such as ‘TOS2’, could in the future provide an effective barrier to incidents of this nature”.
+The Final Report of the Investigation was published on 9 April 2020.
+Related Articles
+
+Use of Erroneous Parameters at Take-Off
+Reduced Thrust Takeoff
+Takeoff Run Available (TORA)
+Aircraft Performance
+Standard Operating Procedures (SOPs)
+Flight Data Monitoring (FDM)
+Authority Gradients

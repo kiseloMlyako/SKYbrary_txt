@@ -1,0 +1,223 @@
+Online Data Interchange (OLDI)
+
+
+
+
+
+
+
+
+
+
+
+  Online Data Interchange (OLDI)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+On-Line Data Interchange (OLDI) is a protocol for co-ordination and transfer of current flight data between adjacent air traffic control units. Its development started in the 1990s in Europe.
+The main objective of applying OLDI for ATC purposes is:
+
+to automate co-ordination and flight data information exchange between ATC units
+to ensure timely delivery of standard messages
+
+In order to facilitate implementation, common rules and message formats were elaborated and agreed by the agencies concerned.
+OLDI is considered as one of the major enablers of the Single European Sky (SES). As required by Regulation 1032/2006 it shall be in use from 2009 by all ATC units providing service to general air traffic, and the reliability of every OLDI link shall be at least 99.86 %. This is equivalent to a down-time of not more than 12 hours per year (based on 24-hour availability).
+Benefits
+
+Automation of routine actions (information exchange) which allows the controllers to focus on more complex tasks (e.g. conflict detection and resolution)
+Reduced controller workload due to reduced need for verbal coordination
+Better situational awareness
+Indirect improvement of ATS system safety features (e.g. MTCD)
+
+OLDI Messages
+Message Categories
+Messages are assigned to the following categories:
+
+Category 1: Transfer of Communication
+Category 2: Co-ordination
+Category 3: Notification
+
+
+
+
+Message Category
+90%
+95%
+Timeout
+
+
+
+
+Category 1
+4 sec
+10 sec
+12 sec
+
+
+Category 2
+10 sec
+25 sec
+30 sec
+
+
+Category 3
+15 sec
+45 sec
+60 sec
+
+
+
+OLDI Messages
+Note: The list below contains the most frequently used OLDI messages and the explanations are intended to provide the basic meaning of those messages rather than being a complete description. The OLDI specificcation can be found in the Further Reading section.
+
+Exchange of flight data
+
+ABI (advanced boundary message) - notifies the next ATC unit of the flight and facilitates early correlation of radar tracks.
+ACT (activate message) - replaces the verbal estimate.
+REV (revision message) - replaces the verbal revision in case the accepting unit does not change as a result of the modification.
+PAC (preliminary activate message) - notifies the next ATC unit of a flight that has not departed yet in situations where the flight time from departure to the boundary is less than the requirement for an ACT message.
+MAC (message for abrogation of coordination) - indicates that a previous coordination or notification is being abrogated.
+LAM (logical acknowledgement message) - informs the sending ATC unit's FDPS of an OLDI message reception.
+
+
+Civil-Military coordination
+
+XIN (crossing intention) - informs the other unit of the intention to cross their airspace.
+XRQ (crossing request) - forwards a request to cross the other unit's airspace.
+XAP (crossing alternate proposal message) - transmits a counter-proposal for airspace crossing.
+XCM (crossing cancellation message) - informs the addressed unit that a previous notification or coordination is being abrogated.
+ACP (acceptance message) - indicates agreement to a crossing request or counter-proposal.
+RJC (reject coordination message) - indicates rejection to a crossing request or counter-proposal.
+SBY (standby message) - acknowledges the receipt of a message proposing transfer conditions and indicates that the proposal is being referred to the controller for a decision.
+
+
+Coordination (dialogue procedure). This procedure provides facilities for communication and negotiation between controllers in the coordination phase and for communication in the transfer phase. The ACT and REV messages described above may also be used for this procedure.
+
+RAP (referred activate proposal) - used by the transferring controller to propose non-standard transfer conditions.
+RRV (referrred revision proposal) - used by the transferring controller to propose non-standard revisions.
+CDN (coordination message) - sent by the accepting controller as a proposed modification or as a counter-proposal.
+RRQ (release request) - used by the accepting unit to request the release of a flight.
+RLS (release) - used by the transferring unit to release a flight. The message may be used as a response to a RRQ or on the initiative of the transferring controller.
+RTI (request tactical instructions) - used by the accepting unit to request the transfer of a flight on an assigned heading, speed, rate of climb or descent or on a direct routing.
+TIP (tactical instructions proposal) - used by the transferring unit to coordinate the transfer of a flight on an assigned heading, speed, rate of climb or descent or on a direct routing.
+
+
+Transfer of communication
+
+ROF (request on frequency) - indicates a request by the accepting unit for an early transfer of the flight.
+COF (change on frequency) - indicates that a flight has been instructed to contact the accepting sector.
+MAS (manual assumption) - informs the transferring unit that the accepting unit has established radio communication with the flight.
+TIM (transfer initiation message) - signifies the end of the coordination pjase and the start of the transfer phase.
+HOP (handover proposal) - proposes the flight for handover.
+SDM (supplementary data message) - transmits control data and changes thereto from the transferring unit to the accepting unit. Can be used by the accepting unit to notify the transferring unit of the frequency to which the flight is to be transferred.
+
+
+Controller Pilot Data Link Communications (CPDLC) support
+
+LOF (logon forward) - provides ATN logon parameters to the receiving unit.
+NAN (next authority notified) - notifies the accepting unit that it can initiate a CPDLC start request.
+
+
+
+The messages to be used and certain parameters thereof are defined in bilateral agreements between the particular ATC units.
+Related Articles
+
+Regulation 1032/2006 - Exchange of Flight Data Between ATC Units
+Regulation 30/2009 - Requirements for Automatic Systems for the Exchange of Flight Data Supporting Data Link Services
+
+Further Reading
+
+OLDI Specification Edition 4.3, EUROCONTROL, 2017
+OLDI data exchange implementation report 2017
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

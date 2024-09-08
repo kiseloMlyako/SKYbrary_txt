@@ -1,0 +1,200 @@
+GND-TWR Co-ordination
+
+
+
+
+
+
+
+
+
+
+
+  GND-TWR Co-ordination
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Runway Incursion 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+Inadequate coordination between ground controllers (GND) and tower controllers (TWR) can cause a runway incursion which remains a significant safety risk to aerodrome operations. The purpose of this article is to identify the safety risks and best practices related to GND-TWR coordination. The guidance and advice provided in this article should not take precedence over local regulations and procedures.
+ICAO SARPs
+ICAO Doc 4444 (PANS-ATM), Section 7.6.3.1.2.1 is specific that “for the purpose of expediting air traffic, aircraft may be permitted to taxi on the runway-in-use, provided no delay or risk to other aircraft will result. Where control of taxiing aircraft is provided by a ground controller and the control of runway operations by an aerodrome controller, the use of a runway by taxiing aircraft shall be coordinated with and approved by the aerodrome controller. Communication with the aircraft concerned should be transferred from the ground controller to the aerodrome controller prior to the aircraft entering the runway".
+Appendix A (Communications Best Practice) of ICAO Doc 9870 Manual on the prevention of runway incursions specifies that: “communication with any aircraft using the runway for the purpose of taxiing should be transferred from the ground controller to the aerodrome controller prior to the aircraft entering/crossing a runway. It is strongly advised, when practicable, to use standard taxi routes.”
+Main principles of GND–TWR Coordination
+Although GND-TWR coordination varies from aerodrome to aerodrome there are some general principles that are implemented in most places:
+
+The TWR controller is responsible for operations on the active runway(s) and airborne aircraft within the area of responsibility of the aerodrome control tower;
+Coordination between GND and TWR can be done using a variety of methods: directly, by phone, by paper strips or electronically;
+The GND controller is responsible for traffic movements on the manoeuvring area with the exception of the active runway(s);
+The GND controller must obtain approval from the TWR controller before clearing an aircraft or a vehicle to enter or cross an active runway;
+The GND controller must inform the TWR controller that the crossing of an active runway has been completed;
+The GND controller must notify the TWR controller when a departing aircraft has been taxied to a runway other than one previously designated as active;
+The GND controller must notify the TWR controller of any aircraft taxied to an intersection for takeoff;
+When the runway(s) in use are not visible by either of the controllers or the aircraft/vehicles using them are not visible on surveillance display (if applicable), the transferring controller must advise the receiving controller of the aircraft's/vehicle’s location before releasing them.
+
+GND–TWR Coordination Issues
+While poor coordination is considered as a safety hazard in general, there are some specific factors when it comes to GND-TWR interaction. The list of factors provided is mainly derived from incident reports and is not to be considered exhaustive.
+
+Possible overlapping of areas of responsibility – e.g. when a runway is not active the GND controller may be allowed to issue crossing instructions. It is possible however that the runway status is changed from inactive to active after issuing the instruction and before completing the crossing.
+Procedures used to determine runway occupancy – it is possible to misinterpret a situation when a runway is occupied by more than one participant, e.g. an aircraft and a vehicle. In this case a controller might assume that the runway is clear after the aircraft (large and easily visible) has vacated it while the vehicle is still there (and can only be seen if one knows where to look).
+The areas of responsibility of GND and TWR are smaller in size and traffic density is much higher compared to ACC or APP airspace. Therefore issuing instructions to an aircraft within another person’s area of responsibility is more likely to have undesired consequences.
+Adequate coordination is only possible when both controllers are not occupied with other tasks at the time. Since the very reason for establishing a separate GND position is usually the volume of traffic, it is often the case that the TWR controller is busy when the GND controller needs their attention and vice versa.
+Flight crews’ situational awareness is lower when separate GND and TWR positions are established as the pilots use only one of the frequencies at a time. Whilst taxiing (and therefore on the GND frequency), they will be unaware of the take-off and landing clearances being issued by the TWR controller. The importance of proper coordination between controllers is increased because of the reduced effectiveness of this safety barrier.
+Incomplete procedures – sometimes a situation (e.g. runway configuration) is not covered by the respective documents (e.g. the Manual of Operations) due to the fact that it happens only rarely. This puts the personnel involved in an unfamiliar and potentially complex situation for which the appropriate response may not be obvious.
+Not timely or ineffective runway vacating taxi clearance - non-runway ground collision risk exist in cases where TWR is not able for certain reasons to communicate a in timely and efficient manner the taxi clearance for vacating (and/or crossing) the active runway immediately on transfer to GND. In some instances the pilots may elect to stop the aircraft and wait for the taxi clearance thus prolonging their stay on the active runway and rendering the runway operations inefficient.
+Wrong taxi clearance for runway vacating - it is possible for the TWR to misinterpret a situation when a taxiway is occupied by an aircraft or a vehicle. In this case a controller might assume that the taxiway is clear while an aircraft or a vehicle is still there.
+
+Certain risks of collision or disruption of the efficacy of the aerodrome operations exist when the TWR-GND coordination is not executed in a timely and efficient manner. The possible actions of the flight crew, when vacating the runway and taxiing without receiving taxi instructions from GND, may lead to uncertainty for GND unit as to where the aircraft taxiing from the runway will stop if communications are not established immediately after vacating the runway. The reasons for not receiving the taxi instructions could be various, ranging from frequency congestion to alternative pilot or controller priorities etc. This issue is further compounded by high speed exits and the pilot preference for light braking if no (obvious) hazard is evident as well as by the tendency of some pilots, particularly those who know an aerodrome well, to continue taxiing on the route they are usually cleared to use pending the expected taxi instruction from GND.
+Best Practices and Risk Mitigation
+Findings from incident and accident reports, as well as common sense, have been used to determine the following recommendations:
+
+Whenever possible, the GND controller should issue standard taxi route instructions using standard RTF.
+The use of electronic coordination reduces the risk of being unable to pass information due to the addressee being busy.
+A separate warning sign for each vehicle or aircraft that enters or crosses a runway is helpful in preventing runway incursions.
+Coordination procedures should be described in as much detail as possible.
+Strict adherence to procedures is advisable for both controllers even when it seems that the situation is under control and nothing could go wrong.
+When the situation changes (e.g. when an inactive runway becomes active) the controllers should check all existing clearances and instructions with respect of the new conditions. Appropriate tool/software can help with this task.
+The GND controller should be made aware of a runway becoming active well in advance so that they can check the clearances and instructions issued.
+Both TWR and GND controllers should have clear lines of responsibility and should not extend their actions beyond these lines (e.g. they should avoid delegating own responsibility to the corresponding TWR/GND unit as often relevant information may be omitted due to shift changes etc.)
+
+Incidents/Accidents where poor GND – TWR coordination has been identified as a contributory factor
+
+
+B738, Lyon Saint-Exupéry France, 2019On 14 November 2019, a Boeing 737 was instructed was instructed to stop its night takeoff from Lyon at a low speed when the controller saw snow clearance vehicles entering the runway ahead. This vehicle group had been cleared to enter the active runway by the ground controller without any coordination with the runway controller and only the monitoring of surface movement radar and visual external scanning had removed the risk of a more serious consequence arising from the permitted incursion. The airport operator’s snow response plan was found not be specific to their airport and consequently of limited practical value.
+
+A320 / B738 Barcelona Spain, 2012On 27 May 2012, an Airbus A320 departing Barcelona was cleared by GND to taxi across an active runway on which a Boeing 737-800 was about to land. Whilst still moving but before entering the runway, the A320 crew, aware of the aircraft on approach, queried their crossing clearance but the instruction to stop was given too late to stop before crossing the unlit stop bar. The 737 was instructed to go around and there was no actual risk of collision. The Investigation attributed the controller error to lack of familiarisation with the routine runway configuration change in progress.
+
+B738, Eindhoven Netherlands, 2012On 11 October 2012, the crew of a Ryanair Boeing 737-800 did not change frequency to TWR when instructed to do so by GND whilst already backtracking the departure runway and then made a 180° turn and took off without clearance still on GND frequency. Whilst no actual loss of ground or airborne safety resulted, the Investigation found that when the Captain had queried the receipt of a take off clearance with the First Officer, he had received and accepted a hesitant confirmation. Crew non-compliance with related AIP ground manoeuvring restrictions replicated in their airport briefing was also noted.
+
+B733 / vehicle, Amsterdam Netherlands, 2010On 18 December 2010, the ATC Runway Controller responsible for runway 24 at Amsterdam gave a daylight take off clearance in normal visibility to a Norwegian Boeing 737-300 whilst a bird control vehicle which they had earlier given clearance to enter the runway was still on it. The departing aircraft overflew the vehicle without noticing it. The subsequent investigation highlighted significant differences between the procedures for active runway access at Amsterdam and corresponding international practice as well as finding that integrated safety investigation and overall safety management at the airport were systemically ineffective.
+
+A321 / B738, Dublin Ireland, 2011On 21 May 2011, a Monarch Airlines A321 taxiing for departure at Dublin inadvertently taxied onto an active runway after failing to follow its taxi clearance. The incursion was not noticed by ATC but the crew of a Boeing 737 taking off from the same runway did see the other aircraft and initiated a very high speed rejected take off stopping 360 metres from it. The incursion occurred in a complex manoeuvring area to a crew unfamiliar with the airport at a location which was not a designated hot spot. Various mitigations against incursions at this position have since been implemented.
+
+Vehicle / E190 / E121, Jersey Channel Islands, 2010On 1 June 2010, an Airport RFFS bird scaring vehicle entered the active runway at Jersey in LVP without clearance and remained there for approximately three minutes until ATC became aware. The subsequent Investigation found that the incursion had fortuitously occurred just after an ERJ 190 had landed and had been terminated just as another aircraft had commenced a go around after failure to acquire the prescribed visual reference required to continue to a landing. The context for the failure of the vehicle driver to follow existing procedures was found to be their inadequacy and appropriate changes were implemented.
+
+
+
+
+Further Reading
+
+ICAO Doc 4444, PANS-ATM, 15th ed., 2007
+ICAO Doc 9870, Manual on the prevention of runway incursions, 1st ed., 2007
+Runway Safety - Use of Stop Bars 24H
+A Pilot's Guide to Runway Safety: Airservices Australia, 4th edition, June 2012
+
+
+
+
+
+Categories
+
+
+Runway Incursion,
+              Preventing Incorrect Presence on Runway,
+              Air Ground Communication
+
+
+
+
+
+
+
+
+
+Related Articles
+
+Runway Incursion
+Flight Operations Risk Assessment Checklist - Active Runway Crossing
+Runway Crossing Incursions
+Runway Identification
+Taxi-in Runway Incursions
+European Action Plan for the Prevention of Runway Incursions (EAPPRI)
+Advanced Surface Movement Guidance and Control System (A-SMGCS)
+Hot Spots at Aerodromes
+Intersecting Runways Operations
+Runway Incursion and Airport Design
+Controller Detection of Manoeuvring Area Conflicts
+Controller Detection of Manoeuvring Area Conflicts – Guidance for Controllers
+How Air Traffic Control Works
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

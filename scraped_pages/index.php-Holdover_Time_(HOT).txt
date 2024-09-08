@@ -1,0 +1,170 @@
+Holdover Time (HOT)
+
+
+
+
+
+
+
+
+
+
+
+  Holdover Time (HOT)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Ground Operations 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+The estimated time that deicing/anti-icing fluid will prevent the formation of frost or ice and the accumulation of snow on the critical surfaces of an aircraft.
+Source: ICAO Annex 14
+Description
+Holdover time (HOT) begins when the final application of deicing/anti-icing fluid commences and expires when the deicing/anti-icing fluid loses its protection effectiveness. It is determined by the extent to which it is expected that applied fluid will remain active on the aircraft surfaces; active fluid must be able to provide protection from the accretion of frozen or semi-frozen contaminants in the prevailing conditions. Holdover Time begins at the start of the anti icing operation. If a two-step operation is used, then it begins at the start of the final (anti-icing) step. By definition therefore, holdover time will have effectively run out when frozen deposits start to form or accumulate on treated aircraft surfaces.
+Due to their properties, Type I fluids form a thin liquid wetting film, which provides only an extremely limited holdover time, especially in conditions of freezing precipitation. With this type of fluid, no additional holdover time can be obtained by increasing the concentration of the fluid in the fluid/water mix.
+For ‘thickened fluids’ of Type 2, 3 and 4, their pseudo-plastic thickening agent enables the fluid to form a thicker liquid wetting film on aircraft surfaces which can then provide a significantly longer holdover time, especially in conditions of continuing freezing precipitation. With this type of fluid, additional holdover time will be provided by increasing the concentration of the fluid in the fluid/water mix, with maximum holdover time available from undiluted fluid.
+
+Aircraft Ground De/Anti Icing in progress
+Tables of Holdover Times for different fluids and prevailing conditions are published regularly and provide indication as to the time frame of protection that could reasonably be expected in each situation. These Tables contain elapsed time ranges which represent indicative maximum holdover times. The lower limit of the given time span indicates the estimated time of protection during moderate precipitation of the type stated; the upper limit indicates the estimated time of protection during light precipitation of the type stated. The prevailing conditions are defined in HOT Tables as:
+
+Active Frost - means when frost is forming and may occur when an aircraft surface temperature is at or below 0°C and also at or below the prevailing Dew Point,
+Freezing Fog - fog prevails with an ambient temperature of 0°C or below so that rime ice is deposited on exposed surfaces.
+Snow/Snow Grains - snow grains are defined as flat in form and with a diameter of less than 1mm and as not bouncing or shattering upon impact with hard ground.
+Freezing Drizzle - uniform precipitation composed exclusively of closely spaced droplets with diameter less than 0.5mm which freezes upon impact with surfaces with a temperature at or below 0°C.
+Light Freezing Rain - either as freezing drizzle but with widely separated droplets or composed of larger droplets falling at an intensity of no more than 2.5mm liquid water equivalent per hour.
+Rain on Cold Soaked Wing - ‘cold soaked’ is the condition where a wing containing cold fuel acquires as a result a skin temperature at or below 0°C and is therefore vulnerable to the formation of clear ice on its surface in moist air even when this air has a temperature of up to 15°C.
+
+Heavy precipitation rates or high moisture content, high wind velocity or jet blast may reduce holdover time below the lowest time stated in the range and holdover times may also be reduced when aircraft skin temperature is lower than outside air temperature.
+Holdover time guidelines are published generically for the defined fluid Types 1, 2, 3 and 4 but are also sometimes given for individual fluid products. These “brand name” holdover times will be found to differ from the generic tables. There are no holdover times for Heavy Snow, Hail (defined as ice pieces between 5 and 50mm diameter), Snow or Ice Pellets (defined as hail of less than 5mm in diameter) and Moderate or Heavy Freezing Rain.
+HOT Tables
+Aircraft Ground De/Anti Icing Holdover Time (HOT) tables, approved by the SAE G-12 Committee, are issued each year prior to the northern winter season.
+These are then reviewed by the FAA, and TC (Transport Canada) who are the main practical sources of HOT information and each issues their own version of the HOT Tables and associated support publications independently of each other and SAE. The generic changes from one season to the next are usually relatively few. However, in recent years, issues with residues from thickened fluids have been the main driver for the appearance of product-specific HOT tables, which are increasingly used by operators.
+Other "official" sources sometimes publish HOT which are then left as "current" when they cease to be the latest versions. The effect of such out of date information being still accessible has resulted in many Operations Manuals being out of date on this critical safety subject.
+In recent years, several companies have been developing systems that measure precipitation rate in real-time. These systems, referred to as liquid water equivalent systems (LWES), can be used by check-time determination systems (CTDS) and holdover time determination systems (HOTDS) to calculate more precise holdover times than can be obtained from the HOT Tables. They do this by using the weather data they collect as the input to the underlying assumptions employed in calculating the times in the HOT Tables.
+Related Articles
+
+In-Flight Icing
+Aircraft Ground De/Anti-Icing
+De/Anti-Icing Code
+
+Further Reading
+ICAO
+
+ICAO 9640: Manual of Aircraft Ground De-icing/Anti-icing Operations, 3rd edition (advanced unedited), 2018
+
+EASA
+
+EASA SIB No 2018-12: Post de-icing/anti-icing checks, July 2018
+
+AEA
+
+Recommendations for De-icing/Anti-icing Aeroplanes on the Ground, 30th Edition, July 2015
+Training Recommendations and Background Information for De-Icing /Anti-Icing of Aeroplane on the Ground, 12th Edition, August 2015
+
+Note: Although the AEA ceased to exist in 2016, the most recent of their publications still contain some pertinent information. Readers are cautioned to validate the recommendations of these guidebook using more current information sources.
+FAA
+
+FAA Ground De-icing website
+FAA Advisory Circular Use of Liquid Water Equivalent System to Determine Holdover Times or Check Times for Anti-Icing Fluids
+
+Transport Canada (TC)
+
+Transport Canada: Guidelines for Aircraft Ground Icing Operations amendments to which can be found with the latest edition of the HOT tables issued prior to each winter season.
+
+HOT Tables
+
+Transport Canada Holdover Time (HOT) Guidelines Winter 2023/2024
+FAA Holdover Tables Winter 2022-2023
+
+Other
+
+Aircraft Deicing Glossary, June 2024
+
+
+
+
+
+Categories
+
+
+Ground Operations
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

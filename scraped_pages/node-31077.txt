@@ -1,0 +1,143 @@
+Runway Overrun Awareness and Alerting System (ROAAS)
+
+
+
+
+
+
+
+
+
+
+
+  Runway Overrun Awareness and Alerting System (ROAAS)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Runway Excursion 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Background
+Runway overruns upon landing are largely considered as one of the greatest operational risks in commercial air transport and to date they are still a major contributor to accidents. Over the last 10 years significant rulemaking efforts and industry activities have been committed to reduce runway excursions.
+Description
+EUROCONTROL’s European Action Plan for the Prevention of Runway Excursions of January 2013 states that “on-board real time performance monitoring and alerting systems that will assist the flight crew with the land/go-around decision and warn when more deceleration force is needed should be made widely available”. There are a number of commercial solutions available to address this need and Gulfstream and Honeywell have developed one solution, the runway overrun awareness and alerting system (ROAAS), which acts as a safety enhancement tool to flight crews during the approach and landing phases of flight operations in order to prevent runways excursions. Other commercial offerings by Boeing and Airbus are discussed in separate articles.
+Contributory factors
+The contributory factors on the flight deck which are mostly responsible for runway overruns upon landing are related to the lack of awareness that:
+
+the current aircraft energy state (i.e., height above glide slope and ground speed) may lead to an overrun;
+the current autobrake setting may lead to an overrun;
+the aircraft braking capabilities on the actual runway conditions are different from the planned and may lead to an overrun;
+the aircraft is approaching the wrong (shorter) runway or that the approaching runway is shorter than planned and an overrun is pending;
+
+An additional contributory factor to runway overruns has to do with the wrong or late decisions to adjust the aircraft energy state and/or configuration, and/or wrong or late decision to conduct a go-around or apply maximum deceleration.
+The ROAAS Solution
+Gulfstream and Honeywell have jointly developed ROAAS with the intended functions to provide an aid to:
+
+flight crew awareness of aircraft stopping-points relative to the approaching runway, based on real-time aircraft energy state; and
+flight crew decision making for go-around and for timely use of all available stopping devices during a pending runway overrun situation. ROAAS uses the selected runway conditions from the FMS to perform calculations and it requires no additional flight crew inputs.
+
+The underlying assumption is to minimise the impact on the flight deck, from the standpoint of crew workload and training, while aiding crew awareness of an impending runway overrun and supporting crew decision making.
+The result is an intuitive, graphical display that provides real-time indications of contextualised, energy-based aircraft stopping-points, accompanied by timely alerts if a pilot response is required. Systems that provide flight crew alerting of an impending runway overrun have previously been developed on other aeroplanes.
+ROAAS operations
+The pilot monitoring (PM) should use the ROAAS indications to provide succinct verbal approach updates to the pilot flying (PF) throughout the approach and landing (including roll-out). These crew callouts include an initial callout when the display becomes visible (“ROAAS is green”, or “ROAAS is amber, etc.). ROAAS can be utilised in a wide variety of scenarios and approaches, while accurately alerting the crew of potential opportunities for runway overruns and allows enough time for an appropriate preventative action to be taken. The ROAAS display and corresponding aural alerts act as a tertiary source for determining if the aircraft would stop within the runway length and, if so, a stopping point within those limitations.
+Precautions for use
+ROAAS does not guarantee successful recovery from a pending runway overrun due to variability in factors such as pilot response, actual aircraft performance, and actual runway length and condition. Moreover, ROAAS may not be available at all runways worldwide, depending on database inclusion.
+ROAAS is not intended to be used as the sole landing or go-around decision making tool and does not substitute for landing distance assessments or normal flight management system (FMS) take-off and landing data (TOLD) calculations based on the aeroplane flight manual (AFM) and operator specific standard operating procedures (SOP) for stabilised approach criteria.
+The pilots should be able to manually inhibit aural warnings in order to avoid false and/or nuisance warnings due to a faulty or incomplete database, MEL-items, local NOTAMs, etc. The use of the ROAAS should be part of pilot initial and recurrent training. The ROAAS equipped aircraft operators should develop clear and unambiguous SOPs and callouts for ROAAS operations.
+Related Articles
+
+Runway Awareness and Advisory System (RAAS) - Boeing solution
+Runway Overrun Prevention System (ROPS) - Airbus solution
+Runway Excursion
+
+Further Reading
+
+Development of a Predictive Runway Overrun Awareness and Alerting System: Honeywell paper.
+
+
+
+
+
+Categories
+
+
+Runway Excursion
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

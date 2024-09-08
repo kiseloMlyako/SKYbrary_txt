@@ -1,0 +1,320 @@
+Use of Erroneous Parameters at Take-Off
+
+
+
+
+
+
+
+
+
+
+
+  Use of Erroneous Parameters at Take-Off
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Runway Excursion 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+The use of erroneous take-off parameters is a safety issue of general concern and is not specific to any particular aircraft type. It can result in early rotation with the potential for tail strike, collision with obstacles in the departure path, loss of control immediately after becoming airborne, or runway overrun (as a result of either failure to get airborne or a decision to reject the take-off). In a number of cases, the loss of an aircraft during take-off has been directly attributed to the use of erroneous take-off parameters.
+Most frequently, the erroneous parameters are derived as a result of using an incorrect value for the aircraft take-off mass but can also be linked to circumstances such as transcription or data entry errors, reference to the wrong performance chart, wrong software version or wrong tail-sign used in electronic performance calculation programs, failure to update the parameters to reflect a runway change, an intersection departure or changing weather conditions, or selection of a take-off configuration that does not match that assumed in the performance calculations.
+Many National Aviation Authorities (NAA) and manufacturers have published Operational Notes or Safety Information Bulletins that are intended raise awareness, and reduce the occurrence, of erroneous take-off parameter events. These guidance materials go to great length to enhance awareness, identify causes, suggest mitigation strategies, recommend training emphasis, and advocate Flight Data Monitoring (FDM) strategies. Much of the information presented in this article has been drawn from those materials.
+Identifying Common Causes
+In 2007, following the investigation of two serious incidents involving tail strikes that had occurred at Paris, Charles de Gaulle Airport (LFPG), a study entitled "USE OF ERRONEOUS PARAMETERS AT TAKEOFF" was conducted by the Applied Anthropology Laboratory (LAA) at the request of Le Bureau d'Enquêtes et d'Analyses (BEA) and the French Civil Aviation Authority (DGAC). Various investigation bodies, airlines and manufacturers were consulted in the course of the study as several other accidents, serious incidents, and incidents of the same type, had occurred in various parts of the world. These events generally involved new generation aircraft and had causal factors which included undetected flight crew errors, of varying degrees of significance, when they entered take-off parameters. Serious incidents and incidents arising from data-entry errors of the same type continued to occur after the study. In 2016, EASA promulgated Safety Information Bulletin 2016-02 'Use of Erroneous Parameters at Take-off. This bulletin was revised in September 2021 as SIB 2016-02R1.
+The complete text of the DGCA study and the EASA SIB 2016-02R1 are accessible from the Further Reading section below. Studies have also been undertaken by numerous other agencies.
+Common Errors
+The following list, extracted from the EASA SIB, provides examples of common errors that have been identified both in investigation reports and by other relevant safety studies:
+
+the Zero Fuel Mass is inadvertently used (in EFBs, flight dispatch computers, etc.) instead of the Actual Take Off Mass in calculating performance data
+an incorrect value is selected from the load sheet or take-off data card and input into the FMS
+the aircraft mass is incorrectly calculated, transcribed or transposed into an aircraft system or when referencing performance manuals
+the Centre of Gravity(CG) value is incorrectly transcribed or calculated
+take-off reference (V) speeds are incorrectly calculated, transcribed or transposed when manually entered into FMS or aircraft systems
+aircraft data from a previous flight is used to calculate the take-off reference (V) speeds
+take-off performance parameters are not updated as a result of a change in operational conditions; for example, a change in the active runway or condition (wet, contaminated, etc.), departure from a runway intersection, change in the wind conditions, ambient temperature, temporary runway length restrictions, etc.
+wrong performance charts are used
+the wrong table or column/row is inadvertently selected in the performance charts
+an incorrect value is used when referencing the performance charts
+an error is made when converting values into the required unit of measurement
+wrong slats/flaps setting is used compared to the calculated take-off performance
+
+Whilst the vast majority of these errors are detected and corrected either at the time of occurrence, or later in the predeparture sequence, some are not. Individually, or in combination, any of these errors have the potential to cause, or contribute to, an accident or incident.
+Study Conclusions
+Multiple NAAs and research facilities have studied the Erroneous Parameter issue using various tools such as Safety Occurrence Investigation reports, Flight Data Monitoring (FDM), Safety Surveys and specifically designed pilot/operator questionnaires. These tools have identified a number of issues inclusive of the following:
+
+Scope
+
+errors relating to takeoff data are frequent. However, they are generally detected by application of maufacturer/airline Standard Operating Procedures (SOPs) or by personal methods such as mental calculation
+the global dispersion, and variety of events, indicates that the errors associated with determining and using takeoff parameters are independent of the operating airline, aircraft type, equipment and method used
+half of the crews who responded to a survey carried out at one airline, that was participating in the DGCA study, had experienced errors in parameters or configuration at takeoff, some of which involved the weight input into the FMS
+
+
+Weight Input
+
+input of the weight used in parameter calculation, in whatever medium it may be obtained or calculated (by ACARS, via EFB, manually), is one of the determining steps in the process of takeoff preparation. It is this parameter, by affecting both the thrust and the speeds, that has the greatest impact on takeoff safety
+the non-availability of final weight information until shortly before departure requires the crew to perform critical tasks and data input under strong time pressure,
+the weight values manipulated by crews before the flight can appear, depending on the documents or software, under various names or acronyms and in different units and formats for the same data
+in several cases, the Zero Fuel Weight (ZFW) was entered instead of the Take-off Weight (TOW) into the performance calculator
+
+
+FMS Limitations
+
+some FMS models allow insertion of weight and speed values that are inconsistent with, or outside the operational limits, of the aircraft concerned. In some models, speed entry omission will not result in the generation of a warning message
+the reference speed values suggested by some FMS can be easily changed. They do not enable routine detection of prior calculation errors
+
+
+Distraction
+
+time pressure and task interruptions are frequently cited in surveys as common factors contributing to errors. The observations showed that the crews' work load increases as the departure time approaches and that the normal routine of the captain was all the more disrupted
+
+
+Existing Mitigations
+
+checks on the "takeoff parameter calculation" function can be shown to be ineffective because they consist of verifying the input of the value but not the accuracy of the value itself
+in the same way, the check of data featuring on several media often proves to be ineffective. It is often limited to item by item comparisons. If the item is wrong, the check is correct but inadequate because it doesn't cover overall consistency
+pilots' knowledge of the order of magnitude of these parameter values, determined by empirical methods, is the most frequently cited strategy used to avoid significant errors
+
+
+Recovery Liabilities
+
+on Primary Flight Display (PFD) cockpit screens, the marker representing Vr is not displayed at low speed. Further, it can be difficult to distinguish it from the marker representing V1, especially when the two values are similar
+the possible decision to reject a takeoff based on an erroneous V1 no longer guarantees safety margins
+
+
+Inconsistent Crew Reaction
+
+in several cases, crews perceived abnormal airplane behaviour during takeoff. Some took off “normally”, with no counter strategy applied. Others were able to adopt different strategies such as rejecting the takeoff, increasing thrust or delaying rotation
+
+
+FDM Under-Utilisation
+
+Flight Data Monitoring (FDM) offers the ability to track and evaluate flight operations trends and identify risk precursors, but is not necessarily being used to full potential to identify situations where erroneous take-off parameters may have been used. FDM can be used to systematically detect indications of insufficient take-off performance by implementing a few additional specific FDM event algorithms
+
+
+
+Mitigation Strategies
+Mitigation strategies to help prevent the occurrence of erroneous parameters being used during take-off could include the following:
+
+Risk Assessment
+
+under the Company Safety Management System (SMS), a dedicated safety risk assessment could be conducted to evaluate if the procedures currently in place are adequate. In particular, EASA has recommended that the following scenarios be analysed, inclusive of the effects of workload, distraction, time pressure and fatigue, with respect to the probability of:
+
+using wrong reference data for computerised performance calculation
+making errors in mass and balance or take-off performance calculation;
+incorrect entry of data into avionic systems (e.g. incorrect entry into the FMS);
+incorrect loading of the aircraft;
+using erroneous weather/runway data; and
+inefficient cross-checking between flight crew
+
+
+
+
+Training and Procedures
+
+flight crews should be adequately and appropriately trained on:
+
+take-off parameter calculation;
+verification methodology;
+common errors;
+error trapping;
+intervention strategies to prevent time pressure and stress.
+
+
+calculation of take-off parameters and FMS entries could include that:
+
+independent calculations be performed from first principles for both Mass and Balance and performance parameters instead of a single calculation cross checked by the second crew member;
+critical FMS entries, inclusive of weights, takeoff configuration, FLEX temperature or reduced thrust selection, and V speeds be carried out interactively by both pilots
+re-calculation required off-block, e.g. due to runway or intersection change during taxi, are required to be performed during stand-still of the aircraft.
+
+
+simulator training should include:
+
+recognition and identification of inadequate take-off performance
+mitigation strategies and appropriate actions
+use of scenarios derived from crew reports and FDM data
+
+
+
+
+Aircraft Systems Software Upgrades
+
+use of electronic cross check or upload between:
+
+EFB Mass and Balance and Performance applications
+EFB applications and FMS
+Flap setting used for calculations and actual flap position
+
+
+aircraft self protections systems might include:
+
+FMS barriers to prevent upload of out-of-limits parameters
+tail strike prevention software
+electronic cross check between takeoff position/heading assumed by FMS and actual position/heading
+Runway Awareness and Advisory System (RAAS) enhancement to detect when the runway remaining is no longer sufficient for a rejected takeoff
+
+
+
+
+FDM Enhancements
+
+implementation of specific event algorithms relevant to the monitoring of take-off performance inclusive of items such as:
+
+Slow Acceleration
+Late Rotation
+Slow Rotation
+Centre of Gravity out of limits
+
+
+
+
+
+Accidents & Incidents
+Events in the SKYbrary database which include Pre Flight Data Input Error as a contributory factor:
+
+B742, Halifax Canada, 2004 (On 14 October 2004, a B742 crashed on take off from Halifax International Airport, Canada, and was destroyed by impact forces and a post-crash fire. The crew had calculated incorrect V speeds and thrust setting using an EFB.)
+A320, Lisbon Portugal, 2019 (On 16 September 2019, an Airbus A320 departing Lisbon only became airborne 110 metres before the end of runway 21 and had a high speed rejected takeoff been required, it was likely to have overrun the runway. The Investigation found that both pilots had inadvertently calculated reduced thrust takeoff performance using the full 3705 metre runway length and then failed to identify their error before FMS entry. They also did not increase the thrust to TOGA on realising that the runway end was fast approaching. This was the operator’s third almost identical event at Lisbon in less than five months.)
+A320, Porto Portugal, 2013 (On 1 October 2013, an Airbus A320 took off from a runway intersection at Porto which provided 1900 metres TORA using take off thrust that had been calculated for the full runway length of 3480 metres TORA. It became airborne 350 metres prior to the end of the runway but the subsequent Investigation concluded that it would not have been able to safely reject the take-off or continue it, had an engine failed at high speed. The event was attributed to distraction and the inappropriate formulation of the operating airline's procedures for the pre take-off phase of flight.)
+A321, Glasgow UK, 2019 (On 24 November 2019, as an Airbus A321 taking off from the 2665 metre-long runway 05 at Glasgow approached the calculated V1 with the flex thrust they had set, the aircraft was not accelerating as expected and they applied TOGA thrust. This resulted in the aircraft becoming airborne with less than 400 metres of runway remaining. The Investigation confirmed what the crew had subsequently discovered for themselves - that they had both made an identical error in their independent EFB performance calculations which the subsequent standard procedures and checks had not detected. The operator is reviewing its related checking procedures.)
+A321, Manchester UK, 2011 (1) (On 29 April 2011, an Airbus A321-200 being operated by Thomas Cook Airlines on a passenger service from Manchester UK to Iraklion, Greece took off in day VMC but failed to establish a climb at the expected speed until the aircraft pitch attitude was reduced below that prescribed for the aircraft weight which had been entered into the FMS. No abnormal manoeuvres occurred and none of the 231 occupants were injured.)
+B748, Tokyo Narita Japan, 2017. (On 15 July 2017, a Boeing 747-8F close to its maximum takeoff weight only became airborne just before the end of the 2,500 metre-long north runway at Narita after the reduced thrust applicable to the much longer south runway was used for the takeoff and the aircraft cleared the upwind runway threshold by only 16 feet. The Investigation found that the very experienced Captain and the very inexperienced First Officer had both failed to follow elements of the applicable takeoff performance change procedures after the departure runway anticipated during pre-start flight preparations prior to ATC clearance delivery had changed.)
+B738, Belfast International UK, 2017. (On 21 July 2017, a Boeing 737-800 taking off from Belfast was only airborne near the runway end of the runway and then only climbed at a very shallow angle until additional thrust was eventually added. The Investigation found that the thrust set had been based on an incorrectly input surface temperature of -52°C, the expected top of climb temperature, instead of the actual surface temperature. Although inadequate acceleration had been detected before V1, the crew did not intervene. It was noted that neither the installed FMC software nor the EFBs in use were conducive to detection of the data input error.)
+
+SKYclip
+
+
+
+
+
+
+
+
+
+
+
+ Read more
+
+
+
+
+Changing Departure Runway While Taxiing (SKYclip)
+
+
+
+
+
+
+
+
+
+
+Related Articles
+
+FMS Data Input Errors
+Runway Excursion
+Rejected Take Off
+Reduced Thrust Takeoff
+Runway Excursions Research - ATSB
+ATSB Safety Study: Take-off performance parameter errors: A global perspective
+Takeoff Weight Entry Error and Fatigue (OGHFA SE)
+Global Action Plan for the Prevention of Runway Excursions (GAPPRE)
+
+Further Reading
+
+EASA SIB 2016-02R1: Use of Erroneous Parameters at Take-off, Sept 2021
+DOC AA 556/2008, May 2008 - Use of Erroneous Parameters at Take-Off; DGAC France
+Calculating Errors, by Linda Werfelman, Aerosafetyworld, Sept 2008
+Airbus FOBN: “Revisiting the stop or go decision”
+Airbus FOBN: “Understanding take off speeds”
+Performance Data Errors in Air Carrier Operations: Causes and Countermeaures, NASA, June 2012
+Reasonableness Checks of Information Automation Systems, Air Carrier Training Aviation Rulemaking Committee (ACT ARC) Final Recommendation 18-1 to Federal Aviation Administration (FAA) Flight Standards Service, approved by committee in 2018.
+
+
+
+
+
+Categories
+
+
+Runway Excursion,
+              Overrun on Take Off
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

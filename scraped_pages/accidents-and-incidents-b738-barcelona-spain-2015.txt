@@ -1,0 +1,290 @@
+B738, Barcelona Spain, 2015
+
+
+
+
+
+
+
+
+
+
+
+  B738, Barcelona Spain, 2015
+
+
+
+
+
+
+
+
+
+Summary
+
+On 12 December 2015, whilst a Boeing 737-800 was beginning disembarkation of passengers via an air bridge which had just been attached on arrival at Barcelona, the bridge malfunctioned, raising the aircraft nose gear approximately 2 metres off the ground. The door attached to the bridge then failed and the aircraft dropped abruptly. Prompt cabin crew intervention prevented all but two minor injuries. The Investigation found that the occurrence had been made possible by the failure to recognise new functional risks created by a programme of partial renovation being carried out on the air bridges at the Terminal involved.
+
+
+
+
+Event Details
+
+When
+
+12/12/2015
+
+
+
+Event Type
+
+
+GND
+
+
+
+
+Day/Night
+
+Night
+
+
+
+Flight Conditions
+
+On Ground - Normal Visibility
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 737-800
+
+
+
+
+
+
+
+
+
+Operator
+
+Ryanair
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Sevilla/San Pablo Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Barcelona/El Prat Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Parked
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+LEBL
+
+
+
+
+General
+
+Tag(s)
+
+
+              Copilot less than 500 hours on Type
+          
+
+
+
+
+GND
+
+Tag(s)
+
+
+              Aircraft / Object or Structure conflict,
+              Airbridge Positioning
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Aircraft damage
+
+Minor
+
+
+
+Non-aircraft damage
+
+Yes
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Number of Non-occupant Fatalities
+
+0
+
+
+
+Occupant Injuries
+
+Few occupants
+
+
+
+Number of Occupant Fatalities
+
+0
+
+
+
+Off Airport Landing
+
+Yes
+
+
+
+Ditching
+
+Yes
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Airport Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Airport Management
+
+
+
+
+
+
+
+
+
+Description
+On 12 December 2015, a Boeing 737-800 (EI-DLR) being operated by Ryanair on a domestic passenger flight from Seville to Barcelona as FR6399 which had just begun disembarking its passengers in normal night visibility conditions via an air bridge connected to door 1L, was lifted off its nose landing gear to a height of approximately 2 metres still attached to the air bridge until the door failed and the aircraft nose gear dropped back to the apron. Two of the 76 persons on board sustained minor injuries. Damage was caused to both the aircraft 1L door and the air bridge.
+
+The aircraft after lifting by the air bridge due to its contact with Door 1. [Reproduced from the Official Report]
+Investigation
+A Serious Incident Investigation was carried out by the Spanish Commission for the Investigation of Accidents and Incidents (CIAIAC). The 30 year-old Captain was a Spanish national and had 7,400 hours total flying experience of which 6,200 hours were on type. The 24 year old First Officer was a Portuguese national and had 350 hours total flying experience of which 50 hours were on type.
+It was noted that the event had occurred at gate 101 at Terminal 2, the older of the two terminals at Barcelona which is situated to the north of runway 25R. It was found that the air bridge at gate 101 had been installed in 1991 and its hydraulic system subsequently refurbished in 2001. Its screen and control panel were then renovated in 2005 and most recently, in June 2015, its translation and control system had been renovated as part of a larger programme of air bridge renovation being undertaken by a contractor to the Airport Operator AENA, the Spanish Airports and Air Navigation Authority.
+It was established that after passenger disembarkation had started and over half of the 159 passengers on board on arrival had already left the aircraft, the air bridge attached to door 1L had begun to lift the front of the aircraft off the ground. An alarm sounded at the air bridge control console and when the cabin crew realised what was happening, "they stopped the disembarkation of the passengers and asked the people still on board to move towards the front of the aircraft to sit down anywhere, as the door was expected to collapse and the aircraft nose to fall". This then happened and the remaining passengers were subsequently disembarked through door 2L at the rear of the aircraft and taken to the terminal by bus. Two of the passengers reported sustaining minor injuries.
+It was noted that since the elevation of the aircraft by the air bridge was gradual, and the aircraft had remained at the same height as the air bridge as this was happening, there had been no actual risk to the passengers who were disembarking when the elevation began. However, likelihood of the subsequent collapse of the aircraft door due to it carrying part of the weight of the aircraft had represented a risk to any unseated passengers which had been successfully mitigated by the prompt intervention of the cabin crew.
+Functional testing of the air bridge found that it was not possible to reproduce or replicate the failure which had occurred but subsequent testing did show that the air bridge involved had a pre-existing intermittent fault in its hydraulic lifting circuit electrovalve which had randomly been blocking or freezing in an open position. Similar testing of other Terminal 2 air bridges, and in particular one which was of the exactly the same design as the one under investigation but which had not yet been renovated, found that there was a 1 second time limit on the activation of the elevation system hydraulic pressure which meant that any blockage of the controlling electrovalve would not be followed by continued uncontrolled lifting (or lowering). This finding led to the further finding that the renovation schedule had included the installation of a new control panel which included modified software for the control of air bridge elevation. This new control software was found to have increased the time limit for the activation of the elevation system hydraulic pressure from 1 second to 10 minutes but had not addressed the potential consequences of this change in the event of a malfunctioning system electrovalve. More generally, it was found that this oversight was a result of a failure to include in the renovation work programme any inspection of the condition of the control elements that were not being modiﬁed.
+Given this dual origin of the malfunction, it could be deduced that the lifting of the air bridge had occurred when its self-levelling system had been activated by the slight change in aircraft height as passenger disembarkation proceeded which was detected by the "safety shoe" mounted between the L1 door and the height of the air bridge floor. The consequent input of hydraulic pressure was not then immediately stopped when the electrovalve (again) malfunctioned because of the increased time limit for availability of pressure in the circuit.
+It was concluded that the specification of the programme to partially renovate the air bridges at Terminal 2 had been inadequate in that it had failed to consider the effect of the intended changes in the system on the parts of it that were not being renovated. It was noted that the renovation work was being undertaken by a Temporary Joint Venture - a "UTE" - consisting of Adelte Ports & Maritime and Luis Pares.
+The Cause of the uncontrolled lifting of the air bridge was formally documented as "the combination of the failure of the electro-valve in the hydraulic elevation circuit and the modiﬁcation of the interval for the activation of the pump in this circuit of the self-levelling system that had been introduced during the (partial) renovation of the air bridge a few months earlier”.
+Safety Action taken by Barcelona Airport as a result of the investigated occurrence was noted to have included "making sure that all air bridge hydraulic elevation pumps have a maximum activation interval of 1 second".
+Two Safety Recommendations were made as a result of the Investigation as follows:
+
+that Barcelona Airport which is responsible for preventive maintenance before and after the process of renovating the air bridges should verify the good condition of the components that will remain in them after the modiﬁcation process. [80/16]
+that the Adelte-Luis Pares Joint Venture (the contractor undertaking the Terminal 2 air bridge renovation programme for Barcelona Airport) should assess all possible failure modes (which may arise in the modified air bridges as a result of the renovation work). [81/16]
+
+The Final Report of the Investigation was approved on 2 November 2016 and subsequently made available in English language translation.
+Related Articles
+
+SMS in Aerodrome Operation
+Passenger Boarding Bridge

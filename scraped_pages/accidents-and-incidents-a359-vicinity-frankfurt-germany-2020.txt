@@ -1,0 +1,325 @@
+A359, vicinity Frankfurt Germany, 2020
+
+
+
+
+
+
+
+
+
+
+
+  A359, vicinity Frankfurt Germany, 2020
+
+
+
+
+
+
+
+
+
+Summary
+
+On 1 January 2020, an Airbus A350-900 made an unstabilised night ILS approach to Frankfurt in good visual conditions, descending prematurely and coming within 668 feet of terrain when 6nm from the intended landing runway before climbing to position for another approach. A loss of situational awareness was attributed to a combination of waypoint input errors, inappropriate autoflight management and communication and cooperation deficiencies amongst the operating and augmenting flight crew on the flight deck.
+
+
+
+
+Event Details
+
+When
+
+01/01/2020
+
+
+
+Event Type
+
+
+CFIT,
+              HF,
+              LOC
+
+
+
+
+Day/Night
+
+Night
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS A350-900
+
+
+
+
+
+
+
+
+
+Operator
+
+Thai Airways
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Phuket International
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Frankfurt am Main Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Missed Approach
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+EDDF
+
+
+
+
+General
+
+Tag(s)
+
+
+              Approach not stabilised,
+              Dual HUD installed,
+              Extra flight crew (no training),
+              PIC less than 500 hours in Command on Type
+          
+
+
+
+
+CFIT
+
+Tag(s)
+
+
+              Vertical navigation error
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Inappropriate crew response (automatics),
+              Ineffective Monitoring,
+              Manual Handling,
+              Procedural non compliance,
+              Ineffective Monitoring - SIC as PF
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Flight Management Error,
+              Aircraft Flight Path Control Error
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 1 January 2020, an Airbus A350-900 (HA-THF) being operated by Thai Airways on an international passenger flight from Phuket to Frankfurt as TG926 with an augmented crew descended at a high rate and high speed significantly below the ILS glidepath whilst approaching their destination in night VMC. With a 3000 feet rate of descent and an airspeed of 210 KCAS, an automatic go around was eventually programmed and TOGA thrust selected at 936 feet agl with the lowest point before climb commenced  being 668 feet agl when 6.43 nm from the runway. Once the recovery climb had been completed, the flight was subsequently completed without further event. 
+
+The flight path vertical profile relative to the ILS GS. [Reproduced from the Official Report] 
+Investigation
+A Serious Incident Investigation was carried by the German Federal Bureau of Aircraft Accident Investigation (BFU). The FDR and CVR were removed from the aircraft and their data downloaded by the BFU. Recorded ATC radar and voice communication data was also available. 
+The 43 year-old Captain reported having a total of “about 8000 hours” flying experience of which “about 400 hours" were on type. The 36 year-old First Officer reported having a total of “about 4000 hours” flying experience of which “about 1,500 hours” were on type. Two augmenting pilots were on board to facilitate in-flight relief of the operating crew members and were also required by the OM to occupy the flight deck supernumerary crew seats below FL 200 during both the climb and descent in order “to monitor the (operating) flight crew, recognise potential errors and provide guidance accordingly”. All four pilots held Thai-issued ATPLs (Airline Transport Pilot Licence) and were currently type rated for the Airbus A330 and the Airbus A350. The flight duty period (FDP) for the operating flight crew involved was found to have been 14:05 hours, well within the maximum allowed of 20 hours. 
+All four pilots were interviewed by the Investigation individually in the presence of an employee of the operator, who “participated in the interviews as interpreter”. However little of value appeared to have been disclosed - both operating pilots stated that they were familiar with the approach but when “asked to explain why they had approached below the glide slope of the ILS and initiated the go around procedure at about 6.4 NM at low altitude, they did not give a statement regarding these questions”. The two observing pilots were also interviewed and “when asked whether they had realised that the aircraft had been too low during the approach and whether they had given guidance to the two operating pilots, both questions were answered in the negative”. The 53 year-old radar controller primarily involved in the event was also interviewed and their input is summarised later.
+The CVR data was reviewed by an “officially appointed interpreter” who reported that throughout the 1:45 hours airborne immediately prior to landing and the 19 minutes recorded after it, communication in the flight deck had been “largely held in Thai”. The interpreter also stated that the recording did not include any conversation about the approach flight path or the instrument approach and that none of the standard callouts which the PM would have been expected to make had occurred. They also explicitly confirmed that there had been “no discussion between the pilots about a possible deviation or route discontinuity in respect of the approach route initially selected in the Multipurpose Control and Display Unit (MCDU)”.   
+What Happened
+The flight crew stated that whilst following the southern STAR for a landing on runway 07R, they had been following another aircraft and the Captain “had assumed they would land on runway 07R after it” and had entered the corresponding routing and instrument approach procedure into the FMS.
+
+Part of the 07R ILS Cat 2/3 approach chart showing the ground tracks for both approaches. [Reproduced from the Official Report]
+Shortly before turning downwind, the APP radar controller (pickup) asked the flight if it was correct that they had a sick person on board which was confirmed by the crew who noted that medical assistance for the passenger concerned once the flight had arrived at the gate had been pre-notified to the Operator by ACARS some hours earlier. The flight was then transferred to the APP radar controller (feeder) who on checking in immediately responded with instructions to the flight to increase their rate of descent, turn onto heading 340° and continue their descent to 3000 feet QNH. This was then followed almost immediately by an instruction to continue the turn onto 040° to intercept the 07R ILS LOC and confirmation of clearance for the approach plus an instruction to fly at or above 170 KIAS. HDG (heading) and OP DES (Open Descent) modes were selected.
+On base leg passing a recorded 5,740 feet QNH, Flaps 1 was selected, quickly followed by Flaps 2 and full extension of the speed brakes and selection of landing gear down. The A/THR was at flight idle and the rate of descent was 2000 fpm. Less than three minutes after the controller had first requested an increase in the rate of descent, the aircraft was at 3,610 feet QNH approximately 9 nm from the runway threshold and had flown slightly through the LOC due to late selection of APPR mode before beginning to return to it. 
+At this point, the Captain’s AP was also activated. The aircraft was just above the ILS GS but maintaining a rate of descent of almost 2,500 fpm and still in OPDES when the PF First Officer selected a 3,200 fpm rate of descent on the FCU. Shortly afterwards, the aircraft flew through the ILS GS and when the speed brakes were retracted the pitch attitude increased from 3° nose down to 8° nose down and the airspeed began to increase. The autopilots were then disengaged and the speed brakes redeployed passing a recorded 2,715 feet QNH (2,500 feet agl) with the rate of descent now 3,350 fpm. Shortly afterwards, the ILS LOC mode was shown as captured as the aircraft again flew though it.
+The rate of descent continued to increase, reaching a maximum of just over 4,000 fpm. As the aircraft passed 1,340 feet agl, EGPWS activations for ‘SINK RATE’ and ‘GLIDESLOPE’ were audible on the CVR with the rate of descent at 3,370 fpm. After a further 100 feet of descent, the PF First Officer selected the missed approach stop altitude 5,000 feet on the FCU and the AP modes changed from LOC* / V/S to LOC* / OP CLIMB but then followed this with an FCU re-set to an altitude of 100 feet and a vertical speed of - 3,200 fpm which changed the AP modes to LOC*  and  V/S. 
+Seven seconds later, passing 936 feet agl, the PF declared the initiation of a go around and the thrust levers set to TOGA and a full rearward movement of his side was recorded. As these actions took effect, the aircraft descended another 184 feet to 668 feet agl whilst at a distance of 6.43 nm to the 07R runway threshold. 
+On his first radio contact with TWR, the PM Captain advised commencing a go around. During the go around, the speed increased to 217 KCAS and with the slats and flaps still in the CONFIG 2 position, and a flaps extended overspeed warning was activated and the configuration was automatically changed to CONFIG 1.
+Positioning to a second ILS approach to the same runway and a normal landing followed without further event just under 15 minutes after the first approach had been discontinued. 
+Why It Happened 
+This Serious Incident was attributable to the poor performance of the flight crew but this occurred within an ATC context. It was evident that the unexpectedly abbreviated approach (the early turn to join the ILS LOC near to the runway - compare the track flown with the standard procedure track on the earlier illustration)  had overloaded the crew. However, there was also considerable evidence that neither of the pilots conducting the approach had been following a very large number of prescribed normal SOPs, including many which would have alerted them to their failure to establish on the ILS GS whilst seeking to control the aircraft flight path through the AP and A/THR and with dual HUDs available. Amongst many other SOP breaches, the clearly unstable approach was continued despite a requirement that ILS approaches must be flown within half scale deflection of both the LOC and GS and that the rate of descent on any approach must not exceed 1000 fpm. 
+During interview, the APP radar (feeder) controller primarily involved in providing a context for the flight crew’s performance stated that his motive for shortening the approach was that the TWR coordinator controller had informed him that a medical problem existed on board the flight which he had confirmed with the flight crew. He stated that in such cases a short approach without delay is often provided and he had therefore intended to feed the Airbus into the ILS approach ahead of other aircraft. Having then done so, he had seen that the aircraft had passed through the LOC but noted that at that time that it had been “neither too fast nor too high” and considered that as this was not unusual when reducing height “he assumed it was on the glide slope [...] otherwise it would not have descended further”. Shortly after transferring the flight to TWR, “he had heard a colleague ask ‘what is the Thai doing’”.
+When asked whether it was standard procedure to shorten the approach of aircraft which was known to have an on board medical problem, the controller stated that it was and “as soon as the information is received the approach is shortened” regardless of whether or not a formal PAN declaration is made. He added that since Frankfurt has a “Feeder” controller who “monitors the final approach”, there is no requirement for flights to report that they are established on the glide slope although “some flight crew still do it”. He was clear that if the final approach “looks good” (not defined), a flight can be transferred to TWR and if not “there is always the option to instruct a missed approach procedure”.
+Finally, the Investigation examined whether any ground based safety aids could have alerted ATC to the CFIT risk to which the aircraft was being exposed. Since at the time of the investigation, Frankfurt ATC had not adopted the Approach Path Monitoring (APM) service available from the Langen ATCC because of concerns about the rate of false alerts, the only available aid was the MSAW system. It was found that at Frankfurt, this system was configured to generate a ‘Predicted Alert’ if an aircraft was likely to be less than 750 feet agl within the next 30 seconds and a ‘Current Alert’ if an actual height less than 750 feet agl was detected. Both alerts are accompanied by a single acoustic tone.
+Two MSAW ‘Predicted Alerts’ were found to have been generated during this investigated event but neither had been considered as significant by the APP radar (feeder) controller. He stated that the presentation of MSAW alerts was similar to that used for STCA activations which he stated generate “many false alarms” and added that “he could not say if he had realised the alert(s) or interpreted it(them) as false alarm(s)”. He also said that he had not considered that the alerts would have been generated due to terrain proximity approach “because there was no mountain in the vicinity (and) in any case, he would not have done anything differently because in his opinion the aircraft had been on the glide slope”. When asked if he knew whether MSAW alerts were accompanied by an acoustic warning, he responded that he did not.
+It was found that other MSAW ‘Current Alerts’ which would normally have been triggered by the descent had been suppressed because of an “active inhibition area” around the airport which had been implemented “to prevent inadvertent alerts in the area of the final approach where approaching aircraft are flying close to the ground in any case”. It was noted that in any case “MSAW is not designed to monitor approaches but hazardous ground proximity outside of published approach procedures”. The ANSP stated that “APM is basically more suited to monitor ILS approaches (since) it is designed to generate alerts as soon as an aircraft leaves a defined funnel either laterally or downward”.  
+The Investigation noted that a similar Serious Incident had occurred during an approach to Moscow Domodedovo in 2017 although in that case involving an Airbus A380.   
+The formally-stated Causes of the Investigation were as follows:
+After a shortened final approach, the Airbus A350-941 was flying at night in good visual meteorological conditions unstabilised on instrument approach to runway 07R of Frankfurt/Main Airport. The glide slope of the instrument landing system was flown through from above. Starting at an altitude of 3,300 feet, the flight path was continuously below the glideslope. The flight crew discontinued the instrument approach and initiated a go around procedure about 6nm ahead of the runway 07R threshold at 668 feet agl, i.e. far below the glideslope. The investigation determined that there had been:
+
+Errors in the programming of the waypoints in the flight management system
+Errors in the handling of the auto flight system for the approach
+Reduced situational awareness of the pilots in regard to the spatial position
+Communications and cooperation deficiencies within the flight crew.
+
+The Final Report was completed on 7 July 2022 and published the following month. No Safety Recommendations were made.
+Related Articles
+
+Controlled Flight Into Terrain (CFIT)
+Stablised Approach
+FMS Data Input Errors
+Situational Awareness
+Crew Resource Management
+Instrument Landing System
+CFIT Precursors and Defences
+Missed Approach
+Pilot Workload
+SOPs
+Safety Nets
+MSAW
+A388, vicinity Moscow Domodedovo Russia, 2017

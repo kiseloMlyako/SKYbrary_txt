@@ -1,0 +1,460 @@
+Pilot-Controller Communications (OGHFA BN)
+
+
+
+
+
+
+
+
+
+
+
+  Pilot-Controller Communications (OGHFA BN)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+OGHFA 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ Flight Safety Foundation
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 Introduction
+Until controller-pilot data link communication (CPDLC) comes into widespread use, air traffic control (ATC) will depend upon voice communications that are affected by various factors.
+Aircraft operators and air traffic management (ATM) providers, like pilots and controllers, are close partners in terms of “productivity” for enhancing the airport and airspace flow capacity; operators and ATM should also be close partners in terms of “safety” or risk management.
+Communication between controllers and pilots can be improved by the mutual understanding of each other’s operating environment.
+This briefing note provides an overview of various factors that may affect pilot-controller communications. It may be used to develop a company awareness program for enhancing pilot-controller communications.
+2 Data
+Incorrect or incomplete pilot-controller communication is a causal or circumstantial factor in 80 percent of incidents or accidents, as illustrated in Table 1.
+A survey of the U.S. National Aeronautics and Space Administration (NASA) Aviation Safety Reporting System (Aviation Safety Reporting System (ASRS)) database identifies the following factors affecting pilot-controller communications:
+
+
+
+Factor
+Percentage of Reports
+
+
+
+
+Incorrect communication
+80%
+
+
+Absence of communication
+33%
+
+
+Correct but late communication
+12%
+
+
+
+Table 1 Communication Factors in NASA ASRS Reports
+The survey also reveals how various modes of communications are affected:
+
+
+
+Mode of Communication
+Percentage of Reports
+
+
+
+
+Listening
+45%
+
+
+Speaking
+30%
+
+
+Reading and writing
+25%
+
+
+
+Table 2 Communication Factors in NASA ASRS Reports
+Incorrect or inadequate ATC instructions (e.g., radar vectors), weather or traffic information, and advice or service in emergencies are causal factors in more than 30 percent of approach and landing accidents.
+3 Remarks
+Although pilot-controller communications are not limited to the issuance and acknowledgement of clearances, this briefing note primarily refers to clearances because they provide a convenient example to illustrate this overview.
+4 Pilot-Controller Responsibilities
+The responsibilities of the pilot and controller intentionally overlap in many areas to provide redundancy.
+This shared responsibility is intended to compensate for communications failures that might affect safety.
+5 The Pilot-Controller Communication Loop
+The pilot-controller communication loop supports the safety and redundancy of pilot-controller communications, as illustrated by Figure 1.
+
+Figure 1 The Pilot-Controller Communication Loop
+The pilot-controller communication loop constitutes a confirmation and correction process that ensures the integrity of communications.
+Whenever adverse factors are likely to affect communications, strict adherence to this closed loop constitutes a line of defense against communications errors.
+Readback and hearback errors may result in one or more of the following types of events, ranked by the number observed in 1992 and 1993 (NASA ASRS, 1994):
+
+Operational deviation (nonadherence to legal requirements)
+Altitude deviation
+Airborne conflict
+Less-than-desired separation
+Lateral deviation
+Runway incursion
+Ground conflict
+Airspace penetration
+Controlled flight into terrain (CFIT)
+Near midair collision
+
+6 Achieving Effective Communications — Obstacles and Lessons Learned
+Pilots and controllers are involved equally in the air traffic management system.
+Achieving effective radio communication involves many factors that should not be considered in isolation.
+Many factors are closely interrelated, and more than one cause usually is involved in a breakdown of the communications loop.
+The following provides an overview and discussion of factors involved in effective pilot-controller communications.
+6.1 Human factors aspects in effective communication
+Effective communication is achieved when our mental process is able to accommodate and to interpret the information contained in a message.
+This mental process can be summarized as:
+
+How do we perceive the message?
+How do we reconstruct the information contained in the message?
+How do we link this information to an objective or to an expectation?
+What bias or error is introduced in this process?
+
+Research in crew resource management (CRM) highlights the relevance of the context and expectations in this process. Nevertheless, expectations may introduce either a positive or negative bias in the effectiveness of the communications.
+Workload, fatigue, nonadherence to the sterile cockpit rule, distractions, interruptions, conflicts and pressure are among the factors that may affect adversely pilot-controller communications and result in:
+
+Incomplete communication
+Omission of call sign or use of an incorrect call sign
+Use of nonstandard phraseology
+Failure to listen or respond
+Failure to effectively implement the confirmation-correction loop
+
+6.2 Language and communications
+CRM studies show that language differences are a more fundamental obstacle to safety in the cockpit than cultural differences.
+In response to a series of accidents involving language skills as a causal factor, an effort has been initiated to improve the English-language skills of pilots and controllers worldwide.
+Nevertheless, even pilots and controllers for whom English is the native language may not understand all communications spoken in English because of regional accents, dialects or different word usage.
+Language differences generate significant communications difficulties worldwide.
+The practice of controllers who use English for international flights and the country’s native language for domestic flights prevents pilots from achieving the desired level of situational awareness due to loss of “party-line” communicatons.
+6.3 Communication techniques
+The first priority of any communication is to establish an operational context by using markers and modifiers to define the following elements:
+
+Purpose — clearance, instruction, conditional statement or proposal, question or request, confirmation
+When — immediately, anticipated or expected
+What and how — altitude (climb, descend, maintain), heading (left or right), airspeed
+Where — (i.e., before or at a waypoint)
+
+The structure and construction of the initial and subsequent messages should support this context by:
+
+Following the chronological order of the sequence of actions
+Grouping instructions and numbers related to each action
+Limiting the number of instructions in the transmission
+
+The intonation, speech rate and placement and duration of pauses may positively or adversely affect the correct understanding of a communication.
+International Civil Aviation Organization (ICAO) Annex 10, Volume II, and PANS ATM (Doc. 4444) provides rules and procedures for pilot-controller communications.
+ICAO guidelines and techniques for radio transmission highlight the following objectives:
+
+Transmissions shall be conducted concisely in a normal conversational tone
+Full use shall be made of standard phraseologies whenever prescribed in ICAO documents and procedures
+Speech-transmitting techniques shall be such that the highest possible intelligibility is incorporated in each transmission.
+
+To reach these objectives, pilots and controllers should:
+
+Enunciate each word clearly and distinctly
+Maintain an even rate of speech (not exceeding — typically — 100 words per minute)
+Make a slight pause preceding and following numerals; this makes them easier to understand
+Maintain the speaking volume at a constant level
+Be familiar with microphone-operating techniques (particularly in maintaining a constant distance from the microphone if the aircraft does not have a constant-level modulator)
+Suspend speech temporarily if it becomes necessary to turn the head away from the microphone
+
+6.4 Use of nonstandard phraseology
+Use of nonstandard phraseology is a major obstacle to voice communications.
+Standard phraseology is intended to be easily and quickly recognized.
+Pilots and controllers expect each other to use standard phraseology.
+Standard phraseology helps lessen the ambiguities of spoken language and thus guarantees a common understanding among speakers
+
+of different native languages, or
+of the same native language but who use or understand words differently (e.g., regional accents or dialects).
+
+Nonstandard phraseology or the omission of key words may change completely the meaning of the intended message, resulting in potential conflicts.
+For example, any message containing a number should indicate whether the number refers to an altitude, a heading or an airspeed. Including such key words prevents an erroneous interpretation and allows an effective readback and hearback.
+Pilots and controllers might use nonstandard phraseology with good intentions; however standard ICAO phraseology always minimizes the potential for misunderstanding.
+Use of nonstandard phraseology may result from national practice.
+The most significant example is the North American phrase “Taxi into position and hold.” It has the same meaning as the ICAO phrase “Line up and wait,” whereas the ICAO phrase “Taxi to holding position” is a clearance to taxi to and hold at a point clear of the runway (e.g., the CAT I or CAT II/III holding point or line).
+6.5 Building situational awareness
+Radio communications (including party-line communications) contribute to building the pilot’s and the controller’s situational awareness.
+Flight crew and controllers may prevent misunderstandings by providing each other with timely information, for better anticipation.
+At all times, pilots should build and update a mental picture of the other traffic in the vicinity of their intended flight or ground path.
+6.6 Frequency congestion
+Frequency congestion significantly affects the correct flow of communications during critical phases such as takeoff and departure, and approach and landing, particularly at high-density airports. congestion requires enhanced vigilance by pilots and controllers.
+6.7 Omission of call sign
+Omitting the call sign or using an incorrect call sign jeopardizes an effective readback and hearback process.
+6.8 Lack of readback or incomplete readback (readback errors)
+ICAO Annex 11 requires that the safety-related part(s) of any clearance or instruction be read back by the pilot to the controller.
+The following parts of a clearance shall always be read back:
+
+ATC route clearances
+Clearances and instructions to enter, land, take off, hold short of, cross or backtrack on a runway
+Runway in use
+Altimeter setting
+ATC transponder code
+Altitude or flight level instructions
+Heading and speed instructions
+Transition levels (whether issued by the controller or broadcast by the automatic terminal information system [ATIS])
+
+The pilot’s readback must be complete and clear to ensure a complete and correct understanding by the controller.
+The readback message shall always include the flight call sign.
+Readback of a hold short, crossing, takeoff or landing instruction shall always include the runway designator.
+The use of the term “roger” is not an acceptable readback as it does not allow the controller to confirm or correct the clearance or instruction, thus decreasing the pilot’s and the controller’s situational awareness.
+
+A pilot may use “roger” to acknowledge a message containing numbers (instead of a normal readback), thus preventing effective hearback and correction by the controller, or
+A controller may use “roger” to acknowledge a message requiring a specific answer (e.g., a positive confirmation or correction, such as acknowledging a pilot’s statement that an altitude or a speed restriction cannot be met ).
+
+6.9 Failure to correct an erroneous readback (hearback errors)
+Any readback by the pilot requires a hearback by the controller in order to close the communications loop.
+Most pilots perceive the absence of an acknowledgement or correction following a clearance readback as an implicit confirmation of the readback.
+The absence of acknowledgement by the controller is usually the result of radio frequency congestion that requires the controller to issue clearances and instructions to several aircraft.
+The controller’s failure to correct an erroneous readback (a hearback error) may cause deviations from the assigned altitude or noncompliance with altitude restrictions or radar vectors.
+A deviation from a clearance or instruction may not be detected until the controller observes the deviation on the radar display.
+Less-than-required vertical or horizontal separation, near midair collisions and runway incursions are usually the result of hearback errors. Perceiving what was expected or wanted (not what was actually said)
+The bias of expectation can affect the correct understanding of communications by pilots and controllers.
+It involves perceiving what was expected or wanted and not what was actually said.
+The bias of expectation can lead to:
+
+Transposing the numbers contained in a clearance (e.g., an altitude or flight level) to what was expected, based on experience or routine, or
+Shifting a clearance or instruction from one parameter to another (e.g., perceiving a clearance to maintain a 280-degree heading as a clearance to climb or descend to and maintain FL 280).
+
+6.10 Failure to seek confirmation when a message is not understood
+Misunderstandings may include half-heard words or guessed-at numbers.
+The potential for misunderstanding numbers increases when a given ATC clearance contains more than two instructions.
+6.11 Failure to request clarification when in doubt
+Reluctance to seek confirmation or clarification may cause pilots to either:
+
+Accept an inadequate instruction (over-reliance on ATC), or
+Define by themselves the most probable interpretation.
+
+Failure to request clarification may cause the flight crew to believe erroneously that they have received the expected clearance (e.g., clearance to cross an active runway).
+6.12 Failure to question an incorrect or inadequate ATC instruction
+Failing to question an incorrect or inadequate instruction may cause a crew to accept an altitude clearance below the sector minimum safe altitude (MSA) or a heading that places the aircraft near obstructions or on a collision course with another aircraft.
+6.13 Taking a clearance or instruction issued to another aircraft
+This usually occurs when two aircraft with similar-sounding call signs are on the same frequency and are likely to receive similar instructions or if the call sign is blocked by another transmission.
+When pilots of different aircraft with similar-sounding call signs omit the call sign on readback, or when simultaneous readbacks are made by both pilots, the error may not be noticed by the pilots and the controller.
+Some national authorities have instituted call sign deconfliction programs (see the briefing note Level Bust) to minimize or eliminate this threat.
+Eurocontrol recommends that all operators study their schedules and arrange call signs to reduce the chances of company aircraft operating in the same airspace at the same time with similar call signs.
+6.14 Effective listening — filtering communications
+Effective communication requires active and intensive listening by all those involved concentrating on each part and word in order to fully understand the whole message.
+Because of other flight deck duties, pilots tend to filter communications, listening primarily to communications that begin with their aircraft call sign and not hearing other communications.
+For workload reasons, controllers also may filter communications (e.g., not hearing or responding to a pilot readback while being engaged in issuing clearances or instructions to other aircraft or ensuring coordination with another ATC facility).
+To maintain situational awareness, this filtering or selection process should be adapted according to the flight phase for more effective listening. For example,
+
+Whenever occupying an active runway (e.g., while backtracking, holding in position or lined up and ready for takeoff) or when conducting a final approach to an assigned runway, pilots should listen and give attention to all communications related to the runway, and
+When operating in a congested airspace, pilots should listen and give attention to all communications related to clearances to climb or descend to or through their altitude.
+
+6.15 Timeliness of communications
+Deviating from an ATC clearance may be required for operational reasons (e.g., performing a heading or altitude deviation for traffic or weather avoidance).
+Both the pilot and the controller need time to accommodate such deviations; therefore, the controller should be notified as early as possible to obtain a timely acknowledgement.
+Similarly, when about to enter a known non-radar-controlled (FIR), contacting the new air route traffic control center (ARTCC) about 10 minutes before reaching the FIR boundary may prevent misunderstandings or less-than-required separation.
+Blocked transmissions (simultaneous communications)
+Blocked transmissions often are the result of not immediately releasing the push-to-talk switch after transmitting or a “stuck-mike” situation.
+An excessive pause in a message such as holding the push-to-talk switch while preparing the next item of the transmission may also result in blocking part of the response or part of another message.
+Simultaneous transmission by two stations (two aircraft or one aircraft and ATC) results in one or both transmissions being unheard by the other stations or being heard as a buzzing sound or squeal.
+The absence of a readback by the pilot or the absence of a hearback acknowledgement by the controller should be considered as an indication of a possibly blocked transmission and thus prompt a request to repeat or confirm the information.
+Blocked transmissions are responsible for many altitude deviations, missed turnoffs and takeoffs and landings without clearance.
+6.16 Total loss of communications
+In case of suspected or confirmed total loss of voice communications, the flight crew should comply with prescribed general procedures or with the special procedures published for the specific airspace or airport.
+Broadcasting in the blind or using another aircraft as a relay may be done in areas of known low-quality HF or VHF transmissions.
+7 Communicating With ATC on Specific Events
+The following events or encounters should be reported as soon as practical to ATC, stating the nature of the event or encounter, the actions taken and the flight crew’s further intentions:
+
+Traffic-alert and collision avoidance system (Airborne Collision Avoidance System (ACAS)) or airborne collision avoidance system (ACAS) resolution advisory (RA) events
+Severe turbulence
+Volcanic ash
+Wind shear or microburst
+Maneuver in response to a ground-proximity warning system (GPWS/TAWS)/terrain awareness and warning system (GPWS/TAWS) warning
+Pilot-Controller Communications in Emergency Situations
+
+In an emergency, the flight crew and the controller should adopt a clear and concise communication pattern.
+7.1 Flight crew
+In an emergency, the flight crew should be aware that the controller may not be familiar with the aircraft and its performance capability.
+The controller may not understand a message that is too technical; a simple message should be used to inform the controller of the prevailing condition.
+In an emergency, the initial message should comply with the standard ICAO phraseology — “Pan Pan, Pan Pan, Pan Pan” (urgency) or “Mayday, Mayday, Mayday” (emergency) — depending on the criticality of the prevailing condition, to alert the controller to the level of urgency and trigger an appropriate response.
+Then, to explain the situation, simple and short messages should be used highlighting the operational implications of the prevailing condition.
+7.2 Controllers
+Controllers should recognize that in an emergency situation, the flight crew’s most important needs are:
+
+Time
+Airspace
+Silence on frequency
+
+The controller’s response to the emergency situation could be patterned after the ASSIST memory aid developed by Amsterdam Schiphol ATC:
+
+Acknowledge — Ensure that the reported emergency is well-understood and acknowledged.
+Separate — Establish and maintain separation with other traffic and terrain.
+Silence — Impose silence on your control frequency, if necessary, and do not delay or disturb urgent cockpit actions by unnecessary transmissions.
+Inform — Inform your supervisor and other sectors, units and airports as appropriate.
+Support — Provide maximum support to the flight crew.
+Time — Give flight crew sufficient time to manage the emergency.
+
+8 Awareness and Training Program
+A company awareness and training program on pilot-controller communications should involve both ATC personnel and pilots during meetings and simulator sessions to promote a mutual understanding of each other’s working environment, including:
+
+Modern flight decks (e.g., FMS programming)
+Modern ATC equipment (e.g., elimination of primary returns such as weather returns on synthetic radar displays)
+Operational requirements (e.g., aircraft deceleration characteristics or performance limitations), and
+Procedures (e.g., SOPs) and practices (e.g., CRM).
+
+Special emphasis should be placed on pilot-controller communications and task management during emergency situations.
+9 Key Points
+Achieving effective pilot-controller communications requires a holistic approach and emphasizing these key points:
+
+Adherence to company SOPs
+Understanding of pilots’ and controllers’ respective working environments and constraints
+Disciplined use of standard phraseology
+Strict adherence to the pilot-controller communication loop
+Alertness to request clarification or confirmation when in doubt
+Readiness to question an incorrect clearance or an inadequate instruction
+Preventing simultaneous transmissions
+Adapting listening of party-line communications as a function of the flight phase
+Adopting clear, concise and adapted communications in an emergency situation
+
+In addition, the company’s operations manual and SOPs should define the following policies:
+
+Primary language for use with ATC and in the cockpit, and
+Use of headsets below 10,000 ft.
+
+10 Associated OGHFA Material
+Briefing Notes:
+
+Managing Interruptions and Distractions
+Situational Awareness
+
+Situational Examples:
+
+CFIT After Aborted VOR-DME Approach
+Engine Separation After Takeoff
+Fuel Starvation, Stress, Fatigue and Nonstandard Phraseology
+Landing At Wrong Airport
+Landing Gear Failure
+
+11 Regulatory References
+ICAO:
+
+Annex 6, Operation of Aircraft; Part I, International Commercial Air Transport — Aeroplanes; Appendix 2, 5.15.
+Procedures for Air Navigation Services — Air Traffic Management (PANS-ATM, Doc 4444).
+Procedures for Air Navigation Services — Aircraft Operations (PANS-OPS, Doc 8168), Volume I, Flight Procedures.
+Annex 10, Volume II ; Communication Procedures; Chapter 5, Aeronautical Mobile Service.
+Manual of Radiotelephony (Doc 9432).
+Human Factors Training Manual (Doc 9683).
+Human Factors Digest No 8, Human Factors in Air Traffic Control (Circular 241).
+
+U.S. Federal Aviation Administration (FAA):
+
+FARs 121.406, 121.419, 121.421 or 121.422, CRM Training for pilots, cabin crew and aircraft dispatchers.
+Aeronautical Information Manual.
+Advisory Circular AC 60-22, Aeronautical Decision Making
+
+U.K. Civil Aviation Authority (CAA). Civil Aviation Publications:
+
+CAP 413, Radiotelephony Manual
+CAP 710, On the Level
+CAP 789, Requirements and Guidance Material for Operators
+
+ 
+
+(National) Aeronautical Information Publications (AIPs).
+French Direction de la Navigation Aerienne. Guide of Phraseology for Radiotelephony Procedures.
+Joint Aviation Authorities. Joint Aviation Requirements — Operations (JAR-OPS) 1.945, 1.955 or 1.965, CRM Training.
+International Air Transport Association (IATA). Report, English Language in Civil Aviation.
+Global Aviation Information Network (GAIN). Report of Working Group E (Flight Operations and ATC Operational Safety Information Sharing), Pilot-Controller Collaboration Initiatives: Enhancing Safety and Efficiency.
+Eurocontrol. Level Bust Tool Kit.
+
+ 
+ 
+Related SKYbrary Articles
+
+Air-Ground Communication
+
+and many other articles listed in the "Air-Ground Communication" category
+Further Reading
+
+EASA SIB No 2018-08: In-Flight Fuel Management — Phraseology for Fuel-Related Messages between Pilots and Air Traffic Control, May 2018
+
+
+
+
+
+Categories
+
+
+OGHFA,
+              Crew Actions and Behaviours,
+              Human Factors
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

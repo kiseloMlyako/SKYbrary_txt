@@ -1,0 +1,165 @@
+Flight Data Recorder (FDR)
+
+
+
+
+
+
+
+
+
+
+
+  Flight Data Recorder (FDR)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Flight Technical 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Flight Data Recorder (FDR) - device used to record specific aircraft performance parameters. The purpose of an FDR is to collect and record data from a variety of aircraft sensors onto a medium designed to survive an accident.
+An FDR has historically been one of two types of "flight recorder" carried on aircraft, the other being a cockpit voice recorder (CVR). Where both types of recorder are fitted, they are now sometimes combined into a single unit (ICAO Definition: Combination recorders). Combination recorders need to meet the flight recorder equipage requirements as specifically detailed in ICAO Annex 6 - Operation of Aircraft.
+ICAO Requirements
+According to the provisions in ICAO Annex 6 - Operation of Aircraft, Vol 1 and Vol. III, a Type I FDR shall shall record the parameters required to determine accurately the aeroplane flight path, speed, attitude, engine power, configuration and operation. Types II and IIA FDRs shall record the parameters required to determine accurately the aeroplane flight path, speed, attitude, engine power and configuration of lift and drag devices.
+The detailed list of parameters to be recorded by FDRs is provided in section 6.3 “Flight recorders” and at Attachement D to Annex 6, Vol. I. Furthermore, provisions in section 6.3 specify the aircraft equipage requirements depending on the maximum certificated take-off mass and the date of first issue of the individual certificate of airworthiness. For example, provision 6.3.6 of Annex 6, Vol. I states that, all aeroplanes of a maximum certificated take-off mass of over 5,700 kg for which the individual certificate of airworthiness is first issued after 1 January 2005 shall be equipped with a Type IA FDR.
+According to ICAO SARPS, combination recorders (FDR/CVR) can only be used to meet the flight recorder equipage requirements as specifically indicated in ICAO Annex 6 (Vol I and Vol III, Attachment D).
+Objective
+The recorder is installed in the most crash survivable part of the aircraft, usually the tail section. The data collected in the FDR system can help investigators determine whether an accident was caused by pilot error, by an external event (such as windshear), or by an airplane system problem. Furthermore, these data have contributed to airplane system design improvements and the ability to predict potential difficulties as airplanes age. An example of the latter is using FDR data to monitor the condition of a high-hours engine. Evaluating the data could be useful in making a decision to replace the engine before a failure occurs.
+
+Figure 1: Flight Data Recorder, Source: http://www.ntsb.gov
+History
+Flight data recorders were first introduced in the 1950s. Many first-generation FDRs used metal foil as the recording medium. This metal foil was housed in a crash- survivable box installed in the aft end of an airplane. Beginning in 1965, FDRs (commonly known as "black boxes") were required to be painted bright orange or bright yellow, making them easier to locate at a crash site.
+Second-generation FDRs were introduced in the 1970s as the requirement to record more data increased, but they were unable to process the larger amounts of incoming sensor data. The solution was development of the flight data acquisition unit (FDAU). A flight-data acquisition unit is a unit that receives various discrete, analog and digital parameters from a number of sensors and avionic systems and then routes them to a flight data recorder (FDR) and, if installed, to a Quick Access Recorder (QAR). Information from the FDAU to the FDR is sent via specific data frames, which depend on the aircraft manufacturer. Integration of FDAU functions into software required by other aircraft system components is now being seen, as in the case of the Enhanced Airborne Flight Recorder (EAFR) installed on the Boeing 787.
+The second-generation digital FDR (DFDR) uses tape similar to audio recording tape. The tape is 300 to 500 ft long and can record up to 25 hr of data. It is stored in a cassette device mounted in a crash-protected enclosure.
+FAA rule changes in the late 1980s required the first-generation FDRs to be replaced with digital recorders. Many of the older FDRs were replaced with second-generation magnetic tape recorders that can process incoming data without a Flight Data Acquisition Unit (FDAU). Most of these DFDRs can process up to 18 input parameters (signals). This requirement was based upon an airplane with four engines and a requirement to record 11 operational parameters for up to 25 hours.
+Most recent recorders utilise solid state technology. Solid state uses stacked arrays of memory chips, so they don't have moving parts. With no moving parts, there are fewer maintenance issues and a decreased chance of something breaking during a crash. Data from both the cockpit voice recorder (CVR) and FDR is stored on stacked memory boards inside the crash-survivable memory unit (CSMU).
+The most modern FDR systems incorporate an Emergency Locator Transmitter (ELT) and some up-to-date recorders are also equipped with an Underwater Locator Beacon (ULB) to assist in locating in the event of an overwater accident. A device called a "pinger" is automatically activate when the recorder is immersed in water. It transmits an acoustic signal on a frequency of 37.5 KHz that can be detected with a suitable receiver. In the case of the latest recorders, these transmissions are detectable at all but the most extreme oceanic depths but since they are battery-powered, their transmissions only continue for a limited period.
+Principles of Operation
+The FDR onboard the aircraft records many different operating conditions of the flight. By regulation, newly manufactured aircraft must monitor at least eighty-eight important parameters such as time, altitude, airspeed, heading, and aircraft attitude. In addition, some FDRs can record the status of more than 1,000 other in-flight characteristics that can aid in the investigation. The items monitored can be anything from flap position to auto-pilot mode or even smoke alarms. It is required by regulations that, on an annual basis, an FDR verification check (readout) is performed in order to verify that all mandatory parameters are recorded.
+
+Magnetic Tape - The introduction of the CVR in the late 1960s and DFDRs in the early 1970s made magnetic tape the recording medium of choice until the introduction of solid-state flight recorders in the late 1980s. There were a variety of tapes and tape transports used by the various recorder manufacturers. The most widely used tapes were mylar, kapton, and metallic. The tape transports were even more varied, using designs such as coplaner reel to reel, coaxial reel-to-reel, endless loop reel packs and endless loop random storage. Tape CVRs record four channels of audio for 30 minutes, and the DFDR records 25 hours of data. CVRs and FDRs record over the oldest data with the newest data in an endless loop-recording recording pattern.
+Digital Recording - Most DFDRs require a flight data acquisition unit (FDAU) to provide an interface between the various sensors and the DFDR. The FDAU converts analog signals from the sensors to digital signals that are then multiplexed into a serial data stream suitable for recording by the DFDR. Industry standards dictated the format of the data stream, which for the vast majority of tape-based DFDRs is 64 12-bit data words per second. The recording capacity of the tape DFDR is limited by the length of tape that can be crash-protected and the data frame format. The capacity of the tape DFDRs was adequate for the first generation of wide-body transports, but was quickly exceeded when aircraft like the Boeing 767 and Airbus A320 with digital avionics were introduced.
+Solid State Technology - The introduction of solid-state flight recorders in the late 1980s marked the most significant advance in evolution of flight recorder technology. The use of solid-state memory devices in flight recorders has expanded recording capacity, enhanced crash/fire survivability, and improved recorder reliability. It is now possible to have 2-hour audio CVRs and DFDRs that can record up to 256 12-bit data words per second, or 4 times the capacity of magnetic tape DFDRs.
+
+Current Survivability Standards
+TSO C123a (CVR) and C124a (DFDR)
+
+Fire (High Intensity) - 1100°C flame covering 100% of recorder for 30 minutes. (60 minutes if ED56 test protocol is used)
+Fire (Low Intensity) - 260°C Oven test for 10 hours
+Impact Shock - 3,400 Gs for 6.5 ms
+Static Crush - 5,000 pounds for 5 minutes on each axis
+Fluid Immersion - Immersion in aircraft fluids (fuel, oil etc.) for 24 hours
+Water Immersion - Immersion in sea water for 30 days
+Penetration Resistance - 500 lb. Dropped from 10 ft. with a ¼-inch-diameter contact point
+Hydrostatic Pressure - Pressure equivalent to depth of 20,000 ft.
+
+Related Articles
+
+Cockpit Voice Recorder (CVR)
+Flight Data Acquisition Unit (FDAU)
+Quick Access Recorder (QAR)
+
+Further Reading
+ICAO
+
+ICAO Annex 6, Operation of Aircraft, Vol I, Attachment D and Vol III
+
+NTSB
+
+Flight Data Recorder Handbook for Aviation Accident Investigations, NTSB, December 2002
+
+Others
+
+Aviation Recorder Overview
+Fade-Free Memory, Wayne Rosenkrans, Aerosafety World, Jan 2008
+Black box flight recorders, a fact sheet issued by the Australian Transport Safety Bureau (ATSB) in 2014
+
+
+
+
+
+Categories
+
+
+Flight Technical,
+              Accident Investigation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

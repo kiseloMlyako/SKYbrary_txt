@@ -1,0 +1,310 @@
+S76, en-route, southeast of Lagos Nigeria, 2016
+
+
+
+
+
+
+
+
+
+
+
+  S76, en-route, southeast of Lagos Nigeria, 2016
+
+
+
+
+
+
+
+
+
+Summary
+
+On 3 February 2016, a Sikorsky S76C on a flight from an offshore platform to Lagos was ditched when the crew believed that it was no longer possible to complete their intended flight to Lagos. After recovering the helicopter from the seabed, the Investigation concluded that the crew had failed to perform a routine standard procedure after takeoff - resetting the compass to ‘slave rather than ‘free’ mode - and had then failed to recognise that this was the cause of the flight path control issues which they were experiencing or disconnect the autopilot and fly the aircraft manually.
+
+
+
+
+Event Details
+
+When
+
+03/02/2016
+
+
+
+Event Type
+
+
+HF,
+              LOC
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+SIKORSKY S-76
+
+
+
+
+
+
+
+
+
+Operator
+
+Bristow Helicopters Nigeria
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Intended Destination
+
+
+
+
+Murtala Muhammed International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+No
+
+
+
+Phase of Flight
+
+Cruise
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+General
+
+Tag(s)
+
+
+              Helicopter Involved
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Inappropriate crew response - skills deficiency,
+              Inappropriate crew response (automatics),
+              Procedural non compliance
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Significant Systems or Systems Control Failure,
+              Degraded flight instrument display,
+              Uncommanded AP disconnect,
+              Flight Management Error
+          
+
+
+
+
+EPR
+
+Tag(s)
+
+
+              Emergency Evacuation,
+              MAYDAY declaration
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Indicating / Recording Systems
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Aircraft damage
+
+Major
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+Yes
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Airworthiness
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 3 February 2016, the crew of a Sikorsky S76C (5N-BQJ) being operated by Bristow Helicopters on a non-scheduled passenger flight from the Erha Offshore Platform to Lagos in day VMC at 3000 feet QNH with the AP engaged experienced difficulties in maintaining the required track and altitude. After declaring a MAYDAY, the Captain decided to carry out a controlled ditching which was achieved without injury to the 11 occupants, who evacuated prior to the helicopter inverting and were rescued by a nearby vessel.
+Investigation
+An Investigation was carried out by the Nigerian Accident Investigation Bureau (AIB). The helicopter was eventually recovered “fairly intact” but minus its access doors and overall in a “substantially damaged” condition after being submerged in salt water. It was transported to the AIB after earlier removal of its submerged Multi Purpose Flight Recorder (MPFR) and Flight Anomalous Event Recorder (FAERITO). The latter was noted as supporting “audio, video and flight data recording” but was not installed to meet any regulatory requirement. Voice data from the MFPR were successfully downloaded but when its flight data were downloaded, it was found that a partial malfunction had resulted in only four parameters being recorded - (Pressure Altitude, Indicated Airspeed, Master Caution activation and AP1 / AP2 status). The NVM from various units which were not subject to crash protection including the EGPWS, Air Data Display, Flight Control Computers, HUMS was also downloaded but as a result of prolonged immersion in salt water prior to recovery no useful data could be recovered.
+It was found that the 35 year-old Captain had a total of 3,174 hours flying experience of which 2,497 hours were on type. She was a Nigerian national who had obtained an FAA CPL(H) in 2008 and an FAA ATPL(H) in 2013 both of which were converted to the Nigerian equivalents in the year following initial issue. She had undergone type training with the aircraft operator in 2012 and completed her first Operator's Proficiency Check (OPC) 2 years and nine months prior to the accident. The duty period during which the accident flight occurred was her first after a month’s leave. The 31 year-old First Officer was also of Nigerian nationality and had a total of 1,088 hours flying experience of which 852 hours were on type. His initial CPL(H) had also been initially issued by the FAA and subsequently converted to the Nigerian equivalent. He had two years’ experience as a pilot employed by the aircraft operator.
+What Happened
+It was established that the first flight of the day for the accident helicopter and its flight crew had been the sector from Lagos to the helideck on the Erha Floating Production Offshore Storage Offloading (FPSO) platform which had been conducted in IMC and for which the Captain had been PF. The takeoff and climb for the 50 minute flight were normal but a few minutes into it, the Captain was recorded remarking to the First Officer about an “unusual vibration” and about fifteen minutes later, the crew subsequently stated that the Digital Auto Flight Control System (DAFCS) and TRIM FAIL lights had illuminated twice and been reset with an uncommanded disconnect of the number one AP on both occasions. The Captain’s first approach to the destination platform was discontinued and after a go around, the second was completed to touchdown. Once on the deck, the Captain was recorded as remarking to the First Officer “After a month [local slang word used in as an exclamation] I need an OPC” (Operator Proficiency Check). The Investigation found that her most recent OPC prior to the accident had been completed one month prior to her just-completed month on leave.
+After disembarking the 9 inbound passengers and embarking 9 new ones, the flight back to Lagos departed with a fuel endurance of 01:35 hours and the First Officer as PF. The climb to 3000 feet as a cruising level placed the aircraft in IMC. The Captain subsequently stated that fifteen minutes into the flight, there had again been “repeated illuminations” of ‘TRIM FAIL’ and ‘DAFCS’ (Digital Automatic Flight Control System) following which the applicable ‘Emergency Operating Procedure’ recommending flying the helicopter with hands and feet on the controls was adopted. Initial contact with Lagos APP was made soon afterwards at which point the First Officer “complained of the collective being heavy and auto-pilot decoupling (which) resulted in loss of power, a high rate of descent and decreasing altitude”. Recorded flight data confirmed that at this time, the helicopter had descended from 3000 feet to 1000 feet at 2100 fpm whilst forward speed reduced from 148 KCAS to 64 KCAS. The Captain also observed a slight turn to the right and on asking the First Officer to “check heading” received the response and that there was a problem with the compass.
+A few miles further on, the crew were recorded “complaining of a high rate of descent and instrument readings being inconsistent and inaccurate” and the Captain decided to declare a MAYDAY. By this time, the aircraft had been stabilised at 1,500 feet QNH on a northeast to easterly heading and the Captain then “briefed the passengers on the situation" and “her intention if need be for ditching”. The First Officer repeated his concern about the inaccuracy of the compass and “thereafter, the Captain declared the intention to ditch the aircraft”. She also subsequently advised having also noticed that the cyclic control was not responding as it should to lateral inputs.
+A few minutes after this, which was about half an hour after takeoff, a controlled ditching was successfully completed with the First Officer as PF. It was reported that the life raft on the left hand side did not fully deploy which resulted in most passengers and crew using the one on the right side from where they were soon rescued by a nearby vessel. After all passengers and crew had exited, this caused the helicopter to tilt and eventually overturn.
+The Airworthiness of the Helicopter
+The Investigation found no evidence of any loss of airworthiness which might have been relevant to what happened. However, there was also no evidence that the aircraft operator had carried out the requirement for an annual validation of the correct recording function of all flight recorders installed to meet regulatory requirements.
+Flight Crew Performance
+It was considered that the repeated ‘TRIM FAIL’ and ‘DAFCS’ system indications and repeated ‘DE-COUPLE’ failure annunciations which began to occur 15 minutes into the accident flight “should have been a source of concern to the crew” whereas they had responded merely by resetting the system as many times as the warning came on. These warnings were indications of AP and FD malfunctions arising in the (dual channel) DAFCS system which needs a synchronised heading input from the compass control system. It was noted that the subsequently reported heaviness of and lack of responsiveness from the collective and cyclic controls could also be attributed to FD malfunction. From this point on, there was a recognition by both pilots that there were also compass problems but their analysis of these was superficial and they continued with the flight.
+During the field examination of the Compass Control Panel, it was found that both the Captain’s and First Officer’s compass switches were selected to ‘FREE DG’ mode. The Normal Operations ‘After Takeoff’ Checklist includes selecting both compasses to ‘SLAVE’ mode after takeoff but when this was not done they remained in ‘FREE DG’ mode. Had the position of the compass control switch been returned to ‘SLAVE’ mode and the heading synchronised appropriately, this would have resolved the FD malfunction and the flight would have been able to continue normally.
+The Cause of the Accident was determined as “the crew switched the Compass to ‘FREE DG’ mode for Landing on the helideck at Erha FPSO and did not return it to the ‘SLAVE’ mode after takeoff which caused the trim fail to cut off consistently and which in turn then disengaged the autopilot as a result of the unsynchronised heading inputs”.
+Two Contributory Factors were also identified as follows:
+
+Non-adherence to Company Operations Manual (Part B checklist) as it relates to after take-off checks.
+The crew did not disengage the autopilot and fly the aircraft manually.
+
+Four Safety Recommendations were made as a result of the Investigation as follows:
+
+that Bristow Helicopters (Nigeria) should ensure that an annual flight recorder readout is carried out for every aircraft in their fleet in accordance with NCAA Order 001 2014 and ICAO Annex 6 Part III. [2019-020]
+that Bristow Helicopters (Nigeria) should ensure that the annual flight recorder readouts records obtained should be preserved with appropriate current data frame layout. [2019-021]
+that Bristow Helicopters (Nigeria) should ensure that Flight Crew follow approved checklist items and procedures at all times. [2019-022]
+that Bristow Helicopters (Nigeria) should consider reviewing their procedure for returning crew back to flight duties after staying out of flight duty for any period up to thirty days. [2019-023]
+
+The Final Report of the Investigation was published on 25 April 2019.
+Related Articles
+
+Ditching: Rotary Wing Aircraft
+Checklists - Purpose and Use
+Normal Checklists and Crew Coordination (OGHFA BN)
+Standard Operating Procedures (SOPs)

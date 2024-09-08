@@ -1,0 +1,189 @@
+TCAS RA Reversal
+
+
+
+
+
+
+
+
+
+
+
+  TCAS RA Reversal
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Separation 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+The International Civil Aviation Organisation (ICAO) defines all RAs as involving either “a manoeuvre intended to provide separation from all threats” or “a manoeuvre restriction intended to maintain existing separation.” ICAO further breaks down this term as either a corrective RA, which “advises the pilot to deviate from the current flight path” or a preventive RA, which “advises the pilot to avoid certain deviations from the current flight path but does not require any change in the current flight path.”
+Description
+Traffic-alert and collision avoidance system (TCAS II) logic, currently at Version 7.1, automatically identifies a risk of midair collision and issues alerts for affected pilots. The system is known in some world regions as the airborne collision avoidance system (ACAS). The risk identification is based upon in-flight analysis of the relative trajectories of two or more closing aircraft and second-by-second projection of their future relative positions. In Europe, installation of Version 7.1 software was mandated with effect on 1 December 2015.
+Based on secondary surveillance radar transponder signals, this mature technology enables — within defined distances — automatic exchange of position, time, velocity and other parameters between equipped aircraft.
+Most importantly, TCAS II provides an independent, last-resort safety net'' irrespective of air traffic control (ATC) separation standards or the pilots’ situational awareness, according to EUROCONTROL. The agency also notes, “While assessing threats, it does not take into account the ATC clearance, pilot’s intentions or autopilot inputs.”
+Despite TCAS II’s accuracy and reliability, accident and incident investigations reveal that pilots at times take actions contrary to the resolution advisory (RA), the system’s most urgent collision-avoidance alert. In this circumstance, the logic generates a TCAS RA reversal — e.g., a “Climb, climb NOW” RA seconds after a “Descend, descend” RA. TCAS RA reversals also occur because the pilot of a TCAS-unequipped aircraft changes the flight path from a climb to a descent (with unknown intentions) or while relying solely on visual traffic avoidance.
+The TCAS RA reversal also could be prompted, for example, by a pilot’s misguided decision to comply with an opposite ATC instruction during the RA. Overriding the TCAS II logic this way likely will increase the risk of collision. Therefore, pilots and controllers must understand these functions well and comply with the responses mandated by flight operations standards, according to EUROCONTROL.
+Hazards & Effects
+Upon identification of the collision risk, TCAS II detection algorithms trigger calculation of coordinated avoidance manoeuvres for the affected aircraft. The device in each aircraft initially alerts the pilot by a simultaneous and direct flight instrument display and by aural annunciation of the respective RA. (The system generates RAs within one second of the detected conflict because one second is the “situation refresh” interval of TCAS II.)
+Coordination of the RAs essentially means requiring the pilot of Aircraft A to climb while requiring the pilot of Aircraft B, also at risk, to descend — or TCAS II could require the pilot of either aircraft to maintain an altitude.
+EUROCONTROL frequently reminds the aviation community that safe separation depends on the pilot of each aircraft promptly and accurately following (i.e., complying with) the initial RA. Therefore, whenever TCAS II generates an RA, the flight crew must comply — even if complying is contrary to the instructions received from the controller.
+Contributory Factors
+The SKYbrary article "ATC Avoiding Instructions Opposite to TCAS RA" describes controversial history surrounding risk scenarios that require TCAS RA reversals. Notably, some controllers intervened improperly based on their awareness of a TCAS RA (i.e., from an RA downlink).
+Contributory factors in two influential accidents — the 2001 Yaizu accident and the 2002 Überlingen midair collision — and several serious incidents led to several technological and procedural improvements related to TCAS RA reversals, according to EUROCONTROL.
+The SKYbrary article "ATC Avoiding Instructions Opposite to TCAS RA" explains the ATC involvement this way: “When a loss of separation is likely to occur or has occurred, the controller will issue instruction(s) to one or both aircraft. These instructions may conflict with a TCAS RA, creating the potential for confusion and the possibility of an inappropriate response."
+“Such a conflict often arises because of the much more rapid update of relative position available to the flight crew via TCAS [as noted, an update every second] than to ATC with even the best radar-refresh rates [e.g, an update every 4.8 seconds). Controllers must also:
+
+potentially react to more than one conflict detection source (e.g., radar display and short term conflict alert (STCA);
+assess the situation;
+develop a solution in a very short period of time; and
+communicate this solution to the aircrew as quickly and clearly as possible."
+
+“Controller detection of a potential conflict may be delayed due to tasks with other aircraft under control and communications with conflicting aircraft may then also be delayed because of [radio frequency] congestion or misunderstandings between the controller and the pilots.”
+The SKYbrary article "RA Downlink" explains the potential effect of an TCAS RA reversal this way: “The information presented to the controller might be outdated at the moment it appears on the situational display (due to surveillance latency), which would make it outdated and therefore potentially unsafe. Even if the controller is only using the RA [downlink] “for information” regarding the direction [i.e., sense] of the level change, this information may be not up to date (e.g., due to an RA reversal) at the time it is presented to the controller. Even a delay of a few seconds could be significant.”
+Solutions
+Technologically, the improved reversal logic of TCAS Version 7.1 already has been a major step forward. This upgraded software monitors RA compliance in coordinated encounters (i.e., as noted, when both aircraft are TCAS II equipped).
+When the system detects that an aircraft is not responding correctly to an RA, TCAS II issues a reversal RA to the aircraft pilot, requiring manoeuvres in accordance with the RA. EUROCONTROL guidance explains: “In single-equipage encounters (i.e., when only one aircraft is TCAS II equipped), Version 7.1 will recognise the situation and will issue a reversal if the unequipped threat aircraft moves in the same vertical direction as the TCAS II–equipped aircraft. Although the reversal logic change is transparent to flight crews, it will, nevertheless, bring significant safety improvements.”
+Procedurally, TCAS RA reversals have long been an element of international technical standards and practices. These include ICAO standards and recommended practices (SARPs) and European Commission Implementing RuIes–Operations (IR-OPS) and European Commission EU OPS 1, which requires that,
+“An operator shall establish procedures to ensure that:
+... When undue proximity to another aeroplane (RA) is detected by [ACAS/TCAS II], the commander or the pilot to whom conduct of the flight has been delegated must ensure that any corrective action indicated by the RA is initiated immediately, unless doing so would jeopardize the safety of the aeroplane;
+The corrective action must:
+
+Never be in a sense opposite to that indicated by the RA; and,
+Be in the correct sense [e.g., climb or descend] indicated by the RA, even if this is in conflict with the vertical element of an ATC instruction.”
+
+Accidents & Incidents
+
+
+A319/A319, en-route, South west of Basle-Mulhouse France, 2010On 29 June 2010, an Easyjet Switzerland Airbus A319 inbound to Basle-Mulhouse and an Air France Airbus A319 outbound from Basle-Mulhouse lost separation after an error made by a trainee APP controller under OJTI supervision during procedural service. The outcome was made worse by the excessive rate of climb of the Air France aircraft approaching its cleared level and both an inappropriate response to an initial preventive TCAS RA and a change of track during the ensuing short sequence of RAs by the Training Captain in command of and flying the Easyjet aircraft attributed by him to his situational ‘anxiety’.
+
+A320 / B738, en-route, near Córdoba Spain, 2014On 30 October 2014, a descending Airbus A320 came close to a Boeing 737-800 at around FL 220 after the A320 crew significantly exceeded a previously-instructed 2,000 fpm maximum rate of descent assuming it no longer applied when not reiterated during re-clearance to a lower altitude. Their response to a TCAS RA requiring descent at not above 1,000 fpm was to further increase it from 3,200 fpm. Lack of notification delayed the start of an independent Investigation but it eventually found that although the A320 TCAS equipment had been serviceable, its crew denied failing to correctly follow their initial RA.
+
+A320/B738, vicinity Delhi India, 2013On 2 September 2013, a B737 crew were not instructed to go around from their approach by ATC as it became increasingly obvious that an A320 departing the same runway would not be airborne in time for a landing clearance to be issued. They initiated a go around over the threshold and then twice came into conflict with the A320 as both climbed on similar tracks without ATC de-confliction, initially below the height where TCAS RAs are functional. Investigation attributed the conflict to ATC but the failure to effectively deal with the consequences jointly to ATC and both aircraft crews.
+
+E55P, Blackbushe UK, 2015On 31 July 2015 a Saudi-operated Embraer Phenom on a private flight continued an unstabilised day visual approach to Blackbushe in benign weather conditions. The aircraft touched down with excess speed with almost 70% of the available landing distance behind the aircraft. It overran and was destroyed by impact damage and fire and all occupants died. The Investigation concluded that the combination of factors which created a very high workload for the pilot may have saturated his mental capacity, impeding his ability to handle new information and adapt his mental model leading to his continuation of a highly unstable approach.
+
+RJ1H/UNKN, vicinity Malmo Sweden, 2009On 13 October 2009, an Avro RJ100 being operated by Malmo Aviation on a scheduled passenger flight from Stockholm Bromma to Malmo in day VMC came into proximity with a unseen light aircraft crossing below which activated a TCAS RA which was followed. The flight crew were unaware that they were outside controlled airspace at the time. No abrupt manoeuvring occurred and none of the 85 occupants were injured.
+
+
+...further results
+
+
+Related Articles
+
+RA Downlink
+ATC Avoiding Instructions Opposite to TCAS RA
+ATC Avoiding Instructions Opposite to TCAS RA
+TCAS II 7.1 - Reversal RA (Nano)
+Misinterpretation of TCAS RA Aural Annunciation Messages
+
+Further Reading
+European Commission
+
+“Use of Airborne Collision Avoidance System,” IR-OPS CAT.OP.MPA.295 and EU-OPS 1.398.
+
+ICAO
+
+ICAO Doc 4444: PANS-ATM Chapter 15.
+ICAO Doc 8168: PANS-OPS Volume 1, Chapter 3.
+
+EUROCONTROL
+
+“Follow the RA!,” ACAS II Bulletin 1, EUROCONTROL, July 2002.
+EUROCONTROL Mode S & ACAS Programme.
+The Assessment of Pilot Compliance with TCAS RAs, TCAS Mode Selection and Serviceability Using ATC Radar Data, EUROCONTROL, 9 April 2021
+
+Other
+
+“Declaration of Independence: The NTSB expects its investigations of TCAS RAs to complement separate government-industry analyses of shared data.” by Wayne Rosenkrans, AeroSafety World, Flight Safety Foundation, May 2011
+“Appreciating Value: Updated guidance helps flight crews and air traffic controllers to maximize the safety benefits that TCAS offers.” by Wayne Rosenkrans, AeroSafety World, Flight Safety Foundation, October 2011
+“Separation Anxiety: Imminent approval of software upgrade promises safer TCAS II collision avoidance system logic.” by Wayne Rosenkrans, AeroSafety World, Flight Safety Foundation, April 2009
+
+
+
+
+
+Categories
+
+
+Loss of Separation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

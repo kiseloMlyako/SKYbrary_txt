@@ -1,0 +1,131 @@
+Pilot-Activated Lighting (PAL)
+
+
+
+
+
+
+
+
+
+
+
+  Pilot-Activated Lighting (PAL)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Flight Technical 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Pilot-Controlled Lighting (PCL), also known as Aircraft Radio Control of Aerodrome Lighting (ARCAL) or Pilot-Activated Lighting (PAL), is a system that allows aircraft pilots to control the lighting of an airport or airfield's approach lights, runway edge lights, and taxiways via radio.
+Function
+At some airfields, the airport/aerodrome beacon may also be PAL controlled. PAL is most common at non-towered airports or little-used airfields where it is neither economical to light the runways all night, nor to provide staff to turn the runway lighting on and off. It enables pilots to control the lighting only when required, saving electricity and reducing light pollution.
+The PAL frequency for most aerodromes is usually the same as the UNICOM/CTAF frequency, although in some rare cases, a second PAL frequency may be designated to control the lighting for a second runway separately. An example of the latter is runway 18/36 at the airport in Sydney, Nova Scotia. To activate the lights, the pilot clicks the radio transmit switch on the PAL frequency a certain number of times within a specified number of seconds. There are two types of PAL systems — type J and type K.
+Type J systems are activated by keying the microphone five times within five seconds, while type K is initially activated by clicking seven times within five seconds. Once activated, the intensity of type K systems may then be turned to low, medium, or high intensity settings by keying the microphone three, five, or seven times within five seconds, respectively. If runway identification lights are also controlled by type K PAL, they may be turned off by keying the microphone three times.
+When either type of system is activated, a 15-minute countdown starts, after which the lights turn off. While the lights are on, whenever a lighting command is issued, whether it changes the lighting intensity or not, the fifteen-minute countdown is reset. At some airfields, the lights may flash once to warn pilots that the lights are about to go off, before turning off two minutes later.
+When using PAL, it is strongly recommended that aircraft on final approach to the airfield issue a fresh lighting command, even if the lights are already on, especially if the lights were activated by another aircraft. This is so that the lighting does not turn off at a critical moment, such as when crossing the runway threshold. When in operation, the receiver awaits a squelch break on the tuned VHF frequency and begins counting "clicks" in a five-second period to determine pilot intent. The pilot commanded output is held by the controller for a predetermined time interval (Federal Aviation Administration standard is 15 minutes) that is generally adjustable. The five-second click count period begins upon receipt of the first squelch break and the control sequence will respond to the click counts from three, five, seven and stop. As an example, cycling the microphone button rapidly 15 times in five seconds will command "three, five, seven". Similarly, slowly clicking seven times may result in the five-second timing period expiring prior to getting to the seventh input click.
+USA specific regulations
+In the United States, pilot-controlled lighting is governed by Federal Communications Commission Rule 87.187y. This section also lists the radio frequencies that are allowed to control runway lights via pilot-controlled lighting.
+Related Articles
+
+Approach Lighting
+Aerodrome Lighting
+Runway Lighting
+Visual Approach Slope Indicator Systems (VASIS)
+Instrument Landing System (ILS)
+Lighting Control Systems
+Uncontrolled Aerodrome - Communications
+Uncontrolled Aerodrome - Procedures
+
+Further Reading
+
+ICAO Annex 14: Aerodromes
+
+
+
+
+
+Categories
+
+
+Flight Technical
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

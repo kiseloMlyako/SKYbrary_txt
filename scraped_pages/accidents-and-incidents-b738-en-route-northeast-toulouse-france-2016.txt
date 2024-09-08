@@ -1,0 +1,347 @@
+B738, en-route, northeast of Toulouse France, 2016
+
+
+
+
+
+
+
+
+
+
+
+  B738, en-route, northeast of Toulouse France, 2016
+
+
+
+
+
+
+
+
+
+Summary
+
+On 8 June 2016, a Boeing 737-800 en-route to Seville had already reverted to alternate automatic pressurisation control when this also failed. Manual system control was attempted but was unsuccessful so an emergency descent followed by diversion to Toulouse was then completed without further event. A similar pressurisation control fault had occurred earlier that day but had not been properly dealt with by an appropriately qualified engineer. Both system controllers were showing faults and were replaced as were a ruptured flexible hose and a series of malfunctioning drain valves. More reliable controllers and routine checking of system performance were recommended.
+
+
+
+
+Event Details
+
+When
+
+08/06/2016
+
+
+
+Event Type
+
+
+AW,
+              HF,
+              LOC
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+Not Recorded
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 737-800
+
+
+
+
+
+
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Prague/Václav Havel Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Sevilla/San Pablo Airport
+
+
+
+
+
+
+
+Actual Destination
+
+
+
+
+Toulouse-Blagnac Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Cruise
+
+
+
+
+
+
+
+
+Location
+
+Approx.
+
+NE of Toulouse
+
+
+
+
+
+
+
+
+
+
+General
+
+Tag(s)
+
+
+              En-route Diversion,
+              Inadequate Aircraft Operator Procedures,
+              CVR overwritten
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Procedural non compliance
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Significant Systems or Systems Control Failure
+          
+
+
+
+
+EPR
+
+Tag(s)
+
+
+              Emergency Descent
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Air Conditioning and Pressurisation
+          
+
+
+
+Contributor(s)
+
+
+              Inadequate Maintenance Inspection,
+              Component Fault in service,
+              Dispatch of Unserviceable Aircraft
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Airworthiness
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 8 June 2016, a Boeing 737-800 (EI-CSG) being operated by MIAT Mongolian Airlines for Travel Service under contract wet lease arrangements was being used to operate a scheduled international passenger flight from Prague to Seville as QS1160 as its fifth sector of the day. After an initial failure of automatic pressurisation control earlier in the flight, the alternate automatic system had initially worked normally but when this also failed in the cruise at FL350 and it was not possible to keep the cabin altitude below 10,000 feet and a Cabin Altitude Warning occurred. An emergency descent to FL100 was made and a diversion to Toulouse followed without further event.
+
+The flight track showing the location of the cabin altitude warning and the diversion flight track. [Reproduced from the Official Report]
+Investigation
+The Investigation was delegated to Mongolia by France and carried out by the Mongolian Air Accident Investigation Bureau (MAIB). The FDR was removed from the aircraft and data was successfully downloaded but it was discovered that relevant data on the CVR had been overwritten after instructions for the preservation of its data were not followed. Information was also obtained from recorded ATC data and from the NVM of both Digital Cabin Pressure Controllers (DCPCs).
+The 44 year-old Captain had a total of 9,288 hours flying experience including 4,773 hours on type of which 1,904 hours had been in command on type since promotion from First Officer in 2014. He had previously flown the An-2, the Mil-8 and the Saab 340. The 34 year-old First Officer had a total of 5,097 hours flying experience of which 3,403 hours had been on type since becoming type-qualified in 2012. Both pilots were Mongolian citizens.
+The aircraft was on long term wet lease to Prague-based airline Travel Service and its maintenance was in the hands of a team of five engineers seconded to the operating base some of whom would travel with the aircraft when required to support reliable operation. All were qualified to sign the on-lease aircraft Technical Log CRS but one had only an A class authorisation which limited him to signing for a Pre Flight Check. The other four had either or both categories of B licence (B1 mechanical / B2 avionics).
+What happened
+The most recent ‘A’ Check on the aircraft had been completed on 24 April and the commencement of the day’s flight operations had been preceded by a Daily Check. The aircraft then departed from Prague for Kos. In the cruise at FL350, it was reported that the automatic pressurisation control system had failed before the manual system had been used to complete the flight to Kos. A Cabin Altitude Warning was subsequently found to have occurred but was not recorded at the time. On arrival at Kos, a ‘please check’ defect entry was made in the aircraft Technical Log in respect of pressurisation controller failure but did not confirm that both system controllers had failed before manual control was used.
+An engineer travelling with the aircraft performed the corresponding task in the Fault Investigation Manual (FIM) for the number 2 controller but there was no mention of the same test having been carried out on the number 1 controller which was contrary to the FIM task requirement. An information entry was then made in the aircraft Technical Log by this travelling engineer stating “Performed FIM 21-31 Task 801. Shows FC014 controller #2. After BITE test system check is ok”. He did not hold the ‘B’ category approval to check the cabin pressurisation system.
+The aircraft flew back to Prague in service with no recurrence of the fault and no additional troubleshooting was carried out there before it flew a Prague-Dubrovnik rotation during which, again, no further pressurisation control system faults were recorded. The next flight from Prague to Seville was the one under investigation. Shortly after passing FL165 during the climb out of Prague, the in-use automatic pressurisation control system failed and the alternate control system automatically took over as intended. All the crew had to do was to select the ‘ALTN’ position on the system mode controller as specified in the applicable QRH NNC. Although this worked correctly for well over an hour, the automatic pressurisation control system failed again when in the cruise over southern France at FL350 which meant that the manual control system had to be used. However cabin pressure continued to reduce and when the cabin altitude reached 10,010 feet amsl and the cabin altitude warning was activated. The crew assumed that the cabin pressure was uncontrollable and in coordination with ATC initiated an emergency descent to restore an acceptable cabin altitude and diverted to Toulouse where the flight landed 14 minutes later.
+Why it happened
+After engineering checks at Toulouse, the aircraft was released to service under a related system MEL procedure in accordance with the Despatch Deviation Guide (DDG) and ferried back to Prague. During this flight, the in-use auto pressurisation controller failed but auto transfer to the alternate controller worked. On arrival, no defect entry in respect of the failure was made in the aircraft Technical Log but three fault codes were found registered for the No. 1 controller and it was replaced. A flexible hose which connects the High Pressure Water Separator mix muff with its condenser was also found to be ruptured and the hose was replaced. Two fault codes were found registered for the No.2 controller and it was replaced and a total of seven structure drain valves were found not to be closing properly and were also replaced. The aircraft was then released to service and flew without any recorded cabin pressurisation defects for a week before they began again. Problems with pressurisation control then recurred intermittently until 5 July when full checks on all pressurisation controller system wiring and connector pin sockets were performed and one socket was replaced due to being loose. The Investigation considered that this fault might have been a factor in the system failure on the investigated flight since it was not listed as needing to be checked in the related FIM Task carried out on arrival at Kos or again subsequently.  
+Cause
+The Investigation concluded that the aircraft had been dispatched on the flight under investigation without rectification following the dual auto channel failure which occurred during Prague-KGS flight on 08 June 2016 and when the failure was repeated, the crew were unable to regulate the cabin pressure manually.
+Five Contributory Factors were identified:
+
+The failure of two controllers of cabin pressurisation system.
+Poor reliability of the controllers of cabin pressurisation system.
+The flight crew did not report the cabin depressurisation where cabin altitude reached 10,028 feet and cabin altitude warning activated during PRG-KGS flight on 08 Jun 2016.
+Troubleshooting maintenance was not done completely after the cabin depressurisation occurred during PRG-KGS flight on 08 Jun 2016.
+Rupture of flexible hose connecting HPWS mix muff and HPWS condenser as well as 7 structure drain valves have not being closed. 
+
+Four Safety Recommendations were made as a result of the Findings of the Investigation whilst it was in progress and at its conclusion as follows:
+In 2016:
+
+that the Mongolian Civil Aviation Authority implement complete knowledge examination and flight tests according to MCAR-61 in relation to the requirements of appropriate maintenance personnel types and ratings. [2016-03-15]
+that the Mongolian Civil Aviation Authority improve the system for control of compliance with requirements for flight crew training and proficiency testing set forth in the chapters “I” and “K” of the MCAR- 121. [2016-03-09]
+
+At the end of the Investigation:
+
+that MIAT Mongolian Airlines replace the cabin pressurisation system controllers with higher reliability equipment in accordance with manufacturer recommendation and manuals. [2017-02-09]
+that MIAT Mongolian Airlines download and check the cabin pressurisation system controllers' memory at regular intervals. [2017-02-10]
+
+The Final Report of the Investigation was published online simultaneously in the definitive Mongolian language and in an English translation on 17 August 2018.
+Related Articles
+
+Loss of Cabin Pressurisation
+Cabin Altitude
+Continuing Airworthiness
+Aircraft Maintenance
+Aircraft Technical Log
+Certificate of Release to Service (CRS)

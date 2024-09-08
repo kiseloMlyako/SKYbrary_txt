@@ -1,0 +1,139 @@
+Aircraft Fire Detection Systems
+
+
+
+
+
+
+
+
+
+
+
+  Aircraft Fire Detection Systems
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Fire Smoke and Fumes 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ The Air Pilots
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Automatic systems for detecting aircraft fires.
+Discussion
+Automatic systems can detect aircraft fires or potential ignition sources that might not otherwise be apparent to the crew until the fire has spread too far to control. These systems are based upon both heat and smoke sensing.
+Heat sensing is used for cargo holds, engines/APUs, toilet waste bins, high-temperature bleed air leaks and landing gear bays. Smoke detection is used in toilet compartments, avionics bays, and cargo holds. Normally, Alerts or Cautions are activated locally for toilet smoke detectors (for cabin crew investigation), though in some types a toilet detector can trigger a FIRE warning on the flight deck. All other fire and smoke detector Alerts and Cautions are normally annunciated in the flight deck. In every case, it is important that crewmembers understand exactly what type of detection system is being used in which location in their aircraft and exactly what is being detected. Only with that understanding will they be able to know exactly what any warning system is telling them.
+Abnormal heat detection in an engine compartment will require manual remote activation of locally sited extinguishers, as will such detection in an APU compartment in flight. However, such detection in an operating APU on the ground triggers automatic shutdown and extinguisher discharge.
+Heat detection in a landing gear bay is likely to require cycling of the landing gear to facilitate airflow cooling of brake units. Any indication of fire in a landing gear bay needs to be taken very seriously. In the case of a fire it may be prudent for the landing gear to be selected down and remain down for the remainder of the flight. If, as a last resort, retraction is needed for performance considerations, it may be prudent to leave gear down for some time after a fire warning has extinguished before considering retraction. It is also worth considering what the potential consequences may be for retracting a potentially damaged gear. Heat or smoke detection in a cargo hold is likely to require manual remote activation of extinguishing systems.
+Flight crew response to avionics bay smoke detection has in the past been based initially on the isolation of defective equipment by a process of systematic deselection. Current practice is to land as soon as possible rather than get involved in potentially time-consuming identification of the source, when it may not be possible to satisfactorily control the hazard even if the source is successfully identified. Balancing the requirements of landing as soon as possible with the need to identify and isolate faulty equipment may well be affected by proximity to a suitable airfield. Long-haul aircraft fly over long stretches of remote terrain offering little in the way of emergency airfields. With an airfield close by, the balance will tilt towards managing a safe, swift approach and landing. If the aircraft is some time away from a suitable airfield the balance will inevitably move towards trying to identify and contain the problem to minimise consequences whilst en route to the nearest airfield.
+Larger jet and heavy turboprop transport aircraft often use engine bleed air for wing and empennage anti-icing in addition to air conditioning and pressurisation. This air must be maintained at high temperature and pressure during distribution, so any leak can cause a structural fire. If the leak is in an engine pylon close to the point of bleed extraction from the engine, it may not be possible to stop the leak by isolating the applicable engine air system, and engine shutdown may be necessary. For all other cases, the temperature of the leaking air will determine whether sensor activation triggers a warning or a caution and the corresponding flight crew response drill, which will be designed to isolate the leak. As always, the greater the knowledge and understanding that crew members have of their aircraft systems, the better their ability to make informed decisions. See separate article on Bleed Air Leaks.
+Reactivation of a heat-sensing fire detection system following the use of an extinguishing system indicates that the risk of fire remains high. In contrast, reactivation of smoke detection systems following the use of fire extinguishers may be caused by interference by the extinguishant with the optical smoke-sensing system. Some extinguisher procedures allow for the discharge of two bottles, the second being discharged later in the flight. Crews should recognise that with optical detection systems, the agent used in this second discharge can obscure the detector system and has the potential to triggering a further fire warning. Whether or not this is likely in cargo holds where both heat and smoke sensing are usually provided is often a matter of design, such as the relative disposition of extinguishant outlets and optical smoke sensors.
+Fumes. Unlike heat and smoke, detection of fumes is not automated, and there can be considerable variation in both their detection and their description by air and cabin crew. With a locked flight deck door, accurate communication from cabin crew to flight crew about detected fumes in the passenger cabin has become particularly important. Communication can be extremely difficult, particularly if crew members are using oxygen masks. Using the most appropriate communication method may require careful thought. With any potential combustion within the aircraft, fumes may be present within the air conditioning system. Crews should give serious consideration to the potential consequences of crew incapacitation by such fumes, and it may be prudent for one or both pilots to use an oxygen mask set to 100% oxygen. The origin of fumes may be local to the source, as in the case of faulty electrical equipment, the overheated contents of a galley oven, or a failed cabin florescent light fitting; or it may be spread away from the source through the air conditioning system. In the latter case, it can be extremely difficult to be sure of the cause, or whether the fumes could be in any way related to a fire hazard. When assessing fumes, aircrew must also decide if they may be hazardous to crew or passengers, regardless of source. A number of instances of fumes have been traced to raising the cabin temperature in service after cabin cleaning, especially if "deep cleaning" has been conducted at much lower cabin temperatures.
+Related Articles
+
+Fire in the Air
+In-Flight Fire: Guidance for Flight Crews
+Passenger Cabin Fire
+Aircraft Fire Extinguishing Systems
+
+Further Reading
+RAeS and Air Pilots The Royal Aeronautical Society and the Honorable Company of Air Pilots jointly revised and reissued valuable reference documents on this topic, which should be used as first references for flight crew on this topic:
+
+Smoke, fire and fumes in transport aircraft, past history, current risks and recommended mitigations - Part 1:References, Fifth Ed., 2018, Royal Aeronautical Society.
+Smoke, fire and fumes in transport aircraft, past history, current risks and recommended mitigations - Part 2:Training, Second Ed., 2018, Royal Aeronautical Society.
+
+SAFITA: Organisation Training review spreadsheet
+
+
+
+FAA Research Report
+
+Low False Alarm Cargo Compartment Fire Detector Prototype
+
+
+
+
+
+Categories
+
+
+Fire Smoke and Fumes,
+              Fire Protection
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,267 @@
+Parallel Runway Operation
+
+
+
+
+
+
+
+
+
+
+
+  Parallel Runway Operation
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Runway Incursion 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+Parallel Runways: Two or more runways at the same airport whose centerlines are parallel. In addition to runway number, parallel runways are designated as L (left) and R (right) or, if three parallel runways exist, L (left), C (center), and R (right).
+Source: FAA JO7110.65 Air Traffic Control
+Near Parallel Runways: Non-intersecting runways whose extended centre lines have an angle of convergence/divergence of 15 degrees or less.
+Source: ICAO Annex 14 Aerodromes
+Objective
+The main objective of implementing simultaneous operations on parallel or near-parallel runways is to increase runway capacity and aerodrome flexibility. The largest increase in overall capacity often includes the use of independent approaches to parallel or near-parallel runways.
+The safety of parallel runway operations in controlled airspace is affected by several factors such as the accuracy and use of the associated radar monitoring system, the effectiveness of the process of controller intervention when an aircraft deviates from the correct ILS localiser or RNAV course and the precision with which aircraft can and do fly the approach.
+Modes of Operation
+In ATC terms, the various modes of operation available for the use of parallel or near-parallel instrument runways are distinguished as:
+Simultaneous parallel approaches
+
+Mode 1, independent parallel approaches: simultaneous approaches to parallel instrument runways where radar separation minima are not prescribed between aircraft using adjacent ILS; and
+Mode 2, dependent parallel approaches: simultaneous approaches to parallel instrument runways where radar separation minima between aircraft using adjacent ILS are prescribed.
+
+Simultaneous parallel departures
+
+Mode 3, independent parallel departures: simultaneous departures for aircraft departing in the same direction from parallel runways.
+
+It should be noted that when the spacing between two parallel runways is lower than the specified value determined by wake turbulence considerations, the runways are considered as a single runway with regard to vortex wake separation.
+Segregated parallel approaches/departures
+
+Mode 4, segregated parallel operations: simultaneous operations on parallel runways where one runway is used for approaches and landings, and one runway is used for departures.
+
+In the case of segregated parallel approaches and departures there may be semi-mixed modes of operations.
+Semi-mixed parallel operations
+
+One runway is used exclusively for approaches while approaches are being made to the other runway, or departures are in progress on the other runway.
+One runway is used exclusively for departures while other is used for both departures and arrivals.
+
+Mixed mode parallel operations
+At least one runway is used for both take offs and landings.
+Factors Affecting Simultaneous Operations on Parallel Instrument Runways
+Factors which may have an impact on the maximum capacity or the desirability of operating parallel runways simultaneously are not limited to runway considerations. Taxiway layout and the position of passenger terminals with reference to the runways may make it necessary for traffic to cross active runways, a situation which may not only lead to delays but also to a decrease of the safety level due to the possibility of runway incursions by either arriving or departing aircraft.
+Factors to Consider When Determining the Mode of Operations
+Theoretical studies and practical examples indicate that maximum aerodrome capacities can be achieved by using parallel runways in a mixed mode of operation. In many cases, however, other factors such as the land-side/air-side infrastructure, the mix of aircraft types, and environmental considerations result in a lower achievable capacity.
+Other factors such as non-availability of landing aids on one of the parallel runways or restricted runway lengths may preclude the conducting of mixed operations at a particular aerodrome.
+Because of these constraints, maximum runway capacity may, in some cases, only be achieved by adopting a fully segregated mode of operation, i.e. one runway is used exclusively for landings while the other is used exclusively for departures.
+The advantages to be gained from segregated parallel operations as compared to mixed parallel operations are as follows:
+a) separate monitoring controllers are not required;
+b) no interaction between arriving and departing aircraft on the same runway and a possible reduction in the number of missed approaches;
+c) a less complex ATC environment overall for both radar approach controllers and aerodrome controllers; and
+d) a reduced possibility of pilot error following undetected selection of the wrong ILS.
+Operational Issues
+Parallel Runway Operation need to be carefully managed in such a manner as to minimise the risk of runway incursion or wrong runway use. Closely-spaced parallel runways may affect the pilots' situational awareness or lead to their distraction or confusion.
+A potential problem with close parallel runway spacing is the possibility that an aircraft may make an approach to the wrong runway. Two scenarios can be considered:
+
+The wrong ILS frequency is selected. Pilot SOPs for approach clearance acceptance and subsequent setting of the required navigation equipment should be robust and attract 100% compliance. The role of the PM (and if present the augmenting crew occupying supernumerary seats) in a multi crew flight deck in cross checking that correct actions are taken is crucial.
+The wrong runway is visually acquired. If a pilot cleared for an instrument approach acquires visual reference with the aerodrome when some distance from landing, it is possible in the absence of the right level of crew discipline and interaction for alignment with the wrong runway to follow.
+
+Safety-Related Issues Affecting Independent Approaches to Closely-Spaced Parallel Instrument Runways
+Independent operations on closely-spaced parallel runways are significantly safety critical and should be used only after a proper risk assessment has been undertaken. In this process, the issues listed below, which are contained in ICAO Doc 9643 Manual on Simultaneous Operations on Parallel or near parallel Instrument Runways (SOIR), should be considered:
+a) weather limitations — independent instrument approaches to parallel runways spaced by less than 1,525 m but not less than 1,035 m between centre lines should, as prescribed by the appropriate ATS authority, be suspended under certain adverse weather conditions including windshear, turbulence, downdrafts, crosswind and severe weather such as thunderstorms, which might increase ILS localiser deviations to the extent that safety may be impaired and/or an unacceptable number of deviation alerts would be generated;
+b) ILS flight technical error — the track of aircraft using the ILS localiser course is subject to errors from several sources, including the accuracy of the signal, the accuracy of the airborne equipment, and the ability of the pilot or autopilot to follow the navigational guidance (flight technical error (FTE)). Deviations from the ILS localiser course may vary with the runway under consideration; it is therefore essential that the FTE is measured at each installation and the procedures adapted to ensure that false deviation alerts are kept to a minimum;
+c) communications — when there is a large deviation from the final approach track, communication between controllers and pilots involved is critical. For independent parallel approaches two aerodrome controllers are required, one for each runway, with separate aerodrome control frequencies;
+d) obstacle evaluation — since aircraft may need to be turned away from the final approach track at any point during the approach, an obstacle survey and evaluation must be completed for the area opposite the other parallel runway; this is necessary in order to safeguard early turns made to avoid potential penetration of the adjacent final approach;
+e) pilot training — operators should ensure that flight crews conducting simultaneous independent approaches to parallel runways are familiar with the issues that arise. It should be noted that if an immediate missed approach is instructed by ATC, the required manoeuvres may differ from the promulgated standard missed approach;
+f) controller training — training is required for air traffic controllers prior to being assigned monitoring duties. This training should include instructions in the specific duties required of a monitoring radar controller.
+g) risk analysis — a risk analysis using available data should indicate that the probability of having a miss distance of less than 150 m (500 ft) between aircraft is expected to be less than 1 per 56,000,000 approaches. Wherever independent approaches to closely-spaced parallel runways are envisaged, a risk analysis must be completed for each location to ensure satisfactory levels of safety;
+h) airborne collision avoidance system (ACAS) — during operational evaluations of ACAS II, some unnecessary missed approaches occurred as a result of “nuisance” resolution advisories (RAs). To remedy this situation, a number of modifications were made to the collision avoidance logic. However, these modifications did not completely eliminate such occurrences. Accordingly, the use of “traffic advisory (TA) only” mode during parallel approach operations should be recommended and indicated on the published approach charts;
+i) transponder failure — If an aircraft without an operating transponder arrives at an aerodrome, ATC will have to create a gap in the arrival flow so that the aircraft will not require monitoring. If an aircraft transponder fails during an instrument approach, the monitoring radar controller will instruct any adjacent aircraft to cancel their approach;
+j) fast/slow aircraft — if a fast aircraft deviates towards a slower aircraft on the adjacent approach, the slower aircraft may not be able to move away quickly enough to assure safe spacing. ATC must create a gap in the arrival flow to safeguard the approaches of slower aircraft;
+k) approach chart notation — the charts showing instrument approach procedures to runways used for simultaneous parallel instrument operations should indicate such operations, particularly using the term “closely-spaced parallel runways”. The terminology should be reflected in the title of the approach chart including the runway identification;
+l) unnecessary cancelled approaches — an unnecessary cancelled approach is a situation in which the monitoring radar controller initiates a cancelling approach and the deviating aircraft subsequently remains in the normal operating zone (NOZ). The number of alerts, both true and false, should be monitored as a method of assessing the performance of the system. It may be necessary to amend the parameters of the alerting mechanism if too many false alerts are experienced; and
+m) autopilots — older models of autopilots mean a higher FTE. Modern autopilots are much more accurate and their FTE is less.
+Safety-Related Issues Affecting Dependent Approaches to Closely-Spaced Parallel Instrument Runways
+The minimum spacing between two aircraft in the event of a deviation is calculated using techniques similar to those used for independent parallel approaches.
+Two factors apply:
+
+since the radar separation is applied diagonally, less distance between runways means a greater in-trail distance between the aircraft; and
+less distance between runways also means that the deviating aircraft crosses the adjacent approach track more quickly.
+
+Near-Parallel Runways
+No special procedures have been developed as yet for simultaneous operations to near-parallel runways. Each situation is considered on a case-by-case basis and is dependent on a number of variable conditions.
+New Concepts and Procedures
+In order to maximise the capacity there are some concepts such as High Approach Landing System (HALS) that were developed and deployed (for a given period of time only) to allow aircraft to land simultaneously on closely spaced parallel runways at Frankfurt Airport. The concept involved adopting a second, strongly displaced landing threshold for the southern runway to mitigate against wake turbulence by flying above the vortices of the leading aircraft.
+Some airports operating parallel runways
+
+
+Abilene Regional Airport
+Abu Dhabi International Airport
+Amsterdam Airport Schiphol
+Ashgabat
+Atlanta/Hartsfield-Jackson International
+Auckland Airport
+Austin-Bergstrom International Airport
+Bangkok/Suvarnabhumi International Airport
+Barcelona/El Prat Airport
+Billings Logan International Airport
+Boise Airport
+Brownsville/South Padre Island International Airport
+Calgary International Airport
+Capital Region International Airport
+Cavern City Air Terminal
+Charlotte Douglas International Airport
+Chicago O'Hare International Airport
+Cincinnati Municipal Airport
+Clinton National Airport
+Colorado Springs Airport
+Columbus Air Force Base
+Copenhagen Airport, Kastrup
+Da Nang International Airport
+Dallas Love Field
+Dallas-Fort Worth International Airport
+Dayton International Airport
+Daytona Beach International Airport
+DeKalb-Peachtree
+Delhi/Indira Gandhi International (IGI) Airport
+Dubai International Airport
+
+
+
+ 
+The following map shows the aerodromes operating parallel runways across the world which are listed on SKYbrary:
+
+
+
+
+
+
+Further Reading
+ICAO
+
+ICAO Annex 14 Aerodromes
+ICAO Doc 4444 PANS-ATM
+ICAO Doc 8168 PANS-OPS
+ICAO Doc 9643 Manual on Simultaneous Operations on Parallel or near parallel Instrument Runways (SOIR)
+ICAO Doc 9870 App B - Best Practices on the Flight Deck
+ICAO Doc 9870 App C - Air Traffic Control Best Practices
+
+EUROCONTROL
+
+European Action Plan for the Prevention of Runway Incursions App D - Flight Crew Best Practices
+European Action Plan for the Prevention of Runway Incursions App E - Air Traffic Controller Best Practices
+TCAS II RAs during parallel approaches due to tau–cap mechanism
+
+Other
+
+Airbus Flight Operating Briefing Notes Runway and Surface Operations Preventing Runway Incursions
+Overview of active wake vortex concepts in Europe, Dr. Debbie Mitchell August 2009
+Collision risk related to the usage of parallel runway for landing L.J.P. Speijker, M.J.H Couwenberg and H.W Kleingeld
+TCAS RA events during independent parallel approaches at LEMD
+
+
+
+
+
+Categories
+
+
+Runway Incursion,
+              Airport Design and Infrastructure,
+              Loss of Separation
+
+
+
+
+
+
+
+
+
+Related Articles
+
+Runway Incursion
+Wrong Runway Use
+Runway Designators
+Simultaneous Approaches to Parallel Runways
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

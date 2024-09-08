@@ -1,0 +1,318 @@
+Airborne Collision Avoidance System (ACAS)
+
+
+
+
+
+
+
+
+
+
+
+  Airborne Collision Avoidance System (ACAS)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Nets 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Traffic Collision Avoidance System (TCAS)
+or
+Traffic Alert and Collision Avoidance System (TCAS)
+Definition
+An aircraft system based on secondary sumeillance radar (SSR) transponder signals which operates independently of ground-based equipment to provide advice to the pilot on potential conflicting aircraft that are equipped with SSR transponders.
+Source: ICAO Annex 10, vol. IV
+Description
+The Airborne Collision Avoidance System II (ACAS II) was introduced in order to reduce the risk of mid-air collisions or near mid-air collisions between aircraft. It serves as a last-resort safety net irrespective of any separation standards.
+ACAS II is an aircraft system based on Secondary Surveillance Radar (SSR) transponder signals. ACAS II interrogates the Mode C and Mode S transponders of nearby aircraft (‘intruders’) and from the replies tracks their altitude and range and issues alerts to the pilots, as appropriate. ACAS II will not detect non-transponder-equipped aircraft and will not issue any resolution advice for traffic without altitude reporting transponder.
+ACAS II works independently of the aircraft navigation, flight management systems, and Air Traffic Control (ATC) ground systems. While assessing threats it does not take into account the ATC clearance, pilot’s intentions or Flight Management System inputs. ACAS II is not connected to the autopilot, except the Airbus AP/FD (Auto pilot/flight director) TCAS capability (which provides automated responses to RAs).
+Currently, the only commercially available implementations of ICAO standard for ACAS II (Airborne Collision Avoidance System) is TCAS II version 7.1 (Traffic alert and Collision Avoidance System). ICAO Annex 10 vol. IV states that all ACAS II units must be complaint with version 7.1 as of 1 January 2017. In Europe version 7.1 has been mandatory since 1 December 2015. However, in some countries (notably in the United States, where ACAS mandates are different) there is a large population of aircraft still operating versions 6.04a and 7.0.
+Information Provided by ACAS
+Two types of alert can be issued by ACAS II - TA (Traffic Advisory) and RA (Resolution Advisory). The former is intended to assist the pilot in the visual acquisition of the conflicting aircraft and prepare the pilot for a potential RA.
+If a risk of collision is established by ACAS II, an RA will be generated. Broadly speaking, RAs tell the pilot the range of vertical speed at which the aircraft should be flown to avoid the threat aircraft. The visual indication of these rates is shown on the flight instruments. It is accompanied by an audible message indicating the intention of the RA. A "Clear of Conflict" message will be generated when the aircraft diverge horizontally.
+
+Example of ACAS II traffic display, indicating a Climb" RA with a target vertical speed of 1500 ft/min.
+Once an RA has been issued, the vertical sense (direction) of the RA is coordinated with other ACAS II equipped aircraft via a mode S link, so that two aircraft choose complementary manoeuvres. RAs aim for collision avoidance by establishing a safe vertical separation (300 - 700 feet), rather than restoring a prescribed ATC separation.
+ACAS II operates on relatively short time scales. The maximum generation time for a TA is 48 seconds before the Closest Point of Approach (CPA). For an RA the time is 35 seconds. The time scales are shorter at lower altitudes (where aircraft typically fly slower). Unexpected or rapid aircraft manoeuvre may cause an RA to be generated with much less lead time. It is possible that an RA will not be preceded by a TA if a threat is imminent. The effectiveness of an RA is evaluated by the ACAS equipment every second and, if necessary, the RA may be strengthened, weakened, reversed, or terminated.
+A protected volume of airspace surrounds each ACAS II equipped aircraft. The size of the protected volume depends on the altitude, speed, and heading of the aircraft involved in the encounter. See illustration below.
+
+A protected volume of airspace surrounds each ACAS II equipped aircraft
+RAs can be generated before ATC separation minima are violated and even when ATC separation minima will not be violated. In Europe, for about two thirds of all RAs, the ATC separation minima are not significantly violated.
+Types of RA (TCAS II version 7.1)
+
+Types of ACAS RA ver 7.1
+Complying with RAs
+Pilots are required to comply immediately with all RAs, even if the RAs are contrary to ATC clearances or instructions.
+If a pilot receives an RA, he/she is obliged to follow it, unless doing so would endanger the aircraft. Complying with the RA, however, will in many instances cause an aircraft to deviate from its ATC clearance. In this case, the controller is no longer responsible for separation of the aircraft involved in the RA.
+On the other hand, ATC can potentially attempt to interfere with the pilot’s response to RAs. If a conflicting ATC instruction coincides with an RA, the pilot may assume that ATC is fully aware of the situation and is providing the better resolution. But in reality ATC is not aware of the RA until the RA is reported by the pilot. Once the RA is reported by the pilot, ATC is required not to attempt to modify the flight path of the aircraft involved in the encounter.
+Practical advice on how to achieve the acceleration required by the RA is provided in EASA’s Guidance Material: “An acceleration of approximately 1/2 g will be achieved if the change in pitch attitude corresponding to a change in vertical speed of 1 500 ft/min is accomplished in approximately 5 seconds, and of 1/3 g if the change is accomplished in approximately three seconds. The change in pitch attitude required to establish a rate of climb or descent of 1 500 ft/min from level flight will be approximately 6° when the true airspeed (TAS) is 150 kt, 4° at 250 kt, and 2° at 500 kt. (These angles are derived from the formula: 1 000 divided by TAS.)”.
+Some States have implemented “RA downlink” which provides air traffic controllers with information about RAs posted in the cockpit obtained via Mode S radars. Currently, there are no ICAO provisions concerning the use of RA downlink by air traffic controllers.
+International Standard
+The International Civil Aviation Organization (ICAO) is responsible for the global standardisation of ACAS based on the Minimum Operational Performance Standards (MOPS) prepared by RTCA and EUROCAE.
+ACAS equipment is available from four vendors (ACSS, Garmin, Honeywell, Rockwell Collins). While each vendor’s implementation is slightly different, they provide the same core functions and the collision avoidance and coordination logic contained in each implementation is the same. In order to be certified, ACAS equipment must meet the Minimum Operational Performance Standards (MOPS) laid down in RTCA and EUROCAE documents.
+TCAS II version 7.1 Minimum Operational Performance Standards (MOPS) have been published by RTCA as DO-185B and by EUROCAE as ED-143.
+Types of ACAS
+Currently, ICAO Annex 10 vol. IV defines the following types of ACAS:
+
+ACAS I Gives Traffic Advisories (TAs) but does not recommend any manoeuvres. The only implementation of the ACAS I concept is TCAS I. ICAO Standards and Recommended Practices (SARPs) for ACAS I are published in ICAO Annex 10, volume IV but are limited to interoperability and interference issues with ACAS II. ACAS I is mandated in the United States for certain smaller aircraft.
+ACAS II Gives Traffic Advisories (TAs) and Resolution Advisories (RAs) in the vertical sense (direction). ACAS II SARPs are published in ICAO Annex 10 vol. IV. The only implementations of the ACAS II concept are TCAS II versions 7.0 and 7.1. Annex 10 further states that all aircraft shall carry version 7.1 as of 1 January 2017.
+ACAS III Gives TAs and RAs in vertical and/or horizontal directions. Also referred to as TCAS III and TCAS IV. So far, ACAS III has not materialised due to limitations the conventional surveillance systems have with horizontal tracking and, consequently, issuing horizontal avoidance manoeuvres. ACAS III has been mentioned as a future system in the current edition of ICAO Annex 10 but there have been no ICAO standards for ACAS III. A new collision avoidance system for Remotely Piloted Aircraft Systems (RPAS) or drones – ACAS Xu – incorporates horizontal manoeuvres by utilizing modern surveillance methods, such as ADS-B. Consequently, ICAO is now undertaking the development of ACAS III SARPs.
+
+Equipage Requirements
+Amendment 85 to ICAO Annex 10 volume IV, published in October 2010, introduced a provision stating that:
+
+all new ACAS installations after 1 January 2014 shall be compliant with version 7.1; and
+all ACAS units shall be compliant with version 7.1 after 1 January 2017.
+
+On 20 December 2011, the European Commission published an Implementing Rule, subsequently amended on 16 April 2016, mandating the carriage of ACAS II version 7.1 within European Union airspace earlier than the dates stipulated in ICAO Annex 10:
+
+by all turbine-powered aeroplanes with a maximum certified take-off mass exceeding 5,700 kg or authorised to carry more 19 passengers from 1 March 2012;
+with the exception of aircraft with an individual certificate of airworthiness issued before 1 March 2012, that must be equipped from 1 December 2015;
+aircraft not referred above but which will be equipped on a voluntary basis with ACAS II, must be equipped with version 7.1.
+
+In some parts of the world, notably in the United States, the ACAS equipage mandate is different.
+Safety Benefits
+The safety benefits delivered by ACAS are usually expressed in terms of the risk ratio (does ACAS make safety better or worse?). For Europe, the EUROCONTROL ACASA Project computed, for both the CVSM and the RVSM environments the full system ratio of 21.7% and 21.5% respectively. (ACAS Safety Study: Safety Benefit of ACAS II Phase 1 and Phase 2 in the New European Airspace Environment, ACAS/02-022, May 2002)
+The most important single factor affecting the performance of TCAS II is the response of pilots to RAs. At any time, regardless of the level of ACAS equipage by other aircraft, the risk of collision for a specific aircraft can be reduced by a factor greater than three by fitting TCAS II. (EUROCONTROL ACASA Project, Final Report on Studies on the Safety of ACAS II in Europe, WP-1.8/210D, March 2002)
+Related Articles
+
+Loss of Separation
+Level Bust
+TCAS II version 7.1
+ACAS Bulletin - EUROCONTROL
+ACAS Regulation and Procedures
+ACAS Resolution and Traffic Advisories
+ACAS: Guidance for Controllers
+ACAS Training
+ACAS X
+RA Downlink
+Regulation 1332/2011 for laying down common airspace usage requirements and operating procedures for airborne collision avoidance subsequently amended by Regulation 2016/583
+Assessment of Pilot Compliance with TCAS RA Using Radar Data
+
+Related Media
+
+TCAS Awareness Videos
+
+SKYclips
+
+
+
+
+
+
+
+
+
+
+
+ Read more
+
+
+
+
+TCAS RA Not Followed (SKYclip)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Read more
+
+
+
+
+TCAS - Always follow the RA (SKYclip)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Read more
+
+
+
+
+TCAS RA High Vertical Rate (SKYclip)
+
+
+
+
+
+
+
+
+
+
+Further Reading
+EUROCONTROL
+
+EUROCONTROL ACAS Guide, March 2022
+ACAS Bulletins
+Overview of ACAS II - (incorporating version 7.1), Version 3.2 – 24 July 2014
+TCAS version 7.1 for pilots, 24 July 2014
+TCAS version 7.1 for controllers, 24 July 2014
+The Assessment of Pilot Compliance with TCAS RAs, TCAS Mode Selection and Serviceability Using ATC Radar Data, EUROCONTROL, 2nd ed., 9 April 2021.
+Traffic Alert and Collision Avoidance System (TCAS) - Selected Statistical and Performance Data in Core European Space, EUROCONTROL, 9 April 2021.
+
+HindSight Articles:
+
+
+
+HindSight 1: Level Bust - Advice for the ATCO
+HindSight 2: Analysis of an AIRPROX in Japan
+HindSight 4: Loss of Separation - A Lesson for the Instructor
+HindSight 5: TCAS and STCA - not just anagrams
+HindSight 6: Changes to ICAO rules regarding TCAS RAs
+HindSight 6: Airbus AP/FD TCAS Mode: A New Step Towards Safety Improvement
+HindSight 10: TCAS II and Level Bust
+HindSight 11: Airbus altitude capture enhancement to prevent TCAS RAs
+HindSight 12: TCAP: an altitude capture enhancement to prevent TCAS RAs
+HindSight 14: STCA training - yes, we can!
+HindSight 15: TCAS II version 7.1 has arrived
+HindSight 16: Unnecessary TCAS RAs caused by high vertical rates before level off
+HindSight 20: To follow or not follow...is that really a question?
+HindSight 23: What you see on a TCAS Traffic Display is not always what you will get
+HindSight 31: Assessment of pilot compliance with TCAS RA
+
+
+
+Federal Aviation Administration (FAA)
+
+Introduction to TCAS II Version 7.1, 28 February 2011
+
+Airbus Industrie
+
+Follow the RA
+
+IATA
+
+Guidance Material: Performance assessment of pilot compliance with Traffic Alert and Collision Avoidance System (TCAS) advisories using Flight Data Monitoring (FDM), IATA and EUROCONTROL, 3rd Edition, January 2022 (note: downlink from IATA website, file size 99 MB)
+
+Bureau d’Enquêtes et d’Analyses (BEA)
+
+Incidents in Air Transport No 3
+
+ICAO
+
+ICAO Annex 10 Volume IV Chapter 4 and Attachment A ;
+ICAO Doc 4444: Procedures for Air Navigation Services (PANS-ATM) Chapter 15, Section 15.7.3
+ICAO Doc 8168: Procedures for Air Navigation Services (PANS-OPS) Chapter 3, Section 3.1
+
+European Regulatory Documentation:
+
+IR-OPS CAT.IDE.A.155 - Airborne collision avoidance system (ACAS)
+IR-OPS CAT.OP.MPA.295 - Use of airborne collision avoidance system (ACAS)
+Acceptable Means of Compliance and Guidance Material CAT.OP.MPA.295
+IR-OPS ORO.GEN.160 - Occurrence Reporting
+EASA Safety Information Bulletin SIB No.: 2013-11, ACAS II – Manoeuvres based on Visual Acquisition of Traffic, 19 July 2013
+EU-OPS 1.668: requirement for aircraft to be equipped with ACAS
+EU-OPS 1.398: use of TCAS
+EU-OPS 1.420: requirement to report TCAS RAs
+
+
+
+
+
+Categories
+
+
+Safety Nets,
+              Loss of Separation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

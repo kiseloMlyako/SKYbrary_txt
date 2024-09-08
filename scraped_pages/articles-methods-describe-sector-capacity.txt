@@ -1,0 +1,182 @@
+Methods to Describe Sector Capacity
+
+
+
+
+
+
+
+
+
+
+
+  Methods to Describe Sector Capacity
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Separation 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Sector capacity is a metric that shows how much traffic can be safety handled by an ATC unit (or sector thereof).
+Note: This article does not explain aerodrome and runway capacities although one of the methods described can be used for this purpose as well.
+There are three main methods to describe a sector's capacity:
+
+Entry counts.
+Frequency occupancy.
+Controller workload.
+
+Regardless of the method in use, the main principles of capacity management are:
+
+If the traffic forecast exceeds the capacity, then either another sector should be open or traffic restrictions need to be applied.
+If the traffic forecast shows that much more traffic can be handled, then excessive sectors need to be closed and restrictions need to be eased.
+
+Improper capacity determination can lead to two different scenarios:
+
+Overload, i.e. the traffic cannot be safely accomodated
+Underload, which leads to inefficiencies, e.g. operating excessive sectors (that require more personnel) or imposing various restrictions on the traffic (causing delays)
+
+Therefore, both extremes are considered undesirable and care shoud be taken to minimize their occurrence. Naturally, with safety being the number one priority in aviation, the focus is usually shifted towards avoiding overload.
+Entry Counts
+Capacity is expressed in maximum aircraft that are handled per time unit, usually one hour (e.g. 40 aircraft per hour). This value takes into account various factors such as sector size and shape, applicable procedures, expected traffic flows, nearby aerodromes, seasonal variations, etc. Therefore, different sectors would normally have different capacities and a particular sector may be assigned different values (e.g. a winter and a summer one). For example, reducing the size of a sector would also reduce its capacity. However, the combined capacity of two smaller sectors will be greater than the capacity of a bigger sector of the same size (e.g. a "big" sector may have a capacity of 40 aircraft per hour while if it is split into two, each of the smaller ones will have 30 for a total of 60).
+The main advantages of this method are that it is
+
+universal - can be used for ATC sectors, runways, etc.
+simple - only requires the entry time of each aircraft (hence the name of the method)
+easy to implement - even older systems can quickly calculate a relatively accurate medium term (e.g. 12 hour) forecast based solely on the flight plans
+
+
+An example of the method
+A major drawback is that the method does not appreciate traffic distribution. For example, if the sector capacity is 40 aircraft per hour and the actual entry count is 31 for the first hour and 30 for the second one, at first glance it would seem that the sector can safely accomodate 30% more aircraft. However, if the traffic is concentrated at the centre of the period, that there would a peak of very high worload (overload) surrounded by two prolonged periods of incativity that (see the diagram below).
+
+This effect can be addressed by having overlapping counts, e.g. one at 10:00 (up to 11:00), a second one at 10:30 (until 11:30), a third at 11:00 (until 12:00) and so on. While this approach will detect the problem in the diagram above, the inherent weakness of the method is only mitigated (not eliminated) and there would be other situations where temporary overloads would remain undetected. Adding calculations at shorter intervals would further alleviate the issue but this would be achieved by sacrificing the simplicity of the method. Additionally, more precise forecast will be needed to correctly calculate the entry times.
+
+Another factor that is not considered is the traffic pattern. All aircraft contribute equally to the calculation regardless of their time spent in the sector (1 or 20 minutes) or their vertical profile (i.e. an aircraft descending from FL 410 to FL 150 is considered as equal to another that is maintaining FL 360) or the attention they will require from the controller (e.g. due to conflicts with another aircraft).
+In order to overcome these weaknesses, capacities are calculated in such a way as to include a buffer. For example, if it is considered that 45 aircraft can be safely handled per hour if the traffic flow is smooth and in level flight, this value can be reduced to 38 to accomodate for traffic waves or 30 if a seasonal airport is expected to generate a lot of departures and arrivals (all numebers are for illustrative purposes only).
+Frequency Occupancy
+Capacity is expressed in maximum number of aircraft on the frequency (e.g. 20 aircraft at the same time). An aircraft is considered to be on the frequency from the estimated time at the sector entry point until it reaches the sector exit point. If the number of aircraft exceeds a pre-defined threshold, a change of sector configuration or traffic restrictions will be necessary. As with the previous method, the threshold accounts for various factors and may vary depending on the sector (or other circumstances).
+
+An example of the method
+This method requires a more complex calculation as it needs a forecast for each flight's time in the sector which needs to account for the aircraf speed (i.e. type) and route in addition to the entry time.
+The advantage of the method is that it provides a much better idea about the timing of peak traffic loads which effectively eliminates one of the major drawbacks of the entry counts method. However, each aircraft is still treated in the same way regardless of its actual impact on the workload. It should be noted that high traffic does not necessarily mean heavier workload. For example, a situation with many aircraft flying at cruising levels could be handled with ease while another one with just a few can be much more demanding (see picture below).
+
+While there are only four aircraft in the picture on the left, each of them needs to pass through a lot of levels and is potentially conflicting with all the others. The task is much more demanding compared to the situation on the right despite involving half the number of aircraft
+As is the entry counts case, this effect is mitigated by incorporating a buffer. For example, the threshold can be set to 20 aircraft if transit overflies are expected and lowered to 14 if a lot of departures and arrivals are expected (all numbers are for indicative purposed only).
+Another issue with the method is that due to the high frequency of traffic update (usually 1 minute as opposed to 20-30-60 minutes in the entry counts case), it is possible to have very short periods (e.g. 5 minutes or less) when the traffic exceeds the threshold. It is obvoiusly impractical to add a sector for such a short time as the added workload of opening and closing it would be higher than the workload caused by the additional aircraft. To alleviate this issue, a second (higher) threshold can be added with more sophisticated rules, e.g.:
+
+If the traffic exceeds the lower threshold more than X times during a Y-minute period, then the situation is considered as an oveload. If this happens X times or less, then the traffic can be safely handled.
+If the higher threshold is exceeded, then the situation is considered as an oveload.
+
+
+An example of the method with two thresholds
+While this does not eliminate the issue with short traffic peaks, experience has shown that even a one-minute penetration of the higher threshold would likely be combined with a prolonged period where the lower one is exceeded too.
+Controller Workload
+This method is based on an assessment of how much time the controller needs to perform all necessary tasks. The threshold is normally set at 40-45 minutes. The spare time (15-20 minutes) is used as a buffer against abnormal situations and forecast inconsistencies. Unlike the other two methods, this one is tied to the controller and will therefore be constant for all sectors. This does not mean that all sectors can handle the same amount of traffic. Rather, the forecast calculation is made in a way that automatically adjusts to the airspace and trafffic specifics. For example, a shorther sector would require more frequent communication (shorter interval between the initial and final call). Also, having the same number of aircraft in a smaller volume would likely generate more conflict situations which will require more time to be dealt with.
+The tool collects data from various sources and creates a fast time simulation to discover specific events (e.g. conflicts, flights passing through restricted areas or weather phenomena, departing and arriving aircraft, etc.). These events are then processed through a special "virtual ATCO" model that calculates the amount of time to perform the necessary actions. These values are then summed up and if the total exceeds the threshold, either the sector configuration needs to be changed or restrictions need to be imposed.
+
+An example of the method with breakdown into categories
+The main advantage of this method is that it takes into account a large number of factors (e.g. weather, military activities, flight vertical profiles, local procedures, etc.) and therefore produces a very accurate forecast. Additional benefit is that the forecast is self-adjusting, i.e. no recalculation of capacities is necessary in case of sector reshaping, traffic flow changes, etc. as long as the model remains valid (i.e. there are no factors unaccounted for).
+A potential disadvantage is that the forecast is as accurate as its input data. Therefore, wrong (or missing) estimates, weather forecast, etc. will result in an inaccurate assessment of the situation.
+Another factor to be considered is that as the operational environment is constantly evolving, new factors may emerge or some of them may need to be reconsidered, e.g.:
+
+New types of flights may need to be accomodated (e.g. supersonic, UAVs, etc.)
+New controller tools may reduce the time to perform certain tasks (thus allowing the controller to do more things which is essentially a capacity increase)
+A technology may become so widespread that it significantly impacts the provision of ATC (e.g. CPDLC may reduce voice communication and space-based ADS-B or other Surveillance systems may lead to reduced separation minima)
+Procedural limitations on controller interventions (e.g. restricted use of direct routing) would result in the need of more time to come up with a solution to a situation
+
+Therefore, this method requires closer monitoring and more frequent adjustment in order to deliver the expected benefits.
+Related Aritcles
+
+ATM Sector Management
+Short Term ATFCM Measures (STAM)
+Sector Over-deliveries and Overloads
+Sectorisation
+Network Manager Operations Centre (NMOC)
+
+
+
+
+
+Categories
+
+
+Loss of Separation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

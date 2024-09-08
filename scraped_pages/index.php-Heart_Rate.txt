@@ -1,0 +1,237 @@
+Heart Rate
+
+
+
+
+
+
+
+
+
+
+
+  Heart Rate
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Controllers’ heart rates can be measured using attached surface electrodes (other methods, such as the variation in the light transmitted through the earlobe, have been used, but have so far proved unreliable).
+Discussion
+Heart Rate is probably the most basic measure of body activity, mental and physical. Unfortunately, it is very sensitive to physical circumstances, and relatively less sensitive to the levels of mental strain observed in Air Traffic control. It appears to be primarily affected by the emotional component of strain. (The classic observations of heart-rate excursions are of pilots landing aircraft. This is not an intellectually demanding task, but the consequences of error are such that the task is extremely stressful).
+References
+
+Vanwonterghem and Rabit (1989) found significant increases in heart rate relative to the resting state in controllers. They also found significant heart-rate excursions in planning controllers, corresponding to a reaction to telephone or visual alerts.
+Although heart rate has been frequently measured on controllers (e.g. Costa 1993), it rarely seems to show a consistent relation to workload or to strain. Where a workload relation appears, it may well simply reflect increased physical activity.
+Rohmert (1987) in Salvendy (1987) describes how heart-rate in Approach Controllers correlated most closely, not with the number of aircraft under control, nor with the estimated difficulty, but with the number of aircraft expected to arrive. (Heart-beats averaged over blocks of 100 beats – about 50-70 seconds)
+Rohment W, (1987) Physiological and psychological work load analysis in Salvendy Handbook of Human Factors, Wiley New York ISBN 0-471-88015-9
+
+
+
+
+
+Categories
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+Generics
+
+
+Type of method
+Electro-physiology
+
+
+Electrophysiology is data on the controller’s nervous system.
+
+
+Target of method
+Strain
+
+
+Electrophysiological measures inherently measure the state of the controllers’ physical processes, without regard to the ‘objective’ workload, and in consequence measure ‘Strain’.
+
+
+Time Scale of method
+Minutes
+
+
+Heart rates vary from about 40Hz to about 120Hz in relevant conditions. It takes some time for a change in circumstances to show up in heart rate measures, although an expected change may lead to an anticipatory change in heart rate.
+
+
+Portability of method
+No
+
+
+Electrocardiography (ECG) measures require attaching the controller to a trolley of recording equipment.
+
+
+Observer Effect
+No
+
+
+Electrophysiological methods in general are not usually subject to observer effects.
+
+
+Context of studies
+
+
+Laboratory studies
+Use
+
+
+ 
+
+
+Simulation studies
+Use
+
+
+ 
+
+
+Field studies
+Use
+
+
+ 
+
+
+Potential problems with the method
+
+
+Failure risk
+Moderate
+
+
+Any system involving skin electrodes may fail if the electrodes become detached. This is particularly likely to happen when the controller being measured makes sudden movements. Controllers tend to make sudden movements at moments of extreme strain, and to be particularly intolerant of interruption at such times.
+
+
+Bias risk
+Moderate
+
+
+There is always a danger that uncontrolled variables may produce a bias in the measurements.
+Heart rate is particularly sensitive to physical activity, so that some form of postural analysis is advisable as a control. Heart rate is also affected by chest expansion, which should, if possible be measured at the same time.
+
+
+
+Ethical problems
+Medical
+
+
+Heart rate, or heart function, is normally used for medical diagnosis.
+
+
+Costs of the method
+
+
+Staff Cost
+High
+
+
+Electrophysiological methods usually need at least one post-doctoral level supervisor, plus one skilled technician per controller observed.
+
+
+Set-up Cost
+High
+
+
+All medical equipment is inclined to be expensive.
+
+
+Running Cost
+High
+
+
+Electrophysiological measures require the fitting of electrodes for each run. This is a time consuming business.
+
+
+Analysis Cost
+High
+
+
+Proprietary or specially developed software is usually necessary to analyse heart-rate data, particularly if intervening variables, such as chest expansion or body posture must be included.
+
+
+Analysis data
+
+
+Analysis Speed
+Fast
+
+
+Given that the data are in digital form and that suitable software is available, ECG analysis can be sufficiently fast.
+
+
+Data Automation
+Used
+
+
+ECG data is usually collected using automatic recording systems.
+
+
+Analysis Automation
+Yes
+
+
+Most data analysis is more or less automatised in the current circumstances.
+
+
+Status
+Established
+
+
+This method has been used in a number of relevant studies, at EEC and elsewhere.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

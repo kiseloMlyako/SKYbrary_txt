@@ -1,0 +1,159 @@
+Passenger Cabin Loading
+
+
+
+
+
+
+
+
+
+
+
+  Passenger Cabin Loading
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Ground Operations 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+This article is concerned with the loading of aircraft with cabins configured for passenger use.
+Some passenger aircraft cabins can be re-configured to carry cargo by removal of all, or some, of their seats. Loading of the main cabin in such circumstances raises similar issues of operational safety, and appropriate procedure, as a dedicated freighter version of the same aircraft model and is not considered here.
+Passenger Weights and Seat Occupancy
+Standard Passenger weights are usually used for load and trim sheet purposes and are often prescribed by the Regulatory Authority which has issued the Air Operator Certificate (AOC) under which the flight is being made. Longitudinal effects of passenger load may be allowed for by dividing the cabin into sections and using standard loading index variations, pre-calculated for each of these compartments. Departure control systems (DCS), may, however, be programmed to use a different index correction for each seat row. The accuracy of this calculation will rely on passengers sitting in the seats assigned at check-in or, if free (unassigned) seating is used, the ground crew or cabin crew will need to record the actual seating occupied, either by cabin section, or, exceptionally, by seat row. In practice, low cost airlines, which routinely offer free seating, also operate the majority of their flights with a high load factor, so that identifying any unoccupied seats will be a fairly simple matter. Where the load factor is medium or low, cabin crew may sometimes be instructed to restrict free seating to the centre of the cabin in order to keep the centre of gravity within limits.
+Cabin Crew Observation and Reporting
+Senior cabin crew can assist operational safety by using their discretion to report what they perceive to be abnormal seated passenger distribution prior to take-off, especially if free seating is available. This is a particularly important point in the case of flights which make an en route or ‘transit’ stop, at which passengers either leave or join the flight, and where some through passengers remain on board. This scenario has often led in the past to ground staff preparing an incorrect load and trim sheet based on unchecked (and undisclosed) assumptions about passenger seat occupancy when an aircraft will be departing with only a part load. Either the seats occupied by passengers remaining on board at the transit stop are not established, or the seats chosen by the boarding passengers are not known, or both. Random assumptions are then made for load and trim sheet purposes, which may not reflect the actual longitudinal trim of the aircraft as actually loaded. This may result in a take off with the aircraft trim outside the envelope for permitted safe flight, or the pitch trim setting made by the flight crew may be incorrect to a degree which then affects normal aircraft control at and after the initiation of rotation.
+Cabin Baggage
+Standard passenger weights also include an allowance for permitted cabin baggage. Restrictions on the maximum number of pieces, their maximum weight and/or their maximum dimensions are likely to be imposed by both the aircraft operator and the airport security screening process. This usually means that available stowage in overhead lockers or on the floor underneath the seat in front of that occupied will be sufficient. Any outsize items should only be permitted on board if they can be safely stowed using special wardrobe or locker space and by prior agreement of the senior cabin crew who may seek the authority of the aircraft commander if in doubt as to acceptance.
+Emergency Evacuation rules usually require that during take off and landing, passengers are not permitted to have items in their laps; additionally, items of baggage may not be placed under the seat in front of them if seated immediately to the rear of a fixed bulkhead or at an emergency exit row.
+Cabin Crew validation of total passengers on board
+Routine ‘head counts’ of boarded passengers by cabin crew before every departure will, if reported to the aircraft commander prior to their acceptance of the final load sheet, ensure that a flight always departs with the same number of passengers on board as has been recorded on the load and trim sheet.
+Cabin Crew checking of boarding passengers
+Routine checks by cabin crew of the boarding cards of joining passengers as they arrive at the aircraft, to check that they are getting on the correct aircraft, can provide an extra check on the correct release of passengers by ground crew at the boarding gate. Whilst computerised seat assignment and passenger on-load validation built into many DCS systems has eliminated a lot of errors made in the older manual processing systems, a new type of error is now prevalent which occurs when ground staff manually override the automatic system to accommodate late changes or other specific problems.
+Passenger Cabin Loading Risks
+
+A partly-full cabin with passengers distributed differently to the load and trim sheet presented to the aircraft commander - a particular possibility when departing from an intermediate stop on a multi-stop flight.
+Total number of passengers on board substantially different to the number recorded on the load and trim sheet and the discrepancy not detected by cabin crew head counting.
+Where there are financial disincentives to check baggage into the hold, there is a risk that excessive cabin baggage will be brought on board. This can be controlled by strict regulation of permitted size, weight and number of items but if this does not occur, overloading of overhead locker in respect of capacity or placarded maximum weight may occur.
+
+Accidents and Incidents
+This section contains occurrences where passenger cabin loading has been considered to be a relevant factor.
+
+
+B738, Birmingham UK, 2020On 21 July 2020, a Boeing 737-800 flight crew identified significant discrepancies when comparing their Operational Flight Plan weights and passengers by category with those on the Loadsheet presented. After examining them and concluding that the differences were plausible based on past experience, the loadsheet figures were used for takeoff performance purposes with no adverse consequences detected. It was found that a system-wide IT upgrade issue had led to the generation of incorrect loadsheets and that ineffective communication and an initially ineffective response within the operator had delayed effective risk resolution although without any known flight safety-related consequences.
+
+A21N, Bristol UK, 2020On 3 January 2020, an Airbus A321neo crew found that the boarded passengers were seated such that the flight could not operate within the allowable flight envelope. Necessary reseating followed with a safety report filed. An internal investigation with State Investigation Agency awareness found that a systemic company IT issue was enabling invalid outputs. When the same aircraft’s inbound flight from Bristol was checked, a similar but undetected error was found to have resulted in that flight having operated outside the allowable flight envelope. Pending a permanent fix for the computerised load control system, manual checking procedures were immediately implemented.
+
+DH8B, Nuuk Greenland, 2019On 30 May 2019, a DHC8-200 departing from Nuuk could not be rotated at the calculated speed even using full aft back pressure and the takeoff was rejected with the aircraft coming to a stop with 50 metres of the 950 metre long dry runway remaining. The initial Investigation focus was on a potential airworthiness cause associated with the flight control system but it was eventually found that the actual weights of both passengers and cabin baggage exceeded standard weight assumptions with the excess also resulting in the aircraft centre of gravity being outside the range certified for safe flight.
+
+E170, Nuremberg Germany, 2013On 13 March 2013, smoke and fumes were immediately evident when the cable of an external GPU was connected to an ERJ170 aircraft on arrival after flight with passengers still on board. A precautionary rapid disembarkation was conducted. The Investigation found that a short circuit had caused extensive heat damage to the internal part of the aircraft GPU receptacle and minor damage to the surrounding structure and that the short circuit had occurred due to metallic FOD lodged within the external connecting box of aircraft GPU receptacle.
+
+DC3, vicinity Yellowknife Canada, 2013On 19 August 2013, a fire occurred in the right engine of a Douglas DC3-C on take off from Yellowknife. After engine shutdown, a right hand circuit was made in an attempt to land back on another runway but trees were struck and the aircraft crash-landed south of it. Emergency evacuation was successful. The Investigation found that a pre-existing cylinder fatigue crack had caused the engine failure/fire and that the propeller feathering pump had malfunctioned. It was found that an overweight take off had occurred and that various unsafe practices had persisted despite the regulatory approval of the Operator's SMS.
+
+
+...further results
+
+
+Related Articles
+
+Loading of Aircraft Holds
+Aircraft Load and Trim
+
+Further Reading
+
+ATSB Report: An Analysis of In-flight Passenger Injuries and Medical Conditions
+UK CAA CAP 1008 Last minute changes (LMC) - Guidance document, February 2014
+UK CAP 1009 Gross error checks - Guidance document, February 2014
+UK CAA CAP 1010 Ramp/ Aircraft Loading Operations Checklist, February 2014
+In-flight Seat Belt Requirements, 03/07/2013
+
+
+
+
+
+Categories
+
+
+Ground Operations,
+              Loss of Control,
+              Cabin Safety
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

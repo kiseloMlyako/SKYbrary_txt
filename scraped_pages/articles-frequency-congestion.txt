@@ -1,0 +1,202 @@
+Frequency Congestion
+
+
+
+
+
+
+
+
+
+
+
+  Frequency Congestion
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Air Ground Communication 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+A single radio frequency is capable of handling a limited number of radio messages in a specified time. The maximum number of messages will be determined by the length of each message and its response. Ideally, a pilot should be able to transmit a message at any time of his/her choosing, and receive an immediate reply. As radio traffic increases above the ideal, the frequency becomes congested. The pilot must wait for a break in transmissions to pass a message and may have to wait for a response from the ATCO, who has to judge different priorities.
+Persistent (rather than transient) frequency congestion is a frequent contributory factor in communication breakdown, usually in association with other factors.
+Effects
+
+Pilot or ATCO is unable to pass an important message at the desired time.
+A blocked transmission from another aircraft which is trying to communicate is lost or misheard.
+A pilot takes a message intended for another aircraft due to call sign confusion or expectation of clearance.
+Pilot workload and ATCO workload is increased due to the necessity to resolve the confusion.
+
+Defences
+ATCUs attempt to reduce the impact of frequency congestion by Sectorisation and the use of multiple frequencies. However, too frequent frequency change can also contribute to communication breakdown.
+Typical Scenarios
+
+The pilot, who is awaiting a clearance, takes a clearance intended for another aircraft. The ATCO does not notice the error on read back.
+The pilot takes a frequency change intended for another aircraft, resulting in loss of communication.
+In his/her attempt to pass the message quickly, the ATCO does not use standard phraseology; this increases the chance of communication breakdown.
+The pilot transmits at the same time as another, who is conducting communications in the local language. This results in a blocked transmission.
+Radio Interference makes it difficult to read the call sign in a transmission, which is mistakenly taken by the wrong pilot.
+
+ 
+Contributory Factors
+
+Call sign confusion;
+Loss of communication;
+Frequency change;
+Non-standard phraseology;
+Blocked transmission;
+Radio interference;
+Language.
+
+ 
+Solutions
+
+Pilots:
+
+Always use standard phraseology;
+Listen in on the new frequency before transmitting;
+Call ‘blocked’ when you detect a blocked transmission;
+Use English language, to assist other pilots to determine when communication with ATC is finished.
+Check that the PTT (Press to Transmit) switch releases freely at the end of each transmission and if any functional fault is identified, alternative transmit options are used.
+
+
+ATCOs:
+
+Always use standard phraseology;
+Use short and concise messages;
+Use English language, to assist other pilots to determine when communication with ATC is finished.
+Do not talk continuously but give pilots the opportunity to check in on the frequency by building in rest blocks; In practical terms, it may be best to transfer several aircraft to their next sectors before checking in new aircraft - this is a matter of judgement for the ATCO.
+Reduce the number of aircraft on a frequency or extend the number of controllers, so that the workload per frequency is lower.
+
+
+Technology
+
+Blocked transmissions can be partly overcome by anti-blocking devices.
+Design a warning if the mike is pressed too long, for instance by a beep indicting the microphone is still transmitting. (Some aircraft already have such a feature).
+
+
+
+Further Reading
+
+ALLCLEAR? Toolkit
+
+HindSight Articles:
+
+HS2 Getting the Message Across;
+HS2 Analysis of an AIRPROX in Japan.
+
+AGC Safety Letters:
+
+AGC Safety Letter December 2004;
+AGC Safety Letter August 2005;
+AGC Safety Letter April 2006;
+
+EUROCONTROL Action Plan for Air-Ground Communications Safety, including:
+
+AGC Briefing Note 1 - General;
+AGC Briefing Note 2 - Call Sign Confusion;
+AGC Briefing Note 4 - Blocked Transmissions;
+AGC Briefing Note 5 - Radio Discipline.
+
+
+
+
+
+Categories
+
+
+Air Ground Communication
+
+
+
+
+
+
+
+
+
+Related Articles
+
+Pilot-Controller Communications (OGHFA BN)
+Frequency Blocking
+Blocked Transmissions / Undetected Simultaneous Transmissions (USiT)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

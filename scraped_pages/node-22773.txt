@@ -1,0 +1,166 @@
+Wind Velocity Reporting
+
+
+
+
+
+
+
+
+
+
+
+  Wind Velocity Reporting
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Runway Excursion 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+This article summarises the origin of wind velocity measurements made at airports and communicated to aircraft to assist their safe take off and landing. It also provides some guidance on how this information should be applied by flight crew, which concerns aircraft performance calculations, operating within prescribed AFM limits and the tactical handling of the aircraft during take off and landing.
+What is wind velocity?
+Velocity is a vector, which simply means that it is defined by two parameters, speed and direction. A specification of wind velocity therefore requires that both wind direction and wind speed are given. Wind direction is always given as a radial measure in degrees stating the direction from which the wind is blowing. Wind speed may be given in either knots (nautical miles per hour) or metres per second depending upon the procedures of the State concerned.
+Caution: Many references to wind measurement from non-expert sources equate ‘wind velocity’ with ‘wind speed’ and therefore typically refer to ‘wind velocity and direction’ which is incorrect. The Flight Safety Foundation Notes listed under Further Reading below are examples of this error.
+Wind Velocity and aircraft safety
+It is probably true to say that the importance of taking appropriate account of wind velocity during the take off and landing of an aircraft is appreciated by all aviators and all air traffic controllers. However, problems arise because unless it is completely calm, it is impossible when near the ground to know the actual wind velocity where an aircraft is at the precise time it is there. Using wind velocity information is therefore a matter of:
+
+Understanding exactly what velocity is being provided
+Using the information appropriately
+
+On-board displays of wind velocity
+Flight deck displays of ‘instant’ wind velocity based upon on board computations are now quite accurate when instant variation is not required. This is especially true when the aircraft is away from the ground, but their usefulness for assisting the execution of a safe touchdown, landing roll or take off roll is often very limited, both for practical and computational reasons. Updating of on-board readouts of wind velocity depends on the system which generates them. FMS wind is the most accurate, because it is based upon changes of GPS or DME/DME position, but it may only be re-calculated every 30 seconds. Wind Velocity based upon an INS is often calculated as many as 10 times per second but the result is less precise. The net effect is that neither have real value near or on the ground.
+Location of Airport Wind Sensors
+There is usually more than one sensor (anemometer) position but all measure the wind velocity at the standard height of 10 metres above the surface. This is the internationally accepted meteorological definition of ‘surface wind’ designed to eliminate distortion attributable to very local terrain effects. Any sensor will be sited so as to provide a representative indication of the instantaneous wind velocity in the immediate area around it. The exact sites of wind sensors should be indicated on relevant aerodrome chart in the State AIPs. At most airports used for significant commercial or military air traffic, there will be a least one sensor positioned to the side of any runway at each end in the vicinity of the Touchdown Zone (TDZ); there will probably also be at least one other sensor somewhere in the central area of the defined airside zone. Depending upon where this ‘general’ sensor is and on the relative complexity of the airport layout, there may be additional sensors adjacent to the mid point of each runway.
+Variation in Wind Velocity
+Unless the wind is completely calm, wind velocity rarely remains the same for very long; the extent of the variation in speed and direction is usually directly proportional to the mean wind speed because the effect of terrain friction upon the characteristics of the wind blowing across it increases as wind speed increases. Clearly, this effect will be greatest at airports situated in areas of uneven terrain or with significant obstacles affecting the degree of low level mechanical turbulence over particular parts of the aerodrome when particular general wind directions prevail.
+ICAO Annex 3 specifies the requirements for the reporting of gusting wind speeds and for reporting variation in wind direction; these are also reflected in the procedures for METAR observations. However, the variation in wind speed and direction are monitored and used independently; from a practical perspective, interpreting the potential extreme wind velocities is therefore likely to be difficult. However, in respect of wind speed, it is generally accepted that although the gust ratio - the ratio of the maximum gust to the mean wind speed - may frequently reach 2, only rarely will it exceed 3 even in very strong wind conditions.
+METAR Wind Velocity
+Wind velocity in a METAR is stated as the measured or estimated mean of each component over the 10 minutes prior to the time of issue of the METAR, unless there are significant variations during this 10 minute period. For direction, this means 60 degrees or more of arc but less than 180 degrees provided that the mean speed during the previous 10 minutes has been more than 3 knots. In the case of speed, variations from the mean wind speed (both above and below it) are reported when the variation from the mean speed has exceeded 10 kts. Such variations are expressed as the maximum and minimum speeds attained and must also be included if the maximum wind speed in a 10 minute period has exceeded the 2 minute average wind speed at the same location in that period. Any gust value which has occurred in the most recent two minute period will of course also be part of the calculation of average wind speed
+Wind direction is recorded in degrees true. Whatever runway(s) is (are) in use, the wind velocity for the METAR is normally taken from one designated anemometer.
+ATIS Wind Velocity
+ATIS wind velocity is latest two minute average. The wind direction broadcast is given in degrees magnetic. The mean wind speed is supplemented by the value of the highest and lowest gusts within the 10 minutes prior to issue time if either exceeds the METAR-specified minimum difference increment away from the mean.
+ATIS broadcasts are usually only updated between the regular change times if the wind direction changes by more than 30 degrees or the 2 minute average wind speed changes by more than 5 kts over a five minute interval.
+ATC Wind Velocity Reports
+Display of wind velocity information to ATC at major airports usually allows at least the reporting by RTF of both the ‘average wind’ - that over a two minute period updated every minute - and ‘instant wind’ - the value at that exact time. The latter is usually used only where high wind speeds and their associated greater fluctuations in speed and direction prevail. ATC may pro-actively initiate such ‘wind checks’ or this action may be requested by a flight crew. The ATC TWR at most international and major domestic airports have digital displays of wind velocity which can be specific to sensor site or integrated from several sites and can show a selection of trend and extremes data. Smaller airports may still be limited to dual and plotted graphical displays from which to derive both required broadcast information and additional ad hoc assistance. ATC plain language ad hoc wind directions given during final approach or just prior to or during the take off roll are likely to be given in degrees magnetic.
+Aircraft performance calculations and reported wind velocity
+Like any other input to aircraft take off or landing performance calculations, wind velocity will be the (average) figure available prior to taxi out or top of descent. This means that whilst allowances are made in performance tables or equivalent computer programmes for a certain amount of variation in the inputs, any change in the wind velocity data used which may affect the validity of the calculation for the runway case concerned must lead to a re-calculation.
+Applying Wind Velocity Reports to AFM limitations
+An AFM or Operations Manual always contains maximum wind speeds for take off and landing. These are stated as wind components and cover the crosswind, tailwind and head wind cases. Instant or two minute winds given by ATC must be converted into the applicable wind components by the flight crew and checked against the stated limitations. A suitable graphical display can be used by PM to read the received ATC figures onto if no automated conversion is available. In all cases, the apparent ‘general situation’ including any stated or apparent trend, is the key to using this information. Flight crew need to remember that ATC wind velocity information provided during take off or landing at times of high wind speed has to be intelligently interpreted rather than rigidly applied. It is also important to note that maximum wind components in the AFM are invariably dependent on the dry runway case, with more restrictive figures usually given for wet runways or those with reduced braking action.
+Aircraft Handling and Reported Wind Velocity
+The wind velocity given to an aircraft is the best approximation of the actual wind velocity where the aircraft is at that time. The degree to which it is an approximation is always greater at higher general wind speeds but may also be dependent upon aerodrome-specific factors. Well recognised and significant local effects should be detailed in the AGA section of the State AIP.
+Intelligent use of available wind velocity information can be crucial to the avoidance of a Runway Excursion caused by loss of control near to or on the ground. Points to consider include the following:
+
+The 'instant' wind velocity provided by ATC should be from the data display for the most appropriate sensor for aircraft position - a pilot may not necessarily know where that is.
+The ‘instant wind’ may be exactly that or may be a mean figure automatically generated over a few seconds.
+The display from which an 'instant wind' is taken may be a digital display with or without an independent display of the short term average, range and trend in wind speed and direction or it may be a pair of simple mechanical dial displays.
+All ‘instant winds’ are best interpreted in the context of the amount of short term fluctuation they appear to indicate.
+Any wind direction given by ATC to aircraft about to land or take off should be expressed in degrees magnetic so as to correspond to the similar designation of runway alignment.
+The significance of rapidly changing instantaneous wind velocity for aircraft handling in the absence of any definite trend is affected by the weight of the aircraft and its consequent inertia in respect of flight control inputs. The delayed response to thrust lever movement on large fan jet engines is also very significant.
+
+Related Articles
+
+Wind
+Windsock
+Runway Excursion
+Meteorological Terminal Air Report (METAR)
+Low Level Wind Shear
+Terminal Doppler Weather Radar (TDWR)
+Weather Observations at Aerodromes
+
+Further Reading
+
+World Meteorological Organisation (WMO) Guide to Meteorological Instruments and Methods of Observation
+ICAO Annex 3 ‘Meteorological Services for International Air Navigation’ Chapter 4 Meteorological Observations and Reports.
+FSF ALAR Briefing Note No 8 - Wind Information
+
+
+
+
+
+Categories
+
+
+Runway Excursion,
+              Overrun on Landing,
+              Veer Off,
+              Weather
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,166 @@
+Aviation Safety Information Analysis and Sharing (ASIAS)
+
+
+
+
+
+
+
+
+
+
+
+  Aviation Safety Information Analysis and Sharing (ASIAS)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Management 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+The U.S. Federal Aviation Administration (FAA) often describes Aviation Safety Information Analysis and Sharing (ASIAS) as an evolving program enabling “users to perform integrated queries across multiple databases, search an extensive warehouse of safety data, and display pertinent elements in an array of useful formats.” ASIAS actually ranks as a central conduit for the voluntary exchange of safety information between the FAA and the U.S. aviation community, and a national resource for the aggregation, analysis and dissemination of aviation safety analysis, FAA said.
+FAA’s 2019 Aviation Safety Workforce Plan added, “ASIAS partners with the Commercial Aviation Safety Team (CAST) and the General Aviation Joint Steering Committee (GAJSC) to monitor known risks, evaluate the effectiveness of deployed mitigations, and detect emerging hazards.”
+Definitions
+Fusion — Data-fusion analytics (or simply “Fusion”) bypasses the limits associated with analyzing data found in separate “silos” of information, FAA said. This methodology typically fuses multiple data streams. In the process, analysts manually apply automated capabilities and appropriate algorithms to yield a clear 360-degree perspective of safety events. “Without Fusion capability, ASIAS safety analysts were not able to align and measure the influence of specific unique factors associated with a flight,” FAA said.
+Threaded track flight story — Integration of airline and air traffic digital flight data; voluntary pilot and controller reports; text-based safety reports; and surveillance radar data sources across the entire route of flight has become the key Fusion capability. FAA said the resulting single, synthetic “threaded track” provides optimal representation of an aircraft’s flight trajectory from beginning to end.
+Next generation of ASIAS architecture – A March 2020 FAA report to the U.S. Congress said that ASIAS 2.0 architecture “is now in advanced planning stages, with initial operational capabilities to follow starting in calendar year 2021, after deployment of the system. … The architecture platform is designed to process the increasing volume, variety and velocity of data to be collected and analyzed, and to address associated data management challenges.”
+General aviation safety elements — As one example of current initiatives to reduce risk of accidents in this industry segment, ASIAS developed and deployed its National General Aviation Flight Information Database (NGAFID), “an open-source portal created to enable pilots and operators to analyze their own data, identify potential risks, and to share flight operations data with ASIAS,” FAA said. The scope of ASIAS for general aviation safety includes, in part, advanced safety analysis and safety metrics for rotorcraft operators. ASIAS helicopter metrics address loss of control–in flight, unstable approaches and other issues related to fatal accidents.
+Objectives
+“The goal of ASIAS to provide a reliable source of information to the aviation community that will be used to impact safety decisions and reduce the risk of accidents,” the ASIAS Internet portal said. Principles and governance protocols ensure that ASIAS information will be used only for safety purposes, and not for punitive action, FAA said.
+ASIAS primarily supports the GAJSC by using de-identified general aviation operations data to help identify risks and evaluate the effectiveness of deployed solutions.
+The twice-a-year, industry-sponsored Aviation Safety InfoShare meeting also heavily involves ASIAS in facilitating confidential sharing of safety issues and best practices in a protected (non-public) environment. InfoShare enables ASIAS to gain insight into safety issues and leverage its data repository to identify emerging systemic safety issues within the National Airspace System (NAS).
+As of 30 November 2020, ASIAS participants comprised five civil/military government entities (including the FAA); 40 Part 121 U.S. air carriers; 16 aviation industry companies and associations; 130 corporate/business operators, 15 university/academy flight training entities; five aircraft manufacturers; and two maintenance, repair, and overhaul organizations.
+The most prominent databases used come from the Aviation Safety Action Program (ASAP); Airport Surface Detection Equipment–Model X (ASDE–X); Airspace Performance Metrics (ASPM); Aviation Safety Reporting System (ASRS); Air Traffic Safety Action Program (ATSAP); Flight Operational Quality Assurance (FOQA); Meteorological Aviation Report (METAR); Mandatory Occurrence Reports (MOR); National Flight Data Center (NFDC); Near Mid-Air Collisions (NMAC); National Offload Program aircraft-track data (NOP); Service Difficulty Reports (SDR); and, the Traffic Flow Management System (TFMS).
+The highly networked ASIAS data repositories include FAA data (i.e., surveillance radar data and navigational information), airline operator proprietary safety data (i.e., digital flight data and safety reports), publicly available safety data, manufacturer information, and other data from flight operations and air traffic control entities in the NAS, FAA said.
+Origins and Recent Work
+The founding idea of ASIAS is that the federal government and aviation stakeholders — given a conducive environment and ground rules — will see benefit from cross-querying de-identified aggregate data distributed across airline network servers and related data on government servers. This idea propelled stakeholders toward early concentration on known-risk monitoring; directed studies implemented by decisions of ASIAS Executive Board; benchmarking, research and development of analytical tools; and vulnerability discovery.
+At their beginning, the ASIAS Issue Analysis Team — FAA employees, contractors and specialists seconded by the aviation industry — typically applied text-mining tools and data-mining tools to manually or automatically discover risk trends, atypical events, exceedances and aberrations within their expanding networks of databases. Their work produced clearly valuable results from data fusion — often computer-rendered as graphics that reveal otherwise undiscoverable safety insights.
+Each participant in ASIAS signs a memorandum of understanding (MOU) that, in effect, enables exchanges of de-identified safety data, limits disclosure of proprietary information, and offers exclusive access to unique ASIAS products. Best-known examples of its directed studies and projects from the late 2000s included:
+
+A directed study of terrain awareness and warning system (TAWS) alerts;
+A directed study of traffic-alert and collision avoidance system (TCAS II) resolution advisories (RAs);
+The capability to compare airline-level TAWS alerts and TCAS RAs with experiences of all other participants — called benchmarking — and the capability to benchmark specific-airline experience against aggregate experience; and,
+Sharing experiences utilising data showing unstabilised approaches.
+
+Since the 2007 launch of ASIAS, The Center for Advanced Aviation System Development at the MITRE Corp., a federally funded research and development center, has provided the high-level architecture, synthesized databases and conducted flight data analysis of air carrier operations as a trusted intermediary between the participating airlines and the FAA.
+ASIAS also soon evaluated and helped to refine advanced text-mining algorithms — some based on the open source Mariana software developed by the U.S. National Aeronautics and Space Administration (NASA) and other software used by participating airlines — for automatic classification of millions of operational safety reports.
+“Airline-level analyses of TAWS alerts would not have come up with the issue of inaccurate minimum vectoring altitudes [MVAs] around our airports … yet several MVAs were not appropriately designed, and a couple of key elements weren’t addressed,” one ASIAS leader said at the time. “So the FAA reworked those MVAs to make them more appropriate for the surrounding terrain.” Data-fusion signatures quickly proved to be valuable for checking many airports for TAWS-alert anomalies.
+In February 2019, the U.S. Congress requested that the FAA “accelerate the ASIAS capabilities, including fusion, next generation of ASIAS architecture, and expanding general aviation safety elements,” and summarize the latest initiatives in a status report. In March 2020, this public report published by FAA Administrator Steve Dickson described the most recent accomplishments and challenges of ASIAS capability acceleration.
+“ASIAS analysts are starting to leverage Fusion to support directed studies, and it will be used to develop integrated metrics to identify and monitor risks and help evaluate the effectiveness of deployed mitigations,” the report said. “Fusion will enhance safety analysis capabilities for the community and offer insight into safety issues at a level that was previously not possible when working with individual data sources. Fusion is a critical enabler for ASIAS development of predictive capabilities. As integrated risk assessment models are developed, the Fusion environment will enable the community to evaluate potential changes in the NAS and proactively mitigate and monitor risks as changes are introduced into the system.”
+As Fusion data (including surveillance radar data, digital flight data, safety reports, and weather information) in ASIAS are currently merged through a manual and laborious process, the ASIAS 2.0 architecture will automate this process as a sustainable and enduring capability moving forward, the FAA said. Pending results of its recent design reviews, the FAA plans to purchase components of the new ASIAS 2.0 technology platform, with initial operational capabilities to follow starting in calendar year 2021. Imminent Projects
+The FAA’s report to Congress also argues that ASIAS quickly must “adopt new artificial intelligence capabilities including machine learning, predictive analysis, advanced data mining, and other methods to leverage state-of-the art advances in technology.
+“Future advances will build upon the ASIAS 2.0 architecture and Fusion technology to provide increased access to data and analytical tools, improving the agility of the program and encouraging innovation. … To succeed during this period, ASIAS leadership is working to increase the quality of safety analysis products by utilizing Fusion-based analysis and new general aviation analysis capabilities, and to reduce the timeframe required for analysis by investing in the ASIAS 2.0 architecture platform.”
+In November 2020, ASIAS also emphasised how critical ASIAS 2.0 will be in a market survey of potential technology vendors. “The new architecture will replace the legacy system of non-integrated silos of information,” FAA said. Automated collection, processing, fusing, and mining of massive volumes of aviation data are considered essential to replace the outdated manual methods still used, the survey’s introduction said.
+“[ASIAS 2.0] will include tools for data visualization, data analysis, anomaly detection, trend detection, statistical and inference models, and others,” FAA said. “ASIAS must have a data fusion capability … joining extremely large, complex and non-homogeneous data, such as voluntary pilot and controller text reports, digital flight data, radar, weather, and other sources to build a comprehensive understanding of the flight environment and situational context for individual and aggregate flight operations.”
+References
+
+Federal Aviation Administration Report to Congress: Report on the Status of Aviation Safety Information Analysis and Sharing (ASIAS) Capability Acceleration, U.S. Federal Aviation Administration (FAA), March 31, 2020.
+“Fact Sheet – Aviation Safety Information Analysis and Sharing Program,” FAA, December 29, 2017.
+“Aviation Safety Information Analysis and Sharing (ASIAS) Architecture and Advanced Analytic Capabilities Support,” FAA 693KA9 Contracting for Service, Contract Opportunity Notice ID ASIASMS01, Computer Systems Design Services, November 5, 2020 01:41 pm EST.
+Wake and Weather Turbulence Report 2016, by FAA ASIAS Program for FAA Office of Accident Investigation and Prevention, Safety Analysis Branch (AVP–210), February 2016.
+Wrong Runway Departures, by FAA ASIAS Program for Office of Aviation Safety (AVS–4), July 2007.
+
+Related Articles
+
+Safety Data Collection and Processing Systems (SDCPS)
+Safety Information Exchange
+NASA Data Mining Algorithms
+
+Further Reading
+
+“Common Cause: U.S. airline participation in ASIAS triples with the prospect of access to system-level safety intelligence.” by Wayne Rosenkrans, FSF AeroSafety World, August 2009, pp. 32–37.
+“Data Fusion Directions,” by Wayne Rosenkrans, FSF AeroSafety World, June 2010.
+“Valid Concerns: Auditors urge quicker upgrades of U.S. safety data analysis to discover national risk trends.” by Wayne Rosenkrans, FSF AeroSafety World, September 2010, pp. 41–44.
+“No Turning Back: Airlines redouble participation in FAA ASIAS analyses that transform proprietary safety data into system-level solutions.” by Wayne Rosenkrans, FSF AeroSafety World, November 2011, pp. 32–35.
+“Now I See: Visualization of synthesized safety data confirms the theories of analysts and investigators.” by Wayne Rosenkrans, FSF AeroSafety World, March 2012, pp. 28–33.
+“Agreement Launches ASIAS–NTSB Working Groups,” FSF AeroSafety World, March 29, 2013.
+“Sharing the Wealth: Vulnerability-discovery methods of ASIAS gain acceptance across national borders.” by Wayne Rosenkrans, FSF AeroSafety World, March 29, 2013.
+“Peripheral Vision: Compelling membership benefits of the FAA ASIAS program attract the first business operators from business aviation,” by Wayne Rosenkrans, FSF AeroSafety World, October 5, 2015.
+
+
+
+
+
+Categories
+
+
+Safety Management
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

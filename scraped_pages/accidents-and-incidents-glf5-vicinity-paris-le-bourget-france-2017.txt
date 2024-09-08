@@ -1,0 +1,323 @@
+GLF5, vicinity Paris Le Bourget France, 2017
+
+
+
+
+
+
+
+
+
+
+
+  GLF5, vicinity Paris Le Bourget France, 2017
+
+
+
+
+
+
+
+
+
+Summary
+
+On 10 September 2017, the First Officer of a Gulfstream G550 making an offset non-precision approach to Paris Le Bourget failed to make a correct visual transition and after both crew were initially slow to recognise the error, an unsuccessful attempt at a low-level corrective realignment followed. This had not been completed when the auto throttle set the thrust to idle at 50 feet whilst a turn was being made over the runway ahead of the displaced threshold and one wing was in collision with runway edge lighting. The landing attempt was rejected and the Captain took over the go-around.
+
+
+
+
+Event Details
+
+When
+
+10/09/2017
+
+
+
+Event Type
+
+
+CFIT,
+              HF,
+              LOC
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+GULFSTREAM AEROSPACE Gulfstream 5
+
+
+
+
+
+
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Vienna International/Schwechat
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Paris/Le Bourget Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Missed Approach
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+LFPB
+
+
+
+
+General
+
+Tag(s)
+
+
+              Airport Layout,
+              Altimeter Setting Error,
+              Approach Unstabilised after Gate-GA,
+              Non Precision Approach,
+              CVR overwritten
+          
+
+
+
+
+CFIT
+
+Tag(s)
+
+
+              Into terrain
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Manual Handling,
+              Procedural non compliance,
+              Ineffective Monitoring - SIC as PF,
+              Pressure altimeter setting error
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Aircraft Flight Path Control Error,
+              Unintended transitory terrain contact
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Aircraft damage
+
+Minor
+
+
+
+Non-aircraft damage
+
+Yes
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 10 September 2017, a Gulfstream G550 (M-SAWO) being operated by AvconJet on a non scheduled passenger flight from Vienna to Paris Le Bourget failed to correctly make the required transition from the offset non-precision approach to runway 25 at destination to its centreline in day VMC. After the stick shaker was activated during a late attempt to line up for touchdown, a go around, during which the left wing hit and damaged a runway edge light causing minor consequential damage to the aircraft, was initiated. The rest of the go around, re-positioning and the subsequent approach and landing were then completed without further event.
+Investigation
+An Investigation was carried out by the French Civil Aviation Accident Investigation Agency, the BEA, using relevant FDR and recorded ATC data. The 2 hour CVR was not isolated after the event and so relevant data was overwritten.
+The 42 year-old male Training Captain in command had a total of 5,200 hours flying experience of which nearly 1,000 hours were on type. The 32 year-old female First Officer had a total of 3,200 hours flying experience of which over 1,000 hours were on type. For both pilots, the investigated event occurred on their first flight of the day. 
+What Happened
+With the First Officer acting as PF, the flight was cleared for the LOC ‘A’ approach to runway 25 at Le Bourget (MDA 800 feet/MDH 520 feet) which, because of the proximity of the runway to those of Paris CDG, was offset from the runway 25 centreline (249°) by 26° and used a LOC track which led towards the upwind end of the full length of runway 25. The flight had been notified that runway 27 was out of use.
+Whilst already established on the LOC, several minutes prior to reaching the Final Approach Fix (FAF) and beginning descent from 3000 feet, the PM Captain incorrectly changed his altimeter subscale setting to 1014 hPa rather than to the correct 1004 hPa. Seven minutes later shortly before reaching the procedure FAF, the First Officer set her altimeter subscale by reference to the Captain’s so that thereafter both were indicating 280 feet higher than the actual altitude.
+The descent was commenced at around 800 fpm, a rate compatible with the airspeed, and the aircraft was configured for landing. Having announced that they had the runway in sight, they were cleared to land and the AP was disengaged at 500 feet agl ( point 1 on the illustration below). Due to the QNH setting error, the altitude being displayed was around 1000 feet but this appeared to go unnoticed.
+A few seconds later, the PF turned left to line up with a long-disused former runway but after recognising the error at about 250 feet agl then began a corrective turn to the right towards the displaced (by 891 metres) landing threshold of runway 25. At approximately 40 feet agl and approximately 600 metres before the displaced threshold, the aircraft crossed the runway with idle thrust set in a left turn and a 20° bank angle. The recorded angle of attack quickly increased from 9° to 29°, which led to a stall warning and a 6 second activation of the stick shaker.
+At 20 feet agl and whilst 35 metres to the right of the runway centreline with a 15° left bank, the First Officer abandoned the attempt to touchdown (point 2 on the illustration below) and set maximum thrust to climb away. The left wing leading edge then hit an edge light to the right of the runway before the aircraft began a right turn to regain the runway centreline and climb away (point 3 on the illustration below).
+
+The ground track of the abandoned attempt to land off the first approach. [Reproduced from the Official Report]
+When the missed approach was advised to the TWR controller, he responded by saying that he thought that the aircraft wing tip had contacted the runway and the requested inspection subsequently confirmed the presence of glass debris prior to the displaced threshold.
+The Captain took control at an unspecified point during the missed approach and the subsequent repositioning to a second approach was without further event with a normal landing following half an hour after the rejected one. A post flight visual inspection found damage to the leading edge and lower surface of the left wing near to the wing tip.
+Why It Happened
+The First Officer’s misidentification of the long ago closed runway 26 as the landing runway 25 clearly took no account of not only the multiple bright white ‘X’ markings on it (14.5 metres by 36 metres) but the fact that it was clearly almost midway between the much longer runways 27 and (especially) 25 which inspection of the aerodrome chart would have shown clearly met at their far ends. The fact that the senior Captain in command did not immediately recognise the error or take over control when low level manoeuvring which was about to be attempted would not necessarily complete the realignment before the A/T automatically set the thrust to idle at 50 feet agl was not explained by the crew statements to the Investigation. These statements also did not make it clear whether the over-reading mis-set altimeters had played any part in the decision to continue an attempted corrective manoeuvre so close to the ground.  
+It was noted that having recognised that more could be done to reduce the risk of erroneous visual manoeuvring to runway 25 below the offset approach MDA, the airport operator had, five months prior to the investigated event, installed a PAPI to the north of runway 25 with its axis offset 5° to the south and had previously added the wording “AEROPORT PARIS LE BOURGET” along the length of the former runway as shown on the illustration below.
+Overall, it was concluded that although the situation at Le Bourget was such as to make an approach there challenging for some pilots, the requirements of safety regulation were met in full.
+
+An aerial view of the closed runway between active runways 27 ad 25 at Le Bourget. [Reproduced from the Official Report]
+Four potential Contributory Factors were identified as leading to the activation of the aeroplane’s angle of attack protection systems on final approach and then to the aeroplane’s left wing colliding with the runway right side lighting:
+
+The late decision to attempt to intercept the centreline of runway 25 when the aeroplane had been previously aligned on a disused former runway. This manoeuvre substantially increased the angle of attack and the bank angle at a low height whilst the thrust of the engines was automatically reduced on descending below the height of 50 feet.
+The presence of a concrete surface section at the beginning of runway 25, located 500 m before the displaced threshold. The separation between this light-coloured section and the remainder of the runway may have been mistakenly taken for the displaced threshold and caused the PF to hurry the centreline interception manoeuvre.
+The crew’s late decision to initiate a go-around whilst the aeroplane was at a low height and the approach was no longer stabilised.
+The crew not detecting the altimeter setting error, which may have contributed to a representation bias and delayed the decision to abort the approach.
+
+Safety Action taken by AvconJet was noted as having included revisions to the OM in respect of the following matters:
+
+the approach stabilisation criteria, the importance of compliance with them and the need for immediate commencement of a go around in the event of an approach becoming unstabilised
+the protection of FDR/CVR recordings in the event of a safety event
+the avoidance of turns at low height
+the addition of the range of CRM subjects covered in training of:
+
+the importance of effective action by the PM when appropriate including calling out deviations
+the importance of a stabilised approach and not hesitating to reject an approach with missed approaches being encouraged.
+
+
+
+The Final Report was initially published in the definitive French language version on 28 December 2021 and this was followed on 5 May 2022 by an English Language translation. No Safety Recommendations were made.
+Related Articles
+
+Loss of Control
+Missed Approach
+CFIT
+Effective Briefing
+Complacency
+Altimeter
+Cross-checking Process

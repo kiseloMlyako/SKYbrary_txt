@@ -1,0 +1,207 @@
+Approach Speed Categorisation
+
+
+
+
+
+
+
+
+
+
+
+  Approach Speed Categorisation
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Approach Speed Categorisation is system for differentiating aircraft based on the speed at which the aircraft is flown during the approach phase of flight. Fixed wing aircraft are assigned to one of five categories.
+Description
+Aircraft performance has a direct effect on the airspace and visibility required for the various manoeuvres associated with the conduct of an instrument approach procedure. The most significant performance factor is the aircraft speed.
+Accordingly, a number of categories, each with a specified speed range, have been established. These categories provide a standardised basis for relating aircraft manoeuvrability and airspace requirements to specific instrument approach procedures. An aircraft type or variant thereof is normally assigned to a specific category.
+The criterion taken into consideration for the assignment of an aircraft to a specific category is the indicated airspeed at the runway threshold (VAT) whilst in the normal landing configuration at the maximum certified landing mass. This speed is defined to be equal to the greater of stall speed (Vso) multiplied by 1.3, or stall speed (Vs1g) multiplied by 1.23. The landing configuration that is to be taken into consideration can be defined by either the operator or by the aeroplane manufacturer but is most commonly assigned by the manufacturer.
+ICAO Aircraft Approach Category
+The following ICAO table indicates the specified Indicated Airspeed speed range, in knots, for each category of aircraft to be utilised when conducting the maneuver or approach phase specified. These speed ranges have been considered by the PANS-OPS approach designer when calculating airspace and obstacle clearance requirements for each segment of the procedure.
+
+
+
+Aircraft category
+VAT
+Range of speeds for initial approach (and reversal and racetrack procedures)
+Range of
+			final approach speeds
+Maximum speeds for circling
+Maximum speeds for intermediate missed approach
+Maximum speeds for final missed approach
+Typical Aircraft in this Category
+
+
+
+
+A
+<91
+90 - 150
+70 - 110
+100
+100
+110
+small single engine
+
+
+B
+91 - 120
+120 - 180
+85 - 130
+135
+130
+150
+small multi engine
+
+
+C
+121 - 140
+160 - 240
+115 - 160
+180
+160
+240
+airline jet
+
+
+D
+141 - 165
+185 - 250
+130 - 185
+205
+185
+265
+large jet/military jet
+
+
+E
+166 - 210
+185 - 250
+155 - 230
+240
+230
+275
+special military
+
+
+
+ 
+Approach Categories (FAA)
+The FAA system, TERPS, has identical speed ranges for the threshold speeds for each of the five categories. However, approach procedures designed under TERPS do not consider the same circling speeds, and the corresponding protected airspace requirements, as do ICAO PANS-OPS approaches designed under the criteria above. For further information on that subject, see the SKYbrary article Circling Approach - difference between ICAO PANS-OPS and US TERPS.
+According to TERPS criteria, an aircraft shall normally fit into only one category. However, if it is necessary to maneuver at speeds in excess of the upper limit of a speed range for a category, the minimums for the next higher category should be used. For example, an aircraft which falls in Category A, but is circling to land at a speed of 115 knots, should use the approach Category B minimums when circling to land. The TERPS categories are as follows:
+
+Category A: Speed 90 knots or less.
+Category B: Between 91 and 120 knots.
+Category C: Between 121 and 140 knots.
+Category D: Between 141 knots and 165 knots.
+Category E: Speed 166 knots or more.
+
+Category E is only assigned to certain Military Aircraft.
+Related Articles
+
+Circling Approach - difference between ICAO PANS-OPS and US TERPS
+Aircraft Type Designator
+
+Further Reading
+ICAO Documentation
+
+Doc 8168 (PANS-OPS);
+
+References
+
+^ ICAO Doc 8168 PANS-OPS Vol 1
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

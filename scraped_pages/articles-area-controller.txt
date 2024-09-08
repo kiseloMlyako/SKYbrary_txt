@@ -1,0 +1,190 @@
+The Area Controller
+
+
+
+
+
+
+
+
+
+
+
+  The Area Controller
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+The area controller (also called en-route controller) is a person that provides air traffic control (ATC) service within an area control centre (ACC). They normally serve flights during the climb, cruise and initial descent phases.
+The Area controller's job is dominated by the process of discovering and solving conflicts. By contrast, Approach and Tower controllers are mostly occupied by sequencing the traffic for taking off and landing. While it is common practice for an area controller to transfer several aircraft at the same at the same sector exit point (vertically separated), this is not an option for the tower and approach controllers when their "exit point" is the runway threshold.
+Compared to their tower and approach colleagues, the area controllers do not have to communicate as much with each flight. In the simplest case, there are only two calls - the initial contact (aircraft checking in on the frequency) and the final contact (when the communication is transferred to the next sector). If no other aircraft crosses their path and the flight is in the middle of the cruise, there is no need to exchange additional messages. While these flights are monitored while in the sector, they do not contribute to the communication workload. Therefore, the area controllers are able to handle more aircraft simultaneously. 
+During normal operations the area controller follows a routine comprising several consecutive actions:
+
+Scan the airspace and search for situations (e.g. conflicts, aircraft deviations, complex situations, etc.). This is done by constantly shifting the focus from one aircraft to the next. The time spent on each aircraft during each scan is usually within a second or two but this can increase substantially if necessary. Modern ATS systems provide assistance to this task by emphasizing on essential information (e.g. a deviation from a clearance) and suppressing some non-essential elements (e.g. shrinking the track label when no irregularities are found). The completion of a scan coincides with the start of the next one and this process usually contiues until the break which is normally after one or two hours of continuous operation. The process is often interrupted by phone calls, aircraft transmissions, etc. but after these are handled, it restarts. While there are no strict rules about how often aircraft need to be looked at (or regarding the time spent per aircraft), the controllers try not to have an aircraft "unattended to" for more than a minute (the period is usually shorter).
+Develop a plan to solve the situations. When a situation is found, the controller starts working on an appropriate solution. As controllers normally work in pairs (see section below for details), the planning is normally done by one of them (hence the name "planner controller") and issuing the appropriate instructions is done by the executive controller. Additionally, the planner controller is usually responsible for making all necessary phone calls and coordinations. Examples of situations that require a plan to be developed include (the list is not exhaustive):
+
+If a potential conflict is found, then the situation is further examined to determine the distance between aircraft at their [[closes point of approach]]. If this distance is not considered sufficient (i.e. greater than the applicable separation minimum plus some small buffer to account for various uncertanties) and vertical separation cannot be currently assured, then a plan for solving the conflict is created. Examples of such plans are:
+
+When aircaft A reaches point X, an instruction to descent will be issued.
+A direct flight will be coordinated with the next sector and the speeds of the two aircraft will be adjusted.
+Knowing that aircraft A requests to climb above aircraft B and that the two aircraft are diverging after point X, an initial climb clearance will be issued to a level 1000 ft below aircraft B. When the aircraft diverge and are safely separated, a clearance to the requested level will be issued.
+Aircraft A (which will need to descend under aircraft B that is 2000 feet below due to reaching its top-of-descent point) will be vectored 15 degrees to the right. When the separation is enough, a descent clearance will be issued. Then, aircraft A will be vectored again so that it flies on a parallel heading with aircraft B (this is done for efficiency reasons). After aircraft A has descended below aircraft B, it will be instructed to resume own navigation to the sector exit point.
+
+
+If an aircraft is flying towards a special use area (e.g. a danger area or a temporary reserved area), the controller develops an appropriate solution, e.g. "Firstly, I will ask the crew if they are able to climb above the area. If that is not possible, I will vector the aircraft around it. If for some reason (e.g. weather) this is not possible, I will coordinate passage through that area."
+If a deviation from a clearance is observed or indicated by the system, the controller determines the reason and proceeds accordingly. For example, if there is a system indication due to the controller not updating the data in a track label, this is rectified. If an aircraft is deviating from its clearance, the controller determines if other aircraft will be affected or if another problem could develop (e.g. infringement of a special use area).
+
+
+Execute the plan. This phase often coincides (at least partly) with the previous one and consists of issuing appropriate clearances and instructions.
+
+The Scan >> Plan >> Execute loop is repeated until the controller hands over their position.
+The controller needs to stay alert at all times in order to quicky detect and adequately react to an emergency or abnormal situation. If this happens, the controller follows a set of actions:
+
+information gathering. This includes acknowledging the situation, determining the crew intentions and the assistance needed.
+assessment of the impact of the event on the overal traffic situation. This includes determining which flights and which adjacent sectors or ATS units will be affected. For example, an aircraft that decides to land at the nearest suitable aerodrome will probably be conflicting with some aircraft at lower levels and the ATS units serving the aerodrome are still not aware of the situation.
+development of a plan, e.g. which aircraft will be
+informning the affected parties, e.g. the aerodrome the aircraft is diverting to, sectors that the aircraft was not supposed to pass through, the supervisor, etc.
+provides the assistance requested by the crew. This may be in the form of provision of meteorological and aeronautincal information (e.g. current weather, runway availability, navigation aids, etc.), vectoring, forwarding of crew requests (e.g. informing them of the necessity of RFFS, medical staff or police force, depending on the situation).
+
+The actions described above can be carried out in a different order and sometimes concurrently. For example, the information gathering may be delayed until the moment the crew is ready to answer questions. In the meantime, the controllers will complete other tasks, e.g. informing the supervisor and the adjacent sectors while preparing plans for actions to be taken in various scenarios (e.g. the crew decide to divert to a local aerodrome or to turn back). Also, the planning and executing can be done simultaneously if the situation requires so. For example, in case of an emergency descent, the controller will immediately scan the airspace ahead of the descending aircraft and free up the airspace by vectoring the other flights.
+More information on this subject can be obtained in the Guidelines for Dealing with Unusual/Emergency Situations in ATC article.
+Working Positions and Roles
+
+Normally, the airspace for which the ACC is responsible and the traffic levels are such that more than one working position is needed to safely handle the traffic demand. Therefore, the airspace is divided into sectors. The number of sectors depends on the airspace size, the expected traffic (both the numbers and the complexity are usually accounted for) and the expected adverse weather (e.g. CBs and turbulence). The sector(s) at which a particular controller is allowed to work are described in their ATC license.
+Each sector is normally served by a team of two controllers, an executive (EXE) and a planner (PLN). The tasks are distributed between the controllers in such a way as to prevent overload of one of them and facilitate an efficient traffic flow. Sometimes only one controller is assigned to a sector. In this case, both EXE's and PLN's duties are performed by the same person. This situation is called "single person operations". There are also situations where more than two people serve a sector. This could be either an ad-hoc solution to a special situation (e.g. an aircraft in an emergency), or an established practice. In the latter case, the third person is sometimes called an "assistant" and is assigned specific and usually routine tasks (e.g. flight data distribution). With the development of automation the use of this arrangement is gradually diminishing.
+Basic Controller Techniques
+Conflict solving is arguably the most improtant part of the routine tasks performed by area controllers. When such a situation is detected, the controller needs to choose an appropriate method (or a comnination of methods) to solve it. These include:
+
+Level change, i.e. assigning different levels to the conflicting aircraft. It should be noted though that conflict-free levels are not always available, aircraft are often unable to climb (being at their cruising level) and descending leads to flight inefficiency.
+Vectoring
+Direct routing. This has similar effect to vectoring. It reduces the miles flown which sometimes (but not always) benefits flight efficiency. The applicability of this technique is restricted by the points in the flight planned route and the growing implementation of [[free route airspace]] which allows planning the route with fewer and softer turns.
+Speed control
+Vertical speed control (applicable when at least one of the aircraft is climbing or descending through the other's level)
+
+The choice of technique depends on the situation (conflict geometry, wind direction, aircraft types, etc.) so there is no universal solution. A combination of techniques can be used, e.g.:
+
+vectoring followed by a direct routing
+vectoring or direct routing augmented by speed control
+vectoring climbing or descending aircraft (to provide continuous climb or descent) combined with vertical speed assignment (to quickly cross the conflicting level so that own navigation can be resumed earlier)
+
+System Support
+In order to be able to handle large numbers of aircraft simultaneously, area controllers are provided with a number of tools and technologies. Examples of these are provided below:
+
+introduction of automated ATS systems reduces the time spent on routine tasks
+MTCD, Tactical controller tool and probe (what-if) improve conflict detection
+Monitoring aids, which are a subsystem dedicated to pointing out various "irregularities", e.g. aircraft deviations
+Mode S greatly enhances the controller's situational awareness and reduces the need for communication as some flight parametres are readily available. Additionally, this technology allows the controller to effciently monitor aircraft compliance with the clearances.
+CPDLC reduces the communication workload
+RVSM makes more cruising levels available and therefore, reduced need for use of other conflict solving techniques
+OLDI reduces the need for verbal coordination between controllers
+
+All human beings make errors and controllers are not an exception. Safety nets, while not intended to be used under normal circumstances, provide an additional layer of safety.
+Related Articles
+
+How Air Traffic Control Works
+The Tower Controller
+Conflict Detection
+Conflict Solving
+Closest Point of Approach (CPA)
+Vectoring Geometry
+Executive and Planner Controller
+The Handover-Takeover Process
+Basic Controller Techniques: Vectoring
+Basic Controller Techniques: Speed Control
+Basic Controller Techniques: Vertical Speed
+
+Further Reading
+
+ICAO Doc 4444 PANS-ATM
+CAP493: MATS Part 1, Section 4
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,358 @@
+B738, Sint Maarten Eastern Caribbean, 2017
+
+
+
+
+
+
+
+
+
+
+
+  B738, Sint Maarten Eastern Caribbean, 2017
+
+
+
+
+
+
+
+
+
+Summary
+
+On 7 March 2017, a Boeing 737-800 crew making a daylight non-precision approach at Sint Maarten continued it without having established the required visual reference to continue beyond the missed approach point and then only realised that they had visually  identified a building as the runway when visibility ahead suddenly improved. At this point the approach ground track was corrected but the premature descent which had inadvertently been allowed to occur was not noticed and only after the second of two EGPWS Alerts was a go-around initiated at 40 feet above the sea.
+
+
+
+
+Event Details
+
+When
+
+07/03/2017
+
+
+
+Event Type
+
+
+CFIT,
+              HF
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 737-800
+
+
+
+
+
+
+
+
+
+Operator
+
+WestJet
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Toronto/Lester B. Pearson International Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Sint Maarten/Princess Juliana International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Missed Approach
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+TNCM
+
+
+
+
+General
+
+Tag(s)
+
+
+              Approach not stabilised,
+              Approach Unstabilised after Gate-GA,
+              Event reporting non compliant,
+              Inadequate Aircraft Operator Procedures,
+              Inadequate ATC Procedures,
+              Non Precision Approach,
+              CVR overwritten,
+              Delayed Accident/Incident Reporting
+          
+
+
+
+
+CFIT
+
+Tag(s)
+
+
+              No Visual Reference,
+              Lateral Navigation Error
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Ineffective Monitoring,
+              Manual Handling,
+              Plan Continuation Bias,
+              Ineffective Monitoring - SIC as PF
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Non-aircraft damage
+
+Yes
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Number of Non-occupant Fatalities
+
+0
+
+
+
+Number of Occupant Fatalities
+
+0
+
+
+
+Off Airport Landing
+
+Yes
+
+
+
+Ditching
+
+Yes
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+Air Traffic Management
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 7 March 2017, a Boeing 737-800, (C-GWSV) being operated by WestJet on a scheduled international passenger flight from Toronto to Sint Maarten as WJA2652 descended below the prescribed vertical profile on approach at destination after visibility had deteriorated and the crew did not initiate a go around until the aircraft had almost reached the sea surface. A subsequent approach after awaiting an improvement in visibility was uneventful.
+Investigation
+Commencement of an Investigation by the Canadian TSB was delayed because WestJet originally assessed the event as “non-reportable” notwithstanding the fact that the Company “monitors and addresses operational risk using a Transport Canada-approved Safety Management System”. Although data was successfully recovered from the QAR, relevant data on the FDR and CVR was overwritten as a result of the delayed awareness of the event. Data stored on the NVM from the aircraft TAWS was recovered and was important in helping to establish what had occurred.
+It was noted that the Captain had been employed by WestJet for almost 10 years and had accumulated 14,000 total flying hours. The First Officer, who was PF for the investigated flight, had been employed by WestJet for 7 years and had accumulated 12,500 flying hours. The time on the aircraft type involved was not recorded for either pilot.
+What Happened
+It was established that, on the basis of the ATIS report of good weather, the crew had briefed for a visual approach to runway 10 and set up the RNAV(GNSS) approach to the same runway in case of a deterioration in conditions given that rain showers were forecast. When the aircraft was about 25nm away from destination and had just left 10,000 feet, ATC advised that there were “moderate to heavy rain showers at the airport”. The crew did not acknowledge this but, having observed cloud and rain showers around the airport, they decided switch to the RNAV(GNSS) approach which had an MDA of 700 feet and a minimum visibility of 3,600 metres.
+When the aircraft was 13 nm out passing 4,900 feet for 2,600 feet, clearance was given for the runway 10 RNAV approach and the controller followed this with a re-advice, which was acknowledged. The crew of an aircraft ahead which had just landed reported that they had experienced “steady winds and reduced visibility during the approach, but had acquired the runway visually when over the MAP". At some point during the approach, the controller illuminated the runway lights using an automatic setting for night operations that puts the runway lights at 3% intensity and the PAPI at 10% intensity - the PAPI had previously been at the normal daylight setting of 30% intensity and the runway lights had been off. The runway 10 approach is over water and there is no approach lighting.
+Landing clearance was given with 4½ nm to run and the spot wind advised as 060° at 17 knots. The aircraft was established on a 3° angle of descent as per the procedure. The crew stated that about 0.5 nm before the MAP at waypoint ‘MAPON’ they still did not have the runway in sight but could see the shoreline and as they “expected to see the runway shortly afterwards, they decided to continue their approach visually”. The AP was disconnected and the pitch was reduced from 0.5° nose up to 1.2° nose down and the FD was cycled in preparation for continuing visually to a landing. The A/T, which was in SPEED mode as a result of the FD cycling, reduced thrust to compensate as the rate of descent increased to 1150 fpm and the aircraft began to deviate below the 3° procedure vertical profile.
+The aircraft crossed the MAP - 2nm from the runway threshold - and the PF “indicated that he had the runway in sight and began to roll the aircraft to the left”, in doing so placing the aircraft approximately 250 feet left of the extended runway centreline. Although neither the runway lights nor the PAPI were visible, no request for their intensity to be increased was made and soon after the turn to the left, the aircraft entered a rain shower which had been moving towards the approach.
+In reality, the poor visibility had led to the PF First Officer assessing that a hotel to the left of the runway was the runway and there was no contrary intervention from the Captain. Descent continued without adequate visual reference until, approximately 1 nm from the runway, the aircraft emerged from the shower and the visibility sharply improved. Only then did both pilots realise that they had been tracking towards the hotel and not towards the runway. The aircraft was 190 feet agl and descending at 940 fpm and although the crew now had the runway in sight, they stated that they were “not immediately able to assess their height above water”. The PF increased the thrust a little and turned towards the runway but the rate of descent was still about 860 fpm.
+When the aircraft was 63 feet above the sea, a ‘TOO LOW TERRAIN’ EGPWS Alert occurred. The response was an increase in pitch of 4° but the descent continued and a second identical Alert occurred as the aircraft was descending from 54 feet to 49 feet over the sea. With the aircraft just 40 feet above the sea and 0.3 nm from the runway threshold, a go-around was initiated. The controller instructed the aircraft to take up the hold because the visibility was below the 3,600 metre minimum required to make a second approach. Once the visibility had improved, a second uneventful approach to runway 10 was followed by a normal landing.
+Review
+The Investigation reviewed a number of aspects of the event, including but not limited to the following, which are noted here in a sequence which does not imply that the Investigation accorded relatively greater or lesser significance to the role of each in the flawed performance of the flight crew:
+
+When the weather in the vicinity of the airport began to deteriorate ten minutes prior to the eventual go around, the controller advised the crew of ‘moderate to heavy rain showers’ and the crew were able to observe this change visually whilst still in VMC. The controller did not advise that this deterioration had resulted in a reduction in the visibility to 2,000 metres, although the ATIS was updated to that effect.
+The medium intensity runway lighting did not include centreline lighting. The intensity was adjustable but the ATS Operational Procedures Manual for the airport did not provide guidance on adjustment of the runway or PAPI lighting intensity. It was noted that when the controller turned on the runway lighting, he selected it to an automatic setting intended for night use. This not only meant that the runway edge lights were at only 3% intensity but also reduced the PAPI illumination from the previous 30% to 10%. It was concluded that this action had “limited the likelihood that (the available lighting) would capture the attention of the flight crew”.
+It was not possible to establish whether the windshield wipers were used during the approach.
+The approach was unstable according to WestJet’s stabilised approach criteria but would not have been detected as such by their OFDM programme since this only captures rates of descent which “exceed 1,300 fpm for more than 2 seconds”, an exceedance which their 2016 aggregate data showed accounted for the majority of detected unstabilised approaches.
+In respect of the failure to immediately commence a climb when the EGPWS Alert initially occurred, it was noted that WestJet guidance on when this should be the response was consistent with the Boeing FCOM recommendation that “during day VMC, pilots may assess whether a terrain hazard exists before deciding whether to correct the flight path or continue the approach”. However, it was noted that Honeywell, as the OEM, state in their guide that the recommended response to an Alert is to “stop any descent and climb as necessary to eliminate the alert, analyse all available instruments and information to determine best course of action and advise ATC of the situation as necessary”. The Investigation noted that the incidence of ‘nuisance’ alerts, which was the underlying reason for response procedures instructing pilots to ensure positive visual verification in the event of a “TOO LOW TERRAIN” annunciation occurring in day VMC, has reduced so much due to current EGPWS technology “that they are now rare and almost always predictable”. It was therefore considered that “the positive visual verification step within the response procedure may no longer be necessary”.
+The 700 feet MDA for the non-precision approach flown is necessary to meet PANS-OPS criteria for obstacle clearance during a go around. Since this occurs at 2nm from the runway threshold, there is a relatively long visual flight segment. It was noted that “it is not common for WestJet pilots to fly long visual segments of an IFR approach such as (the one involved in this event)" and “even less common are long visual segments over water and with the type of weather encountered”.
+The Canadian regulatory definition of “required visual reference” is such that continuing the investigated approach beyond the MAP required that at least one of a specified range of references must be “distinctly visible and identifiable to the pilot”. The Investigation noted that six of these were available for the investigated approach. None of these appeared to have been available until the sudden improvement in visibility at 1 nm from the runway when the aircraft emerged from the shower it had flown through.
+In respect of the belief that visual contact with the runway had been acquired at the MAP, it was noted that “unknowingly acquiring an incorrect visual reference illustrates an error at the first stage of development of situational awareness (perception) (and that) an unresolved error at this stage leads to errors in the subsequent 2 stages (comprehension and projection)”. In this case, the result was both pilots’ inability to “accurately assess the aircraft’s vertical position and rate of change relative to the runway environment”.
+The failure of both pilots to effectively monitor the flight path was observed to be a subject which had received extensive study over a long period. Work published by the Flight Safety Foundation nearly 20 years ago was cited as having concluded that the most frequent causal factors in approach-and-landing accidents included “inadequate reference to instruments to support the visual segment, failure to detect the deterioration of visual references and failure to monitor the instruments and the flight path because both pilots are involved in the identification of visual references”. However, it was found that WestJet pilot training and procedures relevant to flight path monitoring incorporated only some of the 20 recommendations of a widely referenced 2014 publication on flight path monitoring.
+The lack of effective CRM on the flight deck was evident and the Investigation considered that new Canadian regulatory standards scheduled for introduction in 2019 “will provide knowledge and skills that can assist flight crews in recognising risks, such as those associated with conducting approaches in deteriorating weather conditions”.
+
+The formally stated Findings as to Causes and Contributing Factors were as follows:
+
+Significant changes in visibility were not communicated to the crew, which allowed them to continue the approach when the visibility was below the minimum required to do so.
+The reduction in the pitch attitude led to an increase in airspeed, which resulted in a reduction in engine thrust and a higher rate of descent than that required by the 3° angle of descent.
+The occurrence of a moderate to heavy rain shower, after the aircraft crossed the missed approach point, led to a significant reduction in visibility. The low-intensity setting of the runway lights and precision approach path indicator lights limited the visual references that were available to the crew to properly identify the runway.
+The features of a hotel located to the left of the runway, such as its colour, shape, and location, made it more conspicuous than the runway environment and led the crew to misidentify it as the runway.
+The reduced visibility and conspicuity of the runway environment diminished the crew’s ability to detect that they had misidentified the runway.
+The lack of visual texture and other visual cues available over water contributed to the crew’s inability to detect the aircraft’s height above the water.
+An increase in visual workload led to inadequate altitude monitoring, which reduced the crew’s situational awareness. As a result, the crew did not notice that the aircraft had descended below the normal 3° angle of descent to the runway threshold.
+
+The formally stated Other Findings were as follows:
+
+Because the occurrence was originally assessed by WestJet as a non-reportable event, the cockpit voice recorder and the digital flight data recorder data were overwritten and were not available to the Investigation.
+The enhanced ground proximity warning system (EGPWS) alert response procedures of the aircraft manufacturer and the operator differ from those in the guidance material of the EGPWS manufacturer.
+The alert response procedure recommended by the aircraft manufacturer and the operator led to a delayed response to the first EGPWS alert and resulted in the aircraft’s descent from 63 to 40 feet above ground level before corrective action was taken.
+
+Safety Action taken by WestJet in response to the investigated event and known to the Investigation included the following:
+
+A revised Route and Aerodrome qualification document for Sint Maarten was published. This included a highlighted requirement for “Extra diligence during reduced visibility operations” and some general cautions:
+
+the build-up of land and buildings north of the runway could cause a false runway illusion which may lead to a descent below the appropriate vertical profile.
+a visual track should always be cross-checked against the FMC to ensure the aircraft is lined up with the runway for which approach clearance has been given.
+due to the difficulty in acquiring visual confirmation of landing runway in reduced visibility conditions, it is recommended that consideration should be given to commencing go around if the runway has not been identified ¼ (statute) mile prior to the MAP.
+
+
+A new RNAV(RNP) instrument approach procedure for Sint Maarten which would provide vertical guidance to the threshold of the runway was submitted to the Sint Maarten Civil Aviation Authority for approval but, as a result of the disruption caused by a hurricane on the 15 September, had still not been approved and was “deemed to be on hold for an undetermined period”.
+
+The Final Report of the Investigation was authorised for release on 25 April 2018 and was officially released on 4 June 2018. No Safety Recommendations were made.
+Related Articles
+
+Controlled Flight Into Terrain (CFIT)
+Terrain Awareness
+Terrain Avoidance and Warning System (TAWS)
+Visual Meteorological Conditions (VMC)
+Visual References
+Continuation Bias
+Pilot Perception
+Runway Lighting
+Visual Approach Slope Indicator Systems (VASIS)
+Crew Resource Management
+Cross-checking Process
+Automatic Terminal Information Service (ATIS)
+
+Further Reading
+
+A Practical Guide for Improving Flight Path Monitoring, Final report of the Active Pilot Monitoring Working Group, Flight Safety Foundation, Nov 2014.

@@ -1,0 +1,134 @@
+Localiser (LOC) and Localiser Type Directional Aid (LDA) Approaches
+
+
+
+
+
+
+
+
+
+
+
+  Localiser (LOC) and Localiser Type Directional Aid (LDA) Approaches
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Localiser (LOC) and Localiser Type Directional Aid (LDA) Approaches are defined as non-precision runway approach aids based on a single ground based radio beam which provides pilots with horizontal guidance during an approach to land.
+Description
+Localiser (LOC) and Localiser Type Directional Aid (LDA) are ground based, non-precision, runway approach aids employing radio beams to provide pilots with horizontal guidance during an instrument approach. Vertical guidance is not provided in the vast majority of cases. The localiser provides azimuth guidance, while non-directional beacons, marker beacons and high intensity runways lights may also be provided as positioning aids for the approach. In recent years, the beacons have been progressively replaced by a Distance Measuring Equipment (DME) source either paired to the localiser antenna or otherwise located on the aerodrome, for example with a VOR.
+The LOC antennae are normally located at the end of the runway. However, where obstacles or noise sensitive areas preclude aligning the approach with the extended runway centreline, they will be otherwise located. These antennae transmit two narrow intersecting beams, one slightly to the right of the intended course centreline, the other slightly to the left. Where they intersect, these beams define the "on LOC" indication which is displayed on the aircraft instrumentation. Airborne equipment provides information to the pilot showing the aircraft’s displacement from the optimal course.
+Localiser Approach
+A localiser approach can be designed and implemented as a "stand alone" approach or it can be the "downgrade" option for an Instrument Landing System (ILS) that has an out of service glide slope. The International Civil Aviation Organisation (ICAO), in Doc 8168: Construction of Visual and Instrument Flight Procedures, limits the localiser offset to a maximum of 5° from the extended runway centreline. Under Federal Aviation Administration (FAA) regulations, as defined in Order 8260.3D - United States Standard for Terminal Instrument Procedures (TERPS) - the maximum localiser offset is limited to 3° from runway centreline heading. Beyond these tolerances, the instrument procedure will be designated as a Localiser Type Directional (LDA) approach.
+Localiser Type Directional Aid Approach
+LDA approaches are localiser-based approaches which exceed the runway centreline offset limitations identified in the previous section. To allow for manoeuvring during the visual segment from the localiser to the runway, the approach will be designed such that the localiser track intercepts the extended runway centreline at a distance based on the offset angle; that is, the greater the offset, the further from the threshold the interception will occur. The localiser offset angle will determine whether or not straight in approach limits can be published or if the procedure will be designated as a circling approach. Any procedure for which the offset angle exceeds 30° will be designated as a circling approach. For C and D category aircraft, circling approach designation will occur at a lesser offset angle. In rare cases, LDA approaches may include vertical guidance, in the form of a glide slope, and may be identified as an Instrument Guidance System (IGS) approach.
+Vertical Profile
+LOC approaches, and the majority of LDA approaches, do not provide vertical guidance. Transition to the intermediate approach segment can be via radar vectors, a Standard Arrival Routing (STAR), a published transition or via a procedure turn. Once on the inbound track and cleared for the approach, the pilot should follow the vertical profile as published on the approach chart. This profile can include one or more "step down" fixes for which the published crossing altitude must be respected to ensure terrain clearance. These fixes define a specific position at which point it is safe to descend to the next published altitude. Note that some, or all, of the procedure altitudes may be subject to temperature correction dependent upon the outside air temperature (OAT). The pilot should plan their flight profile to be level at the published final approach fix (FAF) crossing altitude, configured for landing, and stabilised at approach speed prior to reaching the FAF.
+The vertical profile of the final approach segment is defined by the FAF crossing altitude and the appropriate minimum descent altitude (MDA) for the aircraft approach category. There may also be one or more step down fixes after the FAF that are included as part of the procedure and must be respected to ensure obstacle clearance. Historically, non-precision approaches have been flown as "dive and drive" procedures; that is, as each designated fix is crossed, the aircraft will descend to the next published altitude, then level off and wait for the subsequent fix to repeat the process. Using dive and drive, it is necessary to reach and be stabilised at the MDA well prior to the published missed approach point (MAP) as the MAP could potentially be significantly beyond the visual descent point (VDP) that would allow for a nominal 3° descent from MDA to the runway. If visual references are not achieved, a missed approach is initiated at the MAP. The dive and drive profile results in numerous power and attitude changes making a stabilised approach difficult to achieve and has been either contributory or causal in a number of CFIT accidents. Introduction of Continuous Descent Final Approach (CDFA) procedures, in which a suitably equipped aircraft is able to descend at a published flight path angle from a defined point, and commence a missed approach based on a specified altitude vice position, have reduced the CFIT risks associated with conventional procedures.
+Related Articles
+
+Non-Precision Approach
+Precision Approach
+Instrument Landing System (ILS)
+Continuous Descent Final Approach (CDFA)
+
+Further Reading
+ICAO
+
+Doc 8168 - Volume 2 - Construction of Visual and Instrument Flight Procedures - Sixth Addtion
+
+FAA
+
+FAA Order 8260.3D - United States Standard for Terminal Instrument Procedures (TERPS)
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

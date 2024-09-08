@@ -1,0 +1,176 @@
+Mountainous Terrain Escape Routes
+
+
+
+
+
+
+
+
+
+
+
+  Mountainous Terrain Escape Routes
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Overview
+In commercial operations, it is highly desirable that the most direct route between two airports be flown whenever possible. Where that route involves the overflight of extensive areas of high terrain, it is critical that escape routes and procedures be developed and used in the event that an emergency requires that the aircraft must descend to an altitude that is below the Minimum Obstacle Clearance Altitude (MOCA).
+
+General
+In many parts of the world, aircraft are routinely flown over terrain that has minimum obstacle clearance altitudes (MOCA) exceeding 10,000'. In most areas, however, the relatively short exposure time to the high terrain negates the requirement for predetermined escape routes and procedures.
+There are several exceptions to the premise of minimum exposure time. These exceptions include central Asia due to its very extensive areas of high terrain. Avoidance of these areas by transiting aircraft could potentially add hundreds of extra miles to a given route and result in a substantial increase in flight time and the associated costs. This is not desirable from a commercial standpoint. To satisfy the commercial imperative while maintaining an acceptable level of safety, operators have developed escape routes and the associated procedures for use in the event of an emergency whilst overflying extensive high terrain.
+Threats
+The primary threats to safe flight over extensive areas of high terrain are those situations which result in the immediate requirement to initiate a descent. These threats include:
+
+Engine failure
+Loss of pressurisation
+Fire
+
+Analysis of these threats against the capabilities of the specific aircraft type and configuration will determine which of them defines the most restrictive terrain clearance profile. This, in turn, will determine what (if any) limitations must be applied to any route of flight that might be under consideration.
+Engine Failure
+An engine failure or an emergency, which requires the immediate shutdown of an engine, will normally result in the requirement for a descent. If the one engine inoperative ceiling for the anticipated weight, corrected as required for the existing conditions, exceeds the maximum terrain height, the route is not limited by engine out performance. If, on the other hand, the aircraft is not able to maintain level flight at an altitude at or above the MOCA with one engine inoperative, the maximum exposure to the high ground must be limited by the distance that the aircraft could fly, using a drift down profile, prior to descending below the minimum safe altitude.
+Loss of Pressurisation
+In the event of loss of pressurisation, the standard procedure is to initiate an emergency descent to the higher of 10,000' or the Minimum En-route Altitude (MEA). If the MEA, as corrected for existing conditions, is above 14,000' (13,000' for some National Aviation Authorities (NAA)), continuing the descent to MOCA would be prudent. If the MOCA is also above 14,000', the route of flight will be limited by the availability of supplemental/emergency oxygen supplies. Flight crew supplemental oxygen is rarely limiting; however, passenger emergency oxygen, when provided by Chemical Oxygen Generators, is only available for a limited amount of time. This time is dependent upon the capacity of the generators that have been installed in the aircraft concerned. Regulations require a minimum passenger oxygen supply of 10 minutes. The majority of chemical generators have a useful life of between 12 and 20 minutes depending upon the type.
+For flight over extensive areas of high terrain, the planned route must allow that an emergency descent to 14,000' (13,000' for some NAA) or lower can be safely made prior to exhaustion of the passenger oxygen generators. This descent will occur while following a pre-planned escape route that must also allow further descent to below 10,000' within 30 minutes of emergency oxygen supply exhaustion. In these circumstances, the descent will be progressive, based on the safe altitudes for the specific underlying segement of the escape route and will be flown at maximum forward ground speed. The distance that can be flown to reach 14,000' at the moment of emergency oxygen depletion defines the limits for the planned route of flight. As an example, an aircraft that can achieve an average ground speed of 5nm per minute that has 12 minute oxygen generators must be able to descend to 14,000' within 60nm of the planned route.
+Fire
+In itself, a fire does not limit the altitude capability of an aircraft. However, as part of the fire fighting/smoke removal protocol, it may be necessary to depressurise the aircraft. A minimum time routing and flight profile which will allow a timely descent to below 10,000' is desirable.
+Safe Altitude
+Safe altitude information can come from a variety of sources:
+
+If following an ATS Route, the Minimum En-route Altitude (MEA) and possibly the MOCA for the airway will be indicated on the applicable route chart.
+For flights on a non-ATS or random route, the IFR charts are overlaid with a grid indicating the Minimum Off Route Altitude (MORA). The MORA grid is usually presented in blocks measuring 1 degree by 1 degree and a minimum altitude for each block is given in feet with the last two digits omitted. As an example, a MORA of 12,500' would be shown as 125. In most parts of the world, the MORA will provide 1000' clearance above the highest point in the grid block when terrain heights are 5000' or less. If the terrain height exceeds 5000', the MORA provides 2000' clearance above the highest point in the block. On some charts, the term MORA may be replaced by Off Route Obstruction Clearance Altitude (OROCA).
+As the MORA provides a single altitude for a grid block, topographical maps may be used to refine the minimum safe altitude when developing escape routes.
+Other sources of safe altitude information include emergency safe and Minimum Sector Altitude (MSA) information from approach charts and altitudes published on terminal or arrival charts.
+
+Altitude Corrections
+Emergency altitudes must be corrected for:
+
+Altimeter Temperature Error Correction. If the temperature is less than that of the International Standard Atmosphere (ISA), altitude corrections must be made to ensure sufficient terrain clearance.
+Altimeter Pressure Settings. If a local altimeter setting is not available and the area atmospheric pressure is less than 1013 mb, crews should be prepared to use an area altimeter setting or the lowest of the pressure settings for the route of flight.
+Wind. If the strength and direction of the wind could result in the formation of Mountain Waves, altitude corrections to compensate for potential wave action should be made to the minimum safe altitudes.
+
+Escape Routes
+Escape routes are developed based on the more restrictive of the drift down or loss of pressurisation scenarios. In most transport category jet aircraft, the loss of pressurisation case will define the escape route requirements. In either scenario, the limit of safe operations is defined by the criteria presented previously under the headings of "Engine Failure" and "Loss of Pressurisation."
+For routes of flight that require a predefined escape route or routes, the following information should be provided to, or developed by, the crew prior to flight:
+
+Minimum Route Altitude. This is the minimum altitude which ensures safe obstacle clearance at any point on the entire route of flight.
+Route Segment. Depending upon the length of that portion of the route of flight that is over high terrain, there may be a requirement to divide the route into parts or segments. In this case, each segment will have its own designated escape fix.
+Escape Fix. An escape fix is the pre-defined starting point of the escape route for a specific segment of the route of flight. Where possible, the escape fix should be a ground based navigation aid but, in many cases, an FMS extracted waypoint will be used. A minimum crossing altitude for the escape fix will be published as part of the vertical profile. This altitude will be safe within the applicable route segment between any point on the route and the escape fix.
+Escape Route. An escape route defines the track to be flown in the event of an emergency. It starts at the escape fix and will terminate either at a diversion aerodrome or when the MOCA is at or below 10,000'. As well as a ground track, the escape route will also define an appropriate vertical profile. This profile must ensure that 14,000' (13,000' for some NAA) can be safely achieved prior to exhaustion of the emergency oxygen supply and that further descent to 10,000' or lower occurs within 30 minutes of oxygen supply exhaustion.
+
+Vertical Profile
+In the event of an engine failure, the crew will turn towards the escape fix while establishing an obstacle clearance drift down profile. This is accomplished by selecting maximum continuous thrust on the operating engine(s), disconnecting the autothrottle if fitted and slowing to best climb speed while in level flight. Once this speed has been achieved, descent will be initiated while maintaining maximum continuous thrust.
+If the escape route requirement is as a result of a loss of pressurisation, the crew will don oxygen masks, turn towards the escape fix and commence an emergency descent to the predefined minimum route altitude. The escape fix crossing altitude can then be verified and the descent continued to comply with the predefined vertical profile.
+Should the diversion be required due to a fire, the crew will don oxygen masks, turn towards the escape fix and accelerate to maximum forward speed. Initial descent will be to the minimum route altitude with further descent to the escape fix altitude once it has been confirmed. After crossing the escape fix, the escape route vertical profile can be followed.
+In all cases, the FMS will be updated so the escape route is in the active flightplan. After crossing the escape fix, the pilots must follow the escape route lateral profile. In the depressuriation scenario, the vertical profile must also be complied with to ensure that the oxygen considerations are met. If the escape is being flown due to the loss of an engine, the vertical profile will be at the discretion of the crew on the provision that minimum altitudes are not compromised.
+Use of Automation
+To be effective, escape route profiles must be executed immediately in the event of engine failure or loss of pressurisation. To achieve this, the crew must be aware of the current escape fix, the appropriate direction of turn to be made in the event of an emergency and the initial safe altitude for an emergency descent. Escape route charts and their associated altitude profiles should be immediately available and, where possible, the escape routing should be pre-programmed into the Flight Management System.
+Most manufacturers and operators recommend that the autopilot be used for both an emergency descent and a drift down procedure. Appropriate use of the autopilot reduces flight deck workload and allows the crew to concentrate on accurately managing the escape profile. It also allows them to better manage secondary tasks such as as completion of checklists and coordination with ATC as well as providing time to consider the implications of the emergency. This is especially true during an emergency descent due to loss of pressurisation or in the event of an on board fire as the flight deck crew will be wearing oxygen masks.
+Related Articles
+
+Explosive Depressurisation
+Rapid Depressurisation
+Loss of Cabin Pressurisation
+Hypoxia
+Aircraft Pressurisation Systems
+Pressurisation Problems: Guidance for Flight Crews
+Drift Down Procedure
+Aircraft Oxygen Systems
+Chemical Oxygen Generators
+Altimeter Temperature Error Correction
+Mountain Waves
+Fire in the Air
+
+
+
+
+
+Categories
+
+
+General,
+              Controlled Flight Into Terrain,
+              Aircraft Emergency & Unusual Situations
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

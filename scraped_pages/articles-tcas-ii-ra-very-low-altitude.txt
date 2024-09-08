@@ -1,0 +1,120 @@
+TCAS II RA at Very Low Altitude
+
+
+
+
+
+
+
+
+
+
+
+  TCAS II RA at Very Low Altitude
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Reminder Message
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EUROCONTROL Mode S & ACAS Programme Reminder
+Recently, a report has been received of a case where a Airborne Collision Avoidance System (ACAS) II Resolution Advisory was posted at approximately 100 feet AGL. The technical cause appears to be related to a radio altimeter data malfunction. Radio altimeter data is used to recognise when TCAS is too close to the ground to issue RAs. Aircraft operators and flight crews are reminded that:
+
+TCAS II design progressively inhibits Resolution Advisories (RAs) depending on the height Above Ground Level (AGL) provided by the radio altimeter as follows:
+
+“Increase Descent” RAs are inhibited below 1,550 ft AGL (± 100 ft)
+“Descend” RAs are inhibited below 1,100 ft AGL (± 100 ft)
+All RAs are inhibited below 1,000 ft AGL (± 100 ft).
+
+
+If a “Descend” RA is in progress while the aircraft is descending through 1,100 feet AGL, the RA will change to an “Adjust vertical speed” RA.
+TCAS limitations are explained in JAA TGL 11 Rev1 Guidance For Operators On Training Programmes For The Use Of Airborne Collision Avoidance Systems (ACAS).
+
+Disclaimer
+© European Organisation for Safety of Air Navigation (EUROCONTROL) December 2007. This alert is published by EUROCONTROL for information purposes. It may be copied in whole or in part, provided that EUROCONTROL is mentioned as the source and to the extent justified by the non-commercial use (not for sale). The information in this document may not be modified without prior written permission from EUROCONTROL. The use of the document is at the user’s sole risk and responsibility. EUROCONTROL expressly disclaim any and all warranties with respect to any content within the alert, express or implied.
+
+
+
+
+Categories
+
+
+Safety Reminder Message
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

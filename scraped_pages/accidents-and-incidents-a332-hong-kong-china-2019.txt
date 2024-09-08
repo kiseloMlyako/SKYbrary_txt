@@ -1,0 +1,328 @@
+A332, Hong Kong China, 2019
+
+
+
+
+
+
+
+
+
+
+
+  A332, Hong Kong China, 2019
+
+
+
+
+
+
+
+
+
+Summary
+
+On 29 September 2019, an Airbus A330-200 received simultaneous indications of low pressure in two hydraulic systems soon after takeoff. An emergency was declared, and a return to land was followed by a stop on the runway due to a burst main wheel tyre. A manual valve for one of the hydraulic systems located in the left main gear wheel well had completely detached and impact-damaged a pipe in a nearby but separate hydraulic system. Both systems lost their fluid with valve detachment attributed to fatigue failure of the attachment screws, a risk addressed by an un-adopted non-mandatory Service Bulletin. 
+
+
+
+
+Event Details
+
+When
+
+29/09/2019
+
+
+
+Event Type
+
+
+AW,
+              LOC
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS A-330-200
+
+
+
+
+
+
+
+
+
+Operator
+
+Hong Kong Airlines
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Hong Kong International Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Denpasar/Ngurah Rai International Airport
+
+
+
+
+
+
+
+Actual Destination
+
+
+
+
+Hong Kong International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Climb
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+VHHH
+
+
+
+
+General
+
+Tag(s)
+
+
+              Air Turnback
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Significant Systems or Systems Control Failure
+          
+
+
+
+
+EPR
+
+Tag(s)
+
+
+              “Emergency” declaration
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Hydraulic Power,
+              Landing Gear
+          
+
+
+
+Contributor(s)
+
+
+              Component Fault in service,
+              Corrosion/Disbonding/Fatigue
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Aircraft damage
+
+Minor
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 29 September 2019, an Airbus 330-200 (B-LHA) operated by Hong Kong Airlines on a scheduled international passenger flight from Hong Kong to Denpasar as HX707 received simultaneous indications of low pressure in both its hydraulic systems whilst climbing in day VMC three minutes after takeoff. An emergency was declared and a return to land was followed by a stop on the runway due to a burst main wheel tyre. A manual hydraulic system ground service access valve located in the left main gear wheel well was found to have detached when all four of its securing screws failed. The valve had then impacted and ruptured a hydraulic line in a separate hydraulic system. Valve detachment was attributed to fatigue failure of the attachment screws.
+Investigation
+An Investigation into the Serious Incident was carried out by the Hong Kong Air Accident Investigation Authority (AAIA) in accordance with Annex 13 principles. Relevant data were successfully downloaded from both the CVR and the FDR and recorded ATC data were also available.
+Both pilots were qualified as captain on type but which one was in command was not recorded. The 45-year-old PF was occupying the left seat and had a total of 13,800 hours flying experience of which 3,632 hours were on type, and the 43-year-old PM in the right seat had a total of 12,291 hours flying experience of which 8,840 hours were on type. 
+What Happened
+Three minutes after takeoff from runway 25L at Hong Kong whilst passing 3,460 feet QNH, ECAM warnings and associated messages indicated that pressure in both the Green and the Blue hydraulic systems was low. The applicable Emergency Procedures were actioned, and an emergency was declared notifying the intention to return for a full emergency landing. After just over half an hour airborne with no further unanticipated developments, a normal landing was made on runway 25L. A No. 5 main gear tyre burst, which meant that the aircraft was stopped abeam taxiway J3. The runway then closed for more than an hour until all 280 passengers had been disembarked and the tyre replaced. The aircraft was then towed off the runway and taken to a parking bay for further inspection. 
+Why It Happened
+The A330 has three independent hydraulic systems: "Blue," "Green," and "Yellow," which all function at 3000 psi. Each of these systems has a Ground Service Manifold (GSM), which facilitates ground leak testing, and each GSM has three manual valves which control the flow of hydraulic fluid within it. On the aircraft involved, each of these valves was secured to its respective GSM by four screws. All four of the screws securing one of the Green system GSM manual valves were found to have broken and released the valve. The four screw heads and the associated lock wires were not recovered. The released valve had then impacted a hydraulic fluid pipe in the Blue system, causing it to leak at a similar rate to the Green system, rapidly disabling the function of both systems. The following illustrations show the two fluid leak origins and their relative location within the wheel well.
+
+The relative locations of the leaks from the two independent hydraulic systems. [Reproduced from the Official Report]
+
+Hydraulic fluid still leaking from the Green system in the absence of the service valve (remains of the broken screws are visible). [Reproduced from the Official Report]
+
+The damaged supply pipe in the Blue hydraulic system. [Reproduced from the Official Report]
+Since the aircraft antiskid system was powered by the two hydraulic systems which suffered simultaneous fluid loss, the antiskid function was no longer functional. This resulted in the burst of one aircraft tyre when the brakes were applied during the landing roll.
+The fracture surfaces of the broken screws were examined using a stereomicroscope and a scanning electron microscope (SEM) and subjected to Energy Dispersive X-ray Analysis (EDX), and the findings compared to those from undamaged examples of the same screws from other GSMs. All the broken screws showed that fatigue fracture had occurred, and some of the unbroken screws were found to have incipient cracks at a similar position to those in the broken screws. 
+It was found that many years prior to the event being investigated, the OEM responsible for the GSMs on the A330 begun receiving reports from some operators of external hydraulic leakages from GSMs. As a result, a 2007 Vendor SB had introduced new bolts with “enhanced mechanical properties and new chamfered washers to improve corrosion resistance and fatigue strength” compared to the screws originally installed. This Vendor SB was replicated by an Airbus SB which was also issued in 2007 (and revised and reissued in 2009) but not mandated. It was not voluntarily actioned by the then operator of the aircraft (Emirates), and this decision had not been reassessed by the current operator when it acquired the aircraft in 2018. 
+Whilst the Investigation was in progress, the operator checked the GSM attachment status of its other A330 aircraft and found one other, also previously operated by Emirates prior to the issue of the SB, which had its GSMs secured by screws. It was decided to implement the SB on both aircraft and this was promptly accomplished.
+The Causes of the investigated Serious Incident were formally documented as “the loss of the Green hydraulic system was caused by the complete detachment of one of the three manual valves in the Ground Service Manifold, due to the failure of the four attachment screws and the loss of the Blue hydraulic system was caused by the puncture made by the detached Green hydraulic manual valve.”
+A Contributory Factor was identified as “the attachment screws of the middle manual valve were broken due to fatigue failure”.
+Safety Action taken whilst the Investigation was in progress was noted to have included but not been limited to the following:
+
+Airbus issued an Alert Operators Transmission (AOT) which provided instructions to replace the manual valve attachment screws (P/N NAS1101-3H8).
+The Hong Kong Civil Aviation Department issued a Safety Information Bulletin to advise operators of the Airbus A330 of existence of Airbus SB A330-29-3104, which had been issued in 2007 to replace the attachment screws that had failed with bolts (P/N EWB0420D-3H-3) which had “enhanced mechanical properties”.
+The European Aviation Safety Agency (EASA) initially issued an AD which required repetitive replacement of the four manual valve attachment screws which failed, and then on 24 April 2020 issued another AD 2020-0093 applicable to A330 and A340 aircraft reliant on screws to attach the manual valve except those on which Airbus modification 58345 has been embodied in production to require repetitive or in certain cases immediate replacement of the four screws attaching the manual valve.
+Hong Kong Airlines enhanced their aircraft acquisition process regarding Service Technical Documents to require an extended review including analysis of all non-mandatory Service Bulletins to determine whether modifications not already in place should be adopted.
+
+The Final Report of the Investigation was completed in June 2022 and released online the following month.
+Related Articles
+
+Ageing Aircraft - Structural Failure
+Service Bulletin (SB)
+Hydraulic Systems
+Skid

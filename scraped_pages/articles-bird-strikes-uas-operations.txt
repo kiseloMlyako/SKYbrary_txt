@@ -1,0 +1,155 @@
+Bird Strikes in UAS Operations
+
+
+
+
+
+
+
+
+
+
+
+  Bird Strikes in UAS Operations
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Unmanned Aerial Systems 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+This article provides an overview of the risk of bird strike in the specific case of UAS operations.
+Specifics of UAS Compared to Manned Aircraft
+Currently, due to the specific-use cases of UASs, the following statements are often true:
+
+UASs tend to be smaller than manned aircraft (which makes them cheaper).
+Smaller size leads to limited fuel capacity, which in turn reduces available flight time.
+In order to reduce weight (and thus, increase flight time), composite materials are widely adopted. While these materials are used for manned aircraft as well, this is currently an exception rather than the rule.
+While the benefits of composite materials are numerous (they are lightweight, sturdy and resistant to occidation and corrosion), they behave differently to metals when hit by another object. There are two aspects of this:
+
+The response to low-speed impact can be extensive internal damage, which reduces the strength of the part but remains hidden as the covering surface may seem unaffected.
+The response to high-speed impact can be penetration and strength loss (as opposed to plastic deformation while retaining strength in metal parts).
+
+
+
+Specific Bird Strike Risks for UASs
+The risk of bird strike affects all aircraft, but there are some specifics when UASs are involved:
+
+Smaller UASs can be considered as threats or prey by (predatory) birds and can therefore be attacked.
+Due to the smaller size, a bird impact is more likely to result in loss of control, which can lead to personal injury or property damage.
+Depending on the place of impact, the bird strike can cause loss of control link. Depending on the circumstances, this may evolve into a collision with another aircraft or building. 
+
+Risk Mitigation
+The following measures can help reduce the risk of bird impact or mitigate the consequences:
+
+Bird-proofing, i.e. the process of making vulnerable surfaces more resistant to bird impact. This includes multiple iterations of designing and then testing various parts until satisfactory results are achieved, i.e. it is demonstrated that safe landing can be achieved after being struck by a bird anywhere on the structure at normal operating speeds. The process is similar to the one used for manned aircraft and is mostly suitable for larger UASs which are normally also subject to stricter regulations.
+Loss of control link can be mitigated by adding an autonomous program that is activated in such scenarios and performs a safe landing and/or flight to a suitable location.
+Avoiding bird locations, such as feeding grounds, and taking account of seasonal behaviour could be an option. UASs normally have more options for takeoff and landing, as opposed to large commercial aircraft.
+If feasible, planning the flights early in the morning reduces the chances of encounter as birds are generally less active at this time. This approach can sometimes be feasible in case avoiding bird locations altogether is not possible.
+Smaller UASs can be considered as a threat or prey by birds, therefore keeping a safe distance or flying away when approached by birds is the best option.
+
+
+
+
+
+Categories
+
+
+Unmanned Aerial Systems,
+              Wildlife Strike,
+              Airworthiness
+
+
+
+
+
+
+
+
+
+Related Articles
+
+Unmanned Aerial Systems (UAS)
+Aircraft Certification for Bird Strike Risk
+Autonomous Operations Basics
+Composite Airframe Ground Damage Risk
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,215 @@
+Landing Flare
+
+
+
+
+
+
+
+
+
+
+
+  Landing Flare
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Runway Excursion 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+The Landing Flare, in a fixed wing aircraft, is the transition phase between the final approach and the touchdown on the landing surface. This sub-phase of flight normally involves a simultaneous increase in aircraft pitch attitude and a reduction in engine power/thrust, the combination of which results in a decrease in both rate of descent and airspeed.
+Accident Statistics
+On a typical flight with a duration of 1.5 hours, the landing phase accounts for approximately 1% of the total time. However, according to the Boeing Aircraft Aviation Safety department (2022), within the period 2012-2021 most fatal accidents, in jet powered aircraft, happened in this phase of flight.
+Segments related to the Landing Phase
+According to the ICAO ADREP, the Landing Phase of flight includes two sub-phases, the flare and the landing roll. However, for the discussion purposes of this article, the Landing Phase of a fixed wing aircraft will be further segmented into the:
+
+Final approach
+Flare
+Touchdown and de-rotation
+Roll out and deceleration
+
+The approach and the roll out / deceleration segments are discussed at length in separate SKYbrary articles. With the exception of highlighting the interrelationships between those flight segments, they will not be examined in detail as part of this discussion.
+It should also be emphasised that, at almost any point during the final approach, flare or even touchdown, the pilot(s) might determine that the landing should not be continued and that a rejected landing should be carried out.
+Discussion
+One of the more difficult tasks that a pilot must routinely execute occurs during the brief transition between the final approach and first contact with the landing surface. This transition is known as the landing flare. The flare process requires that the pilot adjust the aircraft attitude and power settings from those maintained during final approach to values which are appropriate for landing. To be successful, these adjustments must occur at a height above the landing surface that will vary based on the size, weight and performance criteria of the aircraft and the prevailing environmental conditions. In many aircraft, pilots are required to make all height assessments based solely on external visual clues. A radio altimeter, when fitted, will provide an accurate height above the runway and can aid the pilot in determining the appropriate point at which to initiate the flare.
+If executed correctly, the flare will result in the aircraft achieving the appropriate landing attitude with power at or near idle, a reduced rate of descent and a decaying airspeed, all at a height varying from several inches to several feet above the landing surface (dependant upon aircraft type). If not executed correctly, the flare could result in a hard landing, the collapse of the landing gear, a tailstrike or in a runway overrun or excursion.
+Flare technique, and the amount of time prior to touchdown that the aircraft is maintained in the landing attitude to allow the speed to decay, varies from aircraft to aircraft. At one end of the spectrum are landings on an aircraft carrier in which the aircraft maintains the approach attitude and rate of descent until touchdown. For all intents, there is no flare and the landing gear design must be robust enough to ensure that no damage occurs because of the high rate of descent. At the other extreme are many light, general aviation, aircraft in which proper landing technique requires that the aircraft be held off the runway in the landing attitude until the speed decays almost to the point of aerodynamic stall. The majority of aircraft fall in between these extremes with touchdown occurring after the flare, power reduction and a brief hold off, at a speed well above Vs. Note that for these aircraft, intentionally holding the aircraft off of the runway for a protracted period in an attempt to achieve a smooth touchdown will result in a significant increase in landing distance and could lead to a tailstrike.
+Once the main landing gear is in contact with the runway, de-rotation should occur without delay and before decaying airspeed results in the loss of elevator authority. In all cases, appropriate roll out and deceleration procedures should be initiated immediately following the touchdown as dictated by the calculated stopping distance and the available runway.
+Threats and A&I Examples
+The landing flare is executed during a critical phase of flight and, except for autoland operations, is dependent upon the judgement, skill and experience of the pilot. There are numerous potential threats that can affect the outcome of the manoeuvre. These include:
+
+Excessive speed during final approach:
+
+B738, Mangalore India, 2010
+E145, Nuremberg Germany, 2005
+GLF4, Teterboro NJ USA, 2010
+
+
+Excessive rate of descent during final approach:
+
+MD11, Hong Kong China, 1999
+
+
+Initiating the flare at a height which is either too high (early flare) or too low (late flare):
+
+MD11, Riyadh Saudi Arabia, 2010: Late Flare
+B734, Amsterdam Netherlands, 2010 (1): Early Flare
+
+
+Insufficient flare which could fail to arrest the rate of descent or fail to achieve landing attitude prior to touchdown:
+
+A321, Manchester UK, 2008 (1)
+
+
+Overly aggressive pitch changes which could result in ballooning (altitude gain)
+Inappropriate power/thrust reductions including any one of, or combinations of, too early, too late, too little or too much:
+
+CRJ2, Providence RI USA, 2007: Early
+DH8D, London Gatwick UK, 2009: Early
+D328, Mannheim Germany, 2008: Too little, late
+
+
+Excessive hold off:
+
+CRJ7, Kanpur India, 2011
+MD11, New York JFK USA, 2003
+
+
+
+Effects
+The potential effects of an improperly executed flare are numerous and range from minor to catastrophic. Some of these effects and the threats with which they are associated are as follows:
+
+Exceedence of calculated landing distance - can result from excessive speed, an early flare, late or insufficient power reduction or an excessive hold off
+Touchdown with vertical speed in excess of limits (hard landing) - can result from an excessive rate of descent during final approach, insufficient flare, a late flare or from an early flare which is allowed to progress to a stalled condition
+Landing gear failure - can result from an excessive rate of descent during final approach, insufficient flare, a late flare or from an early flare which is allowed to progress to a stalled condition
+Tailstrike - can result from an overly aggressive pitch change or an excessive hold off
+Runway excursion - can result from any of the identified threats
+
+Defences
+Defenses against the identified threats are fairly simple and are relatively few in number. They include but are not limited to:
+
+Stabilised approach - a stabilized approach ensures that the airspeed is appropriate, the rate of descent is acceptable and that the flight path would terminate within the touchdown zone. If the approach is not stable, a missed approach should be executed.
+Flare height - flare initiation should be at the height recommended in the Aircraft Flight Manual (AFM). Adjustments for crosswind or wind gust conditions may be required.
+Pitch rate - the change from approach attitude to landing attitude should be accomplished at a rate which prevents ballooning but ensures landing attitude is achieved prior to touchdown. Excessive pitch should be avoided.
+Power/thrust reduction - should comply with the recommended values in the Aircraft Flight Manual (AFM). Adjustments for crosswind or wind gust conditions may be required.
+Hold off and touchdown techniques - should be appropriate for the aircraft type and should avoid excessive float.
+Roll out and deceleration procedures - should be initiated immediately following mainwheel touchdown.
+Appropriate intervention by the Pilot Monitoring (PM) which may include assistive call-outs, commanding a go-around or taking over control (to ensure a go-around is initiated and safely flown only; taking over control to complete the landing must be avoided!)
+
+Related Articles
+
+Cross Wind Landings
+Deceleration on the Runway
+Energy Management during Approach
+Hard Landing
+Flying a Visual Approach
+Landing Distances
+Landing on Contaminated Runways
+Low Level Wind Shear
+Rejected Landings
+Runway Availability
+Runway Excursion
+Runway Surface Friction
+Stabilised Approach
+Tailwind Operations
+
+Further Reading
+Boeing
+
+Statistical Summary of Commercial Jet Airplane Accidents Worldwide Operations 1959 - 2022
+
+Airbus
+
+Airbus Flight Operations Briefing Note: Landing Techniques/ Bounce Recovery - Rejected Landing
+Airbus Flight Operations Briefing Note: Landing Techniques/ Crosswind Landings
+Airbus Flight Operations Briefing Note: Landing Techniques/ Preventing Tailstrike at Landing
+
+
+
+
+
+Categories
+
+
+Runway Excursion,
+              Overrun on Landing
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

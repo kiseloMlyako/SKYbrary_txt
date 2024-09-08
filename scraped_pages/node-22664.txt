@@ -1,0 +1,153 @@
+Strategic Lateral Offset
+
+
+
+
+
+
+
+
+
+
+
+  Strategic Lateral Offset
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Separation 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Editor's note: NATS, in 2010, issued a reminder to operators using SLOPs in the North Atlantic, explaining the safety benefits of the procedure. Those benefits remain valid to date - see section Further Reading below.
+Impact of increased navigation accuracy
+The increasing accuracy of en route navigation on designated ATS routes has had the effect of increasing the probability of loss of separation:
+
+Between traffic which is not operating in accordance with the correct air traffic control clearance, or
+Where an error has been made in the issue of an air traffic control clearance, or
+In case of loss of vertical separation between aircraft on the same route, in particular where movements take place outside areas covered by ATC surveillance service. Such areas may be encountered during transit over oceans or remote continental areas.
+
+Route or track centrelines are now routinely flown over long distances to within a few tens of metres of lateral and vertical accuracy, and often much better than that, and therefore a clearance error from any source has a reduced margin for occurrence entirely attributable to that accuracy. This includes unplanned changes of level due to clear air turbulence and intentional variation in route to avoid the worst effects of wake vortex turbulence. The Mid-Air Collision which occurred in 2006 over Amazonia, Brazil between a BOEING 737-800 and an opposite direction EMB135 Legacy Business Jet occurred in the end because both were flying precisely on the centreline of the ATS route involved.
+Procedures
+According to ICAO DOC 4444 "PANS ATM" strategic lateral offsets should only be authorised in en-route oceanic or remote continental airspace. The routes or airspace where application of strategic lateral offsets is authorised and the procedures to be followed by pilots, should be promulgated in aeronautical information publications AIPs(s) by the concerned State(s) or, as applicable, by the authorised ANSP(s).
+Furthermore, PANS ATM specifies that the strategic lateral offset shall be established parallel to the designated ATS route at a distance of 1.85 km (1 NM) or 3.7 km (2 NM) to the RIGHT of the centre line relative to the direction of flight. These two "track" options become available in addition to the track centreline, not instead of it. All ATC route clearances are made without reference to the lateral offset option and flight crew do not need to obtain permission from ATC to use these offset tracks or advise ATC of their decision to do so. If there are areas of radar surveillance, within trans-oceanic or remote continental areas, designated for lateral offset procedures, then it is expected that aircraft will be allowed to initiate or continue offset tracking in exactly the same way as the rest of the designated area.
+If obstacle clearance considerations or other reasons apply, ANSPs are required to restrict the use of strategic lateral offsets. Lateral offset cannot be operated if parallel route centrelines are less than 30 nm apart.
+Aircraft flying offset tracks must have automatic offset tracking capability - something which is routinely provided in most modern Flight Management Systems. Flight crew are expected to determine the most suitable track using the best traffic information sources available to them. These may include RTF, ACAS, visual acquisition and ADS-B. Communication with other aircraft in the vicinity using the air-to-air frequency 123.45 MHz may also facilitate useful co-ordination.
+The advent of TCAS has provided an important safety net against loss of separation hazardous to aircraft safety, but still requires TCAS functionality on at least one aircraft of a conflict pair and properly function altitude encoding SSR function for both, which cannot be monitored by ATC in areas beyond radar cover, making the reduction of risk by lateral offset especially relevant. Position Reports by HF or by SATCOM through Oceanic Control Areas which are generally manned by non specialist staff provide only very limited tactical surveillance capability for ATC.
+The procedures to be followed when applying strategic lateral offset should not be confused with the weather deviation procedure. Note that these contingency procedures only apply if the crew is unable to obtain an ATC clearance to deviate for weather. In that circumstance, if a deviation of more than 5 nm from the ATS route centreline occurs during a tactical avoidance manoeuvre, standard risk management actions are prescribed. Aircraft on an easterly track clearance are expected to descend 300 ft if they have deviated to the left and climb 300 ft if they have deviated to the right. Aircraft on a westerly track clearance are expected to climb 300 ft if they have deviated to the left and descend 300 ft if they have deviated to the right.
+The North Atlantic Example
+One such example of the practical application of strategic lateral offset is the busy North Atlantic Ocean (NAT) track system, where flight crew have, since 2004, had the discretion to fly prescribed right hand offsets as generically described above whilst they remain within the oceanic area. The procedures currently detailed in Chapter 8.5 of the ICAO p NAT MPNS Airspace Operations Manual and NAT OPS Bulletin (see further reading), specify that all aircraft position reports shall be made by reference to the ATC-cleared track rather than actual co-ordinates if an offset is being flown and that only the centreline or offsets of up to 2nm (in 0.1 nm increments) right of the cleared track may be flown. The chosen offset (or centreline) track must be chosen tactically based upon a random approach subject to tactical considerations. Aircraft Operator procedures must not specify any of the three options for regular use unless an aircraft is without automatic offset programming capability in which case it must fly the centreline.
+Lateral Offset procedures, widely referred to as Strategic Lateral Offset Procedures (SLOP) are now a requirement for NAT airspace but must only be used within it. In practice, the theoretically ideal three way split between the centreline and the two prescribed offsets is not easily achieved, especially given that not all aircraft yet have automatic offset capability. UK ANSP NATS, which is one of the agencies involved in NAT ATS, has been routinely collecting data on offsets on behalf of ICAO since 2005, and its most recent data showed that 60% of traffic at longitude 30 degrees West was on the track centreline, 30% was offset at 1nm and the remaining 10% was offset at 2nm.
+Rules of the Air
+A provision in ICAO Annex 2 "Rules of the Air" requires that aircraft operating controlled flights shall, when on an established ATS route, operate along the defined centre line unless SLOPs are authorised on that route by the appropriate ATS authority, or directed by the appropriate air traffic control unit. The arrangements for the application of SLOPs are detailed in ICAO Doc 4444 PANS-ATM, § 15.2.4.
+Accidents and Incidents
+the following loss of separation events involved Lateral Offset in use:
+
+
+none on SKYbrary
+
+
+
+Related Articles
+
+Loss of Separation
+Mid-Air Collision
+
+Further Reading
+ICAO
+
+NAT Doc 007 - North Atlantic Operations and Airspace Manual
+NAT Ops Bulletin 2017-002_Revision 05 - OESB – Oceanic Errors
+ICAO Annex 2 Rules of the Air Chapter 3.6.2.1.1
+ICAO Doc 4444 PANS-ATM Chapter 15.2.4
+ICAO 2015 Annual Safety Report: NAT Region, 2016
+
+UK NATS
+
+'Don't let SLOP slip your mind', UK NATS communication to UK Operators, 2010
+
+
+
+
+
+Categories
+
+
+Loss of Separation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

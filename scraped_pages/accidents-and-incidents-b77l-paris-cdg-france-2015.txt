@@ -1,0 +1,343 @@
+B77L, Paris CDG France, 2015
+
+
+
+
+
+
+
+
+
+
+
+  B77L, Paris CDG France, 2015
+
+
+
+
+
+
+
+
+
+Summary
+
+On 22 May 2015, a Boeing 777F augmented crew attempted a reduced thrust daylight takeoff from Paris CDG using a thrust setting based on a weight 100 tonnes below the actual weight after an undetected crew error. The tailstrike protection system prevented fuselage runway contact after rotation attempts but only after a call from an augmenting crew member was full thrust set with the aircraft becoming airborne near the runway end. The Investigation noted poor crew performance but concluded that operator management of the risk involved and the corresponding regulatory oversight had been inadequate in a number of ways.
+
+
+
+
+Event Details
+
+When
+
+22/05/2015
+
+
+
+Event Type
+
+
+HF,
+              LOC
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+Not Recorded
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 777-200LR and 777-F
+
+
+
+
+
+
+
+
+
+Operator
+
+Air France
+
+
+
+Type of Flight
+
+Public Transport (Cargo)
+
+
+
+Flight Origin
+
+
+
+
+Paris/Charles de Gaulle Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Licenciado Benito Juarez International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Take Off
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+LFPG
+
+
+
+
+General
+
+Tag(s)
+
+
+              Extra flight crew (no training),
+              Inadequate Aircraft Operator Procedures,
+              Ineffective Regulatory Oversight,
+              Use of Erroneous Performance Data,
+              CVR overwritten,
+              Delayed Accident/Incident Reporting,
+              PIC aged 60 or over
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Pre Flight Data Input Error,
+              Procedural non compliance,
+              Ineffective Monitoring - SIC as PF
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Temporary Control Loss,
+              Incorrect Thrust Computed,
+              Incorrect Aircraft Configuration
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Non-aircraft damage
+
+Yes
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+Yes
+
+
+
+Ditching
+
+Yes
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Airworthiness
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 22 May 2015, a Boeing 777F (F-GUOC) being operated by Air France on a scheduled cargo flight (4U9525) from Paris CDG to Mexico City with an augmented crew commenced a daylight takeoff on runway 26R with thrust set for a takeoff weight of 243 tonnes instead of the actual weight of 343 tonnes. Automatic activation of the tail strike protection system during rotation was followed after no response from the operating crew by a call of "TO/GA" from one of the augmenting crew and the aircraft becoming airborne just before the end of the runway with an eventual resumption of a normal climb.
+Investigation
+An Investigation was carried out by the French Civil Aviation Accident Investigation Agency, the BEA. QAR flight data was used to assist the Investigation.
+It was noted that the operating flight crew consisted of a 63 year-old Captain with a total of 21,331 hours flying experience including 5,272 hours on type, a 45 year-old First Officer with a total of 9,717 hours flying experience including 1,328 hours on type who was acting as PF for the departure. The augmenting crew members, who assisted with preparations for the flight and were present on the flight deck for the takeoff, were a 51 year-old First Officer with a total of 11,662 hours flying experience including 2,156 hours on type and a 39 year-old First Officer with a total of 6,208 hours flying experience including 3,940 hours on type.
+What happened
+It was established that runway 26R would be used for takeoff with entry at the T12 intersection giving a 3735 metre TORA. The crew was aware that the takeoff mass was likely to be close to the MTOM of 347.4 tonnes. Whilst the two augmenting crew members carried out the external pre flight inspection and supervised the loading, the operating crew completed their flight preparation. Both pilots made the initial takeoff performance calculations in their respective EFBs but both entered the same erroneous payload value of 100 tonnes less than the actual payload and got a takeoff weight of 243 tonnes instead of the actual 343 tonnes so their subsequent cross check of their outputs did not evidence their error. The Investigation noted that in the absence of any CVR evidence, it was impossible to establish whether the two errors were unrelated or whether conversation between two pilots affected their independent calculations.
+The resulting EFB data, including a flex temperature of 37°C, a 5° flap setting and a V1 of 143 KIAS was then input to the FMS by the First Officer. Soon after this, the Captain reported having been surprised by the takeoff speeds which appeared on the FMS which were around 20 knots lower than he had been anticipating but the crew thought that the difference may be explained by instability in the fuel measurement probes. Whilst refuelling was being completed, and after the augmenting First Officers had returned to the flight deck, the operating First Officer gave the takeoff briefing and remarked in particular that “we are heavy”. The Captain was then presented with the final load figure and the First Officer then made a paper calculation to check it but used the same incorrect load figure as previously and therefore found that the takeoff weight was 241.5 tonnes, again 100 tonnes less than the actual figure. He announced that his finding was consistent with his previous calculation and the Captain, having compared the loadsheet figure with the figure displayed on the FMS also found a consistent comparison but at the correct weight since the FMS weight was calculated from the correctly-input ZFW (zero fuel weight) and the fuel load was automatically calculated by the aircraft.
+Once refuelling was complete, both pilots resumed setting up for takeoff and found that the previously displayed reference speeds were no longer visible. It was considered likely than when deleting routine CDU and FMS message ‘TAKEOFF SPEEDS DELETED’, which would have occurred as fuel loading took the actual weight above 330 tonnes, the crew were also likely to have deleted the message following which followed - ‘V SPEEDS UNAVAILABLE’ - “without paying particular attention to it”. None of the crew members understood why these speeds had disappeared and stated that attempts had been made to make the speeds re-appear by cycling the REF SPEEDS ON/OFF button without success. The Captain and First Officer then reinserted all the data into the FMS starting with the ZFW. When the reference speeds still did not appear, the takeoff speeds calculated on the EFBs were inserted, V1 = 143, Vr = 152 and V2 = 156 which were for use with flap 5. The correct figures would have been V1 =167, Vr = 175 and V2 = 179 for use with a flap 15 setting.
+The aircraft lined up on runway 26R and once in receipt of a clearance began takeoff. When the indicated Vr of 152 KIAS was reached, rotation was commenced but just after this, all the crew members reported sensing that the aircraft had sunk. Five seconds after the rotation had been commenced, at which point the Captain began looking outside, and with the wheels still on the ground, the tailstrike protection system was activated at its maximum authority, placing a limit of 10° on the pitch attitude which stabilised at 9°.
+Eight seconds after the activation of tailstrike protection, one of the augmenting First Officer’s called “TOGA” and full thrust was applied by the PF with the aircraft just airborne and at a height of 16 feet agl with a pitch attitude of 13° and with the speed accelerating rapidly through 189 KCAS. The Captain reported having been concerned about the height and low vertical speed and ordered an increase in the rate of climb to 1500 fpm. As this was done, the recorded pitch attitude increased to 16° and the aircraft crossed the end of the runway at 172 feet agl. The other augmenting crew member reported having monitored airspeed and assisted the PF in maintaining the airspeed above the minimum manoeuvring speed and within the indicated pitch limit. The Stall Protection System was not activated and the climb continued without further event.
+Subsequently, the crew considered several explanations for their experience and the error of 100 tonnes was discovered when the PF referred to his EFB. The PF continued in that role until passing FL200 when he was relieved. The crew reported having discussed whether a turn back was appropriate but it was decided not to as they all considered themselves fit to continue the flight, which was completed normally. Once parked, an external inspection confirmed that there had been no tailstrike and the Company is informed of the event.
+Observations on the actions of the crew
+The Investigation considered in detail the various errors of input and cross checking and the failure of the crew to detect the situation despite various available cues that an error had been made. The Air France SOPs relating to the pre flight calculations for takeoff were also examined. In addition, the failure to detect such a gross error when the figure, on which thrust and takeoff speeds were based was used, was 100 tonnes below expected was noted but could not be explained.
+It was considered that the failure of the twice-generated ‘V SPEEDS NOT AVAILABLE’ message to constitute an alert was likely to be attributable to the failure of Air France procedures and training to include any response to such messages which can indicate situations which may or may not be significant. It was noted that the same message on a 737 would ask a crew for verification of the inserted EFB data before takeoff would be possible. In the case of the 787, for which all the pilots involved were dual rated, it was noted that the FMS does not calculate reference speeds and there is no ‘V SPEEDS NOT AVAILABLE’ message. Instead, takeoff speeds are calculated on the EFB and a message ‘MIN V SPEEDS UNAVAILABLE’ associated with the message help ‘Unable to compute takeoff speeds for current conditions’ clearly informs the crew when the protection against the insertion of too low speeds is lost. This message cannot be deleted as long as the inserted values do not allow the calculation of take-off speeds and takeoff is not allowed.
+It was considered that the 8 second delay in deciding to set TOGA thrust once it was clear that some sort of parameter problem had affected the ability to get airborne was consistent with the context of surprise, a lack of understanding of the problem and the fact that the application of the full thrust push was not a unique and obvious solution.
+In respect of the decision to continue the flight, it was noted that there was a specific 'TAILSTRIKE' procedure which should be applied when the possibility of a tailstrike is suspected or proven and it requires, amongst other things, that a landing should be made on the nearest airfield. In the investigated case, the Captain stated that he had been “sure” that the tail of the plane had not touched the runway during takeoff and had therefore decided, in conjunction with the other crew members, to continue the flight as planned. However, it was considered that such situations required an analysis of the risks related to each option which may require outside assistance in order to guide the crew not only in respect of the decision to be made but also on the elements to be monitored in completing the flight in accordance with such a decision. It was noted that there was no such guidance or encouragement for crews to solicit help they may be able to benefit from and if the assessment of the situation is left to the crew, they may not be aware of everything they need to know to make an objective decision.
+Risk Management
+Air France had been aware of the potentially serious risk posed by crew errors in inputting takeoff performance data but much review of this risk over many years was found to have resulted in little change to procedures and significant weaknesses in their construction were considered to have remained. It was noted that some of the recommendations contained in the 2014 EASA AMC on the use of EFBs were relevant to this risk but had not been implemented by Air France in the period of a year between the issue of the AMC and the investigated event.
+It was noted that prior to the occurrence of the investigated event, the DGAC directorate responsible for civil aviation safety had “considered that Air France's procedures relating to the calculation and insertion of takeoff parameters were satisfactory”.
+Given the occurrence of many other similar events around the world and the repeated warnings that there is much evidence to show that procedural barriers against significant data input errors are not enough, the actions of other State regulators on the subject of the risk posed by crew errors in takeoff performance calculation and input were reviewed in some detail. It was concluded that the fact that so much attention had been devoted to ways to mitigate this risk over many years yet so little had been achieved was a global problem. The failure of a Transport Canada initiative to develop a Take Off Performance Management System (TOPMS) to yield anything, the focus of the FAA on improvements through new FMS rather than improvement of existing systems and the failure of EASA to provide a positive lead on any new system development were all seen as disappointing. However, the Take Off Safety (TOS) system developed by Airbus and fitted to the A380-800 was noted to have included various helpful features such as a check for consistency of masses and speeds inserted into the FMS.
+The Causes of this Serious Incident were formally documented as follows:
+
+The flight over the end of the runway at a low height during takeoff was the result of the takeoff being attempted on the basis of erroneous parameters (takeoff speeds too low and insufficient flap deflection and thrust).
+The erroneous parameters entered in the FMS and used for the takeoff were the result of a performance calculation based on a weight which was 100 tonnes below the actual weight of the aeroplane.
+The error of 100 tonnes occurred when each member of the crew estimated the planned weight and entered it in their EFB.
+
+Possible Contributory Factors in respect of the failure to detect the error and its propagation were identified as:
+
+The crew’s handling of takeoff weight data in numerous formats, on various media and with various denominations.
+The non-consideration of orders of magnitude partly related to the increasing use of performance optimisation tools.
+Insufficiently robust procedures including numerous basic checks, which incompletely take into account the operational context and how the crew works. These procedures are notably based on a double calculation which is supposed to be independent, whereas a simple verbalisation may undermine this independence. These procedures do not include a means of detecting gross errors or a simultaneous check of the three media using weight data (the Final Loadsheet, the Onboard Performance Tool and the FMS).
+The absence on this aeroplane, as on the majority of commercial air transport aeroplanes, of systems to detect or prevent such gross errors and to warn the crew of them, or of systems to warn the crew that the actual performance during the takeoff roll is insufficient to support the intended takeoff.
+
+Safety Action taken as a result of the event whilst the Investigation was in progress was noted to have included but not been limited to the following:
+
+Air France introduced modified procedures for entering takeoff parameters in the case of the Boeing 777 which required a consistency check between the various TOW values to be carried out before engine start.
+Air France updated its Training Manual to require that the Captain must share their Final Loadsheet data with the First Officer.
+the DGAC conducted a retrospective analysis of the procedures previously approved for use of EFBs which showed that they included requirements for both cross checks and gross error checks as suggested by EASA AMC 20-25.
+the EASA issued on 16 February 2016 a Safety Information Bulletin (SIB) 2016-02 on ‘Use of Erroneous Parameters at Take-off’.
+
+Ten Safety Recommendations were made as a result of the Investigation as follows:
+
+that Air France modify the media used (the flight file, the loadsheet and the EFB interface) during flight preparation in order to increase the consistency between the different weight denominations, formats and units handled by the crew. [FRAN 2018-016]
+that the DSAC (Civil Aviation Safety Directorate) assess the need for other French operators to modify the media used (the operational flight plan, the loadsheet and the EFB interface) during flight preparation in order to increase the consistency between the different weight denominations, formats and units handled by crews. [FRAN 2018-017]
+that Air France check, in operational conditions, the robustness of the procedures for calculating and entering takeoff parameters in order to take into account the constraints inherent in the flight preparation phase. [FRAN 2018-018]
+that Air France improve the provisions allowing crews to request outside help for decision-making regarding the continuation of the flight after the occurrence of an incident. [FRAN 2018-019]
+that Boeing, for all relevant in-service aircraft, update the operational documentation relating to the ‘V SPEEDS UNAVAILABLE’ message, in particular to indicate the conditions under which the message is displayed, the consequences (loss of the protection against entering speeds below calculated V1min, VRmin and V2min) and the action to be taken by crews if the message is displayed. [FRAN 2018-020]
+that Boeing, for all relevant in-service aircraft and as in the case of the Boeing 787, review the systems concerned so that they clearly alert the crew for as long as the calculation of the minimum take-off speeds (V1min, VRmin, V2min) and the associated protection are not available. [FRAN 2018-021]
+that the EASA, in the scope of an update of its impact assessment, assess the safety benefit of TOPMS-type systems, taking into account in particular of existing systems (Airbus TOM). [FRAN 2018-022]
+that the EASA, in the scope of an update of its impact assessment, assess the safety benefit of gross error detection/warning systems, taking into account in particular existing systems (Airbus TOS, Boeing FMS/EFB messages and protections, Lufthansa Systems LINTOP, etc.). [FRAN 2018-023]
+that the EASA in coordination with the FAA, encourage manufacturers to develop, for commercial aeroplanes which are the most prevalent and the most exposed to this risk, systems adapted to the characteristics of each aeroplane family, providing increased protection against the use of erroneous parameters at take-off. [FRAN 2018-024]
+that the EASA inform European national aviation authorities and operators about systems which exist or which are being developed for each aeroplane family which are likely to provide increased protection against the use of erroneous parameters at take-off. [FRAN 2018-025]
+
+The Final Report was published in English translation on 25 January 2019 after the initial and definitive publication in French on 21 December 2018.
+Related Articles
+
+Use of Erroneous Parameters at Take-Off
+Maximum Take-Off Mass (MTOM)
+Takeoff Run Available (TORA)
+Electronic Flight Bag (EFB)
+Flight Management System
+Thrust
+Flaps
+Reference Speed (Vref)
+Startle Effect
+
+Further Reading
+
+EASA SIB 2016-02: Use of Erroneous Parameters at Take-off, Feb 2016

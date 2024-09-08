@@ -1,0 +1,114 @@
+‘Climb’ RAs and Performance Limitations
+
+
+
+
+
+
+
+
+
+
+
+  ‘Climb’ RAs and Performance Limitations
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Nets 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+If an ACAS RA occurs when the aircraft is at the maximum altitude for its current weight, the pilots should not assume that they cannot comply with a climb RA because of that. In these cases it is acceptable and assumed that speed will be traded for height. Some aircraft types have built-in inhibits which will preclude Climb RAs at maximum altitudes.
+Whether or not inhibits apply, it is still possible in some cases for an RA to exceed the capabilities of the aircraft. If a Stall Warning is generated, it takes precedence over an ACAS RA. ACAS II will not make any aural TA or RA annunciations when a Stall Warning has been activated and it will automatically be placed into TA-only mode (the functionalities of TCAS traffic displayed will not be lost).
+Pilots must respond to all RAs a timely manner, applying the vertical rate required by the RA as accurately as possible in the circumstances and must never manoeuvre opposite to a RA.
+Further Reading
+
+Incorrect use of TCAS Traffic Display
+EUROCONTROL ACAS Bulletin 6
+
+
+
+
+
+Categories
+
+
+Safety Nets
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

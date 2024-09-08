@@ -1,0 +1,158 @@
+Aircraft Communications, Addressing and Reporting System
+
+
+
+
+
+
+
+
+
+
+
+  Aircraft Communications, Addressing and Reporting System
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Air Ground Communication 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Aircraft Communications, Addressing and Reporting System.
+Description
+ACARS (pronounced AY-CARS) is a digital data link system for the transmission of messages between aircraft and ground stations, which has been in use since 1978. At first it relied exclusively on VHF channels but more recently, alternative means of data transmission have been added which have greatly enhanced its geographical coverage. There has also been a rapid trend towards the integration of aircraft systems with the ACARS link. Both have led to rapid growth in its use as an operational communications tool.
+Modern ACARS equipment now includes the facility for automatic as well as manual initiation of messaging. ARINC guidelines have been defined for all the various avionic components of ACARS.
+Message Content
+ACARS messages may be of three types based upon their content:
+
+Air Traffic Control (ATC)
+Aeronautical Operational Control (AOC)
+Airline Administrative Control (AAC)
+
+ATC messages include aircraft requests for clearances and ATC issue of clearances and instructions to aircraft. They are often used to deliver Pre-Departure, Datalink ATIS and en route Oceanic Clearances. However, whilst the ACARS system is currently fulfilling a significant 'niche' role in ATC communications, it is not seen as a suitable system for the more widespread ATC use of datalink referred to as Controller Pilot Data Link Communications (CPDLC).
+AOC and AAC messages are used for communications between an aircraft and its base. These messages may be of standard form or as defined by users, but all must then meet at least the guidelines of ARINC Standard 618. Any message content is possible including such examples as:
+
+upload to the aircraft of final load and trim sheets;
+upload of weather or NOTAM information;
+download from the aircraft of status, position, eta, and any diversion;
+download of spot weather observations from aircraft sensors:
+download of technical performance data including automatically triggered exceedance or abnormal aircraft system status information, and
+'housekeeping' information such as catering uplift requirements, special passenger advice and ETA.
+
+Free Text messaging is also possible.
+The ACARS System
+When ACARS was first developed as an ATN component, it was modeled on the existing Telex System. As a consequence, the system architecture is based on three main components:
+The Aircraft Equipment
+ACARS equipment onboard an aircraft is called the Management Unit (MU) or, in the case of newer versions with more functionality, the Communications Management Unit (CMU). This functions as a router for all data transmitted or received externally, and, in more advanced systems internally too. The ACARS MU/CMU may be able to automatically select the most efficient air-ground transmission method if a choice is available. A flight deck printer will be provided and a cabin crew terminal may also be available. Flight Crew access to the ACARS system is usually via a CDU which, in more advanced systems, can be used to access up to seven different systems such as the FMS, besides the MU/CMU. Each system connected to the CDU generates its own display pages and accepts keyboard input when selected. Some EFBs may be used as a substitute for access via the CDU.
+The Service Provider
+A Datalink Service Provider (DSP) is responsible for the movement of messages via radio link, usually to/from its own ground routing system. ACARS messages are transmitted using one of three possible data link methods:
+
+VHF or VDL (VHF Data Link) which is line-of-sight limited
+SATCOM which is not available in polar regions
+HF or HFDL (HF Data Link) which has been added especially for polar region communications
+
+The main primary DSPs are ARINC and SITA. Until quite recently, each part of the world was covered by a single DSP but competitive offerings are now increasingly available.
+The Ground Processing System
+Ground System provision is the responsibility of either a participating ANSP or an Aircraft Operator. Aircraft Operators often contract out the function to either DSP or to a separate service provider. Messages from aircraft, especially automatically generated ones, can be pre-configured according to message type so that they are automatically delivered to the appropriate recipient just as ground-originated messages can be configured to reach the correct aircraft.
+
+
+
+
+Categories
+
+
+Air Ground Communication
+
+
+
+
+
+
+
+
+
+Related Articles
+
+Aircraft Meteorological Data Relay (AMDAR)
+SATCOM
+Controller Pilot Data Link Communications (CPDLC)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

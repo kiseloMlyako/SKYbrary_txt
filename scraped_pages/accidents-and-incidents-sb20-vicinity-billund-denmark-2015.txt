@@ -1,0 +1,336 @@
+SB20, vicinity Billund Denmark, 2015
+
+
+
+
+
+
+
+
+
+
+
+  SB20, vicinity Billund Denmark, 2015
+
+
+
+
+
+
+
+
+
+Summary
+
+On 10 December 2015, a Saab 2000 descended below the prescribed vertical profile in IMC during a LLZ-only approach to Billund. An EGPWS ‘PULL UP’ warning was followed by a go around instead of the prescribed response to such a warning. A minor level bust and configuration exceedance followed after which the aircraft returned to its departure airport. Prior to the LLZ-only approach, an attempt to continue with an ILS approach to the same runway with only a LLZ signal available had also ended in a go around. In both cases, there was a complete failure to maintain vertical situational awareness.
+
+
+
+
+Event Details
+
+When
+
+10/12/2015
+
+
+
+Event Type
+
+
+CFIT,
+              HF,
+              LB
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+IMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+SAAB 2000
+
+
+
+
+
+
+
+
+
+Operator
+
+Darwin Airline
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Berlin Tegel Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Billund
+
+
+
+
+
+
+
+Actual Destination
+
+
+
+
+Berlin Tegel Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Descent
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+EKBI
+
+
+
+
+General
+
+Tag(s)
+
+
+              Approach not stabilised,
+              Non Precision Approach,
+              Event reporting non compliant,
+              Destination Diversion,
+              PIC less than 500 hours in Command on Type,
+              CVR overwritten,
+              Delayed Accident/Incident Reporting
+          
+
+
+
+
+CFIT
+
+Tag(s)
+
+
+              IFR flight plan,
+              Into terrain,
+              No Visual Reference,
+              Vertical navigation error
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Fatigue,
+              Inappropriate crew response - skills deficiency,
+              Procedural non compliance,
+              Violation,
+              Ineffective Monitoring - PIC as PF
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 10 December 2015, a Saab 2000 (HB-IZW) being operated by Etihad Regional/Darwin Airline on a scheduled passenger flight from Berlin to Billund, Denmark, for Air Berlin as AB8054 discontinued an ILS approach made in day IMC after being unable to display the ILS glideslope signal in the aircraft. A subsequent LLZ-only approach also conducted in IMC deviated below the prescribed vertical profile and was not abandoned until an EGPWS ‘PULL UP’ warning occurred after which a standard go around was flown. The aircraft then returned to Berlin without further event.
+Investigation
+The event was only reported to the Swiss Transportation Safety Investigation Board (STSB) as State of the Operator when its seriousness became apparent after the flight had been routinely processed through the operator’s OFDM scheme. The STSB then advised the Danish AIB who in turn delegated the conduct of the Investigation to Switzerland and the STSB Investigation was opened on 21 December 2015. Relevant data from both the CVR and FDR had been overwritten but QAR data equivalent to that on the FDR was available.
+It was noted that the Captain, an Italian citizen born 1971, had a total of 8,022 hours flying experience which included 170 hours on type and the First Officer, an Austrian citizen born 1977, had a total of 12,100 hours flying experience which included 1,180 hours on type. The Captain had begun his 5 sector day in Prague at 0535L that morning and had operated a return flight to Berlin followed by a second Prague-Berlin flight. He had then been paired with a new First Officer for the Berlin-Billund return flight. It was noted that both pilots had held various flight operations posts at the airline although it was not clarified whether either of them held such a post at the time of the investigated event. It was also noted that the First Officer had previously been employed as Captain, but since 2010 had “had a history of shortcomings in the areas of systematics, communication and compliance with SOPs (which) the training department tried to correct through discussions and additional training”. However, after a line check in 2013, it had been decided he should only operate as a First Officer and this was still the case at the time of the investigated event.
+It was established that the flight had been cleared for an ILS approach to runway 27 at Billund and was descending to 2000 feet QNH on a radar heading of 290° to intercept the LLZ. At 9.4 nm from touchdown, the aircraft was established on the LLZ with the AP engaged. Although it initially indicated on the GS at 8.5 nm, the indication then began to fluctuate between full scale fly up and on the glideslope. The aircraft began to climb at 1900 fpm and the AP was disconnected but when it was re-engaged again less than a minute later, the fluctuations started again and continued so the AP was again switched off. The problem was reported to ATC who asked if they wanted to abandon the approach to which the response was that they would continue “up to the LOM” and ATC subsequently gave a landing clearance. ATC advised that as far as they were aware the ILS signals were being transmitted normally and when the crew responded confirming continued significant GS fluctuations, ATC responded by advising that the current cloud base was 600 feet agl.
+It was noted that the LOM (outer marker) position shown on the Jeppesen ILS chart in use at 3.4 nm from the landing threshold was 1374 feet QNH. The attempted ILS approach without a useable display of the ILS GS signal continued past this and the descent continued below this height well before reaching it. Finally, still in IMC, the approach was discontinued with ½ nm still to go until reaching the LOM position with the lowest point reached being recorded as 663 feet aal. The crew advised ATC accordingly saying that they would be following the prescribed missed approach procedure (stop altitude 2000 feet). In fact, the aircraft continued climbing to 2600 feet QNH before subsequently descending back to 2000 feet. This led to a rapid speed increase and resulted in the limiting speeds for gear operation and flight with land flap set being exceeded by 5 knots and 4 knots respectively.
+It was decided to make a second approach using the LLZ only procedure for which a short briefing was conducted. This included the Captain saying that, in accordance with the table on the approach chart, an average rate of descent of 750 fpm was to be expected for a ground speed of 140 knots. Passing 10 nm and level at 3000 feet QNH, the aircraft was fully configured for the approach with the AP engaged and the crew decided to initiate the descent 1 nm before the point of descent shown on the procedure chart. At 9.4 nm, the VS mode was selected and (contrary to the 750 fpm rate of descent briefed earlier) an 800 fpm rate was selected. Only at this point did the Captain notice that the approach plate did not have an altitude descent table and only gave two altitudes, that for the LOM and that for the MDA (550 feet). He therefore asked the First Officer “to keep an eye on the vertical profile” so that he could concentrate on monitoring the autopilot.
+During the descent, the PM reported having tried to “calculate the reference altitude for the correct glide path for a specified distance” but had been unable to do this because there was no DME information on the approach chart. He did not tell the Captain this or that as a result he was not monitoring the vertical flight profile, whereas the PF assumed that he was “and was therefore not doing it himself”. The aircraft continued to descend below the prescribed vertical profile at an increasing rate and at 5.5 nm from the runway and therefore still with just over 2nm to go until reaching the LOM, where “not below 1300 feet” was a requirement of the procedure, the aircraft was already at 1240 feet QNH and the radio altimeter-sourced auto callout of “one thousand” sounded. This did not alert either pilot to the situation and the next radio altimeter sourced auto call “five hundred” sounded 31 seconds later. Seven seconds after this, an EGPWS ‘TERRAIN AHEAD PULL UP’ warning was activated and the Captain, subsequently stating that he “had been about to initiate a go around anyway” responded by doing just that instead of immediately beginning the mandatory maximum rate climb required in response to any ‘PULL UP’ Warning. The lowest recorded height over the ground in IMC was 346 feet agl (see the illustration below).
+Overall, FDR data showed that the discontinued LLZ-only approach had been conducted at an almost constant vertical speed of 771 fpm and at a 4.2° angle of approach whilst maintaining approximately 140 KIAS and achieving an average ground speed of 103 knots.
+The crew decided to return to Berlin where they knew that a visual approach would be possible and this was achieved without further event and with no inaccurate indications during the ILS approach flown. On completion of the flight, they reported to their company that “they had to execute a go-around during the approach to Billund Airport due to receiving a false warning from the EGPWS” which was not interpreted as a potential Serious Incident requiring reporting action.
+
+The vertical profile flown by the aircraft compared to the specified LLZ-only procedure. The MDA is 550 feet (MDH 306 feet). [Reproduced from the Official Report]
+The Investigation was unable to find any evidence to corroborate the occurrence of or technically explain the reported extreme and persistent fluctuations in the display of the ILS GS signal on the aircraft flight deck. In particular, after the flight back to Berlin had been completed, no error messages were found on the Maintenance Diagnostic Computer (MDC) or the aircraft status display. Also, no faults were otherwise reported with the Billund ILS signal transmissions - which during the discontinued ILS approach had already led the crew to say they suspected an aircraft rather than an ILS signal transmission fault. It was also observed that “a faulty glideslope indicator generally has no influence on a localiser approach and is thus of no significance to the course of this serious incident”.
+In relation to the crucial failure of the crew to notice or otherwise comply with the Jeppesen chart minimum altitude for crossing the LOM on a LLZ-only approach which, in the complete absence of any vertical flight path monitoring by either pilot, had led directly to the subsequent EGPWS warning, the Investigation noted that contrary to some other such charts, there was no table of recommended altitudes at given distances to go. The only information provided was a table showing the appropriate vertical speed for a given ground speed plus the corresponding time from the LOM to the MAP. However, had this limited information table been used correctly by the crew, who were aware of the significant headwind component for their approach, they would have been led to select a rate of descent nearer to 550 fpm than the 800 fpm they eventually used - and would have then expected another half minute or so until reaching the MAP after crossing the LOM.
+In a review of the “human and operational aspects” of the event, the observations made included:
+
+During both approaches, the stabilised approach criteria for 1000 feet aal were not met and the mandatory go around specified in the operator’s OM was ignored.
+During the second approach, the PF relied completely on the PM to monitor the achieved vertical flight path whereas “the tasks of the PF include monitoring the lateral and vertical navigation and should therefore not be left entirely to the PM”.
+At no time during the approach was the current ground speed which is continuously available on both pilot NDs, considered.
+The response to the EGPWS ‘PULL UP’ Warning was contrary to the requirements of the company OM for a “maximum performance climb” to be made.
+According to the company OM, a monitored approach would have been possible. Use of this option might have increased the Captain’s mental capacity and thereby made it easier to effectively monitor the approach.
+The investigated event has shown that the four year attempt by the training department to correct the First Officer’s identified performance shortcomings through supporting measures “had not been successful”.
+As a result of late changes to his roster, the Captain ended up with a day off in Prague prior to the day of the investigated event whereas he had been previously rostered for the same day off in Berlin and had arranged a private appointment there on that day. He had therefore decided to fly to Berlin and back in order to keep the appointment and had not got back to his hotel until late that evening. This had reduced his sleep to “barely more than 5 hours (which had) possibly led to a dip in performance due to tiredness” on the following day.
+
+The Direct Cause of the Serious Incident was formally documented as “the crew’s poor monitoring of the vertical flight path, which led to the aircraft’s descent below the stipulated minimum altitude for a non-precision approach so that a safe clearance above obstacles was no longer guaranteed”.
+Three Contributory Factors were also identified as:
+
+Deficient approach planning with regards to the vertical flight path.
+Reduced performance of the pilot flying, probably due to tiredness.
+The absence on the approach chart of a distance/altitude table which impeded the monitoring of the approach and systematically contributed to the serious incident.
+
+. A Risk Factor was identified as “the procedure following an EGPWS Warning was not consistently applied”.
+Safety Action taken by the aircraft operator and known to the Investigation included but was not limited to the introduction of an additional challenge and response call to the SOP which already covered stabilised instrument approaches at 1000 feet aal, the PF call being “ONE THOUSAND” and the available PM responses either “ON PROFILE” or “GO AROUND”. The requirements for the “ON PROFILE” response included that the vertical position of the aircraft was to be within +/-1 dot for all precision approaches or within +/-100 feet of the defined steps for all non-precision approaches. This new 1000 feet call did not apply to Visual or Circling approaches.
+The Final Report was approved by the STSB on 13 November 2018 and published on 31 December 2018. No Safety Recommendations were made.
+Related Articles
+
+Level Bust
+Cross-checking Process
+Non-Precision Approach
+Stabilised Approach
+Instrument Landing System (ILS)
+Crew Resource Management (CRM)
+Monitored Approach
+Fatigue
+Response to a "PULL UP" Warning
+Missed Approach

@@ -1,0 +1,166 @@
+North Atlantic Operations - Communications
+
+
+
+
+
+
+
+
+
+
+
+  North Atlantic Operations - Communications
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+The airspace of the North Atlantic (NAT), which links Europe and North America, is the busiest oceanic airspace in the world. In 2012 approximately 460,000 flights crossed the North Atlantic and that volume of traffic continues to increase. Direct Controller Pilot Communications (DCPC) and ATS Surveillance are unavailable in most parts of the NAT Region. Aircraft separation, and hence safety, are ensured by demanding the highest standards of horizontal and vertical navigation performance/accuracy and of operating discipline.
+This article is intended to provide an overview of the communication equipment requirements and applicable procedures for the NAT region.
+Voice Communication
+Electromagnetic waves in the VHF band propagate in a straight line. Due to the earth curvature, it is often not possible to use it for communicaiton in some parts of the oceanic airspace. Therefore, alternative solutions need to be employed, e.g.:
+
+HF communication, which is based on ground waves (that are emited horizontally and follow the earth curvature) or sky waves (that are emited at a high angle and bounce back when reaching the ionosphere).
+Satellite communicaiton.
+
+Operations in the NAT outside VHF coverage require the carriage of two long range communication systems, one of which must be HF. The second one can be SATVOICE or CPDLC provided that the coverage criteria are met. For example, this is not the case with Inmarsat CPDLC or SATVOICE system when operating north of 80N.In certain situations waivers from the HF requirement can be requested, e.g. if the system is unserviceable and the aircraft is returning to the base for repairs. This is subject to approval from the area control centre (ACC) serving the route of flight provided the aircraft has at least two other appropriate long-range communication systems.
+Routine air-ground voice communications in the NAT region are conducted via aeronautical radio stations staffed by radio operators who are not air traffic controllers. The operators relay messages between the aircraft and the relevant oceanic ACC (note that CPDLC communicaiton is conducted directly between the air traffic controller and the aircraft). There are six radio stations in the NAT: Bodø Radio (Norway), Gander Radio (Canada), Iceland Radio (Iceland), New York Radio (USA), Santa Maria Radio (Portugal) and Shanwick Radio (Ireland). Radio stations are also responsible for the operation of General Purpose VHF (GP/VHF)outlets.
+Radio operators usually maintain a continuous watch on more than one frequency therefore it is useful for flight crews to state the frequency used when placing their initial call.
+Reykjavik centre operates a number of VHF stations in Iceland, Faroe Islands and Greenland. They provide tactical procedural control and ATS Surveillance services. The callsign used is "Reykjavik Control" (or just "Reykjavik") and indicates that the flight crew is communicating directly with an air traffic controller. Note that the callsign "Iceland radio" refers to the radio station manned by a radio operator who is only relaying messages.
+SELCAL
+Flight crews must maintain a continuous watch on the assigned frequency unless SELCAL equipped. In this case they should follow the following procedures:
+
+provide the SELCAL code in the flight plan (note that if the aircraft for a flight needs to be changed, either a new FPL or a CHG message must be filed containing the new registration and SELCAL code)
+perform a SELCAL check at or prior to entry into oceanic airspace
+maintain a SELCAL watch after successfully completing the SELCAL check
+
+Complying with these procedures is important even when SATVOICE or CPDLC are being used for routine air-ground communications as this ensures that ATC has a timely means of contacting the aircraft.
+SELCAL code assignment is predicated on the usual geographical area of operation of the aircraft. Therefore, in order to avoid duplication issues, the operator should contact the SELCAL Registrar and request an appropriate SELCAL code if flying beyond the area of normal operations.
+SATVOICE
+The Aeronautical Mobile Satellite (Route) Service, more commonly referred to as SATVOICE, can be used as a supplement to HF and CPDLC. The necessary phone numbers (of both radio stations and ACCs) can be found in the State AIPs. Since oceanic traffic typically communicates with ATC through radio facilities, routine SATVOICE calls should be made to such a facility rather than the ACC. Only when the urgency of the communication dictates otherwise should SATVOICE calls be made to the ACC. Note that HF propagation difficulties do not constitute urgency.
+The use of SATVOICE is described in ICAO Doc 7030 (Regional Supplementary Procedures). The provisions include that even when using SATVOICE, flight crews must simultaneously operate SELCAL or maintain a continuous watch on the assigned frequency.
+Data Link Communications
+Data link communications are used for position reporting (via ADS-C and CPDLC) and ATC communications using FANS 1/A CPDLC. CPDLC provides communication redundancy and controllers will in many cases use it even though the flight crew is maintaining a continuous watch on a direct controller-pilot VHF frequency. ADS-C furthermore enables ATC to perform route conformance monitoring for downstream waypoints.
+The aircraft data link system provides indication of any degraded performance which results from a failure or loss of connectivity. The flight crew should then notify the ATS unit as soon as practicable. Timely notification is essential to ensure that the ATS unit has time to assess the situation and apply a revised separation standard, if necessary.
+Similar to SATVOICE usage, flight crews electing to use Data link communications remain responsible for operating SELCAL, or maintaining a continuous on the assigned HF frequency.
+Flights equipped with CPDLC and/or ADS-C should ensure that they are logged on to the appropriate oceanic ACC. This applies even when the aircraft is provided with ATS Surveillance services. With the introduction of PBCS separation, establishing and maintaining a data link connection becomes evenmore important since an active data link connection is one of the requirements for the application of the separation. 
+Inter-pilot Frequency (123.450) and Emergency Frequency (121.5)
+The frequency 123.450 MHz has been established for world-wide use when aircraft are out of range of VHF ground stations. It is intended for pilot-to-pilot exchanges of operationally significant information and is not to be used as a "chat" frequency. In case of air-ground communicaions failure, 123.450 MHz may be used to relay position reports via another aircraft.
+The inter-pilot frequency (123.450 MHz) may also be used by flight crews to contact other aircraft when needing to coordinate offsets required in the application of the Strategic Lateral Offset Procedures (SLOP).
+The emergency frequency (121.5 MHz) should be continuously monitored by all aircraft so as to be prepared to offer assistance to any other aircraft advising an emergency situation.
+If necessary, initial contact for relays or offset coordination can be established on 121.5 MHz. Note that great care must be exercised in such cases as this frequency could be used by aircraft experiencing or assisting with an ongoing emergency. In order to minimise unnecessary use of 121.5 MHz, it is recommended that when possible aircraft additionally monitor 123.450 MHz.
+Further Reading
+ICAO
+
+NAT Doc 007 - North Atlantic Operations and Airspace Manual
+NAT Ops Bulletin 2017-002_Revision 05 - OESB – Oceanic Errors
+ICAO 2015 Annual Safety Report: NAT Region, 2016
+
+
+
+
+
+Categories
+
+
+General,
+              Air Ground Communication
+
+
+
+
+
+
+
+
+
+Related Articles
+
+North Atlantic Operations - Airspace
+North Atlantic Operations - Organised Track System
+North Atlantic Operations - Contingency
+North Atlantic Operations - Flight Planning
+North Atlantic Operations - ATC Clearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

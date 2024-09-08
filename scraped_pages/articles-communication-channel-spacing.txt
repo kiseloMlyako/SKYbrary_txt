@@ -1,0 +1,140 @@
+Communication Channel Spacing
+
+
+
+
+
+
+
+
+
+
+
+  Communication Channel Spacing
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Air Ground Communication 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Frequency spectrum is a limited resource. Due to the large number of available appications, it needs to be shared and thus, only a fraction is available for each type of use (e.g. air-ground communications, mobile communications, radio and tv broadcasting, etc.).On an global level, the ATC allocated frequencies in the VHF band range from 117.975 MHz to 137.000 MHz. In order to avoid interference (i.e. distortion in reception caused by two very closely spaced emissions), the frequencies are spaced in such a way that the closest two of them differ by at least a specified number of Hz (or kHz). The smaller the spacing, the more channels are available, but this requires more sophisticated equipment in order to avoid interference.
+Currently, two main spacing standards are used for VHF communication: 25 kHz and 8.33 kHz. The 25 kHz channel spacing was introduced in the 1970s and allows for a total of 760 frequencies (19 MHz x 40 channels per MHz). In order to provide global coverage, these frequencies need to be reused. However, as the range of the radio stations is typically much greater than the respective volume of airspace, this reusage needs to be carefully planned and frequencies are to be repeated at very large intervals. Thus, in busier airspaces (e.g. Europe) with a lot of ACC sectors and numerous aerodromes (which often need separate frequencies for tower, approach, ground, etc.), the 25 KHz spacing cannot provide sufficient number of frequencies. To overcome this, the 8.33 kHz spacing standard was introduced.
+With the 8.33 kHz spacing standard, each 25 kHz sub-band is divided into three, effectively almost trippling the number of available frequencies. This allows more sectors to be active at the same time, thus reducing controller workload and increasing airspace capacity.
+While the benefits of the 8.33 kHz spacing are obvious, and its implementation in busy airspaces is definitely necessary, there are some issues that need to be considered:
+
+Aircraft equipment. Older aircraft radios are build in accordance with the 25 kHz standard and are therefore unable to tune to the "intermediate" frequencies. That is, while e.g. 122.000 and 122.025 can be selected, this is not he case with the two intermediate channels (122.00833 and 122.0166). Furthermore, transmitting on 122.000 will cause interference of the two neighbouring 8.33 frequencies. Therefore, in order for the reduced channel spacing to work, the aircraft need to be equipped with suitable radios, either when being produced or by retrofitting.
+Sometimes it is necessary to keep 25 kHz frequency channels and a single 25 kHz frequency makes the two neighbouring 8.33 kHz frequencies unusable within certain range.
+Offset carrier systems for 8.33 kHz channel spacing are limited to two-carrier systems (by contrast, in 25 kHz systems 3-, 4- and 5-carrier systems can be used).
+
+Note: offset carrier systems are solutions used when the designated operational coverage cannot be ensured by a single ground transmitter (due to e.g. terrain) and, in order to minimise the interference problems, the signals from two or more ground transmitters are offset from the nominal channel centre frequency.
+In the EU, pursuant to Regulation 2023/1770, provisions are defined for aircraft radio equipage. In general, aircraft flying as GAT in the SES airspace of the EUR region must be equipped with 8.33 kHz capable radios (with some exceptions).
+Aircraft radios having the 8.33 kHz capability can be used in two modes: 25 kHz and 8.33 kHz. When a 25 kHz frequency is selected, the radio operates in 25 kHz mode, i.e. it uses a broader bandwidth. When an 8.33 kHz frequency is selected, the radio automatically swithes to 8.33 kHz mode, thus using a narrower bandwidth. It should be noted that the designation of a 8.33 kHz channel does not coincide with its operating frequency. For example, the 122.000 MHz frequency in 8.33 kHz mode is displayed as 122.005. This is also the way it is referred to in air-ground communication. The same 122.000 frequency can be used in 25 kHz mode and in this case it would be referred to as 122.000 (however, as mentioned above, this would render 122.0083 (designated 122.010) and 121.9917 (designated 121.990) unusable for neighbouring sectors and units). Therefore, if a pilot (incorrectly) tunes to 122.000 (instead to 122.005 as instructed by the air traffic controller), they will still be able to communicate but their transmissions may cause interference on the neighbouring 8.33 kHz frequencies and they may receive messages transmitted on those frequencies.
+To determine whether a particular frequency is 8.33 or 25 kHz, one may divide the kHz section by 25 and if the result is a whole number, then the frequency is 25 kHz. For example, 122.025, 133.700 and 128.050 are 25kHz frequencies and 121.005, 125.080 and 127.055 are 8.33 kHz frequencies.
+Further Reading
+
+ICAO Annex 10 volume III
+Regulation 2023/1770
+UK CAA CAP 1573: Conversion from 25 kHz to 8.33 kHz channel spacing 
+
+
+
+
+
+Categories
+
+
+Air Ground Communication
+
+
+
+
+
+
+
+
+
+Related Articles
+
+Air-Ground Communication
+Air-Ground Voice Communications
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

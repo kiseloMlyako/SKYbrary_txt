@@ -1,0 +1,173 @@
+GNSS Jamming and Spoofing
+
+
+
+
+
+
+
+
+
+
+
+  GNSS Jamming and Spoofing
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Jamming is an intentional radio frequency interference (RFI) with GNSS signals. This prevents receivers from locking onto satellites signals and has the main effect of rendering the GNSS system ineffective or degraded for users in the jammed area.
+Spoofing involves broadcasting counterfeit satellite signals to deceive GNSS receivers, causing them to compute incorrect position, navigation, and timing data.
+These issues particularly affect the geographical areas surrounding conflict zones, e.g. the Black Sea and the Middle East. It is not currently possible to detect affected areas from a distance making pilot reports the main source of information. Indications of possible GNSS RFI include:
+
+Onboard system indications (e.g. GNSS degradation messages, gross discrepancies between the aircraft's shown and expected position, suspicious time indications, etc.)
+Trajectory deviations or unexpected turns on the controller's situation display.
+
+Effects
+
+Unavailability of GNSS navigation.
+Unavailability of INS. Sometimes the false signal is of sufficient strength and integrity so as to fool the aircraft systems.
+Degradation of time-dependent systems, such as clock, fuel computation system, FMS.
+False EGPWS warnings (e.g. PULL UP alerts during cruise).
+Inability to use GNSS arrival and approach procedures.
+Erroneous runway HUD display on landing (e.g. the HUD shows the aircraft to be to the side of the runway when in reality it is aligned)
+Route deviations or uncommanded turns that can lead to
+
+Airspace infringement due to aircraft straying into other airspace or an SUA.
+Loss of separation with other aircraft.
+
+
+Aircraft shown at wrong position in case ADS-based surveillance is used. This may evolve in a false loss of separation/airspace infringement warning or an actual event not being detected.
+
+Defences
+At operational level:
+
+Fallback to conventional radio navigation (VOR/DME/ILS)
+Radar vectoring provided by air traffic control
+As a pilot: report any issues related to GNSS
+As a controller: maintain vigilance and consider the possibility of an erratic aircraft behaviour being result of GNSS interference
+
+At organizational level:
+
+Collection and analisys of reports
+Informing operators and crews about affected areas
+Assessing the risk of GNSS loss, e.g.:
+
+Effect on other systems requiring input from a reliable GNSS signal.
+When dispatching an aircraft with inoperative radio navigation systems in accordance with the MEL.
+
+
+Introducing appropriate procedures, i.e. instructing crews to perform specific actions when flying through affected areas or landing at affected aerodromes, e.g.:
+
+Switching off the "Terrain look ahead function" (in order to reduce nuisance alerts).
+Disabling GNSS position updates (so that the problem does not spread to other systems).
+
+
+Appropriate training of flight crews and air traffic controllers
+Maintaining awareness (e.g. informing personnel about the issue)
+Maintenance of ground navigation infrastructure (VOR/DME)
+Maintenance of appropriate surveillance coverage (radar/MLAT)
+System support for early discovery of aircraft deviation (e.g. RAM)
+
+Related Articles
+
+Global Navigation Satellite System (GNSS)
+Interference to GNSS Signals
+Strayed or Unidentified Aircraft
+Route Adherence Monitoring (RAM)
+
+Further Reading
+
+EASA SIB 2022-02R2: GNSS Outage and Alterations Leading to Navigation / Surveillance Degradation
+ICAO EB 2011/56: "Interference to Global Navigation Satellite System (GNSS) Signals"
+FAA SAFO 24002: Recognizing and Mitigating Global Positioning System (GPS) / Global Navigation Satellite System (GNSS) Disruptions, 25 Jan. 2024.
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

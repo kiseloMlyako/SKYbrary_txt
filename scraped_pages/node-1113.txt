@@ -1,0 +1,166 @@
+Aeronautical Fixed Telecommunication Network (AFTN)
+
+
+
+
+
+
+
+
+
+
+
+  Aeronautical Fixed Telecommunication Network (AFTN)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+A worldwide system of aeronautical fixed circuits provided, as part of the aeronautical fixed service, for the exchange of messages and/or digital data between aeronautical fixed stations having the same or compatible communications characteristics.
+Source: ICAO Annex 10 Vol II
+Description
+The AFTN uses two types of aeronautical fixed stations - AFTN communication centres and AFTN stations. The AFTN communication centre is an AFTN station whose primary function is to relay AFTN messages to or from a number of other interconnected AFTN stations.
+At the majority of aerodromes where ATS is provided, there is an AFTN station. A number of such stations grouped together and around an AFTN centre form an AFTN circuit.
+
+An example of an AFTN circuit
+Several AFTN communication centres, when connected to each other, form a network of fixed aeronautical telecommunication lines through which every AFTN station can be reached. Sometimes AFTN stations are connected to more than one centre or to other stations.
+
+An example of a network of AFTN centres
+The AFTN stations are connected using terrestrial or radio lines.
+AFTN Message Format
+AFTN messages consist of a heading, message text and an ending.
+The heading consists of:
+
+a heading line, containing message identificaiton
+an address line, containing a priority indicator and the AFTN addresses the message is to be sent to
+originator information, containing the filing time and the AFTN address of the sender
+
+The message text uses plain text (capital letters, numbers and special characters).
+The ending comprises twelve letter shift signals and is used as a message separation signal.
+AFTN Addresses
+An AFTN address comprises the following:
+
+the four-letter location indicator (as stated in ICAO Doc 7910);
+the three-letter designator identifying the organization (as seen in ICAO Doc 8585). If no such designator is allocated, YYY is used (YXY for military organizations). For aircraft in flight, ZZZ is used.
+an additional letter, representing a department within the organization. The letter X is used to complete the address when explicit identification is not required.
+
+Example: Address EBLGZTZX is decoded as location EBLG (Liège Airport), organization ZTZ (aerodrome control tower), additional letter X (explicit identification is not required).
+Message Categories and Priority Indicators
+The following categories are accepted for transmission by the aeronautical telecommunication service:
+
+Distress messages (priority indicator SS). This message category comprises messages sent by aircraft reporting that they are threatened by imminent danger and all other messages relative to the immediate assistance.
+Urgency messages (priority indicator DD). This category comprises messages concerning the safety of a ship, aircraft or other vehicles, or of some person on board or within sight.
+Flight safety messages (priority indicator FF) comprise movement and control messages (e.g. FPL, DLA, CNL, DEP, ARR, OLDI messages, etc.), messages by the operator that are of immediate concern to aircraft and some meteorological messages (SIGMET, special air-reports, AIRMET, volcanic ash and tropical cyclone advisories).
+Meteorological messages (priority indicator GG) comprise messages concerning forecasts (TAFs) and observations and reports (METAR, SPECI).
+Flight regularity messages (priority indicator GG) comprise e.g. messages concerning aircraft servicing, non-routine landings, aircraft arrival or departure, parts and materials urgently required for the operation of aircraft, etc.
+Aeronautical information services (AIS) messages (priority indicator GG) comprise messages concerning NOTAMs and SNOWTAMs.
+Aeronautical administrative messages (priority indicator KK) comprise messages regarding the operation or maintenance of facilities, the functioning of aeronautical telecommunication services and those exchanged between civil aviation authorities relating to aeronautical services.
+Service messages (priority indicator as appropriate). This category comprises messages originated by aeronautical fixed stations to obtain information or verification concerning other messages which appear to have been transmitted incorrectly by the aeronautical fixed service.
+
+Messages requesting information take the same priority indicator as the category of message being requested except where a higher priority is warranted for flight safety.
+The order of priority for the message transmission is:
+
+SS
+DD FF
+GG KK
+
+Related Articles
+
+Online Data Interchange (OLDI)
+Notice To Airmen (NOTAM)
+SNOWTAM
+
+Further Reading
+
+ICAO Annex 10 Vol II
+ICAO DOC 4444 PANS-ATM, Chapter 11
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

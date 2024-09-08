@@ -1,0 +1,301 @@
+GLEX, Biggin Hill UK, 2020
+
+
+
+
+
+
+
+
+
+
+
+  GLEX, Biggin Hill UK, 2020
+
+
+
+
+
+
+
+
+
+Summary
+
+On 17 September 2020, a Bombardier Global 6000 which had completed a circling approach to land at Biggin Hill in day VMC touched down with an inappropriate pitch and roll attitude which caused the right wingtip to contact the runway surface. The Investigation found that the landing technique just before touchdown was not in accordance with the manufacturer’s crosswind landing technique although the roll rate achieved could not be accounted for by the roll control input alone and was probably increased by localised wind velocity variations despite the absence of any such variations being reported by ATC.
+
+
+
+
+Event Details
+
+When
+
+17/09/2020
+
+
+
+Event Type
+
+
+HF,
+              LOC,
+              WX
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOMBARDIER Global Express
+
+
+
+
+
+
+
+
+
+Operator
+
+NetJets Europe
+
+
+
+Type of Flight
+
+Public Transport (Non Revenue)
+
+
+
+Flight Origin
+
+
+
+
+Edinburgh Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+London Biggin Hill Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Landing
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+EGKB
+
+
+
+
+General
+
+Tag(s)
+
+
+              Circling Approach
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Manual Handling,
+              Procedural non compliance
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Aircraft Flight Path Control Error,
+              Environmental Factors,
+              Extreme Bank
+          
+
+
+
+
+WX
+
+Tag(s)
+
+
+              Strong Surface Winds
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Aircraft damage
+
+Minor
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 17 September 2020, as a Bombardier Global 6000 (CS-GLD) being operated by Netjets Europe on a positioning flight from Edinburgh to Biggin Hill touched down at destination, the right wingtip touched the runway surface and was damaged although the landing roll was completed without further event and with no injuries to the four crew occupants.
+Investigation
+An Investigation was carried out by the UK AAIB based on relevant recorded data downloaded from the cockpit voice recorder (CVR)and flight data recorder (FDR). It was noted that the 50 year-old Captain had a total of 7,334 hours flying experience of which 2,422 hours were on type. Corresponding experience details in respect of the First Officer, who was PF, were not recorded. 
+What Happened
+It was established that the flight under investigation had been the second of the day and had followed a revenue flight from East Midlands to Edinburgh. The Biggin Hill METAR available at the time the approach was being briefed gave the surface wind as from 060° at a mean speed of 15 knots with runway 03 in use. Since there was no instrument approach procedure to that runway, the runway 21 ILS was initially followed with circling to runway 03 then made. The AP remained engaged until on base leg and the A/T remained engaged for the landing. The Captain used the HUD installed on their side only to monitor the approach in accordance with the applicable SOP. The runway 03 PAPIs were set to 4° and with no reported gusts, no increments were added to the calculated 117 knot VREF for a flap 30 landing. The approach conditions were light turbulence with no gusts reported by ATC.
+The Captain reported having observed during final approach that slight wind velocity variations were causing the aircraft speed to vary momentarily but only within +/- 2 knots of VREF. He also said that “as the aircraft passed over a valley just before the runway threshold, the airspeed increased to 8 knots above VREF but reduced again over the next 12 seconds". As the aircraft passed over the beginning of the runway (the landing threshold was displaced by 226 metres leaving a 1,555-metre LDA) the controller gave the surface wind as from 070° at 12 knots with the aircraft heading being maintained between 7° and 10° to the right of the runway centreline in order to compensate for the crosswind from the right.  
+As the aircraft passed 50 feet agl, the A/T retarded the thrust to idle and the Captain reported having noticed that the airspeed had appeared to drop rapidly. At 10 feet agl, FDR data showed that the airspeed was 5 knots below VREF and after it had passed the displaced threshold, it continued reducing to 10 knots below VREF. The Captain, who was monitoring the Flight Path Vector (FPV) displayed on the HUD, recollected thinking that the pitch attitude “seemed higher than normal”. Then, just before touchdown, the First Officer made a significant roll input to the right which, as the right bank angle increased rapidly in response, was quickly followed by a corrective opposite input. However, FDR data showed that at 1 foot agl, the airspeed was 10 knots below VREF, the nose-up pitch was 9° and the bank angle to the right was 8.5° and simultaneously with the right main landing gear touching down, the right wingtip contacted the runway. The landing roll was completed without further event and the aircraft taxied in to its assigned parking stand. A post flight examination of the right wing found structural damage to the underside of the winglet, the aileron, the wing leading edge and both outer canoe fairings.  
+Why it happened 
+A detailed examination of the FDR data showed that at 50 feet agl, speed was already three knots below VREF with aircraft heading 5° to the right of the runway centreline in the presence of an onboard derived wind which represented a 16.8 knot crosswind from the right. Two seconds later the aircraft descended through 30 feet agl and the pitch began to be progressively increased to 9.1° nose up. The aircraft then started began a roll left which reached a maximum of 4.4° at 20 feet agl and as this roll began, a right roll command to 34.7° was made and then immediately reduced to 24.2° as a right rudder input produced a deflection of 7.4° to the right. As the aircraft started rolling back to wings level, the right multifunction spoiler briefly deployed to 5° deflection before returning to the retracted position. Then, half a second before touchdown, the roll rate to the right increased to a peak of 14.3°/second which prompted an opposite aileron control input to 62.1° left. The right main gear touched down first with a recorded peak roll attitude of 8.5° to the right and a 9.1° nose-up pitch. 
+An interpretation of the FDR data was provided by the aircraft manufacturer who noted that until reaching 30 feet agl, although rudder deflection had ranged between 5.2° right and 4.9° left, there was no rudder pedal movement and this movement had been within the +/- 6.5° nominal authority of the yaw damper which was engaged.
+Further modelling by the manufacturer showed that “the aircraft rate of roll to the right just before the wingtip contacted the runway was not solely the result of the pilot’s flight control inputs” and whilst noting that “important external or other influences could have provoked the right roll to wing tip contact at touchdown” this could not be confirmed by the simulation. 
+The manufacturer’s FCOM was found to include the following guidance on crosswind landings:
+The recommended technique for approach is a wings level crab technique where the aircraft is pointed into wind to control direction. If a crosswind is present, as the flare is commenced, application of rudder is used to align the fuselage parallel with the runway centreline.
+As rudder is applied the aircraft will tend to roll in the direction of the rudder input. To counter this, simultaneous input of rudder and opposite aileron is required to keep the wings level. In this wings level condition, there will be some sideways drift. A slight, into wind, wing down should control this sideways motion.
+Excessive wing down can cause the wingtip to contact the runway. In order to minimise this possibility, the bank should be limited to less than 3 degrees and the touchdown should occur as soon as the aircraft is aligned with the runway. Prolonging the flare would increase the pitch attitude which brings the wingtip closer to the ground.
+The aileron input is required throughout the landing roll and the input should be increased as the airspeed decreases.
+Any lateral motion on final approach should be controlled using aileron inputs. The rudder should not be used to control lateral motion and should only be used in the flare to align the aircraft with the runway. The use of autobrake is recommended with strong crosswinds.
+It was noted that the operator and the manufacturer had previously been in contact about wingtip strikes after earlier wing tip strike events and near misses with the operator expressing concern that the down-going wing may be at risk of stalling in ground effect at a speed below VREF and contacting the runway. Both pilots stated that they thought that adding an increment to VREF during turbulence or crosswinds, even without gusts reported, might reduce the risk of wingtip strikes but when this view had previously been put to the manufacturer, it had not been supported for use in “smooth constant crosswinds or as a general procedure”. However, two months after the investigated event had occurred, the FCOM was amended to suggest that with the A/T engaged, adjusting VREF so that any speed fluctuations occur from above rather than below VREF and noted that “approaches in turbulent conditions may be treated similarly to gusty conditions (since) it is highly likely that turbulence and gusts may be coincident”. This new guidance made no distinction between the degree of turbulence and its applicability but suggested that the increment should match the number of knots below VREF being observed.
+The formally documented Conclusion of the Investigation was as follows:
+This Serious Incident occurred when large right rudder and roll inputs just before touchdown combined with unidentified external or other influences - likely to be localised wind or gust effects - to cause a rapid roll to the right and a bank angle which exceeded the recommended maximum of 3°. Despite a prompt and positive reversal of those inputs, the nose-up pitch attitude combined with the rate of roll reduced the wing tip clearance to the extent that the right wingtip contacted the runway surface.
+ 
+The Final Report of the Investigation was published on 8 July 2021. No Safety Recommendations were made.  
+Related Articles
+
+Wing Tip Clearance Hazard
+Cross Wind Landings

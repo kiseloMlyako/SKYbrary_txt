@@ -1,0 +1,309 @@
+Mitigation of Wake Turbulence Hazard
+
+
+
+
+
+
+
+
+
+
+
+  Mitigation of Wake Turbulence Hazard
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Wake Vortex Turbulence 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Encountering the sudden uncommanded roll which can be induced when an aircraft encounters wake turbulence from an aircraft on a similar track ahead, can lead to loss of control. Prescribed separation for aircraft, receiving an air traffic control (ATC) service, do not necessarily provide sufficient separation to remove the risk of loss of control.
+Under a system promulgated by the International Civil Aviation Organisation (ICAO), minimum separation between fixed wing aircraft on approach to land, or on take off into initial climb, are defined by the use of aircraft categories based on aircraft maximum take-off mass (MTOM) (see ICAO Wake Turbulence Category). This is generally judged to be a suitable proxy for the strength of the turbulence which may be created, behind large jet aircraft at relatively slow speeds, by the generation of wing tip wake vortices. The careful observance of these separation minima has prevented loss of control, as a consequence of wake turbulence encounters in the flight phases where they apply, but when they have been ignored, fatal accidents have followed sudden and rapid uncommanded rolls.
+Research has been ongoing for some years now to see if runway capacity can be increased by reducing the minimum aircraft spacings, which are required by the current ICAO system for airport arrivals and departures, without reducing the safety margin against loss of control below the safe limit. It may be possible to define the aircraft MTOM categories differently to achieve this. Work in this area is currently being undertaken as a joint EUROCONTROL/FAA initiative.
+Wake turbulence encounters in other flight phases have been recorded in controlled airspace at well above separation minima based on surveillance systems but have not, in recent times, led to the terminal loss of control of a large commercial transport aircraft. However, since these events often occur when cabin crew and passengers are moving about the cabin, injuries, sometimes serious ones, have sometimes resulted. To minimize the extent of this risk, many airlines specifically advise their passengers to ‘keep their seat belts fastened whilst seated even if the seat belt sign is off’. Although ICAO currently provides no guidance or procedures in relation to en route wake turbulence, in the UK, the NAA has specified separation minima for this case which must be applied by ANSPs. The requirement is that a minimum of 5 nm shall be maintained between a Heavy (including A380-800) and any lower category aircraft which is following or crossing behind at the same level or less than 1000 ft below. No special longitudinal wake turbulence separations based on time are required.
+ICAO Prescribed Separation Minima
+The ICAO minima are detailed and illustrated in PANS-ATM Doc 4444. They are defined for aircraft under ATC control which have not reported the preceding aircraft in sight and have been instructed to follow and maintain their own separation from that aircraft visually. If the latter occurs in the case of an IFR aircraft then the pilot-in-command of the aircraft concerned becomes responsible for ensuring that the spacing from a preceding aircraft of a heavier wake turbulence category is acceptable.
+The distance between two aircraft on arrival or departure is used where radar separation of traffic is being applied and the time between the successive passage of two aircraft at a point is used where procedural separation applies. Since relatively few airports routinely use separation based on surveillance systems for take off and initial climb, the practical effect of this distinction on IFR traffic is that wake turbulence separations between arriving aircraft are based upon distance and those between departing aircraft are by time interval - at rotation, since this is where wake vortices begin.
+Note: The separation minima described in this article are based on the aircraft categorization into 4 categories (Super, Heavy, Medium and Light). Additional minima are defined by ICAO in case wake turbulence groups A to G are used. The use of these groups is subject to the approval by the appropriate ATS authority.
+Minimum Distance Separation
+Minimum distances apply whenever:
+
+an aircraft directly follows another at the same altitude or less than 1,000 ft below it, or
+if both aircraft are using the same runway or parallel runways separated by less than 760 m or
+an aircraft is crossing behind another aircraft, at the same altitude or less than 300 m (1 000 ft) below.
+
+
+
+
+Preceding Aircraft
+Following Aircraft
+Minimum Separation
+
+
+
+
+SUPER
+HEAVY
+5.0 NM
+
+
+SUPER
+MEDIUM
+7.0 NM
+
+
+SUPER
+LIGHT
+8.0 NM
+
+
+HEAVY
+HEAVY
+4.0 NM
+
+
+HEAVY
+MEDIUM
+5.0 NM
+
+
+HEAVY
+LIGHT
+6.0 NM
+
+
+MEDIUM
+LIGHT
+5.0 NM
+
+
+
+See also guidance for aircraft following Airbus A380 aircraft
+Minimum Time Separation: Successive Landings or Full Length Take Offs
+Minimum time separation for arriving aircraft not radar-separated is:
+
+2 minutes for
+
+a MEDIUM aircraft behind a HEAVY aircraft
+a HEAVY aircraft behind a SUPER aircraft
+
+
+3 minutes for
+
+a LIGHT aircraft behind a HEAVY or MEDIUM aircraft
+a MEDIUM aircraft behind a SUPER aircraft
+
+
+4 minutes for a LIGHT aircraft behind a SUPER aircraft
+
+Minimum time separation for departing aircraft which are using:
+
+the same runway or
+parallel runways separated by less than 760 m (2 500 ft) or
+crossing runways if the projected flight path of the second aircraft will cross the projected flight path of the first aircraft at the same altitude or less than 300 m (1 000 ft) below or
+parallel runways separated by 760 m (2 500 ft) or more, if the projected flight path of the second aircraft will cross the projected flight path of the first aircraft at the same altitude or less than 300 m (1 000 ft) below.
+
+is 2 minutes between
+
+a HEAVY aircraft taking off behind a SUPER aircraft
+a LIGHT or MEDIUM aircraft taking off behind a HEAVY aircraft
+a LIGHT aircraft taking off behind a MEDIUM aircraft
+
+and 3 minutes between a LIGHT or MEDIUM aircraft taking off behind a SUPER aircraft.
+Minimum Time Separation: Intermediate Take Off After a Full Length Take Off
+Minimum time separation for departing aircraft which are using:
+
+an intermediate part of the same runway; or
+an intermediate part of a parallel runway separated by less than 760 m (2 500 ft).
+
+is 3 minutes between
+
+a HEAVY aircraft when taking off behind a SUPER aircraft
+a LIGHT or MEDIUM aircraft when taking off behind a HEAVY aircraft
+a LIGHT aircraft when taking off behind a MEDIUM aircraft
+
+and 4 minutes between a LIGHT or MEDIUM aircraft when taking off behind a SUPER aircraft.
+Minimum Time Separation: Mixed Arrival/Departure Use with Displaced Threshold
+Additional minimum time separations apply if the runway involved has a displaced landing threshold:
+
+2 minutes for:
+
+a departing HEAVY aircraft following a SUPER aircraft arrival
+a departing LIGHT or MEDIUM aircraft following a HEAVY aircraft arrival
+a departing LIGHT aircraft following a MEDIUM aircraft arrival
+a HEAVY aircraft arrival following a SUPER aircraft departure
+a LIGHT or MEDIUM aircraft arrival following a HEAVY aircraft departure
+a LIGHT aircraft arrival following a MEDIUM aircraft departure
+
+
+3 minutes for:
+
+a departing LIGHT or MEDIUM aircraft following a SUPER aircraft arrival
+a LIGHT or MEDIUM aircraft arrival following a SUPER aircraft departure
+
+
+
+Minimum Time Separation: Opposite Direction Use by Successive Aircraft
+The following minimum separations must be used for a heavier aircraft making a low or missed approach and when the lighter aircraft is using an opposite-direction runway for take-off or landing on the same runway in the opposite direction, or on a parallel opposite-direction runway separated by less than 760 m (2500 ft):
+
+3 minutes
+
+between a HEAVY aircraft and a SUPER aircraft
+between a LIGHT or MEDIUM aircraft and a HEAVY aircraft
+between a LIGHT aircraft and a MEDIUM aircraft
+
+
+4 minutes between a LIGHT or MEDIUM aircraft and a SUPER aircraft
+
+Prior Awareness of Aircraft Wake Turbulence Category
+To improve awareness of the applicable aircraft wake turbulence category, particularly if it is ‘Heavy’ the following related requirements are also included in ICAO air traffic procedures.
+
+The wake turbulence category of an aircraft should be included in the aircraft flight plan.
+For aircraft in the HEAVY or SUPER wake turbulence category, the word "Heavy" or "Super" is to be included immediately after the aircraft R/T call sign in the initial communication between such aircraft and ATS units.
+
+Helicopters
+Helicopters are also susceptible to the effects of wake turbulence from large fixed wing aircraft, and the separation requirements above apply equally to helicopters as well as fixed wing aircraft. No specific separation minima are considered necessary for helicopters because of the way they operate in relation to streams of in trail fixed wing aircraft.
+Helicopters also produce tip vortices when in flight. In forward flight, the downwash from the main rotor is transformed into a pair of trailing vortices comparable to the wing tip vortices generated by a fixed wing aircraft and there is some evidence that, for a given MTOM, these vortices are more intense than those from an similar-weight fixed-wing aircraft. It is therefore recommended that helicopters should be operated well clear of light aircraft when hovering or whilst air taxiing.
+Further Reading
+ICAO
+
+ICAO Doc 9426 Air Traffic Services Planning Manual, Part II, Section 5 gives detailed characteristics of wake vortices and their effect on aircraft.
+ICAO Doc 8643 Aircraft Type Designators lists the wake turbulence category for each fixed wing aircraft type.
+ICAO PANS-ATM-Doc 4444 specifies all minimum separation requirements defined specifically for wake turbulence purposes and has supporting illustrations of some of the cases.
+
+EASA
+
+Safety Information Bulletin No. 2017-10: En-route Wake Turbulence Encounters, 22 June 2017.
+
+Other
+
+Good Aviation Practice - Wake Turbulence by Civil Aviation Authority of New Zealand
+FAA "Pilot and Air Traffic Controller Guide to Wake Turbulence"
+
+
+
+
+
+Categories
+
+
+Wake Vortex Turbulence
+
+
+
+
+
+
+
+
+
+Related SKYclip
+
+
+
+
+
+
+
+
+
+ Read more
+
+
+
+
+En-route Wake Turbulence (SKYclip)
+
+
+
+
+
+
+
+
+
+Related Articles
+
+Wake Vortex Turbulence
+ICAO Wake Turbulence Category
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

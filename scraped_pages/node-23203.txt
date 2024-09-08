@@ -1,0 +1,224 @@
+Aquaplaning
+
+
+
+
+
+
+
+
+
+
+
+  Aquaplaning
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Theory of Flight 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ The Air Pilots
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Aquaplaning, also known as hydroplaning, is a condition in which standing water, slush or snow, causes the moving wheel of an aircraft to lose contact with the load bearing surface on which it is rolling with the result that braking action on the wheel is not effective in reducing the ground speed of the aircraft.
+Interestingly, Water Skiing was originally called Aquaplaning and was carried out on a simple board which underlines that the physics of aquaplaning works at very low speeds by aviation standards. Aquaplaning is also highly relevant to cars at speeds as low as 40 mph.
+The continued incidence of aquaplaning reduces the braking co-efficient to that of an icy or "slippery" runway - less than 20% of that on an equivalent dry runway.
+Causal Factors
+A layer of water builds up beneath the tyre in increasing resistance to displacement by the pressure of the wheel. Eventually, this results in the formation of a wedge between the runway and the tyre. This resistance to water displacement has a vertical component which progressively lifts the tyre and reduces the area in contact with the runway until the aircraft is completely water-borne. In this condition, the tyre is no longer capable of providing directional control or effective braking because the drag forces are so low. If such a runway surface state prevails, then flight crew are required to make their aircraft runway performance calculations using "slippery runway" data; this specifically allows for poor deceleration. They must also take account of crosswind component limits in the AFM which make allowance for less assured directional control.
+Aquaplaning can occur when a wheel is running in the presence of water; it may also occur in certain circumstances when running in a combination of water and wet snow. Aquaplaning on runway surfaces with normal friction characteristics is unlikely to begin in water depths of 3mm or less. For this reason, a depth of 3mm has been adopted in Europe as the means to determine whether a runway surface is contaminated with water to the extent that aircraft performance assumptions are liable to be significantly affected. Once aquaplaning has commenced, it can be sustained over surfaces and in water depths which would not have led to its initiation.
+In the case of the most common type of aquaplaning, called dynamic aquaplaning (see below), a simple formula (Horne's formula) exists for calculating the minimum groundspeed for initiation of this type of aquaplaning on a sufficiently wet runway based upon tyre pressure where V = groundspeed in knots and P = tyre inflation pressure in psi:
+V = 9 x √P
+This formula is based upon the validation of hydrodynamic lift theory by experimental evidence. For many modern tires the constant maybe closer to 6 or 7 rather than 9. With a typical tyre pressure of about 150 psi, √P will be 12.25 so aquaplaning is possible down to about 70 knots. The effect of the relationship demonstrated is that most jet aircraft, even relatively small ones, have a significant ‘window’ for the initiation of dynamic aquaplaning during a landing near to the maximum approved weight and an even larger one in the case of a high speed rejected take off. It assumes that tyre pressure and tread depth are both within allowable AMM limitations.
+Types of Aquaplaning
+
+Dynamic aquaplaning is that which does not begin unless the groundspeed as given by Horne’s formula above is exceeded. It leaves no physical evidence on tyre or runway surface.
+Viscous aquaplaning arises in the same way as dynamic aquaplaning, but only on abnormally smooth surfaces such as touchdown zones contaminated with excessive rubber deposits, where it may begin and continue at any ground speed. Typically, a small amount of water may mix with a surface contaminant. a significantly thinner layer of contaminant is required in the event of viscous aquaplaning, compared to that required for dynamic aquaplaning. It too leaves no physical evidence on tyre or runway surface.
+Reverted rubber aquaplaning occurs when the heat of friction from a locked wheel in contact with the surface causes the rubber to revert to its un-cured state and 'boils' the surface moisture into steam. The pressure of the steam raises the centre of the tyre off the surface whilst the edges remain in contact, forming a seal that temporarily traps the steam. The tyre will show clear evidence of rubber reversion and the runway surface will be clearly marked with the path of the wheels as a result of ‘steam pressure cleaning’ beneath the tyre. This is the only type of aquaplaning which leaves physical evidence on the runway surface. It was much more common before anti-skid units became widespread and usually only occurs to aircraft so fitted if an emergency brake, which is applied directly rather than through the anti-skid units, is used.
+
+Dry Runway Friction
+The friction status of a dry runway surface must be assessed periodically under the terms of ICAO TPN 13. It should also be re-assessed after any maintenance which might have affected the surface smoothness. Dry runway friction is directly related to the lesser friction when a runway is wet and this affects the braking coefficient. The ICAO guidelines are not prescriptive in detail and so a range of interpretations is possible. In particular, averaging of measured friction along a whole runway or even significant lengths of it can conceal considerable variation since averaging is not always associated with extremes or with general statistical measures of variation about such an average.
+Flight crew are aware that the Touchdown Zone (TDZ) on many runways can be affected to some degree by rubber deposits from landing aircraft. These deposits should be regularly removed to achieve a stated minimum dry friction level, but sometimes this may not happen and the actual surface friction in the TDZ can then be noticeably worse than along the rest of the runway. If a finding of low friction is made for the TDZ or any other part of a runway during regular inspections or a planned maintenance work then, unless rectification can be immediately achieved, NOTAM action to the effect that the runway is liable to be slippery when wet should be taken. Any such low friction condition is conducive to viscous aquaplaning beginning below the ‘aquaplaning speed’ and therefore ‘slippery runway’ landing performance data should be used. Crews should be wary of a contaminated Upwind or Stop End TDZ because this can cause a loss in braking just when the landing seems to have been safely completed and Reverse Thrust has been deselected. This may be Dynamic or Viscous aquaplaning.
+Runway Surface State
+The surface state of a wet runway can be assessed by either:
+
+the depth of water in the touchdown zone, or
+the measured or observed braking action.
+
+In some parts of the world, a standard terminology which describes a runway as dry, damp, wet, wet with water patches or flooded is in use; this is often found in association with the use of 3mm water depth over a significant part of the runway as the division between a normal runway and a contaminated one for aircraft performance purposes. It is the responsibility of the Airport Operator to communicate this information, or a local equivalent, to pilots; ATC are merely the means of communication. If ATC suspect that it is inaccurate or no longer valid, they may choose to give their own assessment made from the visual control room (VCR), but this should be prefaced by the qualification 'unofficial'
+It is unlikely that the actual depth of water on a runway will be passed to an aircraft by ATC; at present, equipment which takes tactical friction measurement on wet runways (as opposed to surfaces with frozen deposits) is rarely authorised for use, so the best information a pilot is likely to get prior to landing is an informal braking action comment made to ATC by a previously landed aircraft. This should be passed by ATC with the time of the report, the aircraft type which made it and any significant change in precipitation since it was received. Prior to takeoff, direct observation should enable the pilot to form a first-hand impression of the surface state and the extent to which water is present on it. This will be particularly important in the event of a rejected take off.
+The speed with which water drains from a runway surface is affected by the geometry of the surface and by whether or not it is grooved, or has a porous surface layer. Airport and runway licensing requirements limit the extremes of surface geometry, and exceptions allowed by an NAA should be published in the State AIPs from where they should be replicated as Notes in the commercially published Flight Guides used by most pilots on the flight deck. Even normal surface geometry may lead to unusual water depth variation if a significant crosswind component exists; the effect of this could be periods of asymmetric braking if one main gear assembly (likely to be the downwind one) is braking normally whilst the other is aquaplaning. Where an abnormal pavement geometry is promulgated, the potential effect of the exceptions on any intended landing or take off should be assessed at the time.
+It is widely recognised that the present arrangements for communicating likely runway braking action or actual surface friction measurements on wet runways are unsatisfactory and much attention continues to be given to developing an improved system.
+Defences
+Note: The AFM should serve as the overriding reference
+Avoiding Aquaplaning
+
+If there is any doubt as to the probable extent of water of depth greater than 3mm on the landing runway, then an alternative runway should be chosen…if possible. (In the real world if you are landing in very stormy weather all the runways that you have enough fuel to reach may be similarly affected).
+
+
+If the flight crew become aware, just before landing, that the depth of water on the runway, especially in the touchdown zone, has increased to an extent that aquaplaning is likely, then a go-around should be flown. If this circumstance is not apparent until touchdown, then, provided it is permitted by the AFM, the landing should be promptly rejected from the runway.
+
+
+If it is decided to continue an approach to a landing, a stabilised approach is required which results in the aircraft crossing the runway threshold at the correct airspeed and height so as to achieve a touchdown within the TDZ. This is especially important when the landing distance required is close to the landing distance available. Since heavy rain is usually accompanied by rough conditions, crews should ensure they allow sufficient time to establish a stabilised approach and recognise that sustaining it may be quite demanding.
+
+General Airmanship Considerations
+
+The pilot should be aware of the aquaplaning speed derived from the fully-inflated tyre pressure for both the maximum takeoff weight and maximum landing weight.
+
+
+Careful attention should be paid to the appearance of the tyres during the pre-flight external check, as far as is possible, especially the depth of tread. Even though having the tyre pressure within allowable limits is important, it can be extremely difficult to assess this visually on multi-wheel landing gear. (Note that if one tyre looks partially deflated it may be bearing the weight of the other tyre on the same axle which, with no pressure inside it to push the sides out, may not appear to be deflated.) Seek engineering advice if, after landing in heavy rain, there is any sign of rubber reversion
+
+
+The main gear touchdown on a wet runway should always be firm and made without any bounce in order to break through the surface water film and make effective contact with the runway surface to spin-up the wheels. (A stationary wheel can generate a wall of water in front of it on which it will aquaplane.).
+
+Braking, Spoiler Deployment, Thrust Reversers and Control Column Handling
+
+Once touchdown on all of the landing gear has been achieved and sustained, SOPs usually recommend application of positive forward control column pressure in order to reduce the wing incidence, and therefore the lift, and thereby to assist in imposing the full aircraft weight onto the landing gear.
+
+
+A significant crosswind component may result in a difference between the amount of weight transferred onto each main gear assembly. This is because, even with the wings being held level by into-wind aileron, fuselage shielding partly blanks the downwind wing. This increases the likelihood of difficulties with directional control in a situation where the possibility of transient differential aquaplaning may also exist.
+
+
+Where available, full reverse thrust or reverse pitch should be selected whilst the ground speed is still high in order to gain maximum effect. Crews must be careful not to become so pre-conditioned to delayed selection of only idle reverse thrust for noise abatement under normal conditions that they fail to select maximum retardation quickly when it is needed. Full ground spoiler deployment should also be made as soon as all wheels are on the ground if manual selection is necessary. Auto deployment of ground spoilers may be delayed until a specific wheel rotational speed, perhaps 25 kts, is sensed. Brake Units are likely to have anti-skid systems fitted so that any applied brake pressure by-passes the units until a specified wheel rotational speed is reached after touchdown. Typically, this could be 50 kts. Auto-braking selection should follow AFM requirements and Operator SOPs; manual braking may be inhibited until a specific time after the final touchdown is sensed. It is important to understand how each of these contributions to deceleration work so that if aquaplaning should occur, it is recognised as such rather than mistaken for a system malfunction. In very slippery conditions the Autobrake may appear to fail under heavy antiskid operation. Disconnecting the Autobrake prematurely is likely to increase stopping distance. Crews should be familiar with the indications of correct Autobrake/Anti-skid functioning, which is best learnt in the simulator.
+
+Recovery from Aquaplaning
+
+Aquaplaning should be avoided if at all possible because, once it has begun, there is no certain way of regaining control and establishing useful deceleration.
+
+
+In the case of continued aquaplaning, deceleration can be expected to correspond to that for a slippery runway with braking coefficient of around 0.05. Around 50% more stopping distance will be needed if thrust reversers are not available and around 25% if they are (since account is not taken of their effect for normal landing performance calculations). If Heavy Rain is forecast for departure or arrival, very careful consideration should be given before accepting an aircraft with reverser(s) locked out in accordance with the MEL.
+
+
+Prior to attempting a landing on a runway where aquaplaning is likely, check that sufficient 'slippery runway' landing distance exists so that a runway excursion will not follow if aquaplaning commences.
+
+
+If there is a significant crosswind component, a landing on a potentially slippery runway should not be attempted. AFM limitations usually impose specific restrictions on allowable crosswind component for this case.
+
+
+Apart from an immediate rejected landing where AFM limitations and Operator SOPs allow it, there is little that can be done if aquaplaning begins and continues. If manual braking is being used, then briefly releasing and then reapplying pressure may succeed in increasing braking effectiveness. However, under no circumstances (except gross malfunction) should anti-skid be disabled since hard braking on a wet runway without this protection is certain to lead to reverted rubber aquaplaning and a decrease in deceleration due to locked wheels.
+
+Example Accidents and Incidents
+
+B744, Bangkok Thailand, 1999 - On 23 September 1999, a Boeing 747-400 being operated by Qantas on a scheduled passenger service from Sydney Australia to Bangkok overran Runway 21L during an attempted night landing in normal visibility and came to a halt substantially intact 320 metres beyond the runway end.
+E135, George South Africa, 2009 - On 7 December 2009, after a relatively normal touchdown at destination in unexceptional daylight conditions, an EMB 135 being operated by South African Airlink on a scheduled passenger flight from Cape Town to George failed to decelerate normally and overran the end of the runway resulting in major damage to the aircraft and injuries to 7 of the 30 passengers on board and to all three aircrew.
+E145, Hannover Germany, 2005 - On 14 August 2005, an Embraer 145 being operated by British Airways Regional on a scheduled passenger flight from Birmingham to Hanover overran the wet landing runway by 160 metres in normal visibility after flying a daylight ILS approach with the approach lights visible from about 4 nm.
+
+Related Articles
+
+Tyres
+Brakes
+Runway Excursion
+Rejected Take Off
+Landing on Contaminated Runways
+Runway Surface Friction
+Deceleration on the Runway
+Global Action Plan for the Prevention of Runway Excursions (GAPPRE), 2021.
+
+Further Reading
+Flight Safety Foundation
+
+Reducing the Risk of Runway Excursions - Report of the Runway Safety Initiative
+Runway Excursion Risk Assessment Tool
+ALAR Briefing Note 8.5 Wet or Contaminated Runways
+ALAR Briefing Note 8.1 Runway Excursions and Runway Overruns
+Runway Safety Initiative Briefing Note: Pilot Braking Action Reports
+Runway Safety Initiative Briefing Note: Runway Condition Reporting
+
+HindSight
+
+HindSight7: 9vP and All That
+
+Netherlands National Aerospace Laboratory (NLR)
+
+"Running out of runway" Analysis of 35 years of landing overrun accidents 2005
+
+National Aeronautics and Space Administration (NASA)
+
+An Investigation of the Influence of Aircraft Tire-Tread Wear on Wet-Runway Braking, T. Leland and G. Taylor, NASA, 1965
+
+
+
+
+
+Categories
+
+
+Theory of Flight,
+              Veer Off,
+              Overrun on Landing
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

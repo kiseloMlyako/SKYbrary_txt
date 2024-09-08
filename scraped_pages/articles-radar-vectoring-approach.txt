@@ -1,0 +1,151 @@
+Radar Vectoring for Approach
+
+
+
+
+
+
+
+
+
+
+
+  Radar Vectoring for Approach
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Separation 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Vectoring. Provision of navigational guidance to aircraft in the form of specific headings, based on the use of an ATS surveillance system.
+Source: ICAO Doc 4444: PANS-ATM
+Description
+In addition to the uses described in the basic controller techniques article, vectoring can be provided to arriving aircraft for the purpose of establishing an expeditious and efficient approach sequence. This can be used as an alternative to standard arrivals when deemed appropriate by the controller. Examples of such situations are:
+
+Lack of an appropriate procedure, e.g. a situation where all standard arrivals are based on a particular NAVAID which is temporarily unavailable due to maintenance.
+The aircraft is unable to follow the standard procedure due to adverse weather.
+SUA activation (or some planned event) make it unsafe to use the standard procedures.
+An emergency or abnormal situation (either with the arriving aircraft or with another one).
+The controller believes that they can provide more efficient sequencing.
+Vectoring for approach normally includes the arrival, initial approach and intermediate approach phases. It starts at the TMA entry point and ends at a point where a the final approach (instrument or visual) can be commenced, i.e. when:
+the aircraft is established on the final approach path of a pilot-interpreted aid, or
+the pilot reports being able to complete a visual approach, or
+a surveillance radar approach can be executed, or
+the aircraft can be transferred to the precision radar approach controller.
+
+The approach controller must advise the pilot about the type of final approach and the runway when commencing the vectoring. Example phraseology:
+Pilot: HIGHTOWN APPROACH, ASB0409 DESCENDING TO 10000 FEET APPROACHING REKRA INFORMATION BRAVOController: ASB0409, HIGHTOWN APPROACH, RADAR CONTACT, VECTORING FOR ILS APPROACH RUNWAY 27 QNH 1013
+When providing vectoring for final approach, the controller provides, at own discretion, a series of headings appropriate to the situation and accounting for factors such as traffic and active SUAs. The final vector, however, is subject the following requirements:
+
+it must enable the aircraft to be established on the final approach track before intercepting the glide path
+the glide path must be intercepted from below (i.e. the interception can be performed in level flight)
+the intercept angle should be 45 degrees or less (i.e. the final turn should not be sharp)
+
+Whenever an aircraft is assigned a vector which will take it through the final approach track, it should be advised accordingly, stating the reason for the vector.
+Clearance for visual approach must be issued only after the pilot has reported the aerodrome (or the preceding aircraft) in sight, at which time vectoring would normally be terminated.
+While there are situations where vectoring for final approach is the better (or sometimes, the only) option, there are some aspects that a controller needs to consider when using this technique.
+
+Increased frequency congestion. Vectoring, especially when several aircraft are involved, requires several transmissions (and replies) per aircraft.
+ Instructions need to be issued at precise moments, or at least within relatively short time frames. Therefore, the controller needs to carefully plan their actions so that they are not pressed to do several calls at the same time.
+If the controller gets distracted or needs to focus on a particular situation, they may forget to issue the next heading instruction. The results of this may vary from extending the track miles (reduced efficiency) to a potentially unsafe situation (e.g. loss of separation or airspace infringement) as the aircraft would normally continue on the assigned heading until advised otherwise.
+Mishandled vectoring (e.g. inappropriate final heading) may lead to an unstabilised approach and a go-around which, in turn, would increase controller workload, reduce efficiency and may sometimes lead to unsafe situation (e.g. if the aircraft is low on fuel).
+
+Related Articles
+
+Basic Controller Techniques: Vectoring
+Instrument Approach Procedure (IAP)
+SIDs and STARs
+Clearances for Departing and Arriving Aircraft
+
+Further Reading
+
+ICAO Doc 4444: PANS-ATM
+
+
+
+
+
+Categories
+
+
+Loss of Separation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

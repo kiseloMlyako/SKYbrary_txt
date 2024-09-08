@@ -1,0 +1,166 @@
+Precision-Area Navigation (P-RNAV)
+
+
+
+
+
+
+
+
+
+
+
+  Precision-Area Navigation (P-RNAV)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Precision-Area Navigation (P-RNAV) is the European terminal airspace RNAV [1] application and it is the natural progression from Basic RNAV which became mandatory in European airspace in April 1998. The P-RNAV track keeping accuracy equates to cross track accuracy of RNP1 (+/- 1NM).
+Aircraft P-RNAV equipment automatically determines aircraft desired flight path by a series of way points held in a database. P-RNAV procedures are designed to a common set of design principles specific to RNAV equipped aircraft. These procedures will replace the current multitude of RNAV procedures many of which are unsuitable for a wide range of aircraft types. It is recognized that the existing variations in RNAV approval requirements, the variations in procedure design and procedure publication/charting, as well as the variations in navigation data integrity could have considerable safety implications.
+P-RNAV offers the ability to use RNAV functionality in all phases of flight except final approach and missed approach. It enables to define routes in the terminal airspace which meet the needs of the aircraft operators and the air navigation services provider. This often means shorter, more direct routes with simple connections to the en-route structure. However, where environmental issues play a major role, the route can be designed to make best advantage of the airspace available and, where possible, by-pass densely populated areas. Careful design can also result in appropriately segregated arrival and departure streams, thereby reducing the need for radar vectors and hence the workload for both the pilot and the controller. Fewer radar vectors also means less uncertainty on the flight deck with regard to the anticipated tactical route and the distance to go.
+It is expected that P-RNAV could make significant contribution to safety by:
+
+supporting the implementation of approach procedures designed to common set of parameters
+introducing predictable and repeatable flight paths for all aircraft types
+enabling aircraft to fly consistently to the pre-defined parameters
+ensuring that pilots and controllers have the same knowledge of intended flight path
+
+Difference between B-RNAV and P-RNAV
+Basic Area Navigation (B-RNAV) was the forerunner of the RNAV implementation in European Civil Aviation Conference (ECAC). Since 2008, B-RNAV in Europe and RNP 5 in the Middle East were supported in continental en-route airspace by RNAV applications. In the United States, RNAV 2 supports en-route continental airspace. B-RNAV was introduced to enable en route capacity gains to be achieved with minimal aircraft capability. It requires aircraft conformance to a track-keeping accuracy of +/-5 NM for at least 95% of flight time. This level of navigation accuracy is achieved by using Distance Measuring Equipment (DME)/DME, GPS or VHF Omnidirectional Radio Range (VOR)/DME.
+Implementation of P-RNAV
+A mandate for carriage of P-RNAV in the ECAC area is not foreseen. However European States will progressively introduce P-RNAV requirements for Terminal RNAV procedures. These procedures should be consistent in the various ECAC States, based on a common set of design and operation principles, ensuring consistent levels of flight safety.
+Since November 2005, aircraft operating on RNAV terminal area procedures in major ECAC terminal airspaces were subject to the following requirements
+
+For RNAV procedures which include route segments below the appropriate Minimum Flight Altitude (e.g. Minimum Sector Altitude (MSA); Minimum Radar Vectoring Altitude (MRVA)), P-RNAV approval will be required.
+For RNAV procedures which do not include route segments below the appropriate Minimum Flight Altitude (e.g. Minimum Sector Altitude (MSA); Minimum Radar Vectoring Altitude (MRVA)), and designed in accordance with en-route design principles, B-RNAV approval may suffice. Otherwise, except where explicitly stated that the carriage of P-RNAV certified equipment is not required, the only acceptable alternative for such RNAV procedures is P-RNAV.
+
+As of 2008, the United States terminal airspace application formerly known as US RNAV Type B has been aligned with the PBN concept and is now called RNAV 1. Basic RNP 1 has been developed primarily for application in non-radar, low density terminal airspace. In future, more RNP applications are expected to be developed for both en-route and terminal airspace.
+P-RNAV Approval Requirements
+The P-RNAV approval requirements are set out in JAA TGL-10. A number of questions have arisen regarding certain requirements expressed in TGL-10. To clarify these issues, and to provide further TGL-10 explanatory guidance, EUROCONTROL in co-operation with JAA have developed "P-RNAV Approval Guidance Information". Most modern aircraft can meet the airworthiness requirements for P-RNAV based on the criteria of TGL-10. Operators will need to provide pilot training, review Standard Operating Procedures (SOPs), and may need to update aircraft MELs to accommodate additional features of P-RNAV procedures.
+Further Improvements and Standardisation
+RNP-RNAV
+RNP-RNAV will be the final step toward achieving an area navigation system with functionality and integrity for all phases of flight and track keeping accuracy applicable to prescribed RNP (required navigation performance) values typically RNP 0.3NM and RNP 0.1 NM. No mandate is foreseen before 2015.
+ICAO's PBN Concept
+ICAO's Performance Based Navigation (PBN) Concept replaces the RNP concept of the 1990s. Consequently, much of the terminology associated with the RNP Concept (such as RNP Type and RNP Value) does not exist in the PBN Concept. While the expression RNP is still used in the PBN concept its only connotation relates to RNP specifications or applications requiring on-board-performance monitoring and alerting.
+The PBN Concept is comprised of three components: The Navigation Specification, the Navaid Infrastructure and the Navigation Application.
+The Navigation Specification prescribes the performance requirements in terms of accuracy, integrity, continuity and availability for proposed operations in a particular Airspace. The Navigation Specification also describes how these performance requirements are to be achieved i.e. which navigation functionalities are required to achieve the prescribed performance. Associated requirements related to pilot knowledge and training and operational approval. A Navigation Specification is either a RNP specification or a RNAV specification. A RNP specification includes a requirement for on-board self-contained performance monitoring and alerting while a RNAV specification does not.
+The Navaid Infrastructure relates to ground- or space-based navigation aids that are called up in each Navigation Specification.
+The Navigation Application refers to the application of the Navigation Specification and Navaid Infrastructure in the context of an airspace concept to ATS routes and instrument flight procedures.
+Related Articles
+
+Area Navigation Systems
+Operator Errors relating to P-RNAV operations - informing hazard analyses in support of safety case development
+Safety Argument for PRNAV in Terminal Airspace
+
+Further Reading
+EUROCONTROL
+
+Performance Based Navigation (PBN) Training Modules - v2.0 (2013)
+EUROCONTROL Navigation Domain website
+EUROCONTROL P-RNAV website
+Guidance notes for pilots - VOR/DME/ADF Navigation
+EUROCONTROL RNAV Approach Webpage
+European GNSS Contingency/Reversion Handbook for PBN Operations: Scenarios and Options. PBN Handbook No.6, Feb 2019
+
+ICAO
+
+RNAV to RNP Instrument Approach Chart Depiction, a presentation by ICAO, February 2016
+
+FAA
+
+FAA InFO 16020: Naming of Performance Based Navigation (PBN) Instrument Approach Procedures (IAP)
+
+Notes
+
+^ RNAV – A method of navigation which permits aircraft operation on any desired flight plan within the coverage of referenced navigation aids or within prescribed limits of self contained aids. RNAV operations permit flight in any airspace without the need to fly directly over ground based aids.
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

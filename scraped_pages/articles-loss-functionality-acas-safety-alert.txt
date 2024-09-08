@@ -1,0 +1,130 @@
+Loss of Functionality of ACAS Safety Alert
+
+
+
+
+
+
+
+
+
+
+
+  Loss of Functionality of ACAS Safety Alert
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Warning Message
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Background Information from NTSB
+
+A mid-air collision occurred in Brazil on 29 September 2006 in between a Boeing 737-800 and Embraer Legacy 600 business jet.
+The investigation of this accident is ongoing. However, preliminary findings suggest that a critical safety issue exists regarding the loss of functionality of an aircraft’s collision avoidance system (comprising a transponder and Airborne Collision Avoidance System (ACAS)) and associated cockpit warnings to flight crews.
+For a TCAS II equipped aircraft to provide a flight crew with collision avoidance information, the TCAS II unit and the transponder must be turned on, and the transponder cannot be selected to the STANDBY mode.
+If the transponder is not turned on and is not responding to interrogations, the aircraft’s TCAS cannot display information about potentially conflicting aircraft nearby nor can it provide instructions to the crew to resolve impending collision threats. Also, the aircraft will be invisible to TCAS II units of other aircraft in the vicinity. In addition, as the aircraft will not be tracked by ground-based secondary surveillance radars, it will be invisible to ATC.
+In many aircraft types, the only notification the pilots are likely to receive regarding the loss of TCAS functionality is a small, static text message on the pilots’ flight display that reads “TCAS OFF” (or similar). In the event of a TCAS failure, the warning “TCAS FAIL” would illuminate; the type of text message will vary depending on the reasons for the loss of function.
+Static text messages to indicate a loss of collision avoidance system functionality is not a reliable means to capture pilots’ attention because these visual warnings can be easily overlooked if pilots’ attention is directed elsewhere in the flight environment.
+Until this problem is systematically addressed by the manufacturers and airworthiness authorities, pilots’ attention is drawn to the lack of a conspicuous warning to indicate the loss of collision protection resulting from a compromise in functionality of either the transponder or TCAS unit.
+
+NTSB Recommended Actions
+
+All pilots who use transponders or transponder/TCAS units should ensure that they are familiar with the means currently used to indicate failure or lack of active functionality of these components.
+
+EURCONTROL Mode S & ACAS Programme Advice
+
+The relevant displays/indicators should be routinely scanned during the flight to monitor continued operation of transponder and TCAS.
+In a case when a failure message is detected, the crew should verify if the failure condition is still present if the second transponder is selected and, then follow the appropriate trouble-shooting procedures. As necessary, further action should be taken to initiate engineering rectification action.
+
+Reference
+
+United States National Transportation Safety Board Safety Recommendation A-07-35 through 37 of 2 May 2007.
+
+Disclaimer
+© European Organisation for Safety of Air Navigation (EUROCONTROL) May 2007. This alert is published by EUROCONTROL for information purposes. It may be copied in whole or in part, provided that EUROCONTROL is mentioned as the source and to the extent justified by the non-commercial use (not for sale). The information in this document may not be modified without prior written permission from EUROCONTROL. The use of the document is at the user’s sole risk and responsibility. EUROCONTROL expressly disclaim any and all warranties with respect to any content within the alert, express or implied.
+
+
+
+
+Categories
+
+
+Safety Warning Message
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

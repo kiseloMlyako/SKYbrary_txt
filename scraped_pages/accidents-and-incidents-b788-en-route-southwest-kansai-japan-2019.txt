@@ -1,0 +1,299 @@
+B788, en-route, southwest of Kansai Japan, 2019
+
+
+
+
+
+
+
+
+
+
+
+  B788, en-route, southwest of Kansai Japan, 2019
+
+
+
+
+
+
+
+
+
+Summary
+
+On 29 March 2019, both engines of a Boeing 787-8 on descent to Kansai malfunctioned in quick succession causing auto ignition to be triggered by sub-idle engine rpm but thereafter, sufficient thrust was available to safely complete the flight just under half an hour after the dual malfunction. The Investigation found that the cause of these malfunctions had been contamination of the fuel system with abnormally large concentrations of residue which could be reliably traced to a routinely applied biocide and which had solidified and intermittently impeded the transfer of fuel from the tanks to the engines.
+
+
+
+
+Event Details
+
+When
+
+29/03/2019
+
+
+
+Event Type
+
+
+AW,
+              LOC
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 787-8 Dreamliner
+
+
+
+
+
+
+
+
+
+Operator
+
+Jetstar Airways
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Cairns Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Kansai International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Descent
+
+
+
+
+
+
+
+
+Location
+
+Approx.
+
+49 nm southwest of Kansai Airport
+
+
+
+
+
+
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Loss of Engine Power
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Engine Fuel and Control
+          
+
+
+
+Contributor(s)
+
+
+              Maintenance Error (valid guidance available)
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 29 March 2019, a GEnx-1B powered Boeing 787-8 (VH-VKJ) being operated by Jetstar Airways on a scheduled international passenger flight from Cairns Australia to Kansai as JQ15 experienced the successive indications of uncommanded but transient complete rundowns of both engines during descent to destination in day VMC. While engine instruments continued to indicate continuing engine control issues, sufficient thrust remained available to complete the intended flight.
+Investigation
+The event was classified as a Serious Incident and an Investigation was carried out by the Japan Transport Safety Board (JTSB). The Investigation was confined to the airworthiness issues which had led both engines to malfunction and relevant data were downloaded from the Enhanced Airborne Flight Recorders (EAFR) and Airplane Condition Monitoring Function (ACMF) provided by the CPL (Continuous Parameter Logging) process. Flight crew statements were obtained to assist but the response of the flight crew to the situation they had been faced with was not considered. The 41year-old Captain was noted to have a total of 12,491 hours flying experience of which 2,102 hours were on type. It was clear from the outset that adverse environmental conditions had not been contributory to the engine malfunctions which occurred.
+What Happened
+It was established that, with a little over half an hour to go until the expected arrival of the flight at Kansai, the aircraft was descending through approximately 16,000 feet when the right engine instrument display became unstable and the EICAS caution message ‘ENG THRUST R’ and the EICAS status message ‘ENG CONTROL R’ were annuciated. These were followed one minute later by another EICAS status message - ‘ENG FUEL SPLIT VALVE R’.
+Four minutes after the first indications of an abnormal condition in the right engine, and with the aircraft passing approximately 12,000 feet, an ‘ENG FAIL L’ EICAS caution message briefly appeared and at a time which was subsequently found to have corresponded to an eight-second period during which the ACMF recorded a value below idle. The Captain reported that he had not noticed abnormal left engine parameters at this time. Then, almost immediately, an ‘ENG FAIL R’ EICAS message was annunciated but “disappeared after a while”. The time of this message was subsequently found to have been concurrent with that engine being at a value below idle for a period of 81 seconds. The Captain disengaged the right A/T and set the right engine thrust lever to idle in accordance with the applicable check list because he had observed indications of unstable parameters for the right engine. These right engine parameters continued to indicate an unstable condition until landing. Ten minutes after the ‘ENG FAIL R’ EICAS message had first appeared, an ‘ENG CONTROL L’ EICAS message was annunciated and after a further 11 minutes, a landing was made at Kansai.
+
+An annotated representation of the aircraft flight path during the engine malfunctions. [Reproduced from the Official Report]
+Why it Happened
+The EICAS messages which appeared in association with the engine malfunctions were all related to fuel flow:
+
+‘ENG FAIL L’ and ‘ENG FAIL R’ indicated that the engine concerned had run below idle speed and auto ignition had been activated to prevent flameout.
+‘ENG THRUST R’ indicated either that the engine was not producing the commanded thrust (N1) or was not responding normally to changes in the commanded thrust.
+‘ENG CONTROL L’ and ‘ENG CONTROL R’ indicated that the EEC may be operating with a limited set of engine control parameters and may not be capable of controlling all aspects of the engine.
+‘ENG FUEL SPLIT VALVE R’ indicated that the Fuel Split Valve spools had failed open or had closed or that either of the valve position sensors had failed in both channels.
+
+Recorded data showed that engine rpm oscillation of both engines had occurred three months earlier during the first flight after a routine biocide treatment and then again during engine starting and during the cruise on the investigated flight but had not been sufficiently significant to be noticed by the flight crew or sufficient to record the triggering of related EICAS messages. The oscillation only became sufficient to be noticeable when the ‘ENG FAIL L’ and ‘ENG FAIL R’ messages appeared in quick succession during the descent.
+A detailed examination of all engine fuel system components was undertaken and residue with a composition equivalent to that which would be derived from Kathon FP1.5 biocide was found in the fuel filters of both engines, although it was noted that some such residue is a likely consequence of normal biocide treatments.
+More exceptional was the finding that the FSV and VBV spools of both engines could not be moved due to deposits of the same residue (magnesium salts). Under normal conditions, an FSV spool can be moved on a test stand by a force of 0.5 lbs but in this case they could not be moved even when a force of 160 lbs was applied. The same residues were found on the FMV, HPT, ACC and VSV spools of the left engine only.
+The biocide treatment carried out in March had taken place in Auckland, New Zealand which had required the aircraft to be ferried there and then returned to Cairns after it had been completed. The AMM current at the time specified that either Kathon FP1.5 or Biobor JF could be used for the treatment and that a biocide treatment cart should be inserted into the fuel supply line to achieve a concentration of 100 ppm by volume. It was found that whilst there were maintenance records related to this biocide treatment work, these did not include either the calculation of the biocide concentration ratio for each tank or the quantity of biocide used.
+It was noted that the magnesium salts contained in Kathon FP 1.5 are insoluble in fuel but will dissolve in any water present in the fuel. Once so dissolved, they can then be precipitated or otherwise accumulate in spools within the engine fuel system. It was confirmed that the quantity of Magnesium salts deposited in the fuel system would be directly proportional to the biocide concentration ratio. Although fuel remained in all the aircraft tanks after the serious incident, when it was drained and multiple locations inside each tank were wiped with cotton swabs for testing, no microbial or biocide residue was found in either the tanks or the drained fuel.
+The Investigation found that there had been a number of other reported incidents attributable to excessive concentrations of Kathon FP1.5 biocide being used during routine anti-microbial treatment, all having used a concentration of 1000 ppm instead of the prescribed 100 ppm. The consequences in six of these cases had been that both engines could not be started on a twin-engined aircraft and in another that none of the engines could be started on a four-engined aircraft. However, Boeing provided data from operators which showed that in excess of 65 GEnx-powered aircraft had been subject to routine biocide treatment during the last five years without any related engine malfunction being reported.
+It was concluded that it was likely that fuel with a higher than specified concentration of biocide had not mixed evenly inside the fuel tanks before being delivered to the engines. This failure of the biocide and fuel to mix evenly inside the fuel tanks was considered to have been attributable to both the temperature and density of the fuel and the inner structure of the fuel tanks.
+The Probable Cause of the investigated engine malfunctions was determined as:
+“An oscillation in the engine rpm of each engine causing both engines to temporarily fall below idle at separate times because residue primarily composed of magnesium salts had accumulated in spools involved in fuel metering to both engines and impeded their normal function. The origin of the magnesium salts was a biocide at higher than normal concentration in the fuel following a routine biocide treatment two days earlier during which the biocide had not been mixed evenly with the fuel”.
+Safety Action taken as a result of this event and known to the Investigation was noted as having included but not been limited to the following:
+
+Jetstar Airways suspended biocide treatment using Kathon FP1.5 inside fuel tanks of its 787 aircraft and is reviewing maintenance procedures that occur infrequently to identify task- specific training opportunities for maintenance personnel based on the corresponding AMM procedures.
+General Electric issued SB 73-0086 R00 which recommended suspension of the use of biocide treatment using Kathon FP1.5 in aircraft fitted with GEnx engines.
+Boeing amended the 787 AMM to delete procedures for Kathon FP1.5 biocide treatment of aircraft fitted with GEnx engines and updated the AMM for all other aircraft types to explicitly describe the maximum allowable biocide concentration ratio and require the recording of the biocide amount calculated and the amount actually used.
+the Federal Aviation Administration (FAA) issued Special Airworthiness Information Bulletin (SAIB) NE-20-04 on 25 March 2020 on ‘Engine Fuel - Jet Fuel Biocide Additive’
+the European Union Aviation Safety Agency (EASA) issued Safety Information Bulletin (SIB) 2020-06 on 20 March 2020 on ‘Use of DuPont Kathon FP 1.5 Biocide’
+the Australian Civil Aviation Safety Authority (CASA) issued AWB 28-018 on 26 March 2020 strongly recommending the suspension of Kathon Biocide use for treatment of micro-biological growth in aviation fuel.
+
+The Final Report was adopted by the JTSB on 5 June 2020 and published on 25 June 2020. No Safety Recommendations were made.
+Related Articles
+
+Fuel Contamination
+Fuel - In-Flight Management (Abnormal Operations)
+Dangers of Flight with Power Below Flight Idle
+Engine Indicating and Crew Alerting System (EICAS)
+A321, vicinity London Gatwick, UK 2020

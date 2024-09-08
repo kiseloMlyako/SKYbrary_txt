@@ -1,0 +1,233 @@
+Sinus-arrhythmia
+
+
+
+
+
+
+
+
+
+
+
+  Sinus-arrhythmia
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Sinus-arrhythmia is the variation in heart rate. Empirical observations suggest that Sinus-arrhythmia is related to mental effort. It appears that when the controller is engaged in mental effort, the variation in heart rate is reduced.
+Discussion/References
+Sinus-arrhythmia is probably the most frequently used physiological measure of ‘strain’. It originated with Kalsbeek and Sykes’s (1967) observation that heart rate became more regular when mental work was being performed. Initially, various measures of heart rate irregularity were proposed, but following the work of Mulder and Mulder-Hajonides Van Der Meulen, (1973), and with the increased availability of computer analysis, a spectral analysis of heart rate is now preferred. The 0.1 Hz zone appears to be related to mental load.
+Boyce (1974) applied measures of heart rate and Sinus-arrhythmia to a laboratory task, and found that both were affected by mental load, but that minor physical effort also affected both measures.
+There are a number of problems with Sinus-arrhythmia.
+Practically, the heartbeat slows down when the chest is expanded. Experimental subjects in a laboratory are usually carrying out a manual response or control task, breathing at a regular rhythm. Controllers usually talk to each other or aircraft. Their bursts of speech come at irregular intervals, and are accompanied by intakes of air before speaking. This induces an irregular chest expansion, which may need to be measured so that its effects can be accounted for statistically.
+Heart rate is also affected by thermal changes, on a slower scale.
+Theoretically, there seems to be no convincing explanation why heart rate becomes more regular under mental load. Those that are provided seem more to be ‘a posteriori’ justifications.
+A good deal of effort, and much heated discussion has been devoted to devising some index of heart-rate behaviour that is sensitive to mental load (strain), without being affected by physical workload. In many practical cases, it may be unimportant to distinguish mental and physical load, if the overall effect is undesirable.
+Although sinus-arrhythmia is not now considered as an unique measure it is still regularly employed in filed and laboratory studies, usually in a spectral analysis form.
+See also
+
+Brooking et al (1996)
+
+
+
+
+
+Categories
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+Generics
+
+
+Type of method
+Electro-physiology
+
+
+Target of method
+Strain
+
+
+Electrophysiological measures inherently measure the state of the controllers’ physical processes, without regard to the ‘objective’ workload, and in consequence measure ‘Strain’.
+
+
+Time Scale of method
+Minutes
+
+
+Heart rates vary from about 40Hz to about 120Hz in relevant conditions. It takes some time for a change in circumstances to show up in heart rate measures, although an expected change may lead to an anticipatory change in heart rate.
+
+
+Portability of method
+No
+
+
+Electrocardiographic (ECG) measures require attaching the controller to a trolley of recording equipment. Although R/T or Infra-red free-movement systems are available, they suffer from transmission problems.
+
+
+Observer Effect
+No
+
+
+Electro-physiological methods in general are not usually subject to observer effects.
+
+
+Context of studies
+
+
+Laboratory studies
+Use
+
+
+ 
+
+
+Simulation studies
+Use
+
+
+ 
+
+
+Field studies
+Use
+
+
+ 
+
+
+Potential problems with the method
+
+
+Failure risk
+Moderate
+
+
+Any system involving skin electrodes may fail if the electrodes become detached. This is particularly likely to happen when the controller being measured makes sudden movements. Controllers tend to make sudden movements at moments of extreme strain, and to be particularly intolerant of interruption at such times.
+
+
+Bias risk
+Moderate
+
+
+There is always a danger that uncontrolled variables may produce a bias in the measurements. Sinus-arrhythmia can be induced by the expansion of the chest. (When the chest is expanded, the heart can expand further, so beats more slowly, inducing a cyclic variation at respiration rate (about 0.1-0.2 Hz). This, in turn, may be regular if the controller is simply thinking, or keying in information, but will be irregular if he is speaking on R/T or telephone.
+
+
+Ethical problems
+Medical
+
+
+Heart rate, or heart function, is normally used for medical diagnosis.
+
+
+Costs of the method
+
+
+Staff Cost
+High
+
+
+Electro-physiological methods usually need at least one post-doctoral level supervisor, plus one skilled technician per controller observed.
+
+
+Set-up Cost
+High
+
+
+All medical equipment is inclined to be expensive.
+
+
+Running Cost
+High
+
+
+Electro-physiological measures require the fitting of electrodes for each run. This is a time consuming business.
+
+
+Analysis Cost
+High
+
+
+Proprietary or specially developed software is usually necessary to analyse heart-rate data, particularly if intervening variables, such as chest expansion or body posture must be included. Rather than making a specific analysis for Sinus-arrhythmia, it is often preferable to carry out a Fourier Analysis, and apply comparative analysis to the peaks of the resulting power spectrum.
+
+
+Analysis data
+
+
+Analysis Speed
+Fast
+
+
+Given that the data are in digital form and that suitable software is available, ECG analysis can be sufficiently fast.
+
+
+Data Automation
+Used
+
+
+ECG data is usually collected using automatic recording systems.
+
+
+Analysis Automation
+Yes
+
+
+Most data analysis is more or less automatised in the current circumstances.
+
+
+Status
+Established
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

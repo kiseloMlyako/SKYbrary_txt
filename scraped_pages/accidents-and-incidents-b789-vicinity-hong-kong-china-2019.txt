@@ -1,0 +1,293 @@
+B789, vicinity Hong Kong China, 2019
+
+
+
+
+
+
+
+
+
+
+
+  B789, vicinity Hong Kong China, 2019
+
+
+
+
+
+
+
+
+
+Summary
+
+On 18 October 2019, a Boeing 787-9 descending to 4,500 feet to join the ILS for runway 25R at Hong Kong at 15 nm from touchdown failed to establish on the localiser. The autopilot was disconnected and the aircraft manually positioned onto the localiser from the north, establishing at 12 nm with terrain proximity not sufficient to activate the EGPWS. It was found that the deviation was attributable to an anomaly in the aircraft type Autopilot Flight Director System, and a corresponding Alert Service Bulletin was issued by Boeing to replace the faulty system component.
+
+
+
+
+Event Details
+
+When
+
+18/10/2019
+
+
+
+Event Type
+
+
+AW,
+              CFIT
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 787-9 Dreamliner
+
+
+
+
+
+
+
+
+
+Operator
+
+Virgin Atlantic
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+London Heathrow Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Hong Kong International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Descent
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+VHHH
+
+
+
+
+CFIT
+
+Tag(s)
+
+
+              Lateral Navigation Error
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Autoflight
+          
+
+
+
+Contributor(s)
+
+
+              OEM Design fault
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Airworthiness
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 18 October 2019, a Boeing 787-9 (G-VBOW) operated by Virgin Atlantic Airlines on a scheduled international passenger flight from London Heathrow to Hong Kong as VIR 206 failed to capture the ILS LOC for its final approach to runway 25R at destination in day VMC. After disconnection of the AP, the deviation to the north towards high terrain was corrected manually and the aircraft established on the LOC with the remainder of the flight being without further event. 
+Note: A third runway to the north of and parallel to the two runways which existed at the time of this event was being constructed at Hong Kong when this event occurred. It was completed whilst the Investigation was in progress and the original runway 07L/25R was then re-designated as 07C/25C in preparation for the commissioning of the new runway in early 2022.
+Investigation
+An Investigation into the Serious Incident was carried out by the Hong Kong Air Accident Investigation Authority (AAIA) in accordance with Annex 13 principles. Relevant ATC data was available and relevant aircraft operational data were recovered from both EAFRs. During replay of the CVR data, it was found that it was ‘frequently distorted’ with the cause of this subsequently identified as the pilot’s use of their headsets without windscreens in place over the microphones (see the illustration below). It was also found that no explicit guidance on the fitment of microphone windscreens had been provided by either the aircraft operator or the aircraft manufacturer, and the flight crew involved were unaware that the absence of windscreens was liable to compromise the quality of CVR recording on this aircraft type.  
+
+Pilot headset with microphone windscreen fitted. [Reproduced from the Official Report]
+The 54-year-old captain in command of the flight had a total of 20,980 hours flying experience, of which 3,210 hours were on type. The 50-year-old first officer had a total of 13,140 hours flying experience, of which 3,384 hours were on type. 
+What Happened
+Prior to departure of the flight from London, the crew were aware of previous cases of 787 ILS LOC capture anomalies described in a Company crew communication and had discussed the possibility that this might be encountered. The flight was cleared to join the runway 25R ILS LOC at waypoint ‘RIVER’ (at a range of 15 nm from touchdown) level at 4,500 feet (see the illustration below). Part way through the left turn to capture the ILS LOC, the turn stopped and the aircraft continued ahead and through the localiser. The AP was disconnected and the aircraft manually steered onto the localiser from the north. The AP was the re-engaged and the approach completed normally.
+
+An extract from the ILS 25R procedure chart with the red circle showing the waypoint ‘RIVER’. [modified from the full chart in the Official Report]
+
+The aircraft track as it overshot the ILS localiser and then established on it. [Reproduced from the Official Report]
+Why It Happened
+Evaluation of downloaded flight data showed that with the AP engaged, the armed LOC mode had become live approximately 15.5 nm from the runway threshold and shortly after the aircraft had began a turn to the left. As depicted below, the aircraft established a LOC intercept angle of approximately 043° with the AP "Consistent Localiser Capture" (CLC) sub-mode engaged, but a further left turn onto the LOC when the centreline neared did not occur. The CLC sub mode then appeared to have remained active until the crew disconnected the AP and took over control manually to return the aircraft to the centreline. It was noted that when the AP was in CLC sub mode, the FMA (flight mode annunciator) annunciation would have shown ‘LOC’ as the active mode. 
+While the initial left bank was slowly reducing to zero, the aircraft crossed the extended LOC track and 14 seconds later, the AP was disconnected. After a brief over-correction, the aircraft was re-established on the LOC from the south with about 11 nm to go and descent with the GS was then established.
+Within two months of the event, Boeing was able to reproduce the anomalies experienced in the events in Hong Kong and elsewhere in an engineering simulator. This simulation showed that “depending on the geometry and groundspeed of the approach, the CLC sub-mode might activate for such a short time that the three Flight Control Modules (FCM) would fail to synchronise the engaged AP roll mode." If this occurred, then the FCM "LOC armed" command might remain in CLC sub mode and fail to transition to the LOC capture mode. The consequence of this was shown to be the LOC intercept angle remaining at approximately 20° and the aircraft thereby flying through the LOC on this track without capture occurring, as had occurred in the event under investigation. It was also found that in some circumstances, the aircraft might begin descent “on” the glideslope while it was continuing to diverge from the LOC. It was concluded that the deviation under investigation had been the result of flawed software incorporated in the CLC.
+A solution was developed but it was not successfully flight tested until a year later, in December 2020, and the corresponding mandatory corrective action was published on 19 February 2021 for compliance within six months.
+The Cause of the investigated Serious Incident was formally documented as “the failure of software in the Consistent Localiser Capture (CLC) autoflight function in the aircraft’s Autoflight Flight Director System (AFDS)”.
+Safety Action taken whilst the Investigation was in progress and advised to it was noted to have included but not been limited to the following:
+
+Boeing issued an FCOM Bulletin on "LOC Capture Anomalies" to pilots with instructions on how to mitigate the consequences of them and issued an Alert Service Bulletin describing the action necessary to rectify the identified software anomaly.
+Virgin Atlantic Airways advised its pilots to use HDG mode when intercepting an ILS LOC and not to use LNAV, replaced all the existing Telex headsets with an alternative manufacturer’s active noise reduction equipment, and requested Hong Kong ATC to accept approaches to runway 25L so as to increase separation from high terrain.
+The Hong Kong Civil Aviation Department issued a NOTAM to draw the attention of pilots of aircraft arriving at Hong Kong to AIC 12/20 advising of the Boeing FCOM Bulletin on "LOC Capture Anomalies," advising caution regarding the possibility of an AFDS anomaly when capturing the ILS LOC at Hong Kong and requiring that “when in doubt, the aircraft shall be climbed back to MSA and conduct a missed approach”.
+The Federal Aviation Administration issued AD 2020-24-24 to mandate the change in the Operating Instructions in the Boeing 787 AFM and approved the certification of the software upgrade.
+
+Two Safety Recommendations were made as a result of the Investigation as follows:
+On 12 June 2020:
+
+that the Federal Aviation Administration (FAA) urge Boeing to suitably prioritise the development of a Flight Control Module software solution so as to achieve early rectification of the Boeing 787 localiser capture anomalies. [02-2020] 
+
+On Completion of the Investigation:
+
+that Boeing study the effects of the fitment of microphone windscreens to flight crew headsets on the quality of CVR audio recording and inform operators of the significance of the windscreen fitment if this study finds any adverse effects on CVR recording quality. [02-2023]  
+
+The Final Report of the Investigation was completed in March 2023 and released online shortly afterwards. Two Serious Incident Investigation Reports on ILS LOC failure to capture at Hong Kong were also published in March 2023 having established that the cause of all three events was the same.
+Related Articles
+
+Flight Director
+Automatic Flight
+Software Bugs and Contingency
+Instrument Landing System (ILS)

@@ -1,0 +1,225 @@
+Evoked Potential
+
+
+
+
+
+
+
+
+
+
+
+  Evoked Potential
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Traditionally, the traces obtained by Electroencephalography are analysed by Fourier analysis, which decomposes any signal into sine-wave components with varying frequencies. Evoked Potential employs an alternative method of analysis. This is based on repetition of a stimulus, so that systematically recurring effects in the brain can be identified by averaging multiple runs.
+Discussion/References
+When a stimulus is presented to a subject, systematic variations can be observed in the potential at the surface of the head in response to the stimulus, over the following second. Because there is a lot of ‘noise’, it is usual to apply the stimulus repeatedly, and average the resulting record. The early parts of the record are exogenous (related to the physical characteristics of the stimulus, frequency, duration, etc.) but the later parts are endogenous (corresponding to the response to the signal.) The most prominent effect is a positive wave occurring approximately 300 ms after the stimulus – the P300 wave. The P300 occurs only if the subject actively processes or attends to the signal. (Duncan-Johnson and Donchin, 1977)
+During EEC studies, CEP (cortical evoked potential) was studied using the ‘oddball paradigm’, where the controllers were presented with a signal through earphones. 50 of the 150 tones presented were high, the rest low. The controllers were required to count the number of high tones. The average time-dependent difference was derived as a continuous plot. The size of the P300 peak indicates the extent to which the controller can spare attention to carry out this task. In Cabon et al 1997, there was a strong difference between CEP recorded at rest before the simulation, and CEP taken during the simulation. The controllers, however, were reluctant to accept CEP measures during experimental runs, since they interfered physically and mentally with the control task. It was also possible to see a significant difference in the P300 wave after high-load and low-load exercises. The P300 was less marked after heavy-load exercises, corresponding, possibly, to a fatigue effect.
+CEP is clearly a potentially useful method, but it is, in this form at least, time-consuming and intrusive. During real-time simulation runs, controllers were unwilling to devote the necessary time for CEP runs after the exercise, when they were required to attend briefings, etc.
+It may be possible, given suitable software linkages, to identify ‘embedded’ stimuli for CEP. Such stimuli would need to be extremely accurately and consistently timed for synchronisation with the EEG record. Wastell et al (1981) applied this technique, measuring the CEP response to ringing tones in telephone operators, but finding no significant differences between the cord and cordless exchanges they were investigating.
+
+
+
+
+Categories
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+Generics
+
+
+Type of method
+Electroencephalography
+
+
+Evoked potential studies require the identification of a repetitive stimulus. Recordings normally range from just before the stimulus to a few seconds after.
+
+
+Target of method
+Strain
+
+
+Time Scale of method
+Minutes
+
+
+Portability of method
+No
+
+
+It is sufficiently difficult to obtain EEG readings under laboratory conditions, and usually requires a trolley of equipment for each individual.
+
+
+Observer Effect
+No
+
+
+The activity recorded by EEG measurements is not normally under the control of the controller.
+
+
+Context of studies
+
+
+Laboratory studies
+Use
+
+
+ 
+
+
+Simulation studies
+Use
+
+
+ 
+
+
+Field studies
+Avoid
+
+
+ 
+
+
+Potential problems with the method
+
+
+Failure risk
+High
+
+
+ 
+
+
+Bias risk
+High
+
+
+ 
+
+
+Ethical problems
+Medical
+
+
+We do not examine EEG records for traces of abnormality, which is the proper study of the medical profession.
+
+
+Costs of the method
+
+
+Staff Cost
+High
+
+
+Electroencephalography usually needs at least one post-doctoral level supervisor, a skilled EEG technician and one specially trained observer per controller observed.
+
+
+Set-up Cost
+High
+
+
+EEG requires expensive equipment, and considerable preparation before each exercise.
+
+
+Running Cost
+High
+
+
+EEG tends to require specialised recording equipment, and the volume of data produced usually requires considerable control activity in the course of a simulation.
+
+
+Analysis Cost
+High
+
+
+The cost of EEG analysis is largely that of the specialised programs, and peripherals required. Most EEG systems, having been designed for clinical use, are self contained, and require considerable attention in use.
+
+
+Analysis data
+
+
+Analysis Speed
+Slow
+
+
+Although EEG analysis is usually carried out by computer, the interpretation of the analysis usually seems to contain a certain subjective element. In addition, EEG is liable to artefacts, usually due to displacement of cable leads, or chewing or blinking by the subject.
+
+
+Data Automation
+Yes
+
+
+Data can only be collected automatically.
+
+
+Analysis Automation
+No
+
+
+The collection of EEG is, in general, automated, but the interpretation of the results is not normally susceptible to automation.
+
+
+Status
+Tested
+
+
+This method has been used in a number of relevant studies, at EEC and elsewhere.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

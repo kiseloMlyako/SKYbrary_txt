@@ -1,0 +1,165 @@
+Situation Display
+
+
+
+
+
+
+
+
+
+
+
+  Situation Display
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Situation display. An electronic display depicting the position and movement of aircraft and other information as required.
+Source: ICAO Doc 4444 PANS-ATM
+Description
+The situation display, also called "radar display" or "radar screen" is a large computer monitor usually located in the centre of the controller's working position. As a minimum, it provides map information (state, ATS unit and sector boundaries), aircraft position indication and identification and level information, if available. However, most current ATS systems display much more data, e.g.:
+
+Weather (clouds and precipitation) from a ground weather radar
+Additional geographic information (locations of aerodromes, cities, obstacles, mountain peaks, etc.)
+Active special use areas
+Navigation features (radio aids, airways, waypoints, etc.)
+Windows containing various information (e.g. flight lists, diagnostic information, etc.)
+
+History
+In the early days of air traffic control, situation displays were called "plan position indicators (PPI)". They had circular shape and were linked to the radar being used (no multiradar tracking was available). Aircraft positions were updated based on the antenna rotation. While aircraft position information was available and updated in real time, geographical information, if any, was very basic, static and often superimposed. 
+With the introduction of automated ATS systems the situation displays were greatly enhanced. Raw video (PSR blips and SSR responses) was replaced by synthetic symbols based on the data from multiple surveillance sensors. Various ergonomics techniques were developed to enhance the controller's situational awareness, such as:
+
+filtering out clutter
+using different colours (either for different flights or for specific elements of the aircraft label)
+label shrinking (with the ability to easily show the full label), so that minimum space is used and only the most important information is displayed
+customization (as described below), etc. 
+
+The most popular screen became the square (aspect ratio 1:1) and it remains so to his day. Some ANSPs have lately opted for widescreen solutions (e.g. 16:9).
+Customization
+Modern ATS systems also provide the user with some customization features, such as:
+
+Range/scale, determining how far the controller would see. This setting differs not only depending on the sector size (naturally larger sectors require a "zoomed out" value) but also on the controller's role. The planer normally wants to see further in order to plan the traffic well in advance and perform effective coordinations while the executive usually uses a "zoomed in" value which allows them to focus on the situation inside the area of responsibility and be more precise.
+Picture centering (note that during the early days of air traffic control this feature was not available and the picture was centred around the radar location)
+Label filtering. While position indicators must be displayed at all times, the associated labels can be supressed under certain conditions. For example, a controller serving an upper sector (e.g. above FL 365) may want to hide the labels for traffic that will remain in the sector below. As this is a safety-sensitive feature, various restrictions apply. Examples of these include flights that are planned to enter the sector or are passing close by the boundaries or are squawking special SSR codes (7500/7600/7700).
+The way some of the map data is displayed, e.g. waypoints, airways, weather activity, etc. The controller needs to balance between having too much data (and consequently, a cluttered screen), which may cause them to not notice something important (e.g. a conflict) and too little data, in which case something important may not be readily available. This feature can be restricted by the system designers, e.g. the controller may be able to hide the airways and the waypoints but not the boundaries. 
+
+Benefits
+The situation display is normally used by suitably qualified area and approach controllers. While often installed in the aerodrome control tower as well, it is often used for reference only, i.e. not as a base for the issued clearances and instructions. At some aerodromes, the tower controllers are trained and qualified to use the surveillance system (and the situation display) operationally but these are a minority.
+Using a situation display is beneficial for the controllers as well as air traffic:
+
+The controller's situational awareness is enhanced:
+
+Position information is much more precise compared to the use of pilot reports.
+Data is updated in real time and monitoring aircraft compliance with their clearances is much easier.
+Various features warn the controller of any discrepancy (e.g. SSR code non-compliance or track deviation) or hazardous situation (e.g. potential conflict, terrain proximity or possible airspace infringement).
+
+
+Flight efficienct is increased (more aicraft can fly close to the optimal trajectory) as well as airspace capacity (more flights can be handled simultaneously therefore delays are reduced):
+
+Vectoring can be used to separate aircraft which often more efficient than changing their level.
+Separation minima are greatly reduced compared to procedural control (e.g. 5 NM for area control as opposed to 10 minutes). This allows more aircraft to fly at their optimal cruising levels.
+Due to the enhanced situational awareness, controllers can safely handle more traffic
+
+
+
+Related Articles
+
+Automation and ATM
+Surveillance
+Plots, Tracks and Labels
+
+Further Reading
+
+ICAO Doc 4444 PANS-ATM
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

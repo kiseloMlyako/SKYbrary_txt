@@ -1,0 +1,226 @@
+Postural Analysis
+
+
+
+
+
+
+
+
+
+
+
+  Postural Analysis
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+A finite number of postures is defined by experts. During the running of the exercise, the time spent in the defined postures is recorded, in more or less detail.
+Discussion/References
+Postural analysis can be considered to be a specialised form of Activity Analysis. It was used, in association with activity analysis in Mcluskey et al (1973). The actual process consists of recording the physical position of the operators, usually at regular intervals. Several conventions exist for recording postures, mostly developed for the recording of dances and ballets, although some have been developed for physical ergonomics studies.
+Postural Analysis may be used in ATC simulation for two reasons. One is to obtain a general idea of the physical activity of the operators. The other is to provide a measure of the physical load on the heart, where Heart Rate or Sinus-arrhythmia are being used as measures of strain, since heart rate is generally more affected by posture, and changes in posture than by mental strain.
+Where the operator is normally seated, it is only necessary to record torso position, and position of the upper and lower parts of the left and right arms, with a supplementary code for any occasions where the operator left his seat.
+In the simulation in question, the effects of posture were eliminated by applying multiple regression techniques, using a basic 1-minute epoch.
+In a contemporary study, the Noldus Observer system could be used to maintain a continuous record of the posture of one individual. At present, it is probably not feasible to automate the observation process. (It is possible to follow individual animals, such as white mice, seen via a video record, using specialised software to identify the animals. Suitable markers on the head and hands could be used in a similar way for the automatic coding of one individual in detail. As far as current information goes, this has not been done in Air Traffic Control).
+
+
+
+
+Categories
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+Generics
+
+
+Type of method
+Observation
+
+
+Data acquired by observing the operators. (Postural analysis may be used as a measure of strain in its own right, or as a control in the use of heart rate measures, which are affected by the posture of the operator).
+
+
+Target of method
+Stress
+
+
+Postural Analysis records the positions taken up by the operator. These are usually determined by the work he is doing.
+
+
+Time Scale of method
+Minutes
+
+
+Portability of method
+Yes
+
+
+Observer Effect
+Yes
+
+
+If an operator is being directly observed by an investigator, he may take more care to avoid undignified positions (picking her nose, scratching his bottom.) (Indirect observation is less intrusive, although the subject must be informed that observation is taking place).
+
+
+Context of studies
+
+
+Laboratory studies
+Use
+
+
+ 
+
+
+Simulation studies
+Use
+
+
+ 
+
+
+Field studies
+Use
+
+
+ 
+
+
+Potential problems with the method
+
+
+Failure risk
+Low
+
+
+If the postures have not been well defined, in the sense that they can be clearly identified by the observer, the latter may not be able to make usable observations.
+
+
+Bias risk
+Moderate
+
+
+Where some postures are rare, or particularly important, the observer is more likely to notice them. In sampling analysis, where the observer reports the position of the operators at a specific time, there is always a tendency to report an position that has just finished, or is just being adopted at the instant that is being sampled.
+
+
+Ethical problems
+None
+
+
+No specific problems.
+
+
+Costs of the method
+
+
+Staff Cost
+Low
+
+
+One observer can normally carry out a continuous postural analysis on up to three operators, provided tat the activity definitions are adequately defined, and each activity takes at least ten seconds. Alternatively, one observer can carry out sampling activity analysis on a full control room, monitoring each position in turn.
+
+
+Set-up Cost
+Low
+
+
+The primary cost of setting up is that of defining the postures. The differences observed may reflect the need, for example, to reach for a strip on a very large strip board, or may reflect the nervous state of the operator - sitting forward is usually associated with problems.
+
+
+Running Cost
+Low
+
+
+Postural analysis used to be a form filling activity, but in any modern context, a lap-top or palm-top, pre-programmed to accept key signals would normally be used.
+
+
+Analysis Cost
+Low, Moderate
+
+
+The cost of analysis varies depending on the data collection method used. Modern systems use pre-defined data collection routines, which allow for cheap and easy analysis.
+
+
+Analysis data
+
+
+Analysis Speed
+Fast
+
+
+The data collection phase of activity analysis can be organised so that the final analysis is available at the end of each exercise.
+
+
+Data Automation
+No
+
+
+The actual collection of Postural analysis data is at present not practically automatable, since it requires a certain level of judgement by the observer. If this can be avoided or a suitable substitute found, the method could be much more valuable, and would be more used.
+
+
+Analysis Automation
+Yes
+
+
+There are no practical problems about the automation of data analysis for Activity analysis, provided that the data are available in a suitable form.
+
+
+Status
+Established
+
+
+This technique is regularly used, although more often as a measure of physical effort than as a measure of mental stress.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,223 @@
+CFIT After Aborted VOR-DME Approach (OGHFA SE)
+
+
+
+
+
+
+
+
+
+
+
+  CFIT After Aborted VOR-DME Approach (OGHFA SE)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+OGHFA 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ Flight Safety Foundation
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Accident as a Situational Example
+You are the pilot flying a VHF Omnidirectional Radio Range (VOR)-Distance Measuring Equipment (DME) (VHF omnidirectional radio/distance measuring equipment) approach to a mountainous, high-altitude airport, in instrument weather conditions and a nonradar environment. You were late solving a flaps problem. The airport is surrounded by high mountains where the minimum obstacle clearance altitude (Minimum Obstacle Clearance Altitude) is 17,200 ft, and the use of full flaps is necessary for the steep final approach. Because of the delay in solving the flaps problem, you are too high and too close.
+What is your strategy for the landing?
+You decide it is not possible to continue the straight-in approach. You inform the airport traffic control tower of your intention to start the approach again and request a left turn back to the previous “Beacon XXX” fix. The controller does not understand the request and does not provide the clearance. Worrying about potential controlled flight into terrain (CFIT), you start climbing on your own initiative to 18,000 ft while turning right south-southwest of the VOR to return to the original heading. During the turn, the clearance to proceed to Beacon XXX is finally given — though you do not perceive it as such — and you are asked to contact the area control center (ACC) controller. You then receive another clearance to Beacon XXX from the ACC controller and descend to 11,500 ft. At that moment, the controller thinks your airplane is heading south as he deals with other traffic. Before changing direction, the airplane passes over the VOR. Consequently, Beacon XXX and other waypoints disappear from the map display, leaving it without data.
+What is your next move in light of this VOR indication?
+Immediately, you and your first officer turn your full attention to the management of the flight management system (FMS). You don’t look outside. The first officer starts to realize the danger of the situation, but you continue to monitor the DME without mentioning the radial. The ground-proximity warning system (GPWS) suddenly generates a “terrain, terrain, pull up, pull up” warning.
+What is your reaction to this warning?
+You interpret the warning as a false alarm, and the airplane, still heading north, collides with a mountain.
+Data, Discussion and Human Factors
+Approach-and-landing accidents — that is, accidents that occur during initial approach, intermediate approach, final approach and landing — represent 55 percent of hull losses and 50 percent of fatalities.
+The investigation of this accident determined that at least the following factors were involved:
+
+Pilot-controller communications. The misunderstanding between the ACC controller and the flight crew resulted in the flight continuing in the wrong direction. The crew never provided the airplane’s position with reference to a VOR radial when stating their DME distance from the VOR, and the controller never solicited this information. Therefore, the airplane’s position was never determined.
+Situational awareness. The crew did not correctly manage navigation and the flight path. The flight continued toward the north, opposite the direction to Beacon XXX. Furthermore, the crew did not adequately prepare for an aborted approach after the flap issue was solved.
+
+The crew’s situational awareness started to deteriorate after the flap problem. This initially triggered a decision to ask for a clearance back to the departure airport. Shortly afterward, at a distance of around 12 nm from the destination VOR, the problem was solved. The crew asked to start the approach again and requested a late clearance for a nonprecision approach to the runway, a scenario that the crew had not anticipated. The clearance was sufficiently late in the approach that it was difficult for the crew to make the rigorous and careful preparations required by a VOR-DME approach with high terrain nearby.
+The captain did not understand that he had received a valid clearance for another approach. Rather, he understood that he had to continue his present approach because he was worrying about potential CFIT and because of several unclear radio communications with the controller. After four requests for a left turn, the crew initiated a climbing right turn 18,000 ft, above the MOCA. Interrupted by the request from the tower controller to contact the ACC, the crew did not check that the airplane was continuing the turn along the displayed reference line back toward the original heading.
+When the airplane passed the VOR while continuing to fly north of the airport, Beacon XXX and other waypoints disappeared from the navigation display. The pilots turned their attention to enter the Beacon XXX fix and the other waypoints in the FMS. As the results did not match their mental picture of the situation, they did not accept the information.
+
+
+Crew resource management (CRM) during navigation.
+
+The crew did not coordinate well when using the FMS. That may have increased confusion while trying to resolve the navigation problem.
+The crew did not discuss the flight path until the first officer expressed concern about the northerly direction.
+The first officer probably realized that the airplane was in a potentially dangerous situation, but he did not voice his concern adequately to get the captain’s attention.
+The captain may not have understood the first officer’s concern because of the way it was expressed, because the captain misinterpreted the comment, or both.
+The captain assessed the GPWS warning as false.
+
+
+Additional contributing factors.
+
+Inadequate approach briefings.
+The flight crew and the controller were referring to different fixes for the approach. The controller believed the approach started at the VOR-DME; the crew wanted to begin the approach at Beacon XXX. Therefore, when the crew tried to get back to Beacon XXX, the controller did not understand why they wanted to do that, because Beacon XXX was located miles away. From that moment on, the crew and the controller no longer understood each other.
+The controller had no radar to direct the crew to proceed toward Beacon XXX.
+Language difficulties and ineffective discussions occurred between the flight crew and the controllers.
+
+
+
+The following factors increased the crew’s workload and stress:
+
+The flap problem required that the first approach be aborted.
+The potential CFIT situation distracted the crew from adhering to standard operating procedures (SOPs) and standard phraseology.
+The crew had not practised the nonprecision approach during simulator training even though the airport was identified by the airline as having special operational considerations.
+ATC did not provide timely and accurate information. The ACC controller communicating with the flight was a trainee with nine months experience. The controller supervising him had additional duties to perform.
+The crew did not conduct an effective briefing, failing to:
+
+Determine if they had a valid clearance to the fix.
+Brief each other on the conditions requiring a go-around and the associated procedures.
+Analyse potential threats such as the terrain and the nature of the approach.
+
+
+
+Typical of the human factors-related threats was the confusion the crew experienced when interpreting radio messages from the approach controller. Since the pilots did not mention the radial when announcing the DME distance, cross-checking of actions was not performed, and an inaccurate mental picture of the situation started building in the controller’s mind.
+Finally, even though the pilots did not understand that they were proceeding to Beacon XXX, things might have developed differently if either of them had looked outside instead of struggling with the Flight Management System.
+Finally, the captain’s decision making suffered from confirmation bias, a tendency to be biased toward confirming one’s own preconception. In this accident, the captain erroneously called “false alarm” when hearing the GPWS warning.
+Prevention Strategies and Lines of Defense
+The crew lost situational awareness by not seeking and using all pertinent information from the controller and by failing to check and cross-check actions.
+In order to prevent the accident, the crew should have focused more on adherence to SOPs, using standard phraseology and preparing an effective briefing for the go-around maneuver. At the very least, they should have:
+
+Worked as a team to perform an accurate risk assessment based on the:
+
+Navigation display.
+Go-around trajectories.
+Clearly defined roles in relation to outside observation.
+
+
+Explicitly defined the task-sharing so it was clear who would monitor the DME distance and the radial from the VOR as related to altitude.
+
+The crew also should have sought clearer information from ATC. They needed additional time to build situational awareness since they were rushed after sorting the flap problem. Applicable principles that would have helped them include:
+
+Actively searching for new information from all available sources since they were missing information to build situational awareness.
+Communicating with each other to make sure that they worked as a team. Instead, they fixed attention on entering data into the FMS.
+Using the resources available more effectively. In particular, the captain should have sought inputs from his first officer.
+Focusing more attention on navigation. Particular attention should have been given to cross-checking the instrument data available with outside visual cues.
+Call out and cross-check altitude and DME distance and radial according to SOPs since they were flying an unfamiliar track.
+
+Key Points
+This accident was caused by poor coordination between ATC and the pilots, the crew‘s loss of situational awareness, the crew’s head-down attitude, inadequate CRM and language difficulties with ATC.
+The flight crew built an erroneous mental picture of the flight path. This accident might have been prevented if they had taken known steps to restore their situational awareness. In this situation, a focus on human factors issues reveals the importance of:
+
+Maintaining situational awareness at all times and assessing whether available information is sufficient to support mission goals.
+Comparing the “outside” world with the “inside” world.
+Checking the approach charts carefully and strictly following SOPs.
+Allowing sufficient time to prepare for essential aspects of flight management such as studying the approach chart and conducting efficient briefings as a team.
+Actively seeking information and challenging others and one’s own mental picture.
+Performing dynamic decision making using all elements of technical knowledge and taking into account the operational facts of the situation.
+Working together as a team to make appropriate decisions, taking into account the operational facts and actively seeking contributions from each other.
+The first officer continuously monitoring flight progress and challenging the captain whenever he/she finds a reason to do so. No matter how experienced the captain, he should know that he is not always able to perceive the entire ongoing situation. The captain is also responsible for managing the first officer as a reliable resource.
+
+Associated OGHFA Material
+Briefing Notes:
+
+Situational Awareness
+Flight Preparation and Conducting Effective Briefings
+Decision-Making
+Stress and Stress Management
+
+Checklist:
+
+Decide - Checklist
+
+Additional Reading Material
+
+Flight Safety Foundation Approach and Landing Accident Reduction (ALAR) Toolkit
+U.K. Civil Aviation Authority (CAA). FODCOM.06.07, “Avoidance of CFIT: Operational and Training Considerations,” (note: this FODCOM was cancelled on 25 March 2008)
+
+Related SKYbrary Articles
+
+Controlled Flight Into Terrain (CFIT)
+Crew Resource Management
+Situational Awareness
+VHF Omnidirectional Radio Range (VOR)
+Non-Precision Approach
+Flight Safety Foundation ALAR Toolkit
+
+
+
+
+
+Categories
+
+
+OGHFA,
+              Situational Examples,
+              Human Factors
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,165 @@
+Aircraft Altimeter Failure
+
+
+
+
+
+
+
+
+
+
+
+  Aircraft Altimeter Failure
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Warning Message
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Synopsis
+An altimeter failure on a PILATUS PC-12 Eagle aircraft caused a 2000 ft discrepancy between the displayed altitudes on the aircraft’s two altimeters. This contributed to a very serious airprox which identified a number of safety issues of interest to the aviation community.
+On initial contact, ATC had correctly verified the SSR Mode C of the PC12 in accordance with ICAO Doc 4444, PANS ATM § 8.5.5. The displayed level corresponded to the aircraft’s assigned flight level and the altitude shown on both altimeters. At this point the controller and pilot believed that everything was normal. However, when the pilot noticed the discrepancy in altitudes (the No1 altimeter was showing FL270 and the No2 FL290), he informed ATC and asked the controller to check the displayed level on radar. The controller decided to obtain an independent verification of aircraft’s Mode C from a third-party agency; he subsequently received confirmation that the displayed altitude on radar corresponded to that shown on No1 altimeter and the aircraft’s assigned flight level and he informed the pilot accordingly. It transpired however, that due to a faulty altimeter, the displayed altitude information was incorrect - the Mode C and No1 altimeter were both showing an altitude 2000 feet below the PC12’s actual level (as shown correctly on the No 2 altimeter).
+Additional Information from France BEA - Posted 17 May 2010
+The BEA report related to the incident referred to in this alert is now available and the following extracts from the report provide additional evidence of the seriousness of this incident:
+
+"There was no triggering of the Short Term Conflict Alert (STCA) system at the control position or a TCAS alert on either of the 2 airplanes."
+"Intrigued by fresh oscillations that made him think of wake turbulence, the co-pilot looked outside. He was then in visual contact with an airplane that was very close, slightly above and to the right."
+"The minimum separation between the 2 airplanes could not be measured on the recording, the 2 radar plots being mixed together. The crews estimated that the separation was between 15 and 30 metres horizontally and about 100 feet vertically."
+
+Analysis
+The cause of the altimeter failure was subsequently identified as a leak at the connector that links the No1 static circuit with the cabin differential pressure indicator. The PC12 did not have, and was not required to be fitted with, a third ‘standby’ altimeter. Therefore it was not possible for the (single) pilot to do a diagnostic cross-check against another source to determine which altimeter was showing the aircraft’s actual altitude. Pilot actions in these situations are not covered by existing ICAO provisions as they are part of aircraft operators’ FOM/SOPs for the aircraft type. Electronic (GNSS) derived altitudes are not easily matched against barometric derived heights/altitude. The events serve as reminder that the Mode C indications relied on to effect vertical separation between aircraft are pressure-derived and depend on the correct operation of aircraft altimeter systems. Therefore, the standard verification of the affected aircraft’s Mode C by ATC (on initial contact), and even a "cross-check" with an 'independent' third-party (which will see the same broadcast data) are not useful defence barriers in some very rare circumstances. The incorrect Mode C broadcast by the PC12 meant that the Airborne Collision Avoidance System (ACAS) and ATC ground-based Short Term Conflict Alert (STCA) systems calculated that sufficient vertical separation existed between it and the other aircraft involved in the airprox. Hence, neither safety net was triggered during the lead-up to the close encounter even though, in reality, both aircraft were actually flying at the same level and in direct conflict with one another.
+Emerging Considerations
+Flight crews, after having carried out all actions according to their FOM/SOPs, who are unable to determine the aircraft's actual altitude due to an unsolvable altimeter failure must inform ATC. In this context, and when facing a pilot report of an unsolvable altimeter failure, the ANSP concerned in the PC 12 incident has issued the following guidance to its controllers applicable to the scenario:
+
+"Treat this as an unusual situation - it is not the same issue as the standard verification of Mode C level information.
+Apply, as necessary, horizontal separation between the affected aircraft and other traffic.
+Advise pilots to switch off Mode C or Automatic Dependent Surveillance Broadcast (ADS-B) altitude data transmission (Note: This is as per ICAO Doc 4444, PANS ATM 8.5.5.1.4).
+Depending on the severity of the situation:
+
+Ask the pilot to squawk A7700.
+Render other assistance, e.g. help/advise the pilot to maintain Visual Meteorological Conditions (VMC) if feasible, land at the nearest suitable airfield.
+
+
+Inform other sectors/centres."
+
+On a related issue, the ICAO European Air Navigation Planning Group (EANPG) has been considering Altimetry System Error in the context of Reduced Vertical Separation Minima (RVSM) operations. Following its 52nd meeting it issued these conclusions to States:
+"EANPG Conclusion 52/32 – Altimetry System Error
+That, during the first quarter of 2011, the ICAO Regional Director, Europe and North Atlantic:
+
+Urge the States (Regulatory Authorities) to:
+
+ensure the adequacy of current altimetry maintenance procedures and schedules to respond to the RVSM data package requirements;
+ensure through training the aircraft engineers awareness of the causes of altimetry system error as well as rectification and calibration procedures;
+ensure that the RVSM performance requirements are appropriately addressed during aircraft modifications and repairs;
+consider the service life of altimeter system components;
+
+
+remind States of their responsibilities with regard to the RVSM certification, operations approval and continued airworthiness; and
+invite the appropriate body to consider the need to re-activate the EUROCAE WG68."
+
+Your Attention is Required
+
+Air Navigation Service Providers and Aircraft Operators are invited to review the subject and investigate the relevance to their operations.
+
+Further Reading
+
+ICAO Doc 8168, PANS OPS Vol 1, §3, 3. SSR Transponder Operating Procedures.
+ICAO Doc 4444, PANS ATM § 8.5 Operation of SSR Transponders.
+ICAO Doc 9574, Manual on Implementation of a 300 m (1000 ft) Vertical Separation Minimum Between FL 290 and FL 410 Inclusive
+EU-OPS
+Level Bust Prevention - Aircraft Technical Equipment
+Electronic Flight Instrument System
+Altitude Alerter
+Altimetry System Error
+Height Monitoring Units (HMU)
+France BEA Report[1]
+
+Disclaimer
+© European Organisation for Safety of Air Navigation (EUROCONTROL) January 2011. This alert is published by EUROCONTROL for information purposes. It may be copied in whole or in part, provided that EUROCONTROL is mentioned as the source and to the extent justified by the non-commercial use (not for sale). The information in this document may not be modified without prior written permission from EUROCONTROL. The use of the document is at the user’s sole risk and responsibility. EUROCONTROL expressly disclaim any and all warranties with respect to any content within the alert, express or implied.
+
+
+
+
+Categories
+
+
+Safety Warning Message
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

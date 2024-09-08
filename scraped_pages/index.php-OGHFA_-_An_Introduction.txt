@@ -1,0 +1,277 @@
+OGHFA - An Introduction
+
+
+
+
+
+
+
+
+
+
+
+  OGHFA - An Introduction
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+OGHFA 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ Flight Safety Foundation
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Operator's Guide to Human Factors in Aviation
+
+
+Introduction
+
+
+An Introduction to the Purpose and Use of the Operators Guide to Human Factors in Aviation
+
+
+
+ 
+1 Introduction
+The Operators Guide to Human Factors in Aviation (OGHFA) is an extensive compendium of human factors information focused on further advancing commercial aviation safety. This Introduction explains why the OGHFA was prepared, what it is intended to accomplish and how it is meant to be used. It defines the major potential safety issues that good human factors can avoid while simultaneously admitting the inherent vulnerabilities in any complex human-machine system. It is recommended that each user of the OGHFA take the time to read this introductory material in order to obtain a firm background on the strengths and limitations of the OGHFA approach.
+2 Background
+Air transport is the safest way to travel. Aviation hardware and software have been made increasingly reliable and therefore are seldom the cause of aviation accidents. Global safety standards and the translation of lessons learned from incidents and accidents into an effective harmonized approach by governments, regulators, manufacturers and operators have further improved safety.
+In spite of these excellent advances, accidents and incidents are still occurring and can be expected to increase in number as aviation continues to grow. In order to continue to improve safety, there must inevitably be a strong focus on the human element of the air transport system. Research indicates that 85% of all aviation accidents and serious incidents involve human error, and over 60% of these accidents have human factors as their primary cause.
+The field of human factors, or ergonomics as it is sometimes called, is concerned with the interaction between humans and systems or equipment. Its essential objective is to develop designs for equipment, procedures and the workplace that will facilitate effective, safe and efficient operation by a human or group of humans. Its goal is to reduce errors by addressing how humans sense information, think, make decisions, act and behave. Since human error is the largest causal factor in accidents, it is altogether fitting for the aviation industry to devote special attention to solving human factors problems.
+Historically, human factors focused almost exclusively on people and their behavior without placing this behavior in the context in which it was performed. More recently, work by Dr. James Reason and others has focused on a more systems-oriented approach to human factors. This approach views human factors issues as one component of the total system. Under this approach, organizational and environmental precursors to human error as well as psychological and physiological causal factors are examined. This permits remedial efforts to be directed not only at individual human operators but also at situations and organizations. When these systems factors are combined with the proved benefits of regulations, procedures and operating strategies that are based on good human factors principles, errors are minimized and safety and efficiency are enhanced.
+2.1 The Need to Address Human Factors
+Everyone involved in the operation of aircraft should have a basic understanding of human factors principles since everyone can be affected in some way by human factors issues. Safety and efficiency are inherently maximized when human factors considerations are an integral part of operations.
+One important aspect of human factors is a person’s relationship and interaction with other people. Another and perhaps even more important human factors focus is on giving individuals important cues to the existence of problem situations and conditions and suggesting proven methods to avoid or deal with them. Anticipation of problems is one key to designing and operating systems that successfully avoid accidents.
+A significant feature of human behavior and performance is variability. The human factors problems that lead to accidents are rarely the result of a consistent pattern of behavior. Most often, a human operator who has displayed “normal” or even exemplary performance for most of his or her career falls prey to a human factors problem and begins or contributes to an accident sequence. After the fact, trained accident investigators can usually discover what went wrong. These investigations form the basis for advice to prevent future recurrence of the problem. Disseminating these research results helps prevent these problems altogether by giving each operator the knowledge and tools that support identifying and preventing human factors failures during actual operations.
+2.2 The Influences on a Crew
+
+The behavior of a flight crew is influenced by a variety of factors that are both self-generated and external. These influences can profoundly affect the crew’s actions and, in particular, their propensity to make errors. For this reason, the human factors information contained in the OGHFA is structured to assist you in understanding and coping with:
+
+Environmental Influences—those factors affecting a flight that cannot be considered to be within the control of a pilot or an airline organization, e.g., airport facilities, ATC communications, ATC services, weather conditions, other aircraft.
+Organizational Influences—factors beyond the control of the crew but within the control of the airline, e.g., commercial pressure, company communications, ground handling, ground services, maintenance, technical support, training.
+Informational Influences—the content and form of the operational information available to a crew, e.g., checklists (paper and electronic), manuals, navigational charts, standard operating procedures (SOPs), software.
+Personal Influences—involve the “internal state” of each individual flight crew member, e.g., knowledge, fatigue, stress, emotion, mode awareness, spatial orientation, system awareness, time horizon, operational stress, personal stress, post-incident stress, social interactions, complacency, boredom, distraction, fatigue, currency, knowledge, medical state, morale.
+
+The existence of some of these influences is obvious. Others are much more subtle and difficult to discern. All, however, can affect Situational Awareness, judgment and decision-making and therefore the probability of making an error. One important aspect of modern human factors theory and practice is helping to prepare you, the human operator, to understand these influences and to channel them towards error reduction rather than error generation.
+
+
+
+Focusing on the factors that influence your behavior in all aspects of your work and personal life will help you identify the factors that are most relevant to avoiding errors.
+
+
+
+2.3 The Limits of Expertise
+It is reasonable to ask why professional pilots, a group that is carefully selected, extensively trained and closely supervised, would need additional inputs on human factors. The answer can be found in the limitations of the human as an operator of a complex system. Dismukes, Berman and Loukopoulos (2007) explain that human cognitive processes such as attention, vigilance, memory and decision-making are inherently vulnerable even among air carrier pilots. Errors are largely unpredictable because the interaction of factors contributing to error generation is probabilistic. To a large degree the errors made by experts are driven by:
+
+The characteristics and limitations of the human cognitive and perceptual processes
+Events in the environment in which tasks are performed that are often beyond the control of the human operator
+Demands placed on the human cognitive processes by task characteristics and environmental events
+Social and organizational factors that influence the human response.
+
+Since error cannot possibly be eliminated, it is important to demystify it and to understand how to deal with it when it does occur in spite of all efforts at prevention.
+Dismukes, Berman and Loukopoulos (2007) point out the limits of expertise: crew performance, even from highly experienced pilots, cannot be expected to be totally reliable under adverse conditions such as high workload, time pressure, stress, inadequate or confusing information, perceptual and cognitive limitations, inadequate training or competing organizational goals.
+2.4 Dealing with Human Error
+All pilots make small mistakes and, occasionally, more serious errors. Sometimes these errors are prompted by circumstances that are known to predispose errors. Other times, however, the situation is seemingly benign. The accidents reviewed by Dismukes, Berman and Loukopoulos (2007) clustered around six “commonality themes,” defined in terms of both the actions and failures to act of the crews and the situations that confronted them. The six themes were:
+
+Inadvertent slips and oversights while performing highly practiced tasks under normal conditions
+Inadequate execution of highly practiced normal procedures under challenging conditions
+Inadequate execution of non-normal procedures under challenging conditions
+Inadequate response to rare situations
+Judgment in ambiguous situations that hindsight proved was wrong
+Deviation from explicit guidance or SOPs.
+
+If error types and the factors that predispose errors are known, it may be possible to improve procedures, training and design to eliminate error causes. However, since errors will still occur even with the best prevention steps, it is also important to include error-trapping in all human machine systems.
+Error-trapping is simply a matter of compensating for errors so that they do not lead to accidents and incidents. Many compensation mechanisms have been shown to be successful in dealing with human error including:
+
+Developing memory-aids
+Buying time or slack to take the pressure off
+Inserting buffers/routines/heuristics/tricks/double-checks/shortcuts to simplify a task
+Looking for feedback loops and feed-forward mechanisms to increase Situational Awareness
+Developing fallback procedures so that contingencies involve less uncertainty
+Anticipating forms and pathways that lead to failure
+Tailoring tasks more closely to capabilities.
+
+3 Why OGHFA? Purpose, Objectives and Scope
+The OGHFA has been designed to bridge the gap between theory and practice for the sake of safety and efficiency. The OGHFA is structured as a two-way street containing:
+
+Theory described in Briefing Notes that cover the key points that permit the reader to understand the factors that influence human performance:
+
+Human performance and limitations
+Personal qualities
+Training
+Organization
+Design and systems integration.
+
+
+Visuals that support, expand, or provide alternative views of the subjects. They are formatted either as self-study guides or as components of training programs which instructors may use to add consideration of human factors issues.
+Checklists and other supporting materials.
+Situational Examples that illustrate the relevant human factors theories with both positive and negative examples drawn from actual worldwide operational experience.
+References and links that are sources of related information that expands or adds detail to a subject and identifies industry standards and regulatory information.
+
+
+ 
+
+
+
+The main objective of the OGHFA is to create a strong bridge between theory and practice that is context-sensitive, concrete, practical and easy to access.
+
+
+
+The ultimate goal of the OGHFA is to trigger dynamic interactions between knowledge and experience that will improve problem solving, critical thinking and judgment as a means of preventing errors and their associated accidents, incidents and inefficiencies. With the information in the OGHFA, you can identify human factors “traps” and those situations that make it more likely that you will either fail to perform at your best or contribute to somebody else “having a bad day.” By reading and using this Guide you will:
+
+Improve your understanding of the consequences of your behavior and condition
+Appreciate the safety and efficiency benefits of effective interactions among the humans in the aviation system
+Better understand the importance to safety and efficiency of effective interactions with your tools, work rules and work environment
+Learn techniques to optimize your performance and help maximize the performance of any groups in which you participate, thus enhancing safety
+Learn how to spot human factors problems, whether with yourself or someone else, before they result in an incident or accident
+Prevent problems before they develop rather than having to react to them and correct them under pressure.
+
+Learning and using human factors knowledge is a continuing process that involves more than merely reading technical notes. It also involves linking the Situational Examples with the Briefing Notes and other OGHFA materials so that you will ultimately be able to systematically and easily relate human factors to your operations.
+Most of the resources in the OGHFA are intended for use by those engaged in flight operations, flight training and ATC. Materials providing guidance for management, however, are also included because organizational policies and decisions have been shown to influence the risk of human factors problems.
+The OGHFA is a work in progress. It will grow as new materials become available to supplement existing subjects and to provide a wider range of information on the role of human factors in other activities in the industry, e.g., maintenance, cabin crew.
+The material in the OGHFA is based on the current state-of-the-art of human factors and safety, has a firm grounding in worldwide research and is consistent with the guidance provided by ICAO and leading national authorities. The OGHFA is intended to complement the activities and recommendations of the Commercial Aviation Safety Team (CAST) in the U.S. and European Strategic Safety Initiative (ESSI), both of which identified many human factors issues in accidents and incidents and have published action plans that encompass human factors interventions. It also complements the Flight Safety Foundation’s technical safety initiatives by highlighting them for newer members of the industry and by maintaining focus on key aspects of flight safety for all operators.
+ 
+
+
+
+The bedrock of the OGHFA, is the concept of applying technical and non-technical human factors principles to the way we work and as a contribution to individual resilience.
+
+
+
+Many people are more receptive to real life practical examples than to dry theory. Therefore, the OGHFA’s Situational Examples contain hyperlinks that will help you shuttle back and forth between descriptions of actual operations and the underlying theories they illustrate. This is intended to help you remember and better understand the key human factors issues discussed in the OGHFA Briefing Notes and Visual Presentations.
+
+The ability to transfer theory into good practice in the proper context is a skill that can be developed. However, accident reports themselves do not contain the richness of information and interpretation needed. For this reason, the OGHFA Situational Examples are focused not only at the causes of accidents but also on the main human factors issues that research has shown can cause errors. These include:
+
+Invulnerability feelings (That can’t happen to me!)—a significant hazardous attitude that pilots often fall prey to.
+Hindsight-bias (I knew it!)—the tendency to assume that you will not get into the same trouble as the accident-involved crew because you know the “obvious” dangers.
+Fundamental attribution error (No wonder with those guys!)—the often erroneous conclusion that those involved in an accident or incident were somehow inferior performers and attributing the entire fault to their lack of ability while missing entirely those external influences that predisposed the errors in the first place.
+
+
+The combination of theory-based Briefing Notes and experience-based Situational Examples within OGHFA is designed to give the reader an appreciation of the benefits available from improved human factors understanding. The inclusion of both negative and positive outcomes in the Situational Examples illustrates the role of human factors in safety and shows how good human factors awareness can provide protection against common problems and the errors they produce.
+ 
+
+
+
+The keys to individual and organizational resilience are being mentally prepared to assess unexpected situations and having straightforward countermeasures to deal with them.
+
+
+
+4 Using the OGHFA
+There is no single correct way to use the OGHFA. Some will want to read the more theoretically-based Briefing Notes first and then examine how these theories were or were not put into practice in the various Situational Examples. Others will prefer to start with the Situational Examples and link to the applicable theories as they are highlighted in the accounts of actual operational experience. Both are good strategies as long as you take the time to go through all of the material at your own pace.
+Do not expect the OGHFA to be a strict “how to” manual. It is not a textbook. You will not learn procedures to apply in “if-then” scenarios. You get those from the various operating manuals that are part of your training and operations. If you use the OGHFA effectively, however, you can expect to be better able to:
+
+Detect situations that have a high probability of leading to errors
+Assess the situations accurately to determine the true risks to safety and efficiency
+Decide on the correct countermeasure to nullify or minimize the risks inherent in each situation
+Act appropriately to avoid error.
+
+ 
+
+
+
+Detect, Assess, Decide and Act
+
+
+
+Use the OGHFA to achieve a more appropriate balance between analysis and synthesis. Hone your skill to understand the human factors implications of each situation you experience. Try to apply as many good human factors principles as possible while simultaneously avoiding the common human factors fallacies highlighted in the OGHFA. Do not try to become a human factors expert—just strive to be constantly aware of the human factors implications of your work and your lifestyle that could impact safety and efficiency. Focus on the most important issues without getting lost in the details. Become adept at dealing with what you can reasonably change and not getting distracted by trying to correct the uncorrectable.
+Finally, you might look at the contents of the OGHFA and decide that some of it does not pertain to you. For example, you may be flying short-haul routes and think that the material on jet lag is irrelevant. Although some of the material may not be immediately applicable to your current assignment, it is still recommended that you at least skim everything. That way, you will get the total picture and be adequately prepared if the nature of your work or personal life should change.
+5 Relationship to Training
+Human Factors and the principles covered in the OGHFA are not a replacement for your regular training. Rather, they are designed to complement your training and give you additional technical and non-technical abilities to cope with those situations that are not covered by procedures or SOPs. The objective is to be a productive adjunct to training that makes risks visible, understood, acknowledged and managed.
+Whenever an unexpected or surprising event manifests itself, the result of good human factors preparation will be increased Situational Awareness, reduced crew Workload, improved Decision-making and more effective actions.
+In order to avoid errors, there is a need to cut through the chain of precipitating events as soon as disturbing signals start appearing. Even basic human factors knowledge should be enough to trigger crew self-feedback that helps in assessing the situation, making decisions and taking timely actions. The OGHFA aims at including in training the development of a predisposition for being able to recognize and cope with significant flight events that could lead to safety problems.
+6 Additional Reading Material
+
+Dismukes, R. Berman, A.B. and Loukopoulos, L. D. (2007). The Limits of Expertise. Rethinking Pilot Error and the Causes of Airline Accidents. Ashgate Studies in Human Factors for Flight Operations, Aldershot.
+Sydney Dekker (2006). The Field Guide to Understanding Human Error. Ashgate Publishing Company, Aldershot.
+Michael S. Gazzaniga (1985). The Social Brain, Discovering the Networks of the Mind. Basic Books, New York.
+Malcolm Gladwell, (2005). The Tipping Point, The Power of Thinking without Thinking, Allen Lane, London.
+Gerd Gigerenzer (2007). Gut Feelings: The Intelligence of the Unconscious, Viking Books, New York.
+René Amalberti, R. (1996). La Conduite de Systèmes à Risques. Presses Universitaires de France, Paris.
+
+
+
+
+
+Categories
+
+
+OGHFA,
+              Human Factors
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

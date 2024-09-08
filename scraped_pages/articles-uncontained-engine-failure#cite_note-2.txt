@@ -1,0 +1,186 @@
+Uncontained Engine Failure
+
+
+
+
+
+
+
+
+
+
+
+  Uncontained Engine Failure
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Airworthiness 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Most gas turbine engine failures are “contained” which means that although the components might separate inside the engine, they either remain within the engine case or exit it via the tail pipe. This is a standard design feature of all turbine engines and generally means that the failure of a single engine on a multi-engine aircraft will not present an immediate risk to the safety of the flight. Sizeable pieces of ejected debris may, though, present a hazard to persons on the ground.
+However, an “uncontained” engine failure is likely to be a violent one, and can be much more serious because engine debris exits it at high speeds in other directions, posing potential danger to the pressurised aircraft structure, adjacent engines, the integrity of the flight control system and, possibly, directly to the aircraft occupants.
+Defences
+Aircraft/engine design features to mitigate against the risks associated with uncontained engine failure include:
+
+Fan blade containment ring - to provide a measure of protection in the event of fan blade separation,
+Aircraft systems "routing segregation" - covering both rotor burst and rapid depressurisation scenarios,
+Fuel tank "dry bays" located in the most likely disk trajectories.
+
+Design and Certification Requirements
+Uncontained engine failures can affect both the fan and the turbine sections; certification requirements and tests as well as related engine and airframe designs account for both scenarios.
+Certification requirements are "multi-layered" as they include the following 4 layers:
+
+Systems safety assessment (e.g. FAR 25.1309),
+Common cause analysis,
+Particular risks analysis (e.g. engine "rotor burst"),
+Zonal analysis (also involved in the uncontained engine failure assessment).
+
+EASA
+
+CS-25 (Certification Specification Large Aeroplanes): The European equivalent of FAR-25.
+
+The effects and rate of failure of an engine case rupture, uncontained engine rotor failure, engine case burn-through, and propeller debris release are minimised by compliance with CS-E, Engines; CS-P, Propellers; CS 25.903(d)(1), CS 25.905(d), and CS 25.1193.
+CS 25.903 (d) (1) reads as follows:
+"(d) Turbine engine installations. For turbine engine installations - (1) Design precautions must be taken to minimise the hazards to the aeroplane in the event of an engine rotor failure or of a fire originating within the engine which burns through the engine case. (See AMC 25.903(d)(1) and AMC 20-128A.)"
+AMC (Acceptable means of compliance) 25.903 (d) (1) is relative to torching flames while AMC 20-128A sets forth a method of compliance with the requirements of CS 23.901(f), 23.903(b)(1), 25.903(d)(1) and 25A903(d)(1) of the EASA Certification Specifications (CS) pertaining to design precautions taken to minimise the hazards to an aeroplane in the event of uncontained engine or auxiliary power unit (APU) rotor failures. The guidance provided within this AMC is harmonised with that of the Federal Aviation Administration (FAA)
+AMC 20-128 A is a significant document that provides background information, definitions, design considerations, accepted design practices; engine and APU failure model and considerations for safety analysis.
+The paragraph on design considerations addresses location of engine and APU, location of critical systems and component, external shields and deflectors.
+The paragraph on accepted design practices identifies design practices that address the risks of uncontrolled fire, loss of thrust, loss of aircraft control, passenger and crew incapacitation, loss of structural integrity. These design practices currently in use by the aviation industry that have been shown to reduce the overall risk, by effectively eliminating certain specific risks and reducing the remaining specific risks to a minimum level.
+
+EASA CS-E.510 (Certification Specifications - Engines - Safety Analysis) - Aircraft-level Failure classifications are not directly applicable to Engine assessments since the aircraft may have features that could reduce or increase the consequences of an Engine Failure condition. Additionally, the same type-certificated Engine may be used in a variety of installations, each with different aircraft-level Failure classifications. CS-E 510 defines the Engine-level Failure conditions and presumed severity levels.
+
+FAA
+
+US FAR 33[footnote 1] covers engine certification aspects.
+US FAR 25.XXXX[footnote 2] covers engine installation and airframe design aspects.
+
+Damage Assessment
+Each uncontained failure will result in a “unique” combination of collateral damage to the aircraft and there will be little, if any, guidance in the AFM for dealing with this type of potential failure. The aircrew must, therefore, be especially vigilant when dealing with an uncontained engine failure. The engine failure itself should be dealt with IAW the manufacturer’s prescribed shutdown procedures. However, it is the collateral damage that carries the greater potential risk and that will require creative pilot assessment to ensure a positive outcome is achieved.
+Structural Integrity
+Loss of pressurisation, if a factor, would have to be dealt with in the usual fashion; however, the pilots must be cognizant of the fact that the structural integrity of the aircraft may have been compromised and control the aircraft speed and drag devices accordingly.
+False Indications and Warnings
+Severed wire bundles may result in false indications and warnings, potentially for other engines or aircraft systems. The pilots must use all means at their disposal to confirm the validity of those indications before actioning any emergency checklists.
+Fuel Leaks and Fire Risk
+Uncontrollable fuel leakage due to ruptured fuel lines or tanks may be present. Fuel system isolation measures to ensure that fuel from unaffected tanks is not lost would have to be taken. The additional fire risk, both in flight and post landing, would need to be considered and normal procedures such as use of reverse thrust modified accordingly.
+Loss of Hydraulic Fluid
+Loss of hydraulic fluid due to severed pipes can lead to degradation in flight controls, loss of the ability to extend lift devices such as flaps or slats and the ability to raise or lower the landing gear in the normal fashion. These factors can have a great impact on approach speed, landing distance and go around performance and must be considered in the diversion decision.
+Aircraft Handling
+Flight control response and aircraft handling characteristics, especially as the aircraft configuration is changed, may have been compromised by the damage caused by the engine failure. Note that “fly by wire” aircraft may mask some of the degraded handling symptoms and make them more difficult to assess.
+Passenger and Crew Management
+Throughout all of this process, the crew and passengers must be reassured and kept apprised of the time to landing and, if warranted, directed to prepare for any potential post landing evacuation.
+Time
+As in the case of all engine failures, getting the aircraft safely on the ground is a priority. However, in the case of an uncontained failure the complexity of the problem is significantly greater, and both the pilots and controllers should recognize that additional airborne time may be required to achieve a positive outcome to the event.
+Investigation
+All uncontained engine failures involving transport category aircraft are likely to be investigated under ICAO Annex 13 procedures at least in the principal aviation jurisdictions.
+Uncontained Engine Failure Events on SKYbrary
+
+A388, en-route Batam Island Indonesia, 2010: On 4 November 2010, an Airbus A380-800 being operated by Qantas on a flight in day VMC from Changi Airport, Singapore to Sydney, Australia was passing 7,000 ft in the climb when the No 2 engine suddenly suffered an uncontained failure and a return to Singapore followed.
+B762, Los Angeles USA, 2006: On June 2, 2006, an American Airlines Boeing 767-200ER fitted GE CF6-80A engines experienced an uncontained failure of the high pressure turbine (HPT) stage 1 disc in the No. 1 engine during a high-power ground run carried out in designated run up area at Los Angeles for maintenance purposes during daylight normal visibility conditions. The three maintenance personnel on board the aircraft as well as two observers on the ground were not injured but both engines and the aircraft sustained substantial damage from the fuel-fed fire which occurred as an indirect result of the failure.
+A320, Toronto Canada, 2000: On 13 September, an Airbus A320-200 being operated by Canadian airline Skyservice on a domestic passenger charter flight from Toronto to Edmonton was departing in day VMC when, after a “loud bang and shudder” during rotation, evidence of left engine malfunction occurred during initial climb and the flight crew declared an emergency and returned for an immediate overweight landing on the departure runway which necessitated navigation around several pieces of debris, later confirmed as the fan cowlings of the left engine. There were no injuries to the occupants.
+DC10, Sioux City USA, 1989: On 19 July 1989, a United Airlines DC-10 (Flight 232), after earlier improper inspection, suffered an uncontained engine failure which led to loss of hydraulic systems and Loss of Control during an attempted emergency landing, which was followed by a post crash fire.
+B732, Manchester UK, 1985: On 22nd August 1985, a B737-200 operated by British Airtours, a wholly-owned subsidiary of British Airways, suffered an uncontained engine failure, with fire spreading to the fuselage during the rejected take off, causing rapid destruction of the aircraft before many of the occupants had evacuated.
+B752, Las Vegas NV USA, 2008: On 22 December 2008, a Boeing 757-200 departing Las Vegas for New York JFK experienced sudden failure of the right engine as take off thrust was set and the aircraft was stopped on the runway for fire services inspection. Fire service personnel observed a hole in the bottom of the right engine nacelle and saw a glow inside so they discharged a fire bottle into the nacelle through the open pressure relief doors. The failed engine was found to have experienced an uncontained release of high pressure turbine material.
+
+Related Articles
+
+Engine Failure: Guidance for Controllers - provides guidance to to controllers on what to expect and how to act when dealing with an aircraft which has experienced a contained or uncontained engine failure.
+Contained Engine Failure
+
+Further Reading
+
+FAA Lessons Learned from Transport Airplane Accidents dashboard (choose Uncontained Engine Failure from the Threat Categories filter)
+
+Notes
+
+^ US FAR Part 33 - AIRWORTHINESS STANDARDS: AIRCRAFT ENGINES
+^ US FAR Part 25 - AIRWORTHINESS STANDARDS: TRANSPORT CATEGORY AIRPLANES
+
+
+
+
+
+Categories
+
+
+Airworthiness,
+              Flight Technical
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,302 @@
+E295, Berlin Germany, 2021
+
+
+
+
+
+
+
+
+
+
+
+  E295, Berlin Germany, 2021
+
+
+
+
+
+
+
+
+
+Summary
+
+On 12 September 2021, an Embraer 195-E2 began a daytime takeoff from Berlin from an intermediate runway intersection that did not provide adequate field length. Both pilots were unaware of their duplicated error in calculating takeoff performance until seeing the runway end lights as decision and rotation speeds were reached. The aircraft became airborne with very little runway remaining because both pilots had input the same incorrect takeoff data. It was calculated that a high-speed rejected takeoff would have resulted in a runway excursion and an engine failure after V1 would have meant the required climb performance would have been unachievable.
+
+
+
+
+Event Details
+
+When
+
+12/09/2021
+
+
+
+Event Type
+
+
+HF,
+              RE
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+On Ground - Normal Visibility
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+EMBRAER E195-E2
+
+
+
+
+
+
+
+
+
+Operator
+
+KLM Cityhopper
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Berlin Brandenburg Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Amsterdam Airport Schiphol
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+No
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Take Off
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+EDDB
+
+
+
+
+General
+
+Tag(s)
+
+
+              Event reporting non compliant,
+              Use of Erroneous Performance Data,
+              CVR overwritten,
+              Delayed Accident/Incident Reporting
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Pre Flight Data Input Error
+          
+
+
+
+
+RE
+
+Tag(s)
+
+
+              Incorrect Aircraft Configuration
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 12 September 2021, an Embraer 195-E2 (PH-NXD) operated by KLM Cityhopper on a scheduled international passenger flight from Berlin to Amsterdam as KL1830 became airborne only 443 metres before the end of the 3,600 metre-long runway 25R at Berlin. The crew had commenced the takeoff from an intersection that provided 1,320 metres less runway than their performance calculation required. The takeoff and initial climb were unaffected, but neither a high-speed rejected takeoff nor an engine failure immediately after takeoff would have necessarily avoided an accident.   
+Investigation
+After a significant delay, KLM Cityhopper eventually reported what was clearly a Serious Incident to the Dutch Safety Board (DSB), who then informed the German Federal Bureau of Aircraft Accident Investigation (BFU). The latter then delegated the Investigation to the DSB. Relevant data were downloaded from the FDR, but those on the CVR had been overwritten because the pilots’ only action after the flight was to raise an ASR. 
+The Flight Crew
+No information was recorded on the age and experience of the pilots, but it was noted that the flight concerned was the final one in a late-starting three-sector duty period on the fourth consecutive day of the same pilots operating together. They had operated four sectors the previous day and night-stopped in Basel. 
+What Happened
+All the operators’ pilots are provided with an iPad that serves as an EFB, and in the case of the Embraer fleet, one of its installed applications, Embraer’s “ePerf” is used for takeoff and landing performance calculations. The turnround in Berlin had allowed sufficient time to prepare for the flight without being under any pressure. Having noted the likelihood of departing from runway 25R, the two pilots reported that they had both agreed on intersection L5 (see the illustration below).  
+
+The aircraft taxi route from the apron to LF with K5 also marked. [Reproduced from the Official Report]
+Both pilots then independently calculated the takeoff performance data and cross-checked their results, which were identical. The parameters output consisted of Takeoff Mode-3, Flap1, V1 139, VR 140, V2 143 and the assumed temperature (TASS) of 57°C. Since the data also “seemed to be realistic and within the range of what could be expected”, they were then entered into the FMS.
+Departure on the route illustrated subsequently followed with the captain acting as PF, and once clearance had been given, takeoff was commenced from L5. The PM first officer stated he had noticed that the indicated N1 was 75% but although he considered this to be low, he assumed it was correct. He also stated that he had “felt the acceleration was slow” and had considered calling for full thrust but had not done so as “to avoid triggering the captain to reject the takeoff on hearing a non-standard call”. The captain also stated that he had thought the acceleration was “slower than he was accustomed to.” He attributed this to the weight of the type variant being flown, which was the heaviest of the operator’s E-Jet variants. He also stated that as the E2 is “more automated than the other variants,” he was nevertheless inclined to believe that the selected thrust was correct.
+Both pilots stated that during the first part of the takeoff roll, the red lights at the end of the runway were not initially visible because the runway surface rises from their entry point. (Editors Note: the 25R runway surface is charted as 1.6 metres higher halfway between its mid-point and its upwind end.) The pilots added that at about the same time as the aircraft reached V1, the red runway end lights became visible. Thereafter, they stated that the distance to the end gave them both the impression that the aircraft became airborne with not much runway length remaining.
+Once stabilised during the climb, the takeoff was discussed, and after checking, it was found that “they had both selected intersection ‘K5’ instead of intersection ‘L5’ in the ePerf takeoff performance calculation”. A re-calculation showed that “the assumed temperature should have been 35 °C instead of 57 °C and that Flaps 3 should have been set instead of Flaps 1”. The incorrect almost full-length data had meant that the actual TORA/ASDA had been 2,065 metres, whereas as well as using Flaps 3 instead of Flaps 1, the required figure had been 3,385 metres. This meant that the aircraft would have been unable to stop on the runway if the takeoff had to be rejected at or approaching V1, and a runway excursion would have occurred. In the event of engine failure above V1, the aircraft would probably have been unable to achieve the required obstacle clearance and climb performance.
+Why It Happened
+It was observed that data entry into the ePerf app is a routine operation that is often repeated and therefore tends to be done quickly. It was noted that the access points for each available runway are viewed on a pull-down list presented in alphabetical order, which for runway 25R means ‘K5’ is just above ‘L5’. It would therefore have been relatively easy for both pilots to make the same mistake. It was considered that touchscreen selection is commonly recognised to be vulnerable to selection errors, with two factors contributing to errors on such systems: the absence of any system feedback, and what is referred to as the ‘fat finger’ problem i.e. that the finger a large and relatively crude pointing device for small targets. 
+Another example of a Serious Incident in which the same type of runway intersection selection error had been made during takeoff performance calculations was noted to have been for an EasyJet A319 departure from Nice in 2019.
+It was noted that the ePerf app does not include a pictorial presentation of the selected takeoff starting point, which would have provided a simple means of error detection but that such an improvement is currently planned for 2024. Other enhancements are also intended to help reduce selection errors, including a two-step selection of intersection, then runway, and highlighting the intersection used for calculation in the output page header.
+In respect of the fact that the flight crew did not immediately increase thrust on seeing that the end of the runway was unusually close, it was considered by the DSB without additional comment that “it is the dominant response, common and trained, that pilots do not add thrust during the takeoff." No evidence was found that factors such as rush, operational pressure, last minute changes, or distraction played any role in the event.  
+Finally, the question of whether the extent and frequency of switching between type variants had been a factor was considered, given the crew had flown three different Embraer E-Jet variants - the E175, the E190 and the 195-E2 - during their four-day pairing. It was noted that frequent changes of this sort had been found in other Serious Incidents such as the one involving a British Airways A321 departing Glasgow in 2019 where the crew had flown the A319, A320 and A321 on three consecutive days. However, no conclusive finding on the matter was made in that or other similar investigations.
+Three Contributory Factors were identified for the Selection Error made by the crew as follows:
+
+Use of a touchscreen takeoff performance tool, especially if it is used routinely and therefore quickly. The lack of system feedback about the location of the finger and the ‘fat finger’ problem can also contribute to selection errors when working on a touchscreen.
+The takeoff performance calculation application did not provide any visual feedback about the selected intersection and runway.
+The pull-down menu contained selection options (runway intersections) that are not normally used by the operator.
+
+Three Contributory Factors were identified for the propagation of the mis-selection made by the crew as follows:
+
+The cross-check they made did not reveal the mis-selection error because the pilots probably only focused on the performance calculation outputs, which would not have differed as both pilots had selected the same wrong intersection.
+Passing the sign at intersection L5, which gave the runway length ahead did not reveal the selection error either, because the crew had this intersection in mind and the calculated N1 was also within their expected range. Also, the fact that they flew different variants of the aircraft type may have widened their range of expected performance parameters.
+The crew was naturally inclined to trust the performance calculation application.
+
+One Safety Recommendation was made as a result of the findings of the Investigation as follows:
+
+That Embraer start the development of an independent onboard system that detects gross input errors in the process of takeoff performance calculations and/or alerts the flight crew to abnormal low accelerations for the actual aeroplane configuration, as well as insufficient runway length available.
+
+The Final Report was published on 21 September 2023.
+Related Articles
+
+FMS Data Input Error
+Use of Erroneous Parameters at Take-Off
+Takeoff Run Available (TORA)
+Accelerate Stop Distance Available (ASDA)
+Runway Excursion
+A319, Nice France, 2019
+A321, Glasgow UK, 2019

@@ -1,0 +1,358 @@
+Technique for the Retrospective and Predictive Analysis of Cognitive Errors in Air Traffic Control (TRACer)
+
+
+
+
+
+
+
+
+
+
+
+  Technique for the Retrospective and Predictive Analysis of Cognitive Errors in Air Traffic Control (TRACer)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+TRACEr is a human error identification (HEI) technique developed specifically for use in air traffic control (ATC). TRACEr was developed as part of the human error in European air traffic management (HERA) project. Under the HERA project remit, the authors were required to develop a human error incidence analysis technique that conformed to the following criteria (Isaac, Shorrock & Kirwan, 2002). 
+
+Flowchart based for ease of use.
+Should utilise a set of inter-related taxonomies (EEM's, IEM's, PEM's, PSF's, Tasks and Information and equipment).
+Technique must be able to deal with chains of events and errors.
+PSF taxonomy should be hierarchical and may need a deeper set of organisational causal factor descriptors.
+Must be comprehensive, accounting for situation awareness, signal detection theory and control theory.
+Technique must be able to account for maintenance errors, latent errors, violations and errors of commission.
+
+TRACEr can be used both predictively and retrospectively and is based upon a literature review of a number of domains, including experimental and applied psychology, human factors literature and communication theory (Isaac, Shorrock & Kirwan, 2002). Existing HEI methods were reviewed and research within ATM was conducted in the development of the method. TRACEr is represented in a series of decision flow diagrams and comprises eight taxonomies or error classification schemes: 
+
+Task Error,
+Information,
+Performance Shaping Factors (PSF’s),
+External Error Modes (EEM’s),
+Internal Error Modes (IEM’s),
+Psychological Error Mechanisms (PEM’s),
+Error detection and
+Error correction.
+
+Procedure and advice (Predictive analysis)
+Step 1:Hierarchical Task Analysis (HTA)
+The process begins with the analysis of work activities, using Hierarchical Task Analysis. HTA (Annett et al., 1971; Shepherd, 1989; Kirwan & Ainsworth, 1992) is based upon the notion that task performance can be expressed in terms of a hierarchy of goals (what the person is seeking to achieve), operations (the activities executed to achieve the goals) and plans (the sequence in which the operations are executed). The hierarchical structure of the analysis enables the analyst to progressively re-describe the activity in greater degrees of detail. The analysis begins with an overall goal of the task, which is then broken down into subordinate goals. At this point, plans are introduced to indicate in which sequence the sub-activities are performed. When the analyst is satisfied that this level of analysis is sufficiently comprehensive, the next level may be scrutinised. The analysis proceeds downwards until an appropriate stopping point is reached (see Annett et al, 1971; Shepherd, 1989, for a discussion of the stopping rule). 
+Step 2: PSF and EEM consideration
+The analyst takes the first bottom level task step from the HTA (operation) and considers each of the PSF’s for the task step in question. The purpose of this is to identify any environmental or situational factors that could influence the air traffic controller’s performance. Once the analyst has considered all of the relevant PSF’s, the EEM’s are considered for the task step under analysis. Based upon subjective judgement, the analyst determines whether any of the TRACEr EEM’s are credible for the task step in question. Figure 1 shows the TRACEr EEM taxonomy. If there are any credible errors, the analyst proceeds to step 3. If there are no errors deemed credible, then the analyst goes back to the HTA and takes the next task step. 
+Figure 1. TRACEr’s external error mode taxonomy 
+
+
+
+Selection and Quality
+Timing and Sequence
+Communication 
+
+
+
+
+Omission
+Action too long
+Unclear Info transmitted 
+
+
+Action Too much
+Action too short
+Unclear info recorded 
+
+
+Action Too little
+Action too early
+Info not sought/obtained 
+
+
+Action in wrong direction
+Action too late
+Info not transmitted 
+
+
+Wrong action on right object
+Action repeated
+Info not recorded 
+
+
+Right action on wrong object
+Mis-ordering
+Incomplete info transmitted 
+
+
+Wrong action on wrong object
+Incomplete info recorded 
+ 
+
+
+Extraneous act
+Incorrect info transmitted 
+ 
+
+
+Incorrect info recorded 
+ 
+ 
+
+
+
+Step 3: IEM classification
+For any credible errors, the analyst then determines which of the internal error modes (IEM's) are evident in the error. IEM's describe which cognitive function failed or could fail (Shorrock & Kirwan, 2002). Examples of TRACEr IEM's include Late detection, misidentification, hearback error, forget previous actions, prospective memory failure, misrecall stored information and misprojection. 
+Step 4: PEM classification
+Next, the analyst has to determine the psychological cause or 'psychological error mechanism' (PEM) behind the error. Examples of TRACEr PEM's include insufficient learning, expectation bias, false assumption, perceptual confusion, memory block, vigilance failure and distraction. 
+Step 5: Error Recovery
+Finally, once the error analyst has described the error and determined the EEM, IEM's and PEM's, error recovery steps for each error should be offered. This is based upon the analyst's subjective judgement. 
+ 
+Flowchart (Predictive TRACEr)
+Procedure and advice (Retrospective Analysis)
+Step 1: Analyse incident into ’error events’
+Firstly, the analyst has to classify the task steps into error events i.e. the task steps in which an error was produced. This is based upon analyst judgement. 
+Step 2: Task Error Classification
+The analyst then takes the first/next error from the error events list and classifies it into a task error from the task error taxonomy. The task error taxonomy contains thirteen categories describing controller errors. Task error categories include 'radar monitoring error', 'co-ordination error' and 'flight progress strip use error' (Shorrock and Kirwan, 2002). 
+Step 3: IEM Information Classification
+Next the analyst has to determine the internal error mode (IEM) associated with the error. IEM's describe which cognitive function failed or could fail (Shorrock & Kirwan, 2002). Examples of TRACEr IEM's include late detection, misidentification, hearback error, forget previous actions, prospective memory failure, misrecall stored information and misprojection. When using TRACEr retrospectively, the analyst also has to use the information taxonomy to describe the 'subject matter' of the error i.e. what information did the controller misperceive? The information terms used are related directly to the IEM's in the IEM taxonomy. The information taxonomy is important as it forms the basis of error reduction within the TRACEr technique. 
+Step 4: PEM Classification
+The analyst then has to determine the 'psychological cause' or psychological error mechanism (PEM) behind the error. Example PEM's used in the TRACEr technique include Insufficient learning, expectation bias, false assumption, perceptual confusion, memory block, vigilance failure and distraction. 
+Step 5: PSF Classification
+Performance shaping factors are factors that influenced or have the potential to have influenced the operator's performance. The analyst has to use the PSF taxonomy to select any PSF's that were evident in the production of the error under analysis. TRACEr's PSF taxonomy contains both PSF categories and keywords. Examples of PSF's used in the TRACEr technique are shown below in figure 2. 
+
+
+
+PSF Category
+Example PSF keyword 
+
+
+
+
+Traffic and Airspace
+Traffic complexity 
+
+
+Pilot/controller communications
+RT Workload 
+
+
+Procedures
+Accuracy 
+
+
+Training and experience
+Task familiarity 
+
+
+Workplace design, HMI and equipment factors
+Radar display 
+
+
+Ambient environment
+Noise 
+
+
+Personal factors
+Alertness/fatigue 
+
+
+Social and team factors
+Handover/takeover 
+
+
+Organisational factors
+Conditions of work 
+
+
+
+Figure 2. Extract from TRACEr’s PSF taxonomy 
+Step 6: Error detection and Error correction
+Unique to the retrospective use of TRACEr, the error detection and correction stage provides the analyst with a set of error detection keywords. Four questions are used to prompt the analyst in the selection of error detection keywords (Source: Shorrock & Kirwan, 2002). 
+
+How did the controller become aware of the error? (e.g. action feedback, inner feedback, outcome feedback)
+What was the feedback medium? (e.g. radio, radar display)
+Did any factors, internal or external to the controller, improve or degrade the detection of the error?
+What was the separation status at the time of error detection?
+
+Once the analyst has classified the error detection, the error correction or reduction should also be classified. TRACEr uses the following questions to prompt the analyst in error correction/reduction classification (Source: Shorrock and Kirwan, 2002). 
+
+What did the controller do to correct the error? (e.g. reversal or direct correction, automated correction)
+How did the controller correct the error? (e.g. turn or climb)
+Did any factors, internal or external to the controller, improve or degrade the detection of the error?
+What was the separation status at the time of the error correction?
+
+Once the analyst has completes step 6, the next error should be analysed. Alternatively, if there are no more ’error events’ then the analysis is finished. 
+Advantages
+
+TRACEr technique appears to be a very comprehensive approach to error prediction and error analysis, including IEM, PEM, EEM and PSF analysis
+TRACEr is based upon sound scientific theory, integrating Wickens (1992) model of information processing into its model of ATC.
+In a prototype study (Shorrock, 1997), a participant questionnaire highlighted comprehensiveness, structure, acceptability of results and usability as strong points of the technique (Shorrock and Kirwan, 2002).
+TRACEr has proved successful in analysing errors from AIRPROX reports and providing error reduction strategies.
+Used in the European human error in ATC (HERA) project.
+Developed specifically for ATC, based upon previous ATC incidents and interviews with ATC controllers.
+
+ 
+Flowchart (Retrospective TRACEr)
+Disadvantages
+
+The TRACEr technique appears unnecessarily over-complicated for what it actually is, a taxonomy based error analysis tool. A prototype study (Shorrock, 1997) highlighted a number of areas of confusion in participant use of the different categories (Shorrock and Kirwan, 2002).
+No validation evidence or studies using TRACEr.
+For complex tasks, analysis will become laborious and large
+Very high resource usage (time). In a participant questionnaire used in the prototype study (Shorrock, 1997) resource usage (time and expertise) was the most commonly reported area of concern (Shorrock and Kirwan, 2002).
+Training time would be extremely high for such a technique.
+Extra work involved if HTA not already available
+Existing techniques using similar EEM taxonomies appear to be far simpler and much quicker (SHERPA, HET etc).
+
+Related Methods
+TRACEr is a taxonomic approach to HEI. A number of error taxonomy techniques exist, such as SHERPA, CREAM and HET. When applying TRACEr (both predictively and retrospectively) an initial HTA for the task/scenario under analysis is required. 
+Approximate training and application times
+No data regarding training and application times for the TRACEr technique are presented in the literature. It is estimated that both the training and application times for TRACEr would be high. 
+Reliability and validity
+There are no data available regarding the reliability and validity of the TRACEr technique. According to the authors (Shorrock and Kirwan, 2002) such a study is being planned. In a small study analysing error incidences from AIRPROX reports (Shorrock and Kirwan, 2002) it was reported, via participant questionnaire, that the TRACEr techniques strengths are its comprehensiveness, structure, acceptability of results and usability. 
+References
+
+Isaac, A., Shorrock, S.T., Kirwan, B., (2002) Human Error in European air traffic management: The HERA project. Reliability Engineering and System Safety, Vol. 75 pp 257-272
+Shorrock, S.T., Kirwan, B., (1999) The development of TRACEr: a technique for the retrospective analysis of cognitive errors in ATC. In: Harris, D. (Ed), Engineering Psychology and Cognitive Ergonomics, Vol. 3, Aldershot, UK, Ashgate
+Shorrock, S.T., Kirwan, B., (2000) Development and application of a human error identification tool for air traffic control. Applied Ergonomics, Vol. 33 pp319-336
+
+
+
+
+
+Categories
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+Generics
+
+
+Target of method
+Human Error
+
+
+Time Scale of method
+ 
+
+
+Portability of method
+Yes
+
+
+TRACEr analyses can be carried out using pen and paper. PEM, EEM, IEM, PSF taxonomy lists are also required. A HTA for the task under analysis is also required.
+
+
+Context of studies
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Potential problems with the method
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Costs of the method
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Analysis data
+
+
+Analysis Speed
+ 
+
+
+ 
+
+
+Data Automation
+ 
+
+
+ 
+
+
+Analysis Automation
+ 
+
+
+ 
+
+
+Status
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

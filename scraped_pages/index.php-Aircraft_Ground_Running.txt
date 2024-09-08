@@ -1,0 +1,158 @@
+Aircraft Ground Running
+
+
+
+
+
+
+
+
+
+
+
+  Aircraft Ground Running
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Ground Operations 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+The term Aircraft Ground Running is usually used to describe the operation of some or all of the engines of an aircraft, whilst on the ground, for the purpose of functionally checking the operation of either engines or aircraft systems. This usually takes place prior to the Release to Service of an aircraft from maintenance. Ground running may be carried out either prior to, during or after the rectification of a defect or scheduled work on an engine or an aircraft system, when this requires engines to be operating in order to assess its function. Although the aircraft may need to be taxied or towed to an approved ground running position under a clearance from ATC, most operators and maintenance organisations do not require pilots to be on board because aircraft technicians can be trained and approved for these duties.
+Regulatory Context
+Whilst there are many relevant regulatory aspects of which there must be awareness by persons controlling such operations, there are no general regulatory requirements which apply to the supervision and control of this specific task. Therefore, this article seeks to provide guidance which can inform about risk mitigation.
+The Risk to Operational Safety
+The risks which may arise from engine ground running relate to the potential for loss of control of the aircraft by those persons occupying the pilot seats in the flight deck. In most cases, such persons will be maintenance personnel holding specific company-issued approval for the required tasks. The consequences of loss of control during taxi or towing are the same as apply to these operations generally and this article is concerned only with the risks arising from the static running of one or more aircraft engines. Unwanted consequences from such static running are mainly related to those arising from the unintended movement of the aircraft during engine running - effectively a loss of control - especially during high power engine running. Damage can occur to the aircraft itself, other aircraft nearby or to airside structures. In addition, there is a risk of injury to ground support personnel who may be in relatively close proximity to the aircraft.
+
+Overall Risk Mitigation
+The best form of overall mitigation is to ensure that all persons authorised to supervise or directly participate in engine ground running from the flight deck, who are not pilots or flight engineers currently rated on the specific aircraft type, are in receipt of suitable initial training and that there is a proper system for both initial and recurrent qualification for engine ground running duties. Both initial and recurrent qualification must include practical training and assessment of task competence using either a full flight simulator or an aircraft. Between formal competency assessments, a maximum interval between performance of the qualified task should be specified. If that interval is exceeded, the qualification would become void until remedial action has been competed. In this respect, the task of engine ground running should be seen as part of a broader group of aircraft ground movement tasks which can be carried out under the control of flight deck occupants other than type rated flight crew.
+Generic and type specific knowledge requirements and practical experience related to ground engine runs defined in regulations (i.e. in Europe EASA Part 66 Appendix I (Basic Training Requirements) and Appendix III (Type Training Requirements), AMC 66 Appendix II (Aircraft type practical experience list of tasks)) have to be met by the license holders. Only certifying staff, whose competency has been assessed by the Quality Department of the Approved Maintenance Organisation (i.e. Part 145 Approved Organisation in Europe), can / should be issued with “certification authorisation” to conduct ground engine runs. Although the regulations do not stipulate, some organisations use simulators for training their engineers whilst others prefer on-the-job training and expect engineers to carry out engine runs under supervision before they are given the authorisation. All certifying staff must follow the up-to-date ground engine run procedures, which are defined in the applicable Aircraft Maintenance Manual (AMM) as well as the Maintenance Organisation Exposition, which may include additional specific requirements applicable to the organisation. (Ref: AMC.145.A.70)
+Key proactive components for safe task completion are clear procedural guidance and a series of Checklists for use during each stage of a ground running task. Standard Checklists, which should be specific to the non-airborne limitation and so cannot just be the flight crew versions, should include:
+
+Pre start
+Starting
+After Start (engine ground idle running only)
+After Start (engine running above ground idle)
+Pre Taxi
+Pre Towing
+Pre Engine Running above Flight Idle (unless this action occurs immediately after engine start.)
+
+In addition, response to potential but unexpected occurrences must be covered by appropriate training and, where a rapid response may be necessary, memory actions.
+Finally, engine ground running, especially if engine operation above Ground Idle is to take place, is best carried out with both flight deck pilot seats occupied and with clearly defined roles for the person in charge and their assistant. In particular, this allows checklists to be carried out using the challenge and response method.
+Task Detail - Key Risk Controls
+
+Thrust levels above ground idle should be applied symmetrically.
+Task Checklists must be constructed so that there is never a cause to temporarily defer items and continue.
+Once a task has been initially briefed by the person authorised to supervise it, modifications to the briefed task should only be permitted within a clearly defined limit without a complete task re-briefing.
+Where two persons, both holding the necessary authorisation to be able to supervise a task, are teamed together to conduct it, one of them must be designated by the Aircraft Operator or MRO as the supervisor for a particular task and should lead the pre-task briefing. No change of designated supervisor should occur during a briefed task.
+Any plan for engine ground running which is authorised for power above Ground Idle must be carried out with the aircraft in a position in which unexpected and unintended forward movement will not result in damage or injury should the appropriate response from the designated supervisor be delayed.
+Knowledge of the brake and hydraulic systems on any aircraft type for which a person is permitted to occupy a flight deck seat, for the purposes of engine ground running, must be comprehensive and formally certified as such.
+All equipment and personnel must be completely clear of an aircraft before engine running above ground idle occurs.
+Where local regulations require that contact with ATC GND is maintained in connection with ground running, this should specifically include ensuring that ATC are advised prior to commencing or after completing any periods of ground running at power above ground idle, even if such activity does not require explicit ATC permission at the site being used.
+Where engines are being run for the purposes of facilitating system tests, a specific test sequence should be pre-specified in text form and should incorporate any appropriate checklists or give specific AMM references to these. If the latter method is used, current copies of such checklists should be appended to the test sequence.
+Wheel chocks should be in place at the main landing gear for all ground running. In the case of ground running of engines above ground idle, care should be given to checking that the chocks being used are of a type which corresponds to the mass of the aircraft involved and that the chocking of wheels other than those at the main landing gear assemblies is considered.
+AMM’s require that a fire extinguisher be within the vicinity of the engine, particularly if the engine cowlings are open and you are going to do leak check. This is because, in the case of a fire due to an oil/fuel leak in the fan section, the engine fire extinguishers may not be not be effective and you have to fight the fire with an external fire extinguisher.
+QA audits carried out by the Aircraft Operator and any MRO involved should include a compliance audit of all procedures associated with engine ground running. This must extend to the recorded application of relevant procedures as well as their formal documentation.
+
+Incident Investigation
+Although non-injury engine ground running incidents will not normally be subject to investigation under Annex 13 procedures, it is important that, to facilitate any necessary modification to future risk management, all serious incidents are subject to the same standard of independent investigation as would apply to an event occurring when the aircraft was released to service and under the control of qualified flight crew.
+Accidents and Incidents
+
+
+B762, Los Angeles USA, 2006On June 2, 2006, an American Airlines Boeing 767-200ER fitted GE CF6-80A engines experienced an uncontained failure of the high pressure turbine (HPT) stage 1 disc in the No. 1 engine during a high-power ground run carried out in designated run up area at Los Angeles for maintenance purposes during daylight normal visibility conditions. The three maintenance personnel on board the aircraft as well as two observers on the ground were not injured but both engines and the aircraft sustained substantial damage from the fuel-fed fire which occurred as an indirect result of the failure.
+
+
+
+
+Related Articles
+
+Jet Efflux Hazard
+Prop Wash
+
+
+
+
+
+Categories
+
+
+Ground Operations
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,261 @@
+B744, vicinity Harare Zimbabwe, 2019
+
+
+
+
+
+
+
+
+
+
+
+  B744, vicinity Harare Zimbabwe, 2019
+
+
+
+
+
+
+
+
+
+Summary
+
+On 8 July 2019, a loud bang was heard following intermediate flap selection on a Boeing 747-400F making an approach to Harare and a concurrent uncommanded right roll was countered with left aileron. The flight was completed without further event but a post-flight inspection found part of the inboard section of the right wing flap assembly was missing and the right fuselage impact-damaged in several places. The missing flap section measuring 3.7 metres by 0.6 metres was recovered with detachment attributed to undetected fatigue cracking already present at component installation. A long history of problems with 747 flaps was noted.
+
+
+
+
+Event Details
+
+When
+
+08/07/2019
+
+
+
+Event Type
+
+
+AW
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 747-400 (international, winglets)
+
+
+
+
+
+
+
+
+
+Operator
+
+Martinair
+
+
+
+Type of Flight
+
+Public Transport (Cargo)
+
+
+
+Flight Origin
+
+
+
+
+O. R. Tambo International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Descent
+
+
+
+
+
+
+
+
+General
+
+Tag(s)
+
+
+              Inadequate Airworthiness Procedures
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Airframe
+          
+
+
+
+Contributor(s)
+
+
+              Inadequate Maintenance Inspection,
+              Component Fault in service,
+              Corrosion/Disbonding/Fatigue,
+              In flight separation of failed component
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Aircraft damage
+
+Major
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 8 July 2019, a Boeing747F (PH-CKA) being operated by Martinair, a wholly-owned subsidiary of KLM, on an international cargo flight from Johannesburg to Harare, lost a significant part of the foreflap section of the inboard triple slotted trailing edge flap assembly on its right wing during its approach to runway 05 at destination in day VMC. The missing structure was found approximately 5nm from the landing runway threshold in a densely populated urban area and recovered with no resulting personal injury or damage to structures reported. Secondary consequences of the detachment for the aircraft structure included damage to the adjacent mid flap assembly rendering it beyond economic repair and impact damage to both the right hand aft wing and body fairing and to the right aft fuselage.    
+
+The extent of the missing inboard flap section as discovered on arrival at Harare. [Reproduced from the Official Report]
+Investigation 
+An Investigation in accordance with ICAO Annex 13 was initially commenced by the Zimbabwe Civil Aviation Authority (CAAZ) but on 21 February 2020, responsibility for completing the Investigation was delegated by the CAAZ to the Dutch Safety Board. Relevant QAR data was available.
+What Happened and Why
+The Fowler Flaps failure was found by examination of the recovered inboard section to show that detachment had followed failure of the outer foreflap fitting lug and that the failed component was showing signs of fatigue and overload failure - see the first illustration below. However, when the broken fitting lug was subjected to a metallurgical failure analysis, it was found that the two fracture surfaces differed in that one was the initial fatigue fracture and the other was the consequential overload fracture - see the second illustration below. Whilst it was the second (overload) fracture which had then led to part of the flap assembly departing the wing, it was not possible to deduce the interval between the two failures.
+
+The damaged parts of the right wing inboard foreflap. [Reproduced from the Official Report]
+
+The broken flap fitting lug showing the two fracture surfaces. [Reproduced from the Official Report]
+Examination of the inner surface of the failed lug found evidence of a highly pitted surface area from which the fatigue fracture would have originated by reducing its functional area and thus tensile strength. In the opinion of the organisation which carried out this metallurgical analysis, the pitting on the inside surface of the outboard fitting lug was of corrosive origin and probably caused by moisture accumulating in the space between the lug inner surface and the outer surface of the bearing around which it had been installed. Since this type of corrosion takes a long time to develop, it was highly likely that it had already been present well before the failure occurred. 
+Maintenance documentation showed that as the fitting had been in service for 16 years, it would have had plenty of time to degrade. Unfortunately when, during a ‘D’ Check carried out by an MRO one year prior to the failure, the bearing contained by subsequently failed lug was found migrated, it was replaced without any evidence that an attempt had been made to find the cause of the bearing migration nor to confirm that the fitting lug was still within technical specifications. The maintenance worksheet raised by the MRO involved quoted the applicable Standard Overhaul Practice Manual procedure as having been used to replace the bearing but made no reference to compliance with instructions to “visually inspect parts of the foreflap fitting and bearing for defects and if needed, to use additional inspection methods to further investigate anomalies provided in the CMM". 
+It was also found that there was an applicable SB 747-27-2366 (Rev 3) which required a periodic inspection (recommended every six months although carried out by KLM Engineering every 7/8 months) of the inboard foreflap outboard fitting lug (the one which failed) for bearing migration. However, since the lug internal surface could not be inspected unless the assembly was dismantled and this was not required, such an inspection was not part of this proactive airworthiness oversight routine. It was also noted that at the time of the event, the fitting lug was not life-limited, its actual service life fleet wide was between eleven and sixteen years and that the same corrosion-induced fatigue failure had been causal in many previous in-service failures.
+Seven other similar failures resulting in the partial in-flight separation of part or all of Boeing 747 inboard foreflaps were noted to have occurred between 2009 and the failure investigated here. 
+Safety Action taken following this event whilst the Investigation was in progress was noted to have included the issue by Boeing of an Alert SB 747-57A2367 (subsequently mandated as a AD 2021-02-15 by the FAA) requiring replacement of specific parts of the trailing edge flap system at an interval specific to the inboard foreflap outboard fitting of every six years or 5,880 flight cycles.
+The Final Report was released by the Dutch Safety Board on 24 February 2022. In the light of the manufacturer and regulatory action taken, no Safety Recommendations were deemed necessary.    
+Related Articles
+
+Flaps
+Wing Mechanisms
+Airworthiness - The System
+Ageing Aircraft - Structural Failures
+‘D’ Check

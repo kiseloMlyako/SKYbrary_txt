@@ -1,0 +1,133 @@
+Short Term ATFCM Measures (STAM)
+
+
+
+
+
+
+
+
+
+
+
+  Short Term ATFCM Measures (STAM)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+An approach to smooth sector workloads by reducing traffic peaks through short-term application of minor ground delays, appropriate flight level capping and exiguous rerouting to a limited number of flights.
+Source: EUROCONTROL ATM Lexicon
+Note: ATFCM stands for "Air Traffic Flow and Capacity Management"
+Description
+Overloading of ATC sectors is typically resolved by delaying the departure of flights that may contribute to the burden, which is done through the Network Manager (NM) by issuing a Calculated Take Off Time (CTOT). CTOTs are typically allocated two hours before the flight is originally scheduled to take off, and, while these measures help to manage situations of overload, their forward planning regulation requirements means that effectiveness and efficiency can be limited. Another option for traffic management is to impose route availability restrictions which generally separates traffic flows and reduce complexity. An example of this is to state that certain routes, waypoints, etc. are only available (or are not available) to traffic meeting specific conditions (e.g. departure and destination aerodromes, previously used waypoints, etc.). While the safety benefits are significant, this again happens at the cost of reduced efficiency, sometimes unnecessarily given the fact that they are imposed at the flight planning stage which may be more than a day earlier.
+With the introduction of STAMs, the system has more flexibility to handle overload, since the measures are applied at a later stage, leading to improved efficiency.
+STAMs can be applied to either selected flights or to full traffic flows (e.g. all traffic with a certain destination or to aircraft flying over a specific area or on a specific route).
+The result is that ATC sector peak workload is adjusted dinamically, i.e. workload is redistributed from sectors that are about to be overloaded to others that can safely accomodate more traffic. While this also reduces flight efficiency, the impact is much less than the alternatives as (a) it only affects a small number of flights and (b) the intervention is temporary. Also, effort is made to keep such interventions to a minimum and to remove them when they are not needed anymore.
+STAMs are implemented by local Flow Management Positions (FMPs), but of because they impact the whole network, their application requires that a Network Impact Assessment be made by FMPs in coordination with the NM.
+Examples of STAMs:
+
+Level capping. This means that flights that meet certain conditions would be subject to a restriction, e.g. all flights departing from EZZZ must be at FL XXX or below over point ENTRY. This is the most commonly used STAM. The purpose is to protect an upper sector that would otherwise be overloaded by temporarily constraining a group of flights (or sometimes a single flight) to fly at lower levels. This is done by either delaying their climb or avdancing their initial descent. Note that in the former case it is very likely that the requested cruising level is achieved at a later time and in the latter case it is common to have the flight use its derired cruising level for a portion of the time.
+Rerouting. This means mandatory diversion of flows to offload traffic from certain areas.
+Alternative routing. Alternative routes are exceptionally made available to offload traffic from certain areas, implemented by regulations with a low rate. Another option is the application of dynamic routing restrictions.
+Minimum departure interval. This means that sequential departures from certain aerodromes need to be spaced by X minutes if they proceed in a specific direction. The restrictions are similar to assigning CTOTs, the difference being that the application of the measure is temporary.
+Successive aircraft separation. This means that traffic is regulated by requiring minimum miles-in-trail separation is maintained between a series of successive aircraft on specific routes.
+
+Related Articles
+
+Air Traffic Management (ATM)
+ATM Sector Management
+Network Manager
+Network Manager Operations Centre (NMOC)
+Calculated Take Off Time (CTOT)
+Controller Workload
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,267 @@
+Communication Failure: Guidance for Controllers
+
+
+
+
+
+
+
+
+
+
+
+  Communication Failure: Guidance for Controllers
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Air Ground Communication 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This article is based on ICAO provisions regarding communication failure as well as on best practices guidance identified by EUROCONTROL.
+There is no set of ready, "out-of-the-box" rules to be followed universally. As with any unusual or emergency situation, controllers should exercise their best judgment and expertise when dealing with the consequences related to radio communication failure (RCF) to aircraft in any stage of flight. A generic checklist for handling unusual situations is readily available from EUROCONTROL but it is not intended to be exhaustive and is best used in conjunction with local ATC procedures.
+Description
+This article provides guidance for controllers on what to expect and how to act when dealing with onboard radio communication failure (RCF) situations. There are some considerations which will enable the controller, not only to provide as much support as possible to the aircraft concerned, but also to maintain the safety of other aircraft in the vicinity and of the ATC service provision in general.
+Useful to Know
+RCF is an eventuality that pilots, as well as air traffic controllers, are well prepared to manage. Although the complete loss of communication is an extremely rare event due to duplication of equipment, there are several areas which contribute most commonly to full or partial communication breakdown:
+
+Airborne or ground radio equipment malfunction;
+Sleeping Receiver;
+Stuck microphone selector.
+
+It is important to note that the applicable RCF procedures are expected to conform to the established ICAO Standards and Recommended Practices (SARPS) and Procedures (See the list of ICAO documents in Further Reading; for detailed list of factors and circumstances leading to RCF, see the dedicated SKYbrary article: Loss of Communication)
+Anticipated Impact on Crew
+A wide range of practical problems could arise following RCF:
+
+Crew may not be immediately aware of the communication loss;
+Increased workload in the cockpit - crew must determine the time the RCF occurred and act accordingly by:
+
+attempting to establish radio telephony (RT) contact on the last frequency and other radio frequencies established for the flight route;
+attempting to establish RT contact with other aeronautical stations or aircraft or attempting to establish communication with the relevant ATC unit by any alternate available means;
+if RT contact cannot be established with the responsible ATC, the crew will follow procedures for RCF failure as described by their operational manual and all other applicable documents;
+adherence to the appropriate RCF emergency procedures depending on the flight conditions - VMC or IMC.
+
+
+
+What to Expect
+The aircraft shall comply with the voice communication failure procedures of Annex 10, Volume II, and with those of the following procedures as are appropriate. The aircraft shall attempt to establish communications with the appropriate air traffic control unit using all other available means. In addition, the aircraft, when forming part of the aerodrome traffic at a controlled aerodrome, shall keep a watch for such instructions as may be issued by visual signals.
+An aircraft equipped with an SSR transponder is expected to operate the transponder on Mode A Code 7600 to indicate that it has experienced air-ground communication failure. An ADS-B equipped aircraft experiencing radio communication failure may transmit the appropriate ADS-B emergency and/or urgency mode. An aircraft equipped with other surveillance system transmitters, including ADS-C, might indicate the loss of air-ground communication by all of the available means.
+If the aircraft fails to indicate that it is able to receive and acknowledge transmissions, separation shall be maintained between the aircraft having the communication failure and other aircraft, based on the assumption that the aircraft will:
+
+In VMC:
+
+Continue to fly in visual meteorological conditions;
+Land at the nearest suitable aerodrome; and
+Report the arrival by the most expeditious means to the appropriate air traffic control unit
+
+
+In IMC or when conditions are such that it does not appear likely that the pilot will complete the flight in accordance with the prescribed VMC RCF procedures above:
+
+Unless otherwise prescribed on the basis of a regional air navigation agreement, in airspace where procedural separation is being applied, maintain the last assigned speed and level, or minimum flight altitude if higher, for a period of 20 minutes following the aircraft’s failure to report its position over a compulsory reporting point and thereafter adjust level and speed in accordance with the filed flight plan; or
+
+In airspace where an ATS surveillance system is used in the provision of air traffic control, maintain the last assigned speed and level, or minimum flight altitude if higher, for a period of 7 minutes following:
+i) The time the last assigned level or minimum flight altitude is reached; or
+ii) Time the transponder is set to Code 7600 or the ADS-B transmitter is set to indicate the loss of air-ground communications; or
+iii) The aircraft’s failure to report its position over a compulsory reporting point;
+whichever is later and thereafter adjust level and speed in accordance with the filed flight plan;
+
+When being vectored or having been directed by ATC to proceed offset using RNAV without a specified limit, proceed in the most direct manner possible to rejoin the current flight plan route no later than the next significant point, taking into consideration the applicable minimum flight altitude;
+Proceed according to the current flight plan route to the appropriate designated navigation aid or fix serving the destination aerodrome and, when required to ensure compliance with 5), hold over this aid or fix until commencement of descent;
+Commence descent from the navigation aid or fix specified in 4) at, or as close as possible to, the expected approach time last received and acknowledged; or, if no expected approach time has been received and acknowledged, at, or as close as possible to, the estimated time of arrival resulting from the current flight plan;
+Complete a normal instrument approach procedure as specified for the designated navigation aid or fix; and
+Land, if possible, within 30 minutes after the estimated time of arrival specified in 5) or the last acknowledged expected approach time, whichever is later.
+
+
+
+A note concerning departing aircraft experiencing RCF: If the aircraft has been vectored away from the route specified in the flight plan then the flight crew is expected to comply with the procedures published in the appropriate regional air navigation agreement and included in the SID description or published in the AIP.
+What to Provide
+When first indications for probable RCF are received, the controllers should determine whether the event is:
+
+Partial communication failure (one way RCF), or
+Complete communication failure (two way RCF) by
+
+determining whether or not the aircraft’s receiver is functioning by instructing the aircraft on the channel so far used to acknowledge by executing a specified manoeuvre which can be observed on the ATS surveillance system display, or to transmit, if possible, a specified signal in order to indicate acknowledgement (e.g. instructing the aircraft to activate IDENT or to squawk specified SSR code and/or ADS-B transmission changes).
+If the action prescribed above is unsuccessful, it shall be repeated on any other available channel on which it is believed that the aircraft might be listening, including the emergency frequency 121.5 Mhz channel.
+Partial Communication Failure
+Where it has been established that the aircraft’s radio receiver is functioning, continued control can be effected using SSR code/ADS-B transmission changes or IDENT transmissions to obtain acknowledgement of clearances issued to the aircraft.
+Any manoeuvring instructions shall be such that the aircraft would regain its current cleared track after having complied with the instructions received. Special attention to avoid misinterpretation should be paid when the aircraft is located near an airway turn.
+Complete Communication Failure
+When a controlled aircraft experiencing complete communication failure is operating or expected to operate in an area and at flight levels where an ATS surveillance service is applied, separation minima based on ATS surveillance systems may continue to be used.
+However, if the aircraft experiencing the communication failure is not identified, separation shall be applied between identified aircraft and all unidentified aircraft observed along the expected route of the aircraft with the communication failure, until such time as it is known, or can safely be assumed, that the aircraft with radiocommunication failure has passed through the airspace concerned, has landed, or has proceeded elsewhere.
+Action taken to ensure suitable separation shall cease to be based on the assumption that the aircraft follows ICAO SARPs when:
+
+it is determined that the aircraft is following a procedure differing from ICAO SARPs (VMC and IMC RCF procedures above)
+through the use of electronic or other aids, air traffic control units determine that action differing from that required by VMC and IMC RCF procedures may be taken without impairing safety; or
+positive information is received that the aircraft has landed.
+
+As soon as it is known that two-way communication has failed, appropriate information describing the action taken by the air traffic control unit, or instructions justified by any emergency situation, shall be transmitted blind for the attention of the aircraft concerned, on the frequencies available on which the aircraft is believed to be listening, including the voice frequencies of available radio navigation or approach aids. Information shall also be given concerning:
+
+meteorological conditions favourable to a cloud-breaking procedure in areas where congested traffic may be avoided; and
+meteorological conditions at suitable aerodromes.
+
+Pertinent information shall be given to other aircraft in the vicinity of the presumed position of the aircraft experiencing the failure.
+As soon as it is known that an aircraft which is operating in its area of responsibility is experiencing an apparent RCF, an air traffic services unit shall forward information concerning the RCF to all air traffic services units concerned along the route of flight. The ACC in whose area the destination aerodrome is located shall take steps to obtain information on the alternate aerodrome(s) and other relevant information specified in the filed flight plan, if such information is not available.
+If circumstances indicate that a controlled flight experiencing a communication failure might proceed to (one of) the alternate aerodrome(s) specified in the filed flight plan, the air traffic control unit(s) serving the alternate aerodrome(s) and any other air traffic control units that might be affected by a possible diversion shall be informed of the circumstances of the failure and requested to attempt to establish communication with the aircraft at a time when the aircraft could possibly be within communication range. This shall apply particularly when, by agreement with the operator or a designated representative, a clearance has been transmitted blind to the aircraft concerned to proceed to an alternate aerodrome, or when meteorological conditions at the aerodrome of intended landing are such that a diversion to an alternate is considered likely.
+When an air traffic control unit receives information that an aircraft, after experiencing a communication failure has re-established communication or has landed, that unit shall inform the air traffic services unit in whose area the aircraft was operating at the time the failure occurred, and other air traffic services units concerned along the route of flight, giving necessary information for the continuation of control if the aircraft is continuing in flight.
+ASSIST Principle
+Best practices identified by EUROCONTROL and embedded in the ASSIST principle could be followed (A - Acknowledge; S - Separate, S - Silence; I - Inform, S - Support, T - Time) by air traffic controllers in case of RCF:
+
+A - acknowledge the RCF, determine if it is a partial or complete RCF;
+S - separate the aircraft (accordingly, identified vs. unknown traffic) and if necessary, allow long final, keep the active runway clear of departures, arrivals and vehicles;
+S - silence the non-urgent calls (as required), look for means to establish possible relay by other stations
+I - inform the supervisor and all concerned ATC units as well as airport authorities at the destination or alternative aerodrome
+S - support the flight by transmitting blind and providing any information considered necessary such as type of approach, runway length and aerodrome details, etc.
+T - provide time for the crew to assess the situation and adhere to the RCF procedures
+
+Defences
+When known that an aircraft which is operating in the area of responsibility is experiencing an apparent RCF, be ready to:
+
+Provide air traffic services taking into account expected aircraft behavior (see section "What to expect" above).
+As Area/Enroute controller: During the application of the 93 km (50 NM) separation, when an aircraft fails to report its position, take action within 3 minutes to establish communication. If communication has not been established within 8 minutes of the time the report should have been received, take action to apply an alternative form of separation. (ICAO requirements for applying longitudinal distance-based separation minima in an RNP environment not using ADS-C)
+Make use of other aircraft to relay messages when you believe aircraft is operating at extreme range or in conditions of poor propagation.
+If attempts to restore two-way communications with the aircraft are unsuccessful, inform the appropriate military authorities. Keep the military authorities informed of action taken by the ATS unit as well as any further action intended.
+As Tower controller: transmit an ARR (arrival) message:
+
+for a landing at the destination aerodrome:
+
+to all ATS units concerned with the flight during the period of the communication failure; and
+to all other ATS units which may have been alerted;
+
+
+for a landing at an aerodrome other than the destination aerodrome:
+
+to the ATS unit serving the destination aerodrome; this unit shall then transmit an ARR message to other ATS units concerned with the flight during the period of the communication failure.
+
+
+
+
+
+Further Reading
+
+ALLCLEAR? Toolkit
+
+ICAO
+
+Annex 2 - Rules of the Air, paragraph 3.6.5.2 Communication failure
+Doc 4444 Air Traffic Management (PANS-ATM) (Especially 15.3 Air-Ground Communication Failure and 8.8.3 Failure of equipment)
+Doc 8168, Aircraft Operations (PANS-OPS) - Flight Procedures - Volume 1 (Especially 1.5 Communication Failure Procedures)
+Doc 7030 EUR Regional Supplementary Procedures (SUPPS) (6.2.4.2)
+
+EUROCONTROL
+
+Guidelines for Controller Training in the Handling of Unusual/Emergency Situations, EUROCONTROL
+AGC Briefing Note 3 - Loss of Communication
+Investigation into Loss of Communication
+ATC Refresher Training Manual, ed.1.0, March 2015
+
+UK CAA
+
+CAP 745, Aircraft Emergencies, Considerations for air traffic controllers
+
+
+
+
+
+Categories
+
+
+Air Ground Communication,
+              Aircraft Emergency & Unusual Situations,
+              Guidance for Controllers
+
+
+
+
+
+
+
+
+
+Related Articles
+
+Loss of Communication
+Prolonged loss of communication
+Automatic Dependent Surveillance Broadcast (ADS-B)
+Communication Equipment Technical Problems
+Sleeping Receiver
+Standard Phraseology
+Read-back or Hear-back
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

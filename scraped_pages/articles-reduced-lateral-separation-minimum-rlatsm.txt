@@ -1,0 +1,146 @@
+Reduced Lateral Separation Minimum (RLatSM)
+
+
+
+
+
+
+
+
+
+
+
+  Reduced Lateral Separation Minimum (RLatSM)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Reduced Lateral Separation Minimum (RLatSM) is the implementation of 25nm lateral separation standards in North Atlantic High Level Airspace (HLA) (Minimum Navigation Performance Airspace (MNPS)) for qualified aircraft flying within the Organised Track System (OTS).
+Background
+Advancements in aircraft avionics, flight management system (FMS) / navigation system accuracy and ATM flight data processing capability fueled an initiative to evaluate if the North Atlantic lateral separation standard of one degree of latitude (nominally 60nm) could be reduced to increase the number of possible route options and thus increase airspace capacity at optimum flight levels. Changes under RLatSM reduce the minimum lateral separation to 25nm, practical achievement of which is accomplished by separating adjacent tracks by one-half-degree of latitude.
+Implementation
+RLatSM is being implemented using a phased approach, the first phase of which began in late 2015. Phase 1 introduced one-half-degree spacing by inserting an additional track midway between the two existing core tracks of the NAT Organised Track System (OTS) from flight level (FL) 350 to FL 390 inclusive. Phase 2, when implemented, is anticipated to expand RLatSM throughout the entire NAT OTS.
+Eligibility
+All RLatSM tracks and FLs will be uniquely identified in Note 3 of the REMARKS section of the OTS Track Message. Only those operators/aircraft eligible for RLatSM operations will be allowed to operate on designated RLatSM tracks between FL 350 and FL 390 (inclusive).
+To be eligible to flight plan RLatSM tracks, operators must be:
+
+Required Navigation Performance (RNP) 4 approved
+
+and the aircraft must be equipped with both:
+
+Controller Pilot Data Link Communications (CPDLC) and
+Automatic Dependent Surveillance - Contract (ADS-C)
+
+Contingency
+Contingency procedures as described in the North Atlantic Operations and Airspace Manual (NAT Doc 007) are unchanged for RLatSM track spacing. Additionally, Strategic Lateral Offset Procedures (SLOP)) are authorised and encouraged.
+Related Articles
+
+North Atlantic Operations - Airspace
+North Atlantic Operations - Organised Track System
+North Atlantic Operations - Contingency
+Strategic Lateral Offset
+
+Further Reading
+NAV Canada
+
+Aeronautical Information Circular 25/15 - Gander Flight Information Region (FIR)/Control Area (CTA) Airspace Design Changes for Reduced Lateral Separation Minimum Implementation
+Aeronautical Information Circular 26/15 - Trial Implementation of 25 Nautical Mile Lateral Separation Minimum in the ICAO North Atlantic Region
+
+ICAO
+
+Doc 007 - North Atlantic Operations and Airspace Manual
+
+UK NATS
+
+Don't Let SLOP Slip Your Mind; Karen Bolton
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

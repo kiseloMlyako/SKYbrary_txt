@@ -1,0 +1,207 @@
+GAMET
+
+
+
+
+
+
+
+
+
+
+
+  GAMET
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Weather 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+GAMET area forecast. An area forecast in abbreviated plain language for low-level flights for a flight information region or sub-area thereof, prepared by the meteorological office designated by the meteorological authority concerned and exchanged with meteorological offices in adjacent flight information regions, as agreed between the meteorological authorities concerned.
+Source: ICAO Annex 3
+Area forecast for low-level flights means a forecast of weather phenomena for a flight information region or sub-area thereof, issued to cover the layer below flight level 100 (or below flight level 150 in mountainous areas, or higher, where necessary).
+Source: EU Regulation 2017/373
+Description
+When the density of traffic operating below flight level 100 warrants the issuance of AIRMET information, area forecasts are prepared in a format as agreed between the meteorological authorities in the States concerned (GAMET being one of the options). When abbreviated plain language is used, the forecast is prepared as a GAMET area forecast, employing approved ICAO abbreviations and numerical values. When chart form is used, the forecast is prepared as a combination of forecasts of upper wind and upper-air temperature, and of SIGWX (significant weather) phenomena. 
+Note: In EU legislation, the term "Area forecast for low-level flights" is used instead of "GAMET area forecast".
+The forecasts cover the layer between the ground and FL 100 (or up to FL 150 in mountainous areas, or even higher, where necessary). It contains information on en-route weather phenomena hazardous to low-level flights, in support of the issuance of AIRMET information, and additional information required by low-level flights.
+Format and content of GAMET area forecasts
+Forecasts in the GAMET format are made in accordance of a designated template and comprise a header and two sections:
+
+Section I, related to information on en-route weather phenomena hazardous to low-level flights, prepared in support of the issuance of AIRMET information. Elements which are already covered by a SIGMET message are omitted.
+Section II, related to additional information required by low-level flights. This section may include additional elements (not specified in the template) in accordance with regional air navigation agreement.
+
+Template
+The header of the GAMET forecast contains the following fields (all are mandatory):
+
+Location indicator of the FIR/CTA
+Message identification (the text "GAMET")
+Validity period
+Location indicator of the meteorological office
+Location indicator and name of FIR/CTA or part thereof
+
+Section I contains the following fields (inclusion dependent on meteorological conditions):
+
+Surface wind
+Surface visibility
+Significant weather
+Mountain obscuration
+Clouds (widespread BKN or OVC with base less than 1000 ft, CBs and TCUs)
+Icing
+Turbulence
+Mountain wave
+Applicable SIGMET messages
+
+When no elements are included in Section I, the text "HAZARDOUS WX NIL" is used.
+Section II contains the following fields (all except the sea-surface temperature and state are mandatory):
+
+Pressure centres and fronts
+Upper winds and temperatures
+Clouds not included in Section I
+Freezing level
+Forecast QNH
+Sea-surface temperature and state of the sea (optional element)
+Volcanic eruptions
+
+Amendments to GAMET area forecasts
+When a weather phenomenon hazardous to low-level flights has been included in the GAMET area forecast and the phenomenon forecast does not occur, or is no longer forecast, a GAMET AMD shall be issued, amending only the weather element concerned.
+Example
+
+YUCC GAMET VALID 220600/221200 YUDO –
+YUCC AMSWELL FIR/2 BLW FL120
+SECN I
+SFC WIND: 10/12 310/16MPS
+SFC VIS: 06/08 N OF N51 3000M BR
+SIGWX: 11/12 ISOL TS
+SIG CLD: 06/09 N OF N51 OVC 800/1100FT AGL 10/12 ISOL TCU 1200/8000FT AGL
+ICE: MOD FL050/080
+TURB: MOD ABV FL090
+SIGMET APPLICABLE: 3, 5
+SECN II
+PSYS: 06 N5130 E01000 L 1004HPA MOV NE 25KT WKN
+WIND/T: 2000FT N5500 W01000 270/18MPS PS03 5000FT N5500 W01000 250/20MPS MS02
+10000FT N5500 W01000 240/22MPS MS11
+CLD: BKN SC 2500/8000FT AGL
+FZLVL: 3000FT AGL
+MNM QNH: 1004HPA
+SEA: T15 HGT 5M
+VA: NILMeaning: 
+An area forecast for low-level flights (GAMET) issued for sub-area two of the Amswell (fictious location) flight information region (identified by YUCC Amswell area control centre) for below flight level 120 by the Donlon International (fictious location) aerodrome meteorological office (YUDO); the message is valid from 0600 UTC to 1200 UTC on the 22nd of the month.
+Section I:
+surface wind speed and direction: between 1000 UTC and 1200 UTC surface wind direction 310 degrees; wind speed 16 metres per second;
+surface visibility: between 0600 UTC and 0800 UTC north of 51 degrees north 3 000 metres (due to mist);
+significant weather phenomena: between 1100 UTC and 1200 UTC isolated thunderstorms without hail;
+significant clouds: between 0600 UTC and 0900 UTC north of 51 degrees north overcast base 800, top 1 100 feet above ground level; between 1000 UTC and 1200 UTC isolated towering cumulus base 1 200, top 8 000 feet above ground level;
+icing: moderate between flight level 050 and 080;
+turbulence: moderate above flight level 090 (at least up to flight level 120);
+SIGMET messages: 3 and 5 applicable to the validity period and sub-area concerned.
+Section II:
+pressure systems: at 0600 UTC low pressure of 1 004 hectopascals at 51.5 degrees north 10.0 degrees east, expected to move north-eastwards at 25 knots and to weaken;
+winds and temperatures: at 2 000 feet above ground level at 55 degrees north 10 degrees west wind direction 270 degrees, wind speed 18 metres per second, temperature plus 3 degrees Celsius; at 5 000 feet above ground level at 55 degrees north 10 degrees west wind direction 250 degrees, wind speed 20 metres per second, temperature minus 2 degrees Celsius; at 10 000 feet above ground level at 55 degrees north 10 degrees west wind direction 240 degrees, wind speed 22 metres per second, temperature minus 11 degrees Celsius;
+clouds: broken stratocumulus, base 2 500 feet, top 8 000 feet above ground level;
+freezing level: 3 000 feet above ground level;
+minimum QNH: 1 004 hectopascals;
+sea: surface temperature 15 degrees Celsius; and state of the sea 5 metres;
+volcanic ash: nil.
+Related Articles
+
+AIRMET
+SIGMET
+Meteorological Terminal Air Report (METAR)
+Weather Forecast
+Automatic Terminal Information Service (ATIS)
+VOLMET
+
+Further Reading
+
+ICAO Annex 3
+ICAO Doc 8400: ICAO Abbreviations and Codes
+
+
+
+
+
+Categories
+
+
+Weather
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

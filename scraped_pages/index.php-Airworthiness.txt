@@ -1,0 +1,165 @@
+Airworthiness
+
+
+
+
+
+
+
+
+
+
+
+  Airworthiness
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Airworthiness 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ Cranfield University
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ Cranfield University
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Airworthiness comprises a number of aspects which relate to the legal and physical state of an aircraft. According to ICAO Annex 8, the term airworthy means “The status of an aircraft, engine, propeller or part when it conforms to its approved design and is in a condition for safe operation.”
+A definition used by the U.K. Ministry of Defence provides a wider explanation, which includes people on the ground (third parties) – “Airworthiness is the ability of an aircraft or other airborne equipment or system to be operated in flight and on the ground without significant hazard to aircrew, ground crew, passengers or to third parties; it is a technical attribute of materiel throughout its lifecycle.” (Ref: MAA 02 Glossary)
+Webster's Dictionary gives a far simpler definition of airworthiness as “Fitness to fly” but raises the question of what fitness actually means.
+Additionally, an aircraft must be operated within the limits laid down in the Flight Manual; an aircraft which exceeds any limit may compromise its airworthiness. In service, an aircraft must also be maintained according to its Approved Maintenance Schedule for it to remain airworthy; through-life maintenance would be included in the term Continuing Airworthiness.
+Description
+The connection between airworthiness and flight safety is an obvious but complex one. The design activity, besides meeting the applicable certification code, often seeks to improve the aircraft’s economics and cost benefit to both the manufacturer and the operator. Certification authorities will therefore examine all aspects of the design and construction of an aircraft, even when there is apparent improvement to minimum standards. When an aircraft type is first judged to meet all the certification requirements it will be issued a Type Certificate (TC).
+Deficiencies in airworthiness may be indicated following an in-service incident or accident. These may relate to unknown failures, errors, or limitations of the Type design and/or failure to meet the conditions for safe operation. In 2001, FAA commissioned experts from FAA, the U.S. aviation industry, the Department of Defense, Sandia National Laboratories, and the National Aeronautics and Space Administration (NASA) to analyse a series of accidents in an attempt to learn lessons for the certification process. Known as the Commercial Airplane Certification Process Study, their work is a useful meta-analysis of interfaces between certification, operations and maintenance, and produced 15 findings and two observations for suggested improvements [FAA, 2002]
+Defects, failures and threats
+A defect may have a significant effect on safety and, if not rectified, or only partly rectified, may also cause an accident at a later time. Inappropriate crew actions in response to a malfunction which arises in flight may also lead to a worse outcome. In such cases, an investigation should analyse the crew responses as well as the underlying airworthiness issues. However, in many cases, the flight-crew successfully recovers an aircraft after anomalies occur. The following causal factors are taken from the UK Military Aviation Authority (MAA) Handbooks for Structural Integrity, Systems Integrity and Propulsion Integrity. This is a long list of possible failures or threats which may affect the airworthiness of an aircraft. Some are physical process, e.g. overload and fatigue, whereas some relate to human factors and obsolescence.
+
+Overload
+Operation outside the certificated limits such as those for flight in ice or snow conditions
+Component degradation due to fatigue, creep, fretting, wear or corrosion, depending on the system or component
+Accidental damage (AD) and environmental damage (ED)
+Procedural (design, manufacturing, maintenance or supply) error and human factors
+Inadequate or incomplete maintenance
+Errors in maintenance which may result in a fault becoming obvious a long period after the error was originally made
+Ageing components
+Change of usage or unmonitored operation
+Lack of configuration control
+Obsolescence and/or legislation change
+Fuel and fuel system hazard
+Lack of adequate oversight of the operator, its practices and policies including training, operation and maintenance by the regulator
+Deficiencies in the process which led to the issue of the original aircraft Type Certificate
+
+Defences
+The first defence is the process of aircraft type certification, leading to the issue of the Type Certificate. This work is documented so that it remains an accessible foundation for the continuing airworthiness of the aircraft type thereafter. Wherever practicable, the original design will embody redundancy features; i.e. an allowance for the failure of a system or component without any reduction in airworthiness. In some cases, the failure only becomes observable after an aircraft has landed, and requires rectification before further flight.
+Even in more extreme cases that involve a major failure, such as an in-flight failure of an engine on a multi-engine aircraft, should not lead to an accident; the design combined with crew training should allow safe continuation of the flight. The same criteria apply to flight in adverse weather and when affected by human factors in either operations or maintenance.
+High standards of flight crew training, proficiency and crew resource management (CRM) can also serve to minimise the incorrect management by flight crew of the onset of any in-flight reduction in airworthiness. A full understanding of the human factors issues involved in engineering and maintenance is therefore valuable.
+The effective management of continuing airworthiness is an excellent defence. Defined as “all of the processes ensuring that, at any time in its operating life, the aircraft complies with the airworthiness requirements in force and is in a condition for safe operation” [EC, 2014]. As part of continuing airworthiness management, each aircraft must hold a Certificate of Airworthiness to prove that it conforms to the certificated type design and is in a condition for safe operation. In the European Union (EU), all aircraft must also be subject to a regular audit which leads to an airworthiness review certificate (ARC).
+The regulator will require that the operator has in place a system to ensure compliance with the activities below. Some airworthiness authorities cover the following items with the term Certificate of Maintenance Review (CMR)
+
+Compliance with the maintenance programme
+Embodiment of mandatory modifications and inspections
+Rectification of reported defects and investigation of adverse reliability matters
+
+Accidents & Incidents
+A complete listing of airworthiness related accidents and incidents can be found in the SKYbrary article Accident and Serious Incident Reports: AW. The article categorises Airworthiness events both by system related failures (Systems) and by contributing factors (Contributors).
+Related Articles
+
+Airworthiness - The System provides a summary of the processes involved in airworthiness
+Continuing Airworthiness
+Accident and Serious Incident Reports: AW - a selection of reports concerning events where airworthiness was a causal or contributory factor.
+
+References and Further Reading
+
+Continuing Airworthiness - information leaflet prepared by the International Federation of Airworthiness (IFA) to assist the understanding of Continuing Airworthiness requirements and control functions
+De Florio F, Airworthiness: An Introduction to Aircraft Certification, 3rd edition, Butterworth-Heinemann (2016).
+EC, Commission Regulation (EU) No 1321/2014 of 26 Nov 2014 on the continuing airworthiness of aircraft and aeronautical products, parts and appliances, and on the approval of organisations and personnel involved in these tasks (external link)
+Commercial Airplane Certification Process Study, FAA (2002).
+Order 8130.2J, Airworthiness Certification of Aircraft (external link), FAA (2017).
+AC-43.13-1B, Acceptable Methods, Techniques, and Practices - Aircraft Inspection and Repair (external link), App 1, Glossary, FAA (1998).
+MAA02 Military Aviation Authority Master Glossary (external link) Issue 8, MAA (2017).
+Manual of Air System Integrity Management (MASIM), MAA
+System Integrity Handbook Issue 6.0, MAA (2014).
+Propulsion Integrity Handbook Issue 2.2, MAA (2015).
+
+
+
+
+
+Categories
+
+
+Airworthiness,
+              Enhancing Safety
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,153 @@
+Medium Term Conflict Detection (MTCD)
+
+
+
+
+
+
+
+
+
+
+
+  Medium Term Conflict Detection (MTCD)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Separation 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Medium-Term Conflict Detection (MTCD) is a flight data processing system designed to warn the controller of potential conflict between flights in his area of responsibility in a time horizon extending up to 20 minutes ahead.
+MTCD is an integrated system of predictive tools performing the following functions:
+
+The detection and notification to the controller of probable loss of the required separation between two aircraft;
+The detection and notification to the controller of aircraft penetrating segregated or otherwise restricted airspace;
+The detection and display to the controller of aircraft-to-aircraft encounters where, although the required separation will be achieved, each aircraft is blocking airspace that might have been used by the other, e.g. In case of pilot request for an alternative level or when resolving a conflict involving one of the aircraft.
+
+The term MTCD does not refer to a particular piece or collection of equipment, but to any system designed to achieve the above goals.
+Within Europe, MTCD was an important component of the First Air Traffic Control Support Tools Implementation (FASTI) programme. Launched in 2005, the FASTI programme supported the development and implementation of controller support tools at control centres across Europe and came to an end in April 2012. Another result of the programme was the development of the Tactical Controller Tool (TCT). This is a feature used as a short term (usually up to 8 minutes ahead) conflict detection and clearance verification tool.
+Purpose
+The aim of MTCD is to facilitate a move from the current largely reactive form of air traffic control to more pro-active control, thereby balancing more evenly the workload of tactical and planning tasks, enhancing sector team efficiency and providing an even safer and better service to airspace users. By maximising the opportunity of pro-actively solving problems during sector planning, it is hoped to reduce tactical workload.
+MTCD is a natural extension of the Short Term Conflict Alert (STCA) concept. However, one important distinction needs to be made - while STCA is a safety net function and its objective is solely to improve safety of ATC service provision, MTCD is a controller tool.
+MTCD ground system functions
+Within the MTCD application several functions are identified at the level of the ground system:
+
+Trajectory prediction: responsible for creating, in the system, future trajectories for each aircraft/target. (Note: due to performance requirements the system may be required to compute more than one single future trajectory for each aircraft/target);
+Conflict detection: responsible for identifying in the system potentially conflicting trajectories. Potentially conflicting trajectories are those trajectories for which the future position of 2 or more aircraft might fall below specified minima (not necessary the separation minima), given the uncertainty in the prediction;
+Trajectory update: responsible for updating in the system the predicted trajectories whenever this occurs – this functions is performed following an external input (i.e. human intervention) or due to a change in aircraft trajectory and/or automatic integration of detected aircraft position;
+Trajectory edition: responsible for allowing the human interaction with the predicted trajectory of one or more aircraft/targets.
+
+Typical MTCD Procedure
+A typical MTCD system might include the following steps:
+
+The system detects potential conflicts within a configurable parameter (e.g. 20 minutes) look-ahead time period, based on current trajectory information and the planning controller is notified;
+The planning controller monitoring/scanning process results in detection of the data provided by the system;
+The planning controller assimilates the information while assessing the potential conflict and then decides whether to monitor or to act on the information and its content. A ‘what-if’ tool providing the controller with the ability to create alternative trajectories could be used in the decision making process required for conflict resolution. This should result in the planning controller providing a resolution by:
+
+Ignoring the conflict (i.e. due to foreseen circumstances the conflict will time expire or not occur) or;
+Resolving it by modifying an entry or exit condition. The coordination takes account of LoA conditions or indeed makes proposals outside LoA conditions if circumstances provide this alternative or;
+Deciding that the conflict is purely tactical and manageable by the tactical controller and therefore transfers it to him/her (Note: this inter-team co-ordination may be explicit or implicit).
+
+
+
+The result of the transfer of the conflict to the tactical controller indicates that the planning controller considered it likely that some tactical action should be taken by the tactical controller to resolve/monitor a detected conflict.
+Field Trials
+Operational requirements for MTCD were produced by EUROCONTROL in 1998. MTCD real-time simulations were conducted at the EUROCONTROL Experimental Centre in Bretigny in 1999 and 2000. The simulations were followed by operational trials undertaken at various European ATS Units. The field trials aimed to contribute to the MTCD validation work, to evaluate controller roles, tasks and working methods and achieve further operational refinement of this conflict prediction tool.
+The observation and findings from the various field trials and experience from operational evaluations led to the conclusion that further work on the refinement and validation of the tool is needed before operational implementation in the various operational environments.
+Related Articles
+
+Tactical Controller Tool (TCT)
+Probe (What-if) Controller Tool
+
+Further Reading
+
+Conflict detection tools impact on controller taskload - fast-time study
+
+
+
+
+
+Categories
+
+
+Loss of Separation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

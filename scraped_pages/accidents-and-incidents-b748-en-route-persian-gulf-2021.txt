@@ -1,0 +1,339 @@
+B748, en-route, Persian Gulf, 2021
+
+
+
+
+
+
+
+
+
+
+
+  B748, en-route, Persian Gulf, 2021
+
+
+
+
+
+
+
+
+
+Summary
+
+On 22 March 2021, the pilots of a Boeing 747-8F which had just reached its initial cruise level after departing Dubai observed smoke and sparks coming from the window heating system and declared a PAN advising their intention to dump fuel and return to Dubai. With the faulty system switched off, this was accomplished without further event. It was found that the cause of the system malfunction was a design-related vulnerability with a history of recurrence which had not been adequately addressed by the aircraft manufacturer and the FAA as safety regulator following relevant NTSB Safety Recommendations made in 2007.
+
+
+
+
+Event Details
+
+When
+
+20/03/2021
+
+
+
+Event Type
+
+
+AW,
+              FIRE
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 747-8
+
+
+
+
+
+
+
+
+
+Operator
+
+Cargolux
+
+
+
+Type of Flight
+
+Public Transport (Cargo)
+
+
+
+Flight Origin
+
+
+
+
+Dubai World Central - Al Maktoum International Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Luxembourg
+
+
+
+
+
+
+
+Actual Destination
+
+
+
+
+Dubai World Central - Al Maktoum International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Cruise
+
+
+
+
+
+
+
+
+Location
+
+Approx.
+
+Persian Gulf
+
+
+
+
+
+
+
+
+
+
+General
+
+Tag(s)
+
+
+              Air Turnback,
+              Ineffective Regulatory Oversight,
+              CVR overwritten
+          
+
+
+
+
+FIRE
+
+Tag(s)
+
+
+              Electrical fumes - No fire
+          
+
+
+
+
+EPR
+
+Tag(s)
+
+
+              PAN declaration
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Ice and Rain Protection
+          
+
+
+
+Contributor(s)
+
+
+              OEM Design fault,
+              Component Fault in service
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Airworthiness
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 22 March 2021, a Boeing 747-8RF (LX-VCD) being operated by Cargolux Airlines on an international cargo flight from Dubai Al Maktoum International to Luxembourg had just levelled off at FL 280 in day VMC when an electrical fault in the window heating system led to smoke and sparks which prompted the crew to declare a ‘PAN’ and advise their intention to jettison fuel and return to Dubai. Once the faulty system was switched off, there was no evidence of any continuing hazard and the return to the departure airport was subsequently completed without further event.
+Investigation
+A Serious Incident Investigation was carried out by the UAE GCAA Air Accident Investigation Sector. The CVR and FDR were removed from the aircraft but although relevant data were successfully downloaded from the FDR, such data on the CVR had been overwritten because the CVR had not been isolated after completion of the flight. Recorded ATC data were also available.
+The Captain and First Officer were both appropriately licensed. No details of the flying experience of either pilot were given but both subsequently stated that prior to departure from Dubai, they had been “well rested and fit to fly”. There were four other company employees on board as passengers - two pilots positioning back to base and two maintenance engineers. 
+What Happened
+Twenty five minutes after the flight had taken off from Dubai with the First Officer acting as PF and shortly after levelling at FL 280, Bahrain Control received a PAN call due to a “technical malfunction of the windscreen heating system” accompanied by a request to return to Dubai. The corresponding clearance was given and the crew followed up advising that they intended to initiate fuel dumping in order to reduce landing weight and this request was subsequently approved. The controller asked for more details about the problem and was informed that part of the system involved had begun emitting smoke and sparks although after electrically isolating the system these had now ceased. They confirmed that no special assistance would be required after landing and the flight touched down at Dubai Al Maktoum International after one hour and twenty minutes airborne. No maintenance fault or other relevant system status messages were found on completion of the flight. 
+Why It Happened 
+The right forward-facing flight deck window was removed from the aircraft and sent to the Boeing Equipment Quality Analysis Laboratory in Seattle. The windshield heat electrical terminals were photo-documented before removal from the assembly, the terminal assemblies were then subjected to X-ray examination and electrical resistance checks were performed on all window heating system components. All images and other results of these examinations were then provided to the Investigation.
+A two day online video conference was then hosted by Boeing with participation from the Investigation, the NTSB and the OEM GKN Aerospace. Evidence of heat damage was found adjacent to the windshield electrical power ‘in’ terminal (identified as terminal ‘A’) located at the bottom left hand corner of the removed windshield but no such evidence was found adjacent to the corresponding windshield electrical power ‘out’ terminal located at the top left hand corner of the windshield. Both terminal blocks installed were of a design that included a power braid wire crimped inside the connector. Further examination of the interior of terminal ‘A’ using CT scanning showed that electrical arcing had originated from the integrated power braid wire joint which was crimped at the connector base with “fractures of wire strands at a crimp point within the pin base” causing the loss of current carrying capacity and a consequent heat build-up which had generated the observed electrical sparks and smoke.
+An examination of the Window Heating Control Unit (WHCU) by its OEM Safran for the Investigation did not find any external evidence of impact or of smoke or fire and the seals of the unit were intact and it had not been opened since supplied. All its electrical connector pins were found to be in good condition with no traces of overheating or arcing on any of the pins.
+The Context for the Malfunction
+It was found that Boeing aircraft type had a long history of problems related to their windshield electrical heating systems which dated back to January 2004 when two Boeing 757 aircraft experienced electrical fires originating at a system terminal. Both the terminals involved in these events were fitted to windscreens manufactured by an OEM called PPG. During the investigation into these events, similar events involving fire and/or smoke in the flight deck occurred to other Boeing 747, 757, 767 and 777 aircraft. These were all traced to one of the power-in terminal blocks for the windshield heating system. 
+A Boeing SB 747-30-2081 originally issued in 2006 included an inspection requirement for the originally used screw/lug terminal design and allowed windshield replacement with a pin/socket terminal which was the design incorporated into the 747-8 during build. 
+On 4 September 2007, the NTSB issued two Safety Recommendations to the FAA which recommended that “it complete the process begun in 2004 to approve the Service Bulletin for installation of the redesigned heat terminal block on Boeing 767 airplanes” (A-07-49) and that it “issue Airworthiness Directives to replace the windshield heat terminal block on all Boeing 747, 757, 767 and 777 airplanes in accordance with the applicable Boeing Service Bulletins” (A-07-50).
+In July 2012, the FAA issued a series of ADs to increase the frequency of required repetitive inspections of windscreens on all Boeing 747, 757, 767 and 777 aircraft since they had determined that the redesigned pin/socket terminal blocks (also) did not provide an acceptable level of safety and replacing windshields with such terminals was therefore no longer acceptable as terminating action for the currently required repetitive inspections.
+On 16 January 2019, a B747-8F aircraft also operated by Cargolux encountered a similar incident with its windshield heating in which an electrical terminal block emitted smoke and electrical sparks.
+The Cause of the smoke and sparks in the right hand windscreen was formally recorded as “the defective thermal (anti-ice) heating electrical pin/socket terminal block consisting of a power braid wire crimped at the base pin”.
+ 
+Three Contributory Factors to the event were also identified as follows:
+
+The window manufacturer’s actions to eliminate the manufacturing defect of electrical blocks assembled on aircraft windows during the manufacturing process were not adequate.
+The FAA ADs and Boeing SBs were not effective in detecting poor or weak thermal (anti-ice) electrical terminal blocks installed on the Boeing aircraft windows.
+The NTSB Safety Recommendations issued in 2007 (A-07-49 and A-07-50) were not effective in eliminating the defective terminal.
+
+Safety Action taken by Boeing as a result of the findings of the Investigation was noted as having included the following:
+
+Discontinuing the use of GKN as a supplier of windshield heating systems.
+Beginning work on possible in-service inspection methods that might assist in the identification of loose or otherwise problematic connections before an arcing event occurs.
+
+Two Safety Recommendations were made as a result of the findings of the Investigation as follows:
+
+that the Federal Aviation Administration (FAA) review their oversight of failure mode technique(s) with future potential suppliers and the implementation of the most effective technique(s) in identifying a problematic terminal prior to a failure event. [SR01-2023]
+that the Boeing Company release a Service Bulletin when the most effective technique(s) for identify a problematic terminal prior to a failure event have been identified. [SR02-2023]
+
+The Final Report was issued on 13 February 2023.
+Related Articles
+
+Electrical Fires
+Smoke
+Fire, Smoke and Fumes
+Service Bulletin (SB)
+Airworthiness Directive
+Safety Oversight
+Continuing Airworthiness

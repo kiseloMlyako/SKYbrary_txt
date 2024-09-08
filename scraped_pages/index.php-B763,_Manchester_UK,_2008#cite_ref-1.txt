@@ -1,0 +1,304 @@
+B763, Manchester UK, 2008
+
+
+
+
+
+
+
+
+
+
+
+  B763, Manchester UK, 2008
+
+
+
+
+
+
+
+
+
+Summary
+
+On 13 December 2008, a Thomsonfly Boeing 767-300 departing from Manchester for Montego Bay Jamaica was considered to be accelerating at an abnormally slow rate during the take off roll on Runway 23L. The aircraft commander, who was the pilot not flying, consequently delayed the V1 call by about 10 - 15 because he thought the aircraft might be heavier than had been calculated. During the rotation the TAILSKID message illuminated momentarily, indicating that the aircraft had suffered a tail strike during the takeoff. The commander applied full power and shortly afterwards the stick shaker activated briefly. The aircraft continued to climb away and accelerate before the flaps were retracted and the after-takeoff check list completed. The appropriate drills in the Quick Reference Handbook (QRH) were subsequently actioned, fuel was dumped and the aircraft returned to Manchester for an overweight landing without further incident.
+
+
+
+
+Event Details
+
+When
+
+13/12/2008
+
+
+
+Event Type
+
+
+HF,
+              RE
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+On Ground - Normal Visibility
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 767-300ER
+
+
+
+
+
+
+
+
+
+Operator
+
+Thomsonfly
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Manchester International Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Montego Bay/Sangster International Airport
+
+
+
+
+
+
+
+Actual Destination
+
+
+
+
+Manchester International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Take Off
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+EGCC
+
+
+
+
+General
+
+Tag(s)
+
+
+              Inadequate Aircraft Operator Procedures
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Data use error,
+              Distraction,
+              Pre Flight Data Input Error,
+              Procedural non compliance
+          
+
+
+
+
+RE
+
+Tag(s)
+
+
+              Overrun on Take Off,
+              Unable to rotate at VR,
+              Intentional Premature Rotation
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Aircraft damage
+
+Minor
+
+
+
+Non-aircraft damage
+
+Yes
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+Yes
+
+
+
+Ditching
+
+Yes
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 13 December 2008, a Thomsonfly Boeing 767-300 departing from Manchester for Montego Bay Jamaica was considered to be accelerating at an abnormally slow rate during the take off roll on Runway 23L. The aircraft commander, who was the pilot not flying, consequently delayed the V1 call by about 10 - 15 kts because he thought the aircraft might be heavier than had been calculated. During the rotation the TAILSKID message illuminated momentarily, indicating that the aircraft had suffered a tail strike during the takeoff. The commander applied full power and shortly afterwards the stick shaker activated briefly. The aircraft continued to climb away and accelerate before the flaps were retracted and the after-takeoff check list completed. The appropriate drills in the Quick Reference Handbook (QRH) were subsequently actioned, fuel was dumped and the aircraft returned to Manchester for an overweight landing without further incident.
+Investigation
+An Investigation into the occurrence was carried out by the UK AAIB. It was found that the Zero Fuel Weight (ZFW) had been incorrectly entered into the Aircraft Operator’s CTOP or ‘Computer Take Off Programme’ (which is used by the crew to calculate the correct take off speeds) instead of the takeoff weight (TOW). This error generated significantly slower takeoff speeds than were required for the actual weight of the aircraft and the crew did not recognise this upon seeing and using them prior to beginning the take off. It was found that the data entry error had the effect of reducing the V1, Vr and V2 to about 20 knots below their true values.
+As a result of this occurrence, the Operator introduced into their Operations Manual a more explicit procedure for cross checking of data entry prior to departure:
+“Both pilots should independently extract the ATOM[1] from the load sheet and perform the C-TOP calculation. PF should call out any further assumptions made e.g. surface wind, runway conditions, use of anti-ice etc."
+The Investigation noted that the commander reported having flown about six empty sectors in a Boeing 767 prior to this flight such that the slow takeoff speeds set did not trigger an alert to him.
+The UK AAIB Report was issued on 9 July 2009 and made no Safety Recommendations.
+Further Reading
+
+Use of Erroneous Parameters at Take-Off
+Aircraft Load and Trim
+Takeoff Weight Entry Error and Fatigue (OGHFA SE)
+ATSB Safety Study: Take-off performance parameter errors: A global perspective
+
+Notes
+
+^ Actual Takeoff Mass

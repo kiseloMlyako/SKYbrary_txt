@@ -1,0 +1,129 @@
+Critical Engine
+
+
+
+
+
+
+
+
+
+
+
+  Critical Engine
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Control 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+The critical engine of a multi-engine, fixed-wing propeller-driven aircraft is the one whose failure would result in the most adverse effects on the aircraft's handling and performance.
+Description
+When one of the engines on a typical multi-engine aircraft becomes inoperative, a thrust imbalance exists between the operative and inoperative sides of the aircraft. This thrust imbalance causes several negative effects in addition to the loss of one engine's thrust. For reasons listed below, the left engine of a conventional twin-engine propeller-driven aircraft is usually considered critical.
+Asymmetrical Yaw
+When one engine becomes inoperative, a torque develops which depends on the lateral distance from the center of gravity (C.G.) to the thrust vector of the operating engine, multiplied by the thrust of the operating engine. The torque effect attempts to yaw the aircraft's nose towards the inoperative engine, a yaw tendency which must be counteracted by the pilot's use of the flight controls.
+
+The operating right-hand engine will produce a more severe yaw towards the dead engine, thus making the failure of the left-hand engine critical.
+Due to the asymmetric blade effect (P-factor), the right-hand engine typically develops its resultant thrust vector at a greater lateral distance from the aircraft's C.G. than the left-hand engine. The failure of the left-hand engine will result in a larger yaw effect via the operating right-hand engine, rather than vice-versa, and it is termed the Critical Engine. Since the operating right-hand engine produces a stronger yaw moment, the pilot will need to use larger control deflections in order to maintain aircraft control. Thus, the failure of the critical (left-hand) engine is less desirable than failure of the right-hand engine.
+It is important to note, however, that this example depends upon both propellers turning clockwise as viewed from the rear. On aircraft with counterclockwise-turning engines (such as the de Havilland Dove), the right engine would be critical.
+Aircraft which have counter-rotating propellers rotating toward the cockpit on the top side (such as the Beechcraft Duchess) do not have a critical engine, while both engines are critical on aircraft with counter-rotating propellers turning away from the cockpit. The Lockheed P-38 was an example of the latter.
+Accelerated Slipstream
+Lift can be roughly defined as an upwards force resulting from an airstream going over and under a wing. On aircraft with propellers mounted on the wing, the propwash from the engine will accelerate the airstream over the portion of the wing directly behind the propeller. This results in greater lift behind the propeller than at other spots on the wing. From the P-factor effect, the right wing's center of lift will be further from the C.G. than the left-hand wing. While failure of either engine will cause a rolling motion towards the inoperative side, the rolling motion will be more severe with the right engine operating. Thus, the failure of the left-hand engine is critical. Again, this example depends on both engines turning clockwise when viewed from the rear.
+Non-aerodynamic Criticality
+On certain aircraft, hydraulic, pneumatic or electrical systems may be powered by one engine. This engine would therefore be critical in this respect
+Turbojet and Turbofan Powered Aircraft
+Aircraft powered by turbojet or turbofan engines are not normally considered to have a critical engine.
+Related Articles
+
+Engine Failure After TakeOff - Light Twin Engine Aircraft
+Loss of Control
+Counter-Rotating Propellers
+
+
+
+
+
+Categories
+
+
+Loss of Control
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

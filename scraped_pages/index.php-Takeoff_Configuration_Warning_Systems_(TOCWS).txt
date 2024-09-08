@@ -1,0 +1,182 @@
+Takeoff Configuration Warning Systems (TOCWS)
+
+
+
+
+
+
+
+
+
+
+
+  Takeoff Configuration Warning Systems (TOCWS)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Nets 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Takeoff Warning System (TOWS)
+ 
+Description
+A Takeoff Configuration Warning System is a safety device intended to help ensure that takeoff is not attempted with the aircraft in an inappropriate or unsafe configuration.
+Requirement
+Since the late 1970's regulations have required that a Takeoff Configuration Warning System be fitted in all jet aircraft and in non-jet aircraft with a maximum takeoff weight exceeding 6000 pounds (2725 kg) unless it can be demonstrated that a lift device or trim device that affects the takeoff performance would not compromise safety when selected to other than an approved takeoff position. The takeoff warning system is intended to serve as "back-up" for the normal checklist, particularly in unusual situations where the checklist has been interrupted or the takeoff delayed. A takeoff warning system must meet the following requirements:
+
+The system must provide the pilots with an aural warning that is automatically activated during the initial portion of the takeoff run if the airplane is in a configuration that would not allow a safe takeoff. When considering a TOCWS, an unsafe takeoff configuration is the inability to rotate or the inability to prevent an immediate stall after rotation
+The means used to activate the system must function properly for all authorized takeoff power settings and procedures and throughout the ranges of takeoff weights, altitudes, and temperatures for which the aircraft is certified
+
+The warning must continue until:
+
+The configuration is changed to allow safe takeoff, or
+Action is taken by the pilot to abandon the takeoff roll
+
+Monitored Systems and Devices
+The aircraft systems which are monitored and can produce a takeoff configuration warning vary by aircraft type and level of sophistication. In virtually all cases, these include:
+
+Position of High Lift Devices such as flaps and slats
+Elevator trim position or trimable horizontal stabiliser position as appropriate
+Position of ground spoilers or speedbrakes
+
+Additional systems that may be monitored, and cause a takeoff configuration warning to be generated, on some aircraft types include:
+
+Rudder trim position
+Aileron trim position
+Parking brake engagement
+Mismatched aircraft configuration and Flight Management System entries such as flap setting and FLEX temperature
+
+Activation
+The Takeoff Configuration Warning System is, in most aircraft types, armed by one of:
+
+a single thrust lever position
+the position of two or more thrust levers
+EPR or N1
+some combination of the above
+
+When the arming condition(s) have been met, sensors on the monitored systems will provide position or status information to the Takeoff Configuration Warning System and an alarm will be generated if a monitored component is not in an approved takeoff configuration.
+Accident and Serious Incident Reports Involving Improper Takeoff Configuration
+
+
+F50, Helsinki Finland, 2021On 25 November 2021, a Fokker F50 departing Helsinki experienced an engine malfunction that resulted in an uncommanded propeller feathering. The associated engine continued to run until shutdown, during which time it began to overspeed. The aircraft landed safely, but the failure experienced was untrained, and this led to both direct and indirect consequences that resulted in a suboptimal crew response to the emergency. The Investigation also highlighted opportunities to improve aspects of the air traffic control emergency response during such emergencies and identified language proficiency certification issues.
+
+B77L, Paris CDG France, 2015On 22 May 2015, a Boeing 777F augmented crew attempted a reduced thrust daylight takeoff from Paris CDG using a thrust setting based on a weight 100 tonnes below the actual weight after an undetected crew error. The tailstrike protection system prevented fuselage runway contact after rotation attempts but only after a call from an augmenting crew member was full thrust set with the aircraft becoming airborne near the runway end. The Investigation noted poor crew performance but concluded that operator management of the risk involved and the corresponding regulatory oversight had been inadequate in a number of ways.
+
+DC10, Macau SAR China, 2005On 9 November 2005, a McDonnell Douglas DC10-30F almost failed to get airborne before the end of the runway on a night takeoff from Macau and its main landing gear then hit lighting and ILS equipment as it climbed at a very shallow angle. After flight, two wheel changes were required due to tyre damage. The Investigation was hindered by the failure of the State of the Operator to assist the Investigation but concluded that the aircraft had been correctly loaded and that the extended take off roll had been due to use of the wrong flap setting.
+
+A140, vicinity Tehran Mehrabad Iran, 2014On 10 August 2014, one of the engines of an Antonov 140-100 departing Tehran Mehrabad ran down after V1 and prior to rotation. The takeoff was continued but the crew were unable to keep control and the aircraft stalled and crashed into terrain near the airport. The Investigation found that a faulty engine control unit had temporarily malfunctioned and that having taken off with an inappropriate flap setting, the crew had attempted an initial climb with a heavy aircraft without the failed engine propeller initially being feathered, with the gear remaining down and with the airspeed below V2.
+
+A333, Chicago O'Hare IL USA, 2013On 5 March 2013, the aft-stationed cabin crew of an Airbus A330-300 being operated by Lufthansa on a scheduled international passenger flight from Chicago O'Hare to Munich advised the flight crew after the night normal visibility take-off that they had heard an unusual noise during take-off. Noting that nothing unusual had been heard in the flight deck and that there were no indications of any abnormal system status, the Captain decided, after consulting Company maintenance, that the flight should be completed as planned. The flight proceeded uneventfully but on arrival in Munich, it became clear that the aircraft had sustained substantial damage due to a tail strike on take-off and was unfit for flight.
+
+B733, vicinity Montpelier, France 2011On 10 January 2011, a Europe Airpost Boeing 737-300 taking off from Montpelier after repainting had just rotated for take off when the leading edge slats extended from the Intermediate position to the Fully Extended position and the left stick shaker was activated as a consequence of the reduced stalling angle of attack. Initial climb was sustained and soon afterwards, the slats returned to their previous position and the stick shaker activation stopped. The unexpected configuration change was attributed to paint contamination of the left angle of attack sensor, the context for which was inadequate task guidance.
+
+MD83, Lanzarote Spain, 2007On 5 June 2007, a McDonnell Douglas MD83 being flown by Austrian charter operator MAP on a flight from Lanzarote to Barcelona failed to follow a normal trajectory after take off in day VMC and developed violent roll oscillations. As speed increased, this stopped and a return to land was made without further event. Takeoff from Lanzarote had been unintentionally made without the flaps/slats being set to the required position.
+
+B732, Medan Indonesia, 2005On 5 September 2005, a Boeing 737-200 being operated by Mandala Airlines on a scheduled domestic passenger flight from Medan, Indonesia to Jakarta failed to become properly airborne during the attempted take off from from runway 23 in day VMC and, after failing to remain airborne, overran the end of the runway at speed finally coming to a stop outside the airport perimeter. The aircraft was destroyed by impact forces and a subsequent fire and 100 of the 117 occupants were killed and 15 seriously injured. The aircraft collided with residential property, vehicles and various other obstructions and as a result a further 49 people on the ground were killed and a further 26 seriously injured.
+
+MD82, Madrid Barajas Spain, 2008On 20 August 2008, an MD82 aircraft operated by Spanair took off from Madrid Barajas Airport with flaps and slats retracted; the incorrect configuration resulted in loss of control, collision with the ground, and the destruction of the aircraft.
+
+MD82, Detroit MI USA, 1987On 16 August 1987, an MD-82 being operated by Northwest Airlines on a scheduled passenger flight from Detroit MI to Phoenix AZ failed to get properly airborne in day VMC and, after damaging impact with obstacles within the airport perimeter after climbing to a maximum height of just under 40 ft, impacted the ground causing the destruction of the aircraft by impact forces and a subsequent fire. All but one of the 157 occupants were killed with the single survivor suffering serious injury. On the ground, 2 people were killed, 2 more seriously injured and 4 more suffered minor injury with several buildings vehicles and structures damaged or destroyed.
+
+
+
+
+Related Articles
+
+Safety Nets
+Flight Controls
+Axis of Rotation
+
+Further Reading
+FAA
+
+AC 25 703-1 Takeoff Configuration Warning Systems
+
+
+
+
+
+Categories
+
+
+Safety Nets,
+              General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

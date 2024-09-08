@@ -1,0 +1,272 @@
+B788, en-route, near Huesca northeast Spain, 2019
+
+
+
+
+
+
+
+
+
+
+
+  B788, en-route, near Huesca northeast Spain, 2019
+
+
+
+
+
+
+
+
+
+Summary
+
+On 3 November 2019, a Boeing 787-8 descending towards Barcelona experienced an unanticipated airspeed increase and the unduly abrupt manual pitch response which resulted in a large and rapid oscillation in vertical acceleration during an otherwise smooth descent resulted in two serious injuries, one to a passenger and the other to one of the cabin crew. It appeared that the cause of the airspeed increase was an unexplained vertical mode reversion from VNAV SPD to VNAV PTH about 20 seconds prior to the upset caused by the response to it. 
+
+
+
+
+Event Details
+
+When
+
+03/11/2019
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 787-8 Dreamliner
+
+
+
+
+
+
+
+
+
+Operator
+
+Avianca
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+El Dorado International Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Barcelona/El Prat Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Descent
+
+
+
+
+
+
+
+
+Location
+
+Approx.
+
+near Huesca, northeast Spain
+
+
+
+
+
+
+
+
+
+
+General
+
+Tag(s)
+
+
+              Extra flight crew (no training),
+              CVR overwritten
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Ineffective Monitoring,
+              Ineffective Monitoring - PIC as PF
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Flight Management Error
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Occupant Injuries
+
+Few occupants
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 3 November 2019, a Boeing 787-8 (N796AV) being operated by Avianca on an international scheduled passenger flight from Bogota to Barcelona as AVA018 with an augmented flight crew was in the descent to destination when the airspeed began to increase towards Vmo as the Captain was making a flight progress announcement to the passengers. He responded primarily by disconnecting the AP and abruptly pulling back on and then releasing the control column which led to an abrupt change in vertical acceleration and two serious injuries in the cabin, one to a member of the cabin crew. The remaining 259 persons on board were unaffected by the upset.   
+Investigation
+An Investigation was carried out by the Spanish Commission for the Investigation of Accidents and Incidents (CIAIAC). Relevant flight data had been available from the QAR but such data on the CVR had been overwritten. Crew statements and recorded ATC data were also available.
+It was noted that the flight crew consisted of a 53 year-old Captain, who was acting as PF at the time of the upset, had a total of 14,078 flying hours which included 1,580 hours on type, a 28 year-old First Officer who had a total of 3,166 flying hours which included 1,864 hours on type and a 26 year-old Relief First Officer who had a total of 2,895 flying hours which included 485 hours on type. The Relief First Officer was occupying a supernumerary crew seat in the flight deck at the time of the investigated event.  
+What Happened
+It was established that after 8½ hours flying, the aircraft arrived over the Iberian Peninsula level at FL410 and, after a short level off at FL300, subsequently continued its descent towards destination in VMC and in the absence of any significant turbulence. Shortly after this, the First Officer returned to the flight deck after his rest period and took over as PM. The Captain then temporarily handed control to the First Officer whilst giving an approach briefing before taking over again. Descent to FL 200 then began with the AP in LNAV/VNAV SPD mode and the A/T in SPD mode with an intention to maintain a 10-15 knot margin below Vmo whilst regaining the vertical profile calculated by the FMC. Passing FL290, the Captain had called for the seat belt signs to be put to ‘ON’  which was done. Almost immediately, FDR data showed that at this point, as the maximum rate of descent - 5,700 fpm - was reached, the previously engaged VNAV SPEED mode changed to VNAV PATH as the A/T status changed from ‘HOLD’ to ‘SPD’. 
+As this was happening with the speed beginning to increase through 320 KIAS, the Captain decided to begin making a passenger flight progress announcement. Whilst he was doing this, the indicated airspeed continued to steadily increase toward the 360 KIAS Vmo and at approximately FL268, the Captain responded to an alert call from the observing Relief First Officer of ‘SPEED’ by interrupting his cabin announcement, extending the speed brakes fully and then disconnecting the AP and pulling the control column sharply rearwards. This prevented an overspeed (the maximum recorded speed was 357 KCAS) but the abrupt manual pitch change resulted in an almost instantaneous change in vertical acceleration from +1.1g to +2.14g then back to +0.69g (see the illustration below). This led to serious injuries being sustained by one of the cabin crew and one of the passengers which were reported to the fight deck soon afterwards. The AP was then re-engaged and the rest of the flight was completed without further event with the requested medical assistance waiting to meet the aircraft. In the meantime, a PA requesting any Doctors on board to assist with the injury responses yielded two volunteers. 
+
+FDR data highlighting the context of the momentary upset  made to avoid a Vmo exceedance. [Reproduced from the Official Report]
+A copy of the flight data was passed to Boeing but they advised that they were unable to replicate the change from VNAV SPD mode to VNAV PATH mode which had accompanied the unexpected rise in airspeed towards VMO and in the absence of any evidence of significant windshear being present, the origin of the speed increase which led to the inappropriate aircraft handling response could not be determined. 
+The Probable Cause of the accident was formally documented as "the set of actions taken by the pilot at the controls (PF) to prevent the aircraft from exceeding the maximum permissible operating speed (VMO), which resulted in an abrupt change in vertical acceleration that seriously injured a passenger and a member of the cabin crew”.
+The following two Contributory Factors were considered to have been present:
+
+The pilot at the controls’ (PF) decision to make a passenger announcement without delegating his functions to the pilot monitoring (PM)
+a lack of monitoring from the PM 
+
+One Safety Recommendation was made as a result of the Investigation as follows:
+
+that AVIANCA establish guidelines for distributing tasks among the members of the flight crew when passenger announcements are being made from the flight deck. [REC 32/21]
+
+The Final Report of the Investigation was approved on 30 June 2021 and subsequently published simultaneously in the definitive Spanish language and in an English language translation on 19 October 2021.
+Related Articles
+
+Loss of Control
+Serious Injury

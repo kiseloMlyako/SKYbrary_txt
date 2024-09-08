@@ -1,0 +1,352 @@
+C525, vicinity Bournemouth UK, 2019
+
+
+
+
+
+
+
+
+
+
+
+  C525, vicinity Bournemouth UK, 2019
+
+
+
+
+
+
+
+
+
+Summary
+
+On 13 April 2019, an experienced Cessna 525 pilot almost lost control shortly after takeoff from Bournemouth when a recently installed performance enhancement system malfunctioned. After a six minute flight involving a potentially hazardous upset and recovery of compromised control, the turn back was successful. The Investigation found that although the pilot was unaware of the supplementary procedures supporting the modification, these did not adequately address possible failure cases. Also, certification flight tests prior to modification approval did not identify the severity of some possible failure outcomes and corresponding Safety Recommendations were made to the system manufacturer and safety regulators.
+
+
+
+
+Event Details
+
+When
+
+13/04/2019
+
+
+
+Event Type
+
+
+AW,
+              HF,
+              LOC
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+CESSNA 525 CitationJet
+
+
+
+
+
+
+
+
+
+Operator
+
+Private
+
+
+
+Type of Flight
+
+Private
+
+
+
+Flight Origin
+
+
+
+
+Bournemouth Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Rotterdam The Hague Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Climb
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+EGHH
+
+
+
+
+General
+
+Tag(s)
+
+
+              Air Turnback,
+              Deficient Crew Knowledge-systems,
+              PIC aged 60 or over
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Inappropriate crew response (technical fault),
+              Manual Handling,
+              Pilot Startle Response
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Significant Systems or Systems Control Failure,
+              Temporary Control Loss,
+              Extreme Bank
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Other
+          
+
+
+
+Contributor(s)
+
+
+              Component Fault in service
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Airworthiness
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 13 April 2019, a Cessna 525 (N680KH) being operated on a private flight from Bournemouth to Rotterdam under IFR suffered a system malfunction in day VMC shortly after takeoff which caused control difficulties which led to an upset and unintended terrain proximity. Sufficient control was regained to make a return to land possible and none of the four occupants were injured. Although no emergency was declared, ATC received a call from the pilot saying he “had a problem” and, after observing the erratic flight path of the aircraft and the lack of response to their subsequent calls, had initiated a full emergency procedure.
+Investigation
+A delay in notification meant that it occurred only after maintenance intervention had begun but a Field Investigation was then commenced by the UK AAIB. The aircraft was not fitted with, nor was it required to be, an FDR but it was fitted with a 2 hour CVR from which useful data was downloaded. Further evidence was recovered from the avionics suite Maintenance Diagnostic System (MDS) function and important flight data was obtained from the TAWS which captured information around each of two activations which occurred and secondary radar data was also available.
+The aircraft concerned was approved for operation by either one pilot or two and for this flight, it was being flown single owner-pilot with one of their passengers occupying the co-pilot seat. The 73 year-old Pilot had a total of 4,400 flying hours of which 3,200 hours were on type and held an FAA Airline Transport Pilot's Licence (ATPL) and a valid Class 1 Medical Certificate. He had recorded a top grading during his most recent three day recurrent simulator check and his initial type conversion and all subsequent recurrent training had taken place at a simulator training facility owned by the aircraft manufacturer’s parent company.
+What Happened
+The control difficulties experienced were quickly attributed to the annunciated failure of a supplementary performance enhancement system - the ‘Active Technology Load Alleviation System’ (ATLAS). The Pilot had previously owned other Cessna 525s, all bought new, but the aircraft involved in this event had been purchased from a previous owner and the ATLAS system had been fitted during this previous ownership. In accordance with an approved STC, it had involved installing supplementary control surfaces designed to deflect symmetrically and automatically to alleviate gust loads. These consisted of wing extensions linked to control units in each wing which were wing fed by signalling of the output from two accelerometers in a system control unit - the ‘ATLAS Control Unit’ (ACU) - mounted near the aircraft centre of gravity.
+Shortly after takeoff from runway 08 at Bournemouth, the pilot engaged the AP and climbed ahead to 3,000 feet QNH. Ninety seconds after takeoff the flight was re-cleared to FL100 and, on receiving the correct read back, the flight was cleared to track direct to the ‘GWC’ VOR which required a right turn. No read back was received for this re-clearance nor to two subsequent transmissions. On selecting the new heading, the Pilot recalled sensing “light vibration” followed by the illumination of a button on the left of the instrument panel labelled ‘ATLAS’ which displayed in red “ATLAS INOP LIMIT 140 KIAS”. With the aircraft approximately 6 nm east of the airport, still at 3,000 feet QNH and with a recorded speed of 258 KCAS, the aircraft began to roll very quickly to the left, a movement that was recorded on ACT radar. As the roll continued through 45°, the AP automatically disconnected.
+The Pilot stated that his instinctive response - the application of full right aileron and full right rudder - was insufficient to regain control and that despite retarding the thrust levers to idle and using both hands on the control column, the aircraft had continued descending. Recorded TAWS data showed that a ‘Bank Angle’ Alert had been triggered as the aircraft exceeded a 60° angle of bank. This angle of bank then peaked at 75° with 9° nose down pitch after some 19 seconds of roll. The rate of descent peaked shortly afterwards at 4,500 fpm t/min with an airspeed of 235 KIAS and a minimum altitude of 2,300 feet. The data also showed that the normal acceleration had reached +2.65 g. During the upset, the Pilot stated that he had “pressed the illuminated ATLAS button and re-set the ATLAS main CB to no effect”.
+Forty seconds after the un-commanded roll had begun, the Pilot advised ATC that he had an unspecified “problem”. Attempts by the controller to elicit more information were unsuccessful and they noted that “the pilot sounded breathless and strained, and his transmissions were incomplete and difficult to decipher”. Although the pilot had not declared an emergency, the controller, believing that he had sounded “extremely shaken”, advised him to join left hand downwind for Runway 08, and instigated a full emergency procedure.
+The Pilot stated that it had taken all his strength to lift the aircraft’s nose, reduce its airspeed, and recover the bank angle to around 30° left wing down. Mode ‘S’ radar showed that, after the TAWS data record had stopped, the aircraft had climbed at up to 5,500 fpm to reach 3,200 feet during which time its airspeed had reduced to 144 knots, a loss of approximately 90 knots, before the aircraft entered a descending left turn towards downwind. After descending from 900 feet to 300 feet QNH during the downwind leg, the aircraft turned on to base leg above a sports field. The Pilot subsequently stated that “continuous full right aileron and some right rudder” had been required to achieve and maintain the required track until landing, although as airspeed was reduced, less right rudder was required and lateral control could be at achieved 150/200 feet agl. The Pilot described this tight turn as being achieved by varying right rudder deflection. Using this method, he had been able to make a continuous turn towards a 1 nm final, just to the right of the runway extended centreline before lining up and, once over the runway, applying full flap and touching down. The Controller stated that during the final turn, the aircraft had appeared to be “on its side” and that he and several colleagues had believed the aircraft would crash short of the runway.
+It was found that two sets of the Normal and Emergency/Abnormal Checklists for the aircraft type were on the flight deck, one set on each side. These did not contain corresponding procedures for the optional ‘ATLAS’ modification. During subsequent interview, the Pilot indicated that at the time the upset occurred, “he was aware of the presence and basic functioning of the ATLAS winglets but not the extent to which they could affect the aircraft’s controllability”. This lack of awareness is discussed later.
+It was noted that four weeks earlier, whilst en route from Buffalo (USA) to Goose Bay (Canada), the same aircraft and pilot had experienced a previous un-commanded left roll accompanied by illumination of the same ‘ATLAS INOP’ message. The Pilot described that roll as “less severe” with a maximum bank angle around 50° reached and the ‘ATLAS INOP ‘message lit for only 3-5 seconds before self-extinguishing following which the aircraft behaved normally. He stated that “since the system functioned normally for the remainder of that flight and on four subsequent flights” he had not recorded it. The Investigation considered that the cause was likely to have been the same but that because the fault was intermittent, it was unlikely that any attempt to identify the fault after this initial occurrence would have been successful.
+Why It Happened
+It was noted that the aircraft had a valid C of A and had been maintained in accordance with the authorised AMM and its Supplements. The Tamarack ‘ATLAS’ modification had been made in November 2017 following which the aircraft had flown 190 hours. The present owner, who was in the process of transferring the aircraft to the Belgian register, had bought it in March 2019 with the most recent scheduled maintenance on the aircraft having taken place from 14 February until 7 March 2019, 14 flying hours before the flight under investigation.
+It was noted that the ‘ATLAS’ system which was the focus of the Investigation operated independently of all other aircraft systems. The modification requires that the original wing tips are removed and 22 inch extensions, incorporating the winglets, are attached in their place (see the illustration below). Active aerodynamic control surfaces referred to as ‘Tamarack Active Camber Surfaces,’ (TACS) are positioned in the horizontal section of these extensions. The ‘TACS’ are automatically activated in the event of high positive or negative g to unload the wing and keep the wing loading within the original envelope.
+
+The Cessna 525 wing with the Tamarack ‘ATLAS’ installed. [Reproduced from the Official Report]
+Any faults in the ATLAS system will result in the illumination of the ‘ATLAS’ PBSI. Pressing the illuminated PBSI once clears the ACU fault latch and if this reset is successful, the light will go out and the system will resume normal operation whereas if the detected problem remains, the light will remain on. Pressing the PBSI “three times within three seconds” will initiate a built-in test sequence which may result in fault rectification.
+By the time the AAIB Investigation commenced, a malfunction of the ATLAS system had already been identified as the suspected cause of the event. The left wing TCU was considered likely to have been the cause of the uncommanded left roll but the reason for this only became apparent after a very detailed investigation. The eventual conclusion of this was that a screw and washer which were supposed to attach and earth the electrical connector PCB contained in the TCU box were loose inside the box and had caused an internal short circuit. This had then driven the TCU actuator to the extend hard stop, a movement which under aerodynamic load was likely to have occurred before the unit was electrically de-powered by the fault detection circuitry within the ACU.
+Operating Procedures for the Atlas System
+The Cessna 525 AFM was approved by the FAA and published by Cessna. The introduction to its ‘Section 5 Supplements’ was found to state that the section included “amended operating limitations, operating procedures, performance data and other necessary information for ... airplanes equipped with specific options” and that aircraft operators should refer to relevant supplements “to ensure that all limitations and procedures appropriate for their airplane are observed”. It was further stated that “a non-FAA Approved Log of Supplements is provided for convenience only”.
+The ATLAS AFM supplement (AFMS) was approved by the EASA and published by the Design Organisation (DO). Because the certification was approved by means of an STC, it was not included in the basic AFM but was “provided to ATLAS purchasers for them to install in their AFM”.
+The relevant parts of the ‘ATLAS inoperative procedure’ included in the AFMS were as follows.
+
+
+The AFM for the aircraft involved was found at the rear of the aircraft, rather than on the flight deck and contained pps 5-18 of the ‘ATLAS’ winglet AFMS, in reverse order, in the section entitled ‘White message procedures’. These pages included the sections on normal and emergency procedures. It was observed that “applicable regulations state that pilots should be familiar with their aircraft’s AFM (and that this) includes information contained within AFM supplements”. Section 6 of the aircraft’s AFM, which covered weight and balance, was found to contain an updated weighing form to account for the modification, an FAA ‘Major Repair and Alteration’ document and an ‘Equipment List Amendment’ relating to the ATLAS winglets, as well as a copy of the corresponding STC. The pilot involved in this event had not familiarised himself with this AFM material.
+Certification and Airworthiness of the ‘ATLAS’ System
+The ‘ATLAS’ system was designed and manufactured in the USA but it was found that “at that time FAA workload meant it was not possible to certify the system quickly in the USA”. Since the FAA had a bilateral agreement with the EASA which allowed either regulator to approve and issue an STC originated by the other, the ATLAS ‘manufacturer’ identified a UK organisation with Design Organisation (DO) Approval and this company worked with the manufacturer to obtain the STC in Europe under the EASA CS-23. The FAA then approved the EASA-issued STC. Issue of the STC by the EASA required that a comprehensive flight test programme be conducted. This programme did not include the participation of representative operational pilots and the test pilot involved operated the aircraft as a single pilot with a safety pilot occupying the co-pilot seat. One of the responses of the EASA to the Investigation was to the effect that pilot response to roll rate was instinctive and therefore the ‘ATLAS Inoperative in flight’ procedure must be followed immediately i.e. action contrary to a pilot’s instincts to control roll first was essential.
+The EASA stated that assessment of TACS failures such as the one which had occurred had been subject to what it considered “industry standard” reaction times - three seconds during cruise with AP engaged and one second for takeoff, climb and landing phases on the basis that a pilot could be assumed to “be monitoring more actively”. The general requirements of CS-23 were noted to state that an aircraft as modified or otherwise must “meet the requirements of CS 23.143 to 23.253 at all practical loading conditions and all operating altitudes not exceeding the maximum operating altitude … for which certification has been requested, without requiring exceptional piloting skill, alertness or strength”.
+The Investigation considered the fight test element of the certification process in considerable detail, including the hazard classification derived from it. It also considered the potential surprise / startle consequences of sudden-onset asymmetric failure of the ATLAS system. It was noted that the implications of a TACS failure had been described by the ‘ATLAS’ manufacturer Tamarack as "benign” and that “the other material it provided did not highlight the system’s capacity to influence the aircraft’s flight path or the implications of a pilot responding instinctively to uncommanded roll caused by its failure”.
+When the EASA became aware of the investigated event six days after it had occurred, it had issued an Emergency AD which required that all ‘ATLAS’-equipped aircraft should have the system deactivated and the movement of both TACS made impossible. The aircraft maximum speed was also limited to 140 KIAS and flight in icing conditions was prohibited. In response to the EASA EAD, the FAA followed with a similarly restrictive AD for such aircraft five days later.
+It was noted that in June 2020, the USA legislature began to progress an ‘Aircraft Safety and Certification Reform Act’ which required that “part of the certification process (shall) … review existing assumptions on pilot recognition and response, including response to safety-significant failure conditions, validate such assumptions with applicable human factors research and the input of human factors experts, and as necessary modify the existing assumptions (and) ensure that when carrying out the certification (ensure that) the cumulative impact that new technologies may have on pilot response are properly assessed through system safety assessments or otherwise”.
+The Findings of the Investigation included, but were not limited to the following:
+
+The ATLAS inoperative in flight procedure included a ‘warning’ that large aileron input may be required, and that airspeed reduction must be prioritised, but did not explain why. Providing this information might assist pilots to appreciate why a potentially counter-intuitive response was required, and to understand how quickly the handling difficulties might escalate in the absence of immediate airspeed reduction, making the circumstances less surprising when encountered. The warning did not fully describe the escalating nature of TACS failures, possibly leading to aircraft upset; the possibility for high control forces and altitude loss; the expected reaction time for thrust reduction; and the possibly counter-intuitive nature of the required response, the first actions of which differ from conventional jet upset training. By comparison, the opening paragraph of the original aircraft’s ‘Jammed elevator trim tab procedure’ explained the intent of the procedure. It provided guidance on airspeed and control forces, and related these to throttle and speedbrake use.
+The absence of a specific training requirement to support safe operation of an aircraft fitted with a Tamarack ‘ATLAS’ system was noted yet “training may be particularly valuable if a required response differs from other training or from a foreseeable instinctive response, or if it needs to be particularly prompt”. The EASA stated that regulations which came into force after the ‘ATLAS’ STC was approved “had the effect of requiring manufacturers to consider the impact of design changes on the pilot training required”. However, it was not clear that those regulations will result in adequate training in the case of the ‘ATLAS’ or similar systems.
+
+The formally documented Conclusion of the Investigation was as follows:
+The uncommanded left roll occurred because a short circuit in the left ATLAS Control Unit caused the associated control surface to fail in the fully deflected up position.
+The pilot, who had recently purchased the aircraft already modified with the ATLAS winglets, was not aware of the associated aircraft flight manual supplement, which was absent from the relevant section of his aircraft’s flight manual.
+The pilot’s instinctive response to the aircraft upset was different to that assumed by certification flight testing and the ATLAS inoperative emergency procedure. Some of those differences may be addressed by the ‘Aircraft Safety and Certification Reform Act of 2020’ which is underway in the USA.
+Four Safety Recommendations were made as a result of the findings of the Investigation a follows:
+
+that the Tamarack Aerospace Group amend the ATLAS inoperative in-flight procedure to ensure actions are specified that are relevant in all anticipated flight conditions. [2020-027]
+that the Tamarack Aerospace Group expand the information within the ATLAS inoperative in flight procedure to provide a level of detail consistent with other AFM procedures and to enable pilots to understand the significant and potentially escalating nature of TACS failures. [2020-028]
+that the European Union Aviation Safety Agency determine the additional training it requires pilots to undertake in order to operate aircraft fitted with supplementary systems that influence flight path, where training on the original aircraft would not adequately prepare pilots for operating the modified aircraft in normal, abnormal or emergency situations. [2020-029]
+that the Federal Aviation Administration determine the additional training it requires pilots to undertake in order to operate aircraft fitted with supplementary systems that influence flight path, where training on the original aircraft would not adequately prepare pilots for operating the modified aircraft in normal, abnormal or emergency situations. [2020-029]
+
+Safety Action arising from the investigation findings was noted as including the following:
+
+The EASA and the FAA each issued ADs restricting the operation of aircraft with the ATLAS modification installed until specified closing action is taken.
+Tamarack Aerospace Group as the winglet modification manufacturer has added a signature page to the ATLAS winglets delivery checklist to identify who has conducted a particular handoff briefing and has published a laminated single-page informal abbreviated ATLAS checklist, which includes the actions from the ATLAS AFM Supplement ‘inoperative in-flight procedure’. However, at the time of publication of the Investigation Report, the majority of the manufacturer’s other listed Safety Actions were still “intended” rather than “taken”.
+
+The Final Report was published on 3 December 2020.
+Related Articles
+
+Loss of Control
+Supplementary Type Certificate (STC)
+Airworthiness
+Aircraft Flight Manual (AFM)
+Aircraft Technical Log

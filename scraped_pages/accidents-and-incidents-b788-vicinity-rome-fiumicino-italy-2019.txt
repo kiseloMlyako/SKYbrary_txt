@@ -1,0 +1,372 @@
+B788, vicinity Rome Fiumicino Italy, 2019
+
+
+
+
+
+
+
+
+
+
+
+  B788, vicinity Rome Fiumicino Italy, 2019
+
+
+
+
+
+
+
+
+
+Summary
+
+On 10 August 2019, the left Rolls Royce Trent 1000 engine of a Boeing 787-8 just airborne from Rome Fiumicino suddenly malfunctioned and was shut down. A MAYDAY was declared, and the flight returned for an overweight landing during which all four left main gear tyres deflated. The underlying cause of the engine failure was found to have been intermediate-pressure turbine blade detachment attributable to previously identified serviceability issues. Wider concerns were identified in relation to underlying engine certification standards and to the hazard created by ejection of large quantities of engine debris into a densely populated area.
+
+
+
+
+Event Details
+
+When
+
+10/08/2019
+
+
+
+Event Type
+
+
+AW,
+              FIRE,
+              LOC
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 787-8 Dreamliner
+
+
+
+
+
+
+
+
+
+Operator
+
+Norwegian Air Shuttle
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Rome/Fiumicino Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Los Angeles International Airport
+
+
+
+
+
+
+
+Actual Destination
+
+
+
+
+Rome/Fiumicino Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Take Off
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+LIRF
+
+
+
+
+General
+
+Tag(s)
+
+
+              Air Turnback,
+              Extra flight crew (no training),
+              Ineffective Regulatory Oversight
+          
+
+
+
+
+FIRE
+
+Tag(s)
+
+
+              Landing Gear Overheat
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Loss of Engine Power
+          
+
+
+
+
+EPR
+
+Tag(s)
+
+
+              MAYDAY declaration,
+              Precautionary Rapid Disembarkation
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Engine - General
+          
+
+
+
+Contributor(s)
+
+
+              Component Fault in service,
+              Corrosion/Disbonding/Fatigue,
+              Ejected Engine Failure Debris
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Aircraft damage
+
+Minor
+
+
+
+Non-aircraft damage
+
+Yes
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Airworthiness
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 10 August 2019, a Boeing 787-8 (LN-LND) operated by Norwegian Air Shuttle on a non-scheduled passenger flight from Rome Fiumicino to Los Angeles as DY7115 was passing 1000 feet AGL, having just taken off in day VMC, when its left engine suddenly malfunctioned and was shut down. A MAYDAY was declared, and the flight made an overweight landing back at Fiumicino thirty minutes later after dealing with the immediate issue and preparing for the approach and landing. The aircraft followed the ground track shown below. During the landing roll, all four left main gear tyres deflated, resulting in a small fire that was quickly extinguished by the airport fire service with no hazard to the occupants. A non-emergency passenger disembarkation then followed before further movement of the aircraft. The engine failure was subsequently found to have caused the ejection of a large quantity of engine debris that fell onto a densely populated area, causing minor damage but no injuries. Quite extensive but minor impact damage was caused to the airframe structure by ejected engine debris.
+
+The aircraft ground track. [Reproduced from the Official Report]
+Investigation
+An Investigation was carried out by the Italian ANSV. The available evidence on what had happened included recorded flight data from the two EAFRs installed at different locations in the aircraft, together with data recorded in the NVM in the Engine Monitoring Units (EMU). The EMU data were particularly valuable given that a number of the 2000 recorded parameters helped to understand how the turbine blades had degenerated to a point where complete in-situ failure had occurred without readily available prior warning. The data also enabled comparing the status of the two engines in terms of the possibility of dual failure.
+It was found that the operating flight crew consisted of a 49-year-old captain, an Austrian national with a total of 12,093 flying hours including 1,393 hours on type, and a 37-year-old first officer, a Danish national with a total of 2,882 flying hours experience including 953 hours on type. A 37 year-old relief captain, a German national with a total of 8,356 hours including 673 hours on type, was occupying the flight deck supernumerary crew seat and actively assisted the operating crew following the engine failure.
+What Happened
+Passing 1,000 feet AGL, half a minute after the aircraft had taken off from runway 16R with the first officer acting as PF, the left engine N1 abruptly decreased from 90% to 60% just before strong airframe vibrations began. A series of EICAS messages all relating to the left engine occurred in a rapid sequence over 12 seconds in the order "EEC MODE L," "ENG1 VIB WARN," "LOSS OF TPR L," "ENG L EGT RED," "ENG LIMIT EXCEED L," and "OVERHEAT ENG L." The crew responded by maintaining directional control and preparing to shut down the engine concerned. 
+Having been about to check in with radar when the failure occurred, the crew then did so. They initially advised “an engine problem” and, having made the initial right turn onto heading 240° to follow the assigned SOSIV 6B SID, requested to continue on that heading. Two minutes later, the crew declared a MAYDAY advising “engine out” and requested radar vectors to prepare for landing back on 3,902 metre-long runway 16R. A right turn onto downwind heading 320° was given climbing to 3000 feet QNH, and when higher terrain was approached, ATC advised that orbits would need to be made until ready for base leg, and two to the right were conducted.
+Once ready, ATC provided radar vectors towards and onto base leg for runway 16R. With the aircraft remaining in VMC with the airport in sight, ATC then provided a heading to the ILS LOC. This resulted in alignment with the extended runway centreline at 16 nm out, with the subsequent transfer to TWR with 6½ nm to run. As per the crew’s previously advised intention, the aircraft cleared the runway and came to a stop on the final RET taxiway AH, and the right engine was shut down. The Airport RFFS were waiting at this location, and having observed a fire starting in the left MLG, they proceeded immediately to extinguish it. An orderly passenger disembarkation to buses followed, after which the aircraft was towed to a suitable remote parking position.
+The left engine showed no obvious signs of externally visible damage except for two of the last-stage turbine blades and one seriously damaged vane. Numerous fragments were found in the exhaust cone, and the final stage of turbine damage was visible (see the illustration below). Multiple small holes and debris impact marks were visible on the underside of the left wing, its flap fairing, and on the left horizontal stabilizer as well as several small impacts on the fuselage. All four left main gear tyres deflated (see the first illustration below) due to the high temperature created during braking following the overweight touchdown. 
+A borescope inspection of the failed engine once the aircraft had been towed to a remote parking position found that the origin of the failure had been the detachment of one of the engine’s Intermediate Pressure Turbine (IPT) blades which had then caused the detachment of the trailing blade (see the second illustration below) which together had led to considerable further engine damage.
+
+The deflated left main gear tyres. [Reproduced from the Official Report]
+
+The fracture surface of the primary damage - the detachment of an IPT blade which led to the breakage of the adjacent one. [Reproduced from the Official Report]
+Most of the recovered engine debris was found in the area over which the aircraft was passing at the time the first "ENG1 VIB WARN" indications of a problem were annunciated. Although only around 4 kg of debris, mainly fragments of turbine blades ejected from the left engine, was recovered from this area, an analysis of the left engine by the manufacturer concluded that almost ten times this weight of debris had been ejected. Impact damage on the ground included vehicles - mainly broken windows (see below) and bodywork dents, and buildings (mainly holes in awnings). The larger fragments found weighed about 100 g.
+
+Typical impact damage to a parked vehicle. [Reproduced from the Official Report]
+Why It Happened
+Both engines installed on the aircraft were Trent 1000 package B with pre-mod SB72-H818 IPT blades (such engines were allowed a limited number of cycles on wing before being modified to remove this limit). There was no evidence that the risk of turbine blade detachment could have been detected either during maintenance or engine operation. It was noted that the Rolls Royce Trent 1000 engine which failed was a three-shaft turbofan with a high bypass ratio of approximately 10:1 with the IPT located as shown in the cross section below.
+
+The Rolls Royce Trent 1000 engine. [Reproduced from the Official Report]
+In this engine, the low-pressure shaft connects the LP compressor to a six-stage low pressure turbine (LPT), which during takeoff provides 80% of the thrust. The intermediate-pressure shaft connects the 8 IP compressor stages to the single-stage IPT turbine where the failure occurred. The IPT blade detachment was found to have been the consequence of progressive corrosion fatigue with initiation favoured by the methodology and type of blade coating and the base material composition of the blade. This problem had already been identified and a programme to replace the blades on all on-wing affected engines (those with pre-mod 72-H818 IPT blades) was already under way based on action taken ahead of a hard life of 200 cycles as mandated by the EASA under AD 2019-0135. However, the IPT detachment under investigation was found to have occurred 200 cycles ahead of the mandatory limit, which was therefore determined to be inadequate. As a result, two Interim Safety Recommendations were issued (see below under Safety Recommendations).These proposed both a reassessment of the appropriate on-wing limit for pre-mod engines and a re-evaluation of OEM service management of this problem.
+The Investigation checked the status of the right engine, which was at the same modification standard as the failed engine but had functioned normally. The Investigation found that the right engine had even less cycles remaining (103), and it was found that the majority of its IPT blades were exhibiting signs of deterioration that would eventually lead to blade failure. Since the IPT hard life mandate was inadequate, it was considered there was a possibility this engine could also have failed, given the absence of any AD to prevent aircraft operation with two pre-mod engines installed. A third Interim Safety Recommendation was therefore issued (again see below) to implement mandatory action to limit the extent to which continued aircraft operation with two pre-mod engines installed would be permitted. 
+Uncontained High Energy Debris
+It was noted that the CS-E has no clear definition of which “hazardous engine effects” are required to have a probability of occurrence (i.e. failure rate) below 10‾⁷, whereas the FAA-equivalent specification in AC33.75 does explicitly recognise that “the release of significant numbers of blades will likely include fragments exiting with high energy and would therefore result in a hazardous engine effect”. It was also noted that the EASA CM-21.A-A-001 concludes that “there are no unsafe conditions currently and in the long-term for the population on ground” because of the absence of cases of death or serious injury due to Parts Detached from Aeroplanes (PDA). This conclusion was considered to be “highly questionable,” since it is based on hourly failure rates at any stage of flight whereas “the exposure to risk for PDA of those who live near an airport is clearly higher", especially in the case of those under initial climb flight tracks since “engine stress is typically higher during takeoff and initial climb”. 
+Engine Reliability
+The Investigation noted that engine certification standards “have remained unchanged since they were defined more than 40 years ago.” The report also noted that since engine reliability has significantly improved over that time, the continuous improvement supports periodic review of the minimum level of reliability rather than continuing to use an obsolete standard.
+The Cause of the investigated Serious Incident was formally determined as “the failure of intermediate pressure turbine blade number 79 in the left engine induced by a progressive corrosion-fatigue phenomenon made possible by an improvable blade design (which then) induced damage to other parts of the engine, to the aircraft and on (the) ground in the area Fiumicino”.
+Contributory Factors in respect of weakness in terms of the regulatory framework for engine certification, given that ten previous similar cases had already occurred beginning in October 2015, were identified as: 
+
+An absence of any effective risk assessment for people on the ground due to Parts Detached from Aircraft (PDA) in European Union Aviation Safety Agency Certification Memorandum CM-21.A-A-001.
+The absence of a clear and more comprehensive definition of what constitutes "high energy debris." 
+The absence of any plan to review and potentially revise the maximum allowable "probabilities of occurrence" used in the parts of the European Union Aviation Safety Agency (EASA) Certification Specifications and in the Federal Aviation (FAA) Part 21 Certification Procedures for Products and Articles. 
+
+Three Interim Safety Recommendations were made whilst the Investigation was in progress to address the immediate risk of recurrence as follows:
+On 29 August 2019:
+
+that the European Union Aviation Safety Agency (EASA) takes immediate actions to achieve an higher level of safety, also taking into consideration, but not limiting their initiatives to, defining different and more stringent time limits for the RR Trent 1000 pre-mod 72-H818 IPT blades.
+that the European Union Aviation Safety Agency (EASA) re-evaluates the whole validity of the service management currently being adopted by the manufacturer of the Trent 1000 pre-mod 72-H818 IPT blades, endorsed by the AD 2019-0135.
+
+On 19 September 2019:
+
+that the European Union Aviation Safety Agency (EASA) evaluate provisions relevant to the de-pairing of pre-mod 72-H818 engines, avoiding two engines of the same pre-mod status being installed on the same aircraft, thus further lessening the possibility of a double in flight engine shutdown.
+
+Five Additional Safety Recommendations were issued upon completion of the Investigation in January 2022 as follows:
+
+that the European Union Aviation Safety Agency (EASA) evaluates the opportunity to revise the risk assessment related to people on the ground being hit by Parts Detached from Aircraft (PDA), considering in the most conservative way the different specific scenarios for each phase of flight for the improvement of safety. Special attention should be given to people living near the airports, (and) the results should be taken into account for the next (revision to) certification requirements. [10/1147-19/4/I/21]
+that the European Union Aviation Safety Agency (EASA) evaluates a revision of the CS-E in order to provide a clear definition of high-energy debris, including what constitutes a risk for the aircraft and people on board, but also for people on the ground in the framework of the different phases of flight. Special attention should be given to people living near airports. [10/1147-19/5/I/21]
+that the Federal Aviation Administration (FAA) evaluates a revision of AC33.75 in order to provide a clear definition of high-energy debris, including what constitutes a risk for the aircraft and people on board, but also for people on the ground in the framework of the different phases of flight. Special attention should be given to people living near airports. [10/1147-19/6/I/21]
+that the European Union Aviation Safety Agency (EASA), taking into account the actual accident and incident statistics, the actual volume of traffic of the commercial transportation, and the actual technology state of the art, evaluates a periodic revision of the maximum allowable probabilities of occurrence used in the CS-E, establishing clear calculation methods. This should have the aim of improving safety by setting achievable standard levels of reliability that are compatible with the actual state of the art. [12/1147-19/7/I/21]
+that the Federal Aviation Administration (FAA), taking into account the actual accident and incident statistics, the actual volume of traffic of the commercial transportation, and the actual technology state of the art, evaluates a periodic revision of the maximum allowable probabilities of occurrence used in FAA Part21 (AC25 25.1309-1A, AC33-75, AC3908), establishing clear calculation methods. This should have the aim of improving safety by setting achievable standard levels of reliability that are compatible with the actual state of the art. [12/1147-19/8/I/21]
+
+The Final Report was published in an English language translation and in the definitive Italian language on 26 January 2022. 
+Related Articles
+
+Uncontained Engine Failure
+Risk Assessment
+Certification of Aircraft, Design and Production
+Certification by EASA
+Ageing Aircraft - Structural Failure
+Safety Oversight

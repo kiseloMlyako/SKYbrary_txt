@@ -1,0 +1,153 @@
+Assessment of Pilot Compliance with TCAS RA Using Radar Data
+
+
+
+
+
+
+
+
+
+
+
+  Assessment of Pilot Compliance with TCAS RA Using Radar Data
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Nets 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Background
+The development and implementation of the Traffic alert and Collison Avoidance System (TCAS) was driven by aviation accidents. When there is a risk of collision, TCAS will issue a Resolution Advisory (RA) telling pilots how to change the vertical rate to avoid a collision, so a prompt and accurate pilot response to all RAs is particularly important. Late or incorrect responses may degrade safety.
+The Network Manager implemented a dedicated risk identification and monitoring process and identified the Top 5 Operational Safety Hazards. One of these hazards is TCAS RA not followed.
+About the study
+A study was carried out a study has been carried out in 2020 (subsequently updated in 2021) to support the TCAS RA not followed operational risk in order to provide operational data assessing pilot responses to TCAS RA, as well as TCAS operational mode and serviceability. To conduct this study, Mode S radar recordings from core European airspace were collected for the period of one year and analysed to assess if pilots are responding to TCAS RA as required.
+The analysis covered 1176 RAs of over 8 second duration, i.e. a duration long enough to give the pilot a chance to respond. Nominally, pursuant to ICAO provision, a response to an initial RA is expected within 5 seconds.
+The pilot compliance criteria were based on the Guidance Material jointly developed by IATA and EUROCONTROL (Method A) as well as on a different methodology (Method B) which applied less stringent compliance criteria in case the pilot needs to significantly change vertical rate to comply with RA (e.g. from climb to descend). See Appendix A of the study for more details.
+Following the Guidance Material, each RA has been classified as:
+
+Followed: the pilot’s reaction was correct and the anticipated vertical rate was achieved;
+Not Followed – too weak: the vertical rate was not sufficient;
+Opposite: the RA was flown in the opposite vertical;
+Excessive: the response exceeds the required vertical rate;
+Additionally, in Method B an additional classification Weak response was added for RAs during which the pilot has made an adjustment in vertical speed in the required direction, but insufficient in vertical speed or acceleration to fulfil the RA vertical speed.
+
+Summary of results
+Both assessment methods employed in the study provided similar conclusions:
+
+The overall RA compliance (for all RAs) at 8 seconds after the RA 38% (Method A) or 55% (Method B) of RAs were flown with the required vertical rates, and at 12 seconds after the RA 55% and 54%, respectively.
+Opposite responses (i.e. those responses carrying the highest risk) at 8 seconds were recorded in 34% of cases in Method A and 1% in Method B. At 12 seconds 17% and 1%, respectively.
+There was no significant difference in the distribution of pilot responses at various altitude layers.
+There is little to distinguish between the various aircraft type groups / families.
+No significant performance differences were observed while comparing crews of EASA-country registered aircraft vs non-EASA aircraft.
+
+Compared to Method A, Method B indicates significantly fewer cases where the pilot is assessed to be not responding to the RA at all, or to be responding in the opposite sense. Further study, using airborne data, may be needed to determine which of the two methods provides the better assessment of pilot responses. Although the assessment using radar data comes with some limitations (which could be overcome with the use of recorded airborne data, but this is not generally available due to logistic, commercial, and legal reasons), it clearly indicates that the level of pilot compliance with TCAS resolution advisories is low. That, again, emphasises the need for aircraft operators to monitor carefully performance of their crews, provide them with a feedback regarding their RA performance and to take corrective measures as necessary.
+A subset of the data used in the above-mentioned study was used to assess operations with TCAS out of service or with TCAS in a TA-only mode. On average, 122 flights were conducted daily in core European airspace with TCAS out of service. Fourteen aircraft were observed operating without TCAS for two weeks. Analysis of operations in a TA-only mode recorded on average 50 aircraft a day (i.e. exceeding the time limit allowed by the applicable Minimum Equipment List).
+The study did not look into the reasons for non-compliance, which should be researched separately.
+The detailed results of the study and explanation of the methodology can be found in this report.
+Related Articles
+
+Airborne Collision Avoidance System (ACAS)
+ACAS Regulation and Procedures
+ACAS Resolution and Traffic Advisories
+TCAS RA Not Followed
+ATC Avoiding Instructions Opposite to TCAS RA
+TCAS II version 7.1
+‘Climb’ RAs and Performance Limitations
+TCAS - Always follow the RA (SKYclip)
+TCAS RA not followed (SKYclip)
+
+Further Reading
+
+Guidance Material: Performance assessment of pilot compliance with Traffic Alert and Collision Avoidance System (TCAS) advisories using Flight Data Monitoring (FDM), IATA and EUROCONTROL, 3rd Edition, January 2022 (note: downlink from IATA website, file size 99 MB).
+The Assessment of Pilot Compliance with TCAS RAs, TCAS Mode Selection and Serviceability Using ATC Radar Data, EUROCONTROL, 2nd ed., 10 February 2022.
+Traffic Alert and Collision Avoidance System (TCAS) - Selected Statistical and Performance Data in Core European Space, EUROCONTROL, 15 February 2021.
+HindSight 31 - Assessment of pilot compliance with TCAS RA
+
+
+
+
+
+Categories
+
+
+Safety Nets
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

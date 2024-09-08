@@ -1,0 +1,156 @@
+Weather Radar: Storm Avoidance
+
+
+
+
+
+
+
+
+
+
+
+  Weather Radar: Storm Avoidance
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Flight Technical 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+This article provides generic guidance on the use of weather radar to detect and avoid hazards associated with Cumulonimbus (Cb) clouds. Reference should always be made to the manufacturers operating instructions as different weather radars may well have different capabilities and require different handling techniques.
+Effects
+Flight into Cumulonimbus clouds is hazardous; aircraft flying close to, or into, a Cumulonimbus (Cb) cloud can reasonably expect to encounter some or all of the following:
+
+Severe turbulence
+In-Flight Icing
+Electrical disturbances, such as Lightning
+Heavy precipitation including Hail
+
+All of these can cause severe damage to the aircraft along with a high probability of personal injury and anxiety for the occupants.
+Defences
+Flight Planning. The weather briefing (SIGMET charts) will show areas of predicted Cumulonimbus activity and the crew have the opportunity at this stage to plan a route to avoid it. Equally, particularly in the tropics, Cumulonimbus intensity and development is greater at certain times of the day; use local knowledge of climatology and plan schedules to avoid those times.
+There remain a number of defences once airborne:
+Weather radar: All larger aircraft are likely to be fitted with weather radar and it is frequently required in accordance with aircraft certification and Operating Regulations. It is important to fly with the system switched ON. You can’t avoid what you can’t see and entering what may appear to be thin cirrus cloud reduces you to Instrument Meteorological Conditions (IMC) when there could be embedded Cb within the cloud, even if it is not forecast.
+Routing: A Cb should be cleared by a minimum of 5,000 ft vertically and 20 NM laterally, to minimize the risk of encountering severe turbulence. Use weather radar for in-flight avoidance or following the “line of least risk”, but be aware that a large cloud can absorb a great deal of the radar energy which may therefore not penetrate all of the way through the storm. This can give a false impression that there are no Cb cells beyond the cell immediately ahead of the aircraft.
+Speed Reduction: All aircraft have in their Aircraft Flight Manual (AFM) a Design Manoeuvring Speed (VA) for full scale flight control deflection and usually a specified Rough Air Speed (Vra). If during flight, rough air or severe turbulence is encountered, reduce the airspeed as recommended in the Aircraft Flight Manual (AFM) to minimise stress on the aircraft structure. Beware, however, of reducing airspeed too much; a compromise between flying slowly enough to minimise the stresses on the airframe and flying fast enough to be protected against inadvertent stall and loss of control due to wind shear will be required.
+Cabin Preparation: Warn the cabin crew and passengers in plenty of time, thus giving adequate notice for the cabin crew to make the cabin secure, seat and check passenger restraints and get themselves seated with harness fastened.
+Tilt Control
+Climb: Weather radars can often have 2 attitude references; slaved to the aircraft attitude or external horizon. Make sure that your tilt setting takes account of which reference source you are using. With the radar slaved to the external horizon and a 0 deg angle set on the tilt control, you will not be viewing the weather ahead of you in a 5 deg climb but observing the weather below that you will be climbing over.
+Gross Error Check: You can validate the alignment of the weather radar by carrying out a gross check using the 1-in-60 rule; as an example, at around 30000ft with the radar tilt set to 10deg down, the ground returns should be around the 30 nm range.
+Cruise: Weather radars usually have a beam width of around 2.5 deg. Setting the tilt control to around 1deg down (relative to the external horizon) will allow you to observe weather ahead and slightly below the aircraft. If your radar allows multiple elevation scans, then it is prudent to select a pattern that spends some time looking lower than the aircraft to give yourself the best chance of identifying developing weather systems, thus allowing you to take early avoiding action.
+Descent: As for the climb, ensure that you have got the tilt set to allow for the system attitude reference that is enabled. Another issue with descents is the potential for confusion with ground returns. Whilst modern radar systems often have algorithms designed to screen out ground clutter, your system may not. As in the cruise you can use the beam width to help; consider setting the tilt control to 1 deg up in order to minimise ground clutter returns.
+Typical Scenarios & Solutions
+Consider the schematic below, where RED indicates areas of severe weather (larger droplet size), gradually decreasing through AMBER and GREEN to clear:
+
+Schematic
+Route A: This is the most direct route to your destination BUT it carries the biggest risk to both the aircraft and its occupants.
+Route B: It would be very tempting to select this route in the belief that you can squeeze through the gap; but the Cb cells beneath may be developing upwards closing off the gap. Tilt the radar down to see what is below this apparent gap between build-ups.
+Route C: This could appear to be a reasonable balance of risk versus operational need as there are “2 layers of severity” between the current condition and the most severe. However, look at the cell to the right of this route; the rate of change in severity is marked over a short distance, which is indicative of wind shear.
+Route D: Apart from total avoidance of the systems this is the lowest risk route but it could have operational implications on fuel reserves, timings, etc.
+When faced with a wall of severe Cumulonimbus cells, in may be prudent to turn back. On the other hand, especially over the ocean or when already some way into an extensive storm system, turning around may not be an option. On such an occasion it is prudent to avoid traversing any areas where the edges of the various severity levels change rapidly e.g. Route E in the diagram below.
+
+Schematic: Route E and Route F
+The preferred route in this example would be Route F, with the aircraft flying at speeds around the Design Manoeuvring Speed.
+One final scenario is when you become “trapped” in a rapidly developing system, eg in the Inter Tropical Convergence Zone (ITCZ) where Cb build-up can happen at phenomenal rates. Frequent and rapid changes of heading can be required to navigate safe passage through the system and you will need to maintain an awareness of your track; a 30 deg starboard avoidance followed by a further 40 degree starboard avoidance followed by another 40 deg starboard avoidance will soon result in you tracking backwards! On these occasions it may be worth allocating a very clear “split” in crew responsibilities - one pilot monitoring the weather radar and immediate weather avoidance and one pilot monitoring the aircraft navigation.
+Related Articles
+
+Weather Radar
+Doppler Radar
+Terminal Doppler Weather Radar
+Cumulonimbus (Cb)
+Inter Tropical Convergence Zone (ITCZ)
+Tropical Revolving Storm
+
+Further Reading
+
+Airbus Adverse Weather Briefing Note - Optimum Use of Weather Radar
+UK AIC: P 056/2010, "The Effect of Thunderstorms and Associated Turbulence on Aircraft Operations", 12 Aug 2010.
+
+
+
+
+
+Categories
+
+
+Flight Technical
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,145 @@
+World Geodetic System 1984 (WGS84)
+
+
+
+
+
+
+
+
+
+
+
+  World Geodetic System 1984 (WGS84)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 Description
+2 History
+3 Compliance
+4 Pilot Actions in Non WGS84 Airspace
+5 Related Articles
+6 Further Reading
+
+Description
+A geodetic datum or geodetic system is a coordinate system, and a set of reference points, used for locating places on the Earth. Datums are used in geodesy (the branch of mathematics dealing with the shape and area of the earth), navigation, cartography and by Global Navigation Satellite Systems (GNSS), such as the Global Positioning System (GPS) and the Global Orbiting Navigation System (GLONASS). Each datum starts with an ellipsoid (stretched sphere), and then defines latitude, longitude and altitude coordinates. One or more locations on the Earth's surface are chosen as anchor "base-points".
+The World Geodetic System is a standard for use in cartography, and in navigation. It comprises a standard coordinate frame for the Earth, and a gravitational equipotential surface (the geoid) that defines the nominal sea level. The current ICAO standard World Geodetic System is WGS84.
+History
+In the late 1950’s, the US Department of Defense began to develop a worldwide system, referenced to geodetic datums, which was intended to establish compatibility between the coordinates of widely separated locations. Efforts of the Army, Navy and Air Force were combined and lead to the development of the DoD World Geodetic System 1960 (WGS60).
+In 1966, a tri-service World Geodetic System Committee was assigned the responsibility of developing an improved WGS, based on newly available satellite imagery, surface gravity observations and doppler data, to satisfy evolving mapping, charting and navigation requirements. the committee's efforts resulting in WGS66 which was implemented in 1967 and served the Department of Defense needs for about five years.
+WGS development and refinement continued through this time period during which new satellite, surface gravity and astrogeodetic data, from both military and non-military sources, were used to develop WGS72.
+The deployment of the GPS constellation allowed the surveying process to be updated in 1984 incorporating GPS as the primary method of reference. This significant accuracy update resulted in WGS84, the current geodetic standard. WGS84 was adopted by ICAO as the standard navigation reference system for international civil aviation in 1989. The vast majority of the world's nations currently use the WGS84 standard to publish waypoint coordinates for navigation inclusive of airports, runways, navigation aids and intersections.
+Compliance
+ICAO specifies the World Geodetic System 1984 (WGS-84) as the geodetic reference datum Standard for air navigation latitude/longitude coordinates. Although most countries meet the requirement, not all locations have adopted, or have completely converted to, the ICAO standard. Jeppesen has compiled and maintains a WGS84 Status Report based on information found in the Aeronautical Information Publication (AIP) (or equivalent publication) of each country. Note that many countries include only international airport and airspace information in their AIP. Therefore, coordinates associated with domestic and military airports and airspace may not be WGS-84 compliant, even if the status report indicates that the country is "compliant". The Jeppesen Status Report categorises countries as follows:
+
+Compliant - The country AIP contains a statement that all latitude/longitude coordinates are referenced to the WGS-84 datum
+Partially Compliant - The country AIP contains a statement that latitude/longitude coordinates are referenced to the WGS-84 datum, but there are exceptions or other indication that conversion to WGS-84 is not complete
+Not Compliant - There is a statement in the country AIP indicating that a geodetic reference datum other than WGS-84 is used
+Unknown - There is no statement or an unclear statement in the country AIP indicating the geodetic reference datum used
+
+The most current Jeppesen WGS84 Status Report can be accessed here. Pilot action may be required for a GPS equipped aircraft transiting, conducting an approach or a departure in non-compliant airspace.
+Pilot Actions in Non WGS84 Airspace
+At inception, WGS84 provided positional accuracy in the order of one to two metres. Over time, the datum has been mathematically refined and the input parameters revised to reflect new gravitational models, improving resultant accuracies to mere centimetres. It is this accuracy that enables RNAV approaches, such as Localiser Performance with Vertical Guidance (LPV), to provide Instrument Landing System (ILS) accuracies and minima based entirely on GNSS enhanced by a Ground Based Augmentation System (GBAS). This degree of accuracy can also potentially cause problems when transiting or conducting approaches in non WGS84 compliant airspace.
+The coordinates of navigation aids, intersections and waypoints defined based on a non WGS84 geodetic system, whilst accurate when referenced to that geodetic system, may not provide an accurate position when the WGS84 datum is used. For the purposes of navigation, the FMS normally compares actual GPS location against the location of waypoints defined in the navigation database. If the waypoint coordinates were derived using WGS84 methods, the comparison between actual GPS position relative to location among waypoints is consistent. This allows for accurate navigation since the aircraft’s computed position is using the same reference that was used when surveying the waypoints. In non WGS84 airspace, a GPS derived position may not yield accurate results as the associated waypoints were not defined using WGS84 methodology. Guidance on how to deal with this issue has evolved over the years.
+Early mitigation strategy included the direction to deselect GPS and use DME/DME only to update the FMS when entering non WGS84 airspace. The logic was that by using DME/DME, a consistent reference was being used between the actual position and the position relative to nearby waypoints because the navigation database included the non WGS84 data. Most manufacturers prohibited RNAV approaches of any kind. However, it was determined that this profile could also compromise the fidelity of EGPWS and Runway Awareness and Advisory Systems (RAAS).
+Guidance from some manufacturers has evolved to recommend that GPS update of the FMS be maintained whilst in non WGS84 airspace. Although stand alone RNAV approaches remained prohibited, FMS overlay approaches can be conducted provided radio guidance (raw data) is monitored throughout and reversion to the radio aid is immediately undertaken in the event of a discrepancy. As direction continues to evolve and varies by FMS model, from manufacturer to manufacturer, and from aircraft to aircraft, pilots are advised to consult their Aircraft Flight Manual (AFM) for specific guidance.
+Related Articles
+
+Mean Sea Level (MSL)
+
+Further Reading
+ICAO
+
+Doc 9674 AN/946 - World Geodetic System — 1984 (WGS-84) Manual
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

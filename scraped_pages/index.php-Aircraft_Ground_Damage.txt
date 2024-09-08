@@ -1,0 +1,209 @@
+Aircraft Ground Damage
+
+
+
+
+
+
+
+
+
+
+
+  Aircraft Ground Damage
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Ground Operations 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+This article describes the factors that can cause or contribute to occurrences that result in aircraft being damaged while on the ground, especially on the apron. It also provides practical A&I examples. Damage caused by hard landing, runway excursions, etc., is not a subject of this article.
+Flight Phases
+Most ground occurrences happen when the aircraft is parked, e.g. during maintenance, loading and unloading. Relatively high number of events involve airbridges. The parts that usually sustain damage in such cases are the fuselage (especially the doors) and the engines.
+The next most risky phase is Aircraft Towing. Incidents during this phase often result in damage to the landing gear, wings or empennage.
+Taxiing aircraft participate in ground events relatively less often. A frequent outcome of such incidents is wingtip damage.
+Safety Vs Efficiency
+Ground occurrences incur both direct and indirect costs to operators, the latter being usually times higher due to the inability to use the aircraft for a prolonged period of time.
+Mechanics are supposed to be safety conscious and to follow documented procedures, but are also pressured to keep on schedule, and to prevent delays that are visible to passengers. Sometimes it is difficult to meet all efficiency and safety goals simultaneously. Mechanics often need to make a choice as to which goal is perceived by the supervisors to be currently most important. At times they may choose efficiency (most work completed in the least amount of time) over safety considerations, essentially making a speed-accuracy trade-off.
+Contributors
+Ground damage events usually do not occur for a single reason but are rather a combination of errors or violations, latent factors and specific circumstances.
+Errors and violations are part of the human factors domain, the difference being that:
+
+an error means the results do not match the plan (either because the plan was faulty or because the plan was good but was carried out improperly). The person does not know they are doing the wrong thing until the results are obvoious.
+a violation is an intentional deviation from a procedure. The person is aware that a particular behaviour is risky or improper but carry out the action nonetheless. It should be noted, however, that such deviations are often made as a result of conflicting demands (e.g. safety procedures vs. efficiency targets).
+
+Latent factors are sometimes noticed only after an occurrence has happened due to a combination of events. An example of this would be an inadequate procedure or equipment. The inadequacy may remain hidden for a long time (i.e. until a particular set of circumstances coincide). An example of equipment latent factor would be a vehicle brake pedal with no anti-slip surface. This would not be an issue in dry weather conditions and would probably not cause an occurrence during the first rain but in a specific situation (e.g. heavy rain, rushing, distraction, etc.) may serve as a contributor. Another issue with latent factors is that they may remain unaddressed even after an incident has happened and it may take several events until the risk is properly recognized and rectified.
+Specific circumstances serve as a catalyst to a situation. These can be environmental factors (time of day, precipitation, fog, strong/gusting winds, etc.), equipment degradation (overall malfunction, specific component failure, etc.) or human-factor related (e.g. interpersonal conflict, distraction, fatigue, etc.).
+Reporting
+A ground damage event does not directly harm the safety of flight because it should be detected and reported. Unreported damage, however, may affect the safety of flight.
+There are two major issues when it comes to the efficiency of reporting systems:
+
+People may not report events (either because they are afraid of the consequences or simply because they do not feel the event is worth reporting). The application of Just Culture principles usually leads to improvement in this area.
+Even though events are reported, the information gathered is difficult to analyse. Some error-reporting systems are maintained and utilized by different departments, and are rarely used together to analyze the system as a whole. Because of this, similar errors that may lead to an incident could be recorded in different places.
+
+The increased use composite materials, e.g. in the Airbus A350 or the Boeing 787 adds the risk of untrained personnel not reporting a ground damage incidents simply because they are not aware of composite material specifics.
+Defences
+While ground damage incidents cannot be eliminated, their number can be reduced and impact on the safety of subsequent operations can be mitigated by:
+
+Establishing and maintaining a reporting culture. If people are reluctant to report, problems may remain hidden for a long time ultimately resulting in or contributing to an accident.
+Establishing of clear and unambiguous procedures, including provisions for the rectification of sub-optimal procedures.
+Reduction of commercial pressure. The line between safety and efficiency should be clear as well as personnel's priorities. In general, the need of trade-off between safety and efficiency should not occur.
+Hazard identificaiton during investigations (instead of mostly focusing on the human error).
+
+Accidents and Incidents
+A number of different scenarios can result in aircraft being damaged on the ground.
+Maintenance
+Note: Most maintenance events do not fall within the definition of Accident. Therefore only a few are described on SKYbrary.
+
+
+B762, Los Angeles USA, 2006On June 2, 2006, an American Airlines Boeing 767-200ER fitted GE CF6-80A engines experienced an uncontained failure of the high pressure turbine (HPT) stage 1 disc in the No. 1 engine during a high-power ground run carried out in designated run up area at Los Angeles for maintenance purposes during daylight normal visibility conditions. The three maintenance personnel on board the aircraft as well as two observers on the ground were not injured but both engines and the aircraft sustained substantial damage from the fuel-fed fire which occurred as an indirect result of the failure.
+
+
+
+
+Airbridges
+
+
+A319, Ibiza Spain, 2016On 19 June 2016, an Airbus A320 failed to follow the clearly-specified and ground-marked self-positioning exit from a regularly used gate at Ibiza and its right wing tip collided with the airbridge, damaging both it and the aircraft. The Investigation found that the crew had attempted the necessary left turn using the Operator’s ‘One Engine Taxi Departure’ procedure using the left engine but then failed to follow the marked taxi guideline by a significant margin. It was noted that there had been no other such difficulties with the same departure in the previous four years it had been in use.
+
+A320, Lisbon Portugal, 2015On 19 May 2015, an Airbus A319 crew attempted to taxi into a nose-in parking position at Lisbon despite the fact that the APIS, although switched on, was clearly malfunctioning whilst not displaying an unequivocal ‘STOP’. The aircraft continued 6 metres past the applicable apron ground marking by which time it had hit the airbridge. The marshaller in attendance to oversee the arrival did not signal the aircraft or manually select the APIS ‘STOP’ instruction. The APIS had failed to detect the dark-liveried aircraft and the non-display of a steady ‘STOP’ indication was independently attributed to a pre-existing system fault.
+
+B738, Barcelona Spain, 2015On 12 December 2015, whilst a Boeing 737-800 was beginning disembarkation of passengers via an air bridge which had just been attached on arrival at Barcelona, the bridge malfunctioned, raising the aircraft nose gear approximately 2 metres off the ground. The door attached to the bridge then failed and the aircraft dropped abruptly. Prompt cabin crew intervention prevented all but two minor injuries. The Investigation found that the occurrence had been made possible by the failure to recognise new functional risks created by a programme of partial renovation being carried out on the air bridges at the Terminal involved.
+
+B74S, Stockholm Arlanda Sweden, 1996On 14 June 1996, a Boeing 747SP being operated by Air China on a scheduled passenger flight from Beijing to Stockholm was arriving on the designated parking gate at destination in normal daylight visibility when it collided with the airbridge. None of the 130 occupants of the aircraft suffered any injury but the aircraft was  substantially damaged and the airbridge was  damaged .
+
+
+
+
+Towing
+
+
+A320, Dublin Ireland, 2017On 27 September 2017, an Airbus A320 being manoeuvred off the departure gate at Dublin by tug was being pulled forward when the tow bar shear pin broke and the tug driver lost control. The tug then collided with the right engine causing significant damage. The tug driver and assisting ground crew were not injured. The Investigation concluded that although the shear pin failure was not attributable to any particular cause, the relative severity of the outcome was probably increased by the wet surface, a forward slope on the ramp and fact that an engine start was in progress.
+
+B738, Singapore, 2015On 6 December 2015, a Boeing 737-800 was being manoeuvred by tug from its departure gate at Singapore to the position where it was permitted to commence taxiing under its own power when the tug lost control of the aircraft, the tow bar broke and the two collided. The Investigation attributed the collision to the way the tug was used and concluded that the thrust during and following engine start was not a contributory factor. Some inconsistency was found between procedures for push back of loaded in-service aircraft promulgated by the airline, its ground handling contractor and the airport operator.
+
+B735, Newark NJ USA, 2006On 21 August 2006, a Boeing 737-500 suffered a nose landing gear collapse during towing at the Newark Liberty International Airport. A technical crew was repositioning the aircraft in visual meteorological conditions during the occurrence. No persons were injured and minor aircraft damage occurred.
+
+B744 / A321, London Heathrow UK, 2004On 23 March 2004, an out of service British Airways Boeing 747-400, under tow passed behind a stationary Airbus A321-200 being operated by Irish Airline Aer Lingus on a departing scheduled passenger service in good daylight visibility and the wing tip of the 747 impacted and seriously damaged the rudder of the A321. The aircraft under tow was cleared for the towing movement and the A321 was holding position in accordance with clearance. The towing team were not aware of the collision and initially, there was some doubt in the A321 flight deck about the cause of a  shudder felt when the impact occurred but the cabin crew of the A321 had felt the impact shudder and upon noticing the nose of the 747 appearing concluded that it had struck their aircraft. Then the First Officer saw the damaged wing tip of the 747 and informed ATC about the possible impact. Later another aircraft, positioned behind the A321, confirmed the rudder damage. At the time of the collision, the two aircraft involved were on different ATC frequencies.
+
+A388, Changi Singapore, 2008On 10 January 2008, an Airbus A380 was damaged during push back at Singapore Changi International airport when the aircraft right wing undercarriage became stuck in soft ground adjacent to the taxiway.
+
+
+
+
+Taxi
+
+
+A124, Zaragoza Spain, 2010On 20 April 2010, the left wing of an Antonov Design Bureau An124-100 which was taxiing in to park after a night landing at Zaragoza under marshalling guidance was in collision with two successive lighting towers on the apron. Both towers and the left wingtip of the aircraft were damaged. The subsequent investigation attributed the collision to allocation of an unsuitable stand and lack of appropriate guidance markings.
+
+B789 / A388, Singapore, 2017On 30 March 2017, a Boeing 787 taxiing for departure at night at Singapore was involved in a minor collision with a stationary Airbus A380 which had just been pushed back from its gate and was also due to depart. The Investigation found that the conflict occurred because of poor GND controlling by a supervised trainee and had occurred because the 787 crew had exercised insufficient prudence when faced with a potential conflict with the A380. Safety Recommendations made were predominantly related to ATC procedures where it was considered that there was room for improvement in risk management.
+
+B738 / B738, Dublin Ireland, 2014On 7 October 2014, a locally-based Boeing 737-800 taxiing for departure from runway 34 at Dublin as cleared in normal night visibility collided with another 737-800 stationary in a queue awaiting departure from runway 28. Whilst accepting that pilots have sole responsible for collision avoidance, the Investigation found that relevant restrictions on taxi clearances were being routinely ignored by ATC. It also noted that visual judgement of wingtip clearance beyond 10 metres was problematic and that a subsequent very similar event at Dublin involving two 737-800s of the same Operator was the subject of a separate investigation.
+
+A332/A345, Khartoum Sudan, 2010On 30 September 2010, an A330-200 was about to take off from Khartoum at night in accordance with its clearance when signalling from a hand-held flashlight and a radio call from another aircraft led to this not taking place. The other (on-stand) aircraft crew had found that they had been hit by the A330 as it had taxied past en route to the runway. The Investigation found that although there was local awareness that taxiway use and the provision of surface markings at Khartoum did not ensure safe clearance between aircraft, this was not being communicated by NOTAM or ATIS.
+
+A343 / B744, London Heathrow UK, 2007On 15 October 2007, an Airbus 340-300 being operated on a scheduled passenger flight by Air Lanka with a heavy crew in the flight deck was taxiing towards the departure runway at London Heathrow at night in normal visibility when the right wing tip hit and sheared off the left hand winglet of a stationary British Airways Boeing 747-400 which was in a queue on an adjacent taxiway. The Airbus 340 sustained only minor damage to the right winglet and navigation light.
+
+RJ85 / RJ1H, London City Airport, London UK, 2008On 21 April 2008, an Avro RJ85 aircraft was parked on Stand 10 at London City Airport, with an Avro RJ100 parked to its left, on the adjacent Stand 11.  After being repositioned by a tug, the RJ85 taxied forward and to the right, its tail contacting the tail of the RJ100 and causing minor damage to the RJ100’s right elevator.
+
+
+
+
+Related Articles
+
+Composite Airframe Ground Damage Risk
+Maintenance Workload
+
+Further Reading
+
+The Ground Handling Challenge, an article in Airbus FAST magazine, #59
+Analyzing human error in aircraft ground damage incidents, 1998
+
+
+
+
+
+Categories
+
+
+Ground Operations
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

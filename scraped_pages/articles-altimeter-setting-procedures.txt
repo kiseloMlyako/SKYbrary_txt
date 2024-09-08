@@ -1,0 +1,210 @@
+Altimeter Setting Procedures
+
+
+
+
+
+
+
+
+
+
+
+  Altimeter Setting Procedures
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Level Bust 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+The aircraft altimeter barometric sub-scale must be set to the appropriate setting for the phase of flight. These are:
+
+Flight level. Standard pressure setting (1013 hPa) is set when flying by reference to flight levels at or above the transition level;
+Altitude. Regional or airfield pressure setting (QNH) is set when flying by reference to altitude above mean sea level at or below the transition altitude;
+Height. Altimeter pressure setting indicating height above airfield or touchdown (QFE) is set when approaching to land at airfield where this procedure is in use. Note that this setting is not used in other portions of the flight (climb, cruise and initial descent).
+
+Aircraft are not supposed to fly level within the transition layer (between the transition altitude and the transition level). When passing through it, their vertical position is expressed in:
+
+flight levels during climb (i.e. above the transition altitude)
+altitudes during descent (i.e. below the transition level)
+
+If no transition altitude and transition level are defined (which is common for en-route flights outside the TMAs), the vertical position of aircraft shall be expressed in terms of:
+
+flight levels at or above the lowest usable flight level
+altitudes below the lowest usable flight level
+
+Failure to set the appropriate barometric sub-scale pressure setting may result in a significant deviation from the cleared altitude or Flight Level
+
+Altimeter Setting Error (example)
+Types of Altimeter Setting Error
+
+The pilot mishears the transmitted pressure setting and sets an incorrect figure.
+The pilot hears the transmitted pressure setting correctly but fails to set it or mis-sets it.
+The pilot fails to change the pressure setting at the appropriate point in a departure, climb, descent or approach.
+
+Threats
+
+Failure to set the appropriate pressure setting can result in deviation from the cleared altitude or flight level leading to 
+
+level bust
+loss of separation from other traffic, and even collision with other aircraft or with the ground (CFIT)
+inadvertent airspace infringement, either by entering controlled airspace without obtaining clearance (e,g, when the controlled airspace is above uncontrolled airspace) or by penetrating an SUA (e.g. while believing the aircraft would fly just above its upper limit).
+
+
+Loss of situational awareness due to failure to appreciate the significance of a pressure setting (especially QFE as opposed to QNH). This can result in incorrect appreciation of the closeness of the ground possibly leading to an unstabilised approach or collision with the ground (CFIT).
+
+Mitigations
+
+The existence of appropriate SOPs for the setting and cross-checking of altimeter sub scales and their strict observance is the only universal primary solution to eliminate incorrect altimeter setting.
+Use of the aircraft radio altimeter to monitor the aircraft proximity with the ground can help to improve situational awareness provided that the flight crew are generally familiar with the terrain over which they are flying;
+GPWS/TAWS provide a safety net against CFIT and, in the case of TAWS Class 'A' with its option of a simple terrain mapping display, it can also be used to directly improve routine situational awareness.
+Strict adherence to the verification of pressure-altitude-derived level procedure by ATC. This should be done at least once by each suitably equipped ATC unit. The check is performed by comparing the level received from surveillance sources with a voice report by the pilot.
+Mnemonic aids, either by SOP or by pilots' personal techniques, can help prevent altimeter errors (and other mistakes related to climb or descent). These aids can vary, but an example is the acronym COAL, used when climbing through the transition level: C to check cabin pressure, O to check oxygen quantity or pressure, A to check altimeters set to standard pressure (QNE), L to check status of external lights.
+
+Accidents and Incidents
+Events in which the incorrect altimeter pressure setting was either a cause or contributing factor in a Level Bust or CFIT/near CFIT:
+
+
+CRJX, Nantes France, 2021On 20 October 2021, the flight crew of a Bombardier CRJ1000 making a LNAV/VNAV approach at Nantes using Baro-VNAV minima read back an incorrect QNH which was not noticed by the controller. The crew then flew the approach approximately 530 feet below the procedure vertical profile which led to the MSAW system being activated and advised to the flight. The crew response was delayed until the controller had twice repeated the correct QNH after which the error was recognised and the vertical profile corrected. The investigation noted that neither the operator’s procedures nor aircraft instruments allowed straightforward crew detection of their error.
+
+GLF5, vicinity Paris Le Bourget France, 2017On 10 September 2017, the First Officer of a Gulfstream G550 making an offset non-precision approach to Paris Le Bourget failed to make a correct visual transition and after both crew were initially slow to recognise the error, an unsuccessful attempt at a low-level corrective realignment followed. This had not been completed when the auto throttle set the thrust to idle at 50 feet whilst a turn was being made over the runway ahead of the displaced threshold and one wing was in collision with runway edge lighting. The landing attempt was rejected and the Captain took over the go-around.
+
+A320, vicinity Paris CDG France, 2022On 23 May 2022, an Airbus A320 came within six feet of the ground without crew awareness during a go around from a RNP BaroVNAV approach after failing to obtain visual reference. The descent below minimum altitude followed use of an incorrect QNH passed by ATC but not identified as such. The lack of an EGPWS warning was due to the non-current EGPWS version for which upgrading had not been mandated. It was concluded that the regulatory intention in Europe to transition from ILS to RNP approaches had not led to any recognition of the potential impact on operational safety.
+
+B78X, vicinity Abu Dhabi UAE, 2020On 6 June 2020, a Boeing 787-10 on approach at Abu Dhabi began a low go around from an RNAV(RNP) approach when it became obvious to the crew that the aircraft was far lower than it should have been but were unaware why this occurred until an ATC query led them to recognise that the wrong QNH had been set with recognition of the excessively low altitude delayed by haze limiting the PAPI range. The Investigation found that advice of MSAW activations which would have enabled the flight crew to recognise their error were not advised to them.
+
+BE20/SF34, vicinity Stornoway UK, 2011On 31 December 2011 a USAF C12 Beech King Air descended 700 feet below the cleared outbound altitude on a procedural non precision approach to Stornoway in uncontrolled airspace in IMC and also failed to fly the procedure correctly. As a result it came into conflict with a Saab 340 inbound on the same procedure. The Investigation found that the C12 crew had interpreted the QNH given by ATC as 990 hPa as 29.90 inches, the subscale setting units used in the USA. The Saab 340 pilot saw the opposite direction traffic on TCAS and descended early to increase separation.
+
+
+...further results
+
+
+Further Reading
+ICAO
+
+EUR OPS Bulletin 2023_001: Risks related to altimeter setting errors during APV Baro-VNAV and non-precision approach operations, 27 July 2023.
+Doc 8168 (PANS-OPS), Volume I, Flight Procedures - Part VI - Altimeter Setting Procedures - Chapter 3.
+ICAO Video: Altimetry - Basic Principles, external link;
+
+Flight Safety Foundation ALAR Toolkit
+
+Briefing Note 3.1 Approach Hazards Overview
+
+EUROCONTROL Level Bust Toolkit
+
+Level Bust Briefing Note Ops 2 - Altimeter Setting Procedures;
+
+EASA
+
+SIB 2023-03: Incorrect Barometric Altimeter Setting
+
+UK CAA
+
+UK CAA FODCOM 6/2007: Avoidance of Controlled Flight Into Terrain (CFIT) - Operational and Training Considerations
+
+Airbus Briefing Notes
+
+Airbus Supplementary Briefing Note - Altimeter Setting - Use of Radio Altimeter.
+
+
+
+
+
+Categories
+
+
+Level Bust,
+              Controlled Flight Into Terrain
+
+
+
+
+
+
+
+
+
+Related Articles
+
+Altimeter Pressure Settings
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

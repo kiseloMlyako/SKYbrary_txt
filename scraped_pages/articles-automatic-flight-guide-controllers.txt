@@ -1,0 +1,97 @@
+Automatic Flight
+
+
+
+
+
+
+
+
+
+
+
+  Automatic Flight
+
+
+
+
+
+
+
+
+
+Toolkit Navigation
+
+
+Flight Deck Procedures - A Guide for Controllers
+
+
+
+
+
+
+Pre-flight Planning
+Set-up and Briefing
+Start-up,  Push-back and Taxi
+Take-off and Climb
+Cruise
+Descend,  Approach and Landing
+Crew Information and Action Flow
+Automatic Flight
+Operation of the Radio and Intercom Selector Panels
+Windshear Detection
+GPWS
+
+
+
+
+
+
+
+
+
+
+
+
+
+Autopilot Operation
+
+Large aircraft are typically equipped with an Autopilot Flight Director System (AFDS) which includes an auto-thrust system, referred to as an auto throttle. The aircraft can usually be operated in two basic system states which are covered below:
+
+Strategic Operation: FMS Programming with Lateral Navigation (LNAV) and Vertical Navigational (VNAV) Modes selected;
+Tactical Operation: Mode Control Panel/Flight Control Unit (MCP/FCU) Manipulation.
+
+These are covered below:
+Strategic Operation: FMS Programming
+The higher level of automation is based on the FMS which allows strategic input i.e. operations to achieve a longer term goal. The FMS is the aircraft’s ‘central brain’ and is interlinked with an array of onboard systems including all navigation systems, the autopilot and the auto-throttle. It is typically able to control all phases of flight (takeoff, en route, approach and landing) with full engine thrust management. The FMS also provides fuel and time management.
+
+The FMS is able to determine the most accurate navigation solution for both vertical and lateral navigation (including holding). It can calculate the most efficient speed, level etc. for the vertical profile based on the route to be flown, winds, temperature, aircraft weight, atmospheric pressure and cost index (cost vs. speed ratio). Therefore following the FMS calculated profile will normally be the most precise and efficient navigation solution.
+The lateral profile tends to be restricted by the flight plan routing and approach/departure procedures.
+A global AIRAC database of all navigation data is periodically uploaded into the FMS by the maintenance crew and then accessed by the Flight Crew. The FMS database should adhere to the standard AIRAC cycle, and the ‘valid from’ and expiry date should be checked by the Flight Crew before flight.
+The aircraft will automatically fly a selected profile provided that VNAV and LNAV navigational modes have been selected. These profiles can be modified by the Flight Crew if needed.
+Tactical Operation: MCP/FCU Manipulation
+A simpler form of automation is based on manual input from the Flight Crew, which is inputted through the MCP/FCU. MCP/FCU manipulation is used for tactical operations i.e. actions undertaken to achieve a specific short term objective.
+The mode selector controls are used to choose roll and pitch modes for the autopilots and auto-throttles. Basic inputs such as heading, speed, vertical speed, flight level/altitude can be input. Once these modes have been selected as active the aircraft will then adjust the pitch attitude, heading and thrust to achieve the selected parameters. Use of these modes does not require a vertical or lateral profile to be input into the FMS.
+
+
+Boeing Mode Control Panel
+The figure above provides an example of the MCP/FCU in a Boeing 737 (top). In this case VNAV and LNAV have been selected as active modes. The SFL is selected in the ‘Altitude’ window, and is down-linked to the Air Traffic Controller via the Mode S link.
+Relevance of FMA Modes
+Within both the strategic and tactical operation there are various modes that the auto-throttle, autopilot and flight directors may work in, referred to as FMA modes. As the various modes work in different ways and to different principles it is very important that the pilot regularly confirms that the correct mode is engaged for that system. The FMA displays to the pilot which of these modes are engaged and so such regular confirmation is achieved by including the FMA in the pilot’s instrument scan. Due to such importance it is a common SOP that all FMA mode changes must be verbally called out by either the PF or PM as specified, and this may also require a response from the other pilot.
+
+It is equally important to understand that the FMA is the only indication of the engaged modes. The modes are usually selected via buttons or knobs on the MCP. These may have associated lights, but such lights may indicate different conditions e.g. the mode is ‘armed’ (therefore not engaged), or the mode is available for de-selection (this does not necessarily mean that the mode is engaged, for example, it may be in an ‘armed’ condition). The action of pressing a button or knob on the MCP can lead to the mindset that the required mode is engaged, especially if an associated light illuminates. However, as stated, it is important to understand that the only confirmation of the actual modes engaged is via the FMA.
+With reference to the auto-throttle and autopilot, should either of these be disengaged either unintentionally or due to a fault, the relevant indication will be removed from the FMA. However, the aircraft may continue on its current flight path even though it is not being actively controlled. Without a regular check of the FMA the pilot may therefore not realise that the aircraft is not in a state of control. The same is true with regards to regularly checking that the correct mode has been engaged and remains engaged as, should an undesired mode change occur, this could lead to consequences either immediately or at a later time.
+An explanation of all the individual modes would be lengthy and such an in depth knowledge is not vital for controllers. If further explanation of individual modes is desired this can be sought from flight crews during fam flights. However, for illustration, below are two examples of why it is important that pilots fully understand the principles of the modes and consequently that the correct modes are engaged:
+With 'Vertical Speed mode engaged the FD will command the vertical speed target value (i.e. as set on the MCP) to be obeyed. The FD will also attempt to attain the airspeed target value, but if this is unattainable the FD will continue to obey the vertical speed command and will not command corrections to attain the airspeed target. This means that if a sufficiently high rate of climb is selected, even with full power commanded from the engines, the aircraft may not be able to attain or sustain the required airspeed. The airspeed may therefore reduce, possibly to an unsafe value, whilst the vertical speed target value is being obeyed. Note that at higher levels where aircraft are close to their performance limits, this condition can exist with a relatively shallow rate of climb. Similarly, with a sufficiently high rate of descent selected, even with idle power commanded from the engines, the airspeed may increase, possibly to an unsafe value, whilst the vertical speed target value is being obeyed.
+With Glideslope mode engaged the FD will command the glide-slope signal to be obeyed. The FD will also attempt to attain the airspeed target value, but if this is unattainable the FD will continue to obey the glide-slope command and will not command corrections to attain the airspeed target. This means that if a sufficiently strong tailwind exists, even with idle power commanded from the engines, the airspeed will increase, possibly to an unsafe value, whilst the glide-slope descent angle is being obeyed. Similarly, should the power from the engines be insufficient (e.g. if a fault commands idle power), the FD will command an ever increasing angle of attack in order to maintain the glide-slope and the airspeed will therefore decrease, possibly to an unsafe value.
+Use of the FMS Scratch Pad for Frequency Changes and Instructions
+It is surprisingly easy for flight crews to either forget, read back incorrectly, or read back correctly but then incorrectly set, instructions from ATC which have numbers in them e.g. those including frequencies, headings, speeds or altitudes. It can be observed during fam flights that it is a common occurrence for flight crews to write in the FMS scratch pad any such numbers during the transmission from ATC so that they are visibly retained, rather than solely relying on the human memory whereby they maybe forgotten, read back incorrectly, or incorrectly set.
+
+Go To:
+
+Crew Information and Action Flow
+Operation of the Radio and Intercom Selector Panels
+Windshear Detection
+GPWS
+
+Return to Flight Deck Procedures - A Guide for Controllers

@@ -1,0 +1,324 @@
+A333, Sydney Australia, 2017
+
+
+
+
+
+
+
+
+
+
+
+  A333, Sydney Australia, 2017
+
+
+
+
+
+
+
+
+
+Summary
+
+On 17 December 2017, it was discovered after completion of an Airbus A330-300 passenger flight from Sydney to Bejing that freight loading had not been correctly documented on the load and trim sheet presented to and accepted by the Captain and as a result, the aircraft had exceeded its certified MTOW on departure. The Investigation found that the overload finding had not been promptly reported or its safety significance appreciated, that the error had its origin in related verbal communications during loading and noted that the aircraft operator had since made a series of improvements to its freight loading procedures.
+
+
+
+
+Event Details
+
+When
+
+10/12/2017
+
+
+
+Event Type
+
+
+GND,
+              HF,
+              LOC
+
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS A-330-300
+
+
+
+
+
+
+
+
+
+Operator
+
+Qantas
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Sydney Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Beijing Capital International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Standing
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+YSSY
+
+
+
+
+General
+
+Tag(s)
+
+
+              Use of Erroneous Performance Data,
+              Delayed Accident/Incident Reporting
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Procedural non compliance
+          
+
+
+
+
+GND
+
+Tag(s)
+
+
+              Cargo Aircraft Loading,
+              Ramp crew procedures
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Aircraft Loading
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Airport Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 17 December 2017, an Airbus A330-300 (VH-QPD) being operated by Qantas on a scheduled international passenger flight from Sydney to Beijing as QF107 was found on arrival to have freight on board which was not as documented, the effect of which was to have made the aircraft takeoff weight in excess of that permitted.
+Investigation
+After a three-week delay in Qantas’ identification of the significance of the event report they had received from their Beijing freight agent and therefore their recognition that the event needed to be reported to the Australian Transport Safety Bureau (ATSB), a report was submitted and an Investigation was then carried out. Having determined that on this occasion, there had been no actual compromise to the operational safety of the flight involved, the scope of the Investigation was thereafter confined to a detailed examination of the loading process prior to the flight.
+It was established that the origin of the discrepancy had been the incorrect specification of one of the three ULD pallets containing freight which had been carried on the flight. These were initially listed as having weights of 2,175kg, 2,005kg and 1,130kg and had been towed to a holding bay near the aircraft in preparation for loading. The Qantas Load Control Office then determined that the aircraft MTOW would be exceeded if all three ULDs were loaded and that therefore only two of the three could travel with the 1,130kg pallet to be left behind. Edition 1 of the load instruction report (LIR) was sent from the load control office to the ramp staff allocated to undertake the loading task and the Loading Supervisor accessed this LIR using his iPad.
+At about the same time, a corresponding record of the revised loading intention was sent to the operating flight crew for review and they responded with a request to remove some of the freight because of their need to carry additional fuel. To meet this requirement, load control decided to substitute one of the two heavier pallets with the lighter one which it had initially been intended not to load which required the issue of edition 2 of the LIR which specified that only the 2175kg and 1130 kg pallets should now be loaded. The assigned Load Control Officer then contacted the ground services coordinator to advise that a change had been made to the ULD loading requirement and that ULD loading should be delayed “pending release of edition 2 of the LIR”. At about this time, all three ULDs were moved from the holding bay to the aircraft and within the next 10 minutes, the 2,175 kg and 2,005 kg were loaded and secured into their designated positions in accordance with edition 1 of the LIR.
+Subsequently, the operating flight crew contacted the load control office to confirm the final fuel upload and confirm that a change to a lighter ULD would be required to offset the weight of the additional fuel. On receipt of this communication, the Load Control Officer ‘locked out’ the flight within the freight management system. Edition 2 of the LIR was then entered into the freight management system with three accompanying electronic messages from the load control office:
+
+Flight Locked by Load Control. Please contact Load Control.
+Edition has changed.
+The ULD for (position 24P) has changed (reference for the 2,005 kg ULD) to (reference for the 1,130kg ULD). Cargo Weight: 2005 to 1130.
+
+They then contacted the Ground Services Coordinator in the ramp office to confirm the new requirement for the heavier ULD to be exchanged with the lighter unit in accordance with edition 2 of the LIR just released.
+However, it transpired that “just prior to the freight management system lock out, the Loading Supervisor at the aircraft had accessed the system and both loaded ULDs were ‘ramp cleared’, indicating they had been loaded and secured into their respective positions” before logging off from the system and directing that the 1130kg ULD should be taken back to the freight terminal. He had then locked the forward hold door of the aircraft which provided access to position 24P. Soon after the Load Control Officer had issued the new LIR, “the Loading Supervisor at the aircraft logged back into his iPad and resumed using the freight management software” which displayed the new LIR and the accompanying messages. He then proceeded to acknowledge these electronic messages by entering ‘OK’ which cleared them from the system but did not then change the already loaded 2,005 kg ULD for the 1,130kg one as directed.
+When subsequently presented to the operating flight crew and accepted by the Captain, the final loadsheet corresponded to edition 2 of the LIR. With the heavier ULD still loaded, the actual TOW was 233,494 kg, which was 875 kg higher than the loadsheet indicated and 494 kg above the aircraft MTOW. No handling or control issues were reported to have been encountered during the takeoff and there were no relevant abnormal indications.
+The Investigation noted that the Qantas Ramp Operations Manual current at the time had stated that if an LIR was re-issued, “the Load Control Office would make contact with the Loading Supervisor or ramp staff” and also required that “If a subsequent edition of the LIR is received during the loading process the Loading Supervisor must instruct the team to cease loading until the next edition LIR has been received and distributed to ALL relevant operational team members”. In addition, the Qantas Weight and Balance Manual specified that “load control (are) to make contact with and notify Ramp in the event that an LIR needs to be re-issued”.
+It was established that during the event under investigation, when edition 2 of the LIR was issued by the Load Control Office, a copy of it was automatically printed in the ramp office and the Load Control Officer assigned to the flight stated that they had contacted the ramp office by telephone and spoken to the assigned Ground Services Coordinator to inform them of the new version of the LIR. Qantas were unable to establish who had received this call “nor could they establish why the message that a new LIR had been released was not conveyed directly to the Loading Supervisor and his team at the aircraft”.
+It was found that the Loading Supervisor had considerable experience of aircraft freight operations. In relation to this loading occurrence, they advised the ATSB that they had “no clear recollection” of either the loading concerned or that there had been an edition 2 of the LIR. They also “indicated that in his experience, ramp staff were always verbally contacted whenever the Load Control Office released a new edition LIR” by ramp office personnel or a radio or telephone call from the Load Control Office. They “advised that messages were often received on the iPad that were not necessarily directly related to the current task” and that “he had always been verbally contacted by the Load Control Officer […] if an aircraft load plan had changed while they were on the ramp and that they had never previously simply been issued [with] a change via iPad with no accompanying verbal notification”.
+The assigned Load Control Officer, who also had considerable experience of aircraft freight operations, stated that any new edition of an LIR must be acknowledged by a Loading Supervisor on their iPad. They also stated that the issue of the new LIR would have resulted in the freight management system changing the colour of the loading position for which the allocated ULD had been changed from ‘green’ to ‘white’ and that this colour change “would have been displayed on the Loading Supervisor’s iPad when they logged back into the system (and) would have also required them to “ramp clear” this loading position again despite having already completed that task minutes earlier”. They added that “their understanding was that the Ground Services Coordinator within the ramp office would deliver a printed copy of the new edition LIR to the Loading Supervisor once it had been released”.
+The Investigation reviewed all aircraft loading-related occurrences notified to the ATSB over the period 2010-2019 and noted that 25 of those had potential consequences for aircraft performance involving centre of gravity and/or maximum takeoff weight.
+Finally, the Investigation identified three overall issues of safety concern arising from the event as:
+
+The Exceedance of MTOW.
+
+The fact that the heavier-than-notified freight was positioned in the underfloor hold close to the aircraft centre of gravity had limited the potential for control of the aircraft to be affected. While the outcome was benign in the case investigated, continued operation of an aircraft that has exceeded its certificated weight may lead to unaccounted structural damage and pose a safety risk.
+
+The Failure to action the LIR.
+
+The lack of accompanying verbal advice from load control or ramp office personnel was a variation from normal practice which probably influenced the actions of the loading supervisor on this occasion.
+
+The Delay on Reporting.
+
+Although there was no consequence associated with this occurrence, reporting delays can lead to an increased safety risk with regard to continued operation of an overstressed aircraft and/or identification of deficiencies in the loading process.
+Two Contributory Factors which led to the event were formally documented as follows:
+
+An operational requirement for additional holding fuel resulted in the issuing of a revised load instruction to carry less cargo. This instruction was not actioned and led to a heavier freight pallet remaining on board the aircraft, instead of being exchanged for a lighter unit. The aircraft subsequently departed Sydney 875 kg above the weight listed in the revised load sheet and 494 kg above the aircraft's maximum take-off weight.
+The required cargo variation was not actioned by the loading supervisor as electronic messages associated with the revised loading instruction were acknowledged without being correctly interpreted. That action was probably influenced by the supervisor’s experience that load changes were accompanied by verbal advice, and that did not occur on this occasion.
+
+One Factor that Increased Risk was also identified as:
+
+The loading irregularity was not immediately reported, which was not in accordance with the operator’s procedures for international airports, therefore delaying any assessment of the hazard presented by the exceedance of the aircraft’s maximum take-off weight.
+
+Safety Action taken by Qantas as a result of the event to address the Safety Issues identified by them and known to the Investigation prior to its completion was noted as having included the following:
+
+A project to review freight discrepancies and loading errors was carried out and as a result loading supervisors’ iPads were replaced with handheld scanning devices which provide an automated freight confirmation and mobile communication process which uses printed barcode and scanning technology. This new system has been introduced at “the vast majority of domestic and international airports served”.
+All Qantas’ international airports now use a modified occurrence notification form on which completion of the ‘Loading Related Incident’ field is now mandatory.
+To reduce the potential for communication errors between load controllers, ramp staff and loading supervisors, the Company Weight and Balance Manual has been amended to more comprehensively specify how to communicate with a Loading Supervisor in respect of any changes to Loading Instruction Reports or other urgent messages.
+
+The Final Report was released on 18 June 2020. No Safety Recommendations were made.
+Related Articles
+
+Aircraft Load and Trim
+Mass and Balance
+Centre of Gravity(CG)
+Unit Load Devices (ULD)
+The Human Factors "Dirty Dozen"
+
+Further Reading
+
+Aircraft Ground Handling and Human Factors - A comparative study of the perceptions by ramp staff and management, A.D. Balk & J.W. Bossenbroek, NLR Air Transport Safety Institute, April 2010

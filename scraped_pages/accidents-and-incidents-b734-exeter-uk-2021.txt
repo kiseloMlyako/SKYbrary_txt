@@ -1,0 +1,320 @@
+B734, Exeter UK, 2021
+
+
+
+
+
+
+
+
+
+
+
+  B734, Exeter UK, 2021
+
+
+
+
+
+
+
+
+
+Summary
+
+On 19 January 2021, a Boeing 737-400SF on an ILS approach to Exeter became unstabilised below 500 feet but despite multiple EGPWS ‘SINK RATE’ Alerts, a go-around was not initiated. The subsequent touchdown recorded 3.8g and caused such extensive damage that the aircraft was declared a hull loss. The Investigation found that the First Officer, who had more hours flying experience than the 15,000 hour Captain, had failed to adequately control the flight path below 500 feet and noted that whilst the Captain had commented on the excessive rate of descent, he had not called for a go around.
+
+
+
+
+Event Details
+
+When
+
+19/01/2021
+
+
+
+Event Type
+
+
+HF,
+              LOC
+
+
+
+
+Day/Night
+
+Night
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 737-400
+
+
+
+
+
+
+
+
+
+Operator
+
+West Atlantic
+
+
+
+Type of Flight
+
+Public Transport (Cargo)
+
+
+
+Flight Origin
+
+
+
+
+East Midlands Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Exeter International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Landing
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+EGTE
+
+
+
+
+General
+
+Tag(s)
+
+
+              Approach Unstabilised after Gate-no GA,
+              Deficient Crew Knowledge-handling,
+              Inadequate Aircraft Operator Procedures
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Inappropriate crew response - skills deficiency,
+              Manual Handling,
+              Procedural non compliance,
+              Ineffective Monitoring - SIC as PF
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Aircraft Flight Path Control Error,
+              Hard landing
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Aircraft damage
+
+Hull loss
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 19 January 2021, a Boeing 737-400SF (G-JMCY) being operated by West Atlantic on a scheduled cargo flight from East Midlands to Exeter became unstabilised below 500 feet during its night VMC approach at destination and touchdown occurred with a high rate of descent and a recorded 3.8g vertical acceleration. Once the aircraft had reached its parking stand, the extent of the damage sustained became apparent and prevented the unloading of the sacks of mail on board. There were no injuries to the two pilots but the resultant structural damage to the aircraft led to it being subsequently declared a hull loss. 
+Investigation
+A Field Investigation was carried by the UK Air Accident Investigation Branch. Relevant recorded data was recovered from the FDR, CVR, QAR and from the TAWS computer NVM. Other useful data included airport CCTV, wind data from airfield sensors, ATC radar and voice recordings, runway lighting data and QAR data from previous flights. However, these data did not reveal any anomalies in findings from the aircraft flight recorder data.
+The Flight Crew
+It was noted that the 56 year-old Captain had a total of 15,218 hours flying experience including 9,000 hours on type and had been employed by the operator for over 6 years. The First Officer had a total of 19,350 hours flying experience including 5,637 hours on type and had been employed by the operator for over 5 years. The Captain’s performance in his most recent recurrent check was recorded as “surpassing company standard” in six of the nine competencies, “expected Company Standard" in two others and “baseline minimum standard” in “applied knowledge”. The First Officer’s performance in her most recent Licence Proficiency Check (LPC) included the activation of an EGPWS ‘SINK RATE’ Alert during a single engine approach followed by a series of deviations during the subsequent go around which resulted in a repeat and the recording of performance in “flight path management” as “baseline minimum standard”.   
+What Happened 
+The two pilots involved were rostered to operate four overnight cargo sectors consisting of two return flights from Exeter to East Midlands. They were both familiar with these airports. For the first two sectors, the First Officer was PF and the first of these was uneventful as was the first part of the second one. During the flight south back to Exeter, the two pilots independently calculated the landing performance on their EFBs and came up with a VREF of 134 KIAS. Since landing runway 26 was forecast to be wet, it was decided to use flap 40, the same setting as had been used for the previous landing at East Midlands, and autobrake 3. Although the fact that the ILS at Exeter had a slightly steeper than normal glideslope (3.5°) was mentioned, the crew did not mention that the stabilised approach criteria differed from those for a 3° slope in allowing a maximum rate of descent of 1,150 fpm instead of the normal 1000 fpm.
+Radar vectors to the ILS were provided with the surface wind given as was 230°/11 knots. Prior to intercepting the ILS LOC, flap 25 and gear down were selected. Once fully established, flap 40 was selected just below 2,000 feet QNH. The First Officer had initially planned to use a VAPP of 140 KIAS but after the PM had noted a 30 knot headwind on the FMC with 10 nm  to go, a  VAPP of VREF + 10 (144 KIAS) was initially set. 
+The runway became visual at about 1,000 feet and the PF responded by disconnecting the AP and A/T. At about 600 feet aal, the VAPP was reduced to 140. Passing 500 feet agl, the approach was stable in accordance with the standard operating procedures included in the OM with a rate of descent of around 860 fpm and only very slightly above the ILS GS. However, the rate of descent began to fluctuate, increasing to above 1,150 fpm and was then reduced to 300 fpm. At 320 feet agl, the aircraft went below the glideslope for about 8 seconds at a rate of 1,700 fpm and an EGPWS ‘SINK RATE’ Alert was annunciated. The PF acknowledged and corrected this by returning the aircraft to just above the glideslope This overcorrection was called by the PM who subsequently stated that as the PF was correcting back to the glideslope, they had not felt it was necessary to take control, despite the fact that aircraft then descended to almost half scale below the glideslope. 
+At about 150 feet agl, with the rate of descent now 1,300 fpm, there were two more annunciations of the EGPWS ‘SINK RATE’ Alert during which the PM was recorded saying “watch that sink rate”. As the aircraft crossed the runway threshold at ”about 100 feet”, “the PF retarded the thrust levers, pitched the aircraft from about 5° nose up to 4° nose down and then re-applied some thrust in the last few feet”. Just below 100 feet agl, another ‘SINK RATE’ call was annunciated, but although this one was the first part of what was recorded as a Warning on the EGPWS computer rather than an Alert, it was not heard as such. (Editors Note: The annunciation of EGPWS Alerts and Warnings is inhibited when an aircraft is within 50 feet of the ground)
+A very hard touchdown followed and during the rollout the Captain took control, selected the thrust reversers to idle and slowed the aircraft to taxi speed before vacating the runway. It soon became apparent that the aircraft was leaning to the left and when the First Officer attempted to retract the flaps during the ‘After Landing’ checks, they could not be moved. A ‘HYDRAULIC LP’ caution also appeared but as there was still brake accumulator pressure the Captain was content to taxi the aircraft slowly the short distance to the allocated parking position.
+On stand, the lean to the left became more obvious and the crew reported having realised that there was something “seriously wrong” with the aircraft. Once off the aircraft, a hydraulic leak was found and the airport RFFS, who were in attendance anyway to unload the aircraft, were informed.
+The runway was undamaged, but aircraft debris consisting of “small pieces of composite material, broken fasteners, and a louvre from the right air conditioning pack exhaust” were subsequently recovered from it. There was also some fluid contamination of the runway surface which was at its most pronounced where the aircraft had turned off the runway. This fluid was not analysed but suspected to have been hydraulic oil.
+The extent of aircraft damage revealed after a full examination was considerable and included:
+
+cracked and buckled fuselage skin aft of the wings; 
+a distortion downwards of the rear fuselage; 
+creased and rippled crown skin along most of the fuselage length;
+residual hydraulic oil dripping from several areas;
+both main landing gear shock absorbers bottomed;
+the left main landing gear beam distorted upwards such that the aircraft was resting approximately 2° left-wing low; 
+damage to the flap drive mechanism with the left wing inboard driveshaft bent and the left inboard gearbox casing and its mountings broken.
+
+
+The aft fuselage showing distortion and rippling of the skin. [Reproduced from the Official Report]
+
+Left wing low due to main landing gear beam damage. [Reproduced from the Official Report]
+
+A view looking inboard under the left wing - the broken flap gearbox is shown enlarged. [Reproduced from the Official Report]
+Why It Happened
+The rate of descent below 500 feet exceeded the maximum permitted by the Operators stabilised approach criteria on four occasions. At 320 feet agl it reached 1,700 fpm and this was followed by lesser exceedances on two further occasions and finally almost reached 1,700 fpm again at about 25 feet agl.
+It was noted that when these exceedances occurred, the Captain had not called ‘SINK RATE as required by the OM although at about 150 feet with the rate of descent 1,300 fpm, he had said “watch that sink rate”. It was considered that “the lack of a GA command may have given the First Officer the impression that he was content for the approach to be continued, despite three EGPWS “SINK RATE” Alerts being generated during the final 30 seconds of the approach”. 
+It was noted that the OM did not explicitly require that both pilots must monitor that the stable approach criteria were maintained below the mandatory 500 feet ‘gate’ and initiate a go around if they are no longer satisfied. However it was found that the equivalent section in the Boeing FCTM additionally stated that below the relevant ‘gate’ the specified stabilised approach criteria should be maintained throughout the rest of the approach for it to be considered stabilised and if these criteria cannot be established and maintained until approaching the flare, a go-around should be initiated. 
+West Air accepted that whilst the OM “did not have specific guidance as to what to do in the event of an approach becoming unstable on an ILS below 500 feet aal”, their expectation was that if an approach became unstable after 500 feet, “it would lead to a go around being initiated”. However, they also “believed there could be a perception amongst some of its pilots that the stable approach criteria applied to a single point in space rather than for the remainder of an approach”.
+The Captain subsequently commented that if thrust is suddenly removed near to the ground with Flap 40 set, the “aircraft stops flying” due to the large amount of drag from the flaps. He added that whilst the possibility of taking over control and going around just before touchdown was “always in his mind”, he had ultimately not acted because when forward thrust was quickly removed altogether, the aircraft had indeed dropped onto the runway so quickly that he had judged it was too late for him to call for a go-around or take control. He accepted that, with hindsight, “one should have been initiated at that point”, although he felt that the aircraft would have probably briefly touched down before climbing away. The First Officer subsequently said that “she did not know what caused the hard landing”.
+It was observed that “had the PF been more positive with her understanding of the situation and elected to go around even if it was in the final few feet, the extent of the damage may have been reduced”. It was also considered that “if she felt she had become overwhelmed by the way the approach was progressing she could have handed control to the commander”.
+By way of context, it was noted that the Captain’s inaction may have been a consequence of having confidence in the First Officer’s ability having flown with her on many occasions and taken the view that she would recover from the situation she had created.
+ 
+The formally-stated Conclusion of the Investigation was as follows:
+The aircraft suffered a hard landing as a result of the approach being continued after it became unstable after the aircraft had passed the point where the crew had declared the approach stable and continued. Despite high rates of descent being observed beyond the stable point, together with associated alerts the crew elected to continue to land. Had the approach been discontinued and a GA flown, even at a low height, while the aircraft may have touched down the damage sustained may have been lessened. 
+While the OM did not specifically state that an approach was to remain stable beyond the gate on the approach, the FCTM was specific that, if it did not remain stable, a GA should be initiated. 
+The commander may have given the co-pilot the benefit of doubt and believed she had the ability to correct an approach that became unstable in the final few hundred feet of the approach. However, had there been any doubt, a GA should have been executed.
+
+Safety Action
+In respect of the First Officer’s poor aircraft handling, West Air recognised that the absence of any monitoring of trends in pilots’ performance during successive recurrent checks meant that persistent/repetitive under performance in technical skill areas were not always identified and therefore “introduced a number of new procedures to rectify this”. They also amended the OM to require that any approach which becomes unstable after passing the applicable stabilised approach ‘gate’ must result in the immediate commencement of a go around and restricted landings at Exeter to Captains only until further notice.
+The Final Report was published on 19 May 2022. No Safety Recommendations were made.
+Related Articles
+
+Hard Landing
+Stabilised Approach
+Loss of Control
+Go Around
+Missed Approach
+Pilot Handling Skills

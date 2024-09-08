@@ -1,0 +1,173 @@
+Point-in-Space (PinS) helicopter operations
+
+
+
+
+
+
+
+
+
+
+
+  Point-in-Space (PinS) helicopter operations
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Helicopter Safety 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+The Point-in-Space (PinS) concept is a flight operation based on GNSS and designed for helicopters only. It relies on the possibility for the pilot to conduct flight under Instrument Meteorological Conditions (IMC) to/from a PinS and not directly to/from the heliport. Those procedures enable heliport or landing site operators to implement IFR procedures on non-instrument FATO (Final Approach and Take-Off) located on aerodromes or isolated heliports as well as landing locations.
+Another interest of the PinS concept is the flexibility to position the PinS in order to deal with heliports generally located in obstacle-rich environments (heliports on hospitals for instance). For approach, this flexibility allows a lower Obstacle Clearance Height (OCH) than with the direct procedure due to the position of the MAPt which can be located away from the FATO and makes the missed approach less critical regarding the obstacles.
+Two kinds of PinS operations are possible: PinS departure operations and PinS approach operations. 
+PinS departure operations
+PinS concept for departures can be summarized as follows:
+
+The pilot proceeds using visual references from the FATO to a Point in Space called the IDF (Initial Departure Fix). This part of the operation is the visual flight phase. PinS procedures are built based on visual criteria and are defined according to ICAO Doc 8168 Volume lI [RD 9]. Two types of visual flight phase are possible:
+
+“proceed visually” procedure - performed under IFR following a published visual flight procedure. Does not require VMC. The pilot climbs towards the IDF to or above the authorized altitude (IDF MCA) and navigates by visual reference to the earth’s surface; the visibility shall be sufficient to see and avoid obstacles.
+“proceed VFR” procedure - performed under VFR and requires VMC.
+
+
+
+The instrument flight phase starts once the pilot has passed the IDF at or above a certain altitude (MCA: Minimum Crossing Altitude).
+
+
+PinS approach operations
+PinS concept for approaches can be summarized as follows:
+
+The pilot conducts the flight under Instrument Flight Rules (IFR) from the Initial Approach Fix (IAF) to a Point-in-Space (PinS), which is considered as a missed approach point (MAPt). This part of the operation is the instrument flight phase.
+
+Then,
+
+
+if appropriate visual references are obtained, the pilot proceeds using visual references from the PinS to the FATO. This part of the operation is the visual flight phase;
+
+
+if appropriate visual references are not obtained, the pilot performs an instrument missed approach procedures. This operation is part of the instrument flight phase.
+
+
+
+
+Two types of PinS approach procedures are possible:
+
+
+PinS “proceed visually” approach - performed under IFR and relies on a published visual flight procedure. VMC not required; it is only required to see the heliport or landing location or visual references associated with it.
+
+
+PinS “proceed VFR” approach - performed under VFR and requires VMC.
+
+
+Procedural definitions
+Point-in-space (PinS) visual segment. This is the segment of a helicopter PinS approach procedure from the MAPt to the landing location for a PinS “proceed visually” procedure. This visual segment connects the Point-in-space (PinS) to the landing location.
+Descent point (DP). A point defined by track and distance from the MAPt to identify the point at which the helicopter may descend below the OCA/H on a visual descent to the heliport/landing location.
+Direct visual segment (Direct-VS). A visual segment designed as:
+a) a leg in a PinS approach, which may contain a single turn, from the MAPt direct to the heliport or landing location or via a descent point to the heliport or landing location; or
+b) a straight leg from the heliport or landing location to the IDF in a PinS departure.
+Height above surface (HAS). The difference in height between the OCA and the elevation of the highest terrain, water surface or obstacle within a radius of at least 1.5 km (0.8 NM) from the MAPt in a PinS “Proceed VFR” procedure.
+Minimum instrument meteorological conditions airspeed (Vmini). The minimum indicated airspeed at which a specific helicopter is certified to operate in instrument meteorological conditions.
+Missed approach point (MAPt). That point in an instrument approach procedure at or before which the prescribed missed approach procedure must be initiated in order to ensure that the minimum obstacle clearance is not infringed.
+Visual segment descent angle (VSDA). The angle between the MDA/H at the MAPt/DP and the heliport crossing height.
+Visual segment design gradient (VSDG). The gradient of the visual segment in a PinS departure procedure. The visual segment connects the heliport or landing location with the initial departure fix (IDF) minimum crossing altitude (MCA).
+Notes
+
+The term “proceed VFR”, implies that the pilot can comply with VFR in the visual segment to see and avoid obstacles and can cross the IDF at or above the MCA.
+The term “proceed visually” implies that pilots can navigate by visual reference and see and avoid obstacles, with visibility sufficient to return to the heliport if they cannot continue visually to cross the IDF at or above the IDF MCA. Visual flight may be conducted below minima required for VFR.
+
+References
+
+The procedure design criteria for a PinS approach and the detailed design requirements for a visual segment are established in the Procedures for Air Navigation Services — Aircraft Operations, (PANS-OPS, Doc 8168).
+ICAO Annex 14 Volume II
+
+Further Reading
+
+Helicopter Point in Space Operations in controlled and Uncontrolled airspace: Generic Safety Case, Edn 1.4, EUROCONTROL, 2 October 2019
+
+
+
+
+
+Categories
+
+
+Helicopter Safety
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,313 @@
+AT72, Zurich Switzerland, 2014
+
+
+
+
+
+
+
+
+
+
+
+  AT72, Zurich Switzerland, 2014
+
+
+
+
+
+
+
+
+
+Summary
+
+On 4 December 2014, directional control of an ATR 72-200 was compromised shortly after touchdown at Zurich after slightly misaligned nose wheels caused both tyres to be forced off their wheels leaving the wheel rims in direct contact with the runway surface. The Investigation found that the cause of the misalignment was the incorrect installation of a component several months earlier and the subsequent failure to identify the error. Previous examples of the same error were found and a Safety Recommendation was made that action to make the component involved less vulnerable to incorrect installation should be taken.
+
+
+
+
+Event Details
+
+When
+
+04/12/2014
+
+
+
+Event Type
+
+
+AW
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+On Ground - Normal Visibility
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+ATR ATR-72-201
+
+
+
+
+
+
+
+
+
+Operator
+
+Avanti Air
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Dresden International Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Zürich Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Landing
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+LSZH
+
+
+
+
+RE
+
+Tag(s)
+
+
+              Directional Control
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Landing Gear
+          
+
+
+
+Contributor(s)
+
+
+              Maintenance Error (valid guidance available),
+              Component Fault after installation,
+              In flight separation of failed component
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Aircraft damage
+
+Major
+
+
+
+Non-aircraft damage
+
+Yes
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Number of Non-occupant Fatalities
+
+0
+
+
+
+Number of Occupant Fatalities
+
+0
+
+
+
+Off Airport Landing
+
+Yes
+
+
+
+Ditching
+
+Yes
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Airworthiness
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 4 December 2014, an ATR 72-200 (D-ANFE) being operated by the German Company Avanti Air on a scheduled passenger flight from Dresden to Zurich as DWT286 on behalf of Etihad Regional touched down normally on runway 14 at destination in normal day visibility. Soon afterwards, both nose landing gear tyres failed and the wheel rims dropped onto the runway surface. After clearing the runway, the aircraft was stopped, the emergency services were called for and the 30 occupants were eventually taken to the terminal by bus. The aircraft nose landing gear sustained substantial damage and the runway surface - minor damage.
+Investigation
+An Investigation was carried out by the Swiss Transportation Safety Investigation Board (STSB). Data from the FDR and the 2 hour CVR were successfully downloaded and used to assist the Investigation.
+It was noted that the Captain had 7,278 hours total flying experience which included 1,596 hours on type and the First Officer had 1,820 hours total flying experience which included 1,195 hours on type. This crew had operated the same aircraft the previous day and on conclusion of that duty had verbally reported that the aircraft moved to the right without any brake or engine reverse, also during taxi. This comment was entered into the Aircraft Technical Log by engineering but could not be replicated during a rolling test and no related fault with the nose landing gear was identified. However, one of the brake units on the right main landing gear was replaced prior to releasing the aircraft to service after its back plate was found to be hot after the test. The accident flight was the first flight the next day.
+After an uneventful descent and approach to Zurich, the aircraft touched down normally on runway 14 but soon after the nose landing gear wheels had come into contact with the runway approximately 1,050 metres from the runway threshold, both nose wheel tyres had, unknown to the crew, come off their wheels causing the wheel hubs to contact the runway surface. The Captain recognised that the steering was not functioning correctly and as landing gear vibrations increased, the First Officer advised ATC of a problem and possible hot brakes, that they would try to vacate the runway expeditiously and would like the fire service to attend as a precaution. The Captain then managed to use asymmetrical engine power and asymmetrical braking to steer the aircraft to turn right onto RET ‘H1’ and stop clear of the runway. The nose landing gear was subsequently found to have slid on both wheel rims for a little over 800 metres before the aircraft could be stopped.
+The fire service arrived at the aircraft shortly afterwards and examined the brakes for overheating with no findings and the First Officer asked ATC to arrange for a runway inspection since he suspected that runway damage may have occurred. The requested inspection found one of the nose landing gear tyres on the runway just over 2000 metres from the runway threshold.
+It was subsequently established with the help of video recordings that after both tyres had separated from the wheel rims, the left tyre had become jammed between the two wheel rims and it was the right wheel tyre which had completely detached and been found on the runway. Both nose gear tyres had only a single abraded area on their running surfaces indicating that both wheels had ceased rotating and although the sequence of events during the landing could not be detailed, the tyre damage was considered to clearly indicate local overstressing suggesting that the nose landing gear was not centred at touchdown and so the nose wheels were unable to rotate freely.
+ 
+
+The damaged nose landing gear showing the left wheel tyre trapped between its wheel rim, the axle and the landing gear strut. [Reproduced from the Official Report]
+After a detailed examination of the nose landing gear assembly, it was found that the valve input lever on the hydraulic Differential Control Selector Valve (DCSV) had been installed the wrong way round rotated through 180° about the longitudinal axis - see the comparative installation below. This meant that the angle ‘α‘ of the adjustable rod (annotated on the diagram of the assembly above the photographs in the comparative illustration) was misaligned and was subject to mechanical strain. However, once incorrectly installed, the adjustable rod did not exhibit any misalignment and the deflection of the nose landing gear wheels corresponded to inputs at the tiller with no more than a 1/2° difference. The effect of this installation error in service had been both excessive deflections of the nose landing gear in response to steering tiller inputs and abnormal stiffness of the nose wheel steering.
+
+The correctly installed valve input lever (left) and the incorrectly inverted one (right). [Reproduced from the Official Report]
+It was found that the DCSV had been fitted to the aircraft seven months prior to the accident and that between then and the accident, which had included over 500 landings, there had been no entries in the aircraft Technical Log about the nose wheel steering function except the potentially related report made the day before. A routine ‘A’ Check had been performed just over three weeks prior to the accident. In the light of this period of continued operation during which evidence of “pre-existing technical defects on the nose landing gear” and the lack of functional test after replacement of the DCSV, it was considered that “inadequate maintenance of the nose landing gear” must be considered as a factor leading to the accident. It was especially noted, in respect of the engineering work carried out in response to the report made the day before the accident that it was “remarkable that the incorrect control inputs did not come to light on the occasion of the rolling tests which were performed”.
+Two previous cases in which the DCSV valve input lever had also been installed inverted were identified, one in 2009 and another in 2015 whilst the Investigation was in progress. Both indicated that the freely rotatable design of the lever had, as in the Zurich event, contributed to incorrect installation.
+The Investigation formally determined that the Accident was “attributable to the fact that during landing the nose landing gear was not centred and so the two nose gear wheels could not turn freely (and that as a result) it was no longer possible to exercise control via the nose landing gear steering system, as the nose landing gear was substantially damaged”.
+The Probable Cause of the accident was recorded as the interaction of two factors:
+
+a valve input lever of the differential control selector valve which had been fitted to the nose landing gear in an inverted state (rotated through 180°);
+inadequate maintenance of the nose landing gear.
+
+A Contributory Factor was identified as “the fact that the valve input lever can be attached incorrectly, in an inverted state (rotated through 180°) as a result of its structural design”.
+A Risk Factor was identified as “the small parts of the aircraft found on the runway during a runway inspection performed hours later” although it was noted that this debris “did not contribute to the origin and history of the accident”.
+One Safety Recommendation was made as follows:
+
+that the European Aviation Safety Agency (EASA) together with the aircraft manufacturer should ensure that it is no longer possible to attach the valve input lever of the hydraulic Differential Control Selector Valve (DCSV) incorrectly. [No 529]
+
+The Final Report was approved on 9 May 2017 and subsequently published.
+Related Articles
+
+Maintenance Error
+Aircraft Technical Log
+Airworthiness
+Continuing Airworthiness

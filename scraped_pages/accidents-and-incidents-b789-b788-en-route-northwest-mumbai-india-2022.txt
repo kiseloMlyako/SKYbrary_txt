@@ -1,0 +1,393 @@
+B789 / B788, en-route, northwest of Mumbai India, 2022
+
+
+
+
+
+
+
+
+
+
+
+  B789 / B788, en-route, northwest of Mumbai India, 2022
+
+
+
+
+
+
+
+
+
+Summary
+
+On 14 September 2022, a Boeing 787-9 inbound to Mumbai lost separation against a Boeing 787-8 also inbound to Mumbai on the same airway when it began a descent from FL410 to FL340 at night without clearance close to an air traffic control sector boundary. ATC soon observed the error but a delay in achieving contact with the 787-9 resulted in it descending to FL389 before being instructed to return to its cleared level. As it passed through FL390 descending and then again when climbing, it came within 3nm of the same-direction 787-8 which was level as cleared at FL390.
+
+
+
+
+Event Details
+
+When
+
+14/09/2022
+
+
+
+Event Type
+
+
+AGC,
+              HF,
+              LOS
+
+
+
+
+Day/Night
+
+Night
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 787-9 Dreamliner
+
+
+
+
+
+
+
+
+
+Operator
+
+Virgin Atlantic
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+London Heathrow Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Chhatrapati Shivaji International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Descent
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 787-8 Dreamliner
+
+
+
+
+
+
+
+
+
+Operator
+
+Air India
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Dubai International Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Chhatrapati Shivaji International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Cruise
+
+
+
+
+
+
+
+
+Location
+
+Approx.
+
+NW of Mumbai
+
+
+
+
+
+
+
+
+
+
+General
+
+Tag(s)
+
+
+              Event reporting non compliant,
+              Extra flight crew (no training),
+              CVR overwritten
+          
+
+
+
+
+AGC
+
+Tag(s)
+
+
+              CPDLC
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Plan Continuation Bias,
+              Procedural non compliance
+          
+
+
+
+
+LOS
+
+Tag(s)
+
+
+              Accepted ATC Clearance not followed,
+              Required Separation not maintained,
+              ATC control supported by ADS-C
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Operation
+Air Traffic Management
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 14 September 2022, separation was lost at night between a Boeing 787-9 (G-VBZZ) being operated by Virgin Atlantic Airways on a scheduled international passenger flight from London Heathrow to Mumbai as VIR354 with an augmented crew and a Boeing 787-8 (VT-ANM) being operated by Air India on a scheduled international passenger flight from Dubai International to Mumbai as AI912. The 787-9 descended through FL390 which the 787-8 travelling in the same direction was maintaining. A similar loss of separation was then repeated when the 787-9 then climbed back through FL390 in response to ATC instructions. Minimum horizontal separation was 3nm whilst at the same level but no TCAS RA was activated.
+Investigation
+A Serious Incident Investigation was carried out in accordance with ICAO Annex 13 procedures by the Indian Aircraft Accident Investigation Bureau (AAIB). Relevant data was successfully downloaded from the DFDR of both aircraft but relevant data from the CVR of the descending Virgin Atlantic aircraft was overwritten after it was released for further flight by the DGCA Regional Office at Mumbai contrary to applicable regulatory requirements. However all relevant recorded ATC radar and communication was available and this, together with FDR data, enabled an accurate reconstruction of the conflict to be achieved.
+The flying experience of the Captain in command of the Virgin Atlantic 787-9 was not recorded as he had been in a crew rest facility away from the flight deck at the time of the event under investigation. The operating crew at the time of the deviation consisted of a 50 year-old PF with a total of 6,979 hours flying experience including 684 hours on type and a 52 year-old PM who had a total of “approximately” 16,000 hours flying experience of which 967 hours were on type. The 54 year-old Captain of the Air India 787-8 had a total of 13,686 hours flying experience of which 6,396 hours were on type and their 47 year-old Co-pilot had a total of 13,900 hours flying experience of which 6,200 hours were on type. The Oceanic North Controller had 656 hours of controlling experience and the Mumbai Sector Controller who received both flights from Oceanic had 1,417 hours of controlling experience.
+What happened
+Both aircraft were initially over the Arabian Sea in Mumbai Oceanic Class ‘E’ airspace and working the Oceanic North sector. As they approached waypoint ANKOX on route L301, handoff to Mumbai ATS sector U-5 was imminent. The respective controllers were seated adjacent to each other in the Mumbai OCC and both aircraft were ADS-CPDLC equipped and logged on - CPDLC being designated as the primary means of communication when outside the Mumbai TMA with logon required ten minutes prior to entry. In this airspace, VHF/HF communications are secondary and VHF only becomes the primary means of communication once aircraft are within the Mumbai TMA.
+On handover from Muscat ATC, the Virgin Atlantic 787 was restricted to MACH 0.82 and shortly after CDPLC logon had been confirmed, a request was made by the PM to return to the previous cruise MACH of 0.84. The PM then left the flight deck to use the lavatory, the PF donned their headset and the SCCM entered the flight deck. The speed increase was subsequently approved, acknowledged and actioned but the aircraft was also put into a descent with the altitude selector set to FL 340 as both aircraft crossed the ANKOX waypoint without a corresponding clearance. Although the TMA U5 sector controller had not yet taken over communications with the aircraft, both controllers observed the descent and the Oceanic controller sent a CPDLC instruction to the aircraft to maintain FL 400 which was responded to and ‘ALT HOLD’ was selected. The U5 sector controller made calls on their sector VHF but these were not answered so she advised the Oceanic controller to pass the U5 sector frequency on CDPLC. They did do so but inadvertently typed in the wrong frequency and when the crew called it they had to be redirected accordingly.
+Although the instruction to stop the unapproved descent had been acknowledged, the aircraft had continued to descend for a further ten seconds, taking it to a minimum of FL 389 at about the same time as the Relief Pilot returned to his seat. The PF reset the selected altitude to FL 400 and, shortly after this, the U5 sector controller was able to establish contact with the flight on VHF and instruct it to return to its previous level, FL 410. The controller asked why descent without clearance had occurred and was told that a clearance had been received on 121.5 MHz and read back. The crew subsequently stated that “they had not been able to distinguish the different voices of the controllers operating the sector and guard frequencies”.
+The Investigation found that the unauthorised descent (no such clearance had been given) resulted in the vertical separation between the Virgin Atlantic aircraft and the Air India 787-8 travelling in the same direction on route L301 having been reduced to zero with just 3nm between them when both were at FL 390. No TCAS RAs were triggered.
+Why it happened 
+The Virgin Atlantic 787-9 commenced a descent into conflict with the Air India 787-8 ahead on the same route and 2,000 feet below due to the only pilot on the flight deck at the time mistakenly taking a perceived clearance to do so. An examination of data from the Air India 787-8 CVR and recorded AC calls led to the conclusion that VHF coverage on route L301 in the vicinity of waypoint ANKOX had been poor. It was also found that because the conflict had occurred prior to both aircraft being acquired by the U5 sector controller, no automated ‘Predicted Conflict Warning’ (PCW) had been generated at that controller’s work station.
+The Investigation was concerned that various procedures for reporting the event to the AAIB and ensuring compliance with regulatory requirements for the securing of flight recorders prior to the release of an involved aircraft had been ignored.
+The Probable Cause of the event was recorded as “confirmation bias on the part of the 787-9 flight crew that a descent may be expected, given that traffic below was ahead and a higher MACH had been requested, which resulted in the 787-9 initiating descent without obtaining confirmation over CPDLC after a broken VHF communication was possibly mistaken for descent clearance”. Five Safety Recommendations were made as a result of the Investigation findings as follows:
+
+that Virgin Atlantic Airways note the risk of poor VHF communication in Mumbai Oceanic and review its pilot briefing material and, if required, amplify it accordingly.
+that the Airport Authority of India takes feasible action to ensure effective VHF coverage in its Mumbai Oceanic area of control.
+that the Directorate General of Civil Aviation (DGCA) should re-iterate to its officers the requirement to notify AAIB of any accident or incident without fail as required by Rule 4(4) of Aircraft (Investigation of Accidents and Incidents) Rules, 2017.
+that the Directorate General of Civil Aviation (DGCA) should ensure that foreign airline operators operating in Indian airspace notify AAIB of any accident or incident without fail as required by Rule 4(4) of Aircraft (Investigation of Accidents and Incidents) Rules, 2017.
+that the Directorate General of Civil Aviation (DGCA) should issue directions to all its officers that in case of an accident or incident the crew or aircraft should not be released for subsequent flight without clearance from AAIB and without ensuring preservation of Flight Recorders data as required by Para 9 of CAR Section 5, Series C, Part II.
+
+The Final Report was completed on 8 February 2023 and subsequently published online the following month.
+Related Articles
+
+Loss of Separation
+Loss of Separation at Sector Boundaries
+Level Bust
+Classification of Airspace
+Controller Pilot Data Link Communications (CPDLC)
+Confirmation Bias
+Loss of Communication
+Air-Ground Communication
+Cockpit Voice Recorder (CVR)

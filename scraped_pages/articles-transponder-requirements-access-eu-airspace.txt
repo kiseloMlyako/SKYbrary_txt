@@ -1,0 +1,152 @@
+Transponder Requirements for Access to EU Airspace
+
+
+
+
+
+
+
+
+
+
+
+  Transponder Requirements for Access to EU Airspace
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Airspace Infringement 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+The transponder equipage is now mandatory for flights conducted as Instrument Flight Rules (IFR)/General Air Traffic (GAT) in the airspace of many European States and also for Visual Flight Rules (VFR) flights in some designated airspaces. These local requirements have been supplemented by a European wide regulation.
+Regulatory Provisions
+According to the current regulatory provisions put in place to support ground and airborne surveillance applications, all aircraft operating as IFR/GAT in Europe shall be compliant with Mode S Elementary Surveillance (ELS) requirements by 7 December 2017.
+As from 7 June 2020 all aircraft with a minimum take-off mass greater than 5,700 kg and/or with a maximum cruising true air speed greater than 250 knots shall be compliant with Mode S Enhanced Surveillance (EHS) and, through the carriage and operation of an extended squitter transponder, with “Automatic Dependent Surveillance Broadcast (ADS-B) Out” requirements.
+The requirements for performance and interoperability of surveillance in the single European sky are contained in Regulation 2023/1770.
+These regulations detail the requirements for the carriage and operation of airborne surveillance equipment by both civil and state registered aircraft, and the dates by which qualifying aircraft must be equipped.
+Through these binding requirements the regulations also ensure that airborne installations are “future proof”, i.e. able to support all surveillance techniques currently used and planned for use (including ADS-B airborne surveillance applications).
+The territorial applicability of the requirements is defined by the Airspace Regulation (EC) No 551/2004 and therefore the aircraft equipage regulatory provisions are applicable to all flights conducted as IFR/GAT (irrespective of the state of registration of the aircraft or whether it is under civilian or state registration) in the airspace within the ICAO EUR and AFI regions where the EU Member States are responsible for the provision of air traffic services.
+The Regulations include provisions for local mandates to extend the ADS-B carriage applicability to a wider population of aircraft (e.g. to all IFR/GAT) in areas where ADS-B is used.
+Provisions Applicable to Civil Aircraft
+Aircraft operating IFR/GAT in Europe are required to carry and operate Mode S Level 2s (i.e. with SI code capability) transponder(s) with Mode S Elementary Surveillance (ELS) capability. Aircraft compliance with this requirement shall be ensured by:
+
+8 January 2015 for “new” aircraft, i.e. aircraft with an individual certificate of airworthiness first issued on or after 8 January 2015
+7 December 2017 for aircraft with an individual certificate of airworthiness first issued before 8 January 2015
+
+Aircraft operating IFR/GAT in Europe and with a maximum certified take-off mass exceeding 5 700 kg or having a maximum cruising true airspeed capability greater than 250 knots are required to carry and operate Mode S Level 2s transponder(s) with Mode S Elementary Surveillance (ELS), Enhanced Surveillance (EHS) (for fixed wing aircraft) and ADS-B 1090MHZ Extended Squitter (ES) capabilities. Aircraft compliance with this requirement shall be ensured by:
+
+8 June 2016 for “new” aircraft, i.e. aircraft with an individual certificate of airworthiness first issued on or after 8 June 2016
+7 June 2020 for aircraft with an individual certificate of airworthiness first issued before 8 June 2016
+
+Note: Aircraft that do not meet the specific criteria defined in the amended article 14 of Regulation 1207/2017 may be granted an exemption against the Mode S EHS requirements.
+Provisions Applicable to State Aircraft
+All State aircraft operating IFR/GAT in Europe are required to carry and operate Mode S Level 2s transponder(s) with Mode S Elementary Surveillance (ELS) capability by 7th December 2017.
+Member States shall communicate and justify to the European Commission a list of State aircraft that cannot be equipped with ELS in due time before 1 July 2016.
+All fixed wing transport-type State aircraft operating IFR/GAT in Europe and with a maximum certified take-off mass exceeding 5 700 kg or having a maximum cruising true airspeed capability greater than 250 knots are required to carry and operate Mode S Level 2s transponder(s) with Mode S Elementary Surveillance (ELS), Enhanced Surveillance (EHS) and ADS-B 1090MHz Extended Squitter (ES) capabilities by 7 June 2020.
+The deadline for the communication of a list of State aircraft that cannot be equipped in due time with EHS and ADS-B and the related justification is set to 1 July 2018. The rationale behind the above justifications may be compelling technical reasons, procurement constraints and State aircraft going out of service before 1 January 2020. In case of procurement constraints Member state’s justification shall include the pertinent procurement plans.
+Air traffic service providers shall ensure that non-equipped State aircraft can be accommodated, provided that they can be safely handled within the capacity of the ATM system.
+Member States shall publish the procedures related to the handling of non-equipped State aircraft in national AIPs.
+Air traffic service providers shall communicate on an annual basis to the Member State that has designated them their plans for the handling of non-equipped State aircraft. These plans shall take into account the capacity limits associated to the procedures for handling of non-equipped aircraft.
+Related Articles
+
+Transponder
+Mode S
+Transponder Mandatory Zone (TMZ)
+Operation without a Transponder or with a Dysfunctional Transponder
+Automatic Dependent Surveillance Broadcast (ADS-B)
+
+Further Reading
+
+Policy for radio mandatory zone and transponder mandatory zone, UK CAA, 14 August 2015
+Guidance Material for Mode S-Specific Protocol Application Avionics by R.D. Grappel and R.T. Wiken, MIT Lincoln Laboratory for the USAF, 2007
+Minimum Operational Performance Standards for 1090 MHz ADS-B and TIS-B, EUROCAE ED-102A / RTCA DO260B, 2009
+Preliminary safety case for enhanced ATS in NRA using ADS-B, EUROCONTROL
+
+
+
+
+
+Categories
+
+
+Airspace Infringement,
+              SES Implementation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,146 @@
+Aircraft Description (ICAO Doc 8643)
+
+
+
+
+
+
+
+
+
+
+
+  Aircraft Description (ICAO Doc 8643)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+ICAO Doc 8643 provides data on aircraft such as the Manufacturer, Model, Type designator, etc. One of the items is called Description and is a three-symbol code containing basic data about the aircraft:
+
+The first symbol describes the aircraft type:
+
+L - Landplane, e.g. A320. Note: A floatplane, which can temporarily be converted to a landplane or vice versa, is described as a landplane and not a seaplane or amphibian in ICAO Doc 8643.
+S - Seaplane, e.g. HARBIN SH-5 (ICAO designator SH5)
+A - Amphibian, e.g. LA4
+G - Gyrocopter, e.g. A002
+H - Helicopter, e.g. A109
+T - Tiltrotor, e.g. V22
+
+
+The second symbol specifies the number of engines 1, 2, 3, 4, 6, 8 or C, where C means that two engines are coupled to drive a single propeller system (e.g. C08T). The C symbol is only used for fixed-wing aircraft.
+The third symbol specifies the engine type:
+
+J - jet
+T - turboprop/turboshaft
+P - piston
+E - electric
+R - rocket
+
+
+
+Examples
+
+L2J - a landplane with two jet engines
+H2T - a helicopter with two turboprop/turboshaft engines
+S1P - a seaplane with one piston engine
+
+Related Articles
+
+ICAO Wake Turbulence Category
+Approach Speed Categorisation
+
+Further Reading
+
+ICAO Doc 8643
+ICAO: Aircraft Type Designators, online version of ICAO Doc 8643 (Note: The database is regularly updated and contains more than 10,000 aircraft. It may take some time to load.)
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

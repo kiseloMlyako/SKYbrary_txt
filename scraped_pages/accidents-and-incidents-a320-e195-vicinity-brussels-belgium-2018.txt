@@ -1,0 +1,331 @@
+A320 / E195, vicinity Brussels Belgium, 2018
+
+
+
+
+
+
+
+
+
+
+
+  A320 / E195, vicinity Brussels Belgium, 2018
+
+
+
+
+
+
+
+
+
+Summary
+
+On 23 February 2018, an Embraer 195LR and an Airbus A320 on SIDs departing Brussels lost separation after the 195 was given a radar heading to resolve a perceived third aircraft conflict which led to loss of separation between the two departing aircraft. STCA and coordinated TCAS RA activations followed but only one TCAS RA was followed and the estimated minimum separation was 400 feet vertically when 1.36 nm apart. The Investigation found that conflict followed an error by an OJTI-supervised trainee controller receiving extended revalidation training despite gaining his licence and having almost 10 years similar experience in Latvia.
+
+
+
+
+Event Details
+
+When
+
+23/02/2018
+
+
+
+Event Type
+
+
+HF,
+              LOS
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS A-320
+
+
+
+
+
+
+
+
+
+Operator
+
+Lufthansa
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Brussels Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Frankfurt am Main Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Climb
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+EBBR
+
+
+
+
+General
+
+Tag(s)
+
+
+              ATC Training,
+              Inadequate ATC Procedures,
+              Airspace Design
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Fatigue,
+              Stress
+          
+
+
+
+
+LOS
+
+Tag(s)
+
+
+              TCAS RA Mis Flown,
+              ATC Error
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Air Traffic Management
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Air Traffic Management
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 23 February 2018, an Embraer 195LR (EC-LFZ) being operated by Air Europa Express on an international passenger flight from Brussels to Madrid under callsign AEA1172 and an Airbus A320 being operated by Lufthansa on an international passenger flight from Brussels to Frankfurt under callsign DLH4Y lost separation in day VMC in Class ‘C’ airspace whilst climbing as cleared in the vicinity of FL 070 after making consecutive takeoffs from runway 07R. Only the Embraer 195 crew responded to the coordinated TCAS RAs which then followed.
+Investigation
+An Investigation was carried out by the Air Accident Investigation Unit (Belgium) - AAIU. The Investigation relied on recorded ATC data which included TCAS RA Mode ‘S’ downlink information from both aircraft. These data were used by EUROCONTROL to run a simulation of the event using their Interactive Collision Avoidance Simulator (INCAS) which provided valuable insights. DFDR and CVR data from the two aircraft involved were not sought.
+No flight crew details were recorded but the 30 year-old trainee controller, who had level 5 English Language certification, was working under the supervision of an experienced 52 year-old Instructor with a level 4 English Language certification. It was noted that the trainee controller had, since 2008, held a Latvian controller licence with ratings for Area Control and Approach Control at Riga ACC. He was on his fifth month of working under supervision at Brussels having had to repeat his 30-day Phase 2 training before commencing his Phase 3 training from which he would have been eligible for release as a qualified APP controller if, with 13 training days of this phase left, he had been assessed at the end of it to be sufficiently competent. It was therefore considered “imperative” that at this late stage of their training, a trainee must demonstrate the ability to “work alone or at least, to some degree, independent from his OJTI” (On-the-Job-Training Instructor). The trainee himself described his whole training period as having been “stressful”. It was found that the applicable working arrangements meant that the supervising OJTI ultimately responsible for the position occupied by the trainee was such that the instructor, seated behind and to one side of the trainee, was not able to see the disposition of traffic on the radar screen directly in front of the trainee.
+What Happened
+The E195 took off from runway 07R first on a CIV 7J SID and was followed two minutes later by the A320 on a SPI 5J SID. The tracks of these two SID did not cross although both involved right turns, the CIV 7J right turn being inside the SPI 5J one. Both aircraft were transferred to the Departure frequency where the controllers involved were in position. Already on frequency was a B350 which had departed Antwerp on a GILOM 2F SID and had been cleared to continue climbing to FL 150. The three SIDs involved and their initial tracking points are shown in the illustration below.
+The trainee detected a potential conflict between the B350 climbing out of Antwerp which he had cleared to FL 150 and the E195 which he had cleared to climb to FL 070. Shortly after re-clearing the E195 to FL 080, he instructed the B350, which was at that time almost overhead the BUN DVOR, direct to the REMBA waypoint. This track change put the B350 on course to cross the extended centreline of the Brussels departure runway 07R at around 14 nm. The controller then instructed the E195 to turn early towards the CIV DVOR and 40 seconds later instructed the A320 to proceed direct to way point REMBA. At this time, the E195 was passing FL 061 and climbing at 700 fpm and the A320 was passing 4,900 feet and climbing at 1,400 fpm.
+
+The B350 SID (green) the E195 SID (blue) and the A320 SID (magenta). [Reproduced from the Official Report]
+As both aircraft began their right turns, the B350 was still some distance away but the effect of the different climb rates of the E195 and the A320 as they made these turns - the A320 climb rate having now increased to 3,400 fpm – was that the A320, turning right inside the right turn of the E195, was closing it. Some 46 seconds after the A320 had been instructed to proceed direct to REMBA, an STCA alert based on the proximity of the E195 and the A320 appeared on the controller’s radar display (see the illustration below). At this time, the A320 was passing FL 069 climbing at 1200 fpm and the E195 was passing FL 067 and climbing at 700 fpm.
+
+The controller almost immediately responded to the STCA by attempting to stop the A320 climbing but used a non-existent callsign made up of parts from those of two different aircraft so it had no effect. In any case the A320 was already above the E195 and climbing at a much higher rate. Six seconds after this, he told the E195 to “turn left immediately” and then, as vertical separation remained at 400 feet with lateral separation reducing, he told the A320 to “turn left heading ... stop climb immediately”. An estimated three seconds after this, both aircraft received coordinated TCAS RAs, the E195 a ‘LEVEL OFF’ and the A320 a ‘CLIMB’. Whilst the E195 levelled off promptly, the A320, with its climb rate now down to 400/500 fpm, both failed to report its RA and ignored the corresponding requirement to increase its rate of climb to at least 1,500 fpm. When, after a further eight seconds, the controller told the E195 (which had also not reported its RA) to descend to FL 060, its crew responded with “unable TCAS RA” although with the RA still active, the E195 subsequently began a slow descent which did not generate any resultant new RA against other traffic. Finally, an estimated 11 seconds after the first RAs, the A320 received a ‘LEVEL OFF’ RA, which was followed by a marginal reduction in the previously modest climb rate shortly before ‘CLEAR OF CONFLICT’ was broadcast after 19 second-long active TCAS RAs.
+
+The radar replay (left) at the time of the STCA and how the controller’s radar display (right) would have shown it shortly after it had appeared. [Reproduced from the Official Report]
+Why It Happened
+It was assessed that the intensity of traffic in the sector at the time of the event had been “average” and noted that the prescribed separation in the Class C airspace where it occurred was 1000 feet and 3 nm. It was evident that the conflict had arisen because the trainee controller had created a conflict between the E195 and A320 by focusing only on what he considered was a potential conflict between the clearance he had given to the B350 with the one he had given to the A320. He had been “surprised” by the STCA and his failure to use the callsign he had intended to had delayed his attempt to intervene until after separation between the E195 and the A320 had been lost and the TCAS RAs were imminent.
+It was noted that the Instructor had been unaware of the potential conflict until the STCA appeared and attributed this to a combination of his confidence that his late stage trainee should be able to cope with the undemanding traffic situation, his somewhat obstructed view of the radar display from his seating position and the fact that the trainee routinely “speaks naturally with a low voice and keeps his instructions to aircraft short, shorter than usual for a controller”. The latter in particular meant that “the initiation of the problem - the instruction given to the A320 to turn to REMBA - was not heard by the Instructor”.
+It was established that “the closest point of approach between the two aircraft was estimated to be 400 feet vertically and 1.36 nm horizontally”. The Investigation documented the following comments on the findings of the Investigation:
+
+The last instruction given by the trainee controller - instructing the E195 to descend was correct and would have solved the problem. The TCAS RA activation which followed provided equally an effective solution.
+The subsequently “excessive” reaction of the E195 to its TCAS RA was most probably due to the last instruction given by the controller to descend.
+The instructions to pilots when faced with a RA specifically forbid a manoeuvre in the opposite sense to an RA, or maintaining a vertical rate in the opposite sense to an RA, which is not the case for an “excessive” reaction.
+The crew of the A320 acknowledged their “delay” in taking action on the TCAS RA received and stated they had the other aircraft in sight. This apparent lack of reaction is most probably due also to the rapid succession of events.
+For the given circumstances, this incident would not have resulted in an actual air collision.
+
+The Cause of the investigated event was formally documented as "the trainee controller gave an instruction to the A320 to turn earlier than foreseen by the published (SID) route without taking the projected flight path of the ERJ195 into consideration (having) assumed that there would be enough separation".
+Four Contributory Factors were also identified as follows, the one in bold type was additionally classified as a ‘Safety Issue’:
+
+The trainee controller declared he was a bit under stress and that he considered every shift as an examination. He was eager to show that he could be proactive.
+The potential conflict was initially not noticed by the OJTI. The trainee was speaking with a rather low voice and the OJTI did not have a separate radar screen. [Safety Issue]
+The design of the departures from Antwerp to waypoint ‘GILOM’ and from Brussels to waypoint ‘REMBA’ involves converging tracks.
+When the STCA activation occurred, the trainee still lacked situational awareness and thought that the A320 was much lower than the ERJ195 while in fact it was already above and initially gave the A320 a wrong instruction to stop climbing.
+
+Five ‘Findings that increased risk’ were also identified as follows, the two in bold type were additionally classified as ‘Safety Issues’:
+
+The trainee stated that he was tired and had not slept very well.
+There was a delay in giving the correct climb instructions to the A320. The OJTI knew what the solution was and informed the trainee controller but as he was a bit confused he didn’t react immediately.
+Currently no rule or procedure exists for the configuration of a trainee with his OJTI about who has the responsibility or priority in case of situations requiring immediate action. [Safety Issue]
+The crew of the A320 didn’t react adequately to the TCAS RA. However they declared that they had visual contact with the conflicting traffic.
+Although the flight level is indicated on the radar display for each aircraft, the controller still sees a lateral 2-D view. No aids currently exist to show a 3D-situation and/or a vertical resolution to solve the conflict in case of a STCA. [Safety Issue]
+
+Six ‘Other Findings’ were also formally documented as follows:
+
+That day the trainee controller started his shift at 08:45 local time and had a break 30 minutes before the incident, so it happened after approximately 3 hours and 40 minutes of working (breaks included).
+The OJTI was duly qualified and experienced.
+The trainee controller tried to resolve the converging SID tracks being followed by the traffic from Antwerp and Brussels by instructing the Antwerp SID traffic to turn left.
+Only when an STCA was triggered did the supervising OJTI react.
+The TCAS on both aircraft alerted the crews of a conflict risk.
+At the time of the event, VMC prevailed so both crews had visual contact.
+
+Safety Action taken during the course of the Investigation as a result of it by ANSP Skeyes (Belgocontrol as rebranded in 2018) was noted as the modification of the Brussels ACC ‘APP’ section so that up to 3 OJTI/Trainee pairs can operate with both the OJTI and the trainee having access to their own sole-use radar display.
+One Safety Recommendation was made as follows:
+
+that Skeyes improves the STCA spatial presentation of aircraft in flight when a potential conflict is detected. [BE 2020-0001]
+
+The ‘Issue Date’ of the Final Report of the Investigation was 1 September 2020 and it was released later the same month.
+Related Articles
+
+Loss of Separation
+ATCO Training Overview
+Blind Spots – Inefficient conflict detection with closest aircraft
+ACAS Resolution and Traffic Advisories
+TCAS RA Not Followed
+ACAS: Guidance for Controllers

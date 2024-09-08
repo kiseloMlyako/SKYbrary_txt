@@ -1,0 +1,171 @@
+Press-on-itis and Inadequate Use of Automation (OGHFA SE)
+
+
+
+
+
+
+
+
+
+
+
+  Press-on-itis and Inadequate Use of Automation (OGHFA SE)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+OGHFA 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ Flight Safety Foundation
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 The Accident as a Situational example
+You are a junior first officer on a flight that departed two hours late. You arrive at night, from the north, and air traffic control (ATC) clears you to descend to Flight Level 200. Upon contacting approach control, you are cleared to descend and hold at 15,000 ft at the airport VHF Omnidirectional Radio Range (VOR) (VHF omnidirectional radio) for a standard approach. Your captain misinterprets this clearance as a “direct to” and enters a “direct to” command, causing the deletion of all waypoints programmed in the flight management system (FMS) between your present position and the airport VOR, as displayed on the electronic horizontal situation indicator (EHSI).
+What is your reaction?
+Two minutes later, as winds are calm, ATC proposes a direct approach to the same runway but on its reciprocal. Because this direct approach could minimize the effects of the departure delay on the flight attendants’ rest requirements, which would have affected their flight the following day, the captain accepts this offer. He then requests an immediate clearance to descend, well aware that this modified approach is much shorter than the planned one and would require you to “scramble down.”
+Time pressure increases significantly.
+ATC then clears you for a VOR/DME approach, standard terminal arrival route (STAR) “XX,” and requests that you report crossing the initial approach fix, a VOR north of the airport. Confusion arises as you can not find the reporting point in the FMS because it had been deleted.
+What is your next move?
+Neither you nor the captain recognizes that the previous waypoint deleted from the programmed route has already been passed.
+Unable to find the identifier, you propose to go directly to the arrival beacon and then conduct the STAR XX procedure, which the controller, possibly due to language factors, confirms contrary to normal procedures. Subsequent conflicting communication illustrates this loss of situational awareness.
+The captain subsequently programs the FMS for direct to waypoint “XX,” the Morse code of the beacon waypoint shown on the approach chart. However, in the FMS database, the closest waypoint with the “XX” identifier, was “XXX,” a nondirectional beacon (NDB) hundreds of miles northeast of the airplane and 120 degrees left of course. The XX waypoint was not included in the FMS database with the “XX” identifier, but rather with its full name.
+How would you handle the FMS in such a situation?
+Approximately one minute after the left turn, the captain recognizes the deviation from the course and attempts a return to the extended runway centerline by turning right. However, since the flight proceeded well east of the prescribed course, the back track takes you into mountainous terrain. After a first ground-proximity warning system (GPWS) warning, the captain immediately executes an escape maneuver. Neither of you remembers that the speed brakes, which had been extended to expedite the descent, remained extended. The airplane hits terrain.
+
+2 Data, Discussion and Human Factors
+The main causes of this accident were:
+
+The flight crew’s failure to adequately plan the approach.
+Inadequate use of automation due to time pressure.
+The failure of the crew to discontinue the approach despite numerous cues alerting them as to the inadvisability of continuing.
+The lack of situational awareness regarding vertical navigation, proximity to terrain and the relative location of critical navigation aids.
+Failure to revert to basic navigation at the time when the FMS-assisted navigation became confusing and the workload demanding.
+
+The continued use of the FMS to mitigate the pilots’ confusion was unsuccessful (tunnel vision in high-pressure situations) and contributed to their not using other sources of information (tunnel vision), such as charts, to reduce their confusion. They also failed to consider discontinuing the approach, due to press-on-it-is and workload.
+The reason the pilots did not immediately detect this error resides in the interaction between them and their interface with the FMS. When the “XX” waypoint was entered and activated in the FMS, the predicted flight plan on the EHSI must have clearly indicated a short left turn toward “XXX.” The crew did not notice that this turn would not lead to the airport likely because the captain was concentrating on his navigation chart and trying to locate the airplane with respect to the identifier using the FMS. The first officer was using the EHSI in raw data mode and hence could not see the flight plan. The first officer’s lack of experience at the airport may have caused him to increase his reliance on the captain. Moreover, due to time pressure, the captain omitted an airline procedure requiring pilots of FMS-equipped airplanes to verify coordinates and to obtain approval of the other pilot before executing a change of course through the FMS.
+The investigation pointed out that this lack of commonality between instrument approach charts and FMS-generated displays was confusing and could have increased pilot workload. It concluded that the crew must have believed they were flying direct to “XX” rather than “XXX.”
+Finally, although the crew articulated misgivings several times during the approach, neither pilot displayed the necessary objectivity to recognize that they had lost situational awareness and were not using effective crew resource management.
+Had the speed brakes been retracted, the airplane theoretically would have been able to clear the terrain.
+
+3 Prevention Strategies and Lines of Defense
+The pilots continued the approach without taking time to prepare for it and failed to detect their loss of situational awareness.
+The following recommendations can help pilots avoid taking such a course of action:
+
+Do not let organizational or ATC pressure force you into a rushed approach.
+If plans change, take the necessary time to re-brief and set up for a new approach.
+Use automation at the appropriate level. In case of confusion, reduce the automation level and get back to a simple, stable and safe situation.
+Be disciplined to prepare and thoroughly brief the planned approach and state conditions that should trigger a go-around.
+Assess potential hazards such as terrain and weather.
+From the airline’s point of view, training should emphasize automated flight deck training guidelines and the need to adapt the automation level to the situation.
+
+
+4 Key Points
+
+This accident was caused by high workload and inadequate use of automation, resulting in loss of situational awareness, and the crew’s failure to discontinue the approach despite all the cues advising against continuing it.
+Contributing to the accident were organizational pressure (crew rest-time requirements) to expedite the approach, an inadequate emergency maneuver (with speed brakes extended) in response to the GPWS warning and confusion caused by the inconsistency between the instrument approach chart and the FMS database.
+
+
+5 Associated OGHFA Material
+Briefing Notes:
+
+Automated Cockpit Guidelines
+Situational Awareness
+Workload
+Press-on-itis
+
+Checklist:
+
+Decide - Checklist
+
+Related Skybrary Articles
+
+Pilot Workload;
+Situational Awareness.
+
+
+
+
+
+Categories
+
+
+OGHFA,
+              Situational Examples,
+              Human Factors
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

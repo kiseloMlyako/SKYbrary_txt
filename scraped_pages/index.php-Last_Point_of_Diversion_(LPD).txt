@@ -1,0 +1,146 @@
+Last Point of Diversion (LPD)
+
+
+
+
+
+
+
+
+
+
+
+  Last Point of Diversion (LPD)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+A Last Point of Diversion may need to be calculated for the following conditions:
+
+If the destination is an Isolated Airfield.
+If there is any doubt over the ability of the aircraft to land at its destination or alternate airfield.
+
+The LPD is the furthest point along track that the aircraft can fly and then divert to an en-route airfield, arriving with safe fuel reserves.
+Graphical Solution
+
+Graphical method for determining Last Point of Diversion
+Step 1: Continue the track AB through destination B to a point D where safe fuel reserves are reached, (ie the fuel with which you would like to arrive at diversion C). Use TAS to give a still air distance – the wind will be considered at a later stage.
+Step 2: Join C to D and construct the perpendicular bisector. This cuts track at X, which is then still-air LPD as DX = CX.
+Step 3: Measure distance CX and divide by TAS to obtain time.
+Step 4: Construct a wind vector YX proportional in length to the time calculated above. (Length YX (Nm) = Wind speed (Kts) x CX (hrs)
+Step 5: From Y draw a line parallel to MX. The point at which this crosses track AB is the wind corrected LPD to C between A and B.
+Fuel Graph Method
+This is a practical method of calculating an LPD whilst in flight.
+Step 1: By inspection of the route and fuel plan, estimate a position of the LPD (within 300 nms – ish – will do).
+Step 2: Select an en-route waypoint before your estimated LPD and obtain the distance from this point to the destination and also the distance to the en-route alternate.
+Step 3: Estimate the Fuel on Board (FOB) at your selected waypoint eg from the fuel checks noted so far on the fuel plan, a pattern of fuel usage should be evident.
+Step 4: Add the ZFW to the Estimated FOB at the waypoint, to obtain an estimated AUW.
+Step 5: At this AUW choose the optimum FL to divert (as constrained by IFR levels, etc).
+Step 6: From the forecast wind chart, estimate the average wind component, at the diversion altitude, from the waypoint to the diversion.
+Step 7: Referring to the Flight Manual Performance Data calculate the TAS and fuel flow for AUW and diversion FL. (You can calculate a mid-point weight on the diversion leg and use this weight to obtain fuel flow to be more accurate if you wish, but it is unlikely to significantly alter the final LPD unless the diversion leg is very long).
+Step 8: From TAS and average wind component calculate groundspeed to diversion.
+Step 9: Use this groundspeed and the distance to diversion to calculate time to diversion.
+Step 10: Multiply time to diversion by the fuel flow to obtain fuel burn to diversion. Add 5%contingency to this fuel burn to obtain corrected fuel burn to diversion.
+Step 11: Determine the minimum fuel required at the diversion airfield and add this to the corrected fuel burn to diversion to obtain the total fuel required to diversion from your chosen waypoint.
+Step 12: Repeat steps 2-11 for a minimum of 3 points bracketing the estimated LPD position.
+Step 13: On a suitable piece of graph paper plot ‘fuel on board’ against ‘distance to destination’ to obtain a ‘fuel to destination’ line (This should approximate to a straight line).
+Step 14: On the same graph plot ‘total fuel to diversion’ against ‘distance to destination’ to obtain a ‘fuel to diversion’ fuel line. (This will not be a straight line, unless the diversion is close to track).
+Where the ‘fuel to destination’ line cuts the ‘fuel to diversion’ line is the LPD.
+What the graph should look like…
+
+Fuel Graph method for determining LPD.
+Related Articles
+
+Point of No Return (PNR)
+Critical Point (CP)
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

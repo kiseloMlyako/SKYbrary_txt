@@ -1,0 +1,232 @@
+Traffic Information
+
+
+
+
+
+
+
+
+
+
+
+  Traffic Information
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Separation 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Traffic information is information issued by an air traffic services unit to alert a pilot of other known or observed air traffic which may be in proximity to the position or intended route of flight and to help the pilot avoid a collision. (ICAO Doc 4444: PANS-ATM.)
+Traffic Information in ATC Provision
+Controllers may provide traffic information to pilots or request pilots to pass the information to the other crews. Pilots may also request traffic information. In controlled airspace some flights may not be provided with air traffic clearances but they must receive traffic information from ATC. For example, in class “C” airspace VFR flights receive traffic information in respect of other IFR and VFR flights. (Further information about the type of air traffic services provided in the different classes of airspace is available in the Classification of Airspace article.)
+According to ICAO Doc 4444 provisions the traffic information message shall comply with the following phraseology:
+To pass traffic information
+a) (ATC) TRAFFIC (information);
+b) (ATC) NO REPORTED TRAFFIC;
+To acknowledge traffic information
+c) (Pilot) LOOKING OUT;
+d) (Pilot) TRAFFIC IN SIGHT;
+e) (Pilot) NEGATIVE CONTACT (reasons);
+f) (ATC) (ADDITIONAL) TRAFFIC (direction) BOUND (type of aircraft) (level) ESTIMATED (or OVER) (significant point) AT (time);
+g) (ATC) TRAFFIC IS (classification) UNMANNED FREE BALLOON(S) WAS [or ESTIMATED] OVER (place) AT (time) REPORTED (level(s)) (or LEVEL UNKNOWN) MOVING (direction) (other pertinent information, if any).
+Traffic information can be also included in the ATC clearances concerning take off, landing and multiple line-ups. Where reduced runway separation minima between aircraft for the same runway is used, the provision of traffic information to the flight crew of concerned succeeding aircraft is a condition for application of the reduced runway separation minima.
+Traffic Information and Avoiding Action Phraseology
+According to Doc 4444 controllers shall provide traffic information to pilots when issuing avoiding action instructions in the following manner:
+Traffic Information (ATC) TRAFFIC (number) O’CLOCK (distance) (direction of flight) (any other pertinent information):
+
+UNKNOWN;
+SLOW MOVING;
+FAST MOVING;
+CLOSING;
+OPPOSITE (or SAME) DIRECTION;
+OVERTAKING;
+CROSSING LEFT TO RIGHT (or RIGHT TO LEFT);
+(aircraft type - if known);
+(level);
+CLIMBING (or DESCENDING);
+
+Note: When providing information regarding relative bearing to an object or to conflicting traffic in terms of the 12-hour clock, the information is given pronouncing the digits together such as “TEN O'CLOCK” or “ELEVEN O'CLOCK”.
+Avoiding Action
+(ATC) DO YOU WANT VECTORS?;
+(Pilot) REQUEST VECTORS;
+(ATC) TURN LEFT (or RIGHT) (number of degrees) DEGREES IMMEDIATELY TO AVOID (UNIDENTIFIED) TRAFFIC AT (bearing by clock-reference and distance).
+(ATC) CLEAR OF TRAFFIC (appropriate instructions);
+Traffic Information Related to Emergency Separation and Descent
+Emergency Separation
+When emergency separation is applied, the flight crews concerned shall be advised that emergency separation is being applied and shall be informed of the actual minimum used. Additionally, all flight crews concerned shall be provided with essential traffic information.
+Emergency Descent
+Controller can provide traffic information to pilots concerned by the emergency descent aircraft as given bellow:
+a) (Pilot) EMERGENCY DESCENT (intentions);
+b) (ATC) ATTENTION ALL AIRCRAFT IN THE VICINITY OF (or AT) (significant point or location) EMERGENCY DESCENT IN PROGRESS FROM (level) (followed as necessary by
+specific instructions, clearances, traffic information, etc.).
+(Further information is provided in article  Emergency Descent: Guidance for Controllers)
+Traffic Information To Aircraft Operating Outside Controlled Airspace
+Due to the variety of factors influencing the nature of the flight information services and particularly the provision of information on possible collision hazards to aircraft operating outside controlled airspace, it is not possible to specify standard texts for these types of messages.
+In provision of AFIS, EUROCONTROL Manual of Aerodrome Flight Information Services specifies that the following information shall be provided as appropriate:
+a) direction of flight of aircraft concerned
+b) type and wake turbulence category (if known) of aircraft concerned;
+c) level of aircraft concerned, including eventual changes;
+d) relative bearing of the aircraft concerned in terms of the 12-hour clock as well as distance from the conflicting traffic; or
+1) actual or estimated position of the aircraft concerned; or
+2) estimated times; and
+e) any other information considered relevant (e.g. approaching, crossing the traffic information area/traffic information zone (TIA/TIZ), estimated take-off or landing time).
+Essential Traffic Information
+Essential traffic is controlled traffic[1] to which the provisions of separation by ATC are applicable, but which, in relation to a particular controlled flight, is not, or will not be, separated from other controlled traffic by the appropriate separation minimum (Doc 4444, par. 5.10.1.1). According to ICAO requirements, essential traffic information shall be given to controlled flights concerned whenever they constitute essential traffic to each other.
+Essential traffic information will inevitably relate to controlled flights cleared subject to maintaining own separation and remaining in visual meteorological conditions and also whenever the intended separation minimum has been infringed.
+Content of Essential Traffic Information
+Essential traffic information shall include:
+a) direction of flight of aircraft concerned;
+b) type and wake turbulence category (if relevant) of aircraft concerned;
+c) cruising level of aircraft concerned; and
+1) estimated time over the reporting point nearest to where the level will be crossed; or
+2) relative bearing of the aircraft concerned in terms of the 12-hour clock as well as distance from the conflicting traffic; or
+3) actual or estimated position of the aircraft concerned.
+Wake turbulence category is considered to be essential traffic information if the aircraft concerned is of a heavier wake turbulence category than the aircraft to which the traffic information is directed.
+Essential Local Traffic Information
+Information on essential local traffic shall be issued in a timely manner, either directly or through the unit providing approach control service when, in the judgement of the aerodrome controller, such information is necessary from a safety point of view, or when requested by aircraft.
+Essential local traffic is considered to consist of any aircraft, vehicle or personnel on or near the manoeuvring area, or traffic operating in the vicinity of the aerodrome, which may constitute a hazard to the aircraft concerned. Essential local traffic must be described so as to be easily identified.
+Content of Essential Local Traffic Information
+According to Doc 4444 provisions (par. 11.4.3.1.3) the essential local traffic information must include:
+a) identification of the aircraft to which the information is transmitted;
+b) the words TRAFFIC IS or ADDITIONAL TRAFFIC IS, if necessary;
+c) description of the essential local traffic in terms that will facilitate recognition of it by the pilot, e.g. type, speed category and/or colour of aircraft, type of vehicle, number of persons;
+d) position of the essential local traffic relative to the aircraft concerned, and direction of movement.
+ 
+
+^ Local traffic - Aircraft operating in the traffic pattern or within sight of the tower, or aircraft known to be departing or arriving from flight in local practice areas, or aircraft executing practice instrument approaches at the airport.
+
+SKYclip
+
+
+
+
+
+
+
+
+
+
+
+ Read more
+
+
+
+
+Separation from Unknown Aircraft (SKYclip)
+
+
+
+
+
+
+
+
+
+
+Related Articles
+
+Classification of Airspace
+Collision Avoidance
+
+Further Reading
+ICAO
+
+ICAO Annex 11 Air Traffic Services
+ICAO Doc 4444 PANS-ATM
+ICAO Doc 7030 Part 3, Section 3.1.1
+ICAO Doc 9870 Manual on the Prevention of Runway Incursions
+ICAO Doc 9426 Air Traffic Services Planning Manual
+
+EUROCONTROL
+
+EUROCONTROL Manual of Aerodrome Flight Information Services (AFIS) Edition 1.0, 2010
+
+
+
+
+
+Categories
+
+
+Loss of Separation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

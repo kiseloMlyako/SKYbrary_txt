@@ -1,0 +1,122 @@
+Magnetic Dip
+
+
+
+
+
+
+
+
+
+
+
+  Magnetic Dip
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Magnetic dip, dip angle, or magnetic inclination is the angle made with the horizontal by the Earth's magnetic field lines.
+This angle varies at different points on the Earth's surface. Positive values of inclination indicate that the magnetic field of the Earth is pointing downward, into the Earth, at the point of measurement, and negative values indicate that it is pointing upward.
+The Earth’s Magnetic Field
+Magnetic dip results from the tendency of a magnet to align itself with lines of magnetic field. As the Earth's magnetic field lines are not parallel to the surface, the north end of a compass needle will point downward in the northern hemisphere (positive dip) or upward in the southern hemisphere (negative dip). The range of dip is from -90 degrees (at the South Magnetic Pole) to +90 degrees (at the North Magnetic Pole). Contour lines along which the dip measured at the Earth's surface is equal are referred to as isoclinic lines. The locus of the points having zero dip is called the magnetic equator or aclinic line.
+Implications for Aviation
+Operations close to the Magnetic Pole
+In a typical gyromagnetic compass system, the magnetic heading of an aircraft is based upon horizontal component of the magnetic field measured by a detector usually located in the wing tip away from metallic objects that cause distortions to the magnetic field. As an aircraft gets closer to the magnetic pole, the horizontal component of the magnetic field weakens and measurement of the direction of magnetic north becomes increasingly inaccurate and unreliable. Aircraft operating close to the magnetic poles therefore have to rely on alternatives to the magnetic compass for heading reference e.g. gyro or GPS.
+Erroneous Compass Readings in a turn
+Magnetic dip causes the aircraft compass to give erroneous readings during banked turns when the magnetic detector picks up the vertical component of the magnetic field. To counter this, magnetic compass systems typically include a “turn cut-out” which cuts the feed from the detector to the compass gyro when the angle of bank exceeds a specific amount.
+Related Articles
+
+Gyromagnetic Compass
+Standby Flight Instruments
+Magnetic Variation
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

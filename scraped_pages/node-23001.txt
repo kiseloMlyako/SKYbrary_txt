@@ -1,0 +1,193 @@
+Unreliable Airspeed Indications
+
+
+
+
+
+
+
+
+
+
+
+  Unreliable Airspeed Indications
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Airworthiness 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ The Air Pilots
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+A failure to promptly recognise and respond to erroneous flight instrument indications can result in loss of control. A simultaneous effect of the primary problem on a Fly-By-Wire aircraft may be the reversion to Flight Control Laws (or Modes) which provide less Flight Envelope Protection than the Normal Law/Mode. The autopilot may also disconnect as a consequence of the fault. Therefore, a comprehensive understanding of the relationship between the Air Data systems, Autopilot (AP) and Flight Director (FD) systems and individual AP/FD channels on the specific aircraft type is essential if such a situation is to be managed safely.
+With knowledge of pitot-static systems and an understanding of the types of erroneous indications that can occur, pilots can identify that there is a problem and follow procedures to establish and maintain the aircraft in a safe condition. This is accomplished by reference to remaining reliable information, in particular by reference to the aircraft attitude in relation to the thrust setting and altitude as verified from at least two similar displays from independent data sources.
+The Pitot Static System
+Indicated Airspeed (IAS) is a function of the difference between:
+
+the Total Pressure (Pt) measured by a forward-facing pitot head or probe and;
+the Ambient or Static Pressure (Ps) measured at static plates or ports.
+
+Complete or partial blockages of pitot heads and static ports can confuse an unprepared crew and may be caused by:
+
+In-Flight Icing
+Insects
+Volcanic Ash
+Heavy rain
+Crude Oil Smoke
+Failure to remove maintenance seals or protective covers from external vents prior to flight
+Failure to activate pitot-static heat
+Damage to the radome/nose cone of an aircraft, causing erroneous pitot and static information.
+
+Effects
+
+If the pitot probe is blocked but the pitot drain and static ports are free, then in straight and level (cruising) flight the displayed IAS will tend to reduce, eventually indicating zero.
+If the pitot probe and pitot drain are blocked but the static port is free then the IAS will increase during a steady climb and decrease during a steady descent.
+If the pitot probe, pitot drain, and static ports are all blocked then the IAS will remain constant despite changes in actual airspeed.
+
+In addition to airspeed indicators, systems which rely on information directly or indirectly (via Air Data Computers) from the pitot-static system are also unreliable if the pitot static system is blocked in some way.
+
+If the static vent only is blocked, then the altimeter will freeze on the altitude that the blockage occurred, the VSI will show zero climb or descent, and the IAS will over-read in the descent or under-read in the climb.
+
+Defences
+
+Inspection of all pitot heads and static ports during the pre-flight aircraft external inspection.
+Use of pitot-static heat in accordance with the aircraft’s flight manual.
+A comprehensive understanding of the relationship between the Air Data systems, Autopilot (AP) and Flight Director (FD) systems and individual AP/FD channels on your aircraft type.
+Monitoring of primary flight path parameters (pitch attitude, thrust setting and indicated airspeed) during periods of potential icing encounters.
+Awareness of the normal attitudes and power/thrust settings for the various "phases of flight”
+
+Recognition of Unreliable Airspeed Indication
+Abnormally large Mach number or IAS fluctuations, and differences between the indications at each pilot position, or between target and actual speed, may suggest an unreliable airspeed condition. However, all indications may be consistent but equally unreliable if the problem is affecting all pitot-static systems – although it is normal for modern aircraft to be certificated with a standby pitot head of different design to the two main heads . Note also that a difference between target and indicated speed could also be the result of the aircraft being heavier/lighter than planned or as a result of something which is causing unusual drag, such as incorrect configuration for the phase of flight.
+Flight crew awareness of typical speed/pitch/thrust/fuel flow/climb or descent rate characteristics for the stage of flight is the most effective way of detecting unreliable airspeed indications e.g.:
+
+airspeed increasing with typical climb pitch attitude and power setting;
+airspeed decreasing with typical descent pitch attitude and power setting;
+Abnormal AutoThrust or Autopilot behaviour, including disconnection;
+Unexpected stall warning (since stall warning is based on angle-of-attack and configuration, it is independent of airspeed indications), an unexpected overspeed warning or simultaneous stall AND overspeed warnings;
+an unexpected speed/aerodynamic noise relationship.
+
+Pilots may only become aware of the problem when the aircraft has adopted an unusual pitch attitude, making the recovery and further control of the situation much more challenging, especially if the aircraft has entered a stall. Recognition of the problem relies on a pilot having a good understanding of the pitch attitudes and power setting expected for level flight at various speeds/ configurations in normal circumstances. For recognition of a gross error this needn’t be much more accurate than, for example; low speed 7 degrees nose up, medium speed 5 degrees nose up high speed 3 degrees nose up. It is interesting to note that pilots flying highly automated aircraft, who are accustomed to using information such as Flight Path Vector (FPV), are frequently unable to describe these reference figures with any accuracy.
+Autopilot, autothrust, and flight directors can all contribute to loss of control in the event of unreliable speed. For example, the autothrust system may erroneously sense an overspeed and command a thrust reduction and if the speed is actually much lower than sensed, a stall could result.
+Response
+Keep the aircraft away from the low-speed and high-speed ends of the flight envelope
+
+Disconnect the Autothrust, Autopilot, and Flight Director;
+Revert to safe default parameters for pitch attitude and thrust setting;
+Every effort should be made to remain in VMC.
+
+In the event of unreliable airspeed indications, a crew should fly the approximate pitch and power normally expected at that stage of flight until it is discovered which (if any) system is indicating correctly or the problem is resolved. Aircraft manufacturers issue appropriate guidance for specific aircraft types, including pitch and power settings to fly at different stages of flight if airspeed information is not available. Information in either the Flight Manual or manufacturer’s abnormal procedures is comfortingly accurate. With intelligent crew cooperation, it is possible to fly surprisingly accurate speeds using the published data. If in doubt, or until more accurate information is available, maintaining a slight nose-up attitude and climb power should keep the aircraft safe.
+Reliable Sources of Information
+The following information sources, independent of the pitot static systems, can provide reliable information for situational awareness:
+
+rpm, and fuel flow, for engine thrust indication (not EPR, which may be unreliable);
+Pitch and bank display;
+FPV (Flight Path Vector) if available and derived from inertial and not barometric sources;
+Radio height when below 2500ft agl;
+EGPWS
+Stick Shaker - may not always be activated but if it is, it is independently reliable;
+Navigation systems can provide ground speed and position information (GPS can also provide groundspeed and altitude information);
+Radio navigation aids and RNAV.
+ATC, in a radar or ADS-B environment, can provide aircraft groundspeed.
+If TAS can be determined, a rough approximation of IAS at altitude can be calculated by the fomula: IAS=TAS – (FL÷2) eg 400TAS FL300 = 250IAS.
+
+Note: Some aircraft systems are configured, as a safety measure, such that stick shakers and pushers will not operate if there is disagreement between systems. Thus, if the aircraft approaches and/or enters a stall, these safety features might not activate. However, if the stick shaker does activate, it should, in the absence of clear contrary indications, be believed.
+Accidents and Incidents
+The following events listed on SKYbrary involved unreliable airspeed indications:
+
+B712, en-route, Union Star MO USA, 2005: On 12 May 2005, a Boeing 717-200 being operated by Midwest AL on a scheduled passenger flight from Kansas City to Washington National and climbing in night IMC experienced a sudden loss of control from which recovery was only achieved after a prolonged period of pitch oscillation involving considerable height variation. An en-route diversion to Kirksville MO was then made without further event. None of the 80 occupants were injured and the aircraft was not damaged. The Probable Cause of the event was determined by NTSB as “a loss of reliable airspeed indication due to an accumulation of ice on the air data / pitot sensors. Contributing to the incident was the flight crew's improper response to the erroneous airspeed indications, their lack of coordination during the initial recovery of the airplane to controlled flight, and icing conditions.”
+B752, en-route, Northern Ghana, 2009: On 28 January 2009 the commander of a Boeing 757-200 being operated by UK-based Operator Astraeus AL for Ghana Airways and acting as PF for the sector became aware of a the failure of his ASI early in the night takeoff roll on a scheduled passenger flight. He decided to continue the takeoff and deal with the problem whilst airborne. After passing FL180 the crew selected the left Air Data switch to ALTN, believing this isolated the left Air Data Computer (ADC) from the Autopilot & Flight Director System (AFDS). Passing FL316, the VNAV mode became active and the Flight Management Computer’s (FMCs), which use the left ADC as their input of aircraft speed, sensed an overspeed condition and provided a pitch-up command to slow the aircraft. The co-pilot was concerned about the aircraft’s behaviour and, after several verbal prompts to the commander, pushed the control column forward. The commander, uncertain as to what was failing, believed that a stick-pusher had activated. He disengaged the automatics and lowered the aircraft’s nose, then handed over control to the co-pilot. A “MAYDAY” was declared and the aircraft returned to Accra without further event.
+A332, en-route, Atlantic Ocean, 2009: On 1 June 2009, an Airbus A330-200 being operated by Air France on a scheduled passenger flight from Rio de Janeiro to Paris CDG exited controlled flight and crashed into the sea with the loss of the aircraft and all 228 occupants. It was found that the loss of control followed an inappropriate response by the flight crew to a transient loss of airspeed indications in the cruise which resulted from the vulnerability of the pitot heads to ice crystal icing.
+
+Related Articles
+
+Altimeter
+Air Speed Indicator
+Stall
+
+
+
+
+
+Categories
+
+
+Airworthiness,
+              Loss of Control
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

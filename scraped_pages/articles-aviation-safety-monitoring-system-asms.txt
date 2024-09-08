@@ -1,0 +1,117 @@
+Aviation Safety Monitoring System (ASMS)
+
+
+
+
+
+
+
+
+
+
+
+  Aviation Safety Monitoring System (ASMS)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Management 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Purpose
+Commissioned in 1991 to provide the New Zealand aviation community with safety information as determined from accidents and incidents. It is also used to track corrective actions against non-compliances that are detected during proactive surveillance.
+Description
+Aviation Saftey Monitoring System (ASMS) is a relational database that links information on aviation document holders with safety failures (occurrences and non-compliances) and tracks corrective actions. It is fully integrated with CAA’s management information system and contains tools for creating and maintaining a database, customising and creating occurrence reports, tracking safety investigations, analysing data, and tracking corrective actions. Risk management is facilitated though the use of severity and likelihood codes. Automated Occurrence Report forms provide assistance in entering data and provide an audit trail of changes made. Investigation reports support full multimedia, including pictures.
+ 
+Further Reading
+
+GAIN - Methods & Tools for Safety Analysis in Air Traffic Management
+
+Ref. refers to Aviation Quality Database (AQD) as a clone of ASMS and states that AQD and ASMS are compatible in the sense that external organisations are able to gather their own occurrence data, track their own audit corrective actions, analyse the data and report their safety performance to CAA via an electronic interface.
+
+
+
+
+Categories
+
+
+Safety Management,
+              General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

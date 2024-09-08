@@ -1,0 +1,145 @@
+Regulation 633/2007 Flight Message Transfer Protocol for Use by ATC Units
+
+
+
+
+
+
+
+
+
+
+
+  Regulation 633/2007 Flight Message Transfer Protocol for Use by ATC Units
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Single European Sky 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Note: This Regulation was repealed by Regulation 2023/1771 and is no longer in force.
+Commission Regulation (EC) No 633/2007 of 7 June 2007 laying down requirements for the application of a flight message transfer protocol used for the purpose of notification, coordination and transfer of flights between air traffic control units - text published in the Official Journal of the European Union
+Objective
+This Regulation aims to enable the automatic exchange of data between flight data processing systems of the air traffic control units for the purposes of notification, coordination and transfer of flights and for the purposes of civil-military coordination, by mandating the use of a common flight message transfer protocol.
+Background
+The general framework of the Single European Sky (SES) needs to be completed by more specific and detailed implementing rules. The European Commission has adopted this regulation in order to support the implementation of the Interoperability regulation, which forms part of the first package of legislation on air traffic management designed to create the SES.
+The EUROCONTROL standard for on-line data exchange (OLDI) was annexed to Commission Regulation (EC) No 2082/2000 adopting EUROCONTROL standards and making its use mandatory within the European Community in the event of procurement of new flight data processing systems. As Regulation No 2082/2000 was repealed with effect from 20 October 2005, it was necessary to update the Community legislation, so as to ensure the consistency of relevant regulatory provisions.
+Summary
+Scope
+This Regulation applies to:
+
+Communication systems supporting the coordination procedures between air traffic control units using a peer-to-peer communication mechanism and providing services to general air traffic (GAT);
+Communication systems supporting the coordination procedures between air traffic services units and controlling military units, using a peer-to-peer communication mechanism.
+
+The Regulation should not cover military operations and training.
+Interoperability Requirements
+Air navigation service providers (ANSPs) and controlling military units shall ensure that the systems included in the scope of this Regulation apply the flight message transfer protocol in accordance with the interoperability requirements specified in Annex I of the Regulation.
+Conformity Assessment and Verification of Systems
+The manufacturers of constituents of the systems included in the scope of this Regulation shall assess the conformity of these constituents in compliance with the requirements set out in Annex II of the Regulation. The manufacturers shall demonstrate the conformity of constituents implementing flight message transfer protocol with the applicable interoperability requirements of this Regulation whilst these constituents are in operation in the test environment.
+ANSPs shall conduct a verification of the systems included in the scope of this Regulation in compliance with the requirements set out in Annex IV, Part A of the Regulation. To be entitled to do that, the ANSP need to demonstrate that they fulfil the conditions set out in Annex III of the Regulation.
+ANSPs which cannot demonstrate that they fulfil the conditions set out in Annex III of the Regulation shall subcontract the verification to a notified body. The notified body shall conduct the verification in compliance with the requirements set out in Annex IV, Part B of the Regulation.
+Entry into Force
+The Regulation entered into force in June 2007. However, it shall apply from:
+
+1 January 2009 to all systems included in the scope of the Regulation put into service after that date;
+20 April 2011 to all EATMN systems included in the scope of the Regulation in operation by that date.
+
+This Regulation was repealed by Regulation 2023/1771 and is no longer in force.Regulation (EC) No 633/2007 laying down requirements for the application of a flight message transfer protocol used for the purpose of notification, coordination and transfer of flights between ATC units (OJ, 8.6.2007)
+Further Reading
+European Commission
+
+EUR-Lex Portal: Regulation 633/2007 (available in different languages and file formats)
+Air Transport Portal of the European Commission - Single European Sky;
+
+EUROCONTROL
+
+EUROCONTROL Specification for On-Line Data Interchange (OLDI)
+
+
+
+
+
+Categories
+
+
+Single European Sky,
+              SES Implementing Rules
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

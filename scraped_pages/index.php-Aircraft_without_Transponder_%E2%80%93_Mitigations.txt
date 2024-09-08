@@ -1,0 +1,195 @@
+Aircraft without Transponder – Mitigations
+
+
+
+
+
+
+
+
+
+
+
+  Aircraft without Transponder – Mitigations
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Nets 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Editor's note: This article uses the terminology regarding safety barriers and mitigations as used in "Operational Safety Study: Risk of operation without a transponder or with a dysfunctional one, by EUROCONTROL SISG"
+Introduction
+Generally, two types of safety barriers exist – prevention barriers and mitigation barriers. The former are used to minimize the risk of an occurrence happening and the latter are intended to eliminate or reduce the impact of an event after it has happened.
+There are no specific prevention barriers to address transponder failure since this is usually an equipment failure. This means that the general maintenance rules and procedures apply (as with any other piece of equipment). Therefore, this article focuses on the mitigation barriers, which are divided into “repairable” and “other” categories based on the barrier’s ability to be restored (after being breached), e.g. by a procedure. Furthermore, the mitigation barriers (as well as all safety barriers in general) are divided into several stages each of which is intended to activate if the previous have failed:
+
+Design and strategic planning – includes strategic level barriers, e.g. airspace design;
+Demand and capacity balancing – focuses on ensuring sustainable workload levels;
+Traffic planning and synchronisation – includes long and medium term tools and procedures for conflict detection and resolution (e.g. MTCD);
+Tactical conflict management – includes various tools and procedures used for ensuring separation by timely conflict detection and resolution;
+ATC collision avoidance – includes tools and procedures for collision avoidance used by air traffic controllers (e.g. STCA);
+Crew collision avoidance – includes tools and procedures used by the pilots for collision avoidance (e.g. TCAS, see and avoid, etc.).
+
+Repairable mitigation barriers
+A mitigation barrier is called “repairable” when a failure has reduced the effectiveness of a barrier in the system, but certain actions may be able to restore its effectiveness. The main repairable mitigation barrier at each stage are:
+
+Design and strategic planning
+
+Application of transponder validation procedures on first contact - On first contact with an aircraft, the ATCO should validate the transponder function, including e.g. operation, Mode A code and Mode C operation. This could include on start-up or departure. The thoroughness of completion of this procedure could be improved for certain sectors or environments.
+
+
+Traffic planning and synchronization;
+
+More effective flight plan data - This is the improvement of controller prediction tools to give more accurate performance when using only flight plan data (even if designed for “dynamic” updates using track data), for example when manually updated by the ATCO. The ATCO also requires clear procedures and training for manually inputting and updating flight plan data for the most effective use during a loss of track scenario. This also reflects the general mitigation of appropriate use of flight plan data in the event of a loss of track for both ATCO tools and the controller.
+
+
+Tactical conflict management
+
+Regular scanning by ATCO - The controller should maintain an effective regular scan (e.g. to be able to detect non-alerted dropped tracks), rather than solely rely on “first contact” procedures. This also applies to detection of incorrect aircraft being given a clearance (due to invalid correlation). There is some debate as to the effectiveness of this barrier, since in en-route controlled airspace, strip management is traditionally the primary means of deconfliction.
+Use of primary radar data If available, this can be used to maintain a correlated track to support tactical conflict management in the event of a loss of secondary surveillance information. Note that this may be assisted by cooperation with the military, allowing the sharing of primary radar data.
+Crew detection of transponder failure. Existing alerts are incorporated on most commercial aircraft, but may not be immediately noticeable in flight (e.g. Embraer Legacy-B737 accident in Brazil). Fail-safe indications of transponder failures or malfunctions, if detected, should be given to the flight crew.
+
+
+
+Other mitigation barriers
+The other existing (or possible new) mitigation barrier at each stage are:
+
+Design and strategic planning
+
+Airspace design gives positive separation – This includes the systematic separation of aircraft using de-conflicted RNAV/RNP based routes. Free-route airspace may reduce the effectiveness of this barrier.
+Procedure design for transponder malfunction - Procedures can be defined and implemented for transponder loss. If primary radar is available, flight plan correlation should be maintained. If not (e.g. in the subsequent sector), procedures may vary, and may include military escort or in extremis refusing the aircraft entry or returning the aircraft to an airfield. Procedures may also include assistance of the supervisor or planner. The aircraft should also be cleared out of RVSM airspace.
+Appropriate ATC system design and calibration – In the case of total loss of a transponder, design and calibration of an effective tool for alerting ATCOs in the event of: a dropped track (across one or more sectors); or a non-correlated track (i.e. without flight plan data); or a track without secondary surveillance information (i.e. primary only, but still correlated).
+
+
+Demand and capacity balancing
+
+Sector capacity planning - Ensuring that the number of aircraft the controller can handle if a track is lost is appropriate i.e. ensuring that sector capacity limits are appropriate by “sensitivity analysis” of track drop scenarios.
+
+
+Traffic planning and synchronisation
+
+Use of voice reporting - Use of voice reporting is particularly relevant as a barrier during sector handover, when defined procedures may be followed. If silent handover is used, this barrier may not be applicable. If the ATCO has detected the track drop/loss, it may also be used within a sector for improved situational awareness.
+
+
+Tactical conflict management
+
+Alert for change in track status - Any change of track status should be alerted to the controller. This includes the loss of transponder information (i.e. primary only, or flight plan track), or the total loss of a track. Alerting improves the detectability. This is also applicable for multiple sectors, i.e. also alerting the next sector the aircraft is due to enter, and may be used at the planning stage.
+Use of voice reporting remains important to resolve conflicts and separate traffic, as long as the ATCO is aware of the two aircraft.
+
+
+ATC collision avoidance
+
+Collision avoidance via procedural control – Use of altitude information acquired through voice reporting to achieve vertical separation.
+
+
+Crew collision avoidance
+
+See and avoid practiced by aircraft - This could include the executive controller actively encouraging the aircraft to see-and-avoid through informing them of the track loss situation (if detected) and notifying them of proximate aircraft’s approximate or last known position. The effectiveness of see-and-avoid for Commercial Air Transport is not thought to be high, particularly where there is no indication of the other aircraft through other means (e.g. via TCAS display or through party-line situational awareness).
+
+
+
+Related articles
+
+Transponder
+Mode S
+Aircraft Mode S Transponders - Incorrect and Missing Data - EASA Safety Information Bulletins
+Airborne Collision Avoidance System (ACAS)
+Best Practice - Use of Transponder
+ATC Loss of Transponder Signal
+Operation without a Transponder or with a Dysfunctional Transponder
+Transponder failure types
+An aircraft without transponder – Guidance for Controllers
+Impact of transponder failure on safety barriers
+
+Further reading
+
+Operational Safety Study: Risk of operation without a transponder or with a dysfunctional one, by EUROCONTROL SISG
+Operational Safety Study: Impact on ATC from a loss of aircraft transponder function - safety considerations, EUROCONTROL, March 2019
+
+
+
+
+
+Categories
+
+
+Safety Nets,
+              Loss of Separation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

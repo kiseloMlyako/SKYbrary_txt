@@ -1,0 +1,253 @@
+TCAS Occurrence (OGHFA SE)
+
+
+
+
+
+
+
+
+
+
+
+  TCAS Occurrence (OGHFA SE)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+OGHFA 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ Flight Safety Foundation
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 The Incident as a Situational example
+A large four-engine jet is on an eastbound transoceanic flight at FL 330. The pilots call the Area Control Center (ACC) for a routine position report, giving an estimate of 1950 for the geographic fix of 53•00' N latitude, 50•00' W longitude (50 West). The ACC acknowledges the estimate at 1926 and instructs them to change to another frequency.
+A three-engine jet passes over 50 West at 1936, flying westbound at FL 330 and along the same track. At 1942, the pilots contact the same ACC for the first time. They request and receive clearance to climb to FL 350. Both airplanes are operating under instrument flight rules (IFR) in visual meteorological conditions (VMC). The traffic in the area is low for that time of the day.
+As the westbound airplane's first officer enters the new altitude into the aircraft's vertical navigation computer, he observes conflicting opposite-direction traffic at 30 mi on the traffic-alert and collision avoidance system (TCAS). The crew expedites the climb in order to avoid the conflicting traffic.
+What would you do, bearing in mind that proximity of the opposing traffic?
+The westbound crew expedited the climb to avoid the conflicting traffic. Their airplane finally passes 1 mi south and some 1,800 ft above the eastbound aircraft. The required vertical separation is 2,000 ft. The two airplanes were closing at a combined speed of 980 kt and were less than 2 min apart at 30 mi.
+2 Data, Discussion and Human Factors
+Any pilot would experience stress in the face of conflicting traffic, even if alerted by a traffic advisory. This case illustrates the confirmation bias that can occur in this type of scenario. Stress is known to increase confirmation bias, with pilots looking for information to confirm their assumptions.
+The crew of the westbound airplane decided to expedite the climb to FL 350 after the first officer observed conflicting opposite-direction traffic at 30 mi on the TCAS. This decision was based solely on TCAS information and resulted in the two airplanes achieving 1,800 ft vertical separation when they passed.
+Having received no specific ATC instructions to expedite the climb, the crew of the westbound airplane probably would have performed a slower en-route climb in the absence of TCAS information, which would have resulted in less vertical separation with the eastbound airplane when they crossed each other.
+This incident of aircraft in too close proximity (airprox) occurred in a small area of airspace where there was no radar coverage. In this situation, controllers have to rely on information from flight progress strips to provide separation. ATC controllers were less vigilant because of their reduced workload.
+2.1 Flight crew aspects
+Once an aircraft is detected by TCAS surveillance and determined to be a potential threat, TCAS presents it to the pilot as a Traffic Advisory (TA). If the threat is imminent, then TCAS proposes a vertical avoidance maneuver to the pilot. This is a Resolution Advisory (RA).
+Faced with a TCAS warning, pilots must react very quickly. The corrective action is presented directly to the pilots on the primary flight display (PFD). Crews do not have to understand the escape maneuver but must execute it promptly and correctly and react with total confidence.
+
+There are 12 aural warnings (table 1 below)
+Due to memory limitations, only about seven non-speech warnings can be remembered. For speech warnings such as TCAS alerts, this number can be higher because speech contains more information. Pilot reactions are based on oral comprehension.
+During training, pilots are not necessarily faced with all these different alarms and all possible combinations.
+
+
+
+
+Climb, Climb
+
+
+Descend, Descend
+
+
+Climb, Crossing climb; Climb, Crossing climb
+
+
+Descend, Crossing descend; Descend, Crossing descend
+
+
+Adjust vertical speed, Adjust
+
+
+Climb, Climb NOW; Climb, Climb NOW
+
+
+Descend, Descend NOW; Descend, Descend NOW
+
+
+Increase climb; Increase climb
+
+
+Increase Descent; Increase Descent
+
+
+Maintain vertical speed, Maintain
+
+
+Maintain vertical speed, Crossing Maintain
+
+
+Monitor Vertical Speed
+
+
+
+Table 1: ACAS Aural Warnings
+In essence, TCAS warns pilots of a potential threat. Reacting to TCAS means having to take a decision very quickly. These two conditions lead to a certain level of stress. Stress is known to affect both normal perception and the tactical decision-making process.
+Typical manifestations of stress that can occur during TCAS events are:
+
+Channeled attention or tunnel vision
+
+This is the most famous effect of stress. During an RA, the pilot flying (PF) is focused on maneuver execution, and his attention can be focused on the vertical speed indicator (IVSI) or on the pitch cue. Hence he might not take into account other types of information, in particular aural information such as crew or ATC communications and warnings.
+TCAS resolutions may change aircraft flight levels and can lead to chain conflicts. Pilots must maintain a high level of vigilance. After a resolution, aircrews are generally focused on returning the aircraft to normal conditions. In the study, it was observed that crews were not necessarily able to detect a new TA occurring just seconds after a cleared conflict.
+
+Active answers
+
+Stress tends to increase active answers. This can be observed during the TA. The TA is indeed a preparatory period, with an unpredictable duration, endowed with potential danger, the resulting stress of which may lead to the PF taking action or the pilot not flying (PNF) communicating with ATC. Effective [[Pilot-Controller Communications (OGHFA BN)|pilot-controller communications remain a must here.
+
+Confirmation bias
+
+Stress is also known to increase confirmation bias, where people continuously search out information to confirm their assumptions, even if they are erroneous.
+2.2 ATC controller aspects
+Established procedures and written checklists for flight data board scans and sector briefings were not effectively followed.
+There were four opportunities for different controllers in the ACC to detect the traffic conflict developing between the two aircraft. None of them was grasped.
+Procedures, standards, guidelines and checklists are available for controllers to ensure the safe separation of aircraft. The separation standard that should have applied in this case was 2,000 ft vertically. Staffing levels in the ACC during the incident met unit standards.
+Controllers form a mental image of air traffic based on the conceptualization and prediction of aircraft movement. Information used to develop this picture comes from radar displays, aircraft position reports and data from flight progress strips. Maintaining this image is essential for a controller’s situational awareness and for effective air traffic control.
+Inattention or lack of vigilance appears to be contributory in approximately 50 percent of all air traffic services (ATS) occurrences, and these types of errors often happen during periods of light, non-complex traffic. Complacency and boredom were considered to contribute to the frequency of attention-related incidents.
+It is likely that the failure of the controllers involved to maintain their situational awareness was due to the development of a complacent attitude during a period of low traffic. Contributing to this complacent attitude was a reliance on automated systems and other controllers to detect potential traffic conflicts. This complacent attitude led to a lack of vigilance and to reduced compliance with established procedures and checklists. When a traffic conflict does develop during a period of low traffic, as occurred on this occasion, it is less likely to be detected than it would be during a period of high traffic.
+3 Prevention Strategies and Lines of Defense
+Figures 3, 4 and 5 originate from the Eurocontrol Safety Letter of November 2002 and summarize the interaction between pilots and ATC during the three phases of an airborne collision avoidance system (ACAS) event: TA, RA and Clear of Conflict.
+Figure 3 confirms that no avoidance maneuver should be initiated on the sole basis of a TA. Even if pilots notify ATC of the TA, the controller remains responsible for separation.
+
+ 
+Figure 4 confirms the respective authority and responsibility of the pilots and controller during the response to an RA.
+
+ 
+Figure 5 confirms the terms of resumption of respective responsibilities after the aircraft is Clear-of-Conflict and returns to the initial clearance or to an alternative clearance issued by the controller.
+
+ 
+On the controller’s side, adherence to established procedures and the use of written checklists would likely have resulted in earlier detection and resolution of the conflict and would have reduced the risk of collision.
+It is not possible to provide recommendations about TCAS without remembering the basic regulatory recommendation -- follow the RA. The aim of the following recommendations is not to change or to go against airline procedure; rather, it is to make pilots aware of human factors issues and possible associated risks.
+
+Be aware of stress caused by TCAS events and of its possible effects
+Be aware of the gap between the speed of prescribed reactions and the complexity of aural warnings.
+Be aware of the fact that TCAS logic takes into account parameters beyond human capacity. It is not worth trying to predict the TCAS RA.
+Be aware of the situational awareness differences between pilots and controllers and of the possible effects of these differences
+Remain vigilant even after clearing the conflict. The organization of flight levels is disturbed, and after high stress your attention might be less focused than usual
+Stress can prompt controllers to react even during a RA. Follow your RA!
+
+4 Summary of Key Points
+Addressing human factors issues in TCAS alerts requires concentrating on the following key activities:
+
+Follow your RA
+Be sensitive to the possibility of experiencing error potentially associated with never-before-seen situations.
+Work together as a team to reach appropriate decisions (time permitting) taking into account the operational facts.
+Manage pressures, stress and distractions due to unexpected events or unusual and infrequent circumstances.
+Adherence to Standard Operation Procedures (SOPs) supports overall safety.
+
+5 Additional OGHFA Material
+Briefing Notes:
+
+Stress and Stress Management
+Decision Making
+Decision Making Training
+Organizational Threat Management
+Threat Management Training
+Unexpected Events Training
+Pilot-Controller Communications
+Situational Awareness
+
+Visual:
+
+Stress Management
+
+Checklist:
+
+Decide - Checklist
+
+ 
+6 Additional Reading Material
+
+Eurocontrol Safety Letter, November 2002
+David Hopkin, Situational Awareness in Complex Systems, Embry-Riddle Aeronautical University Press, 1994
+
+Related Skybrary Articles
+
+Airborne Collision Avoidance System (ACAS);
+Air-Ground Communication;
+Situational Awareness.
+ACAS: Guidance for Controllers
+
+
+
+
+
+Categories
+
+
+OGHFA,
+              Situational Examples,
+              Human Factors
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

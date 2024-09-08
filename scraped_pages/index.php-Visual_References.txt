@@ -1,0 +1,203 @@
+Visual References
+
+
+
+
+
+
+
+
+
+
+
+  Visual References
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Controlled Flight Into Terrain 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ Flight Safety Foundation
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+The phrase 'Required Visual Reference' is used in relation to the transition from control of an aircraft by reference to flight deck instrumentation to control by reference to external visual references alone. Those visual references, including aids, should have been in view for sufficient time for the pilot to have made an assessment of the aircraft position and rate of change of position in relation to the desired flight path. In Category III operations with a decision height the required visual reference is that specified for the particular procedure and operation. (ICAO Annex 6, and PANS-ATM).
+The establishment of visual references at the completion of an instrument approach is an important process which determines whether the approach may be continued to landing, or a go-around must be flown.
+   Note: the vertical or slant view of the ground through broken clouds or fog patches does not constitute an adequate visual reference to conduct a visual approach or to continue an approach below the applicable MDA/H or DA/H.
+The section below headed "European Regulations" details what these visual references must be. The remainder of this article deals with the process of transition within the aircraft cockpit.
+According to Flight Safety Foundation (FSF) Approach-and-landing Accident Reduction (ALAR) Briefing Note 7.3 — Visual References , "The transition from instrument references to external visual references is an important element of any type of instrument approach."
+The briefing note points out that two common Task task-sharing philosophies are common:
+
+"Pilot flying-pilot not flying (PF-PNF) task-sharing with differences about the acquisition of visual references, depending on the type of approach and on the use of automation:
+
+Nonprecision and Category (CAT) I instrument landing system (ILS) approaches; or,
+CAT II/CAT III ILS approaches (the captain usually is the PF, and only an automatic approach and landing is considered); and,
+
+
+"Captain-first officer (CAPT-FO) task-sharing, which usually is referred to as a shared approach, monitored approach or delegated-handling approach.
+
+"Differences in the philosophies include:
+
+The transition to flying by visual references; and,
+Using and monitoring the autopilot."
+
+"The task-sharing for the acquisition of visual references and for the monitoring of the flight path and aircraft systems varies, depending on:
+
+The type of approach; and,
+The level of automation being used:
+
+Hand-flying (using the Flight Director [FD]); or,
+Autopilot (AP) monitoring (single or dual AP)."
+
+
+
+The briefing note than proceeds to discuss task sharing and other considerations for different types of approach.
+European Regulations
+AMC1 to IR-OPS CAT.OP.MPA.305(e) and Appendix 1 to EU-OPS 1.430 define the required visual references for continuion of a precision approach or a non-precision approach as follows:
+Non-Precision Approach A pilot may not continue an approach below MDA/H unless at least one of the following visual references for the intended runway is distinctly visible and identifiable to the pilot:
+(i) Elements of the approach light system;
+(ii) The threshold;
+(iii) The threshold markings;
+(iv) The threshold lights;
+(v) The threshold identification lights;
+(vi) The visual glide slope indicator;
+(vii) The touchdown zone or touchdown zone markings;
+(viii) The touchdown zone lights;
+(ix) Runway edge lights; or
+(x) Other visual references accepted by the Authority.
+Precision Approach A pilot may not continue an approach below the Category I decision height ... unless at least one of the following visual references for the intended runway is distinctly visible and identifiable to the pilot:
+(i) Elements of the approach light system;
+(ii) The threshold;
+(iii) The threshold markings;
+(iv) The threshold lights;
+(v) The threshold identification lights;
+(vi) The visual glide slope indicator;
+(vii) The touchdown zone or touchdown zone markings;
+(viii) The touchdown zone lights; or
+(ix) Runway edge lights.
+Category II Operations A pilot may not continue an approach below the Category II decision height ... unless visual reference containing a segment of at least 3 consecutive lights being the centre line of the approach lights, or touchdown zone lights, or runway centre line lights, or runway edge lights, or a combination of these is attained and can be maintained. This visual reference must include a lateral element of the ground pattern, i.e. an approach lighting crossbar or the landing threshold or a barette of the touchdown zone lighting.
+Category IIIA Operations For Category IIIA operations, and for Category IIIB operations with failpassive flight control systems, a pilot may not continue an approach below the decision height ... unless a visual reference containing a segment of at least 3 consecutive lights being the centreline of the approach lights, or touchdown zone lights, or runway centreline lights, or runway edge lights, or a combination of these is attained and can be maintained.
+Category IIIB Operations For Category IIIB operations with fail-operational flight control systems using a decision height a pilot may not continue an approach below the Decision Height ... unless a visual reference containing at least one centreline light is attained and can be maintained.
+Accidents and Incidents
+The following events on SKYbrary involve lack of visual reference as a factor:
+
+
+B772, vicinity Kahului Hawaii USA, 2022On 18 December 2022, a Boeing 777-200 which had just departed Kahului in IMC had reached 2,100 feet over the sea in cloud when it began to descend in response to flight control inputs without the Captain as pilot flying recognising what was occurring. Recognition and recovery was slow and only prompted by a combination of EGPWS and verbal PULL UP warnings from the First Officer with a high speed descent to within less than 800 feet of the sea surface. The occurrence was not reported - nor apparently required to be - and the Investigation scope was thereby significantly compromised.
+
+F100, Paraburdoo Australia, 2021On 22 November 2021, a Fokker F100 crew discovered as they neared their destination, Paraburdo, that the forecast weather was so inaccurate that instead of the anticipated benign conditions, a much lower cloud base prevailed. A delay in recognising the implications of initially unsuccessful approaches and difficulty in obtaining updated weather for diversion options resulted in a fourth approach being intentionally continued significantly below minima, albeit successfully. Relevant aircraft operator procedures were identified as inadequate.
+
+CRJ7, Lyon St Exupery France, 2020On 23 January 2020, a Bombardier CRJ700 making a HUD-supported manual Cat 3a ILS approach to Lyon Saint-Exupéry in freezing fog conditions deviated from the required flight path localiser and reached a minimum of 265 feet agl before a go around was initiated without initially being flown in accordance with standard procedures. The Captain involved was relatively new to type and had not previously flown such an approach in actual low visibility conditions. The Investigation was not able to determine exactly what contributed to the approach and initial go around being misflown but identified a number of possible contributors.
+
+E145, Presque Isle ME USA, 2019On 4 March 2019, an Embraer 145 attempting to land off an ILS approach at Presque Isle in procedure-minima weather conditions flew an unsuccessful first approach and a second in similar conditions which ended in a crash landing abeam the intended landing runway substantially damaging the aircraft. The accident was attributed to the crew decision to continue below the applicable minima without acquiring the required visual reference and noted that the ILS localiser had not been aligned with the runway extended centreline and that a recent crew report of this fault had not been promptly passed to the same Operator.
+
+AS50, manoeuvring, Kauai Hawaii USA, 2019On 26 December 2019, an Airbus Helicopters AS350 on a commercial sightseeing flight over the Hawaiian island of Kauai impacted terrain and was destroyed killing all seven occupants. The Investigation concluded that the experienced pilot had decided to continue the flight into unexpectedly encountered cloud contrary to Company Policy. Contributory factors were identified as the delayed implementation of a Hawaiian aviation weather camera programme, an absence of regulatory leadership in the development of a weather training program for Hawaiian air tour pilots and an overall lack of effective regulatory monitoring and oversight of Hawaiian air tour operators’ weather-related operating practices.
+
+
+...further results
+
+
+Related Articles
+
+Controlled Flight Into Terrain (CFIT)
+Visual Illusions
+Runway Visual Perspective
+Night Visual Approaches
+
+Further Reading
+
+ICAO Doc 4444: PANS-ATM;
+
+
+IR-OPS CAT.OP.MPA.305
+AMC & GM CAT.OP.MPA.305
+EU-OPS 1.430;
+
+Flight Safety Foundation
+
+ALAR Briefing Note 7.3 — Visual References
+
+The Flight Safety Foundation ALAR Toolkit provides useful training information and guides to best practice. Copies of the FSF ALAR Toolkit may be ordered from the Flight Safety Foundation ALAR website
+
+
+
+
+Categories
+
+
+Controlled Flight Into Terrain
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

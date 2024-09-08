@@ -1,0 +1,180 @@
+ACAS RAs during Parallel Approaches
+
+
+
+
+
+
+
+
+
+
+
+  ACAS RAs during Parallel Approaches
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Enhancing Safety
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+ACAS logic is very complex because it needs to balance between minimizing nuisance alerts (which could lead to warnings being neglected) and activating when there is a danger of collision. This has resulted in the developmnent of sophisticated algorithms and rules. For example, there are multiple sets of thresholds for RA activation accounting for the different circumstances during different flight phases. Also, algorithms have been developed to address specific situations. Two examples of these are:
+
+The tau-cap mechanism. This behaviour is intended to provide a warning in some specific situations when the normal logic would fail to do so. As a general rule, an RA is triggered when the distance between two aircraft is projected to fall below certain threshold (called DMOD) within a specified period of time (called tau). For example, if the aircraft are flying at levels between 5000 and 10000 ft, RA is triggered when the distance is projected to fall below 0.55 NM after 25 seconds. However, if the two aircraft are converging at a very slow rate (i.e. flying on almost parallel tracks), by the moment the tau criterion is satisfied the distance will be too close to the DMOD threshold for the RA to be effective. To overcome this deficiency, the value of tau is "capped" (i.e., not allowed to increase) in encounters where the aircraft are projected to pass close (from a collision avoidance perspective) to each other.
+The Nuisance Alarm Filter (NAF) feature. This behaviour is intended to prevent RA triggering when there is sufficient separation (from collision avoidance perspective) at all times. Such situations are identified by the increased value of tau (which means that the minimum distance is projected to be achieved further and further away with each recalculation). However, it is undesirable to suppress alerts in which the miss distance will be less than DMOD. To achieve this, the parameter NAFRANGE is introduced. If the projected distance at the CPA is greater than NAFRANGE, then the alert is declared as nuisance and therefore discarded. NAFRANGE is established as a single parameter (rather than altitude-dependent) with a fixed value of 1.7 NM.
+
+Generic Scenario
+The following scenario shows how and why it is possible to sometimes receive nuisance RAs due to the tau-cap mechanism.
+
+
+ 
+
+CopyrightSKYbrary
+
+
+
+MDS73 and EKS1606 are about to intercept their final approach tracks. At this moment, the projected distance between the aircraft falls below the horizontal threshold of the ACAS. The aircraft are still vertically separated, so no RA is triggered. As the range criterion is met, however, ACAS continues to monitor the encounter.
+After the final approach tracks are intercepted, the aircraft are still converging but the closure rate is such that the minimum distance will be reached after considerably long time. However, the encounter is still being recalculated, because the current distance between the aircraft is less than NAFRANGE (this does not allow for the situation to be discarded as a nuisance alert). In addition, even though the time to the CPA is long, it is capped by the tau-cap mechanism. Consequently, ACAS assumes that the range criteria continue to be fulfilled.
+If the aircraft remain vertically separated by more than 600 ft, the vertical criterion for an RA will not be fulfilled and consequently no RA will be generated. In case the vertical separation falls below the vertical threshold, this criteria will also be met, leading to an RA. In turn, this would cause at least one of the aircraft to go around.
+It must be noted that the issue described happens rarely and multiple specific conditions must be met at the same time in order to receive a nuisance alert due to the tau-cap mechanism:
+
+A horizontal encounter is discovered by ACAS shortly before final approach track interception (i.e. the aircraft perform this at approximately the same time).
+The encounter is not discarded as the distance between the aircraft does not increase above NAFRANGE. This could happen when the final approach tracks are closely spaced and the aircraft are not staggered enough (i.e. one is not enough ahead of the other).
+The parallel runways are not staggered by much therefore the aircraft are likely to follow the same descent profile and be at similar altitudes while at the same time being closely spaced.
+
+However, small differences in the above scenario can result in normal approach and landing, e.g.:
+
+If one aircraft arrives just a few seconds earlier, the range criteria may not be satisfied and therefore, no conflict will be monitored by ACAS.
+if the aircraft flying ahead on the parallel track is slightly faster, the distance between the two may increase above NAFRANGE.
+If the vertical distance between the aircraft remains 600 ft or more at all times, an RA will not be triggered. This could happen if e.g. the aircraft ahead is also closer to the touchdown zone and is consequently at a lower altitude.
+
+Contributory Factors
+The following factors can exacerbate the issue with receiving nuisance RAs during independent parallel approaches:
+
+Higher altitudes (due to e.g. higher aerodrome elevation) sometimes result in higher DMOD values (as these are based on altitude bands)
+Spacing between runways. The closer the runways, (a) the higher chance that the range test will be passed and (b) the lower chance that the NAF would dismiss the alert.
+Runway threshold staggering. Less staggering means that aircraft will fly similar vertical profiles, i.e. when the distance between the aircraft is small, their vertical separation is likely to be below the ACAS vertical threshold criterion.
+Approach procedures. The points at which the final approach track is intercepted, as well as the angle at which this happens could influence the chance of nuisance RAs. Generally, the closer the points and the greater the intercept angles, the greater the chance of tau-cap induced RAs.
+
+Defences and Recommended Actions
+As a pilot or a controller
+
+Being aware of the issue, pilots and controllers should plan for this eventuality
+Standard procedures apply. Pilots should comply with RAs and controllers should not issue instructions contrary to an RA, even if they believe that the alert is a nuisance.
+Pilots and controllers should not try to assess in real time whether the RA is nuisance or genuine. Alerts during parallel approaches can be generated due to various reasons and the tau-cap mechanism is only one of those.
+
+As an organisation (operator or ANSP)
+
+Inform the controllers and pilots about the issue, e.g. during refresher training
+Analysis of the reported events may provide insight of the contributory factors and hints on how to mitigate the issue. For example, a new set of approach procedures was designed for runways 18 (L and R) at LEMD with intermediate phase providing for lesser track convergence (see the presentation in Further Reading for details).
+
+Further Reading
+
+TCAS II RAs during parallel approaches due to tau–cap mechanism
+TCAS RA events during independent parallel approaches at LEMD
+
+
+
+
+
+Categories
+
+
+Enhancing Safety,
+              Safety Nets,
+              Loss of Separation
+
+
+
+
+
+
+
+
+
+Related Articles
+
+Closest Point of Approach (CPA)
+ACAS Regulation and Procedures
+ACAS Resolution and Traffic Advisories
+ACAS: Guidance for Controllers
+Simultaneous Approaches to Parallel Runways
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

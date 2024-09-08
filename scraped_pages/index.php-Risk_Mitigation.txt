@@ -1,0 +1,177 @@
+Risk Mitigation
+
+
+
+
+
+
+
+
+
+
+
+  Risk Mitigation
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Management 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Mitigation or Risk Mitigation - steps taken to control or prevent a hazard from causing harm and to reduce risk to a tolerable or acceptable level. (EUROCONTROL, ESARR3)
+Objective
+To establish and implement appropriate strategies and effective measures in order to reduce risk associated with the provided services to a level that is as low as reasonably practical.
+Description
+Several Annexes to the Chicago Convention have been amended in order to introduce harmonised requirements for the implementation of Safety Management Systems (SMS) by aviation service providers. Aircraft operators and other aviation service provider organisations should establish and apply a formal risk management process within the framework of the organisational SMS. Risk management must ensure that risks are systematically analysed (in terms of probability of occurrence and severity of hazard effects), assessed (in terms of tolerability) and controlled to an acceptable level (by implementation of risk reduction measures). Aircraft operators and aviation service providers must also define those levels of management with authority to make decisions regarding safety risks tolerability.
+Risk mitigation is the third step in the risk management process. The first step - hazard identification - is carried out in order to identify the hazards in the organisational systems and operational environment, and to determine their effects. In the second step - risk assessment - the probability of occurrence and the severity of the hazard effects are analysed and assessed, the magnitude of the risk and its acceptability are determined. The purpose of the third step - risk mitigation - is to identify measures which when implemented will minimise the risk or even remove it from the system.
+When a risk has been found to be unacceptable, control measures need to be introduced. The level of risk can be lowered by:
+
+Reducing the severity of potential consequences;
+Reducing the probability of occurrence harmful effects;
+Reducing the exposure to that risk.
+
+The optimum solution may vary depending on the operational environment, local circumstances and urgency of the situation. In order to identify meaningful and effective risk reduction actions, an understanding of the adequacy of available system defences is required.
+Defence Analysis
+Section 6.4.4 of ICAO Doc 9859 - Safety Management Manual suggests that defence analysis is carried out as a first step towards mitigation of risk by an organisation. Careful examination of the existing defences (often called “safety barriers” in ATM) should establish whether these defences can reduce to a satisfactory degree the probability of occurrence and/or the severity of the harmful effects (consequences) associated to the risk.
+According to International Civil Aviation Organisation (ICAO), the defences within an aviation service provider organisation can be described as:
+
+Physical defences, including specially designed hardware and software that discourage or prevent inappropriate action, or mitigate the consequences of events (e.g., software with built in safety warning functions, warnings and alarms, switch covers, firewalls, survival equipment, etc).
+Administrative defences, including regulations, procedures and practices that mitigate the probability of occurrence of an accident/incident (e.g., safety regulations, Standard Operating Procedures (SOPs), local procedures, supervision and inspection, training, competency schemes etc).
+
+In case the defences fail to contain and reduce the risk, an analysis should be conducted to determine why they did not provide adequate safety protection.
+Mitigation Strategies
+An organisation should identify the most appropriate strategy (or strategies) to control the risks associated with the services provided. Examples of such strategies are:
+
+Exposure avoidance. Risky task, practice, operation or activity is avoided if the associated risk is determined to exceed the benefits.
+Loss reduction. Measures are taken to reduce the frequency of occurrence of unsafe (unwanted) events or the severity of their effects (consequences).
+Control of exposure (by separation or duplication). Action is taken to isolate the risks or to ensure redundancy to protect against the risks (e.g. use of non-flammable insulation materials and partitions, back-up systems to reduce the likelihood of total system failure, etc.)
+
+Establishing effective risk mitigation strategies and measures is a challenging task. Experience and knowledge of the particular operational environment is often not sufficient to select the best possible solution. Open mind, creativity and ability to think “outside the box” are needed to overcome the rigid mindsets and biases of those who are closest to the problem.
+Not all risk are manageable to the extent that they are no longer a factor or it is often economically impractical to use certain strategy (the cost overcomes the benefit). Generally, risks have to be managed to a level known as “as low as reasonably practicable” or ALARP. This means that the risk must be balanced against the time, cost and difficulty of taking measures to reduce or eliminate the risk.
+Risk Mitigation Measures
+Risk mitigation measures are introduced with the objective to:
+
+Eliminate the risk; or
+Mitigate the risk, if elimination is not feasible; or
+Cope with it, if neither elimination nor mitigation is feasible.
+
+The identification of appropriate risk mitigation measures requires a good understanding of the hazard and the factors contributing to its occurrence, since any mechanism that will be effective in reducing risk will have to modify one or more of these factors. Risk mitigation measures may work by reducing the probability of occurrence, or the severity of the consequences, or both. Achieving the desired level of risk reduction may require the implementation of more than one mitigation measure.
+According to ICAO Doc 9859 - Safety Management Manual, the possible approaches to risk mitigation include:
+
+Revision of the system design (before system implementation);
+Modification of operational procedures;
+Changes to staffing arrangements; and
+Training of personnel to deal with the hazard.
+
+The expected safety improvement potential of any proposed risk mitigation measure must be assessed by examining closely whether the implementation of the mitigation measure might introduce new risk in the system. This is done by applying the hazard identification and risk assessment steps and evaluating the acceptability of the risk with the proposed mitigation measures in place.
+Furthermore, safety performance monitoring should be used to evaluate the effect from the implementation of the risk mitigation measures. It is important to verify that the mitigation measures are working as intended.
+Related Articles
+
+Evaluating Risk Mitigation Options
+
+Further Reading
+ICAO
+
+ICAO Doc 9859 - Safety Management Manual, Fourth Edition - 2018
+ICAO Integrated Safety Management website;
+
+EUROCONTROL
+
+Safety Regulatory Requirement - ESARR 3, Use of Safety Management Systems by ATM Service Providers;
+Safety Regulatory Requirement - ESARR 4, Risk Assessment and Mitigation in ATM;
+Draft Advisory Material for the Establishment of a Risk Classification Scheme for the Design of the ATM Functional System;
+FAA/EUROCONTROL ATM Safety Techniques and Toolbox;
+
+Others
+
+FAA FAA Advisory Circular No.120-92, Introduction of Safety Management Systems for Air Operations;
+FAA Advisory Circular No.150/5200-37A, Safety Management Systems for Airports.
+
+
+
+
+
+Categories
+
+
+Safety Management,
+              Safety Management System
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

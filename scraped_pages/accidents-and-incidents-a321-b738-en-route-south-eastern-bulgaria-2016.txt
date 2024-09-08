@@ -1,0 +1,400 @@
+A321 / B738, en-route, south eastern Bulgaria, 2016
+
+
+
+
+
+
+
+
+
+
+
+  A321 / B738, en-route, south eastern Bulgaria, 2016
+
+
+
+
+
+
+
+
+
+Summary
+
+On 8 September 2016, an Airbus A321 en route in Bulgarian airspace at FL 350 was given and acknowledged a descent but then climbed and came within 1.2nm of a descending Boeing 737. The Investigation found that the inexperienced A321 First Officer had been temporarily alone when the instruction was given and had insufficient understanding of how to control the aircraft. It was also found that despite an STCA activation of the collision risk, the controller, influenced by a Mode ‘S’ downlink of the correctly-set A321 cleared altitude, had then added to the risk by instructing the 737 to descend.
+
+
+
+
+Event Details
+
+When
+
+08/09/2016
+
+
+
+Event Type
+
+
+HF,
+              LOS
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS A-321
+
+
+
+
+
+
+
+
+
+Operator
+
+Atlas Global
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+London Gatwick Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Istanbul/Atatürk Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Cruise
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 737-800
+
+
+
+
+
+
+
+
+
+Operator
+
+Turkish Airlines
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Zürich Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Istanbul/Atatürk Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Cruise
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+General
+
+Tag(s)
+
+
+              Copilot less than 500 hours on Type,
+              Deficient Crew Knowledge-automation,
+              Deficient Pilot Knowledge
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              ATC clearance error,
+              Inappropriate crew response - skills deficiency,
+              Inappropriate crew response (automatics),
+              Ineffective Monitoring,
+              Ineffective Monitoring - SIC as PF
+          
+
+
+
+
+LB
+
+Tag(s)
+
+
+              Accepted ATC Clearance not followed
+          
+
+
+
+
+LOS
+
+Tag(s)
+
+
+              Accepted ATC Clearance not followed,
+              Required Separation not maintained,
+              Level Bust,
+              ATC Error
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Number of Non-occupant Fatalities
+
+0
+
+
+
+Number of Occupant Fatalities
+
+0
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+Air Traffic Management
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Operation
+Air Traffic Management
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 8 September 2016, an Airbus A321 (TC-ATF) being operated by Atlasjet on a scheduled international passenger flight from London Gatwick to Istanbul under callsign KKK8YJ lost prescribed separation in day VMC against a Boeing 737-800 (TC-JVS) being operated by Turkish Airlines on an international passenger flight from Zurich to Istanbul under callsign THY4AV whilst both aircraft were tracking south-eastwards towards a common waypoint at FL 350 and FL 370 respectively in Class ‘C’ airspace. The two aircraft passed at FL 363 with 1.2 nm horizontal separation.
+Investigation
+After the classification of the event as a Serious Incident by the Aircraft Accident Investigation Unit (AAIU) of the Aircraft, Maritime and Railway Accident Investigation Unit Directorate at the Bulgarian Ministry of Transport, Information Technology and Communications, an Investigation Commission was appointed by the Minister. Recorded ATC data from Sofia ACC including Mode ‘S’ downlink data was available to inform the Investigation and the FDR data of both aircraft involved were also available.
+It was found that the 56 year-old A321 Captain had 12,150 total flying hours and the 33 year-old A321 First Officer had only 337 total flying hours. The 43 year-old B737 Captain had 2,954 total flying hours and the 40 year-old B737 First Officer had 2,437 total flying hours. No aircraft type experience was recorded for any of the pilots. It was established that both aircraft were heading towards Istanbul and cleared to route through Bulgarian airspace towards the Bulgarian/Turkish waypoint at RILEX with similar estimates at FL370 on track T391 (the Boeing 737) and FL350 on track T390 (the Airbus A321) - see the illustration below.
+
+The converging tracks of the two aircraft showing their positions as they crossed the same altitude (FL 363). [Reproduced from the Official Report]
+When the A321 was given and acknowledged a descent clearance from FL 350 to FL310, and could be seen from Mode S download to have set the new level on the FMU altitude selector, it began to climb instead. Forty seconds later, with the two aircraft 1.6nm and 1,600 feet apart, an STCA activation occurred due to their proximity as the A321 climbed towards the 737 which was at FL370. In response to this, the Controller issued a descent clearance to the 737 to FL 350 and then FL 330 but received no reply. By this time, the A321 was already climbing through FL 357 at 1,500 fpm with the tracks of the two aircraft 1.5 nm apart and closing. Nine seconds later a TCAS TA was generated on the A321 which continued for 44 seconds without any TCAS RA following. Thirteen seconds after this, prescribed traffic separation was lost and after a further four seconds as both aircraft were passing FL 363 and 1.2 nm apart horizontally, the controller instructed the A321 to turn left 30° and the 737 to turn right 30°. Neither aircraft acknowledged these instructions but both turned. Then approximately 20 seconds after the 737 crew had received their turn right instruction and as they were descending though FL 359, a preventive TCAS RA was annunciated on their flight deck to ‘Monitor Vertical Speed’ with no climb permitted and lasted 2 seconds. The TCAS TA on the A321 ceased two seconds after the RA on the 737 and ‘Clear of Conflict’ followed on the 737 as the aircraft was passing FL 359. Finally, after a further 16 seconds, the A321 selected vertical speed was corrected from a climb to a descent and after 1 minute 25 seconds, it reached its cleared level of FL 310 with the crew claiming that a “technical problem” was the reason for their altitude deviation.
+With the assistance of a simulation run using the EUROCONTROL InCAS system, it was concluded that the minimum 1.2 nm horizontal separation between the two aircraft had been just outside the 1.1 nm miss distance threshold used by TCAS and the fact that an RA was generated on the 737 but not on the A321 could be attributed to this closeness, given that each TCAS unit determines the geometry of a potential conflict using its own rather than shared surveillance data.
+It was found that the A321 First Officer had been PF and that the Captain had been temporarily absent from the flight deck when the instruction to descend to FL 310 had been given. He had correctly set the selected altitude to 31,000 and initially (correctly) selected OPDES mode but had then immediately selected SVS (Selected Vertical Speed) Mode instead and followed that by setting a 1,500 fpm rate of climb in place of descent. He had then apparently not noticed the resulting pitch change from 1.4° (cruise) to 4.2° (climb). Only when the Captain returned to the flight deck after the two aircraft had passed their minimum (same level) separation was corrective action taken and the descent to FL310 implemented.
+In respect of the Controller’s instruction to the 737 to begin descent from FL 370 after the STCA activation which had increased the risk of conflict with the A321, it was found having observed the correct selected altitude from the A321, he had then proceeded to deal with other traffic. He had only realised that a conflict was developing somewhere when the STCA had activated and had assumed at that point that the A321 was descending as cleared – an error described by the Investigation as “expectation bias”. When subsequently recognising what was actually happening, he had responded with turn instructions to both aircraft to increase their track separation, albeit with no effect until after the aircraft had already passed their point of closest proximity. It was noted that contrary to normal R/T procedure, neither the 737 nor the A321 had responded to ATC instructions during the conflict and that the 737 had only reported its TCAS RA after receiving the ‘Clear of Conflict’ message.
+The Main Cause of the conflict was found to be the "crew violation of the autopilot vertical speed selection process technology of the A321 aircraft which resulted in it climbing instead of descending in accordance with the accepted clearance”.
+A Contributory Factor was identified as “a state of Expectation Bias affecting the Radar Controller that led to the issuing of a descent clearance to the B738 at the same time as the A321 had started to climb contrary to its previously issued and acknowledged clearance for descent in the presence of a Mode ‘S’ selected altitude indication showing FL 310 as having been selected by the A321 crew”.
+Four Safety Recommendations were made as a result of the Investigation as follows:
+
+that the Bulgarian Air Traffic Services Authority (BULATSA) shall carry out a workshop with ATCOs from the ACC-Sofia, which will discuss the causes and conclusions related to ATS as addressed in the Final Report on the event Investigation. A record of proceedings on the conduct of the workshop shall be drawn up and submitted to the Aircraft, Maritime and Railway Accident Investigation Unit Directorate with the Ministry of Transport, Information Technology and Communications. [BG.SIA-2016/06/01]
+that the Bulgarian Air Traffic Services Authority (BULATSA) should incorporate in the program for periodic training of ATCOs simulator exercise scenarios which cover the issue of instructions and recommendations from ATCOs to prevent collision between the aircraft following a STCA warning regardless of the reason for its generation. [BG.SIA-2016/06/02]
+that Atlasjet should include additional theoretical and practical training on the actions for setting the vertical speed of the autopilot in the recurrent simulator training program. [BG.SIA-2016/06/03]
+that Atlasjet should include additional training in Crew Resource Management to improve flight crew interaction in situations that imperil the flight safety. [BG.SIA-2016/06/04]
+
+The Final Report was released on 22 December 2017.
+Related Articles
+
+Loss of Separation
+ATC Expectation Bias
+Crew Resource Management
+Airborne Collision Avoidance System (ACAS)
+ACAS Resolution and Traffic Advisories
+Short Term Conflict Alert (STCA)
+Mode S

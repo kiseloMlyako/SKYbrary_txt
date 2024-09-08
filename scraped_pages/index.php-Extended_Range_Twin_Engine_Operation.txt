@@ -1,0 +1,196 @@
+Extended Range Operations
+
+
+
+
+
+
+
+
+
+
+
+  Extended Range Operations
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EXTENDED DIVERSION TIME OPERATIONS (EDTO)
+The Regulatory Context
+ICAO Requirements for Extended Range Twin-engine Operations (ETOPS) have been in place since 1985, when they were introduced to apply an overall level of operational safety for twin-engined aeroplanes which was consistent with that of the modern three and four-engined aeroplanes then flying, to which no restrictions were applied. As aeroplane reliability and range improved, it became clear that all multi turbine-engined aircraft were pushing the boundaries of flight away from nearby alternates to increasingly distant ones and a review of the existing arrangements for ETOPS began.
+After many years of discussion about how to broaden the facilitation of international flights for all large transport aeroplanes which necessitated tracks with no close-by diversion aerodromes (or could be more efficiently routed with the use of these tracks), led in 2012 to changes to ICAO Annex 6 Part 1 under Amendment 36. This introduced the Extended Diversion Time Operations (EDTO) regime in place of ETOPS. However since then, although the EDTO regime has been widely accepted, the term EDTO has not been universally adopted the continued use of ETOPS is explicitly allowed for in Annex 6 provided that EDTO concepts "are correctly embodied in the concerned regulation or documentation". Given this flexibility, the term 'ETOPS' has been retained by the FAA and others by redefining it as an abbreviation for 'ExTended range OPerationS' rather than as previously 'Extended range Twin OPerationS'. EASA currently continues to use ETOPS as originally defined and the abbreviation 'LROPS' (Long Range OPerationS) for extended range operation by three and four-engined aircraft.
+The new ICAO guidance
+Annex 6, and particularly Attachment D to that Annex, now contains guidance on extended range operations for all turbine-engined aeroplanes which are conducted beyond 60 minutes from a point where it is possible to fly to an en-route alternate aerodrome. The main change is that a distinction is drawn between such operations which do not exceed an established 'Threshold Time' defined as "the  range,  expressed in  time, established  by  the  State  of  the  Operator  to  an  en-route alternate aerodrome, whereby any time beyond it requires an EDTO approval from that State". ICAO uses the flying time at the one engine out speed in ISA and Still Air to convert Threshold Time to distance for aeroplanes with two engines but the all engines operating speed in ISA and Still Air for the same conversion for aeroplanes with more than two engines. However, note that the FAA uses the one engine out speed as the basis for all aeroplane type EDTO approvals.
+Non-EDTO flights are expected, without any detailed specification, to be subject to flight planning principles which are additional to those for 'normal' operations in respect of:
+
+Operational control and dispatch procedures
+The identification of alternate aerodromes
+The provision of comprehensive and current information on aerodromes to be used as alternates
+The assurance to the extent possible for twin-engined aeroplanes only that an aerodrome will be available if its use as an alternate becomes necessary
+The inclusion of appropriate content in relevant personnel training programmes.
+
+EDTO flights are subject to a process of explicit approval which, as with the former Extended Range Twin Operations system, has both aeroplane type design and aeroplane operational requirements. System Safety in EDTO Extended Range Operations is based, as it was in the case of the original ETOPS concept, on two fundamental principles:
+
+Precluding the need for an en-route diversion by designing reliable aeroplane engines and critical systems and then implementing specific maintenance precautions prior to dispatch.
+Protecting any en-route diversion which might become necessary by implementing, at the design level, system reliability which is able to facilitate a safe diversion and then having operational systems in place which will ensure that aeroplane management during a diversion secures the completion of such a diversion.
+
+These principles are satisfied as previously by:
+
+An Aeroplane Type Design Assessment of the airframe/engine combination to ensure that the likely continued airworthiness of an aircraft used in such operation is compatible with the extended range operations which it is permitted to fly. This must be approved/validated by the Type Design Authority.
+An Operational Safety Approval for each airline which wishes to use aeroplanes they operate on EDTO to ensure that the way in which those operations are conducted is appropriate. This is issued by the State of the Operator.
+
+Although the first of these principles is founded on the reliability of the aeroplane engines, other considerations such as cargo compartment fire suppression and/or containment capability are also important as are the reliability / redundancy associated with systems other than those directly related to propulsion such as the integrity / reliability of the pressurisation system. The second principle requires the existence of an operational process which manages the risk involved in EDTO so that it is no greater than the risk of any other flight.
+Maximum Diversion Time under EDTO
+Each EDTO Type Design or Operational Approval introduces the concept of Maximum Diversion Time so that an approved authorised area of operations can be defined. Type Design requirements have been amplified so that when the Maximum Diversion Time exceeds 180 minutes at one engine out speed in ISA and Still Air, the world fleet In-Flight Shut Down (IFSD) rate for the specific airframe/powerplant combination must be less than 0.01/1000 hours and the capability of time-limited systems, in particular the cargo fire suppression system relative to a maximum diversion at the All Engines Operating speed.
+ICAO Annex 6 directs that unless a corresponding specific approval has been granted by the State of the Operator, an aeroplane with two or more turbine engines may not be operated on a route where the diversion time to an en-route alternate aerodrome from any point on the route, calculated in ISA and Still Air conditions at the One-Engine-Inoperative cruise speed for aeroplanes with two turbine engines and at the All Engines Operating cruise speed for aeroplanes with more than two turbine engines, exceeds a threshold time established for such operations by that State.
+EDTO Type Design Assessment
+This must include:
+
+demonstration that the airframe/engine combination is designed to fail-safe (CS-25/FAR Part 25) criteria and documentation of the effects of operation with a failed engine.
+validation of an appropriate fuel management system, independent AC electrical power sources and satisfactory cargo fire protection and equipment cooling systems.
+an analysis of the consequences of system/component failure.
+the identification of time-limited systems - typically that for cargo fire suppression.
+the in-service experience (world fleet)
+a manufacturer validation flight test
+
+The submission to the Type Design Authority must be in the form of an 'EDTO-Configuration,  Maintenance  and Procedures (CMP)  Document'  which must contain "the particular  aeroplane  configuration minimum requirements, including any special inspection, hardware life  limits, MEL constraints  and  maintenance practices found  necessary to  establish  the  suitability  of  an  airframe-engine combination for EDTO". Whilst each derivative of an aeroplane type variant requires explicit approval, Type Design Approval does not depend on in-service experience and recently-introduced aeroplane types have achieved EDTO qualification prior to initial entry into service.
+The EDTO Operational Approval Process
+An applicant for EDTO Operational Approval must apply in the manner specified by the State of the Operator. The type of approval process which is then followed will depend on whether the applicant has direct in-service experience with the candidate aircraft, for example one year of non-EDTO operations for a 120 minute twin engine approval or one year of 120 minutes EDTO operations for a 180 minute twin engine approval, or not. With such experience, the 'In-service' (formerly called 'Conventional)' track is followed to develop a simplified Approval Plan but if an applicant is unable to demonstrate such prior experience then the longer 'Accelerated EDTO' approval track will apply.
+Any applicant will be expected to:
+
+Define the EDTO routes that will be covered by application.
+For the aeroplane type to be used, establish EDTO maintenance procedures (including but not limited to appropriate engine condition, IFSD and oil consumption monitoring and validation of APU start reliability).
+For each proposed route, establish a list of adequate en-route alternate airports (requirements include but are not limited to the availability of at least one approach aid and a minimum [and Fire Fighting Category] of 4.
+Determine the EDTO diversion time required and the EDTO engine inoperative planning speed.
+Establish the required EDTO Area of Operations.
+Establish a system for obtaining EDTO flight plan data i.e. EDTO en-route alternates, equal time points, the critical fuel scenario and time limited systems.
+Make arrangements to obtain weather data for EDTO en-route alternates.
+Ensure there is a reliable method of communication between the aeroplane and the airline during the flight.
+Review the EDTO provisions in the approved MMEL in order to establish the airline MEL for EDTO.
+Establish a method of checking the in-flight start reliability of the APU.
+Designate an EDTO Check Pilot.
+Establish and fully document airline operating procedures for EDTO in EDTO Procedures Manuals for both Flight Operations and Maintenance processes.
+Expand normal flight crew and aeroplane maintenance guidance material to include EDTO practices and procedures.
+Establish appropriate EDTO training procedures for line maintenance and flight operations ground staff and for flight crew.
+
+Before issuing an EDTO approval, a State must normally ensure that the maximum diversion time for the operator of a particular aeroplane type does not exceed the most limiting EDTO-significant-system time limitation which is relevant to that particular operation and identified in the AFM (directly or by reference) is not exceeded and, in the case of aeroplanes with two turbine engines only, that the aeroplane type involved is EDTO certified. However, if a specific safety risk assessment conducted by the aeroplane operator has demonstrated to the satisfaction of the State that an equivalent level of safety can be maintained during operations beyond the time limits of the most time-limited system, then there is discretion to approve such an operation. The specific safety risk assessment required to allow this exceptional EDTO approval to be granted must:
+
+describe the capabilities of the operator
+provide data which demonstrates the overall reliability of the aeroplane
+assess the reliability of each time-limited system
+provide relevant information from the aeroplane manufacturer
+detail any specific mitigation measures
+
+ 
+
+A representation of the EDTO regulatory regime (Source ICAO)
+Any EDTO approval issued by a State must also reference the need for compliance with the EDTO critical fuel scenario established by the State and any flight conducted under an EDTO approval must not continue beyond the specified Threshold Time until the identified alternates have been re-evaluated for their continued availability and current information indicates that, during the period of time when their use might be required, the prevailing conditions at those aerodromes will not be less than the applicable aerodrome operating minima. If this is not the case, then an alternative course of action, which does not involve exceeding the applicable Threshold Time must be determined.
+Approvals for aeroplanes with two turbine engines are also required to take into account the following when determining if such an approval will provide the overall level of safety for any flight intended by the provisions of ICAO Annex 8 in respect of:
+
+the reliability of the propulsion system
+the airworthiness certification of the aeroplane type
+the EDTO-specific maintenance programme
+
+Continuing Surveillance of EDTO-relevant operating experience
+The continued applicability of EDTO approvals depends on the reporting of any EDTO Relevant Event - defined as "any system malfunction, degradation or other in-flight event that requires the crew to make a decision whether to turn back, divert or continue under an increased level of alertness". It is understood that the majority of these events occur because of non-technical circumstances such as adverse weather, passenger medical issues, flight or ground personnel error and bird strikes. However, awareness of technical events allows oversight of continued airworthiness by both aeroplane manufacturers and their primary certifying authorities so that any necessary corrective actions can be and are promptly identified and implemented.
+ETOPS Grandfather Rights
+ICAO SARPs include a specific Recommendation that State ETOPS approvals issued prior to 25 March 1986 which permitted operations beyond the Threshold Time since established for such operations "should give consideration to permitting such an operation to continue on that route after that date".
+Further Reading
+
+ICAO Annex 6 Operation of Aircraft Part 1 International Commercial Air Transport - Aeroplanes Chapter 4 Section 4.7
+Attachment D to ICAO Annex 6 'Guidance for operations by turbine-engined aeroplanes beyond 60 minutes to an en-route alternate aerodrome including Extended Diversion Time Operations (EDTO)'. Note that this Attachment will be re-designated Attachment B with effect from an amendment to the Annex which will be effective from 5 November 2020 but its content will not change.
+The Draft of the ICAO "Extended Diversion Time Operations Handbook", (2014) which has not since been updated or formally published.
+ICAO Doc 9760 "Airworthiness Manual"
+ICAO Doc 9976 "Flight Planning and Fuel Management Manual"
+FAA AC 120-42B 'Extended Range Operations (ETOPS and Polar Operations), (2008)
+EASA AMC 20-6 revision 2 (2010)
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

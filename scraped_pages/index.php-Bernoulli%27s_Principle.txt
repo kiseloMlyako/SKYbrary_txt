@@ -1,0 +1,124 @@
+Bernoulli's Principle
+
+
+
+
+
+
+
+
+
+
+
+  Bernoulli's Principle
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Theory of Flight 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+In fluid dynamics, Bernoulli's principle states that an increase in the speed of a fluid occurs simultaneously with a decrease in pressure or a decrease in the fluid's potential energy. The principle is named after Daniel Bernoulli, a swiss mathemetician, who published it in 1738 in his book Hydrodynamics.
+A practical application of Bernoulli’s Principle is the venturi tube. The venturi tube has an air inlet that narrows to a throat (constricted point) and an outlet section that increases in diameter toward the rear. The diameter of the outlet is the same as that of the inlet. The mass of air entering the tube must exactly equal the mass exiting the tube. At the constriction, the speed must increase to allow the same amount of air to pass in the same amount of time as in all other parts of the tube. When the air speeds up, the pressure also decreases. Past the constriction, the airflow slows and the pressure increases.
+Applications in Aviation
+Bernoulli's principle can be used to calculate the lift force on an aerofoil, if the behaviour of the fluid flow in the vicinity of the foil is known. For example, if the air flowing past the top surface of an aircraft wing is moving faster than the air flowing past the bottom surface, then Bernoulli's principle implies that the pressure on the surfaces of the wing will be lower above than below. This pressure difference results in an upwards lifting force. Whenever the distribution of speed past the top and bottom surfaces of a wing is known, the lift forces can be calculated (to a good approximation) using Bernoulli's equations.
+
+Figure 1 illustrates a typical aerofoil cross-section for low-speed flight.
+The pitot tube and static port on an aircraft are used to determine the airspeed of the aircraft. These two devices are connected to the Air Speed Indicator, which determines the dynamic pressure of the airflow past the aircraft. Dynamic pressure is the difference between stagnation pressure and static pressure. Bernoulli's principle is used to calibrate the airspeed indicator so that it displays the indicated airspeed appropriate to the dynamic pressure.
+Related Articles
+
+Pitot Static System
+Air Speed Indicator
+Piston Engine Induction Icing
+
+Further Reading
+
+Pilot’s Handbook of Aeronautical Knowledge, FAA-H-8083-25B, FAA, 2016 - Chapter 4, Principles of Flight, 4-6.
+
+
+
+
+
+Categories
+
+
+Theory of Flight
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

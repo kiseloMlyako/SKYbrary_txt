@@ -1,0 +1,165 @@
+Aerodrome Traffic Circuit
+
+
+
+
+
+
+
+
+
+
+
+  Aerodrome Traffic Circuit
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+The specified path to be flown by aircraft operating in the vicinity of an aerodrome.
+Source: ICAO Doc 4444 PANS-ATM
+Description
+The aerodrome traffic circuit consists of five segments and four turns (see picture below). While not explicitly stated in the definition, it is normally used by aircraft flying under VFR or conducting visual approaches or departures. The two main features definig the circuit are the runway and the turn direction. With respect to the latter, circuits can be "left hand" (all turns are made to the left) or "right hand" (right turns only).
+
+An example of a left-hand aerodrome traffic circuit for runway 09.
+The names of some segments (upwind, crosswind and downwind) are derived from the fact that aircraft normally take off and land into the wind. The upwind leg is sometimes called "departure" as this is the path of an aircraft after becoming airborne. The downwind leg is the segment when the aircraft is flying parallel to the runway but in the opposite direction of landing. The length of the downwind leg may vary, depending on the circumstances. For example, the controller may instruct a pilot to extend in order to achieve the necessary spacing between aircraft. The "base" leg is the phase of flight where the aircraft turns at a right angle from the downwind to head towards the final leg. It serves similar purpose to the base turn, being between the outbound track and the final approach track, hence the name. The differences between the two is that (a) one is a turn and the other is a straight portion of the flight and (b) in the "base turn" case the outbound and inbound tracks are not reciprocal while in the traffic circuit they are. Unlike downwind, the base leg cannot be extended. Therefore, controller intervention is limited to the point the aircraft starts the turn onto the base leg. After that moment the distance to touchdown is fixed. The final leg is where the aircraft is lined up with the runway and is getting ready to touch down.
+
+An example of downwind extension. The red aircraft (number 2 for landing) will continue on the downwind leg so that adequate spacing with blue (number 1 for landing) is achieved.
+The aerodrome traffic circuit is used in a variety of ways:
+
+Traffic management. Once an aircraft enters the aerodrome traffic circuit its future behabiour is determined to a great extent. This is useful for both controlled and uncontrolled aerodromes as it allows all parties involved to easily maintain situational awareness. Consequently, traffic is sequenced safely and efficiently.
+Pilot training. The circuit can be used to repeatedly perform a number of take-offs and approaches (terminating with landings, go-arounds, touch-and-goes or stop-and-goes) in similar conditions within a short period of time thereby focusing on the initial and final parts of the flight. The benefit is that the climb, cruise and descent pahses are skipped and the training may focus on the more complex tasks,
+Navaid testing and certification. Sometimes test flights need to be carried out to adjust aerodrome navaids (e.g. ILS, VOR, etc.) or to confirm they are working properly.
+Test flights. These are similar to the previous but now the airborne equipment is being tested and adjusted. Such flights are often made with prototype aircraft or after maintenance.
+
+Restrictions
+The aerodrome traffic circuit may be subject to various restrictions, e.g.:
+
+A default turn direction may be chosen (either left or right) in the interest of uniformity. This means that if the opposite runway is used for take offs and landings, the active side will become non-active and vice-versa.
+The active side may be fixed due to e.g. noise abatement, terrain, control tower visibility or nearby aerodrome considerations, with exceptions being possible for certain traffic (e.g. light aircraft, VFR flights, etc.)
+Level restrictions for joining or flying the circuit (e.g. join at specific level, fly at or below (or above) a defined level, etc.). Altitudes or heights may be used for this purpose.
+The maximum number of aircraft in the circuit. This may be subject to other considerations as well (e.g. only one aircraft is allowed at night times).
+Different circuits may be specified for different aircraft (e.g. helicopters, light GA aircraft, etc.).
+Joining and leaving the circuits may be restricted to specific points.
+
+The circuit may or may not be defined in the AIP. In the former case, the information will be in the specific aerodrome section of the AD part. The definition is similar to an SID or STAR - manoeuvres, target levels, turning points and other restrictions are specified.
+
+An example of an aerodrome traffic circuit (EBKT, RWY 24) defined in the AIP. Three circuits are defined for different aircraft types (helicopters, light aircraft and others).
+If the circuit is not published, the relevant terms can still be used but the aircraft position would be determined less accurately. Depending on the aerodrome, this can be sufficient for safe and orderly operaions. Additionally, the controller may specify restrictions regarding some (or all) parts of the circuit, e.g. the moment of turn commencement, the level to be flown, etc. Naturally, such instructions need to be feasible, otherwise they may lead to undesired results. For example, a premature turn to the base leg may lead to the aircraft being too high or joining the final too close to the threshold which could result in a go-around.
+Phraseology
+
+Pilot reporting the aircraft position: PRE0365, downwind or PRE0365, turning base. The controller may request such reports in order to maintain situational awareness, e.g. PRE0365, report final.
+Controller instruction for circuit joining: REK1453, join downwind runway 18 or REK1453, join right hand downwind runway 18
+
+Note: When the traffic circuit is in a right-hand pattern this should be specified. A left-hand pattern need not be specified although it may be advisable to do so if there has been a recent change where the circuit direction is variable.
+
+Controller issuing instruction for spacing: EKR078, extend downwind, number two, follow piper on base
+
+Local Peculiarities
+In the US, the term "traffic pattern" is used.
+In the UK, the active side of the circuit is referred to as the "live side", and the non-active side as the "dead side".
+In Australia, all turns are made to the left unless otherwise specified (e.g. in the AIPs or by visual signals).
+In Russia, the circuit is defined by the turns rather than the legs. For example, an aircraft on the downwind is described as being "(in the segment) between the second and the third turn".
+
+Numbering the turns in an aerodrome traffic circuit
+Related Articles
+
+Aerodrome Traffic Zone (ATZ)
+Visual Approach
+Circling Approach
+Instrument Approach Procedure (IAP)
+
+Further Reading
+
+ICAO Doc 4444 PANS-ATM
+ICAO Doc 9432 Manual of Radiotelephony
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

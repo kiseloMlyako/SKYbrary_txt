@@ -1,0 +1,234 @@
+Sleep Log
+
+
+
+
+
+
+
+
+
+
+
+  Sleep Log
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Each simulation participant is issued with a booklet, in which each page corresponds to a day of the simulation. The controller records each day the time he went to bed, the time (approximately) that he fell asleep, his states of fatigue and sleepiness on going to bed and rising.
+Discussion/References
+In co-operation with the Laboratoire d’Anthropologie Appliquée of the University of Paris V –René Descartes, (LAA) EEC has carried out an extensive series of trials using a TRACON II autonomous simulator, (Cabon et al 1997, 1998, 2000) followed by the transfer of the more promising methods to real-time simulation (Cabon et al 1999a, 1999b).
+The LAA has developed a standard form for the recording of sleep patterns, which appears in EEC Report 323 as Annex 1 on page 57. This (bilingual) form is in three sections. The first, to be filled in on going to bed, asks for the time of going to bed and for a self-assessment of fatigue (on a linear (Lickert) scale for Sleepiness (Awake/Drowsy) and Fatigue (Tired/Fresh). (Although these states are linked, they are not identical).
+The second segment, to be filled in in the morning, asks for the time at which the participant fell asleep, the time he or she woke, and the time he or she got up, with a repeat of the sleepiness and fatigue questions.
+The third segment, also filled in the morning, asks the reason for waking (natural, planned, disturbance, other), if the participant has taken any sleeping medicament, if they woke during the night, and, if so, when.
+During real time simulations, which may cover several weeks, controllers are provided with a ‘sleep log’, consisting of pre-dated daily sheets, which they are asked to fill in throughout the simulation, including weekends, and where possible, for a week before and after the simulation.
+(Controllers are surprisingly conscientious about this task, and return rates for the post-exercise period are very high).
+The use of this instrument has shown that some controllers have difficulty in adapting to the situation of a real time simulation, where they work ‘office hours’ instead of shift work. They do not fully recover during weekends (particularly those spent in Paris, with colleagues and without family) and become progressively more fatigued as the simulation proceeds. Since fatigue distorts perceptions of workload, this may become a significant problem.
+
+
+
+
+Categories
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+Generics
+
+
+Type of method
+Subjective
+
+
+Data acquired by asking the controllers.
+
+
+Target of method
+Strain
+
+
+This is a measure of strain, in the general sense.
+
+
+Time Scale of method
+Days
+
+
+Since this measure is taken on a daily basis. It can only register the general state of the controllers as the simulation progresses.
+
+
+Portability of method
+Yes
+
+
+This is a paper and pencil technique which can be applied anywhere.
+
+
+Observer Effect
+No
+
+
+Sleep logs should be treated as confidential data. They should not be examined, and, of course not commented on, in the presence of controllers.
+
+
+Context of studies
+
+
+Laboratory studies
+Use
+
+
+ 
+
+
+Simulation studies
+Use
+
+
+ 
+
+
+Field studies
+Use
+
+
+ 
+
+
+Potential problems with the method
+
+
+Failure risk
+Low
+
+
+The controllers may fail to fill in the sleep log, unless they are reminded. If the log is constructed in a tear-off form, the page for each day may be collected and checked so that controllers who have forgotten to fill it in can be reminded.
+
+
+Bias risk
+High
+
+
+Two forms of bias are possible: 1. Controllers may not wish to admit that they have not gone to bed at a reasonable time - a temptation that is particularly acute in Paris. 2. Most working controllers normally work shifts. During EEC simulations, they work a normal working day. This may affect their sleeping patterns.
+
+
+Ethical problems
+None
+
+
+No ethical problems provided confidentiality is observed.
+
+
+Costs of the method
+
+
+Staff Cost
+Low
+
+
+Usually, only one administrative assistant is needed to distribute and collect sleep logs, and it can be left to the project leader.
+
+
+Set-up Cost
+Low
+
+
+A standard Word processor file can be prepared which will print a sleep-log, adapted to the length and dates of the simulation, and the individuals.
+
+
+Running Cost
+Low
+
+
+Distribution and collection of data requires very little effort.
+
+
+Analysis Cost
+Low
+
+
+Analysis cost is only that of running standard programs.
+
+
+Analysis data
+
+
+Analysis Speed
+Moderate
+
+
+Standard statistical programs, after a preliminary data preparation phase.
+
+
+Data Automation
+Easy
+
+
+It might be possible to devise a machine-readable form for data recording.
+
+
+Analysis Automation
+Yes
+
+
+Most data analysis is more or less automatised in the current circumstances.
+
+
+Status
+Tested
+
+
+The use of sleep logs has been explored at EEC, and initial results were reported in an EEC report.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

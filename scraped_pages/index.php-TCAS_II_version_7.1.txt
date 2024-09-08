@@ -1,0 +1,147 @@
+TCAS II version 7.1
+
+
+
+
+
+
+
+
+
+
+
+  TCAS II version 7.1
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Nets 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+History
+The development of TCAS II version 7.1 was initiated by EUROCONTROL following the discovery of two safety issues with the current TCAS II version. Development was undertaken jointly by the RTCA (Radio Technical Commission for Aeronautics) in the United States and by European Organisation for Civil Aviation Equipment (EUROCAE) (European Organisation for Civil Aviation Equipment) in Europe with support and contributions from several other organizations, including major airlines and air navigation service providers (ANSPs).
+During a joint session in March 2008, the RTCA SC (Special Committee) 147 and EUROCAE WG (Working Group) 75 agreed on the final version of the TCAS II MOPS, to be known as TCAS II version 7.1. The MOPS were approved the RTCA Program Management Committee in June 2008 (document DO-185B) and by the EUROCAE Council in September 2008 (document ED-143).
+The MOPS were revised following the identification by EUROCONTROL of two safety issues in the existing TCAS logic (one relating to the performance of the RA-reversal logic, and the other involving incorrect responses to Adjust Vertical Speed RAs).
+Currently, TCAS II version 7.1 is mandated in European airspace (other TCAS II version fall outside the mandate).
+Version 7.0 safety issues
+Since its introduction in Europe in 2000, TCAS II version 7.0 has been the subject of monitoring. In the course of analysing recorded and reported events, many cases were found in which pilots did not respond correctly to the “Adjust vertical speed, adjust” Resolution Advisories (RAs) – the vertical rate was increased rather than reduced.
+Additionally, there have also been a number of cases in which TCAS II version 7.0 failed to reverse an RA when two converging aircraft remained within 100 feet. This type scenario would be occur when one aircraft is not following the RA or is not TCAS II equipped and follows an ATC instruction or performs an avoidance manoeuvre based on visual acquisition.
+Version 7.1 solution – new “Level off, level off” RA
+To prevent incorrect pilot responses, in version 7.0 the “Adjust vertical speed, adjust” RAs has been replaced by a new “Level off, level off” RA which requires a reduction of vertical rate to 0 ft/min. The level off is to be achieved promptly, not at the next standard flight level (e.g. FL200, FL210, etc.).
+The “Level off, level off” RA may be issued as an initial RA or as a weakening RA when the vertical distance between the aircraft increases.
+Additionally, the “Level off, level off” RA will minimise the altitude deviations induced by TCAS (level busts while “flying the green arc”), thus reducing the impact on ATC operations.
+ 
+
+TCAS differences: ver 7.1 vs ver 7.0
+Version 7.1 solution – improved reversal logic
+A feature has been added to the TCAS II version 7.1 logic which monitors RA compliance in coordinated encounters (i.e. when both aircraft are TCAS II equipped). When it is detected that an aircraft is not responding correctly to an RA, a reversal RA will be issued to the aircraft which manoeuvres in accordance with the RA. In single equipage encounters (i.e. when only one aircraft is TCAS II equipped), version 7.1 will recognise the situation and will issue a reversal if the unequipped threat aircraft moves in the same vertical direction as the TCAS II equipped aircraft.
+Although the reversal logic change is transparent to flight crews, it will, nevertheless, bring significant safety improvements.
+
+TCAS 7.1 Reversal Logic
+Related Articles
+
+Airborne Collision Avoidance System (ACAS)
+ACAS Regulation and Procedures
+ACAS Training
+ACAS: Guidance for Controllers
+ACAS Bulletin - EUROCONTROL
+
+Further Reading
+
+Commission Regulation (EU) No 1332/2011 of 16 December 2011 laying down common airspace usage requirements and operating procedures for airborne collision avoidance subsequently amended by Regulation 2016/583
+
+
+EUROCONTROL ACAS Bulletin no. 14
+Introduction to TCAS II Version 7.1, FAA, February 2011
+Overview of ACAS II - (incorporating version 7.1), Version 3.0 – 12 January 2012
+ACAS Guide - Airborne Collision Avoidance Systems, December 2017
+TCAS version 7.1 for pilots
+TCAS version 7.1 for controllers
+Performance assessment of pilot compliance to Traffic Alert and Collision Avoidance System (TCAS) using Flight Data Monitoring (FDM) - IATA Guidance Material, Edition 2
+
+
+
+
+
+Categories
+
+
+Safety Nets
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,242 @@
+Voice Stress Analysis
+
+
+
+
+
+
+
+
+
+
+
+  Voice Stress Analysis
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Some simulators make voice recordings of all communications channels. Normally these are used only to measure the quantity of speech occurring on particular lines as a measure of the workload of the controller. (The amount of time that a line is open is not the same as the time for which there is speech on it).
+Discussion/References
+Voice Stress Analysis was investigated by the then RAE Farnborough some years ago, although the study program was eventually dropped. Some other studies also suggest possibilities in this field, although others have produced no significant results - possibly through lack of adequate technology at that time.
+
+Peckham J.B., The Recording And Preliminary Analysis of a Data Base for Assessment of 'Strain' In Air Traffic Controllers, Using Speech, R.A.E., June 1980.
+
+Abstract: 'A data base of Air Traffic Controllers' verbal communications during periods of high and low activity was tape recorded during the Farnborough International airshow in 1978. A description of the data base is given together with the activity measures used. The data base was obtained to provide a means of testing the hypothesis that the speech signal can be used to assess 'strain' or the effects of increasing stress in work. Preliminary statistical analysis of the voice pitch of one of the controllers shows that periods of high and low activity may readily be discriminated using several 20 second segments of voiced speech.'
+Comment: Used the most stressed controller there were equipment problems and the analyser could cope with only 20 seconds minimum of speech so short communications were excluded. Mean pitch rose from 154 to 179 hertz, with a decrease in mean absolute deviation around the sample mean.
+
+Peckham J.B., A Device for Tracking the Fundamental Frequency of Speech and its Application in the Assessment of 'Strain' in Pilots and Air Traffic Controllers, HMSO London, May 1979.
+
+Abstract: 'The use of the speech signal for assessing physiological and psychological changes resulting from 'strain' in pilots and air traffic controllers is explained and a device is described for tracking one of the parameters of the speech signal, the fundamental frequency, to quantify changes in this parameter due to strain.'
+Comment: technical description etc for tracking filter system etc.
+
+Chambers N.C., Brakefield J.C., Yahiel D.I. and Fulgham D.D., Stress Assessment through Voice Analysis, Sep 1983, 47pp.
+
+Abstract: An attempt was made to assess emotional stress through voice analysis. The involuntary vocal musculature microtremor, which has been reported in some literature as correlated with stress, was chosen as the variable for analysis. An autocorrelation technique was developed using a CD&A array processor installed in a DEC PDP11/34 computer. Although the technique isolated frequency modulation (FM) the microtremor was not identified, primarily due to excessive noise in the 5 - 15 Hz band.
+Comment: Voice recordings of two pilots and one controller in bad weather. Failure apparently due to noise in recordings not audible on listening plus software problems in digitising and possibly analysis. Useful review of previous relevant work.
+
+
+
+
+Categories
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+Generics
+
+
+Type of method
+System
+
+
+Data collected by the system in the normal course of operation.
+
+
+Target of method
+Strain
+
+
+Although Voice Stress analysis is always so called, it is in fact a measure of pure strain
+
+
+Time Scale of method
+Minutes
+
+
+Voice Stress analysis employs Fourier Analysis to analyse the voice communications of the speaker - a certain quantity of speech is necessary to enable the analyser to identify the fundamental frequency of the speaker’s voice.
+
+
+Portability of method
+Yes
+
+
+It ought to be possible to analyse the voice of a controller from a standard recording, or by tapping the communications channels.
+
+
+Observer Effect
+No
+
+
+The controllers are completely unaware of the recordings made by the system, although they must be informed that recordings are being made, as they are in real Air Traffic Control.
+
+
+Context of studies
+
+
+Laboratory studies
+Avoid
+
+
+ 
+
+
+Simulation studies
+Avoid
+
+
+ 
+
+
+Field studies
+Avoid
+
+
+ 
+
+
+Potential problems with the method
+
+
+Failure risk
+High
+
+
+To date, although some promising effects have been reported, it has not been possible to reproduce these at EEC.
+
+
+Bias risk
+High
+
+
+We do not at present have a system which enables us to show that voice stress analysis is not affected by factors unrelated to stress, such as ambient noise, or traditional methods of voice communication over poor-quality links. The traditional training of the controller not to show emotion in crises may eliminate the ‘strain’ frequencies believed to occur, although it may be that they are not audible, or subject to conscious control.
+
+
+Ethical problems
+None
+
+
+It is accepted that recordings are made as measures of the system performance, not of the controllers.
+
+
+Costs of the method
+
+
+Staff Cost
+High
+
+
+Voice Stress analysis is not available as a routine analysis.
+High level technical and probably physiologically trained staff are currently required.
+
+
+
+Set-up Cost
+Low
+
+
+Once the technique is developed, this technique can be prepared in standard form before the simulation.
+
+
+Running Cost
+Low
+
+
+Most analyses are run for each simulation exercise as a matter of routine.
+
+
+Analysis Cost
+Low
+
+
+Standard programs are used to analyse standard forms of recording. No specific programming is usually required. (The initial cost of constructing the programs was relatively high).
+
+
+Analysis data
+
+
+Analysis Speed
+Fast
+
+
+Analysis programs can be run as soon as the simulation run is completed. Specialised analysis programs may require extra time or effort.
+
+
+Data Automation
+Used
+
+
+Manual data collection on the detailed function of the system is practically impossible, given the volume of data generated.
+
+
+Analysis Automation
+Used
+
+
+Manual analysis of data is technically possible, but very rare. Normally, only standard analysis programs are used.
+
+
+Status
+Dubious
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

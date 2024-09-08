@@ -1,0 +1,435 @@
+Automated Cockpit Guidelines (OGHFA BN)
+
+
+
+
+
+
+
+
+
+
+
+  Automated Cockpit Guidelines (OGHFA BN)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+OGHFA 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ Flight Safety Foundation
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+This briefing note discusses how to improve training for interfacing with automation. It is important for every pilot to understand automation in modern glass-cockpit aircraft and how to interface with it. Understanding automation is an essential personal quality that can influence safety; each of its elements is vital to safe and efficient flying.
+Optimum use of automation requires the integrated and coordinated use of the following systems:
+
+Autopilot/flight director (AP/FD)
+Autothrottle/autothrust (A/THR)
+Flight management system (FMS)
+
+Higher levels of automation provide flight crews with an increasing number of options and strategies to choose for the task to be accomplished — for example, complying with air traffic control (ATC) requirements.
+The applicable flight crew operating manual (FCOM) or aircraft operating manual (AOM) provides specific information and operational recommendations for each aircraft type.
+Data
+Errors in using and managing automatic flight systems and the lack of awareness of the operating modes are causal factors in more than 20 percent of approach and landing accidents (Flight Safety Foundation, 1998-1999).
+AP-A/THR Integration
+Integrated AP-A/THR systems feature a pairing of AP pitch modes (elevator control) and A/THR modes (throttle levers/thrust control).
+An integrated AP-A/THR operates in the same way as a human pilot:
+
+The elevator is used to control pitch attitude, airspeed, vertical speed, altitude, flight path angle and vertical navigation profile, or to capture and track a glideslope.
+Throttles/thrust levers are used to maintain a given thrust or airspeed.
+
+Throughout the flight, the pilot’s objective is to fly:
+
+Performance segments (e.g., takeoff, climb ordescent) at constant thrust or at idle; or,
+Trajectory segments (e.g., cruise or approach) at constant speed
+
+Depending on the task to be accomplished, maintaining the airspeed is assigned either to the AP (elevator) or to the A/THR, as shown in Table 1.
+
+
+
+ 
+A/THR
+AP/FD
+
+
+
+
+ 
+Throttles/thrust levers
+Elevators
+
+
+Performance segment
+Given thrust or idle
+Speed
+
+
+Trajectory segment
+Speed
+Vertical speed
+Altitude
+Vertical profile
+Glideslope
+
+
+
+
+Table 1: AP/FD-A/THR Modes Integration
+ 
+Flight Crew and System Interface
+When performing an action on the flight guidance control panel or the FMS central display unit — or control/display unit (CDU) — to give a command to the automated flight system (AFS), the pilot has an expectation of the aircraft reaction and, therefore, must have in mind the following questions:
+
+What do I want the aircraft to fly now?
+What do I want the aircraft to fly next?
+
+These imply answering the following questions:
+
+Which mode did I engage and which target did I set for the aircraft to fly now?
+Is the aircraft following the intended vertical and horizontal flight path and targets?
+Which mode did I arm and which target did I preset for the aircraft to fly next?
+
+To answer these questions, one must understand the key role of the following controls and displays:
+
+Flight guidance control panel — mode-selection keys, target-setting knobs and display windows
+FMS CDU — keyboard, line-select keys, display pages and messages
+Flight mode annunciator (FMA) on the primary flight display (PFD)
+PFD and navigation display (ND) displays and scales for cross-checking guidance targets
+
+The effective monitoring of these controls and displays increases flight crew awareness of the available guidance for flight path and speed control:
+
+Status of the autoflight system (i.e., modes being engaged or armed); and,
+Active guidance targets
+
+The active monitoring of controls and displays also enables the pilot to predict and anticipate the entire sequence of flight mode annunciations throughout successive flight phases (i.e., throughout mode transitions or mode reversions).
+Operating Philosophy and Golden Rules
+Optimum use of automation requires strict adherence to the aircraft design and operating philosophies and to the following general rules of operation.
+Use the correct level of automation for the task
+On highly automated and integrated aircraft, several levels of automation are available to perform a given task:
+
+FMS-managed modes and guidance; or,
+Non-FMS modes and guidance
+
+The correct level of automation depends on:
+
+The task to be performed, either:
+
+Short-term — tactical choice, short and head-up action on the flight guidance control panel with immediate aircraft response); or,
+Long-term — strategic choice, longer and head-down action on the FMS CDU with longer-term aircraft response
+
+
+The flight phase:
+
+Departure
+En route climb, cruise or descent
+Terminal area
+Approach
+
+
+The time available:
+
+Normal selection or entry; or,
+Last-minute change
+
+
+
+The correct level of automation often is the one the pilot feels comfortable with for the task or prevailing conditions, depending on his or her knowledge and experience of the aircraft and systems.
+Reversion to hand flying and manual thrust control actually may be the correct level of automation, depending on the prevailing conditions.
+FMS or non-FMS guidance can be used in succession or in combination (e.g., FMS lateral guidance together with non-FMS vertical guidance) as best suited for the flight phase and prevailing conditions.
+The pilot flying (PF) always retains the authority and capability to select the most appropriate level of automation and guidance for the task, including:
+
+Adopting a more direct level of automation by reverting from FMS-managed guidance to non-FMS guidance such as using the AP/FD-A/THR control panel for mode selection and target entry
+Selecting a more appropriate lateral or vertical mode; or,
+Reverting to hand flying with or without FD guidance and with or without A/THR for direct control of the aircraft
+
+Know your available guidance at all times
+The flight guidance control panel and the FMS CDU are the prime interfaces for the flight crew to communicate with the aircraft systems (i.e., to set targets and arm or engage modes).
+The PFD and ND are the prime interfaces for the aircraft to communicate with the flight crew to confirm that the aircraft systems have correctly accepted the mode selections and target entries:
+
+PFD (FMA, speed scale and altitude scale) — guidance modes, speed and altitude targets; and,
+ND — lateral guidance (heading, track or FMS flight plan)
+
+Any action on the flight guidance control panel or on the FMS keyboard and line-select keys should be confirmed by cross-checking the corresponding annunciation or data on the PFD or ND and on the FMS CDU.
+At all times, the PF and pilot not flying (PNF) should be aware of the status of the guidance modes being armed or engaged and of any mode changeover throughout mode transitions and reversions.
+The use and operation of the AFS must be monitored and supervised at all times by:
+
+Checking and announcing the status of AP/FD modes and A/THR mode on the FMA (i.e., arming or engagement)
+Observing and announcing the result of any target setting or change on the related target symbols on the PFD and ND scales
+Supervising the resulting AP/FD guidance and A/THR operation on the PFD and ND (pitch attitude and bank angle, speed and speed trend, altitude, vertical speed, heading or track)
+
+Be ready and alert to take over, if required
+If doubt exists regarding the aircraft flight path or speed control, no attempt at reprogramming the automated systems should be made.
+A lower level of automation or hand flying with reference to navaid raw data should be used until time and conditions permit reprogramming the AP/FD or FMS.
+If the aircraft does not follow the intended flight path, check the AP and A/THR engagement status.
+If engaged, disconnect the AP and/or A/THR using the associated disconnect push-button to revert to hand flying with FD guidance or with raw data and to manual thrust control.
+If hand flying, the FD commands should be followed; otherwise, the FD bars should be cleared from the display.
+If AP or A/THR operation needs to be overridden following a runaway or hard-over, immediately disconnect the affected system by pressing the associated disconnect push-button.
+Except in emergency situations, AP and A/THR must not be overridden manually.
+Operational and Human Factors Affecting the Optimum Use of Automation
+The following operational and human factors are often observed in incidents and accidents where the use of automation is identified as a causal factor:
+
+Intimidation — noninterference with or late takeover from automation when needed
+Overconfidence/overreliance — excessive delegation
+Complacency — a passive attitude or lack of active supervision
+Inadvertent arming or engagement of an incorrect mode
+Failure to verify the effective arming/engagement on the FMA of the modes armed or engaged
+Selection of an incorrect target such as altitude, speed or heading on the flight guidance control panel and failure to confirm the selected target by cross-checking the related target symbol on the PFD and ND
+Selection of the target altitude to any altitude below the minimum en route altitude (MEA), minimum off-route altitude (MORA), mimumum safe altitude (MSA), approach-segment safe altitude or final approach intercept altitude
+Insertion of an erroneous waypoint
+Arming of the lateral navigation mode with an incorrect “TO” waypoint
+Preoccupation with FMS programming during a critical flight phase, with consequent loss of situational awareness
+Insufficient understanding of mode transitions and mode reversions, mode confusion or an automation surprise
+Inadequate task sharing and/or crew resource management (CRM) practices preventing the PF from monitoring the flight path and airspeed. An example is when both pilots are engaged in the management of automation or in solving an unanticipated situation or abnormal condition
+Engaging the AP with the FD bars being largely off-center, such as after hand flying the aircraft without following FD orders
+Engaging the AP with the aircraft in an out-of-trim condition (conventional aircraft models only)
+Failure to arm the approach mode
+Failure to set the correct final approach course
+Failure to set the correct go-around altitude
+
+Recommendations for Optimum Use of Automation
+Using automation — general
+Correct use of automated systems reduces workload and significantly increases the time and resources available to the flight crew for responding to:
+
+An unanticipated change, such as an ATC instruction or weather conditions
+An abnormal or emergency condition.
+
+During line operations, the AP and A/THR should be engaged, especially in marginal weather conditions or when operating into an unfamiliar airport.
+When operating in good weather and at low-traffic airports, the flight crew can elect to fly the departure or arrival manually to maintain manual flying skills.
+Using AP and A/THR enables the flight crew to pay more attention to ATC communications and to other aircraft, particularly in congested terminal areas and at high-traffic airports.
+Conditions permitting, the AP and A/THR should be used to fly unplanned maneuvers, such as a missed approach, to reduce workload.
+FMS lateral navigation should be used to reduce workload and the risk of controlled flight into terrain (Controlled Flight Into Terrain (CFIT)) during go-around only if:
+
+The applicable missed-approach procedure is in the FMS flight plan
+FMS navigation accuracy has been confirmed, unless the aircraft has global positioning system (Global Positioning System (GPS)) equipment and the GPS availability and performance allow its use for primary lateral navigation
+
+The safe and efficient use and management of AP, A/THR and FMS are based on the following three-step technique:
+
+Anticipate:
+
+Understand system operation and the results of any action
+Be aware of modes being engaged or armed; seek concurrence of the other crewmember, if necessary
+Understand mode transitions or reversions
+
+
+Execute:
+
+Perform actions on flight guidance control panel or on FMS CDU
+
+
+Confirm:
+
+Crosscheck and announce the effective arming or engagement of modes and the correctness of active guidance targets on the FMA, PFD and ND scales and the FMS CDU.
+
+
+
+The optimum use of automation enables the flight crew to stay ahead of the aircraft and be prepared for possible contingencies.
+Engaging automation
+Before engaging the AP, make sure that:
+
+Modes engaged for FD guidance (check FMA annunciations) are correct for the intended flight phase and task; if not, select the appropriate mode(s); and,
+FD command bars do not show large orders. If large commands are given, keep hand flying to center the FD bars before engaging the AP.
+
+Engaging the AP while large commands are required to achieve the intended flight path may result in the AP overshooting the intended vertical or lateral target, and may surprise the pilot due to the resulting large pitch and roll changes and thrust variations.
+Interfacing with automation
+When interfacing with automation for selecting and arming modes and for guidance target entries, adhere to the following rules of use (rules derived from the lessons-learned from the operational and human factors analysis of operational events):
+
+Before any action on the flight guidance control panel, check that the knob or push-button is the correct one for the desired function
+After each action on the flight guidance control panel, verify the result of this action on:
+
+the FMA (i.e., for arming or engagement of modes),
+PFD/ND target symbols (i.e., for selected targets), and,
+by reference to the aircraft flight path and airspeed
+
+
+Announce all changes in accordance with standard calls defined in standard operating procedures (Standard Operating Procedures (SOPs))
+When changing the selected altitude, cross-check the selected altitude indication on the PFD
+
+During descent, ensure that the selected altitude is not below the Minimum En-route Altitude or Minimum Sector Altitude and be aware of the applicable minimum vectoring altitude During final approach, set the go-around altitude; the minimum descent altitude/height (Minimum Descent Altitude/Height) or decision altitude/height (Decision Altitude/Height) should not be set on the flight guidance control panel
+
+Prepare the FMS for arrival before starting the descent
+
+An alternative arrival routing, change in runway or a circling approach can be prepared on the secondary flight plan (“SEC F-PLN” or “RTE 2,” depending on the FMS terminology)
+
+In case of a routing change (e.g., “DIR TO”), cross-check the new “TO” waypoint before activating “DIR TO” to make sure that the intended “TO” waypoint is not already behind the aircraft
+
+Caution is essential during descent in mountainous areas; ensure that the new track and assigned altitude are not below the sector safe altitude
+If you are receiving radar vectors, be aware of the sector minimum vectoring altitude
+If necessary, the selected heading mode can be used with reference to raw navaid data while verifying the new route or requesting confirmation from ATC
+
+Before arming the “NAV” mode, ensure that the correct active “TO” waypoint is displayed on the FMS CDU and ND. If the displayed “TO” waypoint on the ND is not correct, the desired “TO” waypoint can be restored by either clearing an inappropriate intermediate waypoint, or performing a “DIR TO” the desired “TO” waypoint
+
+Monitor the correct interception of the FMS lateral flight plan
+
+In case of a late routing or runway change, a reversion to non-FMS modes and raw data may be done
+
+Reprogramming the FMS during a critical flight phase (e.g., in the terminal area, on final approach or go-around) is not recommended, except to activate the secondary flight plan, if prepared, or for selecting a new approach
+
+Priority tasks are, in order:
+
+Horizontal and vertical flight path control
+Altitude and traffic awareness
+ATC communications
+
+
+If cleared to exit a holding pattern on a radar vector, the holding exit prompt should be pressed (or the holding pattern cleared) to allow the correct sequencing of the FMS flight plan
+Under radar vectors, when intercepting the final approach course in a selected heading or track mode (not in “NAV” mode), the crew should ensure that the FMS flight plan sequences normally by checking that the “TO” waypoint is correct (on ND and FMS CDU)
+
+Ensuring that FMS flight plan sequences correctly with a correct “TO” waypoint is essential in readiness for re-engaging the “NAV” mode, in case of a go-around
+If the FMS flight plan does not sequence correctly, fly raw navaid data until workload conditions allow reprogramming a correct “TO” waypoint (as described above)
+If a correct “TO” waypoint cannot be restored, the “NAV” mode should not be used for the rest of the approach or for go-around
+
+Before arming the “APPR” mode, ensure that the instrument landing system (Instrument Landing System (ILS)) has been correctly tuned and identified, that the aircraft is within the ILS capture envelope with localizer and glideslope deviation symbols correctly displayed and is on a “LOC” intercept heading, and you have been cleared for the approach
+
+Supervising automation
+Supervising automation is simply flying with your eyes, observing cockpit displays and indications to ensure that the aircraft response matches your mode selections and guidance target entries, and that the aircraft attitude, speed and trajectory match your expectations.
+
+During capture phases, observe the progressive centering of FD bars and the progressive centering of deviation symbols during localizer and glideslope capture
+
+Enhancing the supervision of automation during capture phases — and cross-checking with raw data, as applicable — enable the early detection of a false capture or of the capture of an incorrect navigation signal (e.g., ILS in maintenance mode emitting a permanent on-glideslope signal)
+
+Do not attempt to analyze or rectify an anomaly by reprogramming the AFS or FMS until the desired flight path and airspeed are restored
+In case of uncommanded AP disconnection, engage the second AP immediately to reduce the PF’s workload because only dual or multiple failures may affect both APs simultaneously; fly the aircraft manually until it is maintained and re-established on the correct flight path and time allows for troubleshooting and reprogramming
+At any time, if the aircraft does not follow the desired flight path or airspeed, do not hesitate to revert to a more direct level of automation:
+
+Revert from FMS-managed modes to non-FMS modes, or
+Disconnect the AP and follow the FD guidance (if correct), or
+Disengage the FD, select flight path vector (“FPV”) if available, and hand fly the aircraft using raw data or visually, or
+Disengage the A/THR and control the thrust manually
+
+
+
+Key Points
+Optimum use of automation requires the following:
+
+Understanding the integration and pairing of AP/FD and A/THR modes
+Understanding all mode transition and reversion sequences
+Understanding pilot-system interfaces for:
+
+Pilot-to-system communication for mode engagement and target selections
+System-to-pilot feedback for mode and target cross-check
+
+
+Being aware of available guidance (AP/FD and A/THR status, modes armed or engaged, active targets)
+Being alert to adapt the level of automation to the task and circumstances, or to revert to hand flying and manual thrust control, if required
+Adhering to aircraft design and operating philosophies, SOPs and operations golden rules
+
+Associated OGHFA Material
+Related situational example:
+
+Press-on-itis and Inadequate Use of Automation
+
+Briefing Notes:
+
+Discipline
+Adherence to SOPs
+Standards Calls
+Automated Flight Deck Training Guidelines
+
+Visuals:
+
+Operations Golden Rules
+Standard Operating Procedures
+
+Further Situational Examples:
+
+In-Flight Fuel Imbalance Error
+Loss of Control and In-Flight Upset After Loss of Engine Power
+
+Additional Reading Material
+
+Flight Safety Foundation ALAR Toolkit
+International Civil Aviation Organization (ICAO). Annex 6, Operation of Aircraft, Part I - International Commercial Transport - Aeroplanes, Appendix 2, 5.14
+ICAO. Human Factors Training Manual (Doc 9683)
+ICAO. Human Factors Digest No. 5, Operational Implications of Automation in Advanced Technology Flight Decks (Circular 234)
+U.S Federal Aviation Regulations Part 121.579, Minimum altitudes for the use of the autopilot
+
+Related SKYbrary Articles
+
+Flight Safety Foundation ALAR Toolkit
+Human Factors
+
+
+
+
+
+Categories
+
+
+OGHFA,
+              Informational Influences
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

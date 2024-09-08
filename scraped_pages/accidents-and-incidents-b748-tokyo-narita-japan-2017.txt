@@ -1,0 +1,304 @@
+B748, Tokyo Narita Japan, 2017
+
+
+
+
+
+
+
+
+
+
+
+  B748, Tokyo Narita Japan, 2017
+
+
+
+
+
+
+
+
+
+Summary
+
+On 15 July 2017, a Boeing 747-8F close to its maximum takeoff weight only became airborne just before the end of the 2,500 metre-long north runway at Narita after the reduced thrust applicable to the much longer south runway was used for the takeoff and the aircraft cleared the upwind runway threshold by only 16 feet. The Investigation found that the very experienced Captain and the very inexperienced First Officer had both failed to follow elements of the applicable takeoff performance change procedures after the departure runway anticipated during pre-start flight preparations prior to ATC clearance delivery had changed.
+
+
+
+
+Event Details
+
+When
+
+15/07/2017
+
+
+
+Event Type
+
+
+HF,
+              RE
+
+
+
+
+Day/Night
+
+Night
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 747-8
+
+
+
+
+
+
+
+
+
+Operator
+
+Polar Air Cargo Worldwide
+
+
+
+Type of Flight
+
+Public Transport (Cargo)
+
+
+
+Flight Origin
+
+
+
+
+Tokyo Narita Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Shanghai Pudong International
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Take Off
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+RJAA
+
+
+
+
+General
+
+Tag(s)
+
+
+              Copilot less than 500 hours on Type,
+              Use of Erroneous Performance Data,
+              CVR overwritten,
+              PIC aged 60 or over
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Pre Flight Data Input Error,
+              Procedural non compliance
+          
+
+
+
+
+RE
+
+Tag(s)
+
+
+              Reduced Thrust Take Off
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Non-aircraft damage
+
+Yes
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+Yes
+
+
+
+Ditching
+
+Yes
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 15 July 2017, a Boeing 747-8F (N852GT) being operated by Polar Air Cargo Worldwide on a scheduled international cargo flight from Narita to Shanghai Pudong as PO213 only became airborne just before the end of the runway during its night VMC takeoff. The aircraft did not hit any obstructions but came close enough for its jet blast to disable security sensors installed on the extended centreline of the runway.
+Investigation
+After an airport security camera recorded images of the departing aircraft flying low over the area just beyond the end of the departure runway, it was found that some of the intrusion warning sensors in that vicinity had been disconnected. An inspection of the aircraft after landing at Shanghai found that it was undamaged so it was concluded that the sensor damage had been a consequence of jet blast rather than contact. The event was classified as a Serious Incident and an Investigation was carried out by the Japan Transport Safety Board (JTSB). By the time the FDR and CVR could be accessed, data from the flight under investigation had been overwritten so they were not removed. However, relevant data were available from the QAR.
+It was noted that the 60 year-old Captain, who was PF for the takeoff, had a total of 14,896 flying hours including 5,178 hours on type. The 42 year-old First Officer had a total of 13,568 flying hours including 408 hours accumulated after he had completed aircraft type rating and company training requirements three months prior to the investigated event.
+It was established that during on-stand preparations for departure, the Captain, who had often taken off from runway 16R (4000 metres long) in the past and was aware that the aircraft parking position (spot 207, see the illustration below) was considerably closer to runway 16R than to the much shorter runway 16L, had entered into the FMC using the FMS control display unit (CDU) takeoff performance data based on an expected 16R departure. In accordance with normal procedures, takeoff performance data had been provided for both north and south runways at Narita direct from the dispatchers in Company Operations Control via ACARS. The crew were also provided separately with a copy of the ‘Takeoff and Landing Report’ (TLR) as used by the dispatchers to generate takeoff performance data supplied. By design, this TLR indicated a ‘planned runway’ which could be selected by the dispatchers to take account of the weather and the runway availability and conditions in relation to the aircraft type. In this case, the TLR had shown runway 16R as the ‘planned runway’ but only because the system used this runway as the (passive) default choice despite the fact (of which the crew were not aware) that runway 16L would be automatically assigned by ATC for the slot interval during which the departure was scheduled.
+It was noted that the SOP applicable to takeoff performance data entry required that both pilots must verify that the correct data is correctly input.
+
+The runways at Narita and the taxi route followed by the aircraft. [Reproduced from the Official Report]
+On request, Narita Delivery had issued a clearance which included use of runway 16L for takeoff and in response, the Captain advised that he would make the necessary changes to the FMC settings previously input and instructed the First Officer to make the corresponding changes to the departure route and SID also previously input. However, the Captain only changed the assumed temperature and the thrust previously input remained unchanged and the First Officer was only instructed to verify that there was no discrepancy of takeoff data between that and the CDU entry and the flight deck performance data which had been provided via ACARS. The required pre-taxi EICAS check of the FMC takeoff thrust was not performed properly and there was no further requirement to check it once taxi had commenced. Both pilots stated that they had thereafter been particularly focused on the unexpected and relatively complicated taxi route to runway 16L which the Captain had briefed.
+The aircraft was then pushed back in accordance with a corresponding clearance from Narita Ramp Control and after transfer to GND was cleared to commence taxiing for runway 16L following the route shown on the illustration above. Whilst on taxiway ‘G’ in the vicinity of its intersection with taxiway E7, the flight was transferred to TWR. Twelve minutes later, TWR issued a takeoff clearance which was correctly read back and the takeoff was commenced 23 seconds later. After a takeoff roll lasting 50 seconds, the aircraft lifted off just 100 metres before the end of the 2,500 metre-long runway and a height of 16 feet agl was recorded as it passed over the end of the runway. The climb out continued and the flight was transferred to Narita Departure.
+The Captain subsequently stated that during the takeoff roll, he had “felt that the acceleration of the aircraft was a little slow but not so abnormal, while recognising that they were approaching the end of departure runway”. He had not increased the thrust although he was aware that lift off had occurred “in the vicinity of the end of departure runway” and that the rate of climb was lower than he had expected.
+It was noted that Company SOP allowed for the use of Rated (TO) or De-rated thrust, the latter with two options, a 10% reduction (TO1) or a 20% reduction (TO2). In addition, it was also possible to use the Assumed Temperature Method (ATM) which de-rates by using a temperature higher than the actual ambient temperature and this method could be used in combination with TO, TO1 and TO2 in which case they are identified as D-TO, D-TO1 and D-TO2.
+The TLR provided for the investigated departure showed that D-TO2, with an assumed temperature of 40°C and flap 10 had been used for the 16R data calculation and D-TO with an assumed temperature of 38°C and flap 20 had been used for the 16L data calculation. A comparison of the actual takeoff as made using the 16R D-TO2 data as modified by the 2° reduction in assumed temperature and derived from QAR data (red) and what would have been the result of using the (correct) D-TO data for 16L (green) is illustrated below with the feet used as the scale for both axes and the end of runway 16L shown as a broken vertical line. The effect on the initial rate of climb was clearly considerable.
+
+Distances in feet from start of takeoff to V1, Vr and Liftoff (LO) and the subsequent climb for the actual takeoff (red) and that which use of the correct takeoff performance would have produced. [Reproduced from the Official Report]
+The Probable Cause of the investigated Serious Incident was formally documented as follows:
+“The aircraft commenced its takeoff roll by using takeoff thrust lower than the thrust required for the aircraft to take off, causing it to take a longer takeoff roll distance to lift off and its lifting off in the vicinity of the end of departure runway resulted in a case equivalent to runway overrun. It is probable that the aircraft commenced its takeoff roll by using takeoff thrust lower than the thrust required for the aircraft to take off because the Captain did not correctly change the FMC settings for the takeoff thrust at the time of takeoff from those previously input for the different runway which the Captain and the First Officer had assumed would be used and they also did not ensure that they verified that the correct takeoff thrust had been set before commencing the takeoff.”
+Safety Action taken by Polar Air Cargo Worldwide as a result of this event and known to the Investigation was noted as having included but not been limited to the following:
+
+Introduction of a new ‘Runway Change Checklist’ summarising relevant normal operating procedures of the Flight Crew Operating Manual (FCOM) to ensure strict compliance with SOP in the event of a runway change.
+Issue of revised airport information for Narita which added the following information on approved departure runway procedures:
+
+ATC may assign runway 16L/34R to departing aircraft between the hours of 2100 and 0300 local time.
+Runway 16L/34R is usually assigned for flights departing to Intra-Asian destinations.
+When performance considerations do not permit a takeoff from runway 16L/34R, request runway 16R/34L
+
+
+
+The Final Report was adopted by the JTSB on 22 February 2019 and published on 28 March 2019. No Safety Recommendations were made.
+Related Articles
+
+Runway Excursion
+Jet Efflux Hazard
+Aircraft Performance
+Use of Erroneous Parameters at Take-Off
+Standard Operating Procedures (SOPs)
+Authority Gradients

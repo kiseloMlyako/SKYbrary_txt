@@ -1,0 +1,128 @@
+Autopilot/Flight Director (AP/FD) TCAS capability
+
+
+
+
+
+
+
+
+
+
+
+  Autopilot/Flight Director (AP/FD) TCAS capability
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Nets 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An AP/FD Airborne Collision Avoidance System (ACAS) capability is a guidance mode designed by Airbus which allows the aircraft to automatically fly the Resolution Advisories if the autopilot is engaged, or the pilot to manually fly the RA by following the Flight Director commands. The AP/FD capability is currently available on all A350 and A380 aircraft and on all A320 family of aircraft produced since February 2017, and on all A330 aircraft produced since April 2012. AP/FD TCAS is not available for A340s. As of September 2021, 33% of A330s and 31% of A320 family of aircraft operated with AP/FD enabled.
+Broadly speaking, when an AP/FD aircraft receives an RA, the aircraft will automatically change its vertical speed to the vertical speed prescribed by the current RA plus 200 ft/min (in order to help the flight crew's monitoring of the RA response), unless the RA prescribes a null vertical speed (e.g. a Level Off RA) - in which case the aircraft will change its vertical speed to the vertical speed of 0 ft/min. The manoeuvre starts within 3 – 5 sec. and accelerations of 0.15 – 0.25g. When the RA is terminated, the AP/FD function will guide the aircraft to the selected altitude. All low level TCAS inhibitions are applicable.
+The AP/FD functionality has been specified in the Minimum Aviation System Performance Specification (MASPS) for Flight Guidance System (FGS) coupled to ACAS published by European Organisation for Civil Aviation Equipment (EUROCAE) (ED-224).
+Related Articles
+
+Airborne Collision Avoidance System (ACAS)
+ACAS Resolution and Traffic Advisories
+TCAS alert prevention (TCAP)
+
+Further reading
+HindSight Articles:
+
+HindSight 6: Airbus AP/FD TCAS Mode: A New Step Towards Safety Improvement
+
+EUROCONTROL:
+
+ACAS Guide - Airborne Collision Avoidance Systems, December 2017
+
+Airbus:
+
+Airbus – Safe Handling of TCAS Alerts
+
+
+
+
+
+Categories
+
+
+Safety Nets
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

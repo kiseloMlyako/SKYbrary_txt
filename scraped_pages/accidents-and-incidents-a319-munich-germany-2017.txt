@@ -1,0 +1,294 @@
+A319, Munich Germany, 2017
+
+
+
+
+
+
+
+
+
+
+
+  A319, Munich Germany, 2017
+
+
+
+
+
+
+
+
+
+Summary
+
+On 3 July 2017, an Airbus A319 sustained significant landing gear damage during the First Officer’s manual landing at Munich which recorded a vertical acceleration exceeding the threshold for a mandatory airworthiness inspection. That inspection found damage to nose and one main landing gear legs and, following Airbus advice, all three were replaced before release to service. The Investigation was unable to explain why neither pilot detected the incorrect pitch attitude and excessive rate of descent in time to take corrective action and noted that a reversion to manual flight during intermediate approach had been due to a technical malfunction.
+
+
+
+
+Event Details
+
+When
+
+03/07/2017
+
+
+
+Event Type
+
+
+AW,
+              HF,
+              LOC
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS A-319
+
+
+
+
+
+
+
+
+
+Operator
+
+EasyJet
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Edinburgh Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Munich Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Landing
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+EDDM
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Manual Handling,
+              Dual Sidestick Input,
+              Ineffective Monitoring - SIC as PF
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Hard landing,
+              Aircraft Flight Path Control Error
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Autoflight,
+              Flight Controls
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Aircraft damage
+
+Minor
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 3 July 2017, an Airbus A319 (G-EZAW) being operated by EasyJet on a scheduled international passenger flight from Edinburgh to Munich touched down hard in a flat attitude off a manually flown ILS approach conducted in day VMC. The aircraft taxied in normally to the gate but the required subsequent inspection found damage to the landing gear sufficient to require its replacement. None of the 155 occupants were injured during the landing.
+Investigation
+A Serious Incident Investigation was carried out by the UK AAIB. The FDR was removed from the aircraft and data relevant to the event were successfully downloaded. It was noted that the Captain had a total of 11,179 flying hours which included 9,300 hours on type and that the First Officer had been employed by the Operator for just over two years during which time he had recorded 1,644 hours on type.
+What Happened
+It was established that the aircraft had been making an ILS approach to runway 26L at Munich with the First Officer acting as PF when, at about 1500 feet aal with the aircraft stable and correctly configured, the Captain’s Flight Management Guidance Computer (FMGC) froze. At a recorded 1288 feet aal, the thrust on both engines began to increase without crew input and the PF disconnected both the AP and A/THR and thereafter flew the approach manually. The approach continued normally until the aircraft was passing 30 feet agl at which point the First Officer made a pitch down input which resulted in the aircraft reaching “close to 1° nose down” pitch attitude less than 1 second prior to touchdown.
+Having belatedly recognised that the pitch attitude was not correct, approximately ½ second prior to touchdown the Captain called out “watch it” and made an unannounced and minor pitch up input to his own side-stick. The First Officer did not make any corrective pitch input and the net effect of dual side-stick input on pitch was negligible. Touchdown on the 4000 metre-long, 60 metre-wide runway occurred with the aircraft in a “flat or slightly nose-down" attitude with a rate of descent sufficient to trigger the automatic generation, flight deck printout and transmission to Company Maintenance Control of a ‘LOAD 15’ report. Such a report is triggered whenever the normal acceleration exceeds 2.6 g and/or the radio altimeter-derived rate of descent exceeds 540 fpm. It showed that the normal acceleration and rate of descent recorded at touchdown had been 3.01 g and 714 fpm respectively.
+In accordance with the AMM, a ‘LOAD 15’ report requires a “Severe Hard Landing” inspection. This inspection found that both the nose and right main landing gear had been seriously damaged during the touchdown and “could not be returned to a serviceable condition” and on Airbus advice, all three landing gear assemblies were replaced. No other damage to the aircraft was found.
+The Context
+It was noted that the prevailing weather conditions had been CAVOK and the wind almost calm and that all approach and runway lighting had been serviceable and illuminated as the beginning of official night approached. The Investigation was unable to determine why the First Officer had made the recorded pitch down input or then not detected that it was inappropriate. The Captain subsequently stated that his slowness in recognising the result of this action was “because he was concentrating on the runway and the touchdown point” and that after he had noticed that the aircraft attitude was not correct, there had been no time “to react in any way which might have altered the outcome”.
+It was also noted that when intentionally disconnecting the AP to fly the aircraft manually, the A/THR is normally left engaged for approach and landing but the Company OM requires it to be disconnected if “the PF is not satisfied” with its operation. The operator also advised that they “considered disconnection of the A/THR to be an appropriate response to an un-commanded thrust increase”.
+The Conclusion of the Investigation as formally documented was as follows:
+Following an ILS approach during which an FMGC failed, neither pilot realised that the aircraft was in the incorrect attitude for landing until it was too late to take corrective action. As a result, the aircraft landed heavily causing damage to the nose and right main landing gear. It is possible that distractions and high workload during the approach contributed to the nose-down pitch input being made immediately before touchdown.
+The Final Report of the Investigation was published on 11 January 2018. No Safety Recommendations were made.
+Related Articles
+
+Cross-checking Process
+Pilot Workload
+Autopilot
+Interruption or Distraction

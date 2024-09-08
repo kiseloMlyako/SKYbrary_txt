@@ -1,0 +1,187 @@
+Stall Warning Systems
+
+
+
+
+
+
+
+
+
+
+
+  Stall Warning Systems
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Control 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ The Air Pilots
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+An aircraft Stall Warning System is that system which provides the pilot with advance warning of an impending stall.
+Regulatory Requirement
+As is the case with most safety related equipment, the requirement for a Stall Warning System will be found within the aviation regulations for the State of Manufacture and the State of the Operator for any given aircraft. The required operational parameters of the Stall Warning System on a particular aircraft will, in part, be dependent upon the aircraft weight, capacity and purpose and the regulations under which the aircraft Type Certificate was issued.
+The regulations concerning a Stall Warning System for aircraft other than Transport Category Aircraft include the following requirements:
+
+There must be a clear and distinctive stall warning, in both straight and turning flight, with the flaps and landing gear in any normal position
+The stall warning may be furnished through the inherent aerodynamic qualities of the aircraft or by a device that will give clear, unambiguous indications under the expected conditions of flight. A visual stall warning device requiring the attention of the crew within the cockpit is not acceptable by itself
+During a wings level, decelerating condition in any normal configuration, the stall warning must begin at a speed which is a minimum of 5 knots greater than stalling speed (Vs) and continue until the stall occurs
+During a turn or in the case of a turning accelerated stall, the stall warning must begin sufficiently in advance of the stall to allow the stall to be averted if the pilot takes appropriate action
+
+The regulatory requirements for a Transport Category Aircraft are somewhat more robust and the regulations themselves are more prescriptive. As examples:
+
+When the speed is reduced at rates not exceeding one knot per second, the stall warning, in each normal configuration, must begin at a speed (Vsw) which exceeds the stall speed by not less than five knots or by five percent of the calibrated airspeed, whichever is greater. Once initiated, the stall warning must continue until the angle of attack is reduced to approximately that at which the stall warning began
+During decelerating turns, with a load factor of at least 1.5g and airspeed reductions of at least two knots per second with flaps and gear in any normal position, the stall warning margin must be sufficient to allow the pilot to prevent stalling when the recovery is initiated not less than one second after the onset of the stall warning
+Stall warning must be provided in each abnormal configuration of the high lift devices that is likely to be used in the event of a system failure inclusive of all configurations addressed by AFM procedures
+
+Warning Systems
+As per the regulations, the stall warning system requirements can be satisfied by the inherent stall characteristics of the aircraft itself or by other appropriate means. Some of the most common stall warning systems are as follows:
+
+Pre-Stall Buffet. In this case, the warning of the impending stall is provided solely by aerodynamic buffet. As the aircraft approaches the stall, the airflow across the upper cambered surface of the wing ceases to flow smoothly, it looses contact with the wing surface and it becomes turbulent. If the turbulent air then flows across the horizontal stabiliser, buffet results. In many aircraft, even some as large as the LOCKHEED C-130, this buffet provides the sole warning of the impending stall.
+Audible Warning. Stall warning is provided by an electronic or mechanical device that sounds an audible warning as the stall speed is approached. The simplest such device is an airframe mounted stall warning horn which sounds when the airflow through it occurs at a specific angle. Slightly more sophisticated audible warning devices consist of either a pressure sensor or a moveable metal tab that actuates a switch as the stall is approached. The switch, in turn, activates an audible warning horn. In some installations, the audible warning is provided by a synthetic voice which helps to reduce warning ambiguity.
+Stick Shaker. A stick shaker is a mechanical device that shakes the control column to warn of the onset of stall. A stick pusher may be installed in association with a stick shaker system in aircraft which are susceptible to the deep stall phenomenon. A deep stall affects certain aircraft designs, most notably those with a T-tail configuration, and results in a substantial reduction or, in some cases, complete loss of elevator authority making normal stall recovery actions ineffective; in many cases, a deep stall might be unrecoverable. The stick pusher is designed to prevent the pilot from allowing the aircraft to enter a stall. In all cases, the stick shaker will activate before the stick pusher.
+Angle of Attack. Stall warning systems often involve inputs from a broad range of sensors and systems and include a dedicated angle of attack sensor. At a predetermined angle of attack, calculated for each possible configuration, the angle of attack sensor triggers the activation of the stick shaker or the audible warning device as appropriate to the aircraft fitment. An angle of attack indicator may or may not be incorporated into the pilot's instrument panel. When installed, the indicator will give a visual indication of the aircraft proximity to the critical angle of attack.
+
+Icing
+Stall warning systems are designed to activate based on the stall characteristics of clean, contamination free surfaces. Airframe contamination can occur both on the ground and during flight. Contamination present whilst still on the ground must be removed by a ground deicing process prior to flight. Should icing conditions be encountered during flight, Aircraft Ice Protection Systems should be activated. An ice-affected wing will almost certainly stall at a lower angle of attack. Stall warning margins are almost always significantly reduced and the pilot will frequently receive no notice of the impending stall.
+Mach Number Effect
+As altitude increases and air density decreases, the gap between IAS and TAS increases, until the TAS becomes a significant proportion of the speed of sound. Eventually the airspeed over the upper surface exceeds the local speed of sound, and shock waves form toward the trailing edge. These shocks will eventually cause a high speed buffet but only at Mach numbers well above Mmo. Shock waves can also form near the leading edge at a high angle of incidence and high altitude and these will progressively limit the achievable incidence, so the stalling speed (IAS) will increase. Therefore, if buffet occurs at high altitude it could be due to either under or over-speed, the clue is the angle of incidence - lower than normal cruise incidence = high speed buffet, higher than normal cruise incidence = low speed buffet (but at an IAS somewhat larger than normal low speed stall occurs). It follows that pilots must be aware of their normal operating conditions in order to correctly diagnose any anomaly. Note that while some modern aircraft have stall-warning systems that adjust for Mach number, others do not and a stall as just described can occur without an accompanying stall warning
+Pilot Actions
+Pilot response to any stall warning including:
+
+Buffeting or the activation of a stall warning system
+Uncommanded roll or the inability to control roll
+The inability to arrest descent by increasing the angle of attack (applying back stick or yoke)
+
+should be instinctive and immediate. At the first indication of an impending stall, the pilot should:
+
+Positively reduce the angle of attack
+Level the wings
+Retract speedbrakes if extended
+Add power/thrust as recommended by the manufacturer. In some cases, this will involve the immediate application of maximum available power/thrust. In others, the application of power/thrust will be on an "as required" basis and will not occur until after reduction of the angle of attack has been achieved.
+Recover to a safe attitude, speed and altitude
+
+Related Articles
+
+Loss of Control
+Stick Pusher
+Stall
+Deep Stall
+Unreliable Airspeed Indications
+Aircraft and In Flight Icing Risks
+
+Further Reading
+NTSB Safety Alerts on General Aviation risks
+
+Safety Alert 19 - Prevent Aerodynamic Stalls at Low Altitude
+
+ICAO
+
+ICAO Amendment No.3 to PANS-TRG (Doc 9868) - Chapter 7, Upset Prevention and Recovery Training, April 2014
+
+EASA
+
+EASA SIB 2013-02 - Stall and Stick Pusher Training
+
+FAA
+
+FAA AC 120-111 Upset Prevention and Recovery Training, January 2017
+Vmc Training and Angle of Attack, FAA, General Aviation Joint Steering Committee (GAJSC) Leaflet, November 2015 (Information on engine failure procedures for multi-engine aircraft and how angle of attack (AOA) indicator systems can help prevent stall/spin accidents)
+
+RAeS
+
+Aeroplane Upset Recovery Training – History, Core Concepts & Mitigation
+
+ATSB Australia
+
+Stall warnings in high capacity aircraft: The Australian context, Nov 2013
+
+
+
+
+
+Categories
+
+
+Loss of Control,
+              Flight Technical,
+              General Aviation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

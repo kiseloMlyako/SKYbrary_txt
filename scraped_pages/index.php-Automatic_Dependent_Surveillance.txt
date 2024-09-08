@@ -1,0 +1,131 @@
+Automatic Dependent Surveillance (ADS)
+
+
+
+
+
+
+
+
+
+
+
+  Automatic Dependent Surveillance (ADS)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Automatic Dependent Surveillance (ADS) is a surveillance technique in which aircraft automatically provide, via a data link, data derived from on-board navigation and position-fixing systems, including aircraft identification, four-dimensional position and additional data as appropriate. (ICAO Doc 4444:PANS-ATM)
+ADS data is displayed to the controller on a screen that replicates a radar screen. ICAO Doc 4444 PANS-ATM notes that air traffic control service, may be predicated on the use of ADS provided that identification of the aircraft involved is unambiguously established.
+Two main versions of ADS are currently in use:
+
+Automatic Dependent Surveillance-Broadcast (ADS-B) is a function on an aircraft or surface vehicle that broadcasts position, altitude, vector and other information for use by other aircraft, vehicles and by ground facilities. It has become the main application of the ADS principle.
+
+
+Automatic Dependent Surveillance-Contract (ADS-C) functions similarly to ADS-B but the data is transmitted based on an explicit contract between an ANSP and an aircraft. This contract may be a demand contract, a periodic contract, an event contract and/or an emergency contract. ADS-C is most often employed in the provision of ATS over transcontinental or transoceanic areas which see relatively low traffic levels.
+
+(EUROCONTROL EATM Glossary of Terms)
+Automatic Dependent Surveillance-Broadcast (ADS-B)
+Automatic Dependent Surveillance Broadcast (ADS-B) is covered in detail in a separate article. ICAO Doc 4444 PANS-ATM, specifies that the horizontal separation minimum based if ADS-B is used is the same as if radar or a combination of the two are used.:
+Automatic Dependent Surveillance-Contract (ADS-C)
+There are now a number of ADS-C applications but one of the earliest was in Australia where ADS-C has been used to achieve air traffic surveillance outside radar coverage since 1999.
+Related Articles
+
+Automatic Dependent Surveillance - Broadcast (ADS-B)
+Automatic Dependent Surveillance - Contract (ADS-C)
+Impact of Space Weather on Aviation
+
+Further Reading
+
+ICAO Global Operational Data Link (GOLD) Manual, unedited advance edition, 2016
+ICAO Doc 4444: PANS-ATM Chapter 13
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

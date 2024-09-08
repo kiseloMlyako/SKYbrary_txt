@@ -1,0 +1,264 @@
+Certification of Aircraft, Design and Production
+
+
+
+
+
+
+
+
+
+
+
+  Certification of Aircraft, Design and Production
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Airworthiness 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ Cranfield University
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ Cranfield University
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aircraft Certification Requirements
+Certification requirements for civil [commercial] aircraft are derived from ICAO Annex 8 Airworthiness of Aircraft and the ICAO Airworthiness Manual, Part V State of Design and State of Manufacture. Each ICAO contracting state then establishes its own legal framework to implement the internationally agreed standards and recommended practices.
+Procedures for certification of aeronautical products (aircraft, engines, and propellers) are published in each state. In the EU, these are contained in EC Regulation 748/2012 Annex I - Part 21, whereas in USA they are within FAR Part 21. These Part 21 regulations also include procedures for the approval of design organisations (Sub-part J) and production organisations (Sub-part G). These processes are known respectively as Design Organisation Approval (DOA) and Production Organisation Approval (POA).
+Such approvals are a necessary prerequisite to obtaining product certification. The main technical codes to be followed for the design of products for certification are set out below as a list of certification specifications for Europe (EASA) and airworthiness standards for USA (FAA), applicable to different categories of product and environmental consideration.
+
+
+
+EASA
+Title
+FAA
+Title
+
+
+
+
+CS-22
+Sailplanes and Powered Sailplanes
+ 
+ 
+
+
+CS-23
+Normal, Utility, Aerobatic and Commuter Aeroplanes
+Part 23
+AIRWORTHINESS STANDARDS: NORMAL, UTILITY, ACROBATIC, AND COMMUTER CATEGORY AIRPLANES
+
+
+CS-25
+Large Aeroplanes
+Part 25
+AIRWORTHINESS STANDARDS: TRANSPORT CATEGORY AIRPLANES
+
+
+CS-27
+Small Rotorcraft
+Part 27
+AIRWORTHINESS STANDARDS: NORMAL CATEGORY ROTORCRAFT
+
+
+CS-29
+Large Rotorcraft
+Part 29
+AIRWORTHINESS STANDARDS: TRANSPORT CATEGORY ROTORCRAFT
+
+
+CS-31GB CS-31HB
+(Gas Balloons) (Hot Air Balloons)
+Part 31
+AIRWORTHINESS STANDARDS: MANNED FREE BALLOONS
+
+
+CS-E
+Engines
+Part 33
+AIRWORTHINESS STANDARDS: AIRCRAFT ENGINES
+
+
+CS-P
+Propellers
+Part 35
+AIRWORTHINESS STANDARDS: PROPELLERS
+
+
+CS-LSA
+Light Sport Aeroplanes
+ 
+ 
+
+
+CS-VLA
+Very Light Aeroplanes
+ 
+ 
+
+
+CS-VLR
+Very Light Rotorcraft
+ 
+ 
+
+
+CS-34
+Aircraft Engine Emissions and Fuel Venting
+Part 34
+FUEL VENTING AND EXHAUST EMISSION REQUIREMENTS FOR TURBINE ENGINE POWERED AIRPLANES
+
+
+CS-36
+Aircraft Noise
+Part 36
+NOISE STANDARDS: AIRCRFAT TYPE AND AIRWORTHINESS CERTIFICATION
+
+
+
+For full details of EASA Certification Specifications see the EASA Agency rules (Soft law). Full details of FAA Standards are also available.
+Compliance with these specifications or standards is approached in one of two ways depending on the requirement. For structures, typically the approach is known as Deterministic, whereas for systems, a Probabilistic approach is taken. One example of each approach would be:
+
+For structure - No detrimental deformation of the airframe under the loads produced by a given magnitude of manoeuvre.
+For systems - Any catastrophic failure condition must (i) be extremely improbable [1 x 10-9 per flight hour]; and (ii) must not result from a single failure.
+
+For the safety assessment of aircraft systems, regulations are given in EASA CS25.1309 and FAA Aviation Rulemaking Advisory Committee draft AC25.1309-1B. Useful guidelines for conducting the safety assessment process are also given in ARP4761.
+Type-Certification Process
+The process for civil aircraft by which type certification is achieved comprises four steps. These are outlined below, but additional details can be found from EASA (2010), Type certification and FAA Order 8110.4C
+1. Technical Overview and Certification Basis The product designer presents the project to the primary certificating authority (PCA) - EASA in EU, FAA in USA - when it is sufficiently mature. The certification team and the set of rules (Certification Basis) that will apply for the certification of this specific product type are established. In principal this agreed certification basis remains unchanged for a period of five years for an aircraft, three years for an engine.
+2. Certification Programme The PCA and the designer define and agree on the means to demonstrate compliance of the product type with every requirement of the Certification Basis. Also at this stage the level of regulatory involvement is proposed and agreed.
+3. Compliance demonstration The designer has to demonstrate compliance of the aircraft with regulatory requirements: for all elements of the product e.g. the airframe, systems, engines, flying qualities and performance. Compliance demonstration is done by analysis combined with ground and flight testing. The PCA will perform a detailed examination of this compliance demonstration, by means of selected document reviews and test witnessing.
+4. Technical closure and Type Certificate issue When technically satisfied with the compliance demonstration by the designer, the PCA closes the investigation and issues a Type Certificate. For European-designed aircraft, EASA delivers the primary certification, which is subsequently validated by other authorities for registration and operation in their own countries, e.g. the FAA for the USA. Similarly, EASA will validate the FAA certification of US-designed aircraft. This validation is carried out under a Bilateral Aviation Safety Agreement (BASA) between the states concerned.
+Notes:
+a. A Type Certificate applies to an aircraft (engine or propeller) of a particular Type Design. Every individual aircraft of that type has to gain its own Certificate of Airworthiness (C of A) which is achieved when it can be shown to conform to the certificated Type Design and is in a condition for safe operation. As a general rule, civil aircraft are not allowed to fly unless they have a valid C of A.
+b. Organisation approvals, issued under Part 21, are based on regulatory assessment of capability, facilities, manpower, resources and quality assurance systems in relation to the tasks undertaken. Helpful supporting standards in this respect are AS/EN 9100 and AS/EN9120B.
+c. Certification of military aircraft has in the past not followed the typical Type Certification process outlined above. However, since 2010 in Europe a very similar process has been evolved by the European Defence Agency (EDA). Known as the Military Airworthiness Authorities (MAWA) Forum, one of the documents published is a military guide to certification, denoted EMAR21. The documents are issued as requirements and do not have legal standing, but are nevertheless followed by a number of states both within and outside Europe.
+Accidents and Incidents
+There follows a sample of extracts from reports held on SKYbrary that involve a design issue as a contributory factor in the accident:
+
+
+B763, en-route, Galicia Spain, 2022On 8 February 2022, a Boeing 767-300ER inbound to Madrid at FL340 experienced a failure of automatic pressurisation control followed almost three hours later by a failure of manual control and rapidly rising cabin altitude. An emergency was declared and descent made to FL120 where manual control was regained. The flight was completed without recurrence. The failure cause was found to have been water leaking from a tube with a broken clamp which, when it froze, had blocked the air conditioning outflow valve doors. Elements of the system design, scheduled maintenance requirements and fault detection were all identified as deficient.
+
+A320, Copenhagen Denmark, 2022On 8 April 2022, an Airbus A320 made a multiple bounce touchdown at Copenhagen followed by thrust reverser deployment. The Captain rejected the landing and began a go-around but as the left main gear had bounced and was not on the ground when thrust was set, the left engine reverser did not stow. Full aircraft control was briefly lost and a runway excursion narrowly avoided before a recovery to a single engine MAYDAY circuit and landing followed. Engine software design prevented thrust reverser stowage without weight on wheels which was why rejected landings after reverser deployment were prohibited.
+
+B789, en-route, west of Mangaluru India, 2021On 31 October 2021, a ‘Fuel Imbalance’ message occurred on a Boeing 787-9 soon after departing Bangkok at night but attempted fuel transfer was unsuccessful. A ‘Fuel Disagree’ message subsequently appeared and use of available system checklists indicated that there was a fuel leak from the left engine or tank. Left engine shutdown was therefore accomplished and a MAYDAY diversion to an overweight landing at Goa followed. The Investigation determined that the leak was actually from the right side fuel tank and attributed crew misdiagnosis to inadequate fuel system malfunction checklists and deficient crew guidance and training on fault diagnosis.
+
+B748, en-route, Persian Gulf, 2021On 22 March 2021, the pilots of a Boeing 747-8F which had just reached its initial cruise level after departing Dubai observed smoke and sparks coming from the window heating system and declared a PAN advising their intention to dump fuel and return to Dubai. With the faulty system switched off, this was accomplished without further event. It was found that the cause of the system malfunction was a design-related vulnerability with a history of recurrence which had not been adequately addressed by the aircraft manufacturer and the FAA as safety regulator following relevant NTSB Safety Recommendations made in 2007.
+
+B789, vicinity Hong Kong China, 2019On 18 October 2019, a Boeing 787-9 descending to 4,500 feet to join the ILS for runway 25R at Hong Kong at 15 nm from touchdown failed to establish on the localiser. The autopilot was disconnected and the aircraft manually positioned onto the localiser from the north, establishing at 12 nm with terrain proximity not sufficient to activate the EGPWS. It was found that the deviation was attributable to an anomaly in the aircraft type Autopilot Flight Director System, and a corresponding Alert Service Bulletin was issued by Boeing to replace the faulty system component.
+
+
+...further results
+
+
+Related Articles
+
+Airworthiness
+Accident and Serious Incident Reports: AW - a list of reports concerning events where airworthiness was a causal or contributory factor.
+FAA Product Certification Process
+
+Further Reading
+
+De Florio F (2016), Airworthiness: An Introduction to Aircraft Certification, 3rd edition, Butterworth-Heinemann
+EASA (2016), Certification Specifications and Acceptable Means of Compliance for Large Aeroplanes CS-25 (external links)
+EASA (2010), Type certification, PR.TC.00001-002 (external link)
+EASA (2017) Agency rules (Soft law), Certification Specifications
+EC (2012), Commission regulation (EU) No 748/2012, laying down implementing rules for the airworthiness and environmental certification of aircraft and related products, parts and appliances, as well as for the certification of design and production organisations. (external link)
+EC (2014), Commission regulation (EU) No 1321/2014 on the continuing airworthiness of aircraft and aeronautical products, parts and appliances, and on the approval of organisations and personnel involved in these tasks. (external link)
+EDA (2017) Military Airworthiness Authorities (MAWA) Forum
+EDA (2016), EMAR 21 - Certification of Military Aircraft and Related Products, Parts and Appliances, and Design and Production Organisations, Edition 1.2
+FAA (2011), Type Certification, Order 8110.4C (external link)
+FAA, FAA Standards
+FAA, FAR Part 21 - Certification Procedures for Products and Articles (external link)
+FAA (2002), AC25.1309-1B System Design and Analysis, Draft Arsenal edition. (external link)
+ICAO (2016), Annex 8 Airworthiness of Aircraft, 11th Edition, ICAO
+ICAO (2014), Doc 9760 Airworthiness Manual, Part V. State of Design and State of Manufacture, 3rd Edition, ICAO.
+SAE International (1996), ARP 4761 Guidelines and Methods for conducting the safety assessment process on civil airborne systems and equipment, SAE (1996)
+SAE International (2016), AS/EN9100D, Quality Management Systems - Requirements for Aviation, Space, and Defence Organisations
+SAE International (2016), AS/EN9120B Quality Management Systems – Requirements for Aviation, Space, and Defence Distributors
+Final report: Section 103 ODA Expert Review Panel, 2024
+
+
+
+
+
+Categories
+
+
+Airworthiness,
+              Certification,
+              Enhancing Safety
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

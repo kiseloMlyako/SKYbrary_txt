@@ -1,0 +1,180 @@
+Free Route Airspace (FRA)
+
+
+
+
+
+
+
+
+
+
+
+  Free Route Airspace (FRA)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Separation 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Free Route Airspace (FRA) is a specified airspace within which users may freely plan a route between a defined entry point and a defined exit point. Subject to airspace availability, the route can be planned directly from one to the other or via intermediate (published or unpublished) way points, without reference to the ATS route network. Within this airspace, flights remain subject to air traffic control.
+Source: EUROCONTROL ERNIP Part 1
+Description
+Free route airspace (FRA) is a concept of providing air traffic services in which an operator can choose their route subject to only a few limitations (e.g. fixed entry and exit points and the need to avoid danger areas, TRAs or TSAs) as opposed to the situation where standard airways should be used. In most cases the straight line between an entry point and an exit point will be chosen. If for some reason this is not appropriate (e.g. a danger area needs to be avoided) additional turning points can be specified. These can be navigational aids, published navigational points or points with specified coordinates. The following diagram gives an overview of the main FRA rules:
+
+Example of allowed and not allowed FRA routes to be considered during the pre-flight planning.
+In the example FIR depicted, INTRO and ENTER are entry points, ALTAV and EXITO are exit points, SNA is a VOR and REKRA is an RNAV point. When FRA is implemented, the green routes would be accepted and the red routes would be rejected by the ATC flight plan processing system.. The reasons for rejection include the crossing of a danger area (INTRO-ALTAV) and the requested route not remaining within the FRA (ENTER-ALTAV). The approved routes can be either direct from an entry to an exit point (e.g. ENTER-EXITO) or with intermediate points (navigational aids (SNA), published points (REKRA) or randomly selected points (42°39’26” N, 23°22’42” E)).
+Implementation types
+Free route operations can be:
+
+Time limited (e.g. at night) – this is usually a transitional step that facilitates early implementation and allows field evaluation of the FRA while minimising the safety risks.
+Structurally or geographically limited (e.g. restricting entry or exit points for certain traffic flows, applicable within CTAs or upper airspace only) – this could be done in complex airspaces where full implementation could have a negative impact on capacity.
+Implemented in a Functional Airspace Block environment – a further stage in the implementation of FRA. The operators should treat the FAB as one large FIR.
+Within SES airspace – this is the ultimate goal of FRA deployment in Europe.
+
+Deployment
+The introduction of FRA in Europe is a step-by-step process rather than a single act. Most states have decided to start with a limited implementation (e.g. during night hours) and then gradually expand it.
+By the end of 2022, most European countries have implemented FRA at least partially (but mostly on H24 basis). Also, there are many cross-border implementations, i.e. more than one ACC participating in a FRA initiative. This is shown on the picture below.
+
+FRA implementation in Europe at the end of 2022
+The process continues and it is expected that it will be finalized by the end of 2025 (see picture below).
+
+Projected FRA implementation in Europe at the end of 2025
+Benefits
+The implementation of FRA offers a number of efficiency benefits for the operators. There are also a number of challenges and issues but, overall, this is considered one of the most cost-effective changes to the ATS provision in Europe. The most notable benefits are:
+
+Reduced flight time, since most flights will be using the shortest routes possible;
+Reduced CO2 emissions, as a consequence of the reduced flight time;
+Reduced fuel waste, also a consequence of the reduced flight time and more optimal flight profiles;
+Low implementation costs for ANSPs – in most cases implementation of FRA is supported by the existing ACC equipment;
+Fewer conflicts – since the same number of aircraft are spread over more routes;
+Weight optimisation – in general FRA reduces the difference in distance between the planned route and the actual route. This in turn reduces the amount of extra fuel that needs to be carried potentially allowing for a heavier payload.
+
+Issues and challenges
+As any new technology and procedure in aviation, FRA poses a number of challenges to the users. These do not outweigh the benefits but need to be addressed properly in order to gain the best of FRA. Such issues and challenges are:
+
+Conflicts may become harder to detect due to the spread and increased number of possible conflicting points.
+Changes to the separation provision methods used by ATC (e.g. direct routes are less an option for solving conflicts since most aircraft are using the most direct route available anyway).
+Vectoring aircraft that have planned their route using points with geographical coordinates can lead to issues when instructing the flight crew to resume own navigation.
+Conflicts occurring shortly after entering the area of responsibility of an ATC sector require controllers to be even more vigilant during transfer/acceptance of control.
+Need for coordinated approach to FRA implementation – the efficiency benefits will only be achieved if FRA is deployed over large areas and appropriated measures are taken so that aerodromes do not become bottlenecks.
+Need for enhanced (system supported) coordination between ANSPs in case FRA extends beyond the state borders.
+Use of odd/even levels, usually determined in the respective AIPs, may not follow the standard assignment (i.e. odd=eastbound, even=westbound).
+Aircraft flying along the sector boundaries – the probability of loss of separation in case of deviation from the planned route (e.g. due to weather) shall be given due consideration.
+Aircraft flying near special use areas (danger areas, TRAs, TSAs, etc.) that have no built-in safety buffer.
+Sectorisation may need to be optimized to better accommodate the new traffic flows. This is a particularly challenging task in case of time limited FRA implementation.
+The lack of fixed routes increases the risk of blind spots, both within the area of responsibility and near the borders.
+
+Mitigation measures
+The following measures can be used to mitigate the safety issues and to cope with the challenges posed by FRA implementation. The list is not to be considered exclusive.
+
+Large scale deployment of FRA would increase the overall efficiency benefits.
+Step-by-step deployment of FRA would reduce the safety risks. Airspace-specific safety risks could be detected more easily and addressed in a timely fashion.
+Appropriate changes to the airspace design and updates of the letters of agreement (entry and exit points, sectors, restricted areas, ATS delegation, etc.)
+Dedicated training to help controllers familiarise themselves with the new operational issues arising from FRA (e.g. new conflicts, unfamiliar traffic flows, etc.)
+As far as reasonably practicable, both the transferring and accepting controllers should make their best effort to ensure that the aircraft exiting or entering their area of responsibility are not in immediate conflict with other aircraft and be ready to initiate timely coordinated measures for solving the conflict.
+Controllers should coordinate flights flying along sector boundaries with the adjacent sector or unit.
+Restricted areas (TSAs, TRAs, danger areas, etc.) should have buffers so that aircraft can fly safely close to their borders. If a restricted area does not include a buffer airspace, controllers shall ensure that aircraft fly at a safe distance from the area boundaries.
+Re-evaluation and optimisation of existing sector definitions might be necessary; flexible ATC sector configuration management might be applied to manage controller workload in line with changes in the traffic flow and its complexity
+Development of controller support tools (e.g. Tactical Controller Tool (TCT)) would reduce ATCO workload.
+
+Related Articles
+
+Single European Sky (SES)
+Conflict Detection with Adjacent Sectors
+Blind Spots – Inefficient conflict detection with closest aircraft
+
+Further Reading
+
+EUROCONTROL FRA Portal
+Free Route Airspace Concept of operations
+European Network Operations Plan 2016-2019/20
+
+
+
+
+
+Categories
+
+
+Loss of Separation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

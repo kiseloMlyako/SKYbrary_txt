@@ -1,0 +1,167 @@
+Geofencing Basics
+
+
+
+
+
+
+
+
+
+
+
+  Geofencing Basics
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Unmanned Aerial Systems 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+This article describes several ways that basic concepts and technology of geofencing rapidly are evolving. For more than a decade, geofencing — comprising proprietary, two-dimensional geospatial–limitation data, unmanned aircraft (UA)-position sensors and automated rules of flight — have been factory-installed by manufacturers into some of their small unmanned aircraft systems (sUAS). The capability was designed foremost to help novice/uncertificated UA pilots and operators to avoid inadvertent entry into airspace from which they would be restricted in most cases.
+This capability often has been augmented by some level of automation, and sometimes, manufacturers have sent unlock-codes to customers upon request to override the default geofencing limitations.
+As of 2020, geofencing is expected to play more advanced roles for UAs of many types, sizes and capabilities. Two key motivations are the urgency of making UAS traffic management (UTM) a reality, and addressing unacceptably high numbers of reports of unauthorised UAs or drones violating controlled or restricted airspace over aerodromes, according to manufacturers, researchers, aviation regulators and stakeholder coalitions.
+Coalitions of international organisations have called for reexamination of former safety assumptions about UA operator/pilot behaviour. Essentially, they want stronger global aviation regulations to help detect and counteract non-compliant drone operators. Actions beyond education and persuasion are needed now to curtail violations of controlled airspace over aerodromes, they say.
+Definitions
+Geofencing — The European Union Aviation Safety Agency (EASA) defines this term as “a function primarily used to provide the remote pilot with information on the UA position, as well as on the related airspace requirements and limitations; additionally, this function may limit the access of the UA to certain areas.” Geofencing system — EASA regulatory notices define an acceptable geofencing system as having specified functionalities and performance characteristics. These are:
+
+An interface to update data containing information on airspace limitations and requirements, as well as to ensure the integrity and validity of this data;
+Information about the airspace limitations and requirements where the UA operates, as well as the position and movement of the UA relative to those limitations; and,
+Information on the status of the system as well as on the validity of its position or navigation data. (This includes sufficient and timely information for the remote pilot “when the UA approaches areas with airspace limitations or when the geofencing system engages with the UA flight control system.”)
+
+Aerodrome no-fly area for unauthorised drones — An area from the perimeter fence of an aerodrome to a defined distance and height/altitude identified through a risk assessment process as presenting a risk to airport operations from drone operations. (Definition and concept proposed by Airports Council International (ACI) ).
+UAS traffic management (UTM) — A specific aspect of air traffic management which manages UAS operations safely, economically and efficiently through the provision of facilities and seamless services in collaboration with all parties and involving airborne and ground-based functions. (Definition used by ACI.)
+U-Space — The European Commission is establishing a harmonised regulatory system for UTM, called U-Space. One recent notice of proposed amendment to a UAS regulation said the draft “contains requirements for the implementation of three elements required to put in place this U-Space system, namely registration, geofencing and electronic identification.”
+Geofencing Advocates
+During the International Civil Aviation Organisation (ICAO) Drone Enable 2017 conference, experts from government and industry explained current applications of geofencing and forecasts of desirable near-term applications. These included the following examples:
+
+Ben Tally, co-founder and chief information officer of GeoNetwork, said that geofencing should be considered an essential element of UTM. "No fly’ zones are not enough — we need smarter geofences,” Tally said. This includes geofence rules aboard each UA that force avoidance of restricted airspace if the pilot/operator has no entry authorisation but enable entry when the operator also has loaded authorisation in the onboard geofencing system to enter restricted airspace.
+
+Moreover, he said, geofencing — with associated airspace boundaries and rules of flight onboard the UA — enables temporary creation of micro-airspace with national aviation authorities and air navigation service providers (ANSPs; e.g., over a ski resort, school campus, town square, festival, marathon, parade, private property or road repair/construction hazards). Drone-to-drone collision avoidance also could be enhanced if UA beacons transmit their identification, three-dimensional location and a geofence “bumper” (buffer area) that would increase in dimensions at higher UA speeds or situations of UA position uncertainty, he said.
+
+Presenters from the U.S. National Aeronautics and Space Administration’s NASA Langley Research Center described their basic concept — a prototype geofencing system to support UTM for small and mid-size drones. The system requires: loading geo-limitations to the UA, navigating within these limitations, identifying impending airspace violations, acting to avoid violations and operating with a certificated remote pilot. The elements of the design primarily aim to mitigate foreseeable causes of loss of safety margin.
+
+They said, “An unreliable system can cause a drone to end up in places where no pilot or controller would ever command them to go. Good geofencing is necessary when failure consequence is high. Data integrity [especially in geo-limitation] is essential. Reliable avionics [for accurate UA position and navigation, and boundary detection in complex operational areas] are also essential.”
+
+Another paper presented in 2019 to an ICAO Technical Commission described the state of UTM as follows, “The concept of UTM is evolving at a fast pace. It is the enabler for all UAS operations from very low to very high altitude. … As the concepts of UTM mature, systems providing initial levels of capability start emerging, and the demand for airspace access continues to grow at all flight levels."
+
+“ANSPs [air navigation service providers] anticipate that UAS operations will include those that are fully contained in either controlled or uncontrolled airspace, and those that transit across these boundaries. Through UTM, it is envisaged that civil aviation authorities (CAAs) and ANSPs, to the extent that they are involved, will be able to make real-time information regarding airspace constraints and flight intents available to UAS operators directly or through a UTM service provider.”
+Reducing UA Violations at Aerodromes
+According to a January 2019 position paper by ACI, actions that aerodrome operators also should consider include:
+
+"Coordinating with national authorities on the identification of geographic boundaries of No Drone Zones (no fly zones for drones) on and in the vicinity of the airport, especially approach and take-off flight paths;
+Coordinating with authorities on regulations governing the operation of drones in the vicinity of the airport;
+Coordinating with local law enforcement agencies and national authorities to ensure the integrity of No Drone Zones once they are established. This may include regular patrolling, signage regarding No Drone Zones, public education initiatives to inform the public on national laws pertaining to the flight of drones near airports and aircraft [and],
+Establishing means to suppress/neutralize unauthorized drones within the airport boundary especially adjacent to runways and flight paths. This requires prior coordination with the national authorities and law enforcement agencies which may authorise airport operators to initiate suppression/neutralization activities of drones within the airport boundary. Such actions should be carried out without impacting the safety of aircraft operations, in coordination with the ANSP.”
+
+In January 2019 — in a series of joint papers and proposals — several large aviation stakeholder groups (see References) also called on ICAO to join them in establishing systems of drone detection and countermeasures with “priority focus … on the unauthorized or reckless operation of UAS in close vicinity of aircraft and/or airport that pose a threat to aviation safety and security.”
+They said, in part, “We recognize that additional work is needed to ensure a more effective and globally harmonized approach to managing operational disruptions caused by unauthorized operation of UAS. … Unauthorized users of UAS cannot easily be identified, tracked, and excluded from the airspace where they pose the greatest safety and security threat to civil aviation.”
+New Concept of Operation
+In October 2019, a report by the Blue Ribbon Task Force on UAS Mitigation at Airports (BRTF) proposed geofencing as a key element of counteracting these threats.
+The report said, in part, “The BRTF believes that manufacturers should share in the responsibility for helping to restrict access to sensitive flight locations, including airports, except for those authorized for approved UAS missions, with the incorporation of geofencing technology. … Although not considered in the C-UAS [counter-UAS] category, geofencing has mitigating qualities built into the UAS itself. … Some manufacturers have gone so far as to expand the airport area restricted zones from two-dimensional circles to an enhanced safety zone, preventing UAS from entering a three-dimensional bow-tie geofence to address approach and departure pathways, which will prevent UAS from flying near airplanes departing and landing at airports.”
+The task force advocated that UAS manufacturer–installed geofencing technology should become the standard of the aviation industry, not an exception as at the present time. “Geofencing can play a major role in ensuring that ‘careless and clueless’ UAS operators are not able to interfere with airport operations,” the report said.
+References
+
+“Defining a Good Geofence for UAS: Supporting Unmanned Aircraft System (UAS) Traffic Management (UTM),” presented by Kelly Hayhurst, Evan Dill, Steve Young and Russell Gilabert, NASA Langley Research Center, ICAO Drone Enable 2017.
+“Toward a Common UTM Framework,” presented by Ben Tally, GeoNetwork, ICAO Drone Enable 2017.
+“Blue Ribbon Task Force [BRTF] on UAS Mitigation at Airports: Final Report,” BRTF, October 2019. [The BRTF was commissioned in April 2019 by the Association for Unmanned Vehicle Systems International (AUVSI) and Airports Council International-North America (ACI-NA).]
+“Global Pilots and Industry Partners Call for New Guidance on Drone Operations,” International Federation of Air Line Pilots’ Associations, 10 October 2019.
+“The Need for Standards and Guidance to Mitigate the Risks of, and to Improve Response to Unauthorized UAS Operations,” presented to the Technical Commission of the ICAO Assembly 40th Session by Airports Council International (ACI), Civil Air Navigation Services Organisation (CANSO), International Federation of Air Traffic Controllers’ Associations (IFATCA), International Federation of Air Line Pilots’ Associations (IFALPA) and International Air Transport Association (IATA), 8 January 2019.
+“UAS Traffic Management,” presented to the Technical Commission of the ICAO Assembly 40th Session by the International Coordinating Council of Aerospace Industries Associations (ICCAIA), Airports Council International (ACI), International Federation of Air Line Pilots’ Associations (IFALPA) and International Federation of Air Traffic Controllers’ Associations (IFATCA), 8 January 2019.
+
+Related Articles
+
+RPAS Pilot-in-Command
+Unmanned Aircraft Systems Traffic Management (UTM) 
+
+Further Reading
+
+Airports Council International-Europe (ACI-Europe), "Drones in the Airport Environment: Concept of Operations & Industry Guidance", April 2020.
+
+
+
+
+
+Categories
+
+
+Unmanned Aerial Systems
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

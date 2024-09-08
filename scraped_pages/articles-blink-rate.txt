@@ -1,0 +1,227 @@
+Blink Rate
+
+
+
+
+
+
+
+
+
+
+
+  Blink Rate
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Blink rate can be measured incidentally with eye-movement (since the position of the eye is obscured when the controller blinks), or with EEG, where blinking creates artefacts, which are normally detected and discounted in EEG analysis. Special electrodes are often applied in EEG work to detect eye movement, and can incidentally record blinks.
+Discussion/References
+Casali and Wierwille (1983) monitored respiration rate, mean pulse rate, pulse rate variability, pupil diameter and eye-blinks, and found only pupil diameter was sensible to communications workload - eye-blinks were not.
+
+
+
+
+Categories
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+Generics
+
+
+Type of method
+Eye observation
+
+
+Target of method
+Strain
+
+
+Strictly speaking, ‘Stress’ refers to the external factors influencing the controller, which are relatively easy to measure, while ‘Strain’ refers to the effects that the Stress causes on the controller.
+
+
+Time Scale of method
+Minutes
+
+
+Since blinking occurs at a relatively slow rate, a certain time is necessary for it to be possible to detect a change of blink rate.
+
+
+Portability of method
+No
+
+
+At present, blink rate is measured using eye movement or EEG equipment (see descriptions). These are rarely portable.
+
+
+Observer Effect
+No
+
+
+Although the controller is aware that he is being measured, particularly if he is obliged to wear a tightly fitting helmet, the movement of the eyes is not under conscious control.
+
+
+Context of studies
+
+
+Laboratory studies
+Use
+
+
+ 
+
+
+Simulation studies
+Avoid
+
+
+ 
+
+
+Field studies
+Avoid
+
+
+ 
+
+
+Potential problems with the method
+
+
+Failure risk
+Moderate
+
+
+Depending on the method, there may be a considerable risk of failure. Systems requiring remote head tracking may lose the position of the eye, and require manual steering back to track. EEG measures are always subject to a risk that electrodes will fall off.
+
+
+Bias risk
+Moderate
+
+
+Blinking is triggered not only by strain, but also by environmental factors, which may affect the drying of the cornea.
+In principle, this should not affect the use of blinking to assess differences between similar situations, but it is possible that slightly different experimental layouts might make a considerable difference to blink rates if sharp differences in luminance are involved.
+
+
+
+Ethical problems
+None
+
+
+ 
+
+
+Costs of the method
+
+
+Staff Cost
+High
+
+
+No available eye movement system or EEG can handle more than one controller under observation. At least one specially trained operator, and possible an additional technician, is needed.
+
+
+Set-up Cost
+High
+
+
+EEG and Eye-movement systems have prolonged installation and calibration phases. Usually, re-calibration is required before each exercise, and can take up to fifteen minutes.
+
+
+Running Cost
+High
+
+
+EEG and Eye movement studies require constant supervision, and may require interventions in the course of the exercise.
+
+
+Analysis Cost
+High
+
+
+At present blinks are counted by visual inspection of EEG or eye movement records. It is possible that modern eye-movement analysis methods may solve this.
+
+
+Analysis data
+
+
+Analysis Speed
+Slow
+
+
+Manual analysis is slow Automated eye-movement analysis, which can determine where the eye is pointing, may be able to count blinks, where the eye is not visible.
+
+
+Data Automation
+Used
+
+
+The collection of EEG and eye-movement data using electronic devices is inherently automated.
+
+
+Analysis Automation
+Used
+
+
+Most data analysis is more or less automated in the current circumstances. However, total automation is not yet practical.
+
+
+Status
+Tentative
+
+
+Tentative - under consideration, has not been tried in ATC contexts.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

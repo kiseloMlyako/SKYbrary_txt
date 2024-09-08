@@ -1,0 +1,422 @@
+EC25, vicinity Bergen Norway, 2016
+
+
+
+
+
+
+
+
+
+
+
+  EC25, vicinity Bergen Norway, 2016
+
+
+
+
+
+
+
+
+
+Summary
+
+On 29 April 2016, an Airbus EC225 Super Puma main rotor detached without warning en-route to Bergen. Control was lost and it crashed and was destroyed. Rotor detachment was attributed to undetected development of metal fatigue in the same gearbox component which caused an identical 2009 accident to a variant of the same helicopter type. Despite this previous accident, the failure mode involved had not been properly understood or anticipated. The investigation identifies significant lessons to be learned related to gearbox design, risk assessment, fatigue evaluation, gearbox condition monitoring, type certification and continued airworthiness, which may also be valid for other helicopter types.
+
+
+
+
+Event Details
+
+When
+
+29/04/2016
+
+
+
+Event Type
+
+
+AW,
+              FIRE,
+              LOC
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS HELICOPTERS H225 Super Puma Mk II+
+
+
+
+
+
+
+
+
+
+Operator
+
+CHC Helikopter Service
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Gullfaks B
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Bergen/Flesland
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+No
+
+
+
+Phase of Flight
+
+Cruise
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+ENBR
+
+
+
+
+General
+
+Tag(s)
+
+
+              Helicopter Involved
+          
+
+
+
+
+FIRE
+
+Tag(s)
+
+
+              Post Crash Fire
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Airframe Structural Failure,
+              Significant Systems or Systems Control Failure
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Airframe,
+              Rotary Aircraft Transmission
+          
+
+
+
+Contributor(s)
+
+
+              Component Fault in service
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Aircraft damage
+
+Hull loss
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Number of Non-occupant Fatalities
+
+0
+
+
+
+Occupant Fatalities
+
+Most or all occupants
+
+
+
+Number of Occupant Fatalities
+
+13
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Airworthiness
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 29 April 2016, an Airbus Helicopters EC225LP Super Puma (LN-OJF) being operated by CHC Helikopter Service on a non-scheduled commercial passenger transport flight from the Gullfaks B Platform to Bergen as HKS 241, was in the cruise at 2,000 feet in day VMC and had just reached the coast when, without warning, the main rotor head and mast suddenly detached as it passed over the Island of Turøy, less than 15nm northwest of its destination. The helicopter was completely destroyed by the subsequent impact which killed all 13 occupants and released fuel caused a significant post crash fire.
+
+The route taken by the helicopter leading to the accident site (Reproduced from the Official Report)
+Investigation
+An Investigation was carried out by the Accident Investigation Board Norway (AIBN). Recorded radar data was available showing the track of the helicopter almost up to the point of impact. The CVFDR was recovered from the tail section at the main wreckage site and both the voice and flight data were successfully downloaded at the UK AAIB. Data from the HUMS PCMCIA Card was retrieved and successfully downloaded and since these data continued to be recorded for approximately 13 further seconds after CVFDR recording ceased, they provided valuable information about the sequence of events as control was lost. Video evidence was also obtained from witnesses to the accident.
+What Happened
+It was noted that the 44 year-old Captain had joined the Operator in 2007 and had qualified on the EC 225 LP in 2015. He had accumulated 6,100 total flying hours which included 427 hours on type. His 57 year-old Co Pilot, who was PF for the accident flight, had joined the Operator in 1989 and was also qualified as a Captain on the EC 225 LP. He had accumulated 11,184 total flying hours which included 564 hours on type.
+It was established that the accident flight was the fourth sector that morning following an earlier round trip from Bergen to the Gullfaks B Platform and a second outbound sector from Bergen to the same platform. The rotors-running turnround time at the Gullfaks B Platform prior to departure on the accident flight was 12 minutes. A climb to cruise at 3,000 feet was made and then, as the coastline was approaching, a descent to 2,000 feet was completed. The helicopter had been flying level at 2,000 feet QNH and 140 KCAS for approximately one minute when, without any prior warning, significant vibration began and after a short time, during which the helicopter climbed about 120 feet, the main rotor separated from the rest of the helicopter and it began to descend following a ballistic curve towards the ground. Just under 40 minutes after take off, the main part of the helicopter fell onto Storeskitholmen, a small island near Turøy, 14 nm northwest of Bergen with smaller pieces of wreckage spread over a considerable area of both land and sea. The main rotor fell onto the adjacent island of Storskora about 550 metres to the north. Impact forces destroyed the rest of the helicopter, before the wreckage slid into the sea. Some of the fuel on board was released by the impact and ignited causing a fire around the impact point but this fire did not affect the wreckage.
+
+An annotated photograph of the accident site (Reproduced from the Official Report)
+Why it Happened
+Since it rapidly became clear that there was absolutely no evidence that the actions or inactions of the flight crew or any other factor besides the airworthiness of the helicopter had any bearing on the circumstances which led to the accident, the Investigation therefore quickly began focusing on that alone. The recovered items of wreckage included two parts of a fractured second stage planet gear wheel from one of the eight such gears in the second (upper) stage of the epicyclic module of the Main Gear Box (MGB). These were identified early on as of central interest. An illustration of a normal planet gear assembly in this MGB module viewed from below follows:
+
+Eight second stage planet gears as fitted on stub shafts on the carrier inside the MGB epicyclic module (the first stage gears and carrier are not shown) - Reproduced from the Official Report
+The location of this planet gear assembly in relation to the rest of the MGB is shown below:
+
+The MGB with exploded views of the epicyclic module and a second stage planet gear (Reproduced from the Official Report)
+The inner face of each planet gear wheel forms the outer bearing race which retains and self-aligns the internal assembly. This internal assembly consists of an inner race, two rows of barrel-shaped bearing rollers and two cages. The planet gears cannot be visually examined without a complete disassembly of the epicyclic module and the individual disassembly of the gear and its bearing. The two recovered planet gear pieces, which amounted to approximately half of the gear, are shown below. It was found that for “industrial reasons”, all second stage planet gear bearings were sourced from one of two alternative suppliers who each met the same Airbus Helicopters’ specification but within that exhibited potentially significant differences in the manufacturing process used. In-service experience was found to show that second stage planet gears with bearings from one of these suppliers, who were also responsible for the final surface finishing of the outer race which formed the inner surface of the Airbus Helicopters-manufactured gear wheel, were much more prone to spalling events and that the bearing which failed in the accident under investigation was from that supplier.
+ 
+
+The two recovered segments of the fractured second stage planet gear outer race showing spalling at the origin of the fatigue fracture (red arrow) - Reproduced from the Official Report
+It was found that sudden fracture of the planet gear wheel of which the recovered pieces were part had caused the abrupt seizure of the assembly. This seizure had led to the rupture of the whole epicyclic ring gear and shattered its conical housing which in turn led to a loss of structural integrity in the upper section of the MGB. This then led to forces on the main rotor which had pulled all three of the suspension bars apart and allowed the main rotor to separate from the helicopter.
+Detailed metallurgical examination established that fracture of the failed gear wheel had occurred due to fatigue initiated from a surface micro-pit in the outer race of the bearing which had then propagated subsurface whilst producing a limited quantity of surface particles until it eventually weakened the gear wheel sufficiently to cause the fracture. Spalls were found on the bearing surface centred along the line with maximum bearing contact pressure. It was considered that debris caught within the bearing had scratched one or more rollers and thereby created a band of local hardening and associated micro-pitting at the outer race. It was therefore possible to eliminate both mechanical failure or misalignment of another component and material unconformity as causes of the fatigue but it was not possible to establish a crack propagation rate beyond knowing that the crack must have developed within the most recent 260 flight hours since prior to that, the MGB had been inspected and repaired at Airbus Helicopters after being involved in a road transport accident in Australia in 2015. However, the Investigation found no evidence that might connect the fatigue cracking with the consequences of that accident.
+Various Issues relevant to the identified airworthiness failure
+The following were the main issues considered:
+
+The absence of any prior awareness of impending bearing failure.
+
+Although the helicopter had a chip detection system which was designed to detect spalling of any magnetic material and display this to flight crew, no such warning was annunciated and neither had any magnetic material been found on the chip detectors during prescribed routine maintenance checks. The Investigation discovered that 12 % of total free particles could be detected by the chip detection system and there were no system efficiency requirements. In any case, the cracks in the second stage planet gear had propagated whilst there was limited spalling. It was also found that the HUMS on the accident helicopter had not recorded any increase in vibration from any of the dynamic components it monitored and it was concluded that HUMS was unable to detect fatigue fractures propagation in second stage planet gears. Despite this finding, it was noted that Airbus Helicopters had advised the Investigation that “the primary method of detecting planet gear bearing degradation was by relying on the gears shedding metallic debris before failure, which would be indicated by the chip detection system”.
+
+The 2009 Super Puma rotor detachment accident.
+
+It was noted early on that the source of the MGB failure sequence - in one of the eight second stage planet gears in the epicyclic reduction module of the gearbox - was the same as had occurred in the 2009 fatal rotor detachment of the AS 332 L2 Super Puma investigated by the UK AAIB. It was also noted that the MGBs fitted to both Super Puma variants were almost identical and that the failed planet gear bearing had been sourced from the same supplier as in the failure currently under investigation. The Investigation spent a considerable amount of time reviewing all the relevant similarities between the two accidents and examining the responses to many of the 17 Safety Recommendations made as a result of that Investigation. It was noted that it had been impossible to fully understand the cause of the earlier accident because the origin of the fatigue crack which occurred was in a section of the failed gear which, despite every effort, was not recovered. It was also noted that, unlike the accident now under investigation, in the case of the earlier accident there had been a prior indication of possible gear fracture when, 36 flying hours prior to its occurrence, the epicyclic chip had been found to have captured a magnetic particle. However, due to either a misunderstanding or miscommunication, the appropriate maintenance task, which would have involved the MGB being opened, did not follow. It was noted that as a direct result of the earlier accident, a ring of magnets between the epicyclic and main MGB modules was removed with the aim of enhancing the capability to detect chips, and this action, together with an enhanced inspection regime and instructions related to particle identification, had been considered by both the EASA and Airbus Helicopters to be an adequate safety response because they would “ensure early detection of spalling”. A test programme (the G-REDL test) was launched in order to consolidate the GREDL second stage planet gear failure scenario but the performance of the chip detection system and the particle flow in the oil system was not fully examined and understood until after the occurrence of the 2016 accident. It was also recognised that the differences in design and reliability between planet gear bearings sourced from the two alternative suppliers were not known to the 2009 investigation team but that they had concluded that a lack of damage on the recovered areas of the bearing outer race suggested that crack initiation had not been entirely consistent with the understood characteristics of spalling and that there was a possibility that subsurface cracks could progress undetected to a complete fracture.
+Overall, it was evident that the post-investigation actions following the 2009 accident had not been sufficient to prevent another main rotor loss and it was concluded that Airbus Helicopters “could have been more effective with regards to a possible scenario with limited spalling, assessing the effectiveness of the detection system and reviewing the MGB design features”. It was also concluded that the oversight of Airbus Helicopters by the EASA could have been more effective in respect of their implementation of Safety Recommendations and their general follow up of information presented in the Final Report of the 2009 Investigation.
+However, it was concluded that although the investigation into the 2009 accident had clearly established that its cause had been a fatigue failure in the same MGB component as in the subsequent accident, the earlier accident investigation should be regarded as “a turning point with respect to the continued airworthiness of the AS 332 L2 and the EC 225 LP helicopters”.
+
+Type Certification of the EC 225 LP Super Puma.
+
+In view of the fact that the second stage planet gear was clearly a critical part in which structural failure leads to a catastrophic failure, the Investigation reviewed the certification process for the EC 225 LP. It was found that although compliance with the requirements then in place had been demonstrated for this component, it had been assumed that any rolling-contact metal fatigue which led to spalling would be detected prior to gear failure. The observed mode of failure in this accident - crack initiation and propagation with limited and undetected spalling - was not foreseen and is still not directly addressed by current certification specifications. The EASA has advised that a safe component life limitation has not been developed as a means to prevent spalling arising from rolling contact fatigue through the certification process, although it is “expected to be part of their threat assessment for new CS-29 certification projects”.
+Beyond this, it was concluded that there were more general opportunities to introduce more rigorous requirements in respect of component operational life, safety assessment and chip detection, for example:
+
+Current certification specifications do not directly assess rolling contact fatigue and the safe life limitation does not consider rolling contact fatigue when addressing ways to prevent spalling.
+Appendix ‘A’ to CS 29 does not specifically mention critical components nor does it make reference to a Critical Parts Plan or cover components subject to an unusual event while not installed on an aircraft.
+Current certification specifications require gearboxes to be equipped with chip detectors but do not also specify any requirements for their performance or reliability when both the size and quantity of metal debris which must be detected and the probability of such detection occurring could be defined.
+Following certification, there is less demanding requirement for continued operational reliability testing of large rotorcraft compared with the Extended Operations and All Weather Operations regime for fixed wing aircraft.
+
+
+Continued Airworthiness.
+
+It was noted that at the time of the planet gear development its failure (spalling) was regarded as a reliability issue rather than a primary safety issue. It was noted that between 2001 and 2016, 8 cases of outer race spalling and 21 cases of inner race spalling of second stage planet gears in EC 225 LP and AS 332 L2 Super Pumas had been recorded yet there had been no assessment of whether such spalling had occurred without prior indication of associated debris despite the fact that less than 10 % of these gears ever reached their intended operational time before being rejected during overhaul inspections or non-scheduled MGB removals due to signs of degradation. It was found that between the 2009 and 2016 Super Puma accidents, Airbus Helicopters had not routinely examined the removed second stage planet gears in order to understand the full nature of any damage and its effect on continued airworthiness, yet after such examinations begun following the 2016 accident, it became clear that the epicyclic module was frequently damaged by debris. The lack of systematic analysis, led also to a situation where the apparent difference in reliability between bearings sourced from the two alternative suppliers was not fully realised before the 2016 accident.
+
+Accident data availability.
+
+The reason why data recording by the CVFDR had ceased abruptly within one second of the onset of the MGB failure - and 13 seconds before HUMS data recording stopped - was considered to have been the automatic operation of a switch which is designed to operate in the event of relatively low energy accidents in which electrical power from the battery bus is not interrupted in order to satisfy an airworthiness requirement for retention of CVR data. It was noted that this switch mechanically senses the level of acceleration in all three axes and stops the electrical supply to the recorder if 6g is exceeded as occurred almost immediately after the onset of the severe vibration which preceded rotor separation. It was also noted that the same premature termination of flight data recording for the same reason had been identified during the UK AAIB Investigation of the 2009 accident and that this Investigation had produced a related Safety Recommendation (2011-045) to the EASA which has yet to be addressed.
+It was also a matter of concern that the Investigation had to divert considerable time and resources to obtaining access to design and certification documents from EASA and then wait for up to six months before receiving some of them. Because of protection of sensitive proprietary information, the AIBN was offered to study requested design and certification documents at Airbus Helicopter’s premises. Both these difficulties had influenced the progress of the Investigation.
+Safety Action whilst the Investigation was in progress
+
+The EASA had issued a total of five ADs which covered the removal of planet gears with bearings supplied by one of the two suppliers, replacing the Operational Time Limit (OTL) with a reduced Service Life Limit (SLL), improving detection systems and intensifying maintenance checks. It was noted that the EASA had removed their flight prohibition on 7 October 2016 based on the agreed corrective actions package for return to service (RTS) between EASA and Airbus Helicopters (at that time the investigation was ongoing with important aspects open).
+The two principal European NAAs overseeing Super Puma Operations, the Norwegian and UK CAAs, had kept their flight prohibitions of EC225 LP and AS 332 L2 operations in place until 20 July 2017 at which point they were lifted based on implemented safety improvements which had by then included an improved chip detection system.
+Airbus Helicopters had:
+
+introduced an improved road transport container for MGBs which incorporated a g-recorder.
+initiated risk reduction measures by removal from service of the planet gears sourced by one of the suppliers, replacing the OTL with a reduced SLL, improving detection systems and intensifying maintenance checks (FFMP daily/max 10 FH).
+
+
+
+
+It was noted that some safety issues identified by the Investigation had still not been fully resolved by the time it was completed. These included:
+
+Data, analyses and tests which had not conclusively proved that the planet gears still in service would not be at risk of developing subsurface and possibly undetectable fatigue cracks caused by surface damage.
+The reliance on the capability to detect and interpret metal particles of only a few square millimetres in the MGB oil system as the only way to prevent critical failures.
+Why the cracks in the outer planet gear race grew subsurface into the gear bulk material and ultimately resulted in a fatigue fracture while creating only limited spalling.
+
+
+
+During the course of the Investigation, its progress was detailed in a series of five Preliminary Reports issued on 13 May 2016, 27 May 2016, 1 June 2016, 25 June 2016 and 29 April 2017. The third of these reports included an Initial Safety Recommendation to EASA that they “should take immediate action to ensure the safety of the Airbus Helicopters H225 Main Gear Box”. [EDITOR'S NOTE: the designation H225 was introduced by Airbus Helicopters in place of the previous Eurocopter designation EC 225 LP as part of the manufacturer name change in 2014]
+Safety Recommendations
+A total of 12 additional Safety Recommendations were issued on completion of the Investigation as follows:
+
+that the European Aviation Safety Agency (EASA) commission research into crack development in high-loaded case-hardened bearings in aircraft applications. An aim of the research should be the prediction of the reduction in service-life and fatigue strength as a consequence of small surface damage such as micro-pits, wear marks and roughness. [SL No. 2018/01T]
+that the European Aviation Safety Agency (EASA) assess the need to amend the regulatory requirements with regard to procedures or Instructions for Continued Airworthiness (ICA) for critical parts on helicopters to maintain the design integrity after being subjected to any unusual event. [SL No. 2018/02T]
+that the European Aviation Safety Agency (EASA) amend the Acceptable Means of Compliance (AMC) to the Certification Specifications for Large Rotorcraft (CS-29) in order to highlight the importance of different modes of component structural degradation and how these can affect crack initiation and propagation and hence fatigue life. [SL No. 2018/03T]
+that the European Aviation Safety Agency (EASA) revise the Certification Specifications for Large Rotorcraft (CS-29) to introduce requirements for MGB chip detection system performance. [SL No. 2018/04T]
+that the European Aviation Safety Agency (EASA) develop MGB certification specifications for large rotorcraft to introduce a design requirement that no failure of internal MGB components should lead to a catastrophic failure. [SL No. 2018/05T]
+that the European Aviation Safety Agency (EASA) develop regulations for engine and helicopter operational reliability systems, which could be applied to helicopters which carry out offshore and similar operations to improve safety outcomes. [SL No. 2018/06T]
+that the European Aviation Safety Agency (EASA) make sure that helicopter manufacturers review their Continuing Airworthiness Programme to ensure that critical components, which are found to be beyond serviceable limits, are examined so that the full nature of any damage and its effect on continued airworthiness is understood, either resulting in changes to the maintenance programme, or design as necessary, or driving a mitigation plan to prevent or minimise such damage in the future. [SL No. 2018/07T]
+that the European Aviation Safety Agency (EASA) review and improve the existing provisions and procedures applicable to critical parts on helicopters in order to ensure design assumptions are correct throughout its service life. [SL No. 2018/08T]
+that the European Aviation Safety Agency (EASA) research methods for improving the detection of component degradation in helicopter epicyclic planet gear bearings. [SL No. 2018/09T]
+that the European Commission (DG MOVE) in collaboration with the European Aviation Safety Agency (EASA) evaluate the means for ensuring that investigation authorities have effectively free access to any relevant information or records held by the owner, the certificate holder of the type design, the responsible maintenance organisation, the training organisation, the operator or the manufacturer of the aircraft, the authorities responsible for civil aviation, EASA, ANSPs and airport operators. [SL No. 2018/10T]
+that the International Civil Aviation Organisation (ICAO) evaluates the means for ensuring that investigation authorities have effectively free access to any relevant information or records held by the owner, the certificate holder of the type design, the responsible maintenance organisation, the training organisation, the operator or the manufacturer of the aircraft, the authorities responsible for civil aviation, certification authorities, ANSPs and airport operators. [SL No. 2018/11T]
+that Airbus Helicopters revise the type design to improve the robustness, reliability and safety of the main gearbox in AS 332 L2 and EC 225 LP. [SL No. 2018/12T]
+
+The 178 page main text of the Final Report of the Investigation and Appendices A and B was published on 5 July 2018. Appendices C to H to Report were published separately:
+
+Appendix C "Maintenance requirements Airbus Helicopters EC 225 LP"
+Appendix D "Metallurgical Examination"
+Appendix F "Safety Actions following the LN-OJF Accident"
+Appendix G "Relevant Safety Recommendations following the G-REDL accident in 2009"
+Appendix H "Planet Gear bearing analysis report"
+
+Appendix I to the Report, which was explicitly not part of the AIBN Findings but rather an Independent position statement on the Report submitted to the AIBN by Airbus Helicopters, was also issued separately.
+Video
+An accompanying video was also released at the same time as the Report. 
+Additional images related to the investigation can be found on the AIBN website
+Related Articles
+
+Airworthiness - The System
+Damage Tolerance
+Continuing Airworthiness
+Health and Usage Monitoring System (HUMS)
+Certification by EASA
+EASA Regulatory Instruments
+Certification of Aircraft, Design and Production

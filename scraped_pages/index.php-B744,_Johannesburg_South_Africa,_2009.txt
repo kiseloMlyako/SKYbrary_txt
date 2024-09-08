@@ -1,0 +1,335 @@
+B744, Johannesburg South Africa, 2009
+
+
+
+
+
+
+
+
+
+
+
+  B744, Johannesburg South Africa, 2009
+
+
+
+
+
+
+
+
+
+Summary
+
+On 11 May 2009, a British Airways Boeing 747-400 departing Johannesburg came close to stalling following a stall protection system activation during night rotation which continued until landing gear retraction despite immediate appropriate crew response. Subsequent investigation found that loss of lift on rotation had resulted from the unanticipated effect of a design modification in respect of thrust reverser unlocked signals with the aircraft in  ground status. The Investigation found that the potential effects of this on the transition from  ground to  air status including the lower stalling angle of attack in ground effect had not been foreseen.
+
+
+
+
+Event Details
+
+When
+
+11/05/2009
+
+
+
+Event Type
+
+
+AW,
+              LOC
+
+
+
+
+Day/Night
+
+Night
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 747-400 (international, winglets)
+
+
+
+
+
+
+
+
+
+Operator
+
+British Airways
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+O. R. Tambo International Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+London Heathrow Airport
+
+
+
+
+
+
+
+Actual Destination
+
+
+
+
+O. R. Tambo International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Take Off
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+FAJS
+
+
+
+
+General
+
+Tag(s)
+
+
+              Inadequate Airworthiness Procedures
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Significant Systems or Systems Control Failure,
+              Aerodynamic Stall
+          
+
+
+
+
+EPR
+
+Tag(s)
+
+
+              PAN declaration
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Flight Controls,
+              Engine Fuel and Control
+          
+
+
+
+Contributor(s)
+
+
+              Inadequate Maintenance Schedule,
+              OEM Design fault,
+              Component Fault in service
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Non-aircraft damage
+
+Yes
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+Yes
+
+
+
+Ditching
+
+Yes
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Airworthiness
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 11 May 2009, a Boeing 747-400 being operated by British Airways on a scheduled passenger flight from Johannesburg to London Heathrow experienced a stall protection system activation at rotation during a night departure in Visual Meteorological Conditions (VMC) which continued for a short time after the aircraft became airborne. A loss of lift was apparent and the flying characteristics of the aircraft were abnormal. Rate of climb was reduced by the PF, the First Officer, which resulted in stick shaker activation becoming intermittent. Then, shortly after the landing gear had been selected up, stick shaker activations ceased altogether and normal flying characteristics were restored. Being unsure of what had caused the event, but suspecting some sort of problem with both No 2 and No 3 engines, the flight crew declared a ‘PAN’ to ATC and decided to return to the airport of departure where, after fuel dumping, an uneventful landing was made about two hours after departure. None of the 283 occupants was injured and the aircraft was undamaged.
+Investigation
+An Investigation was carried out by the Accidents and Incidents Investigations Division of the South African CAA. It was found that un-commanded retraction of the automatic Group ‘A’ (inner) leading edge flaps (or slats) (see the diagram below taken from the official report) had occurred at rotation for take off and continued for a period of about 23 seconds. The flight crew had not known of this un-commanded configuration change at the time or the re-extension of the flaps which caused normal performance to return. The only unusual EICAS annunciation around the time of the occurrence of which the crew had been aware was a caution advising of thrust reverser in-transit which had appeared during the take off roll prior to rotation.
+
+Boeing 747-400 Leading Edge Flap (Slat) System - LH Wing
+It was noted that although there was no separate indication on the flight deck for the position of the leading edge flaps, their retraction is accompanied by a change of colour on the flap indicator EICAS display, although this was considered to be not readily apparent.
+Investigation on the ground disclosed that two thrust reverser (TR) in-transit EICAS amber messages had been received from the applicable sensors, the No.3 TR signal prior to V1 at 126 knots and the No.2 TR signal at 160 knots (after V1 but just prior to Vr). Auto retraction of the leading edge Group ‘A’ leading edge flaps was found to have occurred at about 164 knots, 4 knots below the applicable Vr. Automatic re-extension began 7 seconds after the aircraft became airborne as the landing gear was retracting and full re-extension was complete after a further 9 seconds. The intermittent stick-shaker activations began as the aircraft became airborne at 176 knots and ceased as the airspeed increased to 186 knots.
+Ground testing showed that the two reversers were not fully stowed against the stops and that one of the four locking gearboxes on both No.2 and No.3 engines had unlocked. The other thrust reverser locks were still in place and their thrust reverser cowls did not move with absolutely no evidence to suggest that the thrust reversers had actually deployed.
+It was established automatic leading edge flap retraction was an intended (design modification) consequence of the receipt of thrust reverser in-transit signals from either both inboard or from both outboard engines. This was additional to an equivalent retraction when the thrust reverser handle was physically moved to deploy the reversers which had been embodied in all 747 variants so as to prevent thrust reverser efflux air from impinging directly onto the extended flap panel surfaces and thus improve the fatigue life of both the panels and their attachments.
+It was considered by the Investigation that the factors which prevented this serious situation from becoming an accident included the timely and skillful response to the unexpected loss of performance by the PF, the activation of the aircraft stall protection system and the automatic re-extension of the retracted flaps when the air/ground logic was detected as having changed to ‘air’ mode.
+Probable Cause of the event was attributed to “the loss of a significant amount of lift on rotation, during the takeoff, caused by the automatic leading edge flap retraction logic retracting the Group ‘A’ leading edge flaps on receipt of thrust reverser unlock signals from the No. 2 and No. 3 engines. The possibility of such an occurrence had not been identified during amendment of the retraction logic.
+Safety Recommendations
+Whilst it was considered that action taken during the investigation - the issue of appropriate an Alert Service Bulletin (ASB) by Boeing and a corresponding Airworthiness Directive by the Federal Aviation Administration (FAA) making the ASB actions mandatory - sufficient to prevent a direct re-occurrence, a series of more general Safety Recommendations were made and are reproduced below as published in the Investigation Report:
+
+Operators should ensure that Thrust Reversers are fully stowed after ground maintenance was performed and in particular to conduct a visual inspection (the gap at the front of the translating cowl) to ensure the Thrust Reversers has motored to the fully stowed position
+The Boeing Aircraft Company should advise operators that there may be a possible hazard to personnel / equipment in the proximity of Thrust Reversers as it may deploy during the Auto-Speed-Brake maintenance / tests.
+The Regulatory and certificating authorities of all States of Design and States of Manufacture should introduce requirements to:
+
+Review all software control and hardware control logics and combinations thereof to ensure that all probable defect possibilities are identified.
+Review the processes used to introduce modifications to control software since issuance of the original type certification, e.g. consider a recertification process.
+Verify that appropriate resolutions for such occurrences have been developed and are in place to prevent un-commanded actions that can result in an accident.
+Improve the robustness of the software/hardware logic through the introduction of additional parameters to consider prior to an automatic change in critical control surfaces.
+Introduction of a flight deck crew “alert / approval / override” facility prior to an inadvertent change to critical control surfaces.
+Account for spurious mechanical and electrical failures and their impact on the software and hardware logic system.
+
+
+Operators should provide flight crews with more basic hand flying and simulator flight training on new generation aircraft to address the technological developments in aviation, inclusive of effective stall training.
+
+The Final Report of the Investigation was published on 15 June 2010 and may be seen in full at SKYbrary bookshelf: REF: CA18/3/2/0717 Final Report
+Further Reading
+
+Loss of Control
+Stall
+Airworthiness - The System
+Airworthiness Directive

@@ -1,0 +1,335 @@
+B738, Amsterdam Netherlands, 2018
+
+
+
+
+
+
+
+
+
+
+
+  B738, Amsterdam Netherlands, 2018
+
+
+
+
+
+
+
+
+
+Summary
+
+On 10 June 2018, a Boeing 737-800 departing Amsterdam with line training in progress and a safety pilot assisting only became airborne just before the runway end. The Investigation found that the wrong reduced thrust takeoff performance data had been used without any of the pilots noticing and without full thrust being selected as the end of the runway approached. The operator was found to have had several similar events, not all of which had been reported. The implied absence at the operator of a meaningful safety culture and its ineffective flight operations safety oversight process were also noted. 
+
+
+
+
+Event Details
+
+When
+
+10/06/2018
+
+
+
+Event Type
+
+
+HF,
+              RE
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 737-800
+
+
+
+
+
+
+
+
+
+Operator
+
+KLM
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Amsterdam Airport Schiphol
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Munich Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Take Off
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+EHAM
+
+
+
+
+General
+
+Tag(s)
+
+
+              Event reporting non compliant,
+              Flight Crew Training,
+              Inadequate Aircraft Operator Procedures,
+              Safety pilot present,
+              Use of Erroneous Performance Data,
+              CVR overwritten,
+              Delayed Accident/Incident Reporting
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Data use error,
+              Ineffective Monitoring,
+              Manual Handling,
+              Plan Continuation Bias,
+              Procedural non compliance,
+              Ineffective Monitoring - SIC as PF
+          
+
+
+
+
+RE
+
+Tag(s)
+
+
+              Incorrect Aircraft Configuration,
+              Reduced Thrust Take Off
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 10 June 2018, a Boeing 737-800 (PH-BXG) being operated by KLM Royal Dutch Airlines on a scheduled international passenger flight from Amsterdam to Munich, which was being used for line training with an observing Safety Pilot and taking off from Amsterdam in day VMC, only just became airborne before the end of the runway was reached during a reduced thrust takeoff. The event was not reported to the operator who only discovered evidence of it during routine analysis of operational flight data almost three months later after which it was notified to the State Investigation Agency.   
+Investigation
+After being informed of the event three months after it had occurred, the Dutch Safety Board determined that it had been a Serious Incident and opened an Investigation. Because of the failure to promptly report, relevant data on both the FDR and CVR had been overwritten. However, relevant data from the QAR was available.
+The Flight Crew
+The flight was being used for line training of a new First Officer and was the first flight of the day for the crew. The Training Captain in command had a total of “around 14,000 hours” flying experience, the First Officer undergoing line training, who had been acting as PF for the investigated departure, had a total of “around 1,200 hours” flying experience and the First Officer acting as the observing Safety Pilot had a total of “around 8,000 hours” flying experience. It was noted that the trainee First Officer was on his first line training sector since qualifying on type, the Training Captain was performing his first line training flight and the First Officer acting as Safety Pilot, was acting in that role for the first time.
+What Happened
+The Training Captain gave a reportedly thorough pre flight briefing which included “explaining the role and duties of the safety pilot”, which in turn included “taking over some of the First Officers tasks if needed”. This turned out to have been essential since the Safety Pilot, who was a qualified instructor pilot on type, subsequently stated that he had initially been confused “because he was unaware whether he had been assigned as safety or buddy pilot (since) according to his roster, he had been shown simply as First Officer, together with another First Officer and the Captain and had initially understood that he should act as First Officer himself with the other First Officer as an observer”. It was noted that the operator’s “document” describing 737 First Officer Line Training procedures referred to the “extra First Officer” who would be rostered for initial line training as both a buddy pilot and a safety pilot for no apparent reason and that rostering practice was to simply show two First Officers for a duty where a ‘Safety Pilot’ was required.
+The Departure Clearance received specified runway 09 and in accordance with company practice, takeoff performance data was requested by ACARS, initially for intersection N4 but when this was notified as not allowable, this was resubmitted for intersection N5, received and programmed accordingly.
+Whilst taxing westwards along the runway 09 parallel taxiway towards the (full length) N5 runway access (see the illustration below), ATC asked if the flight could depart from N4 as the prevailing light wind was now more favourable and since the Captain knew from experience that this was possible, the option was accepted. As the Captain was “busy instructing the First Officer”, the Safety Pilot entered the wind velocity provided into the ACARS to obtain new takeoff performance data but did not also specify N4 instead of N5. As taxiing continued, the Safety Pilot passed the received ACARS printout to the Captain who “entered the data into the FMC, without further checking the input variables used” which still specified a takeoff commenced from N5 - and consequently produced a reduced thrust setting. The process of obtaining, receiving and entering the new data into the FMC was not monitored by the First Officer. Having changed frequency from GND to TWR whilst taxiing, the flight was cleared to line up on runway 09 at N4 and subsequently to takeoff with an unchanged surface wind check given.
+
+The departure runway showing the actual route to N4 and that to the originally expected N5. [Reproduced from the Official Report]
+As the aircraft accelerated, the Captain and the Safety Pilot both reported realising that “they were approaching the runway end very quickly without being airborne” but the Captain made no attempt to increase the thrust setting. Rotation was made at the input speed and QAR data showed that the aircraft became airborne 176 metres before the end of the runway and crossed the threshold at 28 feet agl. The relative positions of the actual V1 and VR to the position of the correct V1/VR and the position relative to the end of the runway where the aircraft became airborne are shown below. 
+
+The positions of the correct V1/VR relative to the actual takeoff. [Reproduced from the Official Report]
+It was observed that “the (reduced thrust) takeoff performance data used was based on an available runway length that was 1,034 metres longer than the length that was actually available”.
+This meant that:
+
+The aircraft would have been unable to stop on the runway if the takeoff had to be rejected at V1 and that even if the prescribed response had been precisely followed, a 247 metre overrun would have occurred.
+In the event of an engine failure after V1, there would have been insufficient runway length remaining to accelerate the aircraft to the minimum V2 speeds.
+Once airborne, the aircraft crossed the runway threshold below the minimum height required by safety regulations to prevent collision with terrain or obstacles during the initial climb.
+
+Once safely climbing away, the Captain and the Safety Pilot reportedly “discussed the situation because both had noticed the abnormal takeoff characteristics (and) after checking the takeoff performance calculation, discovered that the performance was based on an Intersection N5 takeoff instead of Intersection N4”. The event was not subsequently reported on an ASR “because the aircraft took off without any problems”. 
+Why It Happened
+The immediate cause of the event was the error made by the Safety Pilot when entering the ACARS request for takeoff performance data from intersection N4 but the breach of SOPs which led to the use of the incorrect data was the Training Captain’s failure to ensure that the First Officer verified that the new data was correct prior to its entry into the control display unit (CDU) - a specific FCOM requirement. 
+The failure of the Training Captain to raise an ASR recording the event which both delayed and impeded the investigation of it was noted to be expressly contrary to the guide in the OM Part A as to when these are to be submitted which was found to include the following two cases:
+
+Use of incorrect data or erroneous entries into equipment used for navigation or performance calculations which has or could have endangered the aeroplane, its occupants or any other person.
+Inability to achieve required or expected performance during takeoff, go-around or landing.
+
+The failure of the OFDM process to recognise that the data from the flight represented the occurrence of a potentially very serious (and externally reportable) event was attributed by the operator to an error during the initial screening of all OFDM data. This indicated that the procedure used was incapable of the timely detection of the use of incorrect takeoff performance data which had created significant operational safety risk.
+The haste with which the change of runway access was accepted and actioned, given the fact that the flight was a first line training sector overseen by a Training Captain new to the task assisted by a Safety Pilot who was on his first experience of the role was conducive to error. The fact that the Captain quickly confirmed to ATC that they could accept an intersection takeoff from N4 whilst taxiing continued and before obtaining the necessary new takeoff performance data had the effect of “precluding any risk evaluation by the crew”. It was noted that the operator’s procedures “did not require the aircraft to be stopped for checking and inserting revised takeoff data”.
+Overall, it was concluded that the Captain had prioritised the minimisation of delay over the “First Officer’s learning experience” in respect of how a crew should execute operational tasks in order to achieve the “safe and resilient operation of a flight”.
+Context
+The Investigation led to the discovery that the event disclosed was by no means an isolated one at the operator. Although other events around the same time had not involved line training sectors, they all had similar origins and although ASRs were submitted in three of the four cases, the operator did not notify the Dutch or State of Occurrence Safety Investigation Authority in two of the four cases.
+
+A 2013 takeoff from Oslo by a KLM Boeing 737-800 which only got airborne before the end of the runway because the crew increased the reduced thrust to maximum, made the V1 call 10 knots early and rotated below the bugged speed. Although an ASR was submitted, the operator did not the report the event to either the Norwegian or Dutch Safety Investigation Agencies.
+A 2016 takeoff from Entebbe by a KLM Airbus A330-200 was commenced from an intersection using reduced thrust takeoff performance data for the full runway length. Full thrust was selected during the takeoff but the aircraft only became airborne near the end of the runway and the threshold was crossed below the required height. Although an ASR was submitted, the operator did not the report the event to either the Ugandan or Dutch Safety Investigation Agencies.
+A 2019 takeoff from Toulouse by a KLM Boeing 737-800 was commenced from a different intersection than the one providing more runway length but the crew forgot to recalculate the performance data for the new intersection. They then did not increased thrust sufficiently as the runway end neared and became airborne only just before the runway end. An ASR was filed and the event reported to the Dutch Safety Board who investigated it in conjunction with the main event being investigated here after the French Safety Investigation Agency delegated it to them.  
+A 2021 takeoff from Lisbon by a KLM Boeing 737-800 was commenced from an intersection using performance data for the full length of the runway and the aircraft only became airborne near the end of the runway. No ASR was filed and it was six weeks after the event before it was discovered during routine operational flight data review. The Dutch Safety Board were notified and in turn notified the Portuguese Safety Investigation Agency Authority who carried out an Investigation.
+
+The Investigation noted other similar events and referred to a report on ‘Insufficient thrust setting for take-off’ published by the Dutch Safety Board in 2018.
+Some broad Conclusions of the Investigation included the following:
+
+As other cases involving KLM show, this was not an isolated event, nor a new phenomenon. Although the existence of operational pressure was already signalled in 2017, it still appears to exist.
+Although mentioned in the KLM internal report, no actions have been taken to raise awareness of the importance of reporting and of securing flight recorders following a serious incident.
+Many similar events have occurred amongst a range of operators but no technical solutions are yet available to prevent this so the solution must be sought in operational measures. Changing takeoff data during taxiing is a critical process and deserves the full and undivided attention of flight crews. Continuing taxiing precludes this, as this and the majority of related incidents have shown.
+
+Two Safety Recommendations were made as a result of the findings of the Investigation as follows:
+
+* that the European Union Aviation Safety Agency (EASA) recommend to operators and their flight crews to allow for a stationary moment when calculating, checking and entering takeoff performance data in case of last minute changes and implement this advice as recommended practice in guidance material, Safety Information Bulletin 2016-02R1 and other safety promotion material.
+* that KLM Royal Dutch Airlines implement the following measures to prevent crews from taking off with incorrect takeoff data:
+
+Calculate, check and enter changed takeoff performance data only when the aircraft is stationary.
+Develop a procedure to have flight crews prepare an alternative plan in advance and encourage the use of full thrust for when last minute changes occur.
+Train flight crews to take action if they suspect that the takeoff roll does not develop as expected; make this training an element of the recurrent training program.
+
+
+
+The Final Report was published on 19 May 2022.
+Related Articles
+
+Use of Erroneous Parameters at Take-Off
+Runway Excursion
+Reduced Thrust Takeoff
+Intersection Take Off: Guidance for Flight Crew
+Cross-checking Process
+B738, Lisbon Portugal, 2021
+OFDM
+ASR

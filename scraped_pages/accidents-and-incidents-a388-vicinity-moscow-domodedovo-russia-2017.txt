@@ -1,0 +1,371 @@
+A388, vicinity Moscow Domodedovo Russia, 2017
+
+
+
+
+
+
+
+
+
+
+
+  A388, vicinity Moscow Domodedovo Russia, 2017
+
+
+
+
+
+
+
+
+
+Summary
+
+On 10 September 2017, an Airbus A380-800 cleared for an ILS approach at Moscow Domodedovo in visual  daylight conditions descended below its cleared altitude and reached 395 feet agl whilst still 7nm from the landing runway threshold with a resultant EGPWS ‘PULL UP’ warning. Recovery was followed by an inadequately prepared second approach which was discontinued and then a third approach to a landing. The Investigation attributed the crew’s difficulties primarily to failure to follow various routine operating procedures relating to use of automation but noted that there had been scope for better presentation of some of these procedures.
+
+
+
+
+Event Details
+
+When
+
+10/09/2017
+
+
+
+Event Type
+
+
+AGC,
+              CFIT,
+              HF,
+              LB
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS A-380-800
+
+
+
+
+
+
+
+
+
+Operator
+
+Emirates
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Dubai International Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Moscow/Domodedovo International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Missed Approach
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+UUDD
+
+
+
+
+General
+
+Tag(s)
+
+
+              Approach not stabilised,
+              Event reporting non compliant,
+              CVR overwritten
+          
+
+
+
+
+AGC
+
+Tag(s)
+
+
+              Phraseology
+          
+
+
+
+
+CFIT
+
+Tag(s)
+
+
+              Vertical navigation error
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Inappropriate crew response (automatics),
+              Ineffective Monitoring,
+              Procedural non compliance,
+              Ineffective Monitoring - SIC as PF
+          
+
+
+
+
+LB
+
+Tag(s)
+
+
+              Accepted ATC Clearance not followed
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+Air Traffic Management
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Operation
+Air Traffic Management
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 10 September 2017, an Airbus A380-800 (A6-EEZ) being operated by Emirates on a scheduled international passenger flight from Dubai to Moscow Domodedovo as EK 131 failed to establish on the ILS LLZ for runway 14R in day VMC before continuing descent below its cleared altitude. When the controller noticed this, they instructed it to stop descent but when the initiation of a go around was delayed, an EGPWS ‘PULL UP’ Warning followed during which a minimum of 395 feet agl was reached. On being informed of the intention to discontinue the approach, the controller instructed the aircraft to maintain its present (200°) heading and commence a climb. A second approach was discontinued from a safe altitude and a third was subsequently completed successfully.
+
+The aircraft ground track during the three approaches in sequence (magenta, green and blue) superimposed on the Runway 14R STAR Transitions Chart. [Reproduced from the Official Report]
+Investigation
+The flight crew involved “did not consider the event to be a ‘serious incident’, despite the available evidence” and only notified the Operator of it by submitting an ASR after the aircraft had taken off for the return flight to Dubai which “did not mention the seriousness of the event”. Once this became apparent, the Russian authorities were contacted and agreed to delegate the Investigation to the UAE AAIS as the State of Registry and of the Operator and the GCAA Air Accident Investigation Sector (AAIS) commenced an Investigation. Relevant DFDR data were downloaded but that from the CVR had been overwritten during the return fight to Dubai and was therefore unavailable. However, FMS BITE data and recorded ATC data were also available.
+The Flight Crew
+It was found that the 54 year-old Captain, who was acting as PM for the flight, had a total of approximately 18,000 flying hours of which 7,940 hours had been whilst an Emirates employee, initially as a co-pilot. He had a total of 4,855 hours in command on all types and had obtained his A380 type rating in December 2014 after experience on the operator’s A330/A340 fleet and had 2,615 hours on type. The 39 year-old PF First Officer had a total of 7,280 flying hours of which 700 hours were on type. Prior to joining Emirates to fly the A380, he had been employed elsewhere as a Boeing 737NG First Officer. It was noted that both pilots were recorded as having received all required training which in particular included that provided on glideslope interception from above in accordance with the OM Part ‘D’.
+What Happened
+Whilst approaching Domodedovo from the southeast on track towards the ‘AO’ NDB (see the illustration above) in CAVOK (cloud and visibility OK) conditions, ATC began providing radar vectors towards the Runway 14R ILS (see the illustration below) leading direct to the ILS final approach point (FAP) (point ‘P’ on the ILS14R approach chart below) on a track approximately parallel to a line linking the initial approach fix (IAF) at 'AM TAM' and the ILS IF but 2.9 nm closer to the runway. To facilitate establishing on the ILS LLZ at that range, the controller offered a descent to 500 metres QFE (equivalent to 2230 feet QNH) at the flight crew’s discretion which the crew accepted and set 2300 feet as the target altitude. ATC instructed the flight to establish on the ILS LLZ from the present heading 220° maintaining 170 KIAS for as long as possible to avoid minimum separation from following traffic.
+The descent was commenced in ‘Open Descent’ mode but almost immediately, as the aircraft was passing through approximately 3000 feet pressure altitude, the controller advised that there was no longer a separation issue and the speed requirement was cancelled. With the gear down and the slats/flaps at position ‘3’, the airspeed mode was changed briefly to ‘speed managed’ mode with the target speed reduced to 143 knots, which resulted in a slow decrease in speed. However, nine seconds later, this was changed back to ‘selected speed’ mode at 170 knots and speed began to increase to that level from a minimum of 158 knots. Approximately ten seconds later, with the aircraft about to capture the 2300 feet target altitude, the target was changed from 2,300 feet to 3,000 feet (which was above the procedure initial go-around altitude) and vertical speed setting was selected to 2,000 fpm.
+As the descent continued without having established on the LLZ, the radar controller instructed the flight to maintain the 220° heading to the final approach point (P) at 500 meters QFE (2230 feet QNH), provided the airport QNH of 1015 and instructed the crew to contact TWR. The crew did not reply to this transmission and 10 seconds later, the aircraft had just descended through 2000 feet QNH at 170 KCAS and was now on a heading of 210°. A few seconds later, the Radar Controller called again and instructed the flight crew to “maintain 500 metres height at QFE 994 (QNH 1015) and stop further descent”, repeating this three times and following with the advice that their transponder readout indicated a height of only 110 metres (360 feet) above the runway elevation. As this 17 second-long communication from the controller commenced, FDR data showed the flap being changed from configuration ‘3’ to ‘full’ with the aircraft 1,660 feet pressure altitude. Four seconds after it had finished, the selected vertical speed was changed from -2,000 fpm to +2,500 fpm and two seconds after that with the aircraft descending at 1,600 fpm, a go-around was initiated and declared by the Captain to ATC.
+
+The 14R ILS Chart as used by the flight crew. [Reproduced from the Official Report]
+At this point, the aircraft was turning left through 197° towards the ILS LLZ and descending through 1,140 feet QNH (504 feet agl) but still over 7nm from the runway. Almost immediately, a 6 second long EGPWS ‘PULL UP TERRAIN AHEAD’ Warning was annunciated at 474 feet agl and at 7.3 nm from the runway threshold. The minimum radio altitude recorded during EGPWS activation was 395 feet agl.
+The Radar Controller responded to the go-around declaration by instructing the flight to initially continue on its present 200° heading climbing to the equivalent of 3,550 feet QNH and when he subsequently asked for the reason for the go-around. The Captain replied that the approach had been unstable.
+Radar vectoring was then provided to a second approach and this time, the track passed approximately over the IAF at waypoint ‘AMTAM’ and followed the procedural track to the ILS 14R LLZ as shown on the chart. A closing radar heading of 220° was given and the flight transferred to TWR. The aircraft started to descend below the IF procedure altitude and was established on the LLZ at the final approach point ‘P’ and 100 feet below the GS. Ninety seconds after this, the Captain declared another go-around and the aircraft levelled off at 2,600 feet QNH, the final altitude for the MAP. The flight was instructed to turn onto 070° and contact radar. Vectoring for a third approach was then commenced and when the radar controller asked for the reason for the go-around, the Captain again replied that the approach had been unstable.
+Vectoring for the third approach followed a similar base leg track to the first and on reporting fully established on the LLZ, the flight was transferred to TWR and the sector completed without further event.
+It was noted that the observed weather conditions were VMC throughout and were benign in all other respects including visibility in excess of 10km and no cloud below 4000 feet which would have ensured that the landing runway lights would have been visible during all three approaches. No evidence was found that indicated that fatigue played any part in the investigated events.
+It was concluded from the FMS ‘BITE’ data that the reason for the second approach being discontinued was that following the go-around, the FMS had not been reconfigured in accordance with the applicable SOP and that this precluded LLZ capture.
+Flight Crew Performance
+Absence of the CVR data meant that it was difficult to assess flight crew communication, flight deck authority gradient, the efficiency and effectiveness with which checklists, briefings and call outs were performed and in the interaction between the two pilots. Nevertheless, the following findings were made in respect of the way the aircraft was managed:
+
+The aircraft was properly configured during all three approaches.
+There was a lack of proper planning on the part of both pilots in respect of how to establish the aircraft on the runway 14R ILS during the first approach considering the relatively tight radar vectoring provided.
+Both pilots failed to make several SOP calls and confirmations.
+The prerequisite condition of the ‘glide interception from above’ procedure was not followed by the First Officer during the first approach.
+Neither pilot was aware of the ICAO-specified envelope of glideslope signal coverage, the requirement to re-insert the runway 14R ILS approach after making a go-around in order to fly a second approach and the multi-waypoint sequencing when the aircraft cross-track position was less than 7 nm.
+Neither pilot referred to and confirmed the vertical position of the aircraft using other available indications.
+Whilst the pilots were able to understand the radar controller’s communications, the “do not descend further” instruction during the first approach was lengthy and the phraseology used was non-standard for an urgent instruction.
+
+The Causes of the Serious Incident were formally determined as:
+
+The descent below the cleared altitude on the first approach can be explained by an erroneous flight crew perception that the aircraft would capture the 3° glideslope from above and by insufficient coordination between the flight crew members. After the First Officer carried out the ‘glide interception from above’ procedure, he focused on the horizontal position of the aircraft to establish it on the localiser and neither of the two pilots maintained a correct awareness of the vertical position of the aircraft.
+The cause of the discontinuation of the second approach was the selection by the flight crew of a waypoint using the ‘DIR TO’ function and after a relatively long discussion between them due to:
+
+the unavailability of the flight plan on the Navigation Display (ND), as the FMS1, reset after the go-around was not reconfigured by re-sequencing the flight plan as per SOP
+the aircraft oscillation around the localiser course.
+
+
+
+A total of 7 Contributory Factors were also identified as follows:
+
+The expectation of the First Officer that Radar Control might not provide the flight crew with vectors to intercept the localiser at an angle of 45 degrees or less when the aircraft was on the base leg (90-degrees to the final approach track). The radar vectors provided inside the final approach point (FAP) together with the instruction to maintain relatively high speeds until the aircraft was almost abeam of the Initial Approach Fix (IAF), and the First Officer’s expectation, resulted in an unusually high workload in a dynamic approach phase.
+The glide interception from above procedure was performed when the aircraft had not yet established on the ILS localiser for runway 14R. This was not in accordance with the SOP.
+During the period when the ‘glide interception from above’ procedure was performed and the go-around, the aircraft position was initially outside the azimuth coverage of the ILS glideslope signal and when it came within azimuth coverage, it was outside the elevation coverage of the glideslope signal. Consequently, invalid glideslope deviation indications were displayed to the flight crew.
+Before performing the ‘glide interception from above procedure’, the erroneous flight crew representation of the aircraft position gave them the perception that they were being vectored to a tight approach and that the aircraft would capture the glideslope from above, led the PF to:
+
+refer only to the glideslope deviation indication to determine the aircraft vertical position instead of considering and crosschecking any other available indications (pressure altitude, vertical and navigation displays, and the DME distance table in the approach chart) which would have enabled him to reconsider and validate the aircraft position;
+descend below the cleared altitude and to modify the heading vectors issued by the Air Traffic Controller.
+
+
+When the aircraft descended below 500 metres QFE, the duration of the radar controller’s instruction to the flight crew “not to descend further” was lengthy and the phraseology used was non-standard for an urgent instruction.
+As the flight crew prepared for the second approach, a multi-waypoint sequencing in a row of the flight plan occurred when the crew performed a lateral revision of the flight plan using the ‘DIR TO CRS’ IN pushbutton as per the SOP at a location where several waypoints satisfied the FMS geometrical waypoint sequencing rules. A real time computation issue caused an automatic reset of FMS1.
+After the multi-waypoint sequencing of the flight plan and the FMS1 auto-reset during the second attempted approach, the flight crew omitted to reconfigure the FMS by inserting (adjusting the sequencing of the flight plan) the runway 14R ILS approach. They did not anticipate that omitting this action, aiming at providing the missed approach route should a go-around need to be performed, would jeopardise the capture of the localiser by the AFS system.
+
+Safety Action taken by Emirates as a result of this event was noted to have included enhancements to relevant pilot training and to the way in which related procedures were documented.
+A total of 6 Safety Recommendations were issued as a result of the Investigation as follows:
+
+that Emirates add information to the operations and training manuals regarding the possibility of multi-waypoint sequencing of the flight plan, and the FMS auto-reset that can occur during a missed approach. This sequence of events requires reconfiguration of the FMS flight plan by inserting the required ILS approach to adjust the flight plan sequencing. This information should be included in the operations and training manuals until (any) revised system description and procedures are available from Airbus. [SR41/2020]
+that Emirates reinforce amongst its pilot body the requirements of CAR-OPS 1 and their own Operation Manual - Part A procedures on the preservation of flight recorder recordings as evidence. [SR42/2020]
+that Domodedovo Air Traffic Control emphasise to controllers that only standard terminology must be used in all communications. [SR43/2020]
+that Domodedovo Air Traffic Control ensure that controllers provide a series of headings, including the final vector that should result in a localiser intercept angle with a final approach track of 45 degrees or less, in accordance with ICAO PANS-ATM, Doc 4444. [SR44/2020]
+that Airbus include the definition of the ICAO envelope elevation coverage lowest angle in the Operations Manual. [SR45/2020]
+that Airbus emphasise to A380 pilots the necessity of ensuring that the aircraft is established on the localiser as a mandatory prerequisite action to apply the ‘glide interception from above’ procedure by updating this procedure in the Operations Manual. [SR46/2020]
+
+The Final Report was released on 2 April 2020.
+Related Articles
+
+Level Bust
+Standard Operating Procedures (SOPs)
+Cross-checking Process
+Radio Discipline
+Non-Standard Phraseology
+Standard Phraseology
+Stabilised Approach
+Short Vectoring and Glideslope Interception from Above: Guidance for Controllers
+Unstabilised Approach: Vectoring Resulting in Intercepting the Glidepath from Above

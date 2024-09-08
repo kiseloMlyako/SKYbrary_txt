@@ -1,0 +1,363 @@
+A169, Leicester UK, 2018
+
+
+
+
+
+
+
+
+
+
+
+  A169, Leicester UK, 2018
+
+
+
+
+
+
+
+
+
+Summary
+
+On 27 October 2018, a single-pilot Leonardo AW169 helicopter lifted off from within the Leicester City football stadium. After an almost immediate failure of the tail rotor control system, control was lost and ground impact and a post-crash fire resulted in fatal injuries to all five occupants. Seizure of the tail rotor duplex bearing was found to have initiated failures that culminated in the unrecoverable loss of control of the tail rotor blade pitch angle. This failure was a direct consequence of gross failures in risk assessment at the aircraft manufacturer and an inadequate type certification process.
+
+
+
+
+Event Details
+
+When
+
+27/10/2018
+
+
+
+Event Type
+
+
+AW,
+              FIRE,
+              LOC
+
+
+
+
+Day/Night
+
+Night
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AGUSTAWESTLAND AW-169
+
+
+
+
+
+
+
+
+
+Type of Flight
+
+Private
+
+
+
+Intended Destination
+
+
+
+
+London Stansted Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+No
+
+
+
+Phase of Flight
+
+Climb
+
+
+
+
+
+
+
+
+Location
+
+Approx.
+
+Leicester City football stadium
+
+
+
+
+General
+
+Tag(s)
+
+
+              Helicopter Involved,
+              Ineffective Regulatory Oversight
+          
+
+
+
+
+FIRE
+
+Tag(s)
+
+
+              Post Crash Fire
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Significant Systems or Systems Control Failure
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Flight Controls,
+              Rotors
+          
+
+
+
+Contributor(s)
+
+
+              OEM Design fault,
+              Component Fault in service
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Aircraft damage
+
+Major
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Occupant Fatalities
+
+Most or all occupants
+
+
+
+Number of Occupant Fatalities
+
+4
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Airworthiness
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 27 October 2018, a Leonardo AW169 (G-VSKP) departed controlled flight in night VMC almost immediately after it lifted off from the Leicester City football ground pitch on a private flight to London Stansted. Following the subsequent ground impact within the stadium grounds, a fierce fire began almost immediately, and the pilot and all four occupants died. The helicopter was substantially damaged by the combined effects of the impact and fire but there were no third-party consequences. 
+
+The ground track of the accident flight. [Reproduced from the Official Report
+Investigation
+An Accident Investigation was carried out by the UK Air Accident Investigation Branch (AAIB). Whilst important initial findings were reported in two Special Bulletins published on 14 November 2018 and on 6 December 2018, the technical complexity of the Investigation meant that completion of the Final Report took almost five years. Many safety actions were taken whilst the Investigation continued, with the support of the type certification authority and OEMs.
+Useful data were successfully recovered from the memory module of the heat-damaged Data Acquisition Flight Recorder (DAFR), which stored 2 hours of audio and 25 hours of data with recording continuing for short time after impact due to the unit’s associated Recorder Independent Power Supply (RIPS). Some useful data were also obtained from the NVM in some of the avionics equipment. Recordings of ATC radar and radio communications and from various image recordings including CCTV cameras, witness mobile phones, body-worn cameras, car-mounted cameras, and a camcorder were also available. A review of potentially relevant HUMS data was conducted, but the failed duplex bearing was not being directly monitored. The nearest sensor to it was not in a location conducive to timely detection of the failure, and even if “vibrations of concern” had been sensed, the aircraft operator did not upload and analyse data after each flight, nor were they required to. 
+The 53-year-old pilot held both an ATPL(A) (Airline Transport Pilot Licence Aeroplane) and an ATPL(H) (Airline Transport Pilot Licence Helicopter), and had a total of 12,947 hours flying experience of which 4,784 hours was rotary-wing time, with 177 hours of this time flying the AW169. He was the primary pilot for the accident helicopter, in which the owner was one of the passengers but was not employed by him. He also regularly flew the same owner’s Boeing 737-700 Business Jet on the same basis and was a type rating examiner (TRE) on that aircraft as well as a type rating instructor (TRI) on both the AW169 and the AW109. It was noted that the pilot had completed a routine proficiency check with an AW169 TRE eight days before the accident flight, but this had not included transition to forward flight after becoming airborne and although recovery from a simulated tail rotor control malfunction was successfully flown, this was from a tail rotor at fixed pitch rather than after a complete loss of tail rotor control.
+What Happened
+The prevailing weather conditions at the point of departure included good visibility, no low clouds, with a northwesterly surface wind at 10-12 knots. Three minutes after engine start, the helicopter lifted off from the centre of the football pitch, yawed 15° left, and then moved forward a few metres before beginning to climb at between 600 and 700 fpm on a planned rearward flight path whilst maintaining a northerly heading. Passing approximately 250 feet AGL, the transition to forward flight was commenced by pitching the helicopter nose down as landing gear retraction was commenced, passing approximately 320 feet AGL.  
+Heading changes that had been consistent with the direction of pedal movement initially continued, but the helicopter then began to yaw to the right despite recorded corrective left pedal inputs by the pilot. After reaching approximately 430 feet AGL, the aircraft began to descend with a high rotation rate and at approximately 75 feet AGL, the collective was fully raised to cushion the touchdown. It then struck open ground in an essentially upright position with the landing gear fully retracted before rolling onto its left side and rapidly becoming engulfed in an intense post-impact fire. It was assessed that this impact would have exceeded the helicopter’s design requirements, and it damaged the lower fuselage and the helicopter’s fuel tanks. The latter resulted in a significant fuel leak and the fuel ignited shortly after the helicopter came to rest and an intense post-impact fire rapidly engulfed the fuselage.   
+Bystanders in the vicinity reached the scene quickly but could not gain access to the helicopter because of the intensity of the fire. The fire quickly caused substantial damage to the predominantly composite aircraft structure, with several sections of the airframe being almost completely consumed, and large parts of the remaining fuselage suffering a “significant loss of structural integrity”. 
+It was assessed that all of the occupants would have suffered significant impact injuries and that for one occupant these were probably fatal. Occupants who survived the initial impact had then died as a consequence of inhaling the products of combustion.
+Why It Happened
+Preliminary inspection of the tail rotor control mechanism at the crash site showed that the tail rotor actuator control shaft was not connected to the lever in the tail rotor servo actuator, which transmits the commands from the yaw pedals. It was noted that correct assembly of the tail rotor control system involves the actuator being attached to the tail rotor hydraulic servo control shaft by means of a connecting pin and pin carrier secured to the shaft by a castellated locking nut, which screws into a threaded section of the shaft. This locking nut was required to be tightened to a specified torque, with a split pin then fitted between the castellations of the nut and through a hole in the shaft and wire-locked in place. This arrangement is illustrated - overall and then with specific details - below.
+
+Tail rotor spider and pitch link assembly. [Reproduced from the Official Report]
+
+The tail rotor actuator control mechanism. [Reproduced from the Official Report]
+A later examination of this assembly was unable to locate the split pin or spacers, and one of the locating bearings was missing from the input lever. The locking nut and pin carrier were found loose in the tail rotor fairing, bonded together when they should have been separate components. The castellated nut threads appeared to be undamaged, but the control shaft threaded section had moved inside the outer shaft and was no longer visible.
+The control shaft, locking nut, and pin carrier and adjacent parts of the assembly were then removed from the wreckage to permit a detailed inspection. It was found that the locking nut on the bearing end of the control shaft had been torque loaded to a significantly greater extent than that specified. The inner races of the bearing could only be rotated by hand a few degrees in either direction. In addition, (see the illustration below) there was a buildup of black grease inside the slider unit around the inboard face of the duplex bearing, with the part of the control shaft adjacent to this bearing face showing signs of burnt-on grease and discolouration along its length.
+
+The end of the tail rotor actuator control shaft after removal from the duplex bearing containing it. [Reproduced from the Official Report]
+CT scanning of the removed parts of the assembly showed that:
+
+The nut and pin carrier were friction-welded together.
+The threaded portion of the control shaft at the actuator end was inside the outer shaft and contained the remains of the split pin.
+The top and bottom of the split pin had been sheared off during rotation of the shaft.
+
+Fractures to the bearing cages and significant damage to the surface of the inner ball bearing races was also visible on the scan, with the damage being worse on the inboard bearing race where there was also evidence of subsurface damage. There was also evidence of debris accumulation in the bearing raceways.
+The effect of the disconnection was to prevent the feedback mechanism for the tail rotor servo actuator from operating, so that movement of the actuator stopped when the yaw control input made by the pilot had been satisfied. This rendered the yaw stops ineffective and allowed the tail rotor actuator to continue changing the pitch of the tail rotor blades until they reached the physical limit of their travel, thereby creating an uncontrollable right yaw.
+It was concluded that “sufficient force and torque had been applied to the castellated nut on the actuator end of the control shaft to friction-weld it to the pin carrier and to shear the installed split pin”. It was further concluded that the observed condition of the duplex bearing and the increased torque load on the castellated nut that remained on the end of the shaft was consistent with rotation of the tail rotor actuator control shaft. When a yaw control input occurred whilst rotation was taking place, it the led to the shaft ‘unscrewing’ from the nut, which disconnected the shaft from the actuator lever mechanism and caused the nut to become welded to the pin carrier.
+Simulator trials confirmed that the loss of yaw control was unrecoverable. It was also concluded that:
+
+The helicopter was compliant with all applicable airworthiness requirements, had been correctly maintained and was appropriately certified for release to service prior to the accident flight. 
+The condition of the tail rotor duplex bearing could not have been predicted or identified by existing maintenance requirements prior to the accident.
+Deterioration of tail rotor duplex bearing began well before the accident flight. 
+
+Previous Tail Rotor Disconnection Accidents
+The Investigation noted that tail rotor disconnection accidents and serious incidents arising from undetected deterioration of the connection between pilot inputs and tail rotor pitch had previously occurred to other aircraft types including to an Airbus Helicopters Super Puma in Norway in 2016, to an AW139 in Hong Kong in 2010 and to a Sikorsky S92 at a North Sea Offshore Platform in 2016.
+Three Accident Causal Factors were identified:
+
+Seizure of the tail rotor duplex bearing initiated a sequence of failures in the tail rotor pitch control mechanism, which culminated in the unrecoverable loss of control of the tail rotor blade pitch angle and the blades moving to their physical limit of travel.
+The unopposed main rotor torque couple and negative tail rotor blade pitch angle resulted in an increasing rate of rotation of the helicopter in yaw, which induced pitch and roll deviations and made effective control of the helicopter’s flightpath impossible. 
+The tail rotor duplex bearing likely experienced a combination of dynamic axial and bending moment loads, which generated internal contact pressures sufficient to result in lubrication breakdown and the balls sliding across the race surface. This caused premature surface-initiated rolling contact fatigue damage to accumulate until the bearing seized.  
+
+Four Accident Contributory Factors were also identified:
+
+The load survey flight test results were not shared by the helicopter manufacturer with the bearing manufacturer in order to validate the original analysis of the theoretical load spectrum and assess the continued suitability of the bearing for this application, nor were they required to be by the regulatory requirements and guidance.
+There were no design or test requirements in Certification Specification 29, which explicitly addressed rolling contact fatigue in bearings identified as critical parts; while the certification testing of the duplex bearing met the airworthiness authority’s acceptable means of compliance, it was not sufficiently representative of operational demands to identify the failure mode.  
+The manufacturer of the helicopter did not implement a routine inspection requirement for critical part bearings removed from service to review their condition against original design and certification assumptions, nor were they required to by the regulatory requirements and guidance.
+Although the failure of the duplex bearing was classified as catastrophic in the certification failure analysis, the various failure sequences and possible risk reduction and mitigation measures within the wider tail rotor control system were not fully considered in the certification process; the regulatory guidance stated that this was not required.
+
+Safety Action in support of continuing airworthiness taken whilst the Investigation was in progress as a result of its progressive findings included, but was not limited to the following:
+
+On 30 November 2018, Leonardo issued ASBs for both AW169 and AW189 helicopters which introduced repetitive inspections of the castellated nut that secures the tail rotor actuator control shaft to the actuator lever mechanism and the tail rotor duplex bearing. The European Union Aviation Safety Agency issued an AD mandating these inspections the same day. 
+On 16 July 2019, Leonardo issued a letter to the AW169 customers and operators describing a production enhancement to HUMS in respect of monitoring the Tail Rotor Duplex Bearing by relocating an accelerometer to the Tail Rotor actuator lever assembly feeding into the onboard vibration monitoring systems. This letter also “strongly recommended” regular upload of HUMS data “to ensure timely and effective trend monitoring” and corresponding requirements for this data acquisition and use were subsequently issued as an AD by the European Union Aviation Safety Agency. 
+On 30 July 2019 Leonardo issued a SB for in-service AW169 aircraft corresponding to the previously notified production enhancement.
+In early 2020, Leonardo issued SBs to fit an alternative tail rotor actuator in which the control shaft had a left-hand thread on the castellated lock nut and an additional washer fitted to the actuator end of the shaft. These were then used as the basis for issue of corresponding ADs by the European Union Aviation Safety Agency.
+On 4 August 2020, Leonardo issued SBs for a new design of tail rotor duplex bearing to replace the existing one within 4 months or 400 hours, and on 10 September 2020, the European Union Aviation Safety Agency issued an AD mandating this action.  
+
+A total of 8 Safety Recommendations were made at the conclusion of the Investigation as follows:
+
+That the European Union Aviation Safety Agency amend Certification Specification 29.602 to require type design manufacturers to provide the results of all relevant system and flight testing to any supplier who retains the sole expertise to assess the performance and reliability of components identified as critical parts within a specific system application, to verify that such components can safely meet the in-service operational demands, prior to the certification of the overall system. [2023-018]
+That the European Union Aviation Safety Agency introduce additional requirements to Certification Specification 29 to specifically address premature rolling contact fatigue failure across the full operating spectrum and service life of bearings used in safety critical applications. [2023-019]
+That the European Union Aviation Safety Agency amend Certification Specification 29.602 to define the airworthiness status of life limits on non-structural critical parts and how they should be controlled in service. [2023-020]
+That the European Union Aviation Safety Agency define the airworthiness status of life limits and how they should be controlled for existing non-structural critical parts approved to Certification Specification 29.602 requirements, already in service. [2023-021]
+That the European Union Aviation Safety Agency amend Certification Specification 29.602 to require manufacturers to implement a comprehensive post removal from service assessment programme for critical parts. The findings from this should be used to ensure that reliability and life assumptions in the certification risk analysis for the critical part or the system in which it operates remain valid. [2023-022]
+That the European Union Aviation Safety Agency require manufacturers to retrospectively implement a comprehensive post removal from service assessment programme for critical parts, approved to Certification Specification 29.602 requirements, already in service. The findings from this should be used to ensure that the reliability and life assumptions in the certification risk analysis for the critical part or the system in which it operates remain valid. [2023-023]
+That the European Union Aviation Safety Agency amend Certification Specification 29.602 to provide guidance and set minimum standards for the calculation of design load spectrums for non-structural critical parts. They must encompass, with an appropriate and defined safety margin, the highest individual operating load and combination of dynamic operating loads, and the longest duration of exposure to such loads that can be experienced in operation. [2023-024]
+That the European Union Aviation Safety Agency amend the relevant requirements of Certification Specification 29 and their Acceptable Means of Compliance to emphasise that where potentially catastrophic failure modes are identified, rather than rely solely on statistical analysis to address the risk, the wider system should also be reviewed for practical mitigation options, such as early warning systems and failure tolerant design, in order to mitigate the severity of the outcome as well as the likelihood of occurrence. [2023-025]
+
+The 306 page Final Report of the Investigation was published on 6 September 2023.
+Related Articles
+
+Loss of Control
+Post Crash Fires
+Helicopter Rotor Systems Configuration
+Continuing Airworthiness
+Certification of Aircraft, Design and Production
+Type Certificate
+Certification by EASA
+Risk Assessment
+Risk Mitigation
+Health and Usage Monitoring System (HUMS)
+EC25, vicinity Bergen Norway, 2016
+A139, vicinity Sky Shuttle Heliport Hong Kong China, 2010
+S92, West Franklin Wellhead Platform North Sea, 2016

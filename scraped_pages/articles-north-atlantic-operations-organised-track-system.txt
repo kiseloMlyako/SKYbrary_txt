@@ -1,0 +1,153 @@
+North Atlantic Operations - Organised Track System
+
+
+
+
+
+
+
+
+
+
+
+  North Atlantic Operations - Organised Track System
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OTS
+Description
+The airspace of the North Atlantic (NAT), which links Europe and North America, is the busiest oceanic airspace in the world. In 2012 approximately 460,000 flights crossed the North Atlantic and that volume of traffic continues to increase. Direct Controller Pilot Communications (DCPC) and ATS Surveillance are unavailable in most parts of the NAT Region. Aircraft separation, and hence safety, are ensured by demanding the highest standards of horizontal and vertical navigation performance/accuracy and of operating discipline.
+This article is intended to provide an overview of the busiest segment of that airspace, the Organised Track System (OTS).
+General
+Much of the air traffic over the North Atlantic (NAT) is part of two major alternating flows: a westbound flow departing Europe in the morning, and an eastbound flow departing North America in the evening. This pattern results from time zone differences, airport noise restrictions and, most significantly, passenger demand. The net result of this flow pattern is to concentrate most of the traffic in a single direction with the peak westbound traffic crossing 30° west longitude between 1130 and 1900 UTC. The peak, counter-flow, eastbound traffic will cross 30°W between 0100 and 0800 UTC.
+The constraints caused by the large horizontal separation criteria within NAT airspace and a limited economical height band (FL310–400) for most commercial traffic result in airspace congestion during peak hours. In order to provide the best service to the bulk of the traffic, a system of organised tracks is constructed to accommodate as many flights as possible within the major flows on or close to their minimum time tracks and optimum altitude profiles. The dynamic and ever changing nature of the NAT weather patterns, inclusive of the presence and location of pressure systems and jet streams, means that eastbound and westbound minimum time tracks can be widely separated and also that day to day variation in the location of these minimum time tracks will occur. As a result, organised track structures, one for eastbound traffic and one for westbound traffic are created on a daily basis. These track structures are referred to as the Organised Track System (OTS).
+Use of OTS tracks is not mandatory. Currently,about half of NAT flights utilise the OTS with most of the remaining traffic flying random routes. An aircraft may fly on a random route which remains clear of the OTS, or may fly on any route that joins or leaves an outer track of the OTS. Additionally, nothing prevents an operator from planning a route which crosses the OTS. However, in this case, operators must understand that, whilst ATC will make every effort to clear random route traffic across the OTS within the OTS published altitude levels, re-routes and/or significant changes in flight level from those planned are very likely during most of the OTS traffic period.
+Construction of the OTS
+The OTS is constructed after determination of basic minimum time tracks taking into account airspace restrictions, such as danger areas and military airspace reservations, and giving due consideration to airlines' preferred routes as provided in their Preferred Route Message (PRM). The night-time OTS (eastbound) is produced by Gander OAC and the daytime OTS (westbound) by Shanwick OAC, each incorporating any requirement for tracks within the New York, Reykjavik, Bodø and Santa Maria Oceanic Control Areas (OCAs). The OTS planners co-ordinate with adjacent OACs and with domestic ATC agencies to ensure that the proposed system is viable. They also take into account the requirements of opposite direction traffic and ensure that sufficient track/flight level profiles are provided to satisfy anticipated traffic demand. Standard separation between adjacent tracks is a minimum of one degree of latitude at significant points. However, Reduced Lateral Separation Minimum (RLatSM) trials are underway to allow reduction of this separation to one half of one degree. The impact on domestic route structures and the serviceability of transition area radars and navaids are checked before the system is finalised.
+If justified by the anticipated traffic volume, tracks may be established to accommodate the Europe / Caribbean traffic axis or traffic between the Iberian Peninsula and North America. These routes can differ slightly from the 'core tracks' in that they may cross each other using vertical separation via different flight level allocations and, in some cases, that they may not extend from coast-out to coast-in requiring the operator to plan a random routing to join or leave the track. Similarly, some westbound tracks north of 61°N may commence at 30°W to accommodate NAT traffic routing via the Reykjavik OCA and Northern Canada.
+If a strong westerly jetstream closely follows the Great Circle of the dominant NAT traffic flow between London and New York, the resulting daytime westbound minimum time tracks can be located both north and south of this great circle. In such cases Shanwick may publish a "split" track structure allowing sufficient space between the westbound tracks to accommodated random route eastbound traffic.
+Following the initial construction of the NAT tracks by the appropriate OCA, the proposed tracks are published on an NAV Canada operated internet site for review and discussion by interested parties. One hour is allocated for this process during which any comments will be considered by the publishing agency and any agreed changes are then incorporated into the final track design.
+NAT Track Message
+Once finalised, the agreed OTS is promulgated by means of the NAT Track Message. This message is distributed to all interested parties via the AFTN. Typically, the time of publication of the daytime (westbound) OTS is 2200 UTC and of the night-time (eastbound) OTS is 1400 UTC.
+The NAT Track Message gives full details of the co-ordinates of each track of the OTS as well as the flight levels that are expected to be in use on each of those tracks. In most cases, there are also details of domestic entry and exit routings associated with individual tracks (e.g. North American Route (NAR) xxx). The most northerly track, at its point of origin, of the westbound (daytime) OTS is designated Track 'A' (Alpha) with the next most northerly track designated as Track 'B' (Bravo) and so on. For the eastbound (night-time) OTS, the most southerly track, at its point of origin, is designated Track 'Z' (Zulu) and the next most southerly track is designated Track 'Y' (Yankee).
+Each NAT Track Message is identified by means of a 3-digit Track Message Identification (TMI) number based on the Julian calendar date for which that OTS is effective. The Julian calendar is a simple progression of numbered days, without reference to months, starting from the first day of the year. For example, the TMI for the third of January is 003 and that for the fifteenth of February is 046. If any subsequent changes affecting the entry/exit points, routes (co-ordinates) or flight level allocation are made to any part of the OTS, the whole NAT Track Message will be re-issued. The reason for this amendment will be shown in the REMARKS section of the message and a successive alphabetic character (‘A’, then ‘B’, etc) will be added to the end of the TMI number (e.g. TMI 032A).
+The REMARKS section is an important element of the NAT Track Message. The REMARKS may vary significantly from day to day and will include information that Shanwick or Gander OCA deem essential to operators. The REMARKS section might include details of special flight planning restrictions that may be in force such as Data Link Mandated Airspace or Reduced Lateral Separation Minimum trials. The REMARKS section of the eastbound OTS Message will also include information on clearance delivery frequency assignment based on oceanic entry position.
+The normal hours of validity of the two Organised Track Systems (OTS), based on the 30°W crossing time, are 1130 to 1900 UTC daytime (westbound) and 0100 to 0800 UTC night-time (eastbound). Changes to these times can be negotiated between Gander and Shanwick OACs so the specific hours of validity for each OTS are indicated in the header of the corresponding NAT Track Message. Aircraft that will cross 30°W outside these time windows are considered to be on a random track, even though their route of flight might be exactly the same as a published OTS route.
+Follow this link for the current NAT Track Message.
+Correct interpretation of the track message by dispatchers and aircrew is essential. Oceanic airspace outside the published OTS is available to all authorised users, subject to application of the appropriate separation criteria and NOTAM restrictions. It is possible to flight plan to join or leave an outer track of the OTS. If an operator wishes to file partly or wholly outside the OTS, knowledge of separation criteria, the forecast upper wind situation and correct interpretation of the NAT Track Message will assist in determining the feasibility of the planned route.
+OTS Changeover Period
+To provide a smooth transition between the night-time and the daytime OTS, a period of several hours is allocated between the termination of one system and the commencement of the next. These periods are from 0801 to 1129 UTC and from 1901 to 0059 UTC.
+During the changeover periods, some restrictions to flight planned routes and levels are imposed and opposite direction traffic must remain clear of the inbound (terminating) OTS. Aircraft operating during these periods should file flight level requests in accordance with the Flight Level Allocation Scheme (FLAS) as published in the UK Aeronautical Information Publication (AIP) and the Transport Canada Aeronautical Information Manual (AIM). There is often a need, during these periods, for clearances to be individually co-ordinated between OACs and the cleared flight levels may not be the same as those flight planned. If a flight is expected to be level critical, it is recommended that operators contact the initial OAC prior to filing the flight plan to ascertain if required flight levels are likely to be available.
+Related Articles
+
+North Atlantic Operations - Airspace
+North Atlantic Operations - ATC Clearance
+Preferred Route Message (PRM)
+North Atlantic Operations - Contingency
+Reduced Lateral Separation Minimum (RLatSM)
+
+Further Reading
+ICAO
+
+NAT Doc 007 - North Atlantic Operations and Airspace Manual
+NAT Ops Bulletin 2017-002_Revision 05 - OESB – Oceanic Errors
+ICAO 2015 Annual Safety Report: NAT Region, 2016
+
+United Kingdom
+
+UK Aeronautical Information Publication (AIP)
+
+Transport Canada
+
+Transport Canada Aeronautical Information Manual (AIM)
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

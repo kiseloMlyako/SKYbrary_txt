@@ -1,0 +1,142 @@
+Lightning Strike Risk to Engines
+
+
+
+
+
+
+
+
+
+
+
+  Lightning Strike Risk to Engines
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Weather 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+In practice, aircraft are frequently hit by lightning with little or no physical damage. Aircraft are normally designed and certified to withstand lightning strikes. However, narrow-bodied aircraft equipped with FADEC controlled, aft fuselage mounted engines have been found to be vulnerable to double engine flame-out in the event of a lightning strike.
+Aero-thermal Effects
+In the event of a lightning strike, lightning effects can sweep longitudinally down both sides of a narrow fuselage and affect the intake flows of both engines of a narrow-bodied aircraft, where the engines are necessarily mounted close to the fuselage sides (typical of many combat aircraft and all aft-engined business jet and airliner types). A risk therefore exists of a single lightning strike causing both engines to flame-out as a result of Aero-thermal effects.
+
+Lightning effects flowing both sides down the fuselage of a narrow body aircraft with aero-thermal effects disrupting airflow at engine intakes causing flame-out.
+Vulnerability of FADEC Controlled Engines
+FADEC equipped engines have surge protection logic, with the capability of automatically shutting down engines in circumstances of temperature surge such as that related to flow disruption, whereas engines with more traditional fuel control systems do not have this feature. The latter group of engines are more likely to suffer transient over-temperature conditions as an indirect result of a lightning strike, but may stand a greater chance of continuing to run thereafter since shut-down is primarily in the pilot’s control.
+Examples of Lightning events involving engine flameout
+
+E145, vicinity Manchester UK, 2001: On 25 September 2001, an Embraer 145 in descent to Manchester sustained a lightning strike which was followed, within a few seconds, by the left engine stopping without failure annunciation. A successful single engine landing followed. The Investigation concluded that the cause of failure of the FADEC-controlled AE3007 engine (which has no surge recovery logic) was the aero-thermal effects of the strike to which all aircraft with relatively small diameter fuselages and close mounted engines are vulnerable. It was considered that there was a risk of simultaneous double engine flameout in such circumstances which was impossible to quantify.
+
+Solutions
+Operators of small twin jets with narrow fuselages and aft fuselage mounted engines should review their operating procedures to ensure that:
+
+Where an Auxiliary Power Unit is available, it is started when approaching an area where the potential for lightning strikes exists. Then, in the unlikely event of a double engine failure the aircraft will maintain power and hydraulics whilst a rapid engine relight is attempted. [Editor's note: The operating limitations of the APU (i.e. max altitude) may preclude the running of the APU as a precautionary measure. Furthermore, there is a possibility that the APU will itself flame-out as a result of aero-thermal effects.]
+Pilots review the dual engine flameout memory items as a "best practice" when encountering areas of lightning activity.
+
+Related Articles
+
+Lightning
+Lightning Detection Network
+Cumulonimbus (Cb)
+Volcanic Ash
+Flame Out
+Engine Failure After TakeOff - Light Twin Engine Aircraft
+Full Authority Digital Engine Control (FADEC)
+Engine Failure: Guidance for Controllers
+
+Further Reading
+
+UK CAA AIC 29/2004: Engine Malfunction Caused by Lightning Strikes; 29 April, 2004
+Aircraft Lightning Protection Handbook, FAA, 1989
+Lightning Direct Effects Handbook, E. Rupke, March 2002
+
+
+
+
+
+Categories
+
+
+Weather,
+              Weather Phenomena
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,140 @@
+Arrival Manager (AMAN)
+
+
+
+
+
+
+
+
+
+
+
+  Arrival Manager (AMAN)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+An advanced functionality tool the purpose of which is to:
+
+calculate optimum aircraft arrival sequences and times for flights approaching to defined constraint points considering preferred flight profiles, aircraft types, performance, and weight categories, airspace and runway conditions, inbound flow rate, as well as meteorological (MET) conditions and applying suitable optimisation criteria;
+present the planned inbound traffic flow at the controller working positions together with suitably generated advisories for the controller in order to meet the planned arrival sequence and times.
+
+Surce: EATM glossary of terms
+Introduction
+Arrival Manager (AMANs) systems have been developed and deployed in Europe, and elsewhere, over the course of many years. They are primarily designed to provide automated sequencing support for the ATCOs handling traffic arriving at an airport, continuously calculating arrival sequences and times for flights, taking into account the locally defined landing rate, the required spacing for flights arriving to the runway and other criteria.
+AMANs are also used as “metering” tools, assisting in regulating the flow of traffic into the TMAs surrounding busy airports.
+Helping to make best use of the available capacity at an airport combined with a more efficient, and predictable, arrival management process can assist in reducing low-level holding and tactical intervention by the ATCO, leading to lower fuel consumption, less noise and pollution.
+Significant work is currently ongoing in SESAR and NextGen (US ATM modernisation programme) to make arrival management information available earlier in the flight, allowing any required sequencing actions to be taken earlier. Work is also ongoing on exploring the use of the AMAN with other arrival management techniques, such as Controlled Time of Arrival (CTA).
+Description
+Operational requirements for Arrival Manager (AMAN) were developed in the late 1990s and many of these systems are now in use across Europe and elsewhere. Currently arrival management support for ATCOs can be separated into 2 main groups:
+
+Basic Flight Data Processing System functionality - which uses FDPS mechanisms to provide basic arrival information (e.g. an arrivals list and time) for the flights in an inbound traffic flow, and which is used by ATCO’s mainly for information purposes.
+‘Dedicated AMAN’ – the category which covers most of the AMANs operating at the moment. In these systems, aircraft are planned in the sequence using a set of defined needs, principles and rules, and the ATCOs usually operate in a more collaborative, and active, way with the system support.
+
+How it Works
+The AMAN system interacts with several systems, including the host Flight Data Processing System (FDPS) and Radar Data Processing System (RDPS). It uses a combination of flight-plan information, radar information, weather information, local airspace and route information, and an aircraft performance model in its trajectory prediction, resulting in a ‘planned’ time for any individual flight.
+Since the AMAN has certain conditions it needs to satisfy (such as the required landing rate, or spacing, on the runway), when 2 or more aircraft are predicted at or around the same time on the runway it plans a sequence, generating new ‘required’ times that need to be applied to the flight(s), in order to create/maintain the sequence.
+As well as providing sequence information to the ATCO, the system also normally outputs the required time for the ATCO in the form of Time to Lose/Time to Gain information (a typical output might be‘L2’, which means the flight needs to lose 2 minutes to fit into its position in the sequence). The controller is then responsible for finding and applying an appropriate method (vectoring, path stretching, speed changes or holding) for the aircraft to meet its time or position in the sequence.
+
+ 
+AMAN Functionality
+In some developing systems, the required time and delay information can also be translated into a suggested specific action for the controller to consider and if OK in the traffic circumstances at the time, to give to the aircraft to implement – e.g speed 230kts. In even more sophisticated versions the system is developed to give a combined speed/route advisory, but this is not widespread in use.
+Investigations are currently ongoing into how the AMAN advisories could also be turned into Controlled Time of Arrival (CTA) for the aircraft, where the ATCO can chose to provide the time to the aircrew, who would then use the aircraft FMS and systems to fly the aircraft towards its required time (RTA).
+Further Reading
+EUROCONTROL
+
+Arrival Manager, Implementation Guidelines and Lessons Learned, 17 December 2010
+
+
+
+
+
+Categories
+
+
+General,
+              SES Implementation,
+              SESAR
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

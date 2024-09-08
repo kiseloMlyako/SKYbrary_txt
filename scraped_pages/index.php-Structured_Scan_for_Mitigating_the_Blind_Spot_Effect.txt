@@ -1,0 +1,172 @@
+Structured Scan for Mitigating the Blind Spot Effect
+
+
+
+
+
+
+
+
+
+
+
+  Structured Scan for Mitigating the Blind Spot Effect
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Separation 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+This article describes the contributing factors that may lead to controllers not performing a proper structured scan (and ultimately result in a “blind spot” event) as well as the best practices to be used for preventing this.
+Blind Spot Effect
+The mechanism of the blind spot occurrence by definition is “controller not detecting a conflict”, i.e. inadequate attention and situational awareness. Attention is a limited resource and there are numerous processes that compete for it. It consists of two elements – vigilance (maintaining awareness) and focus (concentration on the task) which may be affected by:
+
+Competition for the attention resources from other tasks (particularly during high workload scenarios), distractions, attempts to remember.
+Erosions of the attention resources by filtering mechanisms and physiological factors like fatigue.
+
+Structured Scan
+The structured scan is a technique used by controllers to confirm that the clearance that is about to be issued is safe. Prior to making an executive decision the controller should scan all of the appropriate information, including the situation display and the flight data (strips or other information). It is akin to crossing the road. Listen, check right, check left, check right again. In ATC, it is check situation display, check flight data (strips), check co-ordinations agreed, evaluate immediate situation and the immediate and future implications (in the own sector and often in the adjacent sector) – all to be done between “standby” and “affirm”. Structured Scan has the potential to prevent most losses of separation caused by Blind Spot. Surveillance information may be suppressed or diffused. Track labels may be obscured and flight data displays may not be arranged in an optimal way to immediately highlight a particular conflict. Time pressure and workload may erode the controller’s attention and working knowledge may then become layered and then filtered. When a controller comes under pressure, a “return to basics” technique such as using a structured scan before making an executive decision would reduce the likelihood of an error.
+Incomplete Scan Contributors
+All controllers are well aware of the benefits of the structured scan. Also, they were taught how to do it during their training. Nevertheless, sometimes a controller would fail to properly perform this procedure. This is usually not attributed to poor training or lack of competence and in most cases the situation involves one or more of the following contributing factors:
+
+Time pressure – e.g. a rush to:
+
+accommodate a pilot’s request;
+accommodate a next sector’s request;
+solve a short-term conflict (e.g. expected to occur in 5-6 minutes or sooner).
+
+
+High workload – in such situations the human mind tends to reduce the workload by segmenting the task and narrowing the ‘look-ahead’ tactical horizon, simplifying or even skipping procedures.
+Obscured information. Sometimes the information on the situational display is obscured, e.g.:
+
+A filter is used to cut out unnecessary and irrelevant information;
+Overlapping aircraft labels;
+Windows overlapping traffic. While this is a very rare occasion, it is possible that e.g. a diverting aircraft enters the sector from an unexpected direction.
+
+
+Incomplete situational awareness, e.g. due to recent handover or sector split/collapse or due to lack of significant operational information (e.g. unknown inbound traffic from adjacent sectors or unplanned/unexpected traffic manoeuvres due avoidance of severe weather.)
+Information filtering (the information is presented on the situational display and is visible but is not taken into account). In most cases, ATS systems use dull colours to display traffic that is of little or no interest to the controller. It is therefore easy to assume that all such aircraft do not present a threat to the aircraft under control. There are situations, however, where this is not the case, e.g.:
+
+A recently handed over aircraft which remains near the boundary (e.g. due to the execution of a holding pattern or having changed its flight plan due to an abnormal situation or emergency).
+An aircraft within the sector which is controlled by a controller from another sector.
+Controlling an aircraft outside own area of responsibility (which usually means that all aircraft in the other sector are presented by the automated system as “unconcerned”).
+A flight in “wrong state” inbound from another sector (e.g. uncorrelated or with an incorrect/not updated trajectory, etc.).
+
+
+
+Best Practices
+The advice given in this section is derived from experience and common sense and is not expected to replace or supersede local instructions.
+
+Resist the urge to accommodate requests (made either by pilots or controllers from adjacent sectors).
+Unless there is a safety issue, avoid harassing adjacent sectors with requests to promptly respond to your proposal.
+Take into account all aircraft in the immediate vicinity, regardless of colour representation by the automated system. Ideally each track should be checked and confirmed not to be a potential safety threat.
+Extra attention should be given on controlled aircraft outside own area of responsibility. In such situations, most or all of the other aircraft in the vicinity of the controlled aircraft are represented as “unconcerned”. Therefore, the risk of a Blind spot is significantly increased.
+Make sure that aircraft labels do not overlap and do not lead to confusion (e.g. due to crossing leader lines).
+Use supporting tools. Most ATS systems provide some sort of assistance for short-term conflict detection, e.g. a tactical controller tool (TCT) or a “what-if” function and a simple input of the clearance (e.g. a CFL) before issuing it would usually trigger an MTCD check.
+
+Related Articles
+
+Blind Spots – Inefficient conflict detection with closest aircraft
+Tactical Controller Tool (TCT)
+Loss of Separation
+Loss of Separation - ATCO-induced Situations
+Loss of Separation During Weather Avoidance
+Loss of Separation at Sector Boundaries
+Radar Control - Collision Avoidance Concepts
+Safety Nets
+Medium Term Conflict Detection (MTCD)
+Free Route Airspace (FRA)
+
+Further Reading
+
+Controller Blind Spot - EUROCONTROL Network Manager Top 5 Operational Safety Review, 3 March 2022.
+Operational Safety Study: Blind Spots, by EUROCONTROL SISG
+
+
+
+
+
+Categories
+
+
+Loss of Separation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

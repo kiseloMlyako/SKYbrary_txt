@@ -1,0 +1,130 @@
+Multilateration
+
+
+
+
+
+
+
+
+
+
+
+  Multilateration
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MLat
+Description
+Multilateration (MLat) is a proven technology that has been in use for many decades in both navigation and surveillance applications. It is based on a methodology known as Time Difference of Arrival (TDOA) which can be utilised in one of two ways:
+
+The signal from a mobile unit is measured at a number of known, fixed locations
+The signals from a number of fixed locations are measured by a mobile receiver
+
+The TDOA of the signals at the receiver(s) allows the position of the mobile entity to be determined.
+Navigation Application
+As a navigation tool, multilateration uses a single, mobile receiver to measure the signals transmitted from a number of sites at fixed, known positions. The process is known as hyperbolic navigation as, with two transmission sites, there is a hyperbolic curve upon which the receiver could lie for any specific Time Difference of Arrival pairs. Adding a third transmission site reduces the entire hyperbolic curve to two specific possible points of location, one of which can normally be discarded as improbable. Adding a fourth transmission site would result in a single calculated position for the receiver.
+In theory, the fixed sites would all emit a pulse signal, at precisely the same time but on separate frequencies to avoid mutual interference. The measured TDOA at the receiver would then allow calculation of the receiver position. However in practice, the implementation of multilateration in operational systems required somewhat more complex transmission strategies.
+Historical usage of the multilateration technology for navigation includes systems such as Gee, DECCA, LORAN and Omega. Current systems such as the Global Positioning System (GPS) and Wide Area Multilateration (WAM) also use multilateration principles.
+Surveillance Applications
+Multilateration can also be used for both ground (aerodrome) and air traffic surveillance. MLat sensors (transmitter/receivers) can be sited within the airport boundaries for ground surveillance, at and near an airport for monitoring arrival and departure traffic or over an extended area, where conventional radar is not practical or possible, for monitoring enroute traffic.
+In response to an interrogation signal from one of the MLat sensors, the vehicle or aircraft transponder will transmit a reply that will be received and processed by all of the MLat sites. The variance of TDOA at the various ground sites will allow accurate determination of the vehicle or aircraft position. The MLat sensors can also receive and process aircraft GPS position from their Automatic Dependent Surveillance Broadcast (ADS-B) transmissions.
+Related Articles
+
+Autonomous Runway Incursion Warning System (ARIWS)
+Global Positioning System (GPS)
+Wide Area Multilateration (WAM)
+Automatic Dependent Surveillance Broadcast (ADS-B)
+Runway Incursion
+SE053: Enhanced Airport Surveillance Equipment
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

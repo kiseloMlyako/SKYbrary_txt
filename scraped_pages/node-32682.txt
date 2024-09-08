@@ -1,0 +1,178 @@
+The Tower Controller
+
+
+
+
+
+
+
+
+
+
+
+  The Tower Controller
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+The tower (TWR) controller (also referred to as "aerodrome controller") is responsible for the provision of air traffic services to aerodrome traffic. Their area of responsibility includes:
+
+the manoeuvring area, i.e. runway(s) and taxiway(s). It should be noted that although the TWR controller communicates with aircraft on the apron(s) as well, this is not part of their area of responsibility.
+the airspace in the vicinity of the aerodrome
+
+The TWR controllers are situated at the aerodrome control tower as they rely mostly on visual observation to do their job. By contrast, area and approach controllers work in operations (ops) rooms and their main tool is the situation display. The TWR controller may also work in an ops room in case a remote tower solution is used. However, this will visually resemble a real tower with large screens providing information from the remote cameras.
+Provision of Air Traffic Service
+There are three major types of traffic serverd by the TWR controller: 
+
+Departures 
+Arrivals
+Overflies, i.e. aircraft passsing through the CTR.  These are a relatively small part of the total traffic served by the TWR controller.
+
+The subsections below describe some typical actions and considerations related to the provision of ATS by TWR controllers. Note that these are not universal and are heavily influenced by the local procedures. For example, at busier aerodromes these are shifted towards uniformity and the reduction of verbal coordination between the tower and approach controllers. If the traffic levels are low enough, the procedures may be more flexible to allow better accomodation of crew requests (e.g. the runway to be used). In any case however, maintaining high levels of safety remains the primary concern.
+Departure Flights
+The TWR controller provides ATS during the start-up, taxi-out and take off phases of the flight. Contrary to the Approach controller whose main task is to properly sequence the arrivals, the TWR controller spends more time serving the depatures. 
+
+Start-up. The start-up request is often the first contact between the pilot and the TWR controller. Normally this request is approved unless there is a good reason to do otherwise, e.g. in case an approaching aircraft is going to perform an emergency landing or the tower controller needs the start up delayed by a few minutes for sequencing reasons. This initial contact is also the moment when the ATIS information is confirmed (or updated) and CTOT information is provided. Depending on the aerodrome and the particular traffic and weather situation the runway to be used can be discussed and the departure clearance can be passed and acknowledged. The latter, however, may not be available yet, e.g. due to the need to coordinate it with the approach controller.
+Pushback. Depending on how the aircraft is parked (e.g. on an airbridge), it may not be possible to taxi forward. In this case, a tug is used to push the aircraft back and align it with an apron taxiway. This manoeuvre is to be approved by the TWR controller or the apron management, depending on the local procedures. It may also be necessary to specify the direction of the pushback (e.g. which direction the aircraft must be facing when the procedure is complete).
+Clearance delivery. The ATC clearance for departing aircraft determines the route to be followed after departure (either an SID or some non-standard routing), the cleared level for the initial climb as well as any applicable restrictions (or lack thereof) and other information (e.g. the SSR code). Ideally, this is provided at start-up so that the crew is not interrupted during the start-up or taxi procedures, when their workload is higher. However, this is sometimes not possible, due to the need to coordinate the clearance with the approach controller and to tailor it to the current siutation. Having in mind that this is a lengthy transmission, the controller may choose to wait until the aircraft is ready to taxi, or to advise the crew that their clearance is available. In the latter case, the crew will choose the moment to copy the clearance based on their workload. While it is possible to provide the clearance during the taxi phase, this should be avoided because it may distract the crew and increase the risk of a collision (either with another aircraft or with an obstacle). This is especially true for single-pilot aircraft. If the taxi has commenced, the risk can be reduced by choosing a moment when the aircraft is not in a turn and there are no obstacles ahead to reduce the risk of ground collision. After receiving the clearance, the crew must read it back. The controller must carefully listen to the readback, correct any errors and insist that no items are skipped. The clearance, as well as any amendments thereto, should be coordinated with the approach controller, either verbally or electronically. 
+Taxi out. This phase starts with the taxi request. The controller evaluates the situation, taking into account the aerodrome layout, the traffic situation, the runway-in-use and any other relevant circumstances and determines the optimal taxi route. This is then passed to the crew and acknowledged. The taxi route should preferebly be conflict-free. If this is not possible, appropriate instructions need to be issued (e.g. for giving way to a particular aircraft or to stop at a specific point). In case the taxi route includes crossing another runway, the controller should explicitly state whether the aircraft is cleared to cross or is expected to hold short of that runway. The taxi instructions also help the controller to properly sequence the departures. Normally, a high performance aircraft would depart before the slower one so that they are not conflicting after becoming airborne.
+Line up. When the aircraft approaches the holding position, the controller evaluates the situation and chooses whether to instruct the aircraft to line up on the runway or to stop at the holding position. For example, if there is no traffic on final or on the runway, a line up and take off clearance can be issued. If an aircraft has just landed, a line up and wait instruction would be be appropriate. If it is not safe for the aircraft to enter the runway (e.g. due to another aircraft on short final), the instruction to hold at the holding position can be reiterated. In specific situations, when an aircraft is on approach but is "far enough", it is possible to coordinate with the crew the feasibility of an immediate departure. 
+Take off clearance. The take off clearance means that the controller has ensured there is no traffic or other obstacles that would compromise a safe departure. Before issuing it, the TWR controller coordinates it with their colleague from the approach. While the TWR controller is supposed to constantly monitor the manoeuvring area, they perform a dedicated quick scan of the runway just before issuing the take off clearance. This is not necessarily done at or after the holding position and may even happen as early as entering the taxiway. The controller continues to monitor both the deparing aircraft and the runway for signs of any irregularities (e.g. aircraft non-compliance, smoke or fire, runway incursions, birds and other animals, etc.). They are not supposed to address the crew after the take off clearance is given and before the aircraft is airborne unless there is a serious safety concern. The take off clearance should also take into account the applicable separation minima, including those related to wake turbulence. When the flight is airborne, the tower informs approach so that they may identify the aircraft using the "after departure" procedure. Control is normally transferred to the approach controller during the initial climb.
+
+Arrival Flights
+The TWR contoller provides ATS during the landing and taxi-in phases of the flight. Control is normally transferred from the approach controller during the final approach.
+
+Landing clearance. This is issued when the controller has ensured there is no traffic or other obstacles that would compromise a safe landing. Again, a quick scan of the runway before providing it is done to make sure it is really clear of any hazards. After that, no transmissions to the aircraft are expected until it has landed and slowed down unless there is a serious safety issue. Therefore, any instructions about the path to be flown in case of a go-around or the taxiway to be used for vacating the runway should be provided prior to the landing clearance.
+Taxi in. As with the taxi out phase, the controller needs to choose an appropriate route, starting from the point of runway vacation until at least reaching the apron where the aircraft is transferred to a follow-me car. At some aerodromes, the tower controller provides taxi instructions for reaching the assigned parking position as well. However, they are not responsible 
+
+Transit Overflies
+The TWR controller sometimes provides ATS to aircraft that are neither taking off from, nor landing on the aerodrome being served. These are usually low flying VFR traffic. These flights need to obtain entry clearance into the TWR airspace. The controller grants one based on the traffic situation and may need to instruct the overflight to execute some type of holding procedure (e.g. an orbit) and decide on the appropriate flight path to be followed (e.g. above the runway to avoid crossing the extended centreline). When the airspace crossing is complete, the aircraft is transferred to an appropriate unit, depending on the airspace structure.
+Other Flights
+There are other types of flights that can be served by the tower, e.g. training flights (comprising multiple takeoffs, landings and flying the aerodrome traffic circuit), calibration flights (used to make sure the aerodrome radio aids are operating as expected), etc. While they technically fall into one of the above categories, the prolonged period of time they spend in the TWR's airspace justifies them being treated as a separate type of flight. The TWR controller needs to take account of these when deciding on the contents of the departure clearance and may need to provide specific missed approach instructions to make sure separation with such flights is achieved. 
+Handling such flights may also need to be coordinated with the approach controller. For example, the TWR may transfer it to approach after becoming airborne, then approach would vector it until it is established on the ILS and transfer it back to TWR again. Alternatively, the controllers may agree that the TWR will handle the flight and will inform Approach for certain events (e.g. each take off or the last landing).
+Transfer of Control
+Depending on the local procedures and the prevailing weather, the exact moment when control is transferred between the tower and another controller may vary. Examples of this include:
+
+If there is no Approach control unit associated with the aerodrome, control of departing and arriving aircraft may be transferred directly between the Tower and an Area control centre
+If low visibility procedures are in force, the transfer of control for departing aircraft may happen either 
+
+Equipment
+The TWR working position is equipped with specific tools and systems.
+The main method for establishing and maintaining situational awareness for the TWR controller is the visual observation of the manoeuvring area and the airspace in the vicinity of the aerodrome. This is normally done through direct observation (i.e. looking through the windows of the control tower). If, for some reason (e.g. buildings or other obstacles) this cannot be achieved, a visual surveillance system can be used to cover the "blind spots". The TWR controllers can also use binoculars to observe distant or smaller objects.
+The TWR controller's situational awareness can be enhanced by using:
+
+ATS surveillance systems based on radar or other appropriate equipment (e.g. ADS-B or MLAT). These systems are used to monitor the airspace in the vicinity of the aerodrome. The TWR controller does not normally use them operationally, i.e. does not provide separation based on the data obtained from them. However, based on national legislation and/or local procedures, such use is possible. For example, in the EU, holders of an ADI (aerodrome-instrument) rating with a RAD (radar) endorsement can use such systems operationally.
+SMR and A-SMGCS. These systems are used to monitor the ground movements (at least on the manoeuvring area but they often cover the whole movement area). They are especially helpful at night or in low visibility as they allow little or no capacity reduction. Such systems are intended to be operationally used by TWR controllers although additional personnel requirements may apply. For example, in the EU, TWR controllers need a GMS (ground movement surveillance) endorsement to their ADI rating. Other working positions (e.g. the approach controller) may also be presented with data from SMR/A-SMGCS but are not allowed to use it operationally.
+
+Tower controllers normally use flight progress strips to map the traffic situation. These can be paper or electronic. The latter are used in modern systems and can be dynamically linked to the ATS system so that the controller can benefit from various safety and automation features. The use of strips by area and approach controllers, while possible, is gradually declining, as these are replaced by label-based solutions (i.e. the pertinent flight information is presented on a lablel that is attached to the track symbol of the aircraft). 
+The TWR controllers are equipped with additional (emergency) communication options that are not available to their colleagues in the operations rooms - Light and Pyrotechnic Signals. A Light Gun can be used to signal various instructions and a Flare Gun can fire red projectiles to inform the crews that it is not safe to land.
+Working Positions and Roles
+The number of controller working positions depends on the traffic demand and the aerodrome layout. 
+Smaller aerodromes with one runway can have single person operations, i.e. only one controller at any given time. If necessary, another person may assist the controller with traffic planning and coordinations with adjacent units and facilities but they normally do not operate the radio.
+When traffic demand increases, it may be necessary to form a separate working position (ground, GND), which serves aircraft during the start up and taxi phases. Control for departing flights is transferred to the TWR when approaching the runway holding position. Arrivals are transferred to GND after the runway has been vacated. Naturally, these moments may vary depending on local procedures.
+Further increase of traffic may warrant the establishment of a clearance delivery position. This person normally provides start-up and departure clearances to IFR aircraft. 
+Where parallel or near-parallel runways are used for simultaneous operations, individual aerodrome controllers are normally responsible for operations on each of the runways.
+Related Articles
+
+How Air Traffic Control Works
+The Area Controller
+GND-TWR Co-ordination
+Remote Tower Service
+Integrated Tower Working Position (ITWP)
+
+Further Reading
+
+ICAO Doc 4444 PANS-ATM
+CAP493: MATS Part 1, Section 2
+FAA JO 7110.65: Air Traffic Control, Chapter 3 
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

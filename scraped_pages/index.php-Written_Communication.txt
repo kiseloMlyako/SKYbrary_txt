@@ -1,0 +1,188 @@
+Written Communication
+
+
+
+
+
+
+
+
+
+
+
+  Written Communication
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Human Behaviour 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+Written forms of communication are widely used in aviation and the information communicated can be critical to safety. The variety of information communicated is broad, and the medium used for writing also varies. For example, written communication in aviation, and its media, includes items from the following list:
+
+Regulations
+Procedures
+Technical Drawings
+Engineering Manuals and Job Cards
+Aircraft and Flight Manuals
+Aerodrome Manuals
+Aircraft Performance Graphs and Tables
+Aircraft Load Sheets
+Checklists
+Flight Reference Cards / Quick Reference Handbook (QRH)
+Flight Progress Strips
+ATC HMI
+Aeronautical Information Publications (AIPs)
+Notices to Airmen (NOTAMS)
+Aerodrome Approach, Departure and Taxi Charts
+Flight Information (e.g. via EFIS and FMS displays)
+Electronic Centralised Aircraft Monitor (ECAM) / Engine Indicating and Crew Alerting System (EICAS)
+Controller Pilot Data Link Communications (CPDLC)
+ACARS
+Accident, Incident and Occurrence Reports
+etc…
+
+Written Communication Feedback
+Unlike verbal communication, with written communicaation one part of the communication loop is missing, i.e. the “author” (transmitter) is absent, and therefore the reader (receiver) has no direct way of testing meaning. Yet, frequently, confirmation of meaning needs to be attained i.e. when instructions are incomplete, unclear or even ambiguous. Sometimes this confirmation of meaning is attained from colleagues who have more experience and “just know” or, where experience levels are similar, through consensus of opinion. In this latter case, assumptions will be shared (right or wrong). Another third-party confirmation of meaning, which is quite common, is the type of guidance material produced by authors (regulators, manufacturers, designers, operators, etc.) to assist users.
+In many cases it doesn’t matter that the feedback loop for written communication is slow as sometimes time is not critical. However, when time is limited, i.e. when using emergency checklists, there is no time to check understanding and meaning. Therefore, the more critical the written information, the more precise, concise, clear and unambiguous it needs to be. Naturally users would also be trained for greater familiarity with emergency checklists as opposed to an obscure procedure for fitting an electric pump to an aircraft.
+Feedback to the author, though, is still essential, as errors, unlike verbal communication, will also be transmitted to all potential readers into the future, instead of just “one-off”. However, it is human nature to “forget” to provide feedback to authors once we are removed in both time and context from the situation in which we noticed the error. Basic laziness! Therefore organisations’ safety management systems need to emphasise the importance of feedback of errors, confusions, ambiguities and other problems encountered. This shall include amendment procedures and version control of all documentation.
+Human Factors Design Principles
+There is, of course, a vast difference between a scribbled note passed to a pilot by a ground-handler confirming the amount of fuel uploaded, and the layout of a checklist on an aircraft’s Engine Indicating and Crew Alerting System (EICAS). However, both forms of written communication can be more effective if they are “designed”, or written, to assist the reader: whether this is underlining the important elements e.g. total fuel figure, or distinguishing (perhaps by colour) between essential priority actions and less urgent follow-up actions. Documentation is often an interface between the reader and other system components. It may contribute to the reader’s cognitive understanding of systems, hardware, software, procedures and human interactions. To be successful, a document must be appropriate to the knowledge and skills of its users, to the tasks they will perform whilst using the document, and to the environment in which the users will perform these tasks[1]. To ensure successful written communication, a document might be development using the following steps:
+
+determine the relevant characteristics of the users of the document, in particular, their existing knowledge and skills,
+determine the environment in which the document will be used,
+determine the tasks to be covered by the document,
+determine the users’ information requirements,
+determine the appropriate types of documentation,
+create draft documents,
+perform technical reviews, and
+perform usability test.
+
+In answering the questions listed above, the preferred design of a document emerges. What the reader experiences, i.e. the consequences of a design process, includes the following:
+
+Order of priority and urgency clearly defined (perhaps by colour and positioning)
+Ease of access and navigation (perhaps through accessible tabbing and also through colocation of related information)
+Colours
+Fonts
+Spacing and page layouts
+Hierarchies as shown through paragraphs and lists
+Differentiating instructions (“must do”) from guidance (“may do”)
+Cross-referencing
+Levels of consistency
+etc…
+
+All of the above elements can help or hinder the user’s experience, and therefore impact on safety.
+Some regulating bodies are starting to require, or recommend, that operators’ (airline, aerodrome, maintenance and ATC) manuals and checklists are designed with consideration to human factors principles.
+The Human Element
+No matter how brilliantly a form of written communication is designed and executed, the last link in the chain is the human who is reading the communication and who will use the information to take action or make a decision of some sort. Therefore understanding the factors that affect human performance is essential. This includes the environmental and psychological factors that “interfere” with concentration, focus, cognition, and decision-making.
+Numerous magazine articles and scientific papers quote percentages for how much information humans “take-in” when reading. No matter whether they are accurate or not, we all have experience of reading something and instantly forgetting what we’ve read. This is more likely to happen when we are fatigued or in a noisy or, otherwise, distracting environment. We also “know” that we have different personal reading modes that we apply to different media: social internet media, newspapers, fashion/sports magazines, novels, revision papers, and technical manuals etc. Our “modes” of reading seem to depend on the level of importance, interest and time available: they are proportional to the degree of focus and concentration we apply. It is beyond the scope of this Article to examine the psychology behind reading and cognition, but it may be worth examining your own reading styles and determining the factors that make it more likely that you can achieve a state of concentration and focus that allows a high percentage of success in remembering and understanding what you have just read. Also, to assist others when they are reading written communication then, as with verbal communication, choosing the time and place can facilitate success.
+Related Articles
+
+Aircraft Flight Manual (AFM)
+Controller Pilot Data Link Communications (CPDLC)
+Emergency and Abnormal Checklist
+Minimum Equipment List (MEL)
+Operations Manual
+Quick Reference Handbook (QRH)
+
+Further Reading
+
+Degani, A., & Wienr, E. 1990. Human Factors of Flight Deck Checklists: the normal checklist. Contractor Report NCC2-377. California. Ames Research Centre. NASA.
+EUROCONTROL. 2009. Notices to Airmen – NOTAMS. Annex to EURCONTROL Guidance Note 3.
+FAA. 1995. Human Performance Considerations in the Use and Design of Aircraft Checklists. US Department of Transportation.
+ICAO. Doc 9683. Human Factors Training Manual. 1st Edition. 1998.
+ICAO. Doc 9824. Human Factors Guidelines for Aircraft Maintenance Manual. 1st Edition. 2003.
+Safety Behaviours: Human Factors Resource Guide for Engineers - Chapter 8: Communication - CASA (Australia), 2013
+
+References
+
+^ Wagner, D., et al. 1996. Human Factors Design Guide: for acquisition of COTS Subsystems etc. US Department of Transport DOT/FAA/CT-96/1.
+
+
+
+
+
+Categories
+
+
+Human Behaviour,
+              Human Factors
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

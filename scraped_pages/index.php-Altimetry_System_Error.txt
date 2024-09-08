@@ -1,0 +1,172 @@
+Altimetry System Error
+
+
+
+
+
+
+
+
+
+
+
+  Altimetry System Error
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Flight Technical 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+Altimetry System Error The difference between the altitude indicated by the altimeter display, assuming a correct altimeter barometric setting, and the pressure altitude corresponding to the undisturbed ambient pressure. (ICAO doc 9574)
+Put more simply, ASE is the difference between the altitude that the pilot, ground controller and aircraft systems believe the aircraft to be at and the actual altitude. To be compliant with international standards, the ASE of an aircraft must be less than 245 ft.
+Aberrant Aircraft Those aircraft which exhibit measured height-keeping performance that is significantly different from the core height-keeping performance measured for the whole population of aircraft operating in RVSM airspace. (ICAO doc 9574)
+Description
+The introduction of reduced vertical separation minima (RVSM) into Europe in 2002, by which the vertical separation between high level traffic was reduced from 2000 ft to 1000 ft, was partially enabled by the ability to measure true aircraft altitudes during normal operations. This was crucial to the program safety case as the risk of an accident is inherently greater in a 1000 ft separation environment.
+By deploying the first wide area height monitoring infrastructure in the world, EUROCONTROL established itself as a world leader in height monitoring activities and the evaluation of Altimetry System Error (ASE). ASE is the difference between the altitude where the pilot, the ground controller and the aircraft’s own systems (including TCAS) believe the aircraft to be and the true altitude. The most important fact regarding ASE is that it is invisible to all except the Height Monitoring Units (HMU) that operate 24/7 monitoring some of the densest portions of airspace in Europe.
+Whilst the evidence from the HMU systems supports the assumption that operations in RVSM airspace are safe, other assumptions regarding ASE have had to be reconsidered. This has implications for air operators, maintenance organizations, airworthiness authorities, aircraft and avionics manufacturers and engineering organizations supplying aircraft modifications.
+Measuring ASE
+Before the development of Height Monitoring Systems it was not feasible to measure the ASE of large populations of aircraft. It was believed that an aircraft’s ASE was stable over time and that large errors could be clearly identified by regular maintenance checks and inspections.
+The evidence gathered to date by the European Regional Monitoring Agency (EUR RMA) indicates that these assumptions are not always correct.
+One of the original assumptions about Altimetry System Error was that it was stable over time, i.e. the ASE characteristics of an aircraft would be constant. Once confirmed as compliant with international standards there should be no requirement for the ASE to be re-evaluated, providing that the configuration of the aircraft remained the same. It is only since the evolution of practical height monitoring systems that the real picture has emerged and the evidence suggests that the facts may in some cases be significantly different to the theory.
+The design and careful siting of the individual HMU systems has enabled the RMA to build up an ASE profile, over time, for many hundreds of airframes. Evaluation of many of these profiles indicated that a number of aircraft were exhibiting ASE characteristics that were not constant but drifting in a linear fashion. Additional investigations identified that this drift was not always isolated to individual airframes but observed as a characteristic of the aircraft type. Another surprising characteristic frequently observed was a bi-modal split between the 2 separate altimeter systems on board some aircraft. Splits in ASE performance in excess of 100 ft between pilot’s and co-pilot’s systems have not been uncommon.
+The graph below illustrates an aircraft ASE profile that has a low ASE and is also stable over time. The zero value on the vertical axis represents a zero value of ASE so that the position of the individual results above or below this value (as indicated by the graph plots) represents the magnitude of ASE for this aircraft (between +40 and -50 feet)
+
+Aircraft ASE profile that has a low ASE and is also stable over time
+In contrast, the next example ASE curve shows the long term ASE curve for an individual aircraft where deteriorating ASE has not been identified during scheduled checks.
+
+ASE curve above shows the long term ASE curve for an individual aircraft
+The graph below shows the ASE curve for an individual airframe showing an increase of ASE from approximately -50 feet to over -150 feet in 1 year. The vertical line illustrates when this aircraft came to the attention of the EUR RMA and took action. Improvement in performance after the operator changed faulty pitot heads is clear to see.
+
+ASE curve for an individual airframe showing an increase of ASE from approximately -50 feet to over -150 feet in 1 year
+Causes of Altimetry System Error
+In the years that have passed since the introduction of RVSM, the RMA has reported and assisted in the resolution of many ASE investigations. Between 2008 and 2010 alone, the RMA has had reason to investigate 157 individual airframes for non-compliant or aberrant ASE performance as well as 12 generic investigations into aircraft types. The most common causes of ASE to date include:
+
+Damage to static ports and pitot tubes
+Pressure leaks in pitot/static pipes
+Air data computers out of tolerance
+Poor paint finish in static port sensitive areas
+Adequacy of RVSM inspection procedures
+Component life span
+Non-optimised Static Source Error Corrections
+Pressure variation caused by skin waviness effects
+
+Examples of Pitot-Static System Damage Contributing to ASE
+
+
+Although the RMA continues to monitor and assist operators to resolve problems of ASE there are a number of issues that require wider discussion to determine if current certification and maintenance practices are sufficient. These include:
+
+Capability to identify causes of aberrant ASE performance due to inadequate RVSM inspection procedures.
+Availability of specialist test equipment.
+Adequacy of procedures for in situ evaluation of components and Air Data Computers
+Verification of RVSM approval data package for derivative aircraft modified by STC, SB or TC amendment.
+
+Monitoring Requirements
+The extent of the issues associated with Altimetry System Error only became apparent due to the monitoring programs initiated for the implementation of RVSM in the North Atlantic and Western Europe. ICAO quickly responded to the initial findings presented to its Safety and Airspace Separation Panel (SASP) by issuing an amendment to Annex 11 requiring all regions where RVSM was implemented to include a permanent monitoring program and to establish a Regional Monitoring Agency.
+In 2005/06, additional examples of long term ASE instability were provided to the SASP from the monitoring programs in the North Atlantic and Western Europe. This resulted in an amendment to ICAO Annex 6 (2010) requiring all operators of RVSM approved aircraft to participate in long term regional monitoring programs. The amendment to Annex 6 requires all operators of RVSM approved aircraft to submit a minimum of 2 aircraft, of each type operated, to be height monitored at least once every 2 years or 1000 flying hours, whichever the greater.
+The Regional Monitoring Agency Coordination Group has developed a recommended Minimum Monitoring Requirements table which includes a variable monitoring target which is dependent on performance and sample size. However, it is for each Regional Planning Group to determine whether this MMR, (or any alternative MMR) should be adopted as a regional requirement. The lowest level of monitoring required by the MMR equates to the Annex 6 requirements and is reserved for aircraft types that have a large number of compliant monitoring results which are stable over time, from a representative sample size. For aircraft types that do not satisfy one or more of these criteria, there is a higher monitoring requirement of 60% of an operator’s fleet. For aircraft types with no monitoring history, or that do not satisfy generic aircraft performance requirements, it is possible for the RMA to allocate a 100% monitoring requirement.
+Related Articles
+
+Altimeter
+Pitot Static System
+Reduced Vertical Separation Minima (RVSM)
+European Regional Monitoring Agency (RMA)
+Height Monitoring Units (HMU)
+Loss of Separation
+EUROCONTROL Safety Alert Aircraft Altimeter Failure
+
+Further Reading
+
+ICAO doc 9574: "Manual on Implementation of a 300 m (1 000 ft) Vertical Separation Minimum Between FL 290 and FL 410 Inclusive"
+Eurocontrol RVSM / EUR-RMA website
+HindSight 12 - AIRPROX - Altimeter System Error - What's my level?: Chantal Bonnet
+EUR OPS Bulletin 2023_001: Risks related to altimeter setting errors during APV Baro-VNAV and non-precision approach operations, ICAO, 27 July 2023
+
+
+
+
+
+Categories
+
+
+Flight Technical,
+              Level Bust
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

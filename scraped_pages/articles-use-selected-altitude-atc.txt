@@ -1,0 +1,160 @@
+Use of Selected Altitude by ATC
+
+
+
+
+
+
+
+
+
+
+
+  Use of Selected Altitude by ATC
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Selected altitude is one of the downlink data items transmitted in Mode S enhanced surveillance. 
+Representation of selected altitude differs from one system to another but in most cases the data is shown in the track label (either as a separate field or hidden "under" another value, e.g. the cleared level but available by cycling between the two by e.g. the right mouse button). There is usually a warning (e.g. using a different colour) in case of mismatch between the cleared level and the selected altitude.
+
+
+ 
+
+CopyrightSKYbrary
+
+
+
+Example representation of Mode S selected level in the track label. Note that the image is for illustrative purposes only and is not taken from a real ATS system.
+Availability of selected altitude information is beneficial in a number of ways:
+
+reduces the risk of a level bust. If spotted immediately, the indication for discrepancy between the selected and the cleared level gives the controller the opportunity to issue an appropriate instruction, e.g. to maintain the level. Examples of this include:
+
+early warning in case of misunderstood clearance. For example, if a controller clears an aircraft to descend to FL 290 (out of FL 370) and the pilot sets the target level as FL 190, the discrepancy will be discovered and rectified well in advance. If selected level information is not available, this will only happen after the aircraft does not stop its descent at FL 290 at which point an incident may already have happened (e.g. a loss of separation or an infringement of an active SUA).
+
+ 
+
+CopyrightSKYbrary
+
+
+Note that while ASB0409 is descending to the wrong level (FL 190 instead of the cleared FL 290), the system warns the controller by using colour (yellow) and special symbols (arrows) to draw attention to the parameter of concern.
+early/additional warning in case of call-sign confusion. If a pilot accepts a vertical clearance intended for another aircraft, there will be two warnings for CFL/Mode S level mismatch - one for the aircraft that the clearance was indended for (but is not acted upon) and another one for the aircraft that is not supposed to change level.
+
+ 
+
+CopyrightSKYbrary
+
+
+Both ASB0409 and ASB977 have start their initial descent as they approach their destination. ASB977 mistakenly accepts the clearance intended for ASB0409. If the incorrect readback remains undetected, the controller may still issue a corrective instruction in time to prevent a potential loss of separation between ASB997 and DVK1208.
+
+
+enhances the controller's situational awareness. For example, if a descending aircraft is transferred to an approach controller, and there is no electronic handover procedure, observing a change of the selected level would be an indication that the aircraft is in contact with the next unit and is cleared to a lower level. For inbound traffic, an indication for discrepancy between the selected and estimated level would serve as an indication that perhaps a revision message has not been sent (or received).
+may be used to enhance the operation of safety nets (mostly STCA and MSAW). For example, STCA may be inhibited in case the aircraft is climbing or descending to a safe cleared level. If, however, that cleared level does not match the selected level, the inhibition may be suppressed as it is unclear what the exact aircraft behaviour will be.
+
+Notwithstanding the numerous advantages, the availability of selected altitude data is by no means a complete solution and overreliance should be avoided.
+
+Sometimes there is no time to react - the level bust happens a few seconds after the cleared level/selected level discrepancy is displayed. Therefore, careful listening to pilot read-back is important and cannot be replaced by waiting for the new selected altitude setting.
+It is possible to have a level bust even if the selected altitude is correctly set, as was the case in a LOS incident in 2016
+It is possible to have (temporary) wrong indications due to equipment issues
+It is possible to have a discrepancy between the selected altitude and the pilot read-back. While in some cases aircraft behaviour will concur with the "selected level" setting, this is not guaranteed. Therefore, the controller must actively listen to the read-back and clarify in case of any discrepancy.
+Overreliance on the "selected level" data for inbound aircraft in case of discrepancy with a received estimate may lead to a "surprise" for the accepting controller. It is therefore important to coordinate with the upstream controller or, if this is not feasible, to develop an alternative plan to account for the alternative scenario.
+
+In case of discrepancy between the Mode S selected level and the cleared level, the controller should clarify by the phrase "[CALLSIGN], CHECK SELECTED LEVEL, CLEARED LEVEL IS [level]".
+Related Articles
+
+Mode S
+Barometric Pressure Setting Advisory Tool (BAT)
+
+
+
+
+
+Categories
+
+
+General,
+              Loss of Separation,
+              Level Bust,
+              Safety Nets
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

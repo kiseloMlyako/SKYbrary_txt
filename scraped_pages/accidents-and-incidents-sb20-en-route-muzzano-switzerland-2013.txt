@@ -1,0 +1,337 @@
+SB20, en-route, Muzzano Switzerland, 2013
+
+
+
+
+
+
+
+
+
+
+
+  SB20, en-route, Muzzano Switzerland, 2013
+
+
+
+
+
+
+
+
+
+Summary
+
+On 28 November 2013, a Saab 2000 departing Lugano suffered an engine failure for no apparent reason and the crew determined that diversion to Milan was preferable to return to Lugano or continued climb over high terrain to reach intended destination Zurich. The Investigation found that the loss of engine power experienced was due to a double FADEC failure with a transient malfunction of one channel resulting in an automated transfer to the other channel which already had an undetected permanent fault attributable to maintenance error. It was noted that the airline involved had contracted out all continuing airworthiness responsibilities.
+
+
+
+
+Event Details
+
+When
+
+28/11/2013
+
+
+
+Event Type
+
+
+AW,
+              LOC
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+SAAB 2000
+
+
+
+
+
+
+
+
+
+Operator
+
+Darwin Airline
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Lugano Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Zürich Airport
+
+
+
+
+
+
+
+Actual Destination
+
+
+
+
+Milan/Malpensa Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Climb
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+General
+
+Tag(s)
+
+
+              En-route Diversion,
+              CVR overwritten
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Loss of Engine Power
+          
+
+
+
+
+EPR
+
+Tag(s)
+
+
+              PAN declaration
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Propellers,
+              Engine - General
+          
+
+
+
+Contributor(s)
+
+
+              Maintenance Error (valid guidance available),
+              Component Fault in service
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Aircraft damage
+
+Minor
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Number of Non-occupant Fatalities
+
+0
+
+
+
+Number of Occupant Fatalities
+
+0
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 28 November 2013, a Saab 2000 (HB-IZW) being operated by Darwin Airline on a scheduled domestic passenger flight from Lugano to Zurich as LX 2903 and in the climb in day VMC experienced a complete loss of power on the right hand engine. After declaring a PAN to ATC and shutting down the failed engine, the crew completed an uneventful diversion to Milan Malpensa due to high terrain ahead on the originally intended route and the challenging nature of even normal approaches at Lugano.
+Investigation
+An Investigation was opened on the day following the event by the then Swiss Accident Investigation Board (SAIB) and subsequently passed to the Swiss Transportation Safety Investigation Board (STSB). Data from the DFDR were successfully downloaded but relevant data on the 30 minute CVR were overwritten because the recorder was not electrically isolated.
+It was noted that the Captain, who was PF for the flight had 8,600 hours total flying experience, all of it on type. The First Officer had 732 total flying hours which included 531 hours on type.
+It was noted that prior to departure from Lugano, there had been a recurrence of previous difficulty in starting the APU, and after it was eventually started by an attending engineer, the Captain had decided to keep it running throughout the forthcoming flight. This flight was uneventful until around FL110 in the climb to FL180 when the crew reported noticing that the aircraft “distinctly yawed twice to the right and back” with the Master Caution activated and ‘R ENG FAULT’ and R GEN FAULT’ registered on the EICAS. The Captain reported having asked the First Officer to “analyse the situation” using “power performance analysis action” in accordance with Company SOP. It was observed that the right engine speed (Ng) was reducing and the right propeller speed (Np) was indicating approximately 1,100 rpm instead of 950 rpm and had not automatically feathered. The Engine Fault Checklist was then run to shut down the right engine and manual propeller feathering was actioned. The AP was disconnected and although the aircraft was still climbing acceptably at between 160 and 170 KIAS, the Captain decided that with further climb still necessary to safely clear mountainous terrain on track, the climb would be stopped at FL130 and a diversion made to Milan Malpensa. A PAN call was made to ATC and the diversion initiated with clearance to turn south towards the Saronno VOR. On the way there, a restart of the right engine was attempted but was not successful and in order to prepare for the single engine landing, a short hold at this VOR was requested and approved. The remainder of the flight was completed without further event and a landing was made on runway 35R at Malpensa just under 40 minutes after takeoff from Lugano. Fuel on board was sufficient to reach Malpensa without requiring any use of ‘Final Reserve Fuel’.
+The Investigation noted that control of each of the aircraft’s Allison AE 2100A engines was by two identical single-channel FADECs which control and regulate fuel flow, compressor variable geometry (CVG) and propeller pitch with one channel in use at any one time with automatic change-over to the other one if the controlling FADEC fails and manual change-over by pilot action available if other faults occur. Each FADEC has a continuously functioning Built-In-Test (BIT) and fault accommodation system which in the event of a fault being detected when an engine is running determines the appropriate response.
+FDR data showed that at the time of the power loss, both A and B FADEC channels (see the illustration below) had recorded a fault on the Beta Feedback Transducer (BFT) mounted on the right engine which had resulted in the FADEC being unable to detect the right propeller blade angle.
+
+A block diagram illustrating the connections from the FADEC to the BFT. [Reproduced from the Official Report]
+A visual inspection of the BFT showed that the channel B connector was loose and excessively worn and that there was also damage to the four insufficiently tightened housing mounting bolts and to the housing. It was concluded that this indicated that “unprofessional work had been carried out in this area”. A subsequent functional test of the BFT with its connectors removed then demonstrated that both channels had performed in accordance with specification. However, a CT scan of the channel B connector prior to disassembly of the unit showed evidence of short circuits occurring within it. The A channel connector was found to function electrically without any faults.
+Further tests confirmed that prior to the engine power loss, FADEC channel A had been controlling the right engine and operating normally but it had then detected a problem measuring Np and had automatically switched control to channel B where the identified short circuit already existed. Since this meant that Np could not be detected on this channel either, the (automatic) activation of ‘beta control mode’ occurred in accordance with system design. This:
+
+idled the affected engine,
+drove its propeller to fine
+kept the propeller in beta control until feather signalled by crew action
+activated the corresponding “loss of propeller control” fault on the EICAS.
+
+FDR data disclosed that during the failure, a 6.9 second overspeed of the right hand propeller had been recorded which meant it had to be replaced.
+It was found that the continuing airworthiness management of Darwin Airline’s aircraft had been delegated by them to a contractor who “was unable to provide any up-to-date information on the status and configuration of the aircraft in good time”.
+In respect of the crew response to what they had understandably detected as an engine failure, it was noted the FADEC had already regulated the right engine to idle before they had an opportunity to respond and that the fact that the APU was already running meant that the electrical power required for the securing of the engine and performance of a single-engined approach and landing was immediately available. The decisions not to continue the flight over the Alps to Zurich and to divert to Milan rather than return to Lugano were assessed as “reasonable” given the challenging approach procedures at Lugano. The attempt to re-start the engine once practicable was considered as “a correct prioritisation” since at that time there was no crew awareness that it could not succeed because of the operating status of the FADEC.
+The Investigation formally determined that the Cause of the investigated Serious Incident was that “the total failure of the beta feed-back transducer (BFT) for measuring the propeller blade angle led to a loss of control of the right engine due to a loose connector, so the engine had to be shut down by the crew”.
+The Final Report was approved on 17 December 2014 but not published until 14 November 2017. No Safety Recommendations were made.
+Related Articles
+
+Loss of Control
+Full Authority Digital Engine Control (FADEC)
+Engine Failure After TakeOff - Light Twin Engine Aircraft
+Maintenance Error
+Continuing Airworthiness
+Alternate Aerodrome

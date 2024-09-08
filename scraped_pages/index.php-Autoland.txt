@@ -1,0 +1,175 @@
+Autoland
+
+
+
+
+
+
+
+
+
+
+
+  Autoland
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Flight Technical 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Autoland describes a system that fully automates the landing phase of an aircraft's flight, with the human crew supervising the process. The pilots assume a monitoring role during the final stages of the approach and will only intervene in the event of a system failure or emergency and, after landing, to taxi the aircraft off of the runway and to the parking location.
+Some autoland systems require the pilot to steer the aircraft during the rollout phase on the runway after landing, among them Boeing´s fail passive system on the BOEING 737-700 NG, as the autopilot is not connected to the rudder.
+On the AIRBUS A-320 series and A330 Family, the autoland system steers the aircraft on the runway, initially through the rudder and, as the aircraft slows via the nose wheel steering (NWS). In conjunction with the autobrake, a full stop can be made on the centre line without pilot intervention.  If the NWS is not available, the Quick Reference Handbook (QRH) dictates that the autopilots must be disconnected immediately on touchdown and the pilot control the aircraft through the rollout.
+Overview
+Autoland systems were designed to make landing possible in meteorological conditions too poor to permit any form of visual landing, although they can be used at any level of visibility.
+The Autoland System
+The autoland system incorporates numerous aircraft components and systems such as the autopilot(s), autothrust, radio altimeters and nose wheel steering. Although not an integral component of the autoland system, the autobrake system is often used in conjunction with an automatic landing.
+Autoland Operation
+The pilots must program the FMS (or tune the appropriate radio aids), configure the aircraft for landing and engage the autopilot and autothrust systems in the normal fashion. The Autoland system then provide inputs to the aircraft flight controls and adjusts the engine power settings in order to maintain the required approach profile and land the aircraft safely without pilot intervention. Some systems require the pilot to reduce thrust to idle when performing autoland. The Airbus requires the pilot to move the thrust levers to the idle positon when the autocallout calls "RETARD" at 10' RA. HOWEVER, the autothrust has already reduced the thrust to idle before this point - the retard call is to remind the pilot to match the thrust levers to the demanded thrust requirement. In all cases, the pilot must select reverse thrust settings. The autopilots will be disengaged after landing to taxi clear of the runway.
+The approach can always be discontinued at any time by pressing the TOGA switches or in the case of an Airbus, by advancing the thrust levers to TOGA detent. Depending on the aircraft type or autopilot system installed, the auto pilot may or may not disconnect at this point. Most aircraft capable of an autoland also have the capability of performing a go-around with the autopilot engaged.
+System Safety
+Autoland systems are normally designated Fail Operational or Fail Passive.
+
+A Fail Operational system must have at least two autopilots engaged for the approach. The failure of one autopilot will still allow an autoland to be carried out. This allows a “no decision height” approach to be conducted.
+
+
+A Fail Passive system is normally associated with a single autopilot approach. In this case, failure of the autopilot will not result in any immediate deviation from the desired flight path; however, the pilot flying must immediately assume control of the aircraft and, unless he has sufficient visual reference to land, carry out a missed approach. The lowest allowable decision altitude (DA) for a fail passive system is normally 50’.
+
+Suitability of Instrument Landing Systems
+Depending on aircraft type and installed autopilot system, autoland may be used in any weather conditions at or above published minima on any runway with an Instrument Landing System (ILS) installed. Operators should note however that some CAT I installations are not suitable for autoland due to offset localizers or to unstable localizer or glideslope signals once below published minima. CAT II and CAT III installations should be used with caution when LVP are not in effect as the localizer or glideslope signals may be compromised by ground traffic. The aircraft Aircraft Flight Manual (AFM) and company SOP should be consulted for further guidance.
+Certification
+The aircraft operator must be approved by the authority and pilots must be suitably qualified and experienced in accordance with IR-SPA.LVO.120 (Appendix 1 to EU OPS 1.450.)
+Accidents and Incidents
+Events in the SKYbrary database which include AP/FD and/or ATHR status awareness as a contributory factor:
+
+
+A346, en route, Clariden Switzerland, 2018On 6 November 2018, an Airbus A340-600 in cruise northbound over the Swiss Alps received an overspeed warning after encountering an unexpected wind velocity change. However, the crew failed to follow the prescribed response procedure. This led initially to a climb above their cleared level, and further inappropriate actions were then followed by PAN and MAYDAY declarations as control of the aircraft was briefly lost in a high-speed descent below their cleared level. The operator subsequently enhanced pilot training realism by providing it in a simulator configured for the aircraft variant operated by the company. The operator also introduced upset recovery training.
+
+A320, vicinity Muscat Oman, 2019On 28 January 2019, an Airbus A320 became unstabilised below 1000 feet when continuation of an ILS approach at Muscat with insufficient thrust resulted in increasing pitch which eventually triggered an automatic thrust intervention which facilitated completion of a normal landing. The Investigation found that having temporarily taken control from the First Officer due to failure to follow radar vectors to the ILS, the Captain had then handed control back with the First Officer unaware that the autothrust had been disconnected. The context for this was identified as a comprehensive failure to follow multiple operational procedures and practice meaningful CRM.
+
+A359, vicinity Paris Orly France, 2020On 4 February 2020, an Airbus A350-900 initiated a go around from its destination approach at 1,400 feet aal following a predictive windshear alert unsupported by the prevailing environmental conditions but the First Officer mishandled it and the stop altitude was first exceeded and then flown though again in a descent before control as instructed was finally regained four minutes later. Conflict with another aircraft occurred during this period. The Investigation concluded the underlying cause of the upset was a lack of awareness of autopilot status by the First Officer followed by a significant delay before the Captain took over control.
+
+B738, vicinity Bristol UK, 2019On 1 June 2019, a Boeing 737-800 was instructed to go around after it was observed to be significantly below the vertical profile for its RNAV approach as it reached the procedure minimum descent altitude. Having then climbed less than 300 feet, the aircraft began to descend, reaching 457 feet agl before resuming its climb. The Investigation found that the terrain proximity on approach followed a failure to discontinue a comprehensively unstable approach and the terrain proximity episode during the go around was due to continued following of the Flight Director which was providing guidance based on incorrect mode selections.
+
+B763, en-route, east southeast of Houston TX USA, 2019On 23 February 2019, a Boeing 767-300 transitioned suddenly from a normal descent towards Houston into a steep dive and high speed terrain impact followed. The Investigation found that after neither pilot had noticed the First Officer’s inadvertent selection of go around mode during automated flight, the First Officer had then very quickly responded with an increasingly severe manual pitch-down, possibly influenced by a somatogravic illusion. He was found to have had a series of short air carrier employments terminating after failure to complete training, had deliberately and repeatedly sought to conceal this history and lacked sufficient aptitude and competency.
+
+B732, vicinity Resolute Bay Canada, 2011On 20 August 2011, a First Air Boeing 737-200 making an ILS approach to Resolute Bay struck a hill east of the designated landing runway in IMC and was destroyed. An off-track approach was attributed to the aircraft commander s failure to recognise the effects of his inadvertent interference with the AP ILS capture mode and the subsequent loss of shared situational awareness on the flight deck. The approach was also continued when unstabilised and the Investigation concluded that the poor CRM and SOP compliance demonstrated on the accident flight were representative of a wider problem at the operator.
+
+B772, San Francisco CA USA, 2013On 6 July 2013, an Asiana Boeing 777-200 descended below the visual glidepath on short finals at San Francisco after the pilots failed to notice that their actions had reduced thrust to idle. Upon late recognition that the aircraft was too low and slow, they were unable to recover before the aircraft hit the sea wall and the tail detached. Control was lost and the fuselage eventually hit the ground. A few occupants were ejected at impact but most managed to evacuate subsequently and before fire took hold. The Probable Cause of the accident was determined to be the mismanagement of the aircraft by the pilots.
+
+A320, vicinity Karachi Pakistan, 2020On 22 May 2020, an Airbus A320 made an extremely high speed unstabilised ILS approach to runway 25L at Karachi and did not extend the landing gear for touchdown. It continued along the runway resting on both engines before getting airborne again with the crew announcing their intention to make another approach. Unfortunately, both engines failed due to the damage sustained and the aircraft crashed in a residential area near the airport and was destroyed by impact forces and a post-crash fire. 97 of the 99 occupants died and four persons on the ground were injured with one subsequently dying.
+
+DH8D, vicinity Belfast City UK, 2018On 11 January 2018, a Bombardier DHC8-400 departed Belfast City with incorrectly-set Flight Director (FD) modes and the Autopilot was then engaged without either pilot noticing that the aircraft was not being flown in accordance with the FD command bar or that the aircraft had then begun to descend. The rate of descent increased unnoticed and reached 4,300 fpm before recovery from a 928 feet minimum height after EGPWS 'DON'T SINK' and 'PULL UP' annunciations. The Investigation found that no target altitude had been entered and noted failure to follow normal operating procedures including on the use of checklists.
+
+B738, Katowice Poland, 2007On 28 October 2007, a Boeing 737-800 under the command of a Training Captain occupying the supernumerary crew seat touched down off an ILS Cat 1 approach 870 metres short of the runway at Katowice in fog at night with the AP still engaged. The somewhat protracted investigation did not lead to a Final Report until over 10 years later. This attributed the accident to crew failure to discontinue an obviously unstable approach and it being flown with RVR below the applicable minima. The fact that the commander was not seated at the controls was noted with concern.
+
+DH8D / B772, vicinity Sydney Australia, 2016On 9 December 2016, a Bombardier DHC8-400 departing Sydney lost prescribed separation against an inbound Boeing 777-200 after its crew failed to ensure that the aircraft levelled as cleared at 5,000 feet and this was exceeded by 600 feet. The Investigation found that the First Officer, as Pilot Flying, had disconnected the autopilot prior to routinely changing the selected airspeed because it tended to disconnect when this was done with altitude capture mode active but had then failed to re-engage it. The Captain's lack of effective monitoring was attributed to distraction as he sought to visually acquire the conflicting traffic.
+
+B735, vicinity Kazan Russia, 2013On 17 November 2013, the crew of a Boeing 737-500 failed to establish on the ILS at Kazan after not following the promulgated intermediate approach track due to late awareness of LNAV map shift. A go around was eventually initiated from the unstabilised approach but the crew appeared not to recognise that the autopilot used to fly the approach would automatically disconnect. Non-control followed by inappropriate control led to a high speed descent into terrain less than a minute after go around commencement. The Investigation found that the pilots had not received appropriate training for all-engine go arounds or upset recovery.
+
+B752, en route, western Ireland, 2013On 20 October 2013, a Boeing 757-200 Co-Pilot believed his aircraft was at risk of stalling when he saw a sudden low airspeed indication on his display during a night descent and reacted by increasing thrust and making abrupt pitch-down inputs. Other airspeed indications remained unaffected. The Captain took control and recovery to normal flight followed. The excursion involved a significant Vmo exceedance, damage to and consequent failure of one of the hydraulic systems and passengers and cabin crew injuries. The false airspeed reading was attributed by the Investigation to transient Ice Crystal Icing affecting one of the pitot probes.
+
+MD82, en route, west of Wichita KA USA, 2002On 4 June 2002, the crew of an MD82 in the cruise at FL330 with AP and A/T engaged failed to notice progressive loss of airspeed and concurrent increase in pitch attitude as both engines rolled back to thrust levels which could not sustain level flight. The aircraft stalled and a recovery was accomplished with significant altitude necessary before engine thrust was restored and a diversion made. The Investigation attributed the engine rollback to ice crystal icing obstructing the engine inlet pressure sensors following crew failure to use the engine anti-icing as prescribed. Two Safety Recommendations were made.
+
+B773, Dubai UAE, 2016On 3 August 2016 a Boeing 777-300 rejected a landing at Dubai from the runway following a late touchdown after floating in the flare. It then became airborne without either pilot noticing that the A/T had not responded to TO/GA switch selection and without thrust, control was soon lost and the aircraft hit the runway and slid to a stop. The Investigation found that the crew were unfamiliar with the initiation of a go around after touchdown and had failed to follow several required procedures which could have supported early recovery of control and completion of the intended go around.
+
+
+
+
+Further Reading
+
+IR-OPS SPA.LVO.120 - Low visibility operations - Training and qualifications
+Acceptable Means of Compliance and Guidance Material to IR-OPS SPA.LVO.120
+EU-OPS 1.450, Appendix 1: Low visibility operations — Training and qualifications.
+Flight Safety Foundation ALAR Briefing Note 1.2 - Automation
+Airbus: "Getting to Grips with CATII and CATIII"
+OIG Audit Report: Enhanced FAA Oversight Could Reduce Hazards Associated With Increased Use of Flight Deck Automation, 2016
+
+
+
+
+
+Categories
+
+
+Flight Technical
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

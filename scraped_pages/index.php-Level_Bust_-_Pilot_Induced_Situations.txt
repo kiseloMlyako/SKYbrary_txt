@@ -1,0 +1,177 @@
+Level Bust - Pilot-Induced Situations
+
+
+
+
+
+
+
+
+
+
+
+  Level Bust - Pilot-Induced Situations
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Level Bust 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Situations sometimes occur in which the pilot receives and apparently understands a flight clearance, but fails to follow that clearance, leading to a level bust. This can happen even when the pilot has correctly read back the clearance and when there are no unusual circumstances.
+Contributory factors and examples
+
+Pilot Workload. When task saturated, the pilot confuses the altitude with another element of the message, for example:
+
+Flight is cleared to climb to FL220 at an airspeed of 200 kt and climbs to FL200; or,
+Flight is given a radar heading of 210 deg. and descends to FL210.
+
+
+ATC Expectation Bias. The pilot is expecting clearance to a particular flight level or altitude, because that was the level requested or because that is the usual clearance given. The pilot does not consciously notice the difference and climbs or descends to the expected level even though the correct level was read back. This can even happen when the cleared level has been written down.
+Interruption or Distraction. For example, the pilot is distracted by irrelevant talk on the flight deck, bad weather, or an abnormal or emergency situation.
+Poor cross-checking. The normal crew cross-checking procedure does not take place so that, for example, the PNF fails to notice that the PF is levelling the aircraft at the wrong flight level or altitude. This can occur if a vertical clearance has been received while the PNF (or other flight deck crew member with monitoring responsibilities) is off-frequency (perhaps making a company call or visiting the washroom).
+
+Solutions
+
+Improve standard of pilot training, especially in:
+
+Air-Ground Communication Safety;
+Loss of Situational Awareness;
+Crew Resource Management (CRM);
+
+
+Adherence to SOPs, especially the Sterile Flight Deck principle if applicable.
+
+A&I Examples
+
+
+A319 / A321, en-route, west north west of Geneva, Switzerland 2011On 6 August 2011 an Easyjet Airbus A319 on which First Officer Line Training was in progress exceeded its cleared level during the climb after a different level to that correctly read back was set on the FMS. As a result, it came into conflict with an Alitalia A321 and this was resolved by responses to coordinated TCAS RAs. STCA alerts did not enable ATC resolution of the conflict and it was concluded that a lack of ATC capability to receive Mode S EHS DAPs - since rectified - was a contributory factor to the outcome.
+
+A319/B733, en-route, near Moutiers France, 2010On 8 July 2010 an Easyjet Airbus A319 on which line training was being conducted mis-set a descent level despite correctly reading it back and, after subsequently failing to notice an ATC reiteration of the same cleared level, continued descent to 1000 feet below it in day VMC and into conflict with crossing traffic at that level, a Boeing 737. The 737 received and actioned a TCAS RA ‘CLIMB’ and the A319, which received only a TCAS TA, was given an emergency turn by ATC. The recorded CPA was 2.2 nm and 125 feet.
+
+B773, vicinity Houston TX USA, 2014On 3 July 2014, a Boeing 777-300 departing Houston came within 200 feet vertically and 0.61nm laterally of another aircraft after climbing significantly above the Standard Instrument Departure Procedure (SID) stop altitude of 4,000 feet believing clearance was to FL310. The crew responded to ATC avoiding action to descend and then disregarded TCAS 'CLIMB' and subsequently LEVEL OFF RAs which followed. The Investigation found that an inadequate departure brief, inadequate monitoring by the augmented crew and poor communication with ATC had preceded the SID non-compliance and that the crew should have followed the TCAS RAs issued.
+
+B738/A319 en-route, south east of Zurich Switzerland, 2013On 12 April 2013, a Ryanair Boeing 737-800 took a climb clearance intended for another Ryanair aircraft on the same frequency. The aircraft for which the clearance was intended did not respond and the controller did not notice that the clearance readback had come from a different aircraft. Once the wrong aircraft began to climb, from FL360 to FL380, a TCAS RA to descend occurred due to traffic just transferred to a different frequency and at FL370. That traffic received a TCAS RA to climb. STCA was activated at the ATS Unit controlling both Ryanair aircraft.
+
+C525 / B773, vicinity London City UK, 2009On 27 July 2009, a Cessna 525 departing from London City failed to comply with the initial 3000 feet QNH SID Stop altitude and at 4000 feet QNH in day VMC came into close proximity on an almost reciprocal heading with a Boeing 777-300ER. The 777, on which line training was being conducted, failed to follow any of the three TCAS RAs generated. Actual minimum separation was approximately 0.5nm laterally and estimated at between 100 feet and 200 feet vertically. It was noted that the Cessna had been given a stepped climb SID.
+
+B733, vicinity Manchester UK, 1997On 1 August 1997, an Air Malta B737, descending for an approach into Manchester UK in poor weather, descended significantly below the cleared and correctly acknowledged altitude, below MSA.
+
+A310 / B736, en-route, Southern Norway, 2001On 21 February 2001, a level bust 10 nm north of Oslo Airport by a climbing PIA A310 led to loss of separation with an SAS B736 in which response to a TCAS RA by the A310 not being in accordance with its likely activation (descend). The B736 received and correctly actioned a Climb RA.
+
+GLF5 / A319, south-eastern France, 2004On 16 September 2004, a loss of separation occurred over Geneva between Air France A319 and a Gulfstream 5 which commenced descent without clearance by ATC and with coordinated TCAS RAs not followed by either aircraft.
+
+F15 / E145, en-route, Bedford UK, 2005On 27 January 2005, two USAF-operated McDonnell Douglas F15E fighter aircraft, both continued to climb and both passed through the level of an Embraer 145 being operated by British Airways Regional on a scheduled passenger flight from Birmingham to Hannover, one seen at an estimated range of 100 feet.
+
+
+
+
+urther Reading
+EUROCONTROL Level Bust Toolkit
+
+European Action Plan for the Prevention of Level Bust, especially the folowing Briefing Notes:
+Level Bust Briefing Note Gen 1 - Level Busts: Overview;
+Level Bust Briefing Note Gen 2 - Pilot-Controller Communications;
+Level Bust Briefing Note Gen 3 - Call Sign Confusion;
+Level Bust Briefing Note Ops 1 - SOPs;
+Level Bust Briefing Note Ops 2 - Altimeter Setting Procedures;
+Level Bust Briefing Note Ops 3 - Standard Calls;
+Level Bust Briefing Note Ops 4 - Aircraft Technical Equipment;
+Level Bust Briefing Note Ops 5 - ACAS;
+Level Bust Briefing Note Ops 6 - Human Factors;
+
+
+
+HindSight 10: The tenth edition of HindSight, titled "Level Bust or... Altitude Deviation ?", published in December 2009, contains a variety or articles addressing different aspects of the Level Bust issue. These and other Level Bust products are listed in the article Level Bust Products
+
+Airbus
+
+Airbus Supplementary Briefing Note - Preventing Altitude Deviations and Level Busts;
+
+
+
+
+
+Categories
+
+
+Level Bust
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,423 @@
+A319 / PRM1, en-route, near Fribourg Switzerland, 2011
+
+
+
+
+
+
+
+
+
+
+
+  A319 / PRM1, en-route, near Fribourg Switzerland, 2011
+
+
+
+
+
+
+
+
+
+Summary
+
+On 10 June 2011 an ATC error put a German Wings A319 and a Hahn Air Raytheon 390 on conflicting tracks over Switzerland and a co-ordinated TCAS RA followed. The aircraft subsequently passed in very close proximity without either sighting the other after the Hahn Air crew, contrary to Company procedures, followed an ATC descent clearance issued during their TCAS ‘Climb’ RA rather than continuing to fly the RA. The Investigation could find no explanation for this action by the experienced crew - both Hahn Air management pilots. The recorded CPA was 0.6 nm horizontally at 50 feet vertically.
+
+
+
+
+Event Details
+
+When
+
+10/06/2011
+
+
+
+Event Type
+
+
+HF,
+              LOS
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS A-319
+
+
+
+
+
+
+
+
+
+Operator
+
+Germanwings
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Barcelona/El Prat Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Stuttgart Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Descent
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+RAYTHEON 390 Premier 1
+
+
+
+
+
+
+
+
+
+Operator
+
+Hahn Air
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Zürich Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Palma de Mallorca
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Climb
+
+
+
+
+
+
+
+
+Location
+
+Approx.
+
+18 NM NE Fribourg VOR/DME
+
+
+
+
+
+
+
+
+
+
+General
+
+Tag(s)
+
+
+              Aircraft-aircraft near miss,
+              Inadequate Aircraft Operator Procedures,
+              Inadequate ATC Procedures
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              ATC clearance error,
+              ATC Unit Co-ordination,
+              Data use error,
+              Distraction,
+              Inappropriate crew response - skills deficiency,
+              Procedural non compliance
+          
+
+
+
+
+LOS
+
+Tag(s)
+
+
+              TCAS RA Mis Flown,
+              Required Separation not maintained,
+              ATC Error,
+              Near Miss
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+Air Traffic Management
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Air Traffic Management
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 10 June 2011, in day Visual Meteorological Conditions (VMC), an Airbus A319 being operated by German Wings on a scheduled passenger flight from Barcelona to Stuttgart lost separation against a Raytheon 390 being operated by German air taxi company Hahn Air on a non scheduled passenger flight from Zurich to Palma. Late ATC attempts to resolve the conflict were pre-empted by co-ordinated TCAS RAs but during them, the Hahn Air crew elected to reverse their initial TCAS RA climb whilst it was still annunciated in favour of an ATC instruction to descend. This action very significantly reduced the separation which would otherwise have prevailed.
+Investigation
+An Investigation was carried out by the Swiss AIB. The Investigation was based upon ATC R/T and radar recordings (including mode ‘S’ downlink data from both aircraft) and on the downloaded Flight Data Recorder (FDR) data from the A319. It was noted that the conflict had occurred in Class ‘C’ airspace and that the aircraft involved had been working sectors under the control of two different ACCs throughout the sequence which led to the conflict.
+It was established that the A319 had been in descent and had been cleared to FL250 by a Geneva ACC controller who had then entered FL280 into the system before handing the aircraft over to Zurich ACC with whom there was a standing agreement for silent transfers at FL 280 without explicit coordination. Neither he nor his colleagues on the sector noticed the discrepancy between the flight level clearance given by radio and the one entered into the system. When the A319 crew subsequently checked in with Zurich ACC in the descent to FL250 and gave this cleared level, neither of the two controllers involved noticed that the level stated was different to the one on the system.
+Meanwhile, the Raytheon 390 was in the climb out of Zurich on an almost opposite track and had been cleared to climb to FL 270 by Geneva ACC. As the A319 descended below FL280 towards the climbing Raytheon 390, STCAs were activated successively in both ACCs.
+
+Radar image of part of the sector in Zurich ACC at the time of the first radio contact with GWI2529 (reproduced from the Official Report)
+Two seconds prior to the (later) Geneva STCA activation, the A319 received a TCAS RA to “Maintain Vertical Speed, Crossing Maintain”. This was followed and resulted in descent at 1500-2000 fpm contrary to an ATC instruction which had just been received to stop descent at FL270. A TCAS RA was annunciated for the Raytheon 390 two seconds later to “Climb crossing climb” which was followed and required a slight increase in the prior rate of climb to achieve 1500-2000fpm. However, 9 seconds after this annunciation and with it still displayed, Geneva instructed the aircraft to descend to FL 260 and the crew disregarded the RA - which continued unchanged for a further 23 seconds - and began a descent at a higher rate than the A319 which then received an RA to “increase descent”. Two seconds later, the radar recording of position at 4 second intervals (see the diagram reproduced below) showed the A319 crossing 75 feet below and 1.3nm ahead of the Raytheon 390 as it approached from the right with the CPA reached four seconds after that when the 319 was 50 feet below and 0.6nm horizontally from the 390. As the 319 had crossed ahead of the other aircraft with both descending, its RA had changed to a corrective “Climb, Climb Now” requiring a climb rate of 1500-2000 fpm with the 390 RA changing at the same time to “monitor vertical speed”. Thereafter, separation increased as their tracks diverged and “Clear of Conflict” was annunciated onboard both aircraft 8 seconds later. Despite flying in VMC and having identified conflicting traffic on their TCAS displays at an early stage, neither aircraft crew reported having acquired the other aircraft visually at any point.
+The initial occurrence of an RA had been declared by the A319 to Zurich but not by the Raytheon 390 to Geneva. However, the Geneva controller, after giving the aircraft the instruction to descend rather than climb, subsequently realised that a co-ordinated TCAS RA must be in progress and, six seconds before minimum separation and with the aircraft by now descending at a high rate and in the opposite direction to the displayed RA, instructed the aircraft to “follow TCAS, opposite traffic one mile, follow TCAS”.
+It was found that although both aircraft were equipped with correctly functioning Mode ‘S’ transponders which transmitted aircraft data which included the selected flight level to ground radar, “for technical reasons this data cannot currently be used by Swiss air traffic control to compare the altitude clearance entered in the air traffic control system with those entered in the aircraft system and trigger an alert in the event of any discrepancy”.
+It was also noted that the STCA systems at the Geneva and Zurich ACCs were set up to trigger alerts on different criteria, hence the detected conflict had been annunciated 7 seconds later at the Geneva ACC.
+The Investigation concluded that the German Wings A319 crew had been “able to adopt and implement the patterns of behaviour required by TCAS immediately” and had “followed the TCAS resolution advisories without delay and to the required extent”. It was deduced thereby that they had been “appropriately skilled and trained”.
+In the case of the Hahn Air Raytheon 319 crew, it was noted that the two pilots were both qualified to act as commander or co pilot and both “performed management functions within the company”. These functions included responsibility for the content of the Operations Manual Part ‘A’ which contains all generic operating procedures including TCAS use. In respect of this responsibility, the Investigation concluded that “it can certainly be assumed that at the time of the hazardous convergence the flight crew members were at least mentally aware of (key features of the required response to a TCAS RA in the Operations Manual)”. These stated unambiguously that:
+
+"Pilots shall follow the RA even if there is a conflict between the RA and an ATC instruction to manoeuvre”
+"Pilots shall not manoeuvre in the opposite sense of an RA”
+
+However, it was apparent that the crew had “not (been) able to access this knowledge and convert it into appropriate actions”. It was concluded that “the reason for this inability cannot lie in a moment of surprise or inadequate mental preparation, because these simple response patterns are designed precisely to allow them to be invoked reliably and in good time following the surprise.” Instead, it was considered that the crew had been “not sufficiently familiar with dealing with TCAS (activation)”.
+It was also noted that although during the time when a TCAS RA was active, the Hahn Air crew had twice read back ATC instructions which were both contrary to the RA and represented missed opportunities to advise ATC of its annunciation. Having been appraised of that fact, ATC would have immediately recognised that the RA would take priority over any ATC instructions. It was also noted that, even in respect of their incorrect acceptance of the ATC descent instruction, the accepted descent had been continued below the cleared level anyway.
+Since the severity of the investigated conflict had been entirely the result of the Hahn Air crew ignoring a TCAS RA in favour of an opposite-sense ATC vertical clearance, EUROCONTROL ACAS Bulletin No 5, which describes how a similar crew error had led to the 2002 Überlingen mid air collision, an accident of which Hahn Air management were explicitly aware, was included in the Investigation Report as Annex 1.
+It was concluded that the ICAO AIRPROX Risk Category of the encounter had been ‘A’ - a high risk of collision.
+The Cause of the investigated serious incident was determined as:
+“The fact that air traffic control gave clearance to an aircraft which led to a hazardous convergence with another aircraft. The fact that one of the flight crews then followed the resolution advisories of the traffic alert and collision avoidance systems (TCAS) only initially and instead followed the instructions of air traffic control meant that the convergence involved had a high risk of collision.”
+Causal Factors were identified as:
+
+The air traffic controller entered the flight level prescribed for this flight as a clearance into the air traffic control system, but gave a different clearance to descend by radio.
+
+
+None of the five air traffic controllers who were involved in managing the aircraft concerned noticed the discrepancy between the descent clearance in the system and the altitude transmitted by radio.
+
+
+The crew of the aircraft followed the instructions of air traffic control instead of continuing to follow the diverging resolution advisory of the TCAS.
+
+Circumstantial Factors which made the conflict more likely were found to be:
+
+An Air Force exercise led to an increased workload and a more difficult overview for civil air traffic control.
+
+
+The use of a non-standard phraseology by air traffic control.
+
+Systemic Contributory Factors were found to be:
+
+Air traffic control had no technical safety net at their disposal which would have been able to detect the working error of an air traffic controller at an early stage.
+
+
+Working processes in air traffic control which made it difficult to detect working errors favoured by routine.
+
+No related Safety Action taken during the Investigation was notified to the SAIB but it was noted that, as part of an Investigation into a Serious Incident also involving controller error which had occurred some three months earlier, A320 / A320, Zurich Switzerland, 2011 it had been established that the procedures for dealing with employees involved in accidents and serious incidents “exhibited safety-critical defects” to the extent that a corresponding Safety Recommendation had been issued as a consequence of that earlier investigation. It was noted that “in the present case, the (competency validation) procedure adopted since then was applied as a trial for the first time and the impression is that it enabled an improvement to be achieved”.
+One Safety Recommendation was made as a result of the Investigation as follows:
+
+that the Federal Office of Civil Aviation should ensure that within Swiss air traffic control a system is implemented which is able, in the event of a discrepancy between the [data system entry of the] air traffic control altitude clearance (cleared flight level) and the setting in the aircraft (selected altitude), to trigger an alarm. [No 462]
+
+The Final Report was completed on 17 July 2013 and approved by the Swiss AIB on 17 October 2013.
+Further Readng
+
+Loss of Separation
+Airborne Collision Avoidance System (ACAS)
+ACAS Resolution and Traffic Advisories
+ACAS: Guidance for Controllers
+ATCO Actions in Case of Loss of Separation
+Loss of Separation - ATCO-induced Situations
+Loss of Separation - Pilot-induced Situations
+RA Downlink
+Teamwork in Air Traffic Control
+Vigilance in ATM
+Information Processing
+TCAS Awareness kit
+ACAS Bulletins - EUROCONTROL
+A319 / A321, en-route, west north west of Geneva, Switzerland 2011 (LOS LB HF)

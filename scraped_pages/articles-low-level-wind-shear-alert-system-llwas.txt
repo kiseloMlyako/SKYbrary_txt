@@ -1,0 +1,154 @@
+Low Level Wind Shear Alert System (LLWAS)
+
+
+
+
+
+
+
+
+
+
+
+  Low Level Wind Shear Alert System (LLWAS)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Weather 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+A Low Level Wind Shear Alert System (LLWAS) is a ground-based system used to detect wind shear and associated weather phenomena, such as microbursts, close to an airport; especially along the runway corridors. This information can then be passed, in real-time, to warn pilots and aerodrome services. Low Level Wind Shear is defined as a sudden change of wind velocity and/or direction in either the vertical or horizontal planes. At low level, i.e. when aircraft are departing from or landing at an aerodrome, wind shear can present a severe risk to flight safety. Therefore, timely warnings are essential to help pilots respond appropriately.
+LLWAS Anemometers
+An LLWAS consists of a number of anemometers strategically placed around, and within, an aerodrome. Older systems used a minimum of 6 anemometers (one central and 5 perimeter) all within the aerodrome boundaries, whereas up-to-date systems can have over 30, with some placed up to 3 nautical miles (nm) along approach and departure paths.
+Predominantly, only horizontal wind shear is measured, i.e. all the anemometers are placed at similar heights above the aerodrome reference. However, at some aerodromes remote-sensing anemometers are placed on existing television masts and towers located in the vicinity of the aerodrome, and even on surrounding hills where known problems exist (e.g. Hong Kong), in order to observe and measure wind shear in the vertical.
+Aerodromes can be prevented from placing anemometers at preferred sites due to land ownership and access issues. Furthermore, to prevent interference with anemometer readings from local building development and terrain, some anemometers have to be sited at less than ideal locations.
+LLWAS Processing System
+The aim of the system is to provide visual and audio alerts to ATC so that they can pass on information and warnings about wind shear and microbursts to pilots and other aerodrome services and customers.
+The system processor continually monitors and compares the vector difference between the perimeter and centre-field surface wind observations. The perimeter sensors (anemometers) are sampled regularly by the central control unit e.g. every ten seconds. The centre-field sensor produces a two-minute running mean surface wind which is displayed in the ATC tower along with any detected gusts. If the vector difference between the centre-field and a perimeter sensor is more than 15 knots, the relevant perimeter wind is also displayed and an audio-visual alarm is triggered. Microburst conditions are detected by different algorithms, as a microburst can easily occur between two perimeter sensors without affecting either of them. In the latest up-to-date LLWAS, variations in wind speed and direction are compared between sensors along a runway approach corridor; these variations can provide timely and accurate notice of a microburst.
+Developments
+Although LLWAS manufacturers claim detection reliabilities and accuracies above 90%, there is still room for improvement in accuracy and reliability of LLWAS. False alarms can be caused by gusty wind conditions, by less than ideal anemometer siting, e.g. shielding by obstructions, and by anemometers under/over-reading. It is even possible that unserviceable anemometers can still feed erroneous data into the system. New technology such as sonic anemometers can replace the mechanical vane anemometers. Being solid-state instruments, these new sensors have a much better reliability and maintainability. Sensor information from LLWAS can also be integrated with data from Terminal Doppler Weather Radar (TDWR) (TDWR). Where this is installed, the outputs from the two systems will be integrated for the issuance of warnings. Two commonly used terms relating to upgraded LLWAS in the USA are briefly described below:
+
+LLWAS-RS (Relocation and Sustainment) refers to increased numbers of anemometers (above 6) and their strategic location within the aerodrome boundary and also along approach and departure corridors up to around 3nm).
+LLWAS-NE (Network Expansion) refers to the integration of LLWAS-RS with TDWR).
+
+However, Phase-3 LLWAS, utilising on average 10 to 20 anemometers (and in some cases over 30) is now widespread throughout the USA, and is the level of technology utilised for new installations worldwide; also, sometimes integrated with Terminal Doppler Weather Radar (TDWR) data.
+Air traffic Control
+Air Traffic Controllers relay LLWAS alerts to all pilots on the relevant frequencies (Ground, Departures, Tower, Approach etc) until such time as the warnings are recorded on the ATIS and pilots have acknowledged the appropriate ATIS Code letter as being received.
+General warnings may be first issued e.g.
+Low level wind shear/microburst advisories in effect.
+Caution microburst minus 30 knots on final approach.
+Caution wind shear plus 25 knots on departure.
+Some warnings (especially in USA) may contain the centre-field wind followed by the relevant perimeter/runway wind e.g.
+Wind shear alert, Centerfield wind 150 at 12, North East boundary wind 060 at 25.
+At some aerodromes with integrated LLWAS and TDWR it is possible for ATC to issue wind information orientated to the approach threshold or departure end of the runway e.g.
+Runway 27 arrival microburst alert, 35 knot loss 2 mile final.
+Runway 09 arrival, wind shear alert, 20 knots loss on runway.
+Which Airports have an LLWAS?
+LLWAS was developed and brought into service in the USA during the 1970’s; and the largest number of aerodromes employing LLWAS today are still in the USA. Despite three system upgrades, some of those still in use are of the older type. The most modern systems tend to be co-located and integrated with TDWR systems. In this respect, aerodromes elsewhere in the world who have recently deployed LLWAS tend to have the latest systems, also integrated with TDWR. Installing and maintaining an LLWAS can be costly and therefore they tend to be located at aerodromes with known Wind Shear and Microburst problems. The majority of airports worldwide do not have LLWAS.
+Provision of LLWAS at an airport/aerodrome should be listed in their entry in the Airport Directory under Weather Services/Weather Data Sources
+Notable Accidents
+
+The FAA first launched their LLWAS programme following the 1975 accident of Eastern Air Lines Flight 66 at John F. Kennedy International Airport. On its final approach the Boeing 727 entered into a microburst or wind shear environment caused by a severe thunderstorm. The aircraft continued its descent, struck approach lights about 0.5nm from the Runway 22L threshold, and quickly crashed along an adjacent road. 107 passengers and 6 crew members died. At the time, it was the deadliest single plane crash in United States history
+The FAA began its LLWAS-RS programme following the 1994 accident of US Air Flight 1016 at Charlotte, NC. The DC93 carried out an approach to runway 18R during convective weather (thunderstorms) conducive of microburst activity. During the subsequent missed approach the aircraft crashed into trees and houses killing 37 passengers.
+
+Related Articles
+
+Low Level Wind Shear
+Performance Shear
+Microburst
+Terminal Doppler Weather Radar (TDWR)
+Weather Observations at Aerodromes
+
+Further Reading
+
+ICAO Doc 9817 AN/449 Manual on Low Level Wind Shear – First Edition, 2005.
+
+
+
+
+
+Categories
+
+
+Weather,
+              Turbulence
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,179 @@
+Transponder
+
+
+
+
+
+
+
+
+
+
+
+  Transponder
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Nets 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+A transponder (XPDR) is a receiver/transmitter which will generate a reply signal upon proper interrogation; the interrogation and reply being on different frequencies. (ICAO)
+Transponders first came into use to enable military authorities to identify friendly aircraft, which transmitted a coded signal when interrogated by military radar. This was known as IFF (Identification Friend or Foe).
+
+Secondary Surveillance Radar
+Subsequently, transponders have come into widespread use in civil as well as military aviation. It is now standard practice to allocate a specific transponder code to each aircraft flying in controlled airspace so that the ATCO can readily identify a specific aircraft on a crowded radar screen, using SSR (Secondary Surveillance Radar).
+By international agreement, 2000 is used for aircraft which have not been assigned a transponder code, although in some parts of Europe, 7000 is used for this purpose. Details of standard codes in different countries may be found in national Aeronautical Information Publications (AIPs).
+Special codes are used in emergency, as follows:
+
+hi-jack (7500);
+
+
+loss of communication (7600); and,
+
+
+general emergency (7700).
+
+Currently there are systems such as Airport Surface Detection Equipment–Model X (Airport Surface Detection Equipment, Model X (ASDE-X)) and Advanced Surface Movement Guidance and Control System (Advanced Surface Movement Guidance and Control System) which use transponder returns from both aircraft and of airport service vehicles with installed transponders to improve safety and efficiency the surface movement control. A number of large airports have included information in the Automatic Terminal Information Service (ATIS) broadcasts when the transponder is required to be active for taxi operations. Furthermore at certain airports, a locally-optimised mix of available technologies, i.e. airport Multilateration, Surface Movement Radars and Automatic Dependent Surveillance Broadcast (ADS-B), enables A-SMGCS systems and integrated airport operations. This could include the availability of suitable display of surveillance information on a consolidated display in the form of a moving map in flight decks and in surface vehicles.
+Mode A, C, S and Ident
+Civil aircraft may be equipped with transponders capable of operating in different modes:
+
+Mode A equipment transmits an identifying code only.
+Mode C equipment enables the ATCO to see the aircraft altitude or flight level automatically.
+Mode S equipment has altitude capability and also permits data exchange.
+
+Mode C or S equipment is a mandatory requirement for many busy areas of controlled airspace.
+Transponders have an “Ident” facility which causes the aircraft radar response to stand out when the pilot operates the Ident switch in the cockpit. This should only be operated upon ATC request.
+Legal Requirements
+Regulation (EU) No 1207/2011 requires that all flights operating as general air traffic in accordance with instrument flight rules within the EU are equipped with mode S transponders.
+Transponder Use in ATM
+Transponders are used in ATM for various purposes, the most notable of them being:
+
+Aircraft identification;
+Enhancing the controllers' situational awareness;
+Development of ATC tools and safety nets (e.g. AMAN, MTCD, STCA, etc.).
+
+Transponders and ACAS
+Airborne Collision Avoidance System (ACAS) operation requires that both aircraft - the interrogator and the target - are equipped with operating transponders. An aircraft equipped with ACAS will receive the following information depending on the type of transponder with which the target aircraft is equipped:
+
+
+
+Target aircraft equipped with:
+Interrogator aircraft equipped with ACAS:
+
+
+
+
+Mode 'A' transponder only
+Will not track the target
+
+
+Mode 'A/C' transponder with no altitude reporting
+Below FL 155: Receives Traffic Advisory (TA) only (no altitude or trend arrow will be shown)
+Above FL 155: Will not show the target
+
+
+
+Mode 'C' or 'S' transponder
+Receives TA and vertical Resolution Advisory (RA)
+
+
+ACAS
+Receives TA and coordinated vertical RA
+
+
+
+Related Articles
+
+Mode S
+Airborne Collision Avoidance System (ACAS)
+Automatic Dependent Surveillance Broadcast (ADS-B)
+Operation without a Transponder or with a Dysfunctional Transponder
+
+
+
+
+
+Categories
+
+
+Safety Nets
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

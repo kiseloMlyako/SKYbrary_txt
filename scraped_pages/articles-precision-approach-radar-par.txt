@@ -1,0 +1,157 @@
+Precision Approach Radar (PAR)
+
+
+
+
+
+
+
+
+
+
+
+  Precision Approach Radar (PAR)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Primary radar equipment used to determine the position of an aircraft during final approach, in terms of lateral and vertical deviations relative to a nominal approach path, and in range relative to touchdown.
+Source: ICAO Doc 4444 PANS-ATM
+Description
+Precision approach radars (PARs) are used by air traffic controllers to issue guidance to pilots during final approach using radio. These are precision approaches similar to the ILS approach.
+The benefit of PAR is that it does not require any onboard equipment. However, with ILS being part of the standard aircraft equipment (together with VHF radio and VOR), this has become less and less of an advantage. On the other hand, the use of PAR results in increased controller workload and frequency congestion (see Phraseology section below). Therefore, when engaged in providing a precision approach, the controller should not be responsible for any other duties. This results in a low ATS unit capacity and consequently, the use of PAR in civil aviation has been constantly diminishing. It has a role for the military though, due to being harder to detect by missiles than ILS.
+The PAR uses the working principles of primary radar - the antenna emits pulses which are reflected by the aircraft and on reception of these echos, distance and azimuth are determined. The PAR has a few specific features though:
+
+it is much more accurate than surveillance PSRs. This is necessary because of its purpose and is achieved by the higher carrier frequency (in the order of 10 GHz compared to e.g. 3 GHz for a terminal PSR) which allows a narrower beam.
+it determines aircraft position in 3D (i.e. distance from touchdown, position left/right from the extended runway centreline and above/below glide path). In older systems this is achieved by adding a second (vertical) antenna which provides distance and elevation angle (see picture below). These are used to calculate the geometric height of the aircraft. More sophisticated options are also available. Those use antenna arrays with electronic beam steering which means that there are less (or no) moving parts.
+it has a higher update rate. While a terminal radar antenna normally rotates at 10-12 rpm, the PAR only sweeps a sector of about 20 degrees (between 10 to the left of the centreline and 10 to the right) and therefore updates the target position more often.
+
+
+Example of PAR antennas. The horizontal one sweeps left and righr and provides distance and azimuth. The vertical antenna sweeps up and down and determines the height using the elevation angle of the antenna and the distance of the target
+The approach controller sees a 3-D representation of the aircraft position which is composed by two pictures - a planar view and a vertical cut view (see picture below). The controller compares the aircraft position and height to those required and provides feedback to the flight crew at short time intervals.
+
+An example of the picture seen by the approach controller. Note: image is generic and varies from system to system
+In order to provide service using the PAR, an approach controller needs to have a PAR endorsement to their APS (Approach Control Surveillance) rating.
+Phraseology
+The controller performs a continuous talkdown and provides:
+
+information about the aircraft position relative to the extended runway centreline
+information about the distance from touchdown
+heading instructions
+information on altitudes relative to the glide slope
+instructions on corrective action in case the aircraft is too high or too low
+
+An example dialogue between a pilot and a controller (ATC) is provided below. Details may vary in actual situations.
+ATC: FASTAIR 345 THIS WILL BE A PRECISION RADAR APPROACH RUNWAY 27, OBSTACLE CLEARANCE ALTITUDE 400 FEET POSITION 6 MILES EAST OF GEORGETOWN TURN RIGHT HEADING 260 DESCEND TO 2 500 FEET QNH 1014
+Pilot: PRECISION APPROACH RUNWAY 27, HEADING 260 DESCENDING TO 2 500 FEET QNH 1014 FASTAIR 345
+ATC: FASTAIR 345 CLOSING FROM THE RIGHT TURN RIGHT HEADING 270
+Pilot: RIGHT HEADING 270 FASTAIR 345
+ATC: FASTAIR 345 ON TRACK APPROACHING GLIDE PATH HEADING IS GOOD
+Pilot: FASTAIR 345
+ATC: FASTAIR 345 REPORT RUNWAY IN SIGHT
+Pilot: FASTAIR 345
+ATC: FASTAIR 345 DO NOT ACKNOWLEDGE FURTHER TRANSMISSIONS, ON TRACK APPROACHING GLIDE PATH . . . CHECK YOUR MINIMA . . . COMMENCE DESCENT NOW AT 500 FEET PER MINUTE . . . I SAY AGAIN 500 FEET PER MINUTE . . . CHECK GEAR DOWN AND LOCKED . . . ON GLIDE PATH 5 MILES FROM TOUCHDOWN . . . SLIGHTLY LEFT OF TRACK, TURN RIGHT 5 DEGREES NEW HEADING 275 I SAY AGAIN 275 . . . 4 MILES FROM TOUCHDOWN SLIGHTLY BELOW GLIDE PATH . . . 100 FEET TOO LOW ADJUST RATE OF DESCENT . . . STILL 50 FEET TOO LOW, TURN LEFT 3 DEGREES HEADING 272 ON TRACK 3 MILES FROM TOUCHDOWN . . .
+Pilot: FASTAIR 345 RUNWAY IN SIGHT
+ATC: COMING BACK TO THE GLIDE PATH . . . ON GLIDE PATH 2½ MILES FROM TOUCHDOWN RESUME NORMAL RATE OF DESCENT . . . FASTAIR 345 CLEARED TO LAND . . . ON GLIDE PATH . . . HEADING 272 IS GOOD SLIGHTLY ABOVE GLIDE PATH . . . 2 MILES FROM TOUCHDOWN . . . COMING BACK TO THE GLIDE PATH . . . ON GLIDE PATH 1¾ MILES FROM TOUCHDOWN . . . TURN LEFT 2 DEGREES NEW HEADING 270 . . . 1½ MILES FROM TOUCHDOWN . . . ON GLIDE PATH 1¼ MILES FROM TOUCHDOWN RATE OF DESCENT IS GOOD ON GLIDE PATH 1 MILE FROM TOUCHDOWN . . . ¾ OF A MILE FROM TOUCHDOWN ON GLIDE PATH . . . ½ MILE FROM TOUCHDOWN ON GLIDE PATH . . . ¼ MILE FROM TOUCHDOWN APPROACH COMPLETED AFTER LANDING CONTACT TOWER ON 118.7
+Related Articles
+
+Instrument Approach Procedure (IAP)
+Precision Approach
+Instrument Landing System (ILS)
+ATCO Licensing
+
+Further Reading
+
+ICAO Doc 4444 PANS-ATM (Chapter 8, item 8.9.7.2 and Chapter 12, item 12.4.2.5)
+ICAO Doc 9432 Manual of Radiotelephony (Chapter 7, item 7.7)
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

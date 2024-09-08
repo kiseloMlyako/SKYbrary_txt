@@ -1,0 +1,140 @@
+Coded Departure Route (CDR)
+
+
+
+
+
+
+
+
+
+
+
+  Coded Departure Route (CDR)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+In the United States and Canada, Coded Departure Routes (CDRs) are preplanned, alternative routes between a specified city pair that can be quickly activated when traffic constraints exist, such as thunderstorms, turbulence or periods of excessive demand. These routes are precoded within the ATC system and they quickly and easily can be issued as a revised clearance to the flight crew of a CDR-capable aircraft, allowing it to depart the point of origin, often without undue delay, via an alternate route.
+Background
+Traffic congestion and/or localized weather phenomena, such as intense thunderstorms or severe turbulence, can render a specific segment of airspace temporarily unsuitable for further use. This has a potentially negative effect on departure traffic if the filed route of flight takes the aircraft through the affected sector. To overcome this problem, the first CDRs were developed in the late 1990s. The CDR program consists of the preplanned, alternative departure routes; the associated route coding; the dissemination of CDR route information; and the re-clearance process that can be used to avoid any specific sector for which a temporary restriction is in effect. Initially, these routes were only available to commercial air carriers that had signed a memorandum of understanding (MOU) with the departure facility, but the program has since been expanded to include general aviation (GA) traffic.
+CDR Identification
+Each CDR is uniquely identified by an eight-character alphanumeric code. The first three characters of the code identify the departure airport, the next three identify the arrival airport and the final two characters are used to differentiate the various route options between the city pair. As an example, all CDRs between Newark Liberty International Airport, NJ (KEWR) and Palm Beach International Airport, FL (KPBI) will be coded EWRPBIxx where the discriminator "xx" identifies a specific route out of a potential group of CDRs. At the time this article was written, the CDR identifier EWRPBI64 corresponded to the route KEWR NEWEL J60 DANNR RAV J64 BURNI TYROO QUARM AIR HVQ BULEY J91 ATL YUESS Q79 MOLIE WLACE4 KPBI. Note that while a coded route can be filed as the proposed route of flight, the eight character code cannot be used to do so. That is, the full route of flight must be identified when filing the flight plan.
+Scope
+
+CDR options between KEWR and KPBI - not to be used for navigation
+The scope of the CDR program is substantial. Virtually all of the city pair permutations between the major airports in the United States and Canada have been interconnected with preplanned CDRs. In most cases, there are multiple CDR options between each city pair, a feature designed for rapid adaptations to the closure or saturation of a specific ATC sector. For example, at the time this article was written, there were a total of six CDRs between Newark and Toronto/Lester B. Pearson International Airport, 20 between Newark and Palm Beach (illustrated) and 53 different coded routes between Newark and Los Angeles International Airport. Systemwide in the United States and Canada there are more than 36,000 preplanned CDRs. All of these routes are subject to review and amendment on the normal 56-day chart amendment cycle for operation under instrument flight rules.
+Benefits
+The primary benefit of CDR use is to provide users optional, preplanned alternative departure routes and the associated coordination procedures that can swiftly mitigate the impact of adverse conditions and reduce departure delays. Specifically:
+
+CDRs provide alternative departure routes from an airport terminal during periods of constraint or restriction. If a specific standard instrument departure (SID) or a filed departure route becomes unavailable, pilots of participating flights can obtain alternative departure instructions/routings;
+CDRs are used when normal route structures become unusable because of weather, ATC equipment outages, and other system constraints. This provides more routes to reduce departure delays; and,
+CDRs enable an abbreviated ATC departure clearance format to reduce radio communication congestion and to speed up the reroute clearance delivery process.
+
+Use of Coded Departure Routes
+Communicating a willingness to accept a coded route is a simple process for dispatchers and flight crews. When a potential delay or reroute is possible at the departure airport due to thunderstorms, outages, or known volume concerns, the pilot-in-command can include the notation "CDR CAPABLE" in the remarks section of the flight plan. By doing so they are advising ATC that they:
+
+are familiar with the CDR program;
+have a current list of available CDRs onboard the aircraft;
+can accept a change to the filed route from ATC;
+have the navigation equipment onboard the aircraft to comply with the new route; and,
+have sufficient fuel to accept the new route
+
+A list of all of the CDRs connecting a city pair can be obtained by accessing the FAA Air Traffic Control System Command Center Route Management Tool website and selecting the CDM Operational Coded Departure Routes option. Entering the origin and destination airports in the appropriate fields and then clicking on "Submit Search Terms" will generate a list of all of the CDRs between the city pair. That list will include both the route alphanumeric code and full route details as well as an indication of the navigation capability required for the route. Commercial flight planning services often have a selectable "CDR" option included in their planning software that will automatically generate the "CDR CAPABLE" notation in the flight plan remarks and append all of the CDR route information, including fuel calculations for each potential route, to the flight plan package generated for the user.
+ATC Clearance
+The clearance content and format will depend on how ATC transmits it to the flight crew, when it is transmitted and the tactical situation as the departure time approaches. In most cases, the initial clearance, received via datalink or voice, will be a standard clearance via the filed route. However, it is also possible that an aircraft operator that has indicated "CDR Capable" on its flight plan could be given a CDR routing as part of its initial clearance. By design, the CDR program supports abbreviated clearances. An ATC initial clearance via a CDR could be transmitted as "N265C, cleared to West Palm Beach via EWRPBI64, depart RW 22R, NEWARK 3 departure, squawk 4673". An amended clearance via a CDR could be transmitted to the flight crew as "N265C, cleared to West Palm Beach via EWRPBI64, remainder of the route unchanged". In either situation, the flight crew's readback would be accomplished using the same abbreviated format. The controller, in all cases, has the option of issuing a full route clearance instead of using the CDR identifier. If any doubt regarding the routing exists, the pilot should clarify the clearance and obtain a full route clearance if necessary.
+Further Reading
+FAA
+
+Advisory Circular 91-77 General Aviation, Coded Departure Routes (CDR)
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

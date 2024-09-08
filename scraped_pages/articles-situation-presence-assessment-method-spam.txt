@@ -1,0 +1,194 @@
+Situation Presence Assessment Method (SPAM)
+
+
+
+
+
+
+
+
+
+
+
+  Situation Presence Assessment Method (SPAM)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+SPAM is another query technique. It does not use the freezing method; queries are very similar to SAGAT queries but all information normally available to the subject remains in view. The data collected and analysed (the dependent variable) is not the percentage of correct answers but the time (delay) elapse between the query and the answer.
+“Although SPAM is procedurally similar to SAGAT, the two differ in interesting ways. In addition to not requiring a memory component, SPAM acknowledges that S.A. may sometimes involve simply knowing where in the environment to find the particular piece of information, rather than remembering what that piece of information is. For example a controller need not store in memory the call sign of an aircraft, but good S.A. may require that he or she knows where to find the call sign should communication with the aircraft be required” (Durso et al., 1998). The queries are asked to the controller via his/her landline. The assumption is that this “input mode can be fit into the controller’s existing work scheme” (Durso et al., 1995). After the participant answers the landline, the experimenter reads the question and initiates a timer. When the controller answers the timer is stopped and the delay and the responses are registered.
+An argument for not using the freezing technique is that any technique that removes controllers’ attention from their radar screen is likely to be “disruptive and viewed with suspicion”. An interesting aspect of this method is that the questions always ask for gist-type information (e.g. Which has the lower altitude, TWA799 or AAL957?) and not for unique data on a single aircraft. The logic behind gist-type questions is the assumption that controllers do not memorise data on aircraft in isolation. Most of the time they do not need to commit this data to memory because the information is available either on the radarscope or on the strips. This assumption is in agreement with the studies made in France on Controllers’ Mental Representation.
+One limitation of the SPAM method is that the questions and answers are verbal: addressing spatial representation of traffic in an airspace is more difficult verbally than manually i.e. via drawing techniques (e.g. the map in SAGAT).
+Another concern might be that SPAM measures are dependent on workload and spare capacity. The fact that controllers have access to the information and can refer to it to answer could be interpreted as an indicator of the spare workload capacity more than a S.A. indicator. This argument loses strength when remembering the assumption of S.A. on which SPAM is based: S.A. may simply involve the human knowing where in the environment to find the information when needed.
+Theoretical underlying principle/theory
+The Situation Present Assessment Method is based on the assumption that SA involves simply knowing where to find information in the environment to find a particular piece of information, as opposed to remembering what that piece of information is (e.g. Durso et al. 1995). For example, controller might need to remember aircraft call signs if they are able to retrieve than information from the environment if required.
+Progress of data collection
+The controller is asked question via his/her landline. The simulation is not stopped and all the information remains available to the controller. When the controller answered the Landline, the experimenter read the question and initiates a timer.
+Nature of data collected
+Correctness of the answer, but also time delay between the query and the answer. The queries are asking for “gist type” information i.e., which of the two aircraft has the lower altitude?” Rather than for unique data on a single aircraft.
+Result/scoring
+The data analysed is the time between the query and the correct answer.
+
+
+
+Strength(s)
+Weakness(es)
+
+
+
+
+
++ use of landline can be fitted into the controller’s existing activity scheme + less intrusive than other query techniques ++ Uses “gist type” questions. Several studies by different authors are in favour of that way of storing information by ATCOs. + no freeze, no stop of the simulation ++ time of response considered by the ATCOs themselves as an indicator of S.A..
+
+
+Still intrusive for the queries are asked during the simulation run (weakness reduced by the fact that using the landline can be fitted into the controller’s existing schema). Scripted questions mean it is difficult to use in multi-sector simulation Importance of queries not rated questions and answers are verbal and might make addressing spatial representation of the airspace (and of the traffic in that airspace) more difficult(Spatial representation of the traffic is more difficult than when aided with a map as with SAGAT) - rapidity of the answer is dependant on workload and spare capacity.
+
+
+
+
+For which type of evaluation/experimentation
+More adapted for prototyping experiment but could also be used during real time simulation. Could even, with extreme care be use during real shift (if the load of the sectors allows it without safety risks)
+Possible adaptation/enhancement
+Answers could be weighted in accordance to Subject Matter’s Experts judgement in front of a replay of the simulation.
+References
+
+Durso, F.T., Truitt, T.R., Hackworth, C.A., Crutchfield, J.M., Nikolic, D., Moertl, P.M., Ohrt, D. & Manning, C.A. (1995). Expertise and Chess: a Pilot Study Comparing Situation Awareness Methodologies. In: D.J. Garland & M. Endsley (Ends), Experimental Analysis and Measurement of Situation Awareness. Embry-Riddle Aeronautical University Press.
+
+
+
+
+
+Categories
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+Generics
+
+
+Target of method
+Situational Awareness
+
+
+Time Scale of method
+ 
+
+
+Context of studies
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Potential problems with the method
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Costs of the method
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Analysis data
+
+
+Analysis Speed
+ 
+
+
+ 
+
+
+Data Automation
+ 
+
+
+ 
+
+
+Analysis Automation
+ 
+
+
+ 
+
+
+Status
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

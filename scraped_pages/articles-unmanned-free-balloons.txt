@@ -1,0 +1,195 @@
+Unmanned Free Balloons
+
+
+
+
+
+
+
+
+
+
+
+  Unmanned Free Balloons
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+A non-power-driven, unmanned, lighter-than-air aircraft in free flight.
+Source: ICAO Annex 2 - Rules of the Air
+Description
+Unmanned free balloons are mostly used for scientific purposes. They usually operate at very high levels (i.e. above 60 000 ft / 18 000 m). While at these levels they are not a considerable hazard to other aviation operations, the ascent and descent phases need specific attention. 
+Unmanned free balloons use light gas (hydrogen or helium) as hot air is impractical for reaching their high operation altitudes. Based on the volume of the gas, balloons are divided into "zero-pressure" and "superpressure".
+Zero-pressure unmanned free balloons change their shape as they ascend (see image below). The reason is that as the balloon rises, ambient pressure gradually decreases and the gas inside extends until it equates that pressure.
+
+
+ 
+
+CopyrightSKYbrary
+
+
+
+Superpressure balloons keep relatively constant volume regardless of the altitude. Therefore, in the high-altitude case, the pressure inside is much greater than that of the ambient air. Depending on the strength of the balloon envelope, the pressure difference may cause the balloon to burst. This phenomenon was the reason for the development of zero-pressure balloons.
+Unmanned free balloons are classified as ''heavy'', ''medium'' and ''light'' according to the criteria, specified in Annex 2, Appendix 5. Heavier balloons are subject to stricter requirements. The most important criterion is the combined payload weight:
+
+Light unmanned free balloons are those where the combined payload weight is less than 4 kg
+Medium unmanned free balloons carry payload that is 4 kg or more but less than 6 kg
+Heavy unmanned free balloons are those with payload of 6 kg or more.
+
+Additional criteria are defined for specific circumstances so that some unmanned free balloons may be classified as "heavy" even though their combined payload is less than 6 kg if they pose increased risk in case of impact, i.e. if:
+
+the payload includes a package that weighs 3 kg or more;
+the payload includes a package that is 2 kg or more but with an area density of 13 g/cm2 or more. Area density is calculated by dividing the mass of the package by the smallest area of the package. The rationale is that even a relative light package can cause considerable damage if the contact area is small enough.
+the rope (or other device used to suspend the payload to the balloon) requires a considerable force to break (i.e. 230 N or more).
+
+ICAO has defined procedures for the operation of unmanned free balloons in Annex 2 and other documents. Some States have developed further requirements and procedures. In general, unmanned free balloons must be operated in a way that ensures the safety of other traffic as well as persons and installations on the ground. Since the options for control of this aircraft type are extremely limited, the procedures focus on balloon identification and traceability and mitigation of the collision risks.
+Operating Requirements
+Unmanned free balloons need to comply with various requirements before they launch, e.g.:
+
+Authorization requirements:
+
+An unmanned free balloon needs to receive appropriate authorization from the state of launch. 
+Additional authorization is required if the balloon will be operated over the territory of another state (light meteorological balloons are exception from this) and if operating over high seas, coordination with the appropriate ATS authority is required.
+Heavy balloons need authorization from the ATS authority if they are to operate below 6 0000 ft and there are clouds that obscure more than 4 octas of the sky or the visibility is below 8 km.
+
+
+Surveillance requirements for heavy balloons:
+
+Must be detectable by primary radar or be equipped with devices that provide other means of tracking
+If SSR or ADS-B ground equipment is used, the balloon must be equipped with a Mode C transponder or ADS-B transmitter respectively
+
+
+Conspicuity requirements for heavy balloons
+
+If the balloon is to operate at night below 60 000 ft, it (including the payload) must be lighted
+If equipped with a trailing antenna that requires a significant force to brak (i.e. more than 230 N), the antenna must have coloured pennants or streamers
+
+
+Termination equipment requirements for heavy balloons:
+
+At least two payload flight-termination devices or systems, whether automatic or operated by telecommand, that operate independently of each other
+At least two ways for terminating the flight of the balloon envelope that function independently of each other. This only applies to zero-pressure balloons as the use of payload termination devices will result in rapid ascent of supperpressure balloons and a consequent burst.
+
+
+
+The termination devices/systems are to be used whenever it is considered that the flight poses a threat to other parties or prior to unauthorized entry into the airspace over another State’s territory.
+Flight and ATS Procedures
+
+The ATS unit concerned are to be notified of the flight of a medium or heavy unmanned free balloon at least 7 days in advance. The notification is to contain pertinent information such as balloon classification, SSR code, launch site, estimated time of launch, cruising level, estimate for passing 60 000 ft, etc. Any change to that information is to be forwarded to the ATS unit at least 6 hours before launch
+The actual launch information is to be forwarded to the ATS unit concerned together with any changes (if any) to the data previously provided. If the flight is cancelled, this information is also to be provided to the ATS unit.
+During the flight, the operator of a heavy unmanned free balloon operating at or below 60 000 ft must monitor the flight path and forward position reports as requested by air traffic services, at least every two hours. If the balloon operates above 60 000 ft, the frequency of these reports can be increased to once per 24 hours.
+The planned descent of a heavy balloon is to be notified to the ATS unit at least one hour prior. The message must include an estimate for crossing 60 000 ft altitude, if applicable.
+The operator must inform the ATS unit when the operation of a heavy or medium balloon has been completed.
+ATS units forward the information about unmanned free balloons to other aircraft concerned. Example phraseology:
+
+TRAFFIC IS (classification) UNMANNED FREE BALLOON(S) WAS [or ESTIMATED] OVER (place) AT (time) REPORTED (level(s)) [or LEVEL UNKNOWN] MOVING (direction) (other pertinent information, if any)
+
+
+Upon receiving the information about the planned flight of a medium or heavy balloon, the ATS unit must forward this information to other ATS unit(s) concerned. After launch, they are to forward that information as well. Example phraseology:
+
+ESTIMATE UNMANNED FREE BALLOON(S) (identification and classification) ESTIMATED OVER (place) AT (time) REPORTED FLIGHT LEVEL(S) (figure or figures) [or FLIGHT LEVEL UNKNOWN] MOVING (direction) ESTIMATED GROUND SPEED (figure) (other pertinent information, if any)
+
+
+ATS units must monitor the movement of medium or heavy unmanned free balloons using surveillance equipment to the extent possible and provide separation to other aircraft as necessary (in controlled airspace) or on request by pilots (in uncontrolled airspace).
+
+Related Articles
+
+Hot Air Balloon Awareness
+Unmanned Aerial Systems (UAS)
+
+Further Reading
+
+ICAO Annex 2 - Rules of the Air
+ICAO Doc 4444 PANS-ATM
+
+
+
+
+
+Categories
+
+
+General,
+              Unmanned Aerial Systems
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

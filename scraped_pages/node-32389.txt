@@ -1,0 +1,142 @@
+Transponder IDENT Feature
+
+
+
+
+
+
+
+
+
+
+
+  Transponder IDENT Feature
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+The IDENT feature allows the pilot to transmit, with the push of a button, a special pulse that is added to the transponder reply. The SPI (special position identificaion) pulse is only present in the reply if the pilot has activated the IDENT feature.
+
+ 
+
+This pulse is then received by the SSR on the ground and is processed and presented to the air traffic controller, normally as a flashing of all or part of the position indication and associated label. The details may differ depending on the ATC system used. Some examples (not necessarily from a real system) are shown below (a big yellow flashing X behind the IVB996 track symbol, flashing label of DVK1208 and flashing track symbol of DJK0905).
+
+
+
+Uses
+The transponder Ident feature is used primarily for two purposes: aircraft identification and mitigation in case of communication loss.
+Aircraft Identification
+Depending on the circumstances, the available methods for identification can be limited. An example of such situation is an aircraft approaching the boundary with a duplicated SSR code and no Mode-S data. In this case the most common identifiaction methods (recognition of the callsign in the track label based either on successful correlation or on mode S data or recognition of the SSR code) cannot be used. The IDENT feature is a quick, simple and reliable alternative. However, controllers should bear in mind that:
+
+Garbling, i.e. overlapping of the replies received at almost the same time (e.g. if the two aircraft are vertically separated but with little horizontal spacing), can cause the ground system to show IDENT representation.
+Nearly simultaneous IDENT transmissions can be observed within the same area even if no garbling occurs (e.g. due to pilots inadvertently pushing the IDENT button, pushing the IDENT button after changing the SSR code due to an operator SOP, identing due to another controller's instruction, etc.)
+
+Mitigation in Case of Communication Loss
+If there is no response on the frequency from an aircraft, the Ident feature can be used to confirm whether the communicaiton loss is complete or partial (i.e. the pilot can hear the controller but is unable to transmit). If this is the case, further clearances can be issued to the aircraft and the pilot can confirm their reception by identing. While this is a valid ICAO procedure, controllers should bear in mind that an important safety buffer, the readback-hearback sequence, is missing.
+Phraseology
+The following phraseology examples can be used in respect to the transponder IDENT feature:
+
+IVB3011, SQUAWK IDENT - normally used for identification of aircraft
+IVB3011, IF YOU READ, SQUAWK IDENT - normally used when several attempts to establish or resume communication with an aircraft have been unsuccessful
+IVB3011, SQUAWK OBSERVED, POSITION 10 MILES EAST OF REKRA, WILL CONTINUE TO PASS INSTRUCTIONS - used to inform the pilot that the IDENT has been received
+IVB3011, DESCEND FL 220 AND IDENT - used to pass insctructions and clearances in case of partial communication loss
+
+Related Articles
+
+Transponder
+Secondary Surveillance Radar (SSR)
+Surveillance
+Radar Identification
+Plots, Tracks and Labels
+Correlation
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

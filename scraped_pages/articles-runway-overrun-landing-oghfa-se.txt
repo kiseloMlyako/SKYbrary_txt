@@ -1,0 +1,223 @@
+Runway Overrun On Landing (OGHFA SE)
+
+
+
+
+
+
+
+
+
+
+
+  Runway Overrun On Landing (OGHFA SE)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+OGHFA 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ Flight Safety Foundation
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 The Incident as a Situational Example
+Your aircraft starts its descent to the runway after a 9.5-hour flight. At the destination, the wind is from 250 degrees at 10 kt, visibility is 9 km (5.5 mi) with rain and thunderstorms. The runway is 3,150 m (10,300 ft) long and the airline manuals note that the runways are slippery when wet. The first officer is the pilot flying and conducts the approach briefing. Considering the above airport information, autobrakes are selected on “2.” From your perspective at the moment, based on good visibility, weather conditions are not a potential problem.
+Approach control informs you about heavy rain at the airport with 4 km (2.5 mi) visibility. Autobrakes are then reset to “3.”
+How do you see the situation?
+The first officer suggests waiting, but because of the 4 km visibility you decide to continue.
+The approach checklist is performed with flaps set at 25 degrees for a target speed of 154 kt (Vref plus 5 kt) at touchdown.
+You have automatic terminal information service (ATIS) information Tango: “Wind 360 degrees, 9 kt, visibility 5 km (3.1 mi), with thunderstorms around and over the airport.” During the last turn, you say you have visual contact with the airport’s surroundings; the airplane is out of the clouds and there is no rain.
+The previous airplane landed with only 1,500 m (5,000 ft) visibility and a runway visual range (RVR) of 750 m (2,400 ft) on Runway 21L. These data are in ATIS information Uniform. However, the controllers do not pass on the new information to you. Therefore, you maintain the same mental image concerning the weather assessment: possibly no rain and visibility of 5 km.
+The crew of another airplane on short final initiates a go-around. You are still on the approach control frequency and are not aware of this. The first officer disengages the autopilot and autothrottles and requests 20 degrees flaps.
+The airplane passes the final approach fix (FAF) at 1,600 ft and 163 kt. The tower controller announces, “Caution, runway wet and braking action reported by another airplane was good.” You are cleared for landing on the runway, wind 260 at 11 kt.
+What is your decision based on this information?
+The landing checklist is performed following airline procedures: flaps 25, idle reverse thrust. Neither the first officer nor you mention the configuration with flaps 30, full reverse thrust, which would give a much lower approach speed and would provide maximum aerodynamic drag after touchdown.
+The airplane is at 800 ft and the speed is 166 kt, or 12 kt above target. The first officer says, “It doesn’t want to slow down!” You agree. The first officer has already reduced power to 1.10 EPR (engine pressure ratio), compared with nominal 1.13 on a three-degree glideslope, and he doesn’t want to reduce it any further.
+Do you continue the approach?
+You concur since it is still within the airline’s limits, and visibility is still good at the moment.
+You realize that weather conditions are worsening significantly when passing 350 ft as the airplane enters an area of rapidly intensifying rain. The runway lights are now intermittently visible through the wipers.
+At 140 ft, the airplane is above the glide path, vertical speed is 600 fpm and airspeed is 170 kt. You mention that the airplane is too high.
+The airplane crosses the runway threshold 78 ft high with a vertical speed of 600 fpm and airspeed of 169 kt, 15 kt higher than target. At 50 ft, the airplane’s pitch attitude increases from 3 to 3.6 degrees. You tell the first officer, “Get it down, get it down! Come on, you are starting your flare!”
+The visibility continues to worsen due to the intense rain, and the runway is not continuously visible.
+So, what is your decision?
+You order a go-around.
+The airplane is 10 ft above the ground with 157 kt indicated airspeed. Complying with your order, the first officer pushes the thrust levers forward but does not push the takeoff/go-around (TOGA) button. Three seconds later, the airplane touches the runway around 1,000 m (3,280 ft) past the threshold.
+Changing your mind, you put your hand over the first officer’s on the thrust levers and move three of the four levers to idle, due to a slip. Speed is 140 kt, and the first officer says, “OK, we have landed,” and reduces the engine no. 1 thrust lever to idle. However, the three-second delay between landing gear contact and the idle lever selection automatically disengaged the autobrake. Both of you are unaware of this fact.
+At mid-runway, groundspeed is 153 kt. Both of you are applying maximum braking without touching reverse power and are looking at the rapidly approaching end of the runway without understanding why the airplane is not slowing down.
+The airplane passes the end of the runway at 88 kt. The nosegear and the right main landing gear collapse rearward when colliding with the ILS (instrument landing system) localizer antenna. The airplane continues to slide on wet ground and finally comes to a stop with its nose on a road 220 m (722 ft) past the end of the runway.
+The first officer shuts down all engines and radios twice that you have overrun the runway and require assistance, but the transmission is weak and the tower controller does not understand the request. None of the cabin crew or passengers report any injuries, but the airplane has sustained substantial damage.
+As a result of the nosegear collapsing rearward, the cabin passenger address and interphone systems are inoperative. Some important information does not reach you, and that leads you to wait for outside assistance and conduct a precautionary evacuation rather than initiate an immediate evacuation. The airplane is not visible from the tower and a gap in radio communications leads to the emergency response vehicles arriving on site 10 minutes after the accident. The disembarkation is conducted 20 minutes after the accident, with plenty of “unknowns” concerning the airplane’s real condition.
+
+2 Data, Discussion and Human Factors
+This scenario illustrates a frequently encountered situation in which the flight crew has to adapt to rapidly changing weather conditions during landing and manage the flight accordingly. In this example, active and latent failures were multiple and interactive.
+The active failures included the following:
+
+Underestimation of weather conditions due to lack of information from ATC and crew overconfidence.
+The first officer did not fly precisely on final approach.
+The captain canceled the go-around decision.
+Absence of selection of idle/full reverse thrust after touchdown.
+
+The latent failures included:
+
+A lack of adequate risk management strategy by the flight crew related to a contaminated runway due to deficient airline procedures and training.
+Latent deficiencies in airline organizational processes.
+
+Active failures
+Several weather reports noted that visibility was falling rapidly on final approach, but these updates were not known to the crew in part due to lack of communication from ATC, a factor that significantly affected situational awareness. The pilots were not aware of the deteriorating situation or that another aircraft had gone around during final approach. They were aware that the runway was wet and that a previous landing airplane had reported braking action as “good.” Being prepared for a go-around is something that must be coordinated.
+While conducting the approach briefing, the crew did not consider that the runway might be contaminated with water and consequently did not identify appropriate options and landing configurations to deal with such a situation. This was due to the absence of adequate airline-published information, procedures and flight crew training for landing on wet runways.
+The airline flight manuals mentioned wet runways in a chapter titled “Cold Weather Operations.” The accident investigation clearly identified that many pilots correlated this chapter with operations encountered in winter in Europe or Japan, and not at all with rain-contaminated runways in warmer regions. There was no other information available to the flight crew about landing techniques on wet runways or, more importantly, on the use of reverse thrust as a braking force in those conditions.
+Airline managers believed flight crews had adequate knowledge of operations on wet runways, but in fact, many crews thought “contaminated” was related to snow, ice or water thickness greater than 13 mm (0.5 in). Most of them did not know that aquaplaning could occur with water thickness as low as 3 mm (0.1 in) and that reverse thrust is very important in this case.
+The investigation established that, during the landing roll, the tires aquaplaned on the wet runway. This limited the effectiveness of the brakes to about one-third of that on a dry runway. In such conditions and without the use of reverse thrust, there was no way for the crew to stop in the distance remaining.
+It also became clear that the flaps 25, idle reverse thrust landing procedure used by the crew — which was the preferred airline procedure — was not appropriate for operations on wet runways. The appropriate approach-and-landing procedure was flaps 30, full reverse thrust. The characteristics of this were a lower approach speed, which would have been easier to fly in terms of speed control and runway aim point, and providing maximum aerodynamic drag after touchdown when the effectiveness of the brakes could be reduced because of aquaplaning. Had this configuration been selected, the first officer probably would have had better speed control, and the overrun would probably have been avoided.
+When the airplane was approximately 10 ft above the runway, the captain ordered a go-around. As the first officer complied by advancing the thrust levers, the main wheels touched down 636 m (2,087 ft) beyond the ideal touchdown point. The captain immediately canceled the go-around by retarding the thrust levers without announcing his actions or anything about his decision making. Those events resulted in confusion for the other pilot and contributed to the crew not selecting reverse thrust during the landing roll.
+Latent organizational failures
+The investigation report mentioned latent organizational failures from both the airline and the regulatory body overseeing its operations:
+
+Airline flight operations processes. The goal of the introduction of the new approach procedure (flaps 20, idle reverse thrust) was to reduce cost (e.g., brake and thrust reverser maintenance, and noise levy charges at the airline’s hub airport). The investigation found that the project development process lacked proper risk assessment for new procedures.
+
+Hazard identification and the associated risk reduction processes were primarily reactive and informal, rather than proactive and systematic.
+Management development, introduction and evaluation of changes to operations were deficient.
+Design of operational procedures and training was over-reliant on the decision-making ability of flight and cabin crews and did not place adequate emphasis on structured processes.
+
+
+Civil aviation authority regulatory operations.
+
+Deficient regulations governing contaminated runway operations.
+Deficient emergency procedures and associated training.
+Deficient surveillance of airline flight operations.
+
+
+
+
+3 Prevention Strategies and Lines of Defense
+In the complex and dynamically evolving operational setting of a final approach, decision making is strongly linked to situational awareness and to the action taken. More generally, all decisions are also associated with a certain level of risk. There is no decision without some risk taking. The choice between alternatives is a choice based on the expected results for each alternative compared with the ultimate goal, and the risk of failure to meet those results with the chosen alternative.
+Apart from experience in similar operational conditions, there are two ways to improve decision making: Improve decision-making training and aids to decision making.
+When the captain canceled the go-around, he did not announce the change. Proper phraseology is to be used to avoid uncertainties, not only on requesting an action, but also on acknowledgement from another crewmember that he/she has understood the request and is acting accordingly until the satisfactory completion of the action.
+The crew followed the airline-preferred configuration and procedures for approach and landing. The airline flight operations branch must conduct risk identification and assessment and risk-reduction processes in a structured proactive and systematic way rather than relying on the crew’s decision-making abilities when updating procedures.
+
+4 Key Points
+While on short final at an airport in Asia, the airplane was flying through very heavy rain. The first officer was flying. The captain ordered a go-around about 10 ft above the runway. The main landing gear touched the runway, and the captain took over and canceled the go-around without announcing his intentions. Due to heavy rainfall, the airplane was aquaplaning and, without reverse thrust, overran the 100-m stopway and stopped 220 m later on an airport perimeter road. None of the passengers and crew were injured, but the airplane was seriously damaged.
+This accident was caused by an under-estimation of the degradation of the weather conditions (heavy rain on short final and landing) and the associated active failure by the crew to adopt the proper risk management strategy due in part to lack of information on weather degradation from ATC. Furthermore, the first officer lacked accuracy during his approach, and the captain took over from him without announcing his intentions Full reverse thrust was not applied.
+Other contributing latent failures leading to this accident were inadequate airline information, procedures and training related to contaminated runways, poor risk-evaluation processes when changing procedures and a non-proactive and unsystematic process to identify and track operational hazards.
+The accident highlights the following factors:
+
+Clear crew-ATC communications and cross-checking are essential to safety.
+Up-to-date technical information, in this case on aquaplaning, is important to maintain safety awareness.
+Decision-making processes are improved by experience, adequate training and aids.
+Conducting effective briefings reduces reaction time and clarifies task sharing.
+Procedural changes should be based on structured risk assessment and reduction processes.
+
+
+5 Associated OGHFA Material
+Briefing Notes:
+
+Flight Preparation and Conducting Effective Briefings
+Decision-Making
+Decision-Making Training
+Situational Awareness
+
+
+6 Additional Reading Material
+
+Flight Safety Foundation Approach and Landing Accident Reduction (ALAR) Toolkit
+
+U.S. Federal Aviation Administration
+
+AC 91-79 Runway Overrun Prevention
+AC 60-22 Aeronautical Decision Making
+Joint Aviation Authorities. Joint Aviation Requirements-Operations 1.945, 1.955 or 1.965, “CRM Training"
+
+Related SKYbrary Articles
+
+Runway Excursion
+Crew Resource Management
+Situational Awareness
+Missed Approach
+Flight Safety Foundation ALAR Toolkit
+
+
+
+
+
+Categories
+
+
+OGHFA,
+              Situational Examples,
+              Human Factors
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

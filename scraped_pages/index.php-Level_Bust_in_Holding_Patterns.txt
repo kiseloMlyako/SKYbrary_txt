@@ -1,0 +1,166 @@
+Level Bust in Holding Patterns
+
+
+
+
+
+
+
+
+
+
+
+  Level Bust in Holding Patterns
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Level Bust 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Holding patterns pose particular problems in relation to level busts because several aircraft are packed into a small volume of airspace and are constantly manoeuvring and changing their levels. Descent below the cleared level immediately reduces vertical separation from the aircraft below, and is difficult for an ATCO to detect and correct quickly.
+Typical Scenarios
+
+Aircraft is cleared to descend below the transition level in the hold and pilot forgets to set QNH. (Altimeter setting procedures).
+ATCO issues descent clearance to the wrong aircraft, perhaps due to call sign confusion.
+Pilot takes a clearance intended for another aircraft, perhaps due to call sign confusion.
+Two aircraft in the hold are issued with descent clearances. The lower aircraft descends too slowly or the higher aircraft descends too quickly. (controllers should note that, in the managed mode, FMS provides for 1000 fpm rate of descent)
+Pilot is slow to initiate descent following a reclearance.
+
+Contributory Factors
+
+Lack of adherence to standard operating procedures (SOPs), especially in regard to radio discipline.
+More than one holding pattern may be under the control of a single ATCO on the same frequency.
+Less effective safety nets may increase the severity of the consequences of a level bust in this environment:
+
+STCA may in some cases be disabled;
+limitations on the protection provided by TCAS when turning.
+
+
+Label merging on ATC radar displays.
+
+Mitigations
+Accurate pilot-ATCO communication and adherence to flight clearance is essential when descending in a holding pattern because the overlay of aircraft data labels on the ATCO’s radar display may not allow the immediate detection of an impending traffic conflict. The usual ATC safety-net of STCA is likely to be less effective.
+Properly used, ACAS provides an effective safety net. However, if a RA in the hold is not accurately followed and/or a return to the cleared level is not made immediately "clear of conflict" is annunciated, then the likelihood of a secondary loss of separation is increased by the probable presence of other nearby traffic 1000ft above and 1000ft below the assigned level. Multiple aircraft ACAS events are possible in a stack and have been recorded. It is crucial that all aircraft receiving a TCAS RA when in a holding pattern follow the RA strictly.
+Solutions
+
+SOPs : Strict adherence to SOPs, especially in regard to radio discipline, including awareness of the danger of call sign confusion and blocked transmissions.
+Sterile Cockpit: Initiate Sterile/Silent cockpit at top of descent.
+Commencement of Descent: Descent should commence on acknowledgement of clearance.
+Mode S Selected Altitude DAP: Use of Mode S information, in tools such as the Vertical Stack List (VSL), can dramatically improve a controller's situational awareness. The image below shows the VSL display in operation in the London Terminal Control. On the left is the normal surveillance picture of the Bovingdon hold with a lot of garbling. On the right is the VSL showing level occupancy, actual altitude and in orange the Selected Altitude DAP. The tool not only enhances controllers’ vertical stack awareness but provides a warning of a potential level bust.
+
+
+Vertical Stack List
+Accidents & Serious Incidents
+
+B734 / MD81, en-route, Romford UK, 1996 (LOS LB HF): On 12 November 1996 (the same day as the fatal mid air over New Delhi), a B737-400 descended below its assigned level in one of the holding patterns at London Heathrow, in IMC, to within 100 feet vertically and between 680 and 820 metres horizontally of an MCDONNELL DOUGLAS MD-81 at its correct level. Neither aircraft was fitted with ACAS.
+
+Related Articles
+
+Level Bust
+Airborne Collision Avoidance System (ACAS)
+
+Further Reading
+HindSight
+
+HindSight 5: TCAS and STCA - not just anagrams
+
+
+HindSight 6: Changes to ICAO rules regarding TCAS RAs
+
+
+
+HindSight 10: The tenth edition of HindSight, titled "Level Bust or... Altitude Deviation ?", published in December 2009, contains a variety or articles addressing different aspects of the Level Bust issue including:
+
+TCAS II and Level Bust
+Mode S - helping to reduce risk
+
+
+
+
+
+
+
+Categories
+
+
+Level Bust
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

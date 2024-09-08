@@ -1,0 +1,128 @@
+CPDLC Incorrect Call Sign on Log-on
+
+
+
+
+
+
+
+
+
+
+
+  CPDLC Incorrect Call Sign on Log-on
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Reminder Message
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+We Have Been Informed
+
+Flight YYY777 sent a Controller Pilot Data Link Communications (CPDLC) logon request using incorrect aircraft identification YYY772.
+Flight plan having the aircraft identification YYY772 was already active in the ATC flight data processing system. This aircraft was not logged on with the ATS system.
+Consequently the logon request was automatically accepted by the ATS system and automatically associated with the flight plan of YYY772.
+Therefore the uplinked ATC clearances intended for YYY772 were actually received by YYY777.
+Voice readback of the CPDLC instructions and other communications with the aircraft involved, triggered the recognition of the miss-match and the situation was clarified and resolved on the voice frequency.
+When queried as to whether they received the CPDLC messages, the crew of YYY772 did not highlight the fact that they were not CPDLC connected at the time.
+
+Aircraft Operators are Reminded to
+
+Ensure that the correct aircraft identification (ICAO flight plan Item 7) is used for all airborne systems including CPDLC log-on.
+Ensure that, when required, voice readback is used as specified in the respective Aeronautical Information Publications (AIPs) for profile-changing CPDLC messages.
+Ensure that crews revert to voice in the case of any uncertainty regarding the receipt of a CPDLC message.
+Ensure that crews are aware of their CPDLC status and in case of doubt report this via voice.
+
+Further Reading
+
+ICAO Annex 11 Chapter 3
+ICAO Doc 4444: PANS-ATM, Chapter 14
+
+Disclaimer
+© European Organisation for Safety of Air Navigation (EUROCONTROL) January 2008. This alert is published by EUROCONTROL for information purposes. It may be copied in whole or in part, provided that EUROCONTROL is mentioned as the source and to the extent justified by the non-commercial use (not for sale). The information in this document may not be modified without prior written permission from EUROCONTROL. The use of the document is at the user’s sole risk and responsibility. EUROCONTROL expressly disclaim any and all warranties with respect to any content within the alert, express or implied.
+
+
+
+
+Categories
+
+
+Safety Reminder Message
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,337 @@
+B734, en-route, eastern England UK, 2018
+
+
+
+
+
+
+
+
+
+
+
+  B734, en-route, eastern England UK, 2018
+
+
+
+
+
+
+
+
+
+Summary
+
+On 12 October 2018, the crew of a Boeing 737-400 already released to service under MEL conditions with an inoperative No 1 engine generator encountered a loss of services from the No 2 electrical system en-route to East Midlands which created a situation not addressed by QRH procedures. The flight was completed and both the new and existing defects were subsequently rectified relatively easily. The Investigation concluded that the operator involved appeared to be prioritising operational requirements over aircraft serviceability issues and made a range of Safety Recommendations aimed at improving company safety culture and the effectiveness of regulatory oversight.
+
+
+
+
+Event Details
+
+When
+
+12/10/2018
+
+
+
+Event Type
+
+
+AW,
+              LOC
+
+
+
+
+Day/Night
+
+Night
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 737-400
+
+
+
+
+
+
+
+
+
+Operator
+
+West Atlantic UK
+
+
+
+Type of Flight
+
+Public Transport (Cargo)
+
+
+
+Flight Origin
+
+
+
+
+Amsterdam Airport Schiphol
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+East Midlands Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Descent
+
+
+
+
+
+
+
+
+Location
+
+Approx.
+
+Market Rasen UK
+
+
+
+
+
+
+
+
+
+
+General
+
+Tag(s)
+
+
+              Inadequate Aircraft Operator Procedures
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Significant Systems or Systems Control Failure,
+              Degraded flight instrument display,
+              Uncommanded AP disconnect
+          
+
+
+
+
+EPR
+
+Tag(s)
+
+
+              PAN declaration
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Electrical Power,
+              Indicating / Recording Systems,
+              Other
+          
+
+
+
+Contributor(s)
+
+
+              Maintenance Error (valid guidance available),
+              Contributing ADD,
+              Dispatch of Unserviceable Aircraft
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Non-aircraft damage
+
+Yes
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+Yes
+
+
+
+Ditching
+
+Yes
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Airworthiness
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 12 October 2018, a Boeing 737-400 (G-JMCR) being operated by West Atlantic UK on a scheduled international cargo flight from Leipzig to Aberdeen via East Midlands was en-route from Amsterdam to East Midlands in VMC at night and had just begun descent to destination after dispatch with the left engine generator disconnected when the AP disconnected, the right side EFIS displays failed and an abnormal array of electrical system failures occurred. A ‘PAN’ was declared and the flight was successfully completed maintaining visual contact with the destination.
+Investigation
+A Field Investigation was carried by the Aircraft Accident Investigation Branch (UK) (AAIB). The CVR and FDR were removed from the aircraft and their data successfully downloaded but although the 30 minute CVR provided data from about 5 minutes before the beginning of the descent to East Midlands, data from the FDR, whilst complete, did not include that relevant to the functioning of electrical system components.
+It was noted that the 50 year-old Captain, who had recently joined the operator, had accumulated a total of 8,418 flying hours which included 6,314 hours on type. The First Officer was acting as PF for the departure.
+It was established that on taking over the aircraft on its arrival at Leipzig, the crew had met and briefly discussed with the off-going crew the fact that the aircraft had been released to service with an Acceptable Deferred Defect (ADD) for an inoperative No. 1 (left engine-powered) generator under an MEL item which permitted this provided that the APU and the APU generator were running during each flight so that the No 1 electrical system could be powered by the APU generator.
+The flight from Leipzig to Amsterdam was uneventful until landing at Amsterdam when the First Officer’s flight instrument displays intermittently blanked and a number of warning lights on the overhead electrical system panel were intermittently lit. It was not clear to the crew what the cause of this was but they suspected a No 2 generator fault so they attempted to link the APU generator to the No. 2 electrical system but were unsuccessful and the aircraft was taxied to its allocated parking position and shut down.
+The crew then contacted the operator’s Line Maintenance Control (LMC) who arranged for a local engineer in Amsterdam to attend the aircraft. On arrival, he examined Generator 2 and the relevant flight deck circuit breakers and reset one of them. To ensure this had solved the problem, he asked the crew to do an engine ground run which was done and appeared to show that the No 2 electrical system was working normally. The engineer then cleared the defect entry and signed the release to service.
+The crew reported that before leaving Amsterdam, they had discussed what they might do if the no 2 engine generator did fail. The flight was uneventful until it was about 60 nm from destination when soon after the decent had begun, an uncommanded AP disconnect occurred and the First Officer’s EFIS screens blanked and his remaining instruments failed. The Captain took over control manually and disconnected the A/T.
+It was reported that “numerous lights on the overhead panel and on system annunciation panels illuminated and flashed and multiple aural TAWS warnings occurred". As both pilots had the runway in sight, the Captain instructed the First Officer to make a PAN call and ask for vectors direct to the ILS at East Midlands. For the remainder of the flight, the First Officer’s flight instruments continued to cycle on and off “numerous” times. The ILS approach was completed to a normal landing on runway 27 as planned and although the distraction of flashing warning lights and aural callouts continued throughout, the flight controls, flaps and gear were unaffected.
+On landing, “numerous aircraft systems failed including the autobrakes, half the exterior lights and the airspeed indications on the Captain’s Electronic Attitude Direction Indicator (EADI)". When the aircraft reached its allocated parking position, it was found that it was impossible to connect ground power. Although the flaps had been retracted, the flap indicator still showed them as deployed. The cargo door, cargo bay and multiple items on the flight deck remained without power. The crew briefed the ground engineers and completed the Aircraft Technical Log before continuing to Aberdeen with a replacement aircraft. Engineers later discovered that the Generator Control Unit (GCU) for the no. 2 generator, which was located in the flight deck behind the right pilot’s seat, was not correctly fitted in its housing.
+The Flight Operations Perspective
+Both pilots had considerable experience of the 737 Classic and were familiar with operations with an inoperative engine-driven generator in accordance with the MEL. The Captain was on his first week of flying after completing company-required flight training and operational checks. It was noted that none of the available Checklists matched the flight deck indications which had occurred with the closest being ‘Loss of all Engine Driven Generators’ which was not used by the crew because “they did not believe they had lost all engine generators”. It was accepted that there had been “no other checklist that would have provided any assistance”.
+It was recognised that given the prevailing good weather conditions, the point in the flight when the failure occurred and the availability of a long runway at East Midlands, it had a been relatively straightforward matter to safely complete the flight. However, had the aircraft been in cloud and/or there had been poor weather conditions on the ground, doing so with little automation available and with the First Officer unable to effectively monitor the aircraft flight path it could easily have been “challenging”.
+Observations on Line Maintenance Procedures
+West Atlantic UK was a specialist cargo operator with a large Boeing 737 fleet which mainly operated overnight network services for major clients. During the eighteen months prior to the investigated event, their fleet had increased from 11 to 17 aircraft and had continued to increase whilst the Investigation was in progress. During this time it had also moved its main operating base from Coventry to East Midlands as well as relocating “its AOC administration and Part ‘M’ responsibilities to a nearby business park”.
+It was noted that a group internal audit carried out in the spring of 2018 had identified concerns with the level of competence personnel manning Line Maintenance Control and as a result, a new post of LMC Manager had been established to take over line maintenance management functions from the Operations Manager and LMC had been placed under the Part ‘M’ organisation. Revisions to LMC procedures and additional staff training were ongoing at the time of the investigated event.
+It was noted that the OM made a series of statements about the use of the MEL which included the following:
+The aircraft may depart on the flight or series of flights for the purpose of returning directly to a base where the repairs or replacements can be made. The aircraft may continue the flight or series of flights but shall not depart an airport where repairs or replacements can be made. This statement is intended to allow the aircraft to be flown using the most direct route, to the nearest maintenance base where arrangements for repairs or replacements can be made. Once the aircraft lands at the maintenance base, the aircraft shall not be dispatched until the defect has been rectified.
+It was also noted that in the event that an ADD cannot be cleared within the stated MEL time limits, a facility existed for one-time issue of a ‘Rectification Interval Extension’ (RIE) which “should only be used in exceptional circumstances (and) must only be approved when it was not reasonably practical for the repairs to be made” where ‘reasonably practical’ was defined as meaning “the availability of spares, time and personal”.
+It was noted that the day before the investigated event had occurred, an RIE had been approved to the MEL limit for the inoperative No 1 generator with the reason given as “extensive wiring checks and component replacements have been carried out to isolate the fault on generator 1 system which is tripping TRU 1 CB when selected (and) the fault finding so far has not managed to isolate the root cause, further trouble shooting required”. It was noted that the ADD had originally been raised when the aircraft was undergoing scheduled maintenance at the main operating base and that prior to the issue of the RIE when the aircraft was in Oslo, it had been back at the East Midlands main operating base on three further occasions. During this period, troubleshooting with a view to rectification had also commenced when the aircraft was at a number of other bases but in each case it “could not be completed before the aircraft was dispatched”.
+Overall, the Investigation found considerable evidence that the operator had not appeared to be using the MEL “in the spirit of EASA’s Acceptable Means of Compliance or its own procedures”. It seemed that rather than using the MEL to allow an aircraft to return to its main operating base for faults to be rectified, it was instead being used “to enable the aircraft to meet operational commitments” with a number of instances where the aircraft had been dispatched from a place where, given enough time, rectification could have been achieved. It was specifically considered that the RIE issued to allow the aircraft to operate out of Oslo had not been issued in the required “exceptional circumstances”; rather it had been a way for “the operator to meet operational commitments”.
+Defect Rectification and Findings
+After the flight under investigation, the fault in the No 1 generation system was eventually traced to an open phase on one of the three power feeder cables that run from Generator 1 to its CB because one of the three pins in the connector at the wing / pylon disconnect was burnt. The extent of the damage made it impossible to determine the cause although Boeing commented that previous such occurrences “had usually been caused either by the connector having not been correctly torqued or because its wire spacer was missing”. They stated that this was “a known problem” and advised that a Service Letter had been issued to operators with suggested ways to achieve the best possible linking of these pins to the connectors.
+The finding after the flight that the No 2 GCU had been out of place in its rack was found to have meant that the contacts at the rear of the unit had disengaged from the contacts in the equipment rack. It was found that the unit locking device was serviceable and in the locked position with “no visible damage to the electrical shelf, tray or its connectors”. The correct re-racking of the unit was all that was required. It was found that although there was no record in the aircraft Technical Log or on worksheets for the previous 12 days of any intentional disturbance to the No 2 GCU, “messages on the company’s online maintenance tracking system stated that it had been disconnected on three occasions during this period as part of the attempt to clear the ADD on the left engine generator”. Boeing commented that “there had been no reports during the previous four years of electrical units having been incorrectly racked (and that) there was no model-wide or Boeing 737 fleet trend of units separating from the racks during flight”.
+The formally documented Conclusion of the Investigation was as follows:
+This Serious Incident was caused by the incorrect racking of GCU 2 which moved forward in flight initially causing an intermittent and then total disconnection of the electrical connector. The aircraft was not designed to operate with the GCU disconnected and the crew were presented with an unusual situation that was not covered in the QRH.
+The activities surrounding the management of the faults on G-JMCR during the previous 12 days, and the actions of the crew in handling the emergency, indicates a weakness in the operator’s policies and procedures for the management of risk. Engineers were not always given sufficient time to investigate the faults, with the result that fault finding was often repeated and not finished. Work at a number of locations was not recorded as having been carried out in the aircraft documentation. The aircraft was dispatched from its main operation base with an ADD and flew through a number of locations where it could have been cleared, which was contrary to the procedures in the Operations Manual.
+Communication between LMC, the commander and the Part 145 organisation at Amsterdam was ineffective in highlighting the underling technical problems on the aircraft. The engineer was unaware of the full history of the faults and the concerns that LMC conveyed to the commander that there was a “serious electrical fault on the aircraft”. The engineer was tasked with resetting the generators and spent less than 30 minutes at the aircraft. Despite the ongoing concerns with the electrical systems previously raised by a number of engineers and crews, and the unusual set of failures that occurred during the landing at Amsterdam, LMC did not carry out any form of risk assessment or ensure a deeper investigation was carried out before the aircraft departed Amsterdam. While the commander had the ultimate decision on accepting the aircraft, he was new to the company and may have relied on the advice of the engineers without being aware that the engineer had only been tasked with resetting the generators.
+The operator had previously identified that there was a need to restructure LMC, introduce the post of Defect Controller and provide staff with further training to improve their competency.
+A total of 6 Safety Recommendations were made as a result of this Investigation as follows:
+
+that West Atlantic UK revises its policy and procedures for approving and clearing Minimum Equipment List entries and Rectification Interval Extensions to ensure that it conforms with the guidance contained within the European Aviation Safety Agency Acceptable Means of Compliance. [2019-004]
+that West Atlantic UK ensures that all work undertaken on its aircraft is documented in accordance with the requirements of Regulation (EU) No 1321/2014 (regarding continuing airworthiness). [2019-005]
+that West Atlantic UK revises its policy and procedures to ensure effective management of defects, and the undertaking of dynamic risk assessments of the airworthiness of aircraft during all hours of operation. [2019-006]
+that West Atlantic UK revises its policy and procedures for the tasking of maintenance activities by Line Maintenance Control and the sharing of relevant aircraft technical history to ensure that maintenance organisations undertaking work have access to all appropriate information. [2019-007]
+that West Atlantic UK revises its Safety Management System to meet the requirements of the scale and nature of their operation. [2019-008]
+that the Civil Aviation Authority assess West Atlantic UK’s Safety Management System to ensure it meets the requirements of the scale and nature of their operation. [2019-009]
+
+The Final Report was published on 5 September 2019.
+Related Articles
+
+Aircraft Electrical Systems
+Acceptable Deferred Defect
+Minimum Equipment List (MEL)
+Electronic Flight Instrument System
+Aircraft Maintenance
+Continuing Airworthiness
+Safety Management System
+Safety Oversight
+Risk Assessment
+Risk Management

@@ -1,0 +1,307 @@
+B738 / Vehicle, Palma Spain, 2020
+
+
+
+
+
+
+
+
+
+
+
+  B738 / Vehicle, Palma Spain, 2020
+
+
+
+
+
+
+
+
+
+Summary
+
+On 19 July 2020, a Boeing 737-800 was instructed to reject its night takeoff on runway 24R at Palma after the driver of an airport vehicle already on the same runway in accordance with its own clearance heard the takeoff clearance being issued to the 737 and advised the controller of his position. The Investigation found that the TWR controller involved had not adhered to relevant procedures set out in the applicable Operating Manual and the provisions of the Air Traffic Regulation in regard to the use of phraseology, active listening and surveillance of the airport manoeuvring area.
+
+
+
+
+Event Details
+
+When
+
+19/07/2020
+
+
+
+Event Type
+
+
+GND,
+              HF,
+              RI
+
+
+
+
+Day/Night
+
+Night
+
+
+
+Flight Conditions
+
+On Ground - Normal Visibility
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 737-800
+
+
+
+
+
+
+
+
+
+Operator
+
+Ryanair
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Palma de Mallorca
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Madrid-Barajas Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+No
+
+
+
+Flight Completed
+
+No
+
+
+
+Phase of Flight
+
+Take Off
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+LEPA
+
+
+
+
+General
+
+Tag(s)
+
+
+              CVR overwritten
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              ATC clearance error,
+              Procedural non compliance
+          
+
+
+
+
+GND
+
+Tag(s)
+
+
+              Aircraft / Vehicle conflict,
+              ATC clearance error
+          
+
+
+
+
+RI
+
+Tag(s)
+
+
+              ATC error,
+              Incursion pre Take off,
+              Phraseology
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Air Traffic Management
+Airport Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Air Traffic Management
+Airport Management
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 19 July 2020, a Boeing 737-800 (EI-EFJ) being operated by Ryanair on a scheduled domestic passenger flight from Palma to Madrid Barajas as RYR81SN was instructed to reject its takeoff soon after beginning the takeoff roll on runway 24R at Palma in normal night visibility after an airport lighting maintenance vehicle called on the TWR frequency to advise that it was also on the runway. A low speed rejected takeoff followed and the vehicle remained well separated from the aircraft which was subsequently able to depart for Madrid.  
+Investigation
+An Investigation was carried out by the Spanish Commission for the Investigation of Accidents and Incidents (CIAIAC). Relevant FDR and CVR information from the 737 had been overwritten but QAR data equivalent to that recorded on the FDR was available as well as relevant ATC voice communication and radar data recordings and statements from all those involved. 
+The 43 year-old Boeing 737 Captain had a total of 12,161 hours flying experience of which 10,951 hours had been on type and his 28 year-old First Officer had a total of 2,080 hours flying experience all but 234 hours of which had been on type. The vehicle driver held a valid airside driving permit and had been employed as an airport lighting technician for eight years. The 32 year-old TWR Controller involved had held a licence for 7 years and been working at Palma for 11 months. The 25 year-old GND controller in position at the time had held a licence for just under two years and had been working at Palma for 10 months and the 48 year-old Supervisor on duty had held a licence for over 16 years and had been working at Palma since obtaining it. All three controllers held only aerodrome control ratings and they and all the others involved were Spanish nationals.  
+What Happened
+The airport was using runway 24R for both arrivals and departures and with the GND controller about to go off duty, the GND position was about to be closed and merged with the TWR position with the TWR controller taking over both. Following completion of its pushback, the departing Boeing B737-800 requested taxi clearance from the GND controller and was cleared via position ‘F’ (see the illustration below) to the holding point for 3270 metre-long  runway 24R (also referred to locally as the ‘north runway’) and subsequently to call on the TWR frequency “when ready”. The GND and TWR controllers then prepared for the planned integration of the two positions and their frequencies at the TWR position which then took place just over a minute later.
+Shortly before this integration had been completed, the airport vehicle driver called TWR for permission to enter the (north) runway from H5 ( a runway 24R access taxiway) but inadvertently transmitted “permission to occupy the south runway when possible" rather than the north runway (06L/24R) to which the TWR controller replied with the single word “approved”. The driver then requested the TWR controller to switch off the red stop bars at holding point H5 (his actual 06L/24R access position) so that he could enter the runway and the controller responded by instructing him to “go over the lit stop bars” to which the driver replied “with permission to pass lit stop bars, north runway occupied by [vehicle callsign], listening on frequency 118.305” (the TWR frequency). The TWR controller did not reply.
+Almost immediately, the departing 737, still on the parallel taxiway taxiing towards the full length runway 24R holding point H1, called TWR and reported fully ready for departure to which the controller responded by clearing the flight for takeoff and advising that there was inbound traffic at 8 nm and received a correct readback. At this point the A-SMGCS showed both the 737 and an uncorrelated label on the 06L runway threshold.
+The inbound aircraft then made an initial call to TWR to which the controller responded with “continue”, advised that there was traffic to depart and that he would advise when the runway was clear which was acknowledged. Immediately after this, the vehicle driver called TWR and said “[callsign] I’m on the north runway, you cleared me to enter, exiting immediately”. At this time recorded radar data showed that the 737 was just beginning its takeoff roll at the opposite end of the same runway. The TWR controller responded saying that the driver had told him he was on the south runway (having evidently failed to listen to transmissions from the driver after his original error) and telling him to vacate the runway immediately. He then instructed the 737 to “hold position, I say again hold position” to which, as the aircraft was already accelerating through 35/40 knots the crew responded to with “stopping [callsign]” as the vehicle cleared the runway onto taxiway H4. The 737 then came to a stop abeam taxiway N1. They then declined the controller’s invitation to recommence take off from their stopped position and instead cleared the runway to carry out checks and contact their company before taxiing back to H1 for an uneventful full length departure which occurred just over 20 minutes later. The closest the aircraft and the vehicle came to one another during the incident was 1.6 nm (just under 3000 metres). 
+
+The relative positions of the aircraft and the vehicle during the conflict. [Reproduced from the Official Report]
+Why it Happened
+Having examined the available evidence, the Investigation concluded that the primary responsibility for the conflict lay with TWR controller who had failed to perform his duties in accordance with a number of the relevant procedures or, more generally, to the expected standards of professionalism.
+Give that the initial communication from the vehicle driver to the TWR controller in respect of his position and intentions were confusing, the controller made no attempt to clarify and instead then authorised the vehicle to pass over the lit H5 stop bars and onto the active runway without any justification for doing so after erroneously believing that he had cleared the vehicle onto runway 06R/24L which was not operational at the time. He then cleared the 737 to take off from the occupied runway 24R without checking the physical location of the vehicle either visually or by making use of the available surface movement radar where the position of the transponder-equipped vehicle would have been shown at all times. Only when the vehicle driver, by monitoring the TWR controller’s transmissions, detected the conflict and advised that he was, despite having been cleared to enter the runway by the controller, now vacating it immediately, did the TWR controller recognise what had happened. He then cancelled the 737’s takeoff clearance using phraseology applicable to cancelling a takeoff clearance before a takeoff has commenced rather than when it is already in progress.
+It was accepted that the local practice of describing the two runways as the “north” and “south” runways may have been indirectly contributory to the event but noted that the driver had correctly read back the clearance to enter the active runway and cross a lit red stop bar without any response from the TWR controller.
+The formal determination of the Cause of the runway incursion was “the TWR controller’s failure to adhere to the procedures set out in the unit’s Operating Manual and the provisions of the Air Traffic Regulation in regard to the use of phraseology, active listening and surveillance of the airport manoeuvring area”.
+Two Contributory Factors were also identified:
+
+The phraseology used by the vehicle driver when naming the runway he wanted to access, given that it was contrary to the stipulations in the Palma ATC Operating Manual because he failed to use the runway designator. 
+A spatial error made by the vehicle driver in his first communication once established at H5, in that he requested entry to a runway he could not access from H5.
+
+Two Safety Recommendations were made as a result of the Investigation as follows:
+
+that ENAIRE as the navigation service provider should reinforce its tower controllers’ training in visual observation and the use of the surface radar at Palma de Mallorca Airport. 
+that AENA, as the airport service provider, should reinforce the training of its airside drivers in using standard phraseology for communications at Palma de Mallorca Airport.
+
+The Final Report of the Investigation was approved on 28 April 2021.
+Related Articles
+
+Radio Discipline
+Standard Phraseology
+ATC Active Listening
+Controller Detection of Manoeuvring Area Conflicts
+Surface Movement Radar
+Runway Incursion Prevention - Runway-holding Position, Stop Bars and ATC Clearance

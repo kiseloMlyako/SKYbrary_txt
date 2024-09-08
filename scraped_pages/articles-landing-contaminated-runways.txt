@@ -1,0 +1,197 @@
+Landing on Contaminated Runways
+
+
+
+
+
+
+
+
+
+
+
+  Landing on Contaminated Runways
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Runway Excursion 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Landing on Contaminated Runways involves increased levels of risk related to deceleration and directional control.
+Aircraft Landing Performance data take account of the deceleration issues associated with the contamination when scheduling the Landing Distance Required (LDR). Aircraft Limitations specified in the AFM can be expected to impose a reduced maximum crosswind limitation. Operator Procedures may further restrict all such operations, or impose flight crew-specific restrictions or requirements. Depending on the type of flight operation, contaminated runway landings are a rare event for most flight crews and although this serves to ensure a full focus on the task, the lack of real experience, and the limited ability to create realistic scenarios in most simulators, means that a full understanding of the issues involved can be an additional safeguard.
+Aircraft Type procedures are the correct source of detailed knowledge. This review is intended to introduce the subject in general terms and provide a reference for such aircraft type operational detail.
+Final Approach and Touchdown
+An approach to land on a contaminated runway requires a fully stabilised final approach and a firm (but not hard) touchdown within the prescribed touch down zone. If either is not achieved, a go around or rejected landing is appropriate. The challenges of achieving a successful contaminated runway landing are such that there should be no indecision in either case.
+Touchdown vertical speed needs to be sufficient to break through the layer of contaminant and find at least some friction so that wheel rotation speeds can reach normal levels quickly. This is necessary so that they will exceed the minimum required to prevent operation of the anti skid-system. A theoretical target for touchdown rate of descent is in the range 2 - 3 feet per second/120 - 180 fpm. Once main gear touchdown has occurred, full lift spoiler deployment should be ensured, de-rotation should start and thrust reverser deployment should occur. These actions will increase wheel loading, which will ensure the achievement and/or continuation of wheel rotational speeds sufficient to allow effective brake activation.
+Deceleration
+This is a function of both wheel spin up and braking efficiency. Once manual or automatic braking begins, its efficiency may also be indirectly affected by use of thrust reversers/reverse pitch and the manual or automatic deployment of lift spoilers. Spoiler activation will also be constrained by aircraft-on-ground logic and probably also by a wheel rotational speed - although usually a lower one than that needed to allow brake application. Absence of sufficient deceleration during a contaminated runway landing is much more likely to be due to low wheel rotational speeds than to brake system failure, (unless there are specific annunciations of this and/or related prior indications which have initiated doubt as to brake system integrity). Any memory drill action to select emergency braking channels should therefore only be followed strictly in accordance with the associated criteria, since one of the effects is likely to be the de-activation of the anti-skid system and an attendant increased risk of locking the wheels; on surfaces contaminated with liquid water, this increases the risk of reverted rubber aquaplaning.
+Reverse thrust represents approximately 20 % of the total available braking force when braking on a slippery runway. The international guidelines for operation on contaminated runways are not in accordance with the strict requirements for certification of aircraft which are based on documented performance on dry runways without the use of thrust reversers. Nevertheless, operations on contaminated runways are permitted on the basis of ‘advisory’ (not ‘certified’) friction data and the use of thrust reversers. EASA has regulated that consideration of engine failure during landing flare (loss of thrust reverse on one engine as deceleration means) should be considered.
+Directional Control
+Effective directional control, on a contaminated runway surface during landing, requires that all wheels are firmly on the ground without undue delay and that the control column/sidestick is then promptly centralised both longitudinally and laterally, so as to avoid inducing asymmetric main gear wheel loading and achieve adequate nose landing gear wheel loading. However, the main initial means of directional control during the landing roll is likely to be the rudder, which on most aircraft types will remain effective until around 80 KIAS - sometimes even less.
+If directional control problems are experienced at high speed, then it is normally recommended to cancel reverse thrust/pitch until satisfactory control is regained. If autobrake has been selected and is producing differential brake release which is aggravating directional control, then selection of manual braking is usually recommended with full brake pedal release on one side being a usual way to achieve this quickly. Manual differential braking will usually need complete release of brake pedal pressure on one side.
+Once rudder effectiveness is lost at lower speeds, directional control difficulties on a contaminated surface may increase, in contrast to what would be expected on a landing roll on a normal friction surface. This is because:
+
+The effects of even minor differential manual braking are likely to be greater;
+Thrust Reversers/Reverse Pitch are likely to be more de-stabilising;
+Reduced nose landing gear wheel adhesion directly limits both steering input options and the usual directionally-stabilising effect of the nose landing gear;
+Yaw effects arising from any differential braking effectiveness are exaggerated.
+
+
+ 
+Use of Autoland
+Autoland was originally devised to achieve approach and landing in poor visibility conditions, so it was focussed on the necessary approach and touchdown/de-rotation and not on the low friction surface case and certainly not on the variable asymmetries that, in reality, usually apply with this circumstance.
+In terms of the firmness of touchdown, autoland should do a reasonable job and this touchdown will also be in the touchdown zone. The typical range of autoland vertical speeds at main gear touchdown is normally considered to be in the range 2 - 5 feet per second/120-300 fpm - firm enough for the contaminated case. Although autoland de-rotation is optimised for comfort, it can be expected to take only 4 - 5 seconds for a larger aircraft, which should not be excessive. Thereafter, the case for keeping autoland or its roll-out function engaged after it has been used for the touchdown may become more problematic. Whilst system certification testing does consider the cases of asymmetry of braking and reverse thrust, it is impossible to consider the range of surface friction asymmetry which is likely to be encountered during the landing roll on a contaminated runway. And it is certainly the case that autoland is not designed for the situation where directional control issues may become more evident as speed reduces, rather than less so as with a normal landing runway surface. Many aircraft type procedures will therefore advise considering an autoland with manual reversion after nose landing gear contact. However, in any case the flight crew should consider or might be required by company SOP to request full approach protection by ATC when using Autoland in conditions when Low Visibility Procedures are not in force to prevent negative influence by ILS signal disturbances.
+Runway Surface Status
+Unfortunately, flight crew do not always receive up to date information on whether a runway is contaminated or not. This may arise from three causes:
+
+delays in the making of inspections and measurements by the airport operator especially in dynamically evolving weather and traffic scenarios.
+delays in advice to ATC of runway surface status
+the current absence of methods for the tactical measurement of braking action or other runway friction indication on runways which are or may be contaminated with water
+
+In addition, when snow or ice contamination exists, different types of friction measuring devices measure different friction values when used on the same surface. None of the friction measuring devices are reliable on all types of contaminations. This adds another level of uncertainty to the data about runway surface condition.
+If contamination by liquid water is suspected, a review with ATC of the incidence of recent precipitation is advisable to help decide whether to delay an approach or continue as originally intended. Alternatively, another runway may be available. Any pilot reports or observations made directly by ATC and therefore qualified by the prefix ‘unofficial’ may provide useful information. However, these need to be used carefully if conditions are likely to be changing rapidly, due to varying rates and intensities of precipitation. Where contaminated runway conditions appear likely to be relatively slow-changing, the full detail available on the ATIS in terms of runway condition codes (RCC) as given by the Global Reporting Format (GRF), from the METAR runway state group, or a SNOWTAM should be carefully assessed before an approach begins. Note that since the introduction of the GRF no friction values are reported anymore but runway condition codes (RCC) only.
+The airmanship conclusion, which may be drawn from the above, is that even though it is believed or reported that the runway is not contaminated, it may be found on touch down that the surface is contaminated, at least in part, and especially by liquid (standing or running) water. Therefore the issues relevant to an intended contaminated runway landing and subsequent taxi-off the runway will have to be considered when preparing to land in bad weather in order to reduce the risk of runway excursions due to loss of control on low friction surfaces.
+Accidents and Incidents
+
+A333, St Lucia Eastern Caribbean, 2013
+
+Related Articles
+
+Runway Excursion
+Landing Flare
+Aquaplaning
+Tailwind Operations
+Surface Friction Measurement and Prediction in Winter Operations
+Global Action Plan for the Prevention of Runway Excursions (GAPPRE), 2021
+
+Further Reading
+ERA
+
+ERA Safety Targeted Awareness Report from the ERA Air Safety Work Group"Overruns on Landing" providing practical advice in issues associated with landing on contaminated runways.
+
+Flight Safety Foundation
+
+Reducing the Risk of Runway Excursions - Report of the Runway Safety Initiative
+Runway Overrun On Landing (OGHFA SE)
+ALAR Briefing Note 8.5 Wet or Contaminated Runways
+Runway Excursion Risk Awareness Tool
+Runway Safety Initiative (RSI) Briefing Notes: Pilot Braking Action Reports
+Runway Safety Initiative (RSI) Briefing Notes: Runway Condition Reporting
+
+Federal Aviation Administration (FAA)
+
+AC 91-79A Mitigating the Risks of a Runway Overrun Upon Landing, April 2016
+FICON NOTAM: Reportable Contaminants, June 2016
+
+European Aviation Safety Agency (EASA)
+
+CS-25 Easy Access
+
+EUROCONTROL
+
+HindSight 12 - A slippery business by Marcus Blomlof
+
+Flight Data Services Case Studies
+
+Case Study 4: Landing in Snow
+
+Netherlands National Aerospace Laboratory (NLR)
+
+"Running out of runway" Analysis of 35 years of landing overrun accidents 2005
+Hydroplaning of modern aircraft tires 1999
+Safety Aspects of tailwind operations 2001
+
+NASA
+
+An Investigation of the Influence of Aircraft Tire-Tread Wear on Wet-Runway Braking, T. Leland and G. Taylor, NASA, 1965
+
+
+
+
+
+Categories
+
+
+Runway Excursion,
+              Overrun on Landing,
+              Veer Off
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

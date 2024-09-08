@@ -1,0 +1,408 @@
+A320 / A320, en route, east of Nashik India, 2022
+
+
+
+
+
+
+
+
+
+
+
+  A320 / A320, en route, east of Nashik India, 2022
+
+
+
+
+
+
+
+
+
+Summary
+
+On 21 March 2022, an Airbus A320 level at FL 360 lost separation with another Airbus A320, which continued its descent beyond its cleared level. A predictive conflict alert prompted the controller to issue multiple calls confirming the clearance limit but with no response. When both aircraft tracks crossed at FL 360, lateral separation was reduced to 3.8 nm. It was concluded that the immediate cause of the conflict was the failure of the descending aircraft to respond to ATC alerting calls, but that its origin was an undetected incorrect readback of the descent clearance.
+
+
+
+
+Event Details
+
+When
+
+21/03/2022
+
+
+
+Event Type
+
+
+AGC,
+              HF,
+              LB,
+              LOS
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS A-320
+
+
+
+
+
+
+
+
+
+Operator
+
+IndiGo
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Delhi/Indira Gandhi International (IGI) Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Chhatrapati Shivaji International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Cruise
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS A-320
+
+
+
+
+
+
+
+
+
+Operator
+
+AirAsia
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Delhi/Indira Gandhi International (IGI) Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Goa International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Descent
+
+
+
+
+
+
+
+
+Location
+
+Approx.
+
+approximately 40 nm east of Nashik
+
+
+
+
+
+
+
+
+
+
+General
+
+Tag(s)
+
+
+              CVR overwritten
+          
+
+
+
+
+AGC
+
+Tag(s)
+
+
+              Incorrect Readback missed
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Ineffective Monitoring,
+              Procedural non compliance
+          
+
+
+
+
+LB
+
+Tag(s)
+
+
+              Clearance readback error undetected
+          
+
+
+
+
+LOS
+
+Tag(s)
+
+
+              Required Separation not maintained,
+              Level Bust
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+Air Traffic Management
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Operation
+Air Traffic Management
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 21 March 2022, an Airbus A320 (VT-IAY) operated by Indigo on a scheduled domestic passenger flight from Delhi to Mumbai as IGO6261, which had just been cleared to begin descent from FL380, came into close proximity in day VMC with another Airbus A320 (VT-HYD) operated by Air Asia. The Air Asia aircraft was on a scheduled domestic passenger flight from Delhi to Goa as IAD773, which was maintaining FL360 on a crossing track. Minimum lateral separation was 3.8 nm after the descending A320 failed to respond to ATC alerting prompted by activation of a Predicted Conflict Warning (PCW). No TCAS RA was activated, and neither aircraft crew was aware of the loss of separation or notified of it by ATC.
+Investigation
+A Serious Incident Investigation was carried out in accordance with ICAO Annex 13 procedures by the Indian Aircraft Accident Investigation Bureau (AAIB). Relevant data was successfully downloaded from the DFDR of both aircraft, but relevant data from the CVR of the descending aircraft had been overwritten. However all relevant recorded ATC data was available. 
+It was found that the 31-year-old captain of the Indigo A320, who was acting as PF for the sector, had a total of 5,111 hours flying experience, of which 637 hours were on type. Her 38-year-old first officer had a total of 1,585 hours flying experience, of which 1,135 hours were on type. It was this crew’s first pairing. The 33-year-old captain of the Air Asia A320 had a total of 5,310 hours flying experience, of which 1,026 hours were on type, and the 30-year-old first officer had a total of 2,553 hours flying experience, of which all but 200 hours was on type. The 37-year-old controller involved was correctly rated for both area and oceanic control at Mumbai.
+What happened
+Both aircraft were working Mumbai Control. The Air Asia flight had just been transferred to Mumbai from Ahmedabad Control level at FL360 when the loss of separation occurred. It had been given a direct track to an en route waypoint at that level. Almost immediately after this clearance had been given, the Indigo flight was identified at FL380 and cleared via the Mumbai IGBAN STAR for a runway 27 arrival there. On being so cleared, the captain, who was alone in the flight deck because the PM first officer had gone to the toilet, requested descent. The controller issued a clearance to descend to FL 370 but she responded with “descend level 310 [callsign] confirm” to which the controller immediately replied “[callsign] affirm” and so the captain commenced a descent to FL 310 at 2,600 fpm. 
+There were no other calls on the frequency for the next 25 seconds, but as the controller then instructed the Indigo A320 to “now turn right fly heading 217 heading 217”, a Predicted Conflict Warning (PCW) was activated and the controller quickly recognised that the downloaded selected altitude received from the Indigo aircraft was not correct and continued his transmission with “and maintain flight level 370 on reaching sir and check your selected altitude - 370 was the cleared level”. When no reply was received, the controller transmitted “[callsign], maintain flight level 370” but when there was again no response, he transmitted “[callsign] Mumbai” and this time received the response “[callsign], go ahead” from the first officer who had evidently now returned to the flight deck but was also alone as the captain had immediately left to use the toilet herself. The controller then instructed the flight to maintain FL 370, but on being told by the first officer that the aircraft was now below that level, he acted to de-conflict the situation thereby created at FL360 by instructing the Air Asia flight to turn left onto heading 120 and descend to FL350 before then amending this to “descend to FL 320 now”. The Indigo flight had stopped descending at FL360 on becoming aware of the error and once the Air Asia flight was separated, it was cleared for further descent. 
+It was noted that the Indigo A320 captain’s uncorrected error in reading back the descent clearance and the resulting loss of minimum traffic separation was not explicitly communicated to either flight by the controller, and that neither flight had received a TCAS RA. Radar recorded data showed that the PCW that had highlighted the conflict remained active for approximately 90 seconds.
+
+The relative positions of the two aircraft when the Predicted Collision Warning (PCW) began. [Reproduced from the Official Report]
+Why it happened 
+It was noted that at the time the controller’s hearback error occurred, there was no other traffic on the frequency using a similar callsign. It was observed that given the delay in getting a response from the Indigo A320 to the instruction to stop descent at FL 370, the controller could have resolved the conflict more quickly by transmitting a de-confliction heading to the Air Asia A320 instead. It was also observed that the Indigo A320 captain who had been responsible for initiating the conflict situation “was not monitoring the NAV display properly otherwise the other aircraft which was maintaining FL360 could have been spotted” and that the rate of descent then used to begin a descent to FL310 was much greater than the aircraft operator's SOPs would have permitted for a descent to FL370 which “further aggravated the situation”. The first officer had clearly responded as best they could once aware that a problem had arisen in their absence.   
+The Probable Cause of the event was formally recorded as “non-adherence to SOP on the part of the flight crew of IGO6261, wherein they were not maintaining listening watch when the area controller transmitted multiple times to maintain FL370 after a PCW warning had been generated." Five Contributory Factors were also identified as:
+
+The readback error made by the captain of IGO6261 in response to the cleared descent level of FL370 given by the controller. 
+The Controller not correcting the readback error made by the Captain of IGO6261 when they confirmed the cleared descent level as FL310 instead of FL370. 
+The focus of the flight crew of IGO6261 on the captain handing over control as PF and immediately leaving the flight deck to use the toilet when the first officer had only just returned to the flight deck, which probably led to the failure to maintain a listening watch at a critical time.
+A loss of situational awareness by the controller who kept on calling IGO6261, which was not responding, instead of shifting focus and giving an instruction to IAD773, which could have resolved the worst-case conflict outcome given that PCW warning had already been generated with aircraft IGO6261 descending at a high rate.  
+The rate of descent of IGO6261, which was higher than the prescribed limit for a descent to FL370 as a result of the readback/hearback error.
+
+Four Safety Recommendations were made as a result of the Investigation as follows:
+
+that Indigo issue an advisory to all their flight crew to ensure that they maintain listening watch with ATC at all times during the flight. 
+that Indigo advise all their flight crew to properly monitor all available resources to ensure that there is no discrepancy in the cleared level given by the controller. 
+that the Directorate General of Civil Aviation (DGCA) formulate a procedure as deemed fit (in the form of CAR/Circular, etc.) that requires a considerable time gap between operating pilots leaving the flight deck, so that when one pilot leaves the flight deck, the other pilot is not allowed to leave the flight deck immediately after the other pilot returns.
+that the DGCA advises the Airports Authority of India (AAI) (as the ANSP) to formulate a procedure requiring a controller to inform an aircraft about any breach of separation or clearance involving that aircraft and include this requirement in Volume One of the MATS.
+
+The Final Report was completed on 6 February 2023 and subsequently published online on 9 May 2023. 
+Related Articles
+
+Loss of Separation
+Read-back or Hear-back
+Readback Hearback (SKYclip)
+Situational Awareness
+Standard Operating Procedures (SOPs)
+Radio Discipline
+Air-Ground Voice Communications

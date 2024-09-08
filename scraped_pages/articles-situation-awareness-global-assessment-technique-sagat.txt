@@ -1,0 +1,176 @@
+Situation Awareness Global Assessment Technique (SAGAT)
+
+
+
+
+
+
+
+
+
+
+
+  Situation Awareness Global Assessment Technique (SAGAT)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+SAGAT is a global tool developed to assess Situation Awareness (S.A.) across all of its elements based on a comprehensive assessment of operator S.A. requirements.
+Discussion/References
+The simulation is frozen at randomly selected times and subjects are queried as to their perception of the situation at the time (queries on specific data or data criteria).
+The rationale behind the use of the freezing technique is that it is a way to overcome the limitations of reporting on S.A. after the fact (memory limitation, re-construction, and tendency to over-generalise…)
+The reasoning behind the randomly selected times of breaks is that it will not be possible for the subject to mentally prepare for the queries by attending to more information or memorising variables. Temporary halts in the simulation represent the primary disadvantage of this technique.
+As it is impossible to query a subject about all of his/her S.A. elements (“requirements”) due to time constraint, a portion of the S.A. queries are randomly selected and asked at each stoppage. The fact that some queries may address information of secondary importance at the moment of a given stop is considered to avoid the artificial direction of the attention of the subject when the simulation is resumed. Depending on the objective of the experiment and of the technical system evaluated certain queries would be presented every time while some others would be omitted because they are considered as not relevant. “For example, if the simulation does not incorporate aircraft malfunctions the query related to this issue will be omitted”.
+For ATCOs the first query will always (i.e. at each stop) address the position of the aircraft in the controlled sector. An appropriate sector map is presented and the subject is required to enter the location of all aircraft within the sector and area immediately surrounding it.
+Subjects’ responses are then compared with the actual situation according to the simulation computer database (screen dump) to provide an “objective measurement” of S.A.
+As some of the queries refer to a high level of S.A. requirement (i.e. Level 3 = projection of future status in Endsley’s model) an experienced observer will be needed to make an expert judgement at each stop. “The Expert judgement should reflect the S.A. of a person with a “perfect” knowledge of the situation. “
+“The comparison of the controller’s perceptions of the situation (as input to SAGAT) to the actual status of each variable (as collected per the simulator computer and expert judgement) results in an objective measure of S.A”.
+Endsley claims that this method is not intrusive. However, stoppage involves the disruption of the natural flow of the task and the aforementioned artificial aspect must question this claim.
+“The most important problem associated with this technique is that halting the simulation and prompting the pilot for information concerning particular aspects of the Situation is likely to disturb the very phenomena the investigator wishes to observe” (Sarter & Woods 1995).
+Even if the queries are asked randomly (some queries will not be random) it does not always prevent the attention of the controller being artificially oriented when the exercise resumes.
+The principle of comparison with the operational situation does not seem to take into account the natural and operational distortion highlighted by Ochanine. Comments of Gronlund et al. (1998) agree with Ochanine, these authors concur that all aircraft being considered equivalent is a limitation. We believe that there are some aircraft about which the controller should remember more, and other aircraft for which it would be acceptable that little was remembered: “the hello / goodbye aircraft”. This point is reinforced by the findings of an experiment by Means et al. (reported in Gronlund et al. 1998): twice as much flight data were recalled about “hot” aircraft (defined as aircraft for which controllers exercised a great deal of control) than “cold” aircraft. “In fact, remembering information about these latter aircraft [“cold”] may actually signal poorer S.A.” (Gronlund et al. 1998)
+In this method, responses are scored as correct or incorrect, questions asked but not answered are considered as incorrect. These criteria give the impression of the existence of a strict (rigid) definition of THE good S.A. with which we are not comfortable.
+Like Mogford (1995) we agree that. “A potential problem emerges when comparing the data reported by the operator to the actual values presented at the time of the simulation interruption. Should a response be counted as correct only if it is exactly the same as the real value?” This problem is alleviated somewhat by the existence, but only for few queries, of an “acceptable tolerance band around the actual value”.
+This method is helpful to know which data are taken into account, in fact perceived and memorised, at a time: the WHAT; but is limited on the explanatory aspects: the WHY. SAGAT, as indicated by its name, allows an Assessment of S.A., which implies that this S.A., for a specific task, is already delineated, determined and its elements precisely identified.
+Convinced by Amalberti’s statement that: “the quality of the representation cannot be measured in terms of amount of data taken from the situation” we do think that SAGAT is of interest if used in association with methods which allow for a value, or weighting, to be applied to the resulting data.
+Values and weightings could be “calculated” by interviewing Subject Matter Experts. One interesting method to achieve this is suggested by Mogford (1995); for him it would be preferable to start by an evaluation of skilled controllers’ representation of aircraft and their attributes (using SAGAT). This is based on the assumption that the skilled operators used in these evaluation have, by definition, sufficiently accurate S.A. to perform their tasks; it would then be possible to build a database and establish tolerance limits for Level 1 S.A. elements.
+As this technique necessitates task interruption it can only be used in simulated environments.
+SAGAT is the most widely know Query Technique and other techniques have been derived from it: e.g. SACRI (Situation Awareness Control Room Inventory) used in experiments for nuclear power plants.
+
+
+
+
+Categories
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+Generics
+
+
+Target of method
+Situational Awareness
+
+
+Time Scale of method
+ 
+
+
+Context of studies
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Potential problems with the method
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Costs of the method
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Analysis data
+
+
+Analysis Speed
+ 
+
+
+ 
+
+
+Data Automation
+ 
+
+
+ 
+
+
+Analysis Automation
+ 
+
+
+ 
+
+
+Status
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

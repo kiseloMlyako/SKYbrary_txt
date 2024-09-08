@@ -1,0 +1,205 @@
+North Atlantic Operations - Flight Planning
+
+
+
+
+
+
+
+
+
+
+
+  North Atlantic Operations - Flight Planning
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+The airspace of the North Atlantic (NAT), which links Europe and North America, is the busiest oceanic airspace in the world. In 2012 approximately 460,000 flights crossed the North Atlantic and that volume of traffic continues to increase. Direct Controller Pilot Communications (DCPC) and ATS Surveillance are unavailable in most parts of the NAT Region. Aircraft separation, and hence safety, are ensured by demanding the highest standards of horizontal and vertical navigation performance/accuracy and of operating discipline.
+This article is intended to provide an overview of the Flight Planning Procedures for the North Atlantic.
+General
+Crews intending to route via one of the Organised Track System (OTS) tracks will require a copy of the current NAT Track Message to plan and execute their flight. However, in the event of a contingency or diversion, knowledge of the location of the OTS tracks will be useful to the crew of any NAT high level flight. Therefore, crews of all NAT flights at or above FL290, even those that will transit the NAT above the NAT High Level Airspace (HLA) (above FL420) or through the NAT HLA outside the OTS, should obtain the current track message prior to planning their route and carry a copy of that or any updated message during the flight.
+Follow this link for the current NAT Track Message.
+Routings
+During the hours of validity of the OTS, operators are encouraged to flight plan as follows:
+
+in accordance with the OTS
+along a route that will join or leave an outer track of the OTS
+on a random route to remain clear of the OTS, either laterally or vertically
+
+If they so choose, operators are not restricted from flight planning through or across the OTS. However they should be aware that, whilst ATC will make every effort to clear random traffic across the OTS at published levels, re-routes or significant changes in flight level are likely to be necessary during most of the OTS traffic periods. It must also be stressed that aircraft without the equipment required to satisfy the Data Link Mandate will not be permitted, during the OTS validity period, to join or cross those tracks within the mandate, as specified in the REMARKS section of the daily NAT Track Message. For such aircraft, however, continuous climb or descent through the specified levels may be available on request, subject to traffic.
+Outside of the OTS periods operators may flight plan any random routing, except that during a period of one hour prior to each OTS validity period the following restrictions apply:
+
+Eastbound flights that cross 30°W less than one hour prior to the incoming/pending Westbound OTS (i.e. after 1029 UTC), or Westbound flights that cross 30°W less than one hour prior to the incoming/pending Eastbound OTS (i.e. after 2359 UTC), should plan to remain clear of the incoming/pending OTS structure.
+
+All flights should plan to operate on great circle tracks joining successive significant waypoints as follows:
+
+Flights on a random route in a generally eastbound or westbound direction should normally be flight planned so that specified ten degrees of longitude (20°W, 30°W, 40°W, 50°W etc.) are crossed at whole or half degrees of latitude.
+Flights which are generally northbound or southbound should normally be flight planned so that specified parallels of latitude spaced at five degree intervals (65°N, 60°N, 55°N etc.) are crossed at whole degrees of longitude.
+
+Entry into NAT airspace via one of the Oceanic Transition Areas (OTA) will be via a designated (named) oceanic entry point (OEP). When the OEP is in proximity to a specified ten degree meridian of longitude (20°W, 50°W, etc), both the OEP and the meridian crossing point must be included in the route.
+Altitude
+Flight planning between FL290 and FL410 inclusive is subject to the Controller Pilot Data Link Communications (CPDLC) and Automatic Dependent Surveillance - Contract (ADS-C) equipage requirement.
+Flights which are planned to follow an OTS track for its entire length (during the OTS periods) may plan any of the levels published for that track, keeping in mind PBCS and DLM requirements. PBCS tracks are identified in Note 3 of the OTS message. Operators planning to operate in the altitude band FL350-390 on the PBCS OTS are subject to equipage and authorization requirements 
+Flights which are planned to remain entirely clear of the OTS or which join or leave an OTS outer track are considered to be on a random route. Random route flights should normally be planned at a flight level(s) appropriate to the direction of flight. Random route aircraft which join or leave an outer track of the OTS must be CPDLC / ADS-C equipped to operate at levels from FL350 to FL390 while on the OTS segment of the route. It should be noted that the NAT ATS Provider State AIPs specify some exceptions to use of the standard direction of flight levels both during the OTS time periods and outside them. At specified times, certain "appropriate direction levels" are reserved for use by the opposite direction traffic flows that then predominate. The current usage allocation of flight levels in the NAT HLA is published in the UK Aeronautical Information Publication (AIP) and the Transport Canada Aeronautical Information Manual (AIM). Pilots and planners should always consult the current AIPs and any supporting NOTAMs when flight planning random routes through NAT HLA airspace.
+Operators may include step climbs in the flight plan. However, each change of level during flight must be requested from ATC by the pilot. The approval of such requests will be entirely dependent upon potential traffic conflicts. Outside the OTS there is a good likelihood of achieving the requested profiles. However, within the prime OTS levels at peak times, ATC may not always be able to accommodate requested flight level changes and prudent pre-flight fuel planning should take this into consideration.
+If a flight is expected to be level critical, operators should contact the initial OAC prior to filing of the flight plan to determine the likely availability of specific flight levels.
+ATC Flight Plan
+Correct completion and addressing of the ATC Flight Plan is extremely important for oceanic operations as errors can lead to delays both in processing the flight plan and to the subsequent issuing of clearances to the flights concerned. Notwithstanding the growing use of automated flight planning systems, International Civil Aviation Organisation (ICAO) has indicated that a significant proportion of ATC Flight Plans submitted for flights through the North Atlantic Region continue to contain errors. Attachment 4 to Doc 007 - North Atlantic Operations and Airspace Manual, entitled "ICAO FPL COMPLETION FOR A NAT FLIGHT", contains detailed guidance on completion of the ICAO flight plan for operations in the North Atlantic. It is recommended that new and/or infrequent North Atlantic operators make diligent reference to this document. Some of the NAT flight plan protocols are as follows:
+Speed
+
+For turbojet aircraft, the speeds/Mach Number planned to be used for each portion of the flight in the NAT Region should be specified in Item 15 of the flight plan. The proposed speeds should be reflected in the following sequence:
+
+cruising True Airspeed (TAS) prior to oceanic entry
+oceanic entry point and cruising Mach number
+
+the planned Mach Number for an organised track should be specified at either the last domestic reporting point prior to oceanic airspace entry or the organised track commencement point
+each point at which a change of Mach Number is planned must be specified by geographical co-ordinates in latitude and longitude or as a named waypoint. Note that aircraft assigned a Mach Number as part of their clearance must obtain a revised clearance before changing speed
+
+
+TAS subsequent to oceanic exit
+
+
+For non-turbojet aircraft, TAS should be specified in Item 15 of the flight plan.
+
+Route
+
+if (and only if) the flight is planned to operate along the entire length of one of the organised tracks (from oceanic entry point to oceanic exit point) as detailed in the NAT Track Message, the intended organised track should be defined in Item 15 of the flight plan by using the abbreviation 'NAT' followed, with no intermediate space, by the code letter assigned to the track; for example NATR would be used to file track "R".
+
+acceptable alternative tracks should, if possible, be specified at the end of Item 18.
+
+it must be appreciated that, particularly during peak traffic periods, ATC may not be able to clear the aircraft as planned. ATC will, if possible, first offer a clearance on the planned track but at a different Flight Level. If, however, no reasonable alternative level is available, or if the offered Flight Level is unacceptable to the pilot, then ATC will clear the aircraft via another OTS track.
+
+
+
+
+flights wishing to join or leave an organised track at some intermediate point are considered to be random route aircraft and full route details must be specified in the flight plan. The track letter must not be used to abbreviate any portion of the route in these circumstances
+random route points defined by latitude and longitude can either be expressed in a 7 character (46N050W) or 11 character (4730N03000W) format. However, the two formats cannot be mixed on the same flight plan.
+
+Estimates
+
+in addition to the standard estimates provided in Item 18 (EET/), for flights conducted in the NAT Region on random routes, accumulated estimated elapsed times will be required for:
+
+the last domestic reporting point prior to ocean entry
+the oceanic entry point
+each significant point described in Item 15
+the oceanic exit point
+the first reporting point on the domestic track
+
+
+in addition to the standard estimates provided in Item 18 (EET/), for flights operating along the entire length of a NAT organised track, estimated elapsed times will be required for the commencement point of the track and for FIR boundaries.
+
+Operators are encouraged to indicate their complete RNP, RNAV, RVSM, CPDLC/ADS-C (FANS 1/A), ADS B and NAT HLA capability in the flight plan. Providing this information will help ensure that the full benefits of current capacity and safety improvement initiatives in the NAT Region are made available to appropriately equipped flights.
+Related Articles
+
+North Atlantic Operations - Airspace
+North Atlantic Operations - Organised Track System
+North Atlantic Operations - Contingency
+Reduced Lateral Separation Minimum (RLatSM) 
+North Atlantic Operations - ATC Clearance
+Strategic Lateral Offset
+
+Further Reading
+ICAO
+
+NAT Doc 007 - North Atlantic Operations and Airspace Manual
+NAT Ops Bulletin 2017-002_Revision 05 - OESB – Oceanic Errors
+
+United Kingdom
+
+UK Aeronautical Information Publication (AIP)
+
+Transport Canada
+
+Transport Canada Aeronautical Information Manual (AIM)
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

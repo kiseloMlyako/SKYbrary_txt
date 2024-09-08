@@ -1,0 +1,246 @@
+Loss of Separation
+
+
+
+
+
+
+
+
+
+
+
+  Loss of Separation
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Separation 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+A defined loss of separation between airborne aircraft occurs whenever specified separation minima in controlled airspace are breached. Minimum separation standards for airspace are specified by ATS authorities, based on ICAO standards. Aircraft are considered separated when either the horizontal or the vertical separation minima are met. Conversely, for an event to be classified as a loss of separation, both must have been infringed (i.e. there is neither vertical, nor horizontal separation between the aircraft). An exception to this is the use of composite separation which allows for a combination of partial horizontal and partial vertical separation to be used. Note, however, that this exception is only applicable under specific circumstances and is not used in surveillance environment.
+Usually, the occurrence of a 'near miss', termed an AIRPROX by ICAO, is defined only by the opinion of one or more of the parties involved, whereas Near Midair Collision (NMAC) is an AIRPROX that meets specified criteria.
+Situations that are similar in nature to loss of separation (but are not subject to its definition) include:
+
+A situation of close proximity between aircraft which are responsible for their own separation by visual lookout. In broader terms, this may be considered as "loss of separation in uncontrolled airspace" and is usually referred to as "inadequate separation".
+Aircraft entering (or flying too close to) notified airspace, which is dealt with under Airspace Infringement. In broader terms, this may be considered as "loss of separation with notified airspace".
+Aircraft flying too low above the ground (or colliding with it), which is dealt with under CFIT. In broader terms, this may be considered as "loss of separation from the ground".
+Aircraft on the ground being dangerously close to each other, which is dealt with under Ground Operations. In broader terms, this may be considered as "loss of separation between aircraft on the ground".
+
+The RVSM Aspect
+With regard of RVSM, it should be noted that if the required equipment is carried as prescribed, then the risk of loss of separation in RVSM airspace is no greater (and no less) than in non-RVSM airspace. However, the presence of non-RVSM aircraft in RVSM space (i.e. a state aircraft or a formation of such), increases the risk of separation infringement because: (a) it increases controller workload (which is often cited as a contributory factor) and (b) could be neglected for some reason (e.g. distraction, high workload, etc.) so as a consequence 1000 ft separation would be provided instead of the required 2000 ft.
+In case of RVSM equipment failure, the aircraft would normally be guided to leave the RVSM airspace. Until then, however, a 2000 ft separation must be provided (unless horizontal separation is applicable). Depending on the specific situation, this may be unachievable since equipment failure may happen at any time.
+Somewhat similar situation exists in the case of severe turbulence which could prevent aircraft from maintaining their assigned levels. If this persists for a prolonged period of time in large volumes of airspace (i.e. impracticable to avoid) then a decision could be made to temporarily suspend RVSM operations. Nevertheless, losses of separation might occur during the transition period. Wake Vortex Turbulence encounter may also be a reason for an aircraft to be unable to maintain its level and thus lead to a separation loss.
+Effects
+Loss of separation is not a hazard on its own in many cases. However, if the situation is not corrected promptly (by restoring the applicable minima), an incident may quickly develop into an accident, e.g.:
+
+Loss of separation from other aircraft may result in collision;
+Injury, especially to unsecured cabin crew or passengers, may result from violent manoeuvres to avoid collision with other aircraft;
+Injury to aircraft occupants may also result from a wake vortex turbulence encounter.
+
+Additionally, a loss of separation may cause high levels of stress for the pilots and controllers involved, and may lead to reduced performance (and possibly, other incidents).
+Typical Scenarios
+ATCO-induced situations
+
+Flight clearance does not provide adequate separation from other traffic:
+
+Controller is aware but makes a misjudgement.
+Controller is unaware.
+A trainee Controller is being mentored and the mentor fails to intervene appropriately when the trainee allows a potentially hazardous situation to develop
+Failure in sector or unit co-ordination
+The controller fails to see the conflict due to the blind spot effect.
+
+
+
+Pilot-induced situations
+
+Flight in controlled airspace (CAS) deviates from cleared track or level without clearance due to flight crew:
+
+Mis-setting of aircraft equipment;
+Mismanagement of FMS inputs;
+Failure to follow ATC clearance;
+Not flying instructed or expected speeds or rates of climb and descent which have been the basis of a controllers flight sequence management;
+Inattention to equipment malfunction;
+Avoiding a perceived (visual) loss of separation with another aircraft;
+Avoiding weather perceived as potentially hazardous when unable to make timely contact with ATC on a busy frequency;
+
+
+Flight outside CAS:
+
+Ineffective visual "look out" when operating VFR;
+Allowing the aircraft to enter CAS without ATC clearance;
+Failure to follow an ATC Clearance;
+
+
+Response to TCAS RA:
+
+Failure to properly follow a TCAS RA, including failure to terminate the deviation in a prompt manner when the RA ceases which may lead to a 'chain reaction' causing secondary TCAS RAs for aircraft in the same vicinity at adjacent levels.
+
+
+
+Any of the above scenarios is exacerbated by high traffic density or a rapidly changing traffic situation and many can also lead to inadequate separation outside controlled airspace associated, for example, with military fast jet low flying. Entry to an ATZ outside CAS without clearance has also caused many losses of adequate separation.
+Contributory Factors
+
+Volume of traffic/Traffic density.
+Lack of appreciation by IFR pilots of the absence of Separation Standards against VFR traffic within some classes of airspace
+Weather (e.g. convective activity or clear air turbulence (CAT);
+Aircraft performance (e.g. high or low rate of climb or descent)
+Proximity of military operational or training areas.
+Flight outside Controlled Airspace
+Obscured track labels on the air traffic controller's situational display (e.g. due overlapping, filters, colour representation, etc.).
+
+Defences
+
+Pilot situational awareness of the location and intent of other aircraft gained from listening to radio traffic, visual identification and monitoring and ACAS, especially when not in receipt of an ATS radar or procedural control or when operating outside controlled airspace;
+Standard Operating Procedures, both on the flight deck and in the Air Traffic Services Unit (ATSU), which detail procedures to be followed to reduce the risk of loss of separation;
+Aircraft onboard equipment which warns of potential collision with other aircraft (ACAS) and allows an appropriate procedural response to risk. However, note that not all aircraft are required to be fitted with ACAS - only civil turbine-powered aircraft having a maximum certified takeoff mass in excess of 5,700 kg, or a maximum approved passenger seating configuration of more than 19.(ICAO Annex 6 Part I Chapter 6 Para 6.18 and EASA IR-OPS CAT.IDE.A.155, EU-OPS 1.668);
+Ground-based equipment designed to warn of potential collision with other aircraft (STCA).
+Ground-based equipment designed to verify that the current clearances provide adequate separation in the short term (Tactical Controller Tool (TCT)).
+Ground-based equipment designed to warn of potential conflict between aircraft in flight (MTCD).
+Use of high quality communication systems and Transponder (Mode C and Mode S);
+Improve standard of pilot and ATCO training, especially in:
+
+Air-ground communications safety;
+Loss of separation awareness;
+Crew resource management;
+
+
+Provide more and improved ATC safety nets, e.g. Short Term Conflict Alert (STCA).
+
+Safety Nets must be set up so as to generate low levels of Nuisance alerts whilst providing useful warning time.
+
+
+Use of structured scan by air traffic controllers.
+
+Related Articles
+
+Accident and Serious Incident Reports: LOS - a selection of Accident and Serious Incidents within SKYbrary which involved a loss of separation; clearly, event data is much greater for airspace in which traffic is under ATC control.
+AIRPROX
+Loss of Separation - ATCO-induced Situations
+Loss of Separation - Pilot-induced Situations
+Conflict Detection with Adjacent Sectors
+Loss of Separation at Sector Boundaries
+Loss of Separation During Weather Avoidance
+Situational Awareness
+Short Term Conflict Alert (STCA)
+Airborne Collision Avoidance System (ACAS)
+Classification of Airspace
+Radar Control Service
+Radar Advisory Service (RAS)
+Radar Information Service (RIS)
+EUROCONTROL ACAS II bulletins
+Blind Spots – Inefficient conflict detection with closest aircraft
+NetAlert Newsletter - EUROCONTROL
+
+Further Reading
+FAA
+
+FAA Advisory Circular 90-48D: Pilots' Role in Collision Avoidance, April 2016.
+
+General
+
+UK CAA SafetySense Leaflet No. 13: Collision Avoidance
+ACAS Training Presentation
+Lookout - Listenout - Speakout
+UK AIRPROX Board web-site
+
+HindSight Articles
+
+HindSight1 Analysis of an AIRPROX between a B737 and an A340;
+HindSight2 Loss of Separation - an Incident at Paris/Orly;
+HindSight3 Loss of separation: The Blind Spot;
+HindSight4 Loss of Separation - A Lesson for the Instructor;
+HindSight5 Loss of Separation - TCAS and STCA - Not Just Anagrams
+HindSight6 Loss of Separation - Mid-Air Collisions, Elephants, and Systems Approaches
+
+Flight Safety Foundation
+
+Midair Over the Amazon
+
+
+
+
+
+Categories
+
+
+Loss of Separation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

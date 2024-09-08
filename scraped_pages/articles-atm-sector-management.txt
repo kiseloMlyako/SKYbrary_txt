@@ -1,0 +1,224 @@
+ATM Sector Management
+
+
+
+
+
+
+
+
+
+
+
+  ATM Sector Management
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Loss of Separation 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+Declared capacity. A measure of the ability of the ATC system or any of its subsystems or operating positions to provide service to aircraft during normal activities. It is expressed as the number of aircraft entering a specified portion of airspace in a given period of time, taking due account of weather, ATC unit configuration, staff and equipment available, and any other factors that may affect the workload of the controller responsible for the airspace.
+Note: Declared capacities are given as number of aircraft that can be serviced per hour. The exact value is determined using a variety of methods (e.g. simulation, expert assessment, etc.). The calculation takes into account airspace size and structure, expected traffic flow, the equipment used etc. Declared capacities are to be periodically reviewed by the ANSPs.
+Over-delivery. An occurrence when the declared rate of the ATFM regulation is exceeded by the actual number of aircraft that enter a regulated sector during a particular period.
+Overload. An occurrence when an air traffic controller reports that he/she has had to handle more traffic than they consider it was safe to do so. An overload could be caused by an inadequate flow management strategy or by over-deliveries or by both.
+Purpose of ATM Sector Management
+There are several ways to respond to increased traffic demand:
+
+Introduction of new equipment that helps the controllers handle more traffic while preserving the attained levels of safety and efficiency (e.g. Mode S, RVSM, OLDI, MTCD, etc.). This option is a part of the strategic development of any ANSP and is used at regular intervals or when a new technology becomes available. Not usable at tactical level (day-to-day and intraday use).
+Reduction of airspace complexity. While this does not normally reduce the number of flights, it enables the controllers to safely handle more traffic. An example of such measures is the segregation of traffic flows (making sure departing and arriving flights use different routes, reducing the number of crossing flows, etc.). Such measures are normally a response to actual or anticipated traffic increase. Due to the need for timely notification of the operators and neighbouring ATS units, they are usually medium-term and cannot be introduced on a tactical basis (with a few exceptions such as pre-defined scenarios).
+Imposition of flow control measures, i.e. restricting the number of aircraft that can enter the sector airspace. This is the last line of defence against traffic overload and is usually used when other options have been exhausted. Usually causes delays and can even lead to the disruption of normal operations in case of improper and widespread use.
+Opening more ATM sectors so that the traffic (and workload) is split over more controllers. This option is used to handle daily traffic fluctuations better, making optimal use of the personnel available.
+
+The purpose of ATM sector management is to ensure that optimal sector configurations are used at all times. A sector configuration is to be considered optimal if no excess sectors are open and no sector is subject to over-delivery for a prolonged period of time.
+Benefits of ATM Sector Management
+
+Flexibility – different sectors configurations can be used depending on expected traffic flow (e.g. the sector can be divided horizontally or vertically, split into three or more sectors, etc.)
+Optimal use of personnel – sectors can be merged after traffic levels have decreased. This gives the management options to handle the traffic with less controllers as opposed to the strategy where all possible sectors are manned at all times regardless of traffic levels.
+Increase of overall efficiency – when looking at air traffic control from a global perspective, the widespread use of ATM sector management helps to better handle the “bottlenecks” of air traffic flow, thus reducing delays, costs and emissions.
+Safe ATS provision – appropriate sector configuration ensures optimal controller workload preventing overload and distraction caused by too low traffic levels.
+
+Restrictions of ATM Sector Management
+
+Sectors cannot be split indefinitely – there is no strict rule about this but a sector with less than e.g. 5 minutes of flight time is considered inefficient with present day equipment.
+ATM sector management is useful when there are peaks and drops in traffic flow. If the traffic distribution is uniform within the day other options should be used.
+Splitting sectors reduces the traffic-related workload (there are less aircraft on the frequency) but also increases inter-sector coordination. This must be taken into account when choosing the sector configuration.
+
+Criteria, Procedures and Risks Associated with the Opening of More Sectors
+The opening of new sectors is based on local particularities and should be described in the Manual of Operations of the ATSU. While there are no strict rules for this some typical criteria are:
+
+Expected traffic is above a specified threshold, e.g. 90% of the sector capacity;
+The number of expected aircraft on the frequency at the same time is greater than a specified threshold, e.g. 20 aircraft on the frequency at the same time;
+Traffic complexity, e.g. a lot of aircraft departing from/ arriving to nearby aerodromes;
+Expected adverse weather, especially CB;
+Testing of ATS equipment, e.g. a new ATS system;
+A combination of the above.
+
+The procedures to be followed in case a new sector is opened should be described in detail in the Manual of Operations of the ATSU. The typical steps are as follows:
+
+The supervisor makes a decision to open a new sector based on local criteria;
+The controllers from the new sector:
+
+verify the operational status of the equipment;
+inform the adjacent sectors/units;
+perform a takeover/handover procedure (get informed about the situation – conflicts, coordinations, aircraft requests, weather, etc.) with the controllers of the affected sector(s);
+assume control of aircraft within their area of responsibility.
+
+
+
+Risks, associated with the opening of new sectors:
+
+The procedure starts too late – this can lead to controllers working under high workload in unfamiliar environment; also, this case reduces the chance for performing an adequate takeover/handover procedure; in general, good timing and adequate interpretation of traffic forecasts should be sufficient to mitigate this risk;
+Too many frequency changes within a short period of time – this can easily lead to a blocked frequency or an aircraft being transferred to a wrong frequency; this risk can be mitigated simply by allowing longer pauses between frequency changes;
+Poor takeover/handover, e.g. if the controllers from the existing sector fail to inform the ones from the new sector about a conflict or some particularity (danger areas, adverse weather, etc.); since the workload when opening a new sector is higher compared to the takeover procedure it is possible to have a conflict spotted too late; to mitigate this risk, the procedure should be performed with extra caution and without rushing;
+Underestimation of traffic, leading to sectors not being open when they should have been – this usually results in controller overload; this risk can be mitigated with adequate interpretation of traffic forecasts;
+Overestimation of traffic, leading to sectors being open unnecessarily – this generally seems to be a marginal issue, but can often mean that controllers have to work for 3 or 4 hours without a break; also, too little traffic tends to make people prone to lapses; this risk can be mitigated with adequate interpretation of traffic forecasts.
+
+Criteria, Procedures and Risks Associated with the Closing/Merging of Sectors
+The closing/merging of sectors is based on local particularities and should be described in the Manual of Operations of the ATSU. While there are no strict rules for, this some typical criteria are:
+
+Expected traffic is and is expected to remain below a specified threshold, e.g. 90% of the merged sector capacity;
+The number of expected aircraft on the frequency at the same time is and is expected to remain less than a specified threshold;
+Traffic complexity, e.g. few aircraft departing from/ arriving to nearby aerodromes;
+Weather improvement;
+A combination of the above.
+
+The procedures to be followed in case a new sector is open should be described in detail in the Manual of Operations of the ATSU. The typical steps are as follows:
+
+The supervisor makes a decision for closing/merging sectors when traffic levels are low and most situations (conflicts) have been resolved;
+The controllers from the sector being closed inform the concerned sectors/units;
+The controllers from the united sector perform a takeover/handover procedure and assume control of all aircraft within their area of responsibility;
+The frequency of the closed sector is usually monitored for a period of time (e.g. at least 30 minutes).
+
+Risks, associated with the closing/merging of sectors:
+
+Premature closing/merging, resulting in the overload of the united sector; this can be avoided if correct timing for the procedure is used;
+Underestimation of traffic, leading to overload shortly after the sectors have been merged; this risk can be mitigated with adequate interpretation of traffic forecasts.
+
+Changing the Sector Configuration (but not the number of sectors)
+Sometimes traffic flows shift in such a way that a different configuration with the same number of sectors is considered preferable than opening a new sector or merging existing sectors. For instance, a configuration of one upper and two lower sectors (which managed a high number of departing and arriving traffic) may need to be replaced by three vertically split sectors (lower, middle and upper) in order to cope with the expected increase of overflying aircraft. As in the other cases, the decision for changing the sector configuration is made by the supervisor based on the traffic demand. The procedures to be followed are described in the ATSU manual of operations and typically include:
+
+Informing the concerned sectors/units about the new frequencies;
+Coordination between the sectors as necessary (e.g. for conflicting aircraft that are now in a different sector);
+Performing handover/takeover between the sectors as necessary;
+
+Risks, associated with changing the sector configuration while preserving the number of sectors:
+
+At least some of the controllers will face a (completely) different situation (in terms of airspace, aircraft and procedures);
+Increased inter-sector coordination is to be expected in the transition period (aircraft within the sector group may have to change frequency);
+Some of the controllers will inevitably control (for a few minutes) aircraft that are well outside the boundaries of their new sector while at the same time their situational awareness will be reduced (due to e.g. colour representation of the aircraft that are entering the airspace that is now controlled by a different sector).
+
+The Importance of Good Timing
+The main benefits of ATM sector management are the optimal use of personnel and the ability to handle traffic peaks safely and efficiently. These tasks can only be achieved with good timing, which means that:
+
+New sectors are usually to be open 10 to 20 minutes before the increased traffic demand to allow controllers to safely perform the procedures;
+Sectors should be merged only when there is reasonable assurance that the same sectors will not have to be reopened within a reasonable period of time (at least 30-40 minutes). Too frequent openings/closings of sectors should be avoided, as this may lead to:
+
+poor coordination with adjacent units;
+aircraft being transferred to wrong frequencies;
+overall increase of the controller workload, associated with the procedure.
+
+
+
+Related Articles
+
+Sector Over-deliveries and Overloads
+Sectorisation
+Network Manager Operations Centre (NMOC)
+Regulation 255/2010 - Common Rules on Air Traffic Flow Management
+Methods to Describe Sector Capacity
+Air Traffic Flow Management
+Short term ATFCM measures (STAM)
+
+Further Reading
+
+ICAO Annex 11 - Air Traffic Services
+Trade-Offs and Complexity/Over - Deliveries - Safety or Capacity Issue Presentation by EUROCONTROL, May 2017
+
+
+
+
+
+Categories
+
+
+Loss of Separation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

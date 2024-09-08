@@ -1,0 +1,196 @@
+Aircraft Maintenance
+
+
+
+
+
+
+
+
+
+
+
+  Aircraft Maintenance
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Airworthiness 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ Cranfield University
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ Cranfield University
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+No aircraft is so tolerant of neglect that it is safe in the absence of an effective inspection and maintenance programme. The processes that affect an aircraft are deterioration with age (e.g. fatigue, wear, and corrosion) as well as chance failures (e.g. tyre burst, excess structural loads).
+Aircraft maintenance can be defined in a number of ways, and the following may help understand the different aspects:
+“Those actions required for restoring or maintaining an item in a serviceable condition including servicing, repair, modification, overhaul, inspection, and determination of condition." [World Airlines Technical Operations Glossary]
+“Maintenance is the action necessary to sustain or restore the integrity and performance of the airplane.” [Hessburg, 2001]
+“Maintenance is the process of ensuring that a system continually performs its intended function at its designed-in level of reliability and safety.” [Kinnison and Siddiqui, 2013]
+Activity
+Aircraft maintenance is that part of the process of aircraft technical activity which is conducted on aircraft whilst it remains in the line maintenance or base maintenance environment. Aircraft maintenance is intended to keep the aircraft in a state which will or has enabled a certificate of release to service to be issued. A hangar environment may be available but is often not necessary. The reasons for carrying out maintenance are neatly summarised by [Lam 2002]:
+
+Aircraft safety – airworthiness at its heart.
+Keep aircraft in service – availability, which is of key importance to an operator, i.e. the aircraft can meet its schedule.
+Maximise value of asset (airframe, engines, and components) – of prime importance to the owner or lessor.
+
+Maintenance will consist of a mixture of preventive and corrective work, including precautionary work to ensure that there have been no undetected chance failures. There will be inspection to monitor the progress of wear-out processes, in addition to:
+
+Scheduled or preventive work to anticipate and prevent failures.
+Unscheduled work – Repair maintenance and on-condition maintenance.
+
+In general terms, for preventive work to be worthwhile, two conditions should be met:
+
+The item must be restored to its original reliability after maintenance action, and
+The cost of maintenance action must be less than the failure it is intended to prevent.
+
+Light or Line Maintenance
+This would typically include preflight checks, daily checks (before first flight), fluids, failure rectification, as well as minor, scheduled maintenance tasks as follows. According to EASA Part 145, AMC 145.A.10, line maintenance should be understood as “any maintenance that is carried out before flight to ensure that the aircraft is fit for the intended flight.” This may include:
+
+Trouble shooting.
+Defect rectification.
+Component replacement, up to and including engines and propellers, with use of external test equipment if required.
+Scheduled maintenance and/or checks including visual inspections that will detect obvious failures but do not require extensive in-depth inspection. It may also include internal structure, systems, and powerplant items which are visible through quick-opening access panels/doors.
+Minor repairs and modifications which do not require extensive disassembly and can be accomplished by simple means.
+
+EASA Part 145, AMC 145.A.10 also explains that “for temporary or occasional cases (ADs, SBs) the Quality Manager may accept base maintenance tasks to be performed by a line maintenance organisation provided all requirements are fulfilled as defined by the competent authority”. It is also noted that “Maintenance tasks falling outside these criteria are considered to be Base Maintenance”.
+Base or Heavy Maintenance
+Base maintenance may be referred to as heavy (or depth) maintenance, and consists of tasks that are generally more in-depth and long-lasting than those above, but are performed less frequently. An MRO (maintenance, repair and overhaul) company will need large facilities and specialised equipment and staff to undertake base maintenance, and many operators contract-out this function. The different activities may include:
+
+C and D Checks (block checks see Maintenance Programme) which will check for deterioration of the airframe, engines, and systems, e.g. corrosion, fatigue.
+Removal of defects – implementation of Service Bulletins (SB) and Airworthiness Directives (AD), although this can also be done during Line maintenance.
+Technology upgrade – fitting of Terrain Avoidance and Warning System (TAWS), Airborne Collision Avoidance System (ACAS), etc.
+Cabin reconfiguration, painting etc.
+
+Shop or Component Maintenance
+The third form of maintenance can be termed as “workshop” or just "shop maintenance." This covers maintenance on components when removed from aircraft, e.g. engines, APU, seats. Sometimes this is carried out within the same organisation as the base maintenance, but sometimes special companies carry out this work separately.
+Maintenance Intervals
+The intervals of maintenance are parameters set within the Approved Maintenance Schedule (AMS), which is in turn based on the Maintenance Planning Document (MPD). These will be set according to different criteria, mostly depending on how well damage can be detected and failure predicted [CAA, 2017]:
+Hard time
+
+Preventative process in which known deterioration of an Item is limited to an acceptable level by the maintenance actions.
+Carried out at periods related to time-in-service (e.g. calendar time, number of cycles, number of landings).
+
+On-condition
+
+Preventative process in which Items are inspected or tested, at specified periods, to an appropriate standard to determine whether it can continue in service.
+Such an inspection/test may reveal a need for maintenance action.
+Fundamental purpose of on-condition is to remove an Item before its failure in service.
+
+Condition monitoring
+
+Information on Items gained from monitoring is collected, analysed, and interpreted on a continuing basis as a means of deciding whether to implement corrective procedures.
+This process is normally automated and may form part of the aircraft’s on-board health management system.
+
+Units for Maintenance Intervals
+
+Flight Hours (FH), for items that are in constant operation, e.g. fuel pumps, electric generators.
+Flight Cycles (FC), for items operated once or twice per flight, e.g. landing gear, air starter, brakes, hull pressurisations.
+Calendar Time (Cal), for items exposed whether operated or not, e.g. fire extinguishers, corrosion to structure.
+Operating hours, for items not operated every flight, or otherwise independent of FH or FC, e.g. APU operation.
+
+Related Articles
+
+Airworthiness
+Approved Maintenance Organization (AMO)
+Continuing Airworthiness
+Ageing Aircraft - Electrical Wiring
+Ageing Aircraft - Structural Failure
+
+Further Reading/References
+
+Ackert S P (2010), Basics of Aircraft Maintenance Programs for Financiers (external link).
+Aircraft Technology Engineering & Maintenance (2006), The ‘Golden’ touch, Special Edition
+Airline Fleet & Network Management (2005), Reducing scheduled maintenance downtime, Jan/Feb 2005
+Aubin B R (2004), Aircraft Maintenance - The Art and Science of Keeping Aircraft Safe, SAE International.
+CAA (2017), Leaflet 5-60 Condition Monitored Maintenance, in CAP 562 Civil Aircraft Airworthiness Information and Procedures (CAAIP) (external link), Issue 4, Amendment 3
+De Buck J and Burgidou T (2006) Airbus - Maintenance cost and reliability control: services to better serve airlines worldwide, in FAST 39 (external link)
+EASA (2015), Acceptable Means of Compliance and Guidance Material to Annex II (Part-145) to Regulation (EU) No 1321/2014, Issue 2 (external link)
+Hessburg J (2001), Air Carrier MRO Handbook McGraw-Hill
+Kinnison H A and Siddiqui T (2013), Aviation Maintenance Management, 2nd edition, McGraw-Hill
+Lam M (2002), An Introduction to Aircraft Maintenance, in Jacobs D, The handbook of Airline Economics, 2nd edition.
+Maintenance Briefing Notes: Maintenance Documentation by Airbus
+
+
+
+
+
+Categories
+
+
+Airworthiness
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

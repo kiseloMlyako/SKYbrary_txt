@@ -1,0 +1,175 @@
+Air Traffic Flow Management (ATFM)
+
+
+
+
+
+
+
+
+
+
+
+  Air Traffic Flow Management (ATFM)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+A service established with the objective of contributing to a safe, orderly and expeditious flow of air traffic by ensuring that ATC capacity is utilized to the maximum extent possible, and that the traffic volume is compatible with the capacities declared by the appropriate ATS authority.
+Source: ICAO Doc 4444 PANS-ATM
+Description
+The objective of ATFM is to ensure optimal traffic flow when demand is expected to exceed the available capacity of the ATC system. It comprises activities related to traffic organization and handling in a way that is safe, orderly, expeditious and kept within the capacity. ATC capacity reflects the ability of the system to provide service, and is expressed in numbers of aircraft entering a specified portion of the airspace in a given period of time.
+ATFM supports ATC in meeting its main objectives as well as of achieving the most efficient utilization of airspace and airport capacity. To be effective, it needs cooperation and co-ordination with ATC units and airspace users. An optimum flow of air traffic is not always possible due to various constraints, such as conflicting users’ requirements, air navigation system limitations and unexpected weather conditions. In this case, alleviating measures, such as control of air traffic flow, will need to be considered, particularly when the ATC system can no longer fully cope with the volume of air traffic. Such measures frequently result in delays of flights prior to departure, in-flight holdings, use of uneconomic flight levels, re-routing and diversions, disruptions of flight schedule, economic and fuel penalties for aircraft operators, congestion on aerodromes or in terminal buildings and passenger dissatisfaction.
+The main causes of traffic congestion are:
+
+accumulation of traffic during specific periods of the year (or the week or the day) due to holiday patterns and travel habits. This may also be caused by local procedures, e.g. night restrictions at aerodromes, noise abatement procedures, etc. that tend to concentrate the traffic in a narrow period of time
+differences in the capacities of the various ATC systems. Often the reason for this is insufficient staffing but may also be inefficient procedures (e.g. inadequate procedures for the transfer of control) or inadequate equipment (e.g. lack/insufficient surveillance equipment or obsolete data processing systems) that cannot cope with the growth of air traffic.
+insufficient advance notice of likely traffic demands which may cause overloads at certain points or during specific times
+
+Measures to control the flow of air traffic need to be taken in certain cases to ensure a reasonable balance between the traffic demand and the ability to accommodate that demand. These measures are restrictive in nature and therefore should be kept to the minimum and, whenever possible, be applied selectively (but not be discriminatory) so as to affect only that part of the traffic which causes the problem and they should be applied only for the period when expected air traffic demand will exceed the capacity in those areas.
+ATFM is done in three phases:
+
+Strategic planning. This phase includes measures that are normally carried out well in advance, e.g. a few months ahead. These are carried out after consultations with the ATC service providers and aircraft operators. Examples of such measures are:
+
+Increasing the ATC capacity (e.g. sending controllers from another facility to cope with seasonal or temporary traffic peaks)
+Rerouting of certain traffic flows (e.g. restricting flights based on their departure or destination). For the EU, such restrictions are specified in the Route Availability Document (RAD) (see Further Reading section below).
+Scheduling or rescheduling of flights in order to balance traffic demand (if appropriate)
+Identification of the need for applying tactical ATFM measures
+
+
+Pre-tactical planning. This phase includes measures that are carried out one day in advance. They can be seen as fine tuning of the strategic measures. The details for the following day are published and made available to all parties concerned. Examples of pre-tactical measures are listed below:
+
+Rerouting of certain traffic flows (this would have less impact compared to the rerouting in the strategic phase)
+Coordination of off-load routes
+Decision on the use of tactical measures on the next day (as opposed to the identification during the strategic phase)
+
+
+Tactical operations. This includes measures that take effect on the day of implementation. These include the execution of the previously agreed measures and the monitoring of the situation to ensure the measures are having the desired effect. When the traffic demand is expected to exceed the capacity of a particular sector or aerodrome, the ATC unit advises the ATFM unit so that appropriate restrictions are applied. Affected operators are also informed of expected delays and restrictions.
+
+Some flights should be granted exemption from flow control measures, e.g.:
+
+flights in a state of emergency, including unlawful interference;
+humanitarian flights;
+medical flights;
+flights on search and rescue missions;
+flights with "Head of State" status. Note that there may be occasions (e.g. meetings of Heads of States) when it will be necessary to restrict such aircraft in order to ensure safety.
+
+In co-operating with ATC and aircraft/aerodrome operators to balance traffic demand and the capability of ATC to safely accommodate that demand, the ATFM service should permit full exploitation of ATC capacity, maximum flexibility in the use of the route structure to secure minimum delay for all flights and orderly distribution of traffic flows, while giving appropriate consideration to operators’ requirements. Furthermore, advance information on overload situations should be provided to all parties concerned, and relevant air traffic statistics should be generated in order to promptly identify the bottlenecks in the system. It should be emphasized at this point that the successful implementation of ATFM and flow control will depend on the effectiveness of the communication and co-operation established among all stakeholders.
+The ATFM service should fulfil the following basic strategic and tactical functions:
+
+collection of data on the infrastructure and the relevant capacities
+collection and analysis of flight data
+determination of expected traffic demand, comparison with available capacity and identification of expected critical loads
+co-ordination with the ATS authorities to attempt to increase the available ATC capacity where required
+where ATC capacity shortfalls cannot be eliminated, determination and implementation in good time of suitable tactical measures. These need to be coordinated throughout the ATFM area and with the aircraft/aerodrome operators concerned.
+
+Whenever possible, ATFM measures in the form of delays should be applied to aircraft on the ground rather than to those in flight. If necessary to apply delays to airborne aircraft, they should be informed as soon as possible. If en-route holding becomes necessary, it should be done as closely as practicable to the area causing the restrictions.
+Measures to regulate demand may take several forms. In simpler systems, ACCs exercising flow control to surrounding area control centres disseminate notices requesting that affected aircraft be spaced at prescribed intervals, e.g. one every ten minutes. Spacing of aircraft for flow control purposes should not be mixed with separation, but rather should be based on an “acceptance rate”, i.e. the number of aircraft accepted in a given period of time. This method of applying flow control is used by a number of ACCs without computer assistance. An improved and more sophisticated form of regulation of arrivals is possible with automated ATC systems, in which the controller is provided with computer assistance in the sequencing and spacing of aircraft in the terminal area. In this case, calculation of the delays which are caused by the sequencing and spacing operation can be transformed into clearances requiring aircraft to operate at reduced speed while still en route to the terminal area. Operation at reduced speed will enable aircraft concerned to absorb at least some of the delay while still en route. Reduced power settings may also be attractive to operators because of the consequent fuel savings. It should be noted, however, that reduced speed en route can frequently increase congestion in the en route segment and lead to increased sector complexity because of the incompatibility of speeds at the same flight level.
+Well before the application of flow control restrictions, predictions of the expected demand should be used to inform operators of anticipated delays. This may reduce or even postpone the need for flow control restrictions.
+Air traffic flow management cannot be restricted to the area of one State because of its effects on the flow of air traffic elsewhere. Optimum flow of air traffic could be best achieved through an integrated central air traffic flow management service using internationally agreed procedures with a view to maintaining, in continuous co-operation with associated ATC units and operators, a balance between a traffic demand and the capability of ATC to accommodate that demand.
+Related Articles
+
+Air Traffic Management (ATM)
+Short Term ATFCM Measures (STAM)
+ATM Sector Management
+Sectorisation
+Extended AMAN
+Network Manager Operations Centre (NMOC)
+Regulation 255/2010 - Common Rules on Air Traffic Flow Management
+
+Further Reading
+
+ICAO Doc 4444 PANS-ATM
+ICAO Doc 9426 Air Traffic Services Planning Manual
+The RAD (route availability document) site, external link
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

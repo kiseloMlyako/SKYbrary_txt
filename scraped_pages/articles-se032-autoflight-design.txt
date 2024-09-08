@@ -1,0 +1,126 @@
+SE032: Autoflight Design
+
+
+
+
+
+
+
+
+
+
+
+  SE032: Autoflight Design
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+CAST Safety Enhancements 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ CAST
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ CAST
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Status: COMPLETED
+Background
+This safety enhancement reduces fatal accidents due to loss of control by recommending and supporting the development of regulations and guidance material that ensure or encourage autoflight (autopilot and autothrust) systems in new airplane designs to accomplish the following:
+
+Minimize the probability of creating a thrust asymmetry that could lead to loss of control;
+Yield control to significant manual flight control forces (e.g., force disconnects);
+Annunciate to the flight crew if aircraft response differs significantly from what the autopilot has been commanded to do;
+Ensure autopilot internal monitor logic does not inappropriately disconnect the autopilot when it is properly attempting to correct for deviations from the commands it receives; and
+Include low speed protection.
+
+Related Implementation Plan
+Detailed Implementation Plan
+Related Outputs
+Based on the recommendations of the Flight Guidance Harmonization Working Group Aviation Rulemaking Advisory Committee (ARAC) Report, the Federal Aviation Administration (FAA) Code of Federal Regulations (CFR) 25.1329 was revised and Advisory Circular 25.1329-1C, including Change 1, Approval of Flight Guidance Systems, was published to incorporate the requirements of this Safety Enhancement.
+Related SKYbrary Articles
+
+Autopilot
+Take-off / Go-around (TO/GA) Mode
+
+
+
+
+
+Categories
+
+
+CAST Safety Enhancements,
+              CAST Safety Enhancements Plan
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

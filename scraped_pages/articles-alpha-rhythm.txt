@@ -1,0 +1,228 @@
+Alpha Rhythm
+
+
+
+
+
+
+
+
+
+
+
+  Alpha Rhythm
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Traditionally, the traces obtained by Electroencephalography are analysed by Fourier analysis, which decomposes any signal into sine-wave components with varying frequencies. The ‘alpha’ rhythm is usually the most strongly marked, particularly from the optical lobes, situated at the rear of the brain.
+Discussion/References
+Alpha Rhythm, which has a frequency of 8-12 Hz, is often considered to correspond to an ‘idling’ state of mental activity, and equipment is sold for self-treatment by some health stores, supposed to enable the user to develop a conscious self-induction of alpha rhythm.
+Vanwonterghem and Verboven (1988) carried out initial studies, with only one subject, using a simple ATC simulation game. This provided a heavy workload. The EEG analysis used a spectral analysis, and an estimate of relative left/right activity. EEG results were presented graphically, and were not analysed statistically. During heavy work, ‘spindles’ of alpha rhythm were observed. It was suggested that these corresponded to ‘memory updating’, although there is a possibility that they corresponded to eye-blinks. (The controller produced strong alpha rhythms when he closed his eyes.)
+Vanwonterghem and Rabit (1989) carried out EEG during a research simulation (ODID2) using two different EEG systems. Although a statistical analysis was not carried out, it was possible to detect significant alpha rhythm differences between left and right hemispheres, particularly for radar controllers and for planning controllers when they looked at the radar. There were distinguishable differences in mental activity between the radar controllers in a relatively large sector and in a very constrained sector where most separation involved climb and descent restrictions.
+Stampi et al (1995) developed the Alpha-Attenuation test as a measure of sleepiness, Although they had successfully used it in previous studies, Cabon et al (1997) found no significant effects in simulated ATC. They considered that the simulated task was not sufficiently tiring to produce significant results –in contrast to previous studies on shift-working air traffic controllers. The Stampi et al 1997 test requires EEG recording for six periods of two minutes with eyes alternately open and closed – which takes too long in ATC simulations. A modified version (Van Gizycki 1995) was recommended for other studies.
+
+
+
+
+Categories
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+Generics
+
+
+Type of method
+Electroencephalography
+
+
+Target of method
+Strain
+
+
+The presence of Alpha Rhythm EEG is conventionally taken as an indication that the brain is ‘idling’.
+
+
+Time Scale of method
+Seconds, Minutes
+
+
+EEG signals have a frequency range up to 30-40Hz. To carry out Fourier analysis epochs of several seconds are needed.
+
+
+Portability of method
+No
+
+
+It is sufficiently difficult to obtain EEG readings under laboratory conditions, and usually requires a trolley of equipment for each individual.
+
+
+Observer Effect
+No
+
+
+The activity recorded by EEG measurements is not normally under the control of the controller. (It is possible to ‘train’ oneself to generate alpha rhythms, a process which is sometimes employed as a mechanical aid to meditation).
+
+
+Context of studies
+
+
+Laboratory studies
+Use
+
+
+ 
+
+
+Simulation studies
+Use
+
+
+ 
+
+
+Field studies
+Avoid
+
+
+ 
+
+
+Potential problems with the method
+
+
+Failure risk
+Moderate
+
+
+Surprisingly good quality EEG signals can be recorded in simulation and in real life control rooms. This is probably because most electronic activity in these locations involves much higher frequencies.
+
+
+Bias risk
+Possible
+
+
+We do not really know enough about EEG to say what it can be affected by, although some observation of specific elements is available. On some occasions alpha rhythm has been observed in subjects under extreme strain. This paradoxical effect may be connected with the generation of alpha rhythm when the eyes are closed, and with the tendency to blink under strain.
+
+
+Ethical problems
+Medical
+
+
+We do not examine EEG records for traces of abnormality, which is the proper study of the medical profession.
+
+
+Costs of the method
+
+
+Staff Cost
+High
+
+
+Electroencephalography usually needs at least one post-doctoral level supervisor, a skilled EEG technician and one specially trained observer per controller observed.
+
+
+Set-up Cost
+High
+
+
+EEG requires expensive equipment, and considerable preparation before each exercise.
+
+
+Running Cost
+High
+
+
+EEG tends to require specialised recording equipment, and the volume of data produced usually requires considerable control activity in the course of a simulation.
+
+
+Analysis Cost
+High
+
+
+The cost of EEG analysis is largely that of the specialised programs, and peripherals required. Most EEG systems, having been designed for clinical use, are self contained, and require considerable attention in use.
+
+
+Analysis data
+
+
+Analysis Speed
+Slow
+
+
+Although EEG analysis is usually carried out by computer, the interpretation of the analysis usually seems to contain a certain subjective element. In addition, EEG is liable to artefacts, usually due to displacement of cable leads, or chewing or blinking by the subject.
+
+
+Data Automation
+Yes
+
+
+Data can only be collected automatically.
+
+
+Analysis Automation
+No
+
+
+The analysis of EEG is, in general, automated - usually by Fourier analysis, but the interpretation of the results is not normally susceptible to automation.
+
+
+Status
+Tested
+
+
+This method has been used in a number of relevant studies, at EEC and elsewhere.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

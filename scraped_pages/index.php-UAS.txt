@@ -1,0 +1,233 @@
+Unmanned Aerial Systems (UAS)
+
+
+
+
+
+
+
+
+
+
+
+  Unmanned Aerial Systems (UAS)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Unmanned Aerial Systems 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+Unmanned aircraft system (UAS) means an unmanned aircraft and the equipment to control it remotely.
+Unmanned aircraft (UA) means any aircraft operating or designed to operate autonomously or to be piloted remotely without a pilot on board.
+Source: Regulation (EU) 2019/945
+Description
+An Unmanned Aerial System (UAS) has three components:
+
+An autonomous or human-operated control system which is usually on the ground or a ship but may be on another airborne platform;
+An Unmanned Aerial Vehicle (UAV);
+A command and control (C2) system - sometimes referred to as a communication, command and control (C3) system - to link the two.
+
+These systems include, but are not limited to, remotely piloted air systems (RPAS) in which the UAV is controlled by a 'pilot' using a radio data link from a remote location. UAS can also include an autonomous UAV or, more likely, a semi autonomous UAV. In recent years, the tendency to refer to any UAV as a "drone" has developed but the term is not universally considered appropriate. UAVs can vary in size from those which can be hand launched to purpose built or adapted vehicles the size of conventional fixed or rotary wing aircraft.
+The development of UAS
+Military and other State use of UAS has developed rapidly since it began apace in the USA in the early 1990s and has utilised satellite communications and GNSS navigation to operate UAVs at very long distances from their controllers. However, well before this, the first recorded use of large UAVs was in 1935, when the British Royal Navy began using adapted DH82 Tiger Moth aircraft called 'Queen Bees' which were flown under radio control for gunnery target practice. A total of 380 of these were built and used by both the Navy and the RAF before they were retired in 1947. In recent years, fixed wing UAVs have been joined by increasing numbers of rotary and multi-rotor UAVs. As previously, the military has led the way in using UAVs and only more recently have they become, at the smaller size, accessible to civil users who were previously limited to the longstanding hobby activity of flying radio controlled model aircraft.
+The civil applications of UAS
+The recent rapid progress in extending the scope of military and State use of UAS has led to recognition of the very widespread potential for civil commercial applications of various UAS, the majority of which are small UAVs operating below the height above terrain normally used by manned aircraft or at least below about 1000 feet agl. Many of these uses are now well established and include:
+
+Security surveillance
+Emergency response including SAR
+Facilitation of communications and broadcast
+Small package and bulk cargo transport
+Visual, spectral and thermal examination of structures
+Monitoring of linear network infrastructure such as railway tracks, power lines and pipelines
+Photography and cartographic survey
+Agricultural fertiliser and chemical application
+Aircraft external maintenance inspection
+Atmospheric research
+
+UAS Operational Issues
+The issues which have had to be addressed for this type of operation have centred on both the safety of other aircraft and issues of public (third party) safety and the protection of privacy. The latter has been especially prominent due to the fact that many UAS applications involve the use of the UAV as a platform for a high definition camera. The relatively small UAVs typically used are in contrast to the much larger range of UAV sizes which has collectively typified military use.
+The development and use of Military UAS which has been so important in driving the scope and capability of these systems, especially the larger UAVs, has been possible because the airspace in which they have been used has been either permanently or temporarily segregated, with access by manned aircraft excluded or strictly controlled. This has often reduced initial and continuing airworthiness standards considered acceptable for military operations to levels below those which would satisfy civil safety regulation requirements. It has also limited the need for the sense and avoid technology which will be essential for operation of all but the smallest UAVs in shared non-segregated airspace if the risk of collision between aircraft and UAVs - or between UAVs - is to be adequately mitigated. In this matter, the objective for civil RPAS is currently seen to be a demonstration of at least an equivalent level of risk to that to which manned aircraft are currently exposed. However, deciding what this level of safety is in operational terms outside controlled airspace has proved problematic.
+The issue of permissions for commercial UAS to operate at low levels - typically below 400-500 feet agl - in non-segregated airspace has generally been associated with the complete prohibition of UAV entry into controlled airspace which extends to the surface or to any uncontrolled airspace to which access could interfere with aerodrome operations. Such permissions have also generally addressed the risks of third party injury, undue invasion of privacy and operator training. As a result of requirements for the latter, new training organisations dedicated to the training of RPAS operators, most of whom controlling civil UAVs do not have experience as a pilot of a manned aircraft, have appeared - and been embraced and approved by some regulatory authorities such as the UK CAA. Operator training is also becoming an increasing focus for military and State users of RPAS, as system deployment increases in line with increasing task capability and the availability of former military pilots and navigators to act as RPAS operators diminishes.
+Whilst the terms UAV/UAS and RPAS are of relatively recent origin, they have been retrospectively applied to the long-established leisure activity of flying of radio-controlled model aircraft within Visual Line Of Sight (VLOS). It is this type of restricted UAV operation which is where current growth in both leisure and commercial use is taking place, but means to permit the more complex civil use of UAVs which can be controlled Beyond Visual Line of Sight (BVLOS) and/or safely within un-segregated controlled airspace are also being actively pursued. Such operations are likely to require demonstrably resilient C2 systems and effective 'Detect and Avoid' (sometimes called 'Sense and Avoid') mechanisms. It is widely recognised that the latter will need to deliver a level of safety equivalent to that achieved by manned aircraft. However, defining what that level of safety actually is within various classifications of airspace is as yet unresolved.
+Safety Regulation
+The two areas of safety regulatory oversight of UAS - operations and UAV airworthiness, are being overseen on a supra-national basis by the Joint Authorities for Rulemaking on Unmanned Systems (JARUS). This body was established in 2007 and describes itself as "a group of experts from National Aviation Authorities (NAAs) and regional aviation safety organisations" which aims to provide guidance material to facilitate "a single set of technical, safety and operational requirements for the certification and safe integration of UAS into airspace and at aerodromes" and thereby enable each authority to write their own requirements whilst achieving cross-border harmonisation and avoiding duplication of effort. Founder Members include the FAA, the EASA and EUROCONTROL and members from around the world now represent the interests of 35 States, including both China and the Russian Federation. One of the many challenges for JARUS has been to consider the extent to which regulation of a UAS might be based on the size - however defined - of a UAV.
+UAS Operational Safety Issues
+The operational safety issues raised by UAS depend essentially on:
+
+the risk and potential consequences of mid-air collision with another UAV or a manned aircraft
+the risk of loss of control of a UAV
+the risk of intentional misuse of a UAV
+whether the use to which a UAV is put is Military/State, Commercial, Leisure or Hobby
+
+These issues are the focus of the currently mixed picture between States on the most appropriate balance between regulatory requirements and their communication and the issue of guidance. In some cases, prohibition is being applied to certain uses or classes of user pending the development of a comprehensive approach, and much of the commercial use of UAS is being controlled by ad hoc application to safety regulators such as the FAA or UK CAA for a uniquely-specified permission which is then issued on that basis. So far, there are no internationally-recognised licensing or airworthiness certification systems for UAS operators and outside segregated airspace, only experimental engagement with the ATM system. Efforts are beginning to be made to communicate both regulatory and non-regulatory guidance to leisure operators of very small UAVs but since their identity is not known, this has not been wholly successful. In some countries, publicising successful prosecutions for use of UAVs in breach of local regulations is also being used as a means to spread awareness.
+In Europe, it is widely recognised that harmonised State Regulations right across the range of UAV sizes is highly desirable but the current arbitrary split is based on UAV weight. This is currently being used in Europe to distinguish between NAA and EASA regulatory competence - respectively 'below 150 kg' and '150 kg or more'. This is now generally accepted to be an arbitrary distinction unsupported by evidence which is not necessarily significant in terms of the safety issues raised by UAS operations. In particular, it has been recognised that the third party risks of UAV operation are not necessarily proportional to the weight or size of the UAV. Another challenge is that leisure-use small UAVs everywhere are flown by two rather dissimilar types of operator. The established group of model aircraft enthusiasts are mostly members of, or at least are content to take guidance from, a national body which oversees the safe and 'reasonable' conduct of their activity in liaison with the National Aviation Authority (NAA) and/or directly from the NAA. This group of people have long demonstrated that their enthusiasm for what they do is almost always associated with their receptivity to guidance. By contrast, it has become clear that the recent and rapidly growing number of other leisure users of small UAVs are interested as much in what they can do with a UAV - often fitted with a camera - as in the safe and 'reasonable' use of it and will have usually have no previous experience of aviation. A situation similar to the new leisure users applies to the majority of commercial users of small UAVs, but this has so far generally been directly regulated with appropriate risk mitigation requiring at least the completion of sufficient operator training to be able to demonstrate a minimum level of competence.
+The Future
+Other than established model aircraft enthusiasts flying their planes in the knowledge of what is permitted (VLOS operation) and what is not (generic restrictions on when and where flying can take place), the extremely rapid growth of leisure use of similar sized and smaller UAS by persons unfamiliar with that hobby is currently seen as the main 'public interest' issue, but in the main it is arguably not the greatest operational safety risk to manned aviation. This is because even the smallest UAS operated commercially under a permit or an exemption are rapidly coming under a regulatory regime which requires at least some UAV operator training and are beginning to also require a form of standardised competency certification for the specific UAV to be flown such as the "Basic National UAS Certificate" (BNUC™) or the "Basic National UAS Certificate for Small Unmanned Aircraft (BNUC-S™) which are available through training organisations approved by the UK CAA and are currently being widely recognised outside the UK in the absence of any comparable alternative.
+Safety Regulation of civil UAS in Europe is likely to change to the risk-based approach outlined in the September 2015 EASA document 'Proposal to create common rules for operating drones in Europe'.
+In the USA, the FAA has already regulated the civil use of small UAS by publishing in August 2016 CFR 14 part 107 - Small unmanned aircraft systems. Since December 21st 2015 an UAS must be registered if it weighs more than 0.55 pounds and less than 55 pounds.
+The development of the new approach to airborne collision avoidance (currently known as ACAS X) includes variants extending collision avoidance protection to situations and user classes that currently do not benefit from TCAS. The ACAS XU is being designed for UAS.
+Accidents and Incidents
+The following events involved a UAV:
+
+
+UAV, near Imsil-gun South Korea, 2009On 3 August 2009, control of a rotary UAV being operated by an agricultural cooperative for routine crop spraying in the south western part of South Korea was lost and the remote pilot was fatally injured when it then collided with him. The Investigation found that an inappropriately set pitch trim switch went unnoticed and the consequentially unexpected trajectory was not recognised and corrected. The context was assessed as inadequacies in the operator’s safety management arrangements and the content of the applicable UAV Operations Manual as well as lack of recurrent training for the operators’ qualified UAV remote pilots.
+
+UAV, Darling Harbour Sydney Australia, 2021On 15 January 2021, the pilot of a DJI Inspire 2 UAV being operated on a contracted aerial work task under a conditional permit lost control of it and, after it exitied the approved operating area, the UAV collided with the window of a hotel guest room causing consequential minor injuries to the occupant. The Investigation found that the loss of control was attributable to “strong magnetic interference” almost immediately after takeoff which caused the compass to feed unreliable data to the Internal Management Unit which destabilised its accelerometer and led to the loss of directional control which resulted in the collision.
+
+UAV, manoeuvring, Poole Dorset UK, 2020On 19 November 2020, the police operator of a DJI Matrice M210 UA lost control of it over Poole when it drifted beyond Visual Line Of Sight (VLOS) and communication ceased. It was subsequently damaged when colliding with a house in autoland mode. The Investigation found that a partial power failure had followed battery disconnection with its consequences not adequately communicated to the pilot. It faulted both the applicable UA User Manual content and the absence of sufficient UA status and detected wind information to the pilot. A failure to properly define VLOS was identified but not considered directly causal.
+
+UAV, vicinity Goodwood West Sussex UK, 2019On 4 July 2019, the operator of an Alauda Airspeeder UAV lost control of it and it climbed to 8000 feet into controlled airspace at a designated holding pattern for London Gatwick before falling at 5000 fpm and impacting the ground close to housing. The Investigation was unable to establish the cause of the loss of control but noted that the system to immediately terminate a flight in such circumstances had also failed, thereby compromising public safety. The approval for operation of the UAV was found to been poorly performed and lacking any assessment of the airworthiness of the UAS.
+
+UAV, manoeuvring, north of Reims France, 2006On 29 February 2016, control of a 50 kg, 3.8 metre wingspan UAV was lost during a flight test being conducted in a Temporary Segregated Area in northern Belgium. The UAV then climbed to 4,000 feet and took up a south south-westerly track across Belgium and into northern France where it crash-landed after the engine stopped. The Investigation found that control communications had been interrupted because of an incorrectly manufactured co-axial cable assembly and a separate autopilot software design flaw not previously identified. This then prevented the default recovery process from working. A loss of prescribed traffic separation was recorded.
+
+Q9, vicinity Nogales USA, 2006On April 25, 2006 a Predator B an unmanned aerial vehicle (UAV), collided with the terrain following a loss of engine power approximately 10 nautical miles northwest of the Nogales International Airport, Nogales, Arizona.
+
+
+
+
+Related Articles
+
+UAS Rules and Guidance - EU
+UAS Rules and Guidance - USA
+
+Further Reading
+ICAO
+
+Circular 328 - Unmanned Aircraft Systems (UAS), 2012.
+ICAO Doc 10019: Manual on Remotely Piloted Aircraft Systems (RPAS), First edition, 2015
+ICAO requirements concerning the authorisation of UAS flight across the territory of another State are published at Appendix 4 to ICAO Annex 2, Rules of the Air at Amendment 43.
+
+European Commission
+
+Commission Delegated Regulation (EU) 2019/945 of 12 March 2019 on unmanned aircraft systems and on third-country operators of unmanned aircraft systems
+Commission Implementing Regulation (EU) 2019/947 of 24 May 2019 on the rules and procedures for the operation of unmanned aircraft
+Riga Declaration on Remotely Piloted Aircraft (drones); "Framing the future of aviation", EU Riga, 6 March 2015.
+
+EASA
+
+Easy Access Rules for Unmanned Aircraft Systems (Regulations (EU) 2019/947 and (EU) 2019/945), EASA, March 2020.
+Technical Opinion: Introduction of a regulatory framework for the operation of unmanned aircraft, 18 December 2015.
+Concept of Operations for Drones - A risk based approach to regulation of unmanned aircraft, 29 May 2015.
+Report: UAS Safety Risk Portfolio and Analysis, 2016.
+
+EUROCONTROL
+
+EUROCONTROL Specifications for the Use of Military Remotely Piloted Aircraft as Operational Air Traffic Outside Segregated Airspace, 2nd edition, February 2012.
+Unmanned Aircraft Systems – ATM Collision Avoidance Requirements, May 2010.
+EUROCONTROL RPAS website
+
+UK CAA
+
+Current UK CAA information on RPAS and its regulation.
+CAP 772 - Unmanned Aircraft System Operations in UK Airspace - Guidance, 6th edition, 31 March 2015.
+
+FAA
+
+CFR 14 part 107 - Small unmanned aircraft systems.
+Current FAA information on UAS.
+Fact Sheet - Unmanned Aircraft Systems, March 2015.
+AC 91-57A - Model Aircraft Operating Standards, September 2015.
+
+JARUS
+
+Current information on JARUS
+
+ISASI
+
+Unmanned Aircraft System Handbook and Accident/Incident Investigation Guidelines - International Society of Air Safety Investigators (ISASI), January 2015.
+
+Other
+
+ACRP Report 144 - Unmanned Aircraft Systems (UAS) at Airports: A Primer, K. Neubauer et al. (US Transportation Research Board), September 2015.
+Flight Safety in the Drone Age: Safety Guidance for Manned Aircraft Pilots Operating in the Presence of Drones, Aviators Model Code of Conduct, June 2016.
+A safety analysis of remotely piloted aircraft systems, 2012-2017, by the ATSB, 2017
+Final Report for the FAA UAS Center of Excellence Task A4: UAS Ground Collision Severity Evaluation, April 2017
+
+
+
+
+
+Categories
+
+
+Unmanned Aerial Systems
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,153 @@
+COSPAS-SARSAT
+
+
+
+
+
+
+
+
+
+
+
+  COSPAS-SARSAT
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+COSPAS-SARSAT is a satellite-based monitoring system that detects and locates emergency beacons. Professional operators then notify search-and-rescue (SAR) authorities. The beacons comply with internationally agreed standards for radio communication and identification of beacon owners.
+COSPAS is an acronym for the Russian words "Cosmicheskaya Sistema Poiska Avariynyh Sudov", which translates to "Space System for the Search of Vessels in Distress". SARSAT is an acronym for Search And Rescue Satellite-Aided Tracking.
+The system consists of:
+
+Emergency beacons that transmit the distress signals;
+Satellites that detect the distress signals;
+Ground receiving stations that receive and process the satellite signals to generate distress alerts; and
+Mission Control Centers (MCCs) that receive the alerts and forward them to SAR bodies.
+
+The emergency beacons supported today must operate at 406 MHz (processing of 121.5/243 MHz signals by COSPAS-SARSAT ceased on 1 February 2009). They can be used by:
+
+Aircraft - The aviation community refers to them as Emergency Locator Transmitters (ELTs);
+Ships - The maritime community refers to them as Emergency Position-Indicating Radiobeacon Stations (EPIRBs) or Ship Security Alert System (SSAS). The latter are designed and used in an effort to strengthen maritime security.
+People - Often used by hikers and others in remote regions, these are called Personal Locator Beacons (PLBs).
+
+Two types of satellite constellations serve COSPAS-SARSAT:
+
+A geostationary orbiting search and rescue (GEOSAR) constellation that consists of SAR instrument packages aboard four geostationary satellites that orbit the Earth at an altitude of 36,000 km over the equator. Their orbit period is 24 hours, thus they appear fixed in space relative to the Earth. A single geostationary satellite provides coverage of about one third of the globe, except for polar regions. The GEOSAR satellites, equally spaced in longitude, can provide continuous coverage between approximately 70 degrees north and 70 degrees south latitude. The main advantage of the GEOSAR system is that the instrument packages aboard the satellites can provide almost immediate alerting due to its broad footprint.
+The LEOSAR (low earth orbit search and rescue) system consists of four low earth orbit (LEO) satellites in near north-south polar orbit. The orbit period is about 120 minutes. LEOSAR complements GEOSAR because it:
+
+Provides excellent coverage of the polar regions (which are beyond the coverage of geostationary satellites);
+Accurately calculates the location of beacons transmitting distress signals using Doppler processing techniques; and
+Is less susceptible to obstructions that may block a beacon signal in a given direction because the satellite is continuously moving with respect to the beacon.
+
+
+
+The development of the Medium-altitude Earth Orbiting satellite system for Search and Rescue (MEOSAR) started in 2004, with SAR repeaters placed on the satellites of the Global Navigation Satellite Systems (GNSS) of Europe (Galileo), Russia (Glonass) and the USA (GPS). Once fully operational, the MEOSAR system is expected to offer the advantages of both the LEOSAR and GEOSAR systems without their limitations by providing transmission of the distress message and independent location of the beacon, with near-real-time worldwide coverage. Other enhancements are also planned, such as a return-link-service (RLS) transmission to a distress beacons that would provide, for example, a confirmation that the distress message has been received.
+There are two types ground stations (Local User Terminals or LUTs) that receive the satellite signals: those that are designed to operate with the LEOSAR satellite constellation are referred to as LEOLUTs, and those that operate with the GEOSAR satellite constellation are referred to as GEOLUTs. LEOLUT and GEOLUT operators are expected to provide the SAR community with reliable alert and location data, without restriction on use and distribution.
+The MCCs are set up in most countries operating at least one LUT. Their main functions are to:
+
+collect, store and sort the data from LUTs and other MCCs;
+provide data exchange within the COSPAS-SARSAT System;
+distribute alert and location data to associated Rescue Coordination Centres (RCCs) or SAR Points of Contact (SPOCs).
+
+A total of 34 MCCs are operational in 2018 with 3 more under development. A list and map of MCCs is avaliable here (external link).
+Related Articles
+
+Emergency Locator Transmitter (ELT)
+
+Further Reading
+
+COSPAS-SARSAT website
+An overview of the COSPAS-SARSAT system (external link)
+An overview of the COSPAS-SARSAT system (a presentation by the Head of Secretariat)
+An overview of the COSPAS-SARSAT system and its current status (a presentation by the Head of Secretariat)
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

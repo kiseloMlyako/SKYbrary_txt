@@ -1,0 +1,150 @@
+Autothrottle / Autothrust
+
+
+
+
+
+
+
+
+
+
+
+  Autothrottle / Autothrust
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+An Automatic Throttle, generally referred to in aviation as autothrottle or autothrust (depending upon manufacturer), is an electronic or electro-mechanical device which enables a pilot to control the thrust/power setting of the aircraft engines by selection of a specific flight profile, or parameter, rather than by controlling fuel flow via manual manipulation of the thrust/power levers.
+Discussion
+Automatic throttles, in their most rudimentary form, have been in existence since the late 1940's. The earliest models were designed to automatically adjust engine output to maintain a specified aircraft angle of attack. Over time, improvements in design and functionality enabled the autothrottle to maintain a nominated airspeed and further enhancements were eventually added to help prevent airspeed exceedances.
+Current state-of-the-art A/T systems can be used in all phases of flight, from takeoff to landing, although there are many less capable systems currently in use which cannot be engaged until the aircraft is airborne, or that must be disengaged prior to landing. In general terms, the autothrottle is controlled strategically through the Flight Management System, either by input of a Cost Index or by input of specific IAS/mach values for climb, cruise and descent, and tactically by manual selections via the Flight Control Unit (FCU) or Mode Control Panel (MCP). Likewise (and depending upon FMS capability), speed parameters for takeoff and approach can either be manually computed and entered into the FMS by the flight crew, or automatically calculated by the FMS and confirmed by pilot selection. Both the FMS speed parameters and the FCU speed selections result in corresponding Flight Director guidance and appropriate autothrottle generated thrust values. Depending upon aircraft manufacturer, the thrust levers may, or may not, physically move with A/T system changes to engine thrust output. At all times, the pilot has the option of disconnecting the A/T system and controlling the thrust/power conventionally via the control levers.
+Most autothrottle systems are designed to operate in either of two basic modes - speed mode or thrust mode:
+
+Thrust Mode - Thrust mode is generally used for takeoff, climb and descent. For takeoff, based on pilot selection, the thrust will be set to a fixed value based on rated thrust, derated thrust, or the thrust value associated with an assumed temperature (FLEX). It will remain at that setting until transition to the climb phase. In climb, the engines will be commanded by the A/T system to maintain the appropriate climb thrust value and aircraft speed will be "on the elevators", that is, the appropriate climb speed will be maintained based on aircraft pitch. For descent, the A/T will reduce the thrust to idle and speed will once again be controlled by aircraft pitch attitude. Note that, for passenger comfort, many autothrust systems have been refined to not command climb or idle thrust for a minor change in altitude and will utilise an intermediate thrust setting more appropriate to the magnitude of the change.
+
+
+Speed Mode - In speed mode, the autothrottle will adjust engine thrust to maintain the speed value commanded by the FMS, or selected by the pilot via the FCU. Most systems do not allow selection of a speed value that is outside of the aircraft speed envelope.
+
+Liabilities
+Whilst an autothrust system can greatly reduce pilot workload in virtually all phases of flight, there are some associated liabilities that can result in an undesired profile or aircraft state, especially if the A/T system is not used as recommended by the manufacturer or if pilot understanding of the autothrust and its integration with other systems and components is incorrect or incomplete. As examples:
+
+Many autothrust systems utilise height information from the Radio Altimeter to command idle thrust at the appropriate point during the landing sequence. Erroneous radio altimeter input during another phase of flight could result in an unwanted, and potentially catastrophic, reduction in thrust.
+An incomplete understanding and/or inappropriate selection of flight director/autopilot modes could result in an autothrust system response that is other than what was anticipated.
+Many manufacturers recommend selection of a specific flight director/autopilot mode or disconnection of the autothrust when moderate or greater turbulence is encountered. Failure to comply can lead to substantial airspeed excursions.
+
+Any of these circumstances have the potential to result in an undesired aircraft state and could necessitate prompt pilot intervention to avoid an exceedance or an accident.
+Accidents and Incidents
+The following Accidents and Incidents all have an autothrottle/autothrust dimension, either due to an inadequate crew understanding of the A/T functionality or to malfunction of the A/T or an associated system or component.
+
+B772, San Francisco CA USA, 2013 (On 6 July 2013, an Asiana Boeing 777-200 descended below the visual glidepath on short finals at San Francisco after the pilots failed to notice that their actions had reduced thrust to idle. Upon late recognition that the aircraft was too low and slow, they were unable to recover before the aircraft hit the sea wall and the tail detached. Control was lost and the fuselage eventually hit the ground. A few occupants were ejected at impact but most managed to evacuate subsequently and before fire took hold. The Probable Cause of the accident was determined to be the mismanagement of the aircraft by the pilots.)
+
+
+B773, Dubai UAE, 2016 (On 3 August 2016 a Boeing 777-300 rejected a landing at Dubai from the runway following a late touchdown after floating in the flare. It then became airborne without either pilot noticing that the A/T had not responded to TO/GA switch selection and without thrust, control was soon lost and the aircraft hit the runway and slid to a stop. The Investigation found that the crew were unfamiliar with the initiation of a go around after touchdown and had failed to follow several required procedures which could have supported early recovery of control and completion of the intended go around.)
+
+
+B733, vicinity Bournemouth UK, 2007 (On 23 September 2007, the pilots of a Thomsonfly Boeing 737-300 almost lost control of their aircraft after initiating a go around from an unstable low airspeed and low thrust condition reached progressively but unnoticed during an approach to Bournemouth at night. Mismanagement of the aircraft during the go around was attributed to a lack of adequate understanding of the aircraft pitch control system and led to extreme pitch and an aerodynamic stall but the crew subsequently recovered control of the aircraft and an uneventful second approach and normal landing followed.)
+
+
+B738, vicinity Amsterdam Netherlands, 2009 (On 25 February 2009, the crew of a Turkish Airlines Boeing 737-800 lost control of their aircraft on final approach at Amsterdam after they had failed to notice that insufficient thrust was being used to keep the aircraft on the coupled ILS glideslope. An attempt to recover from the resultant stall was not successful and the aircraft crashed. The Investigation concluded that a go around should have been flown from 1000 feet as the approach was already unstable and that the attempt at recovery after the stall warning was not in accordance with the applicable procedure or crew training.)
+
+
+A321, Incheon South Korea, 2013 (On 16 April 2013, an A321 sustained significant damage during a tail strike during a bounced landing which followed loss of airspeed and an increase in sink rate shortly before touchdown after an otherwise stabilised approach. The Investigation attributed the tail strike to a failure to follow the recommended bounced landing response and noted the inadequate training provided by Asiana for bounced landing recovery.)
+
+Related Articles
+
+Autopilot
+Flight Management System
+Mode Control Panel (MCP)
+Full Authority Digital Engine Control (FADEC)
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

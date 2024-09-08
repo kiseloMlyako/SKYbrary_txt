@@ -1,0 +1,322 @@
+A320, Brasilia Brazil, 2015
+
+
+
+
+
+
+
+
+
+
+
+  A320, Brasilia Brazil, 2015
+
+
+
+
+
+
+
+
+
+Summary
+
+On 8 April 2015, an Airbus A320 crew lost their previously-acquired and required visual reference for the intended landing runway at Brasilia but continued descent in heavy rain and delayed beginning a go around until the aircraft was only 40 feet above the runway threshold but had not reached it. A premature touchdown prior to the runway then occurred and the aircraft travelled over 30 metres on the ground before becoming airborne again. The Investigation was unable to establish any explanation for the failure to begin a go around once sufficient visual reference was no longer available.
+
+
+
+
+Event Details
+
+When
+
+08/04/2015
+
+
+
+Event Type
+
+
+CFIT,
+              HF,
+              WX
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+IMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS A-320
+
+
+
+
+
+
+
+
+
+Operator
+
+TAM Airlines
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Recife/Guararapes–Gilberto Freyre International Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Brasília International Airport/President Juscelino Kubitschek
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Missed Approach
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+SBBR
+
+
+
+
+General
+
+Tag(s)
+
+
+              Non Precision Approach,
+              Event reporting non compliant,
+              Copilot less than 500 hours on Type,
+              CVR overwritten
+          
+
+
+
+
+CFIT
+
+Tag(s)
+
+
+              No Visual Reference,
+              Undershoot on Landing,
+              Vertical navigation error
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Procedural non compliance
+          
+
+
+
+
+WX
+
+Tag(s)
+
+
+              Precipitation-limited IFV
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Aircraft damage
+
+Minor
+
+
+
+Non-aircraft damage
+
+Yes
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 8 April 2015 an Airbus A320 (PR-MHV) being operated by TAM on a scheduled domestic passenger flight from Recife to Brasilia struck the ground short of the destination runway landing threshold after commencing a daylight go around in IMC when the previously-acquired visual reference with the runway obtained at MDA was lost in heavy rain. The contact was transient and the subsequent climb away and subsequent approach were without further event. The 160 occupants were uninjured but the aircraft sustained main gear tyre and some minor fuselage damage and impact damage was caused to the runway threshold lighting.
+Investigation
+The occurrence was not promptly reported and its significance was “only recognised” by TAM two days later when a crew report was received prompting a review of the corresponding QAR data and in turn notification of the circumstances to the CENIPA, the Brazilian Aeronautical Accidents Investigation and Prevention Centre who classified it as a Serious Incident and began an Investigation. As a result of the delay in notification, the only relevant recorded flight data available was that on the QAR, relevant FDR and CVR data having been overwritten.
+It was noted that the Captain, who was PF for the investigated approach, had a total of 3,800 flying hours all of which - 3,800 hours - were on type. The First Officer had a total of 2,200 flying hours which included 380 hours on type.
+It was established that during the non-precision RNAV (GNSS) ‘Y’ approach to the 3200 metre-long, 45 metre-wide runway 29R, the reported visibility at the airport was 3000 metres with a 3000 foot cloud base and some towering cumulus above. Recorded flight data showed a considerable variation in detected wind velocity during the final stages of the approach although the surface wind reported a few minutes earlier had constituted a small tailwind component. Satellite data showed that at the time of the occurrence, there had been significant convective weather in the region in which the airport was situated but not in the vicinity of the airport itself. As shown in the illustration below, the clearance from terrain beneath the extended runway centreline prior to the threshold was an uphill slope.
+QAR data showed that the AP had been disconnected as the aircraft descended through the applicable MDA of 400 feet above the 3477 feet amsl threshold elevation at a time when the crew reported having had the runway in sight. The rate of descent had then been gradually increased to regain the procedure vertical profile from above but this had not been reduced when the profile was reached after light rain had started, and it continued increasingly below the profile for 7 seconds, by which time the rain had become heavy and sight of the runway had been completely lost at an undetermined point, without immediate commencement of a go around.
+A go around was eventually initiated at 60 feet agl which, given the rising terrain, was equivalent to only 41 feet above the runway threshold when still some distance from it. Flight parameters recorded at the beginning of the go around included a 600 fpm rate of descent, engine thrust at 61% and a pitch up to 6.3°. As thrust increased and the descent continued at a reduced rate, the right main landing gear initially touched down 13.3 metres before the runway threshold and the aircraft then continued for 31.5 metres “with the landing gear on the ground” striking a runway threshold light before becoming airborne again and completing the rest of the go around and repositioning to a second approach to the same runway without further event.
+
+The terrain along the extended centreline prior to the runway threshold. [Reproduced from the Official Report]
+It was noted that:
+
+according to the A320 FCTM, the height loss after initiating a go around varies between 10 and 40 feet depending on engine thrust at the time the thrust levers are moved to the TOGA position. In this respect, QAR data showed that the airspeed at this point was 9 knots below Vapp which alone would have caused a height loss greater than 10 feet.
+although the prevailing meteorological conditions were conducive to the possibility of windshear, the aircraft predictive windshear system had not activated when (according to the flight crew) it had been selected to auto, which would have allowed it to issue alerts even with the aircraft weather radar switched off. It was, however, observed that it was still possible that “a light windshear/downburst arriving at the airport area” might have increased the chances of touchdown prior to the runway threshold beyond the effects of low airspeed.
+it was likely that the gradual descent to and below the vertical profile applicable to the descent could be attributed to “the visual illusion caused by the rain on the aircraft windshield and further loss of visual contact with the runway”.
+the TAM A320 FCTM stated under the section headed “consideration about go-around” that “a go-around must be considered if […] adequate visual references are […] lost below minima”.
+
+Actual or potential Contributory Factors were identified as follows:
+
+Visual illusions (undetermined) - it is possible that the sensory impressions of the flight crew were affected by the rain during final approach so that the crew may have wrongly detected the position of the runway (vertically or horizontally) whilst they still had some visual references.
+Environmental influences (confirmed) - the flight crew lost visual contact with the runway due to reduced visibility caused by heavy rain. It is also possible that a low intensity windshear/downburst affected the aircraft flight path.
+Pilot judgment (undetermined) - it is possible that the flight crew had sought to re-establish visual contact with the runway before initiating a late go around - the crew only initiated the go around at 41 feet above the height of the landing runway threshold.
+
+Two Safety Recommendations were made as a result of the Investigation as follows:
+
+that the Brazil National Civil Aviation Agency (ANAC) encourage the operator to effectively warn their crews about possibility of visual illusions during flight in rain conditions. [IG-057/CENIPA/2015 - 01]
+that the Brazil National Civil Aviation Agency (ANAC) encourage the operator to reinforce flight simulator training on rejected landing manoeuvres in conditions similar to those during the occurrence. [IG-057/CENIPA/2015 - 02]
+
+The Final Report was completed on 19 December 2018 and published online in both Portuguese and English language versions on 15 January 2019.
+Related Articles
+
+Controlled Flight Into Terrain (CFIT)
+Missed Approach
+Go Around
+Visual References
+Non-Precision Approach
+Safety Occurrence Reporting

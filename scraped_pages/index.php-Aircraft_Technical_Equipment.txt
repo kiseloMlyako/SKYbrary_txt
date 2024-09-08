@@ -1,0 +1,170 @@
+Level Bust Prevention - Aircraft Technical Equipment
+
+
+
+
+
+
+
+
+
+
+
+  Level Bust Prevention - Aircraft Technical Equipment
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Level Bust 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Modern aircraft are equipped with technical equipment designed to help the aircraft to level at and maintain a prescribed flight level or altitude. This equipment rarely malfunctions but, if it does, the aircraft may overshoot or deviate from the cleared level, leading to level bust if the malfunction is not quickly detected.
+Altimeter
+Requirements:
+
+An operator shall not operate an aeroplane by day in accordance with VFR unless it is equipped with:
+
+a sensitive pressure altimeter calibrated in feet with a sub-scale setting, calibrated in hectopascals/millibars, adjustable for any barometric pressure likely to be set during flight;
+whenever two pilots are required the second pilot’s station shall have separate instruments as follows: ... A sensitive pressure altimeter calibrated in feet with a sub-scale setting calibrated in hectopascals/millibars, adjustable for any barometric pressure likely to be set during flight; (IR-OPS CAT.IDE.A.125&CAT.IDE.A.130),(EU-OPS 1.650)
+
+
+
+
+An operator shall not operate an aeroplane in accordance with IFR or by night in accordance with VFR unless it is equipped with:
+
+two sensitive pressure altimeters calibrated in feet with sub-scale settings, calibrated in hectopascals/millibars, adjustable for any barometric pressure likely to be set during flight; These altimeters must have counter drum-pointer or equivalent presentation.
+Whenever two pilots are required the second pilot’s station shall have ... A sensitive pressure altimeter calibrated in feet with a sub-scale setting, calibrated in hectopascals/millibars, adjustable for any barometric pressure likely to be set during flight and which may be one of the 2 altimeters required ... above. ... these altimeters must have counter drum-pointer or equivalent presentation. (IR-OPS CAT.IDE.A.125&CAT.IDE.A.130), (EU-OPS 1.652)
+
+
+
+These altimeters must be entirely independent so that the failure of any component in one system does not affect the other system. In modern flight decks the EFIS altitude displays are completely different to conventional altimeters, usually featuring a vertical altitude tape on the right hand side. Modern aircraft are also fitted with comparators which warn the pilots of any discrepancy between the output of the primary altimeters. A third independent standby altimeter is also fitted to assist in the gross resolution of any difference between the primary instruments, although this 'Standby Altimeter' is not required to be as accurate as the two principal altimeters.
+Altitude Alerter
+Altitude Alerter is described in a separate article.
+Automation
+Modern aircraft are equipped with automatic systems of various types. Automatic flight guidance (autopilot) and flight management systems vary widely between aircraft types and even between examples of the same aircraft type. Not only does equipment vary, but the underlying philosophy may differ from one system to another. Automatic systems carry out a number of complex tasks without direct pilot intervention, such as levelling the aircraft at a pre-set level and maintaining that level, or descending the aircraft to follow an instrument approach procedure. In carrying out these tasks the automatic system may adjust the aircraft power to maintain a constant speed. The safe and efficient operation of automatic systems relies on clear understanding, by the pilot, of the capabilities and the design philosophy of the equipment. Failure in this regard has resulted in several fatal accidents.
+Airborne Collision Avoidance Systems (ACAS)
+ACAS is described in a separate article.
+Terrain Avoidance and Warning System (TAWS)
+See the separate article:
+
+Terrain Avoidance and Warning System (TAWS)
+
+A&I Examples
+
+
+A343, en-route, mid North Atlantic Ocean, 2011On 22 July 2011 an Air France A340-300 en route over the North Atlantic at FL350 in night IMC encountered moderate turbulence following "inappropriate use of the weather radar" which led to an overspeed annunciation followed by the aircraft abruptly pitching up and gaining over 3000 feet in less than a minute before control was regained and it was returned to the cleared level. The Investigation concluded that "the incident was due to inadequate monitoring of the flight parameters, which led to the failure to notice AP disengagement and the level bust, following a reflex action on the controls.”
+
+A320, en-route, north of Swansea UK, 2012On 7 September 2012, the crew of an Aer Lingus Airbus A320-200 mis-set their descent clearance. When discovering this as the actual cleared level was being approached, the AP was disconnected and the unduly abrupt control input made led to an injury to one of the cabin crew. The original error was attributed to ineffective flight deck monitoring and the inappropriate corrective control input to insufficient appreciation of the aerodynamic handling aspects of flight at high altitude. A Safety Recommendation to the Operator to review relevant aspects of its flight crew training was made.
+
+BE20, vicinity Glasgow UK, 2012On 15 September 2012, the crew of a Beech Super King Air on a medevac flight making an ILS approach to runway 23 at Glasgow became temporarily distracted by the consequences of a mis-selection made in an unfamiliar variant of their aircraft type and a rapid descent of more than 1000 feet below the 3500 feet cleared altitude towards terrain in IMC at night followed. An EGPWS "PULL UP" Warning and ATC MSAW activation resulted before the aircraft was recovered back to 3500 feet and the remainder of the flight was uneventful.
+
+DH8A/DH8C, en-route, northern Canada, 2011On 7 February 2011 two Air Inuit DHC8s came into head-to-head conflict en route over the eastern shoreline of Hudson Bay in non radar Class A airspace when one of them deviated from its cleared level towards the other which had been assigned the level 1000 feet below. The subsequent investigation found that an inappropriate FD mode had been used to maintain the assigned level of the deviating aircraft and noted deficiencies at the Operator in both TCAS pilot training and aircraft defect reporting as well as a variation in altitude alerting systems fitted to aircraft in the DHC8 fleet.
+
+A346, en route, eastern Indian Ocean, 2013On 3 February 2013, an Airbus A340 crew in the cruise in equatorial latitudes at FL350 in IMC failed to use their weather radar properly and entered an area of ice crystal icing outside the prevailing icing envelope. A short period of unreliable airspeed indications on displays dependent on the left side pitot probes followed with a brief excursion above FL350 and reversion to Alternate Law. Excessive vibration on the left engine then began and a diversion was made. The engine remained in use and was subsequently found undamaged with the fault attributed to ice/water ingress due to seal failure.
+
+A321, en-route, near Pamplona Spain, 2014On 5 November 2014, the crew of an Airbus A321 temporarily lost control of their aircraft in the cruise and were unable to regain it until 4000 feet of altitude had been lost. An investigation into the causes is continuing but it is already known that blockage of more than one AOA probe resulted in unwanted activation of high AOA protection which could not be stopped by normal sidestick inputs until two of the three ADRs had been intentionally deactivated in order to put the flight control system into Alternate Law.
+
+B738, en-route, Arabian Sea, 2010On 26 May 2010, a Boeing 737-800 being operated by Air India Express on a passenger flight from Dubai UAE to Pune, India was in the cruise at night at FL370 near PARAR when a sudden high speed descent occurred without ATC clearance during which nearly 7000 feet of altitude was lost in a little over 30 seconds before recovery was made. The remainder of the flight was uneventful. Despite the abnormal pitch, pitch change and  g variation, none of the 113 occupants had been injured.
+
+
+
+
+Further Reading
+EUROCONTROL Level Bust Toolkit:
+
+Level Bust Briefing Note Ops 4 - Aircraft Technical Equipment;
+
+EASA:
+
+IR-OPS CAT.IDE.A.125 & CAT.IDE.A.130 Flight and Navigational Instruments and Associated Equipment
+IR-OPS SPA.RVSM.110 RVSM Equipment Requirements
+EU-OPS 1.650 and EU-OPS 1.652 - Flight and Navigational Equipment & Associated Equipment;
+EU-OPS 1.872 - Equipment for operation in RVSM airspace;
+
+
+
+
+
+Categories
+
+
+Level Bust
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

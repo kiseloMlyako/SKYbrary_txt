@@ -1,0 +1,172 @@
+High Level Ice Crystal Icing: Effects on Engines
+
+
+
+
+
+
+
+
+
+
+
+  High Level Ice Crystal Icing: Effects on Engines
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Weather 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+For a number of years, it has been apparent that the detail design of some gas turbine engines has made them vulnerable to the risk of sudden loss of engine thrust if high densities of small ice crystals are encountered in very cold air. This Ice Crystal Icing (ICI) hazard has not usually resulted in complete engine failure (although there have been such instances) but more than one engine may be affected simultaneously. The risk occurs outside of flight conditions which are currently defined by the regulatory authorities as "icing conditions" and therefore defined as such in the applicable Aircraft Flight Manual (AFM). In the light of evidence found during investigations of in-service occurrences of the phenomenon by engine manufacturers and the relative success of design modifications, which have resolved problems with particular engine types, the main regulatory agencies have been considering how to respond to this situation for a number of years now and have, at various points, issued interim operational guidance.
+Ice Crystal Icing Occurrence
+Satellite data has confirmed that areas of very small ice crystals in high concentrations exist within, and in the vicinity of, convective weather systems (whilst large scale convective systems are more likely to produce ICI this can also happen in smaller storms, just less regularly). This is most likely to occur in tropical latitudes where these systems are at their most extensive because warmer air can "hold" much more moisture, especially so when such convection occurs over the oceans where greater uptake of moisture is possible. Such strong convection produces cloud tops that, in some cases, can break through the Tropopause (Satellite evidence shows that even relatively small storms, in terms of spatial extent, can break through the tropopause). High altitude ice crystals may be present for some time after the active convection which produced them has begun to decay. They are extremely small - probably only about 40 microns in diameter - and even at high concentrations, are unlikely to be evident visually even by day. With a radar reflectivity of only about 5% of that of average-sized raindrops, they will not appear on airborne weather radar displays because the temperatures which prevail at the altitudes where they are mostly found are too low for super-cooled liquid water to survive - so that what are now termed 'glaciated conditions' exist. At lower levels though, small ice crystals can occur in the presence of some supercooled water droplets and this combination has been termed "mixed phase" conditions.
+The main risk of encountering high crystal concentrations appears to be downwind from the tops of large areas of convective cloud - the area where the visible anvil shape is seen when viewed from a distance. Overshooting tops (dome-like protrusions from the top of an anvil cloud) are an indicator that significant convection is occurring and that ICI may be a possibility.
+A clear distinction should be drawn between the high concentrations of very small ice crystals which have caused engine malfunction and the entirely different collections of larger crystals at lower densities that give rise to high level Cirrus, Cirrostratus and Cirrocumulus cloud, which are not hazardous.
+Ice Crystal Icing Effects
+High altitude ice crystals will not adhere to the external airframe, or protrusions from it, because these are considerably warmer than the ambient temperature as a result of kinetic heating. Therefore, their presence will not activate conventional ice detectors.
+The microphysics which underlies the potential hazard, in respect of engine malfunction, is extremely complicated and has tended to manifest itself in slightly different ways in different incidents. This is because any undesirable effect caused by the ingestion of very small ice crystals at high densities has usually been shown to have been a function of details in engine design not originally foreseen as relevant. The common feature of most investigated incidents appears to be the initial accretion and aggregation of the ice crystals on relatively warm surfaces within the forward part of an engine followed by their subsequent detachment and partial melting as they progress through the engine core. Un-commanded thrust reduction may occur because of either direct or indirect effects of this passage and, even without any effect on engine function discernible to the flight crew, engine damage can result. The sign that a significant ICI encounter is in progress has usually been seen in a gradual reduction in engine rpm and a simultaneous rise in EGT. Thrust lever movement becomes ineffective and engine ‘rollback’ may continue until a sub-idle condition is reached. Other incidents attributed to ICI have arisen when a disrupted intake airflow has created an abnormal pressure gradient in the engine core which has led to a sudden airflow reversal.
+The majority of recorded events of engine malfunction attributed to this cause have occurred during the early stages of descent from high altitude with thrust reduced to Fight Idle. Recorded events in the cruise have usually followed a progressive build up of ice during a much longer period of exposure to high crystal densities than has appeared to be required to cause effects in the flight idle/descent case. However, it has sometimes been challenging to identify where the ice accretion actually occurred since any effects will not necessarily occur whilst the accretion is still continuing and it appears that the glaciated conditions at an intensity to cause problems occur in relatively small 'pockets'.
+It is currently being suggested that such localised areas of high ice crystal density have up to 8 grams per cubic metre of Ice Water Content (IWC) compared to the current engine design standard for super cooled liquid water which is only 2 grams per cubic metre. In this respect, the effect which these ice encounters appear to have had on engine function represents a new challenge rather than a failure to meet existing reliability standards.
+Ice Crystal Icing Avoidance
+Apart from following guidance provided in Aircraft Flight Manual (AFM) and / or the Operations Manual, the best way of way to avoid high concentrations of very small ice crystals is the effective use of the aircraft weather radar to ensure that significant convective activity at altitudes below typical jet aircraft cruise levels is detected and the assumption then made that at the levels above this should be avoided. When particular susceptibility to ICI is known, deviation by more than the typically-recommended margin of 20 nm from all areas where large convective cells are present is advisable. Where particular engine types have been identified as at risk pending modification, a distance of 50 nm from such areas is usually recommended.
+
+Avoid flying over the anvil of a Cumulonimbus cloud. Image from wikicommons.
+This tactical strategy can be supported by considering the ICI risk when reviewing meteorological forecasts at the pre flight planning stage. Since there will not be any forecast of areas to avoid specifically because of an ICI risk, the probability that it is likely to be a feature of all large convective systems in tropical latitudes, especially those over oceanic or coastal areas, should be the assumption. Operationally, the best advice should be provided in the Aircraft Flight Manual (AFM) and / or the Operations Manual. However, subject to any specifically applicable requirements or guidance, it is currently considered that the use of a thrust setting above Flight Idle during initial descent from high cruise altitudes in the tropics is a sensible precaution.
+A number of clues to the presence of ice crystals at densities with the potential to affect engine function have been deduced from past events and include:
+
+An air temperature significantly in excess of the corresponding International Standard Atmosphere temperature.
+
+
+The presence of some turbulence but rarely more than at light-to-moderate intensity.
+
+
+Areas of heavy rain detected on weather radar below the freezing level.
+
+
+The appearance of St Elmo's Fire on the flight deck windscreens.
+
+
+The appearance of small droplets of moisture on the flight deck windscreens - the result of impacting ice crystals being melted on contact with heated screens.
+
+
+Transient failure of the TAT annunciation due to ice crystal accretion within the pitot probe /head which exceed the capacity of the heating system.
+
+
+The absence of airframe icing.
+
+Accidents and Incidents
+Many of the incidents involving engine malfunction attributed to high level ICI have been investigated, primarily by engine manufacturers, in order to find out whether the redesign of some detail feature of their engine is required to prevent repetition. For various reasons, relatively few have been independently investigated in accordance with the principles of ICAO Annex 13. Some of these include:
+
+B752, en-route, Central Mauritania, 2010: On 25 August 2010, a Boeing 757-200 on a passenger flight from Freetown Sierra Leone to London Heathrow was in the cruise at night in IMC at FL370 when vibration levels on both engines increased. When the prescribed ice shedding drill was followed, one engine malfunctioned and vibration on the other remained abnormally high and so a MAYDAY was declared and a diversion to Nouakchott, Mauritania was made without further event. None of the 103 occupants were injured and there was no engine damage.
+A346, en route, eastern Indian Ocean, 2013: On 3 February 2013, an Airbus A340 crew in the cruise in equatorial latitudes at FL350 in IMC failed to use their weather radar properly and entered an area of ice crystal icing outside the prevailing icing envelope. A short period of unreliable airspeed indications on displays dependent on the left side pitot probes followed with a brief excursion above FL350 and reversion to Alternate Law. Excessive vibration on the left engine then began and a diversion was made. The engine remained in use and was subsequently found undamaged with the fault attributed to ice/water ingress due to seal failure.
+
+Related Articles
+
+Cumulonimbus (Cb)
+Tropopause
+Supercooled Water Droplets
+Icing Certification
+Aircraft and In Flight Icing Risks
+In-Flight Icing
+
+Further Reading
+
+Hazardous Weather Phenomena: High Ice Water Content, ATSB Australia, 22 Jan 2015
+"Ice Particle Threat to Engines in Flight" Mason JG Strapp JW & Chow P Paper presented to 44th AIAA Meeting 2006
+"Engine Power Loss in Ice Crystal Conditions" - Boeing Aero Magazine Q4/2007
+Weather Conditions Associated with Jet Engine Power-loss and Damage Due to Ingestion of Ice Particles: What We've Learned Through 2009 by M. L. Grzych and J. G. Mason, Boeing, presented at the American Meteorological Society 14th Conference on Aviation, Range, and Aerospace Meteorology 2010
+Avoiding Convective Weather Linked to Ice-crystal Icing Engine Events, by M. L. Grzych, Boeing Aero Magazine Q1/2010
+A Description of Convective Weather Containing Ice Crystals Associated with Engine Power loss and Damage Presentation by the Boeing Company with acknowledgment to W G Strapp (Environment Canada) presentation to the 2006 AAIE Meeting on “Ice Particle Threat to Engines in Flight”
+Current Perspectives on Jet Engine Power Loss in Ice Crystal Conditions: Engine Icing by J. Mason, Boeing, presented at the Aircraft Icing Research Alliance Research Implementation Forum (RIF) held on 23 June 2009 at San Antonio, TX
+An Overview of NASA Engine Ice-Crystal Icing Research by H. E. Addy Jr. and J. P. Veres (NASA Glenn) presented at the SAE-sponsored International Conference on Aircraft and Engine Icing and Ground Deicing in June 2011 – published November 2011
+The Ice Crystal Weather Threat to Engines by J. Mason, Boeing - a presentation to an SAE Meeting in August 2007
+
+
+
+
+
+Categories
+
+
+Weather,
+              Icing
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

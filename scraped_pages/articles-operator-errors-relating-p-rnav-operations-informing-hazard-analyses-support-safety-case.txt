@@ -1,0 +1,169 @@
+Operator Errors relating to P-RNAV operations - informing hazard analyses in support of safety case development
+
+
+
+
+
+
+
+
+
+
+
+  Operator Errors relating to P-RNAV operations - informing hazard analyses in support of safety case development
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Request for Support Message
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Purpose
+The purpose of this Request for Support message (RFS) is to gather instances of operator errors relating to Precision Area Navigation (P-RNAV) STARs, transitions and SIDs that can inform the hazard analyses needed to support the development of local Safety Cases for the introduction of P-RNAV operations. This will ensure the appropriate mitigations are put in place.
+Synopsis
+Evidence considered so far has shown that operator errors (such as aircraft flying the wrong P-RNAV SID) dominate the occurrence reports within National and European (e.g. EVAIR) databases. This RFS seeks further experiences (e.g. identified hazards, reported/recorded deviations, corrective actions, mitigations, best practices etc.) from ANSPs and Aircraft Operators.
+Regulatory Requirements & Guidance
+Overall, it is expected that P-RNAV operations will be acceptably safe subject to the implementation being undertaken with due reference to the following:
+
+JAA TGL 10, Rev1, Airworthiness and Operational Approval for Precision RNAV Operations in Designated European Airspace, dated Feb 05 (for P-RNAV equipage and operational approval).
+
+
+ICAO
+
+Doc 8168-OPS/611 (including requirements for obstacle and terrain clearance).
+Doc 7030/4 - Regional Supplementary Procedures, EUR Region (for ATC and aircrew requirements in respect of P-RNAV).
+Doc 9613 Performance Based Navigation (PBN) manual (3rd edition 2008) Vol 2 part B.
+
+
+
+
+EUROCONTROL
+
+NAV.ET1.ST10, Guidance Material for the Design of Procedures for Area Navigation, Edition 3.0, March 2003.
+EUROCONTROL Safety Argument for Precision RNAV (P-RNAV) in Terminal Airspace (Version 3.2, May 2008), Appendix A.
+
+
+
+Support Requested
+Whilst it may be assumed that the above requirements and guidance have been applied, there may be instances where the assumptions made are found to be incorrect, or additional causal factors have not been considered.
+Air navigation service providers and aircraft operators are kindly requested to provide details of instances of:
+
+Operator errors relating to the use of P-RNAV operations in both TMA and En-route airspace.
+(Note: NATS is also studying the feasibility of extending P-RNAV to En route airspace as part of its cooperation with the Functional Airspace Block Europe Central (FABEC) project).
+
+Equivalent experiences from other applications of Performance Based Navigation such as:
+
+RNP0.3,
+RNAV (GNSS) Baro VNAV Approach,
+General RNAV NPAs (i.e. LNAV only) etc.
+
+
+
+Further Reading
+
+SKYbrary Article - Area Navigation
+EUROCONTROL - Navigation Domain
+
+Summary of Responses
+A total of 10 responses with comments were received: 3 ANSPs, one aircraft operator association, 5 aircraft operators (AO) and one aircraft manufacturer. In addition 8 ANSPS (including one military) provided a ‘nil return’ indicating that they had not yet begun implementation of P-RNAV operations.
+Although the returns show that P-RNAV is not yet widespread, it has provided a limited amount of information that may be useful for later implementation. It is intended to analyse further the information received and if appropriate to include it in the SKYbrary Hazard Log which is currently being developed.
+Analysis:
+
+FMS use Policy Differences In one airline it is company policy for pilots to use the FMS which subsequently means that due to FMS/aircraft performance the aircraft cannot accurately maintain the published SID profile (turns in early). The mitigation adopterd was to work with the ANSP to change design of the SID. On the other hand, another aircraft operator recognises that SID design is not compatible with FMS operation and so uses manual flying techniques (in the knowledge that they are inherently less accurate than FMS).
+
+
+Noise Abatement Noise abatement has a strong influence on SID design and subsequent AO operations. Not a safety issue per se but environmental constraints are a significant factor.
+
+
+Mixed Conventional/P-RNAV Ops One aircraft operatore reported that sometimes it is necessary to use a mix of ‘conventional’ and PBN techniques in the same flight profile, often switching between them. Such ‘mixed’ operations should be avoided.
+
+
+Aeronautical Information The importance of the procedures being properly and accurately described in relevant aeronautical information is highlighted by one ANSP.
+
+Disclaimer
+© European Organisation for Safety of Air Navigation (EUROCONTROL) November 2010. This alert is published by EUROCONTROL for information purposes. It may be copied in whole or in part, provided that EUROCONTROL is mentioned as the source and to the extent justified by the non-commercial use (not for sale). The information in this document may not be modified without prior written permission from EUROCONTROL. The use of the document is at the user’s sole risk and responsibility. EUROCONTROL expressly disclaim any and all warranties with respect to any content within the alert, express or implied.
+
+
+
+
+Categories
+
+
+Request for Support Message
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

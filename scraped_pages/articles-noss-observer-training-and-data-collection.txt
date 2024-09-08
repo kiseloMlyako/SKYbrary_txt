@@ -1,0 +1,185 @@
+NOSS Observer Training and Data Collection
+
+
+
+
+
+
+
+
+
+
+
+  NOSS Observer Training and Data Collection
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Safety Management 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ ICAO
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Note: This article is entirely based on the draft ICAO NOSS Manual.
+ 
+General
+According to the International Civil Aviation Organisation (ICAO) Normal Operations Safety Survey (NOSS) manual, the observer training usually takes no more than five consecutive days and is done in a group. The training is typically provided by the NOSS facilitator and/or the project manager. The first two days are spent in a classroom environment. Test observations (including report writing) are done on day three and day four. On day five the facilitator provides feedback to the individual observers about the content of the reports they have provided. After this feedback the observers normally are ready to conduct their actual observations. During the first “solo” observations the facilitator may continue to provide feedback to observers as and when required.
+Observer Preparation
+The ICAO NOSS manual suggests that the classroom training typically comprises (but is not limited to) the following:
+
+An overview of the NOSS methodology;
+An explanation of where NOSS fits in the safety management activities of the organisation;
+A detailed explanation of the Threat and Error Management (TEM) (TEM) framework;
+Case studies to improve the understanding of the components of the TEM framework;
+An explanation of the observation reporting forms including the code books for threats, errors and undesired states;
+Examples of “good” and “poor” narratives in the reporting forms;
+An explanation of the observation protocol, including “stop rules”;
+Assignment of the locations and/or positions that will be observed to individual observers;
+Communication arrangements with the facilitator and/or the project manager during the observation period;
+Logistical details for observer travel and accommodation (if applicable).
+
+The training of the observers consists of two main elements:
+
+Background Knowledge: This element concentrates on the knowledge of TEM required to conduct fruitful NOSS observations and provides instruction on how to use the observation tool to produce observation reports. Each element should be covered repeatedly to ensure a full understanding of the NOSS process and objectives. Without a solid theoretical knowledge of the TEM principles and NOSS processes, observers will struggle during the observation phase, which in turn will significantly affect confidence and motivation and, consequently, data quality.
+Practical Observation Skills: This element provides training in the practical skills required to conduct useful observations. The skill training to support the observers should include, but not be limited to, the following:
+
+how to request an observation and how to deal with refusals;
+how to appear unobtrusive;
+how to take notes;
+how to answer questions;
+stop rules;
+observation duration;
+time management to complete observations and associated write-ups.
+
+
+
+Guidelines
+In order to ensure that ATC operations during NOSS observations be as close to “normal” as possible, it is essential that the observers be as unobtrusive as they can be when in the operations room or tower. This means that observers should avoid discussions with the staff on duty (to the extent of not being perceived as unsociable or impolite) and should not comment on what they see. They should also not take extensive notes or fill out any type of forms during the observations. All of these and similar activities will make a particular session less normal than if the observer were not present and are therefore not desired.
+NOSS Forms
+After conducting an observation, the observers fill out a structured form to summarize the events that occurred during the observation. The information recorded on this form should convey what was seen to readers who were not present during the observation, and should consist of factual statements. The use of evaluative or judgemental expressions should be avoided. Observation reports should be written up immediately after conducting the observation, at a location other than where the observation was conducted. Care should be taken to avoid writing any information in the observation report that could be used to identify the individuals who were controlling traffic during the observation(s).
+Use of Code
+In the worksheets the observers assign codes to the threats, errors and undesired states they record. According ICAO NOSS manual, these codes are to be provided in the code books together with the worksheets. The NOSS code books are living documents, i.e. new items and codes are added to the existing lists as more NOSS experience is gained over time.
+Codes for threats exist at three different levels. The observers use the “event description” code, which is the lowest level available. Once the analyst starts entering the codes from multiple observations in a database, the grouping into “threat types” and “threat categories” will become apparent. These are respectively the middle and highest level of codes available.
+Based on the feedback from the observers, the NOSS facilitator and analyst may have to assign new “event description” codes for threats, errors and/or undesired states that are unique to a particular ATC facility. The integrity of the NOSS coding is preserved by adhering to the main types and categories when assigning new codes.
+The Narrative
+The most important part of the observation report is the narrative. If the observer provides a rich narrative, any other weaknesses in the observation report can be overcome by extracting information from the narrative. The narrative must provide the contextual information about what occurred during the observation.
+The narrative should tell the “story of the observation” in an objective manner. Judgemental interpretations and language should be avoided. Rather, observers should describe what they observed and only what they observed.
+The narrative must speak to all of the threats, errors and undesired states observed during the course of the observation. Three pieces of information should be provided for each threat, error and undesired state in the narrative:
+
+Description. A description of each threat, error and undesired state should be given.
+Response. The observer should indicate how/if the event was either detected/acted upon and what action, if any, was taken to manage the situation
+Outcome. How was the event resolved? What impact did the event have on operations?
+
+In addition to providing the above information on all threats, errors and undesired states, the observer should provide additional contextual information that may be relevant. Such information may not qualify as threats, but may serve as a general update to the traffic picture. Airlines or aircraft types should be identified which could help identify trends or sources of threat.
+Narratives are best written using short paragraphs with frequent use of time stamps to allow the reader to locate logged threats, errors and undesired states within the narrative. Time stamps also allow the reader to sequentially follow the events that occurred during an observation.
+The logged threats, errors and undesired states should form the core of the narrative. The narrative should then provide additional contextual information that is descriptive in regard to the TEM components. Furthermore, there may be additional contextual information unrelated to TEM components that could aid the reader's global understanding of what was occurring in the working environment during the observation.
+Data De-Identification
+The observers must not record the names of the individuals at the working positions in the operational environment where the NOSS is conducted. All that is to be recorded is the name of the sector or position that is observed and the start and end times of the observation. The observation form that the observer fills out may contain a code number by which the facilitator can identify the observer, but the observer's name must not be recorded on the form. This guarantees that other persons who see the forms (e.g. during data verification) will not know who wrote the form or who was working the position at the time of the observation.
+Observer Team Strategies
+The support provided to the observers during NOSS takes many forms. Some support is achieved through direct person-to-person contact and reassurance. In other instances support is achieved through more indirect means, e.g. skill training or administrative backup. To gain a better understanding of the support required for a successful NOSS, it is useful to look at some of the more specific forms support may take.
+The NOSS facilitator or the data analyst should constantly monitor the quality of the data in the observation reports received, as well as look for any sensitive issues that may need to be dealt with that observers may have failed to directly notify to the project manager or NOSS facilitator. The analyst in particular should frequently ascertain that the incoming data provide sufficient information so that an informative and representative report can eventually be produced.
+Conducting NOSS observations and completing rich observation reports over an extended period requires a very high level of observer motivation and dedication. The motivation element must be continually fostered and nurtured throughout the process. The leadership and interpersonal skills of the project manager (and NOSS facilitator) are key to achieving positive results in this area.
+Overall the responsibility for supporting the observers and maintaining their motivation throughout the observations falls on the project manager. The project manager should act as a mentor and provide channels for open and honest two-way communications with the team. The project manager should be responsive to the observers’ needs and act quickly to resolve any issues. Sound planning and preparation are the key elements in making a NOSS successful and productive. Well-supported and motivated observers are the key to a successful end result.
+Related Articles
+
+NOSS
+NOSS Operating Characteristics
+Preparing for NOSS
+NOSS Data Verification
+NOSS Results
+
+Further Reading
+ICAO
+
+Draft ICAO NOSS Manual;
+
+EUROCONTROL
+
+EUROCONTROL Guidelines for TRM Good Practices, 18 March 2015.
+
+To comment and suggest improvements to this article, click here.
+
+
+
+
+Categories
+
+
+Safety Management,
+              SM Methods and Tools
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

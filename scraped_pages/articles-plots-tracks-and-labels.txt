@@ -1,0 +1,167 @@
+Plots, Tracks and Labels
+
+
+
+
+
+
+
+
+
+
+
+  Plots, Tracks and Labels
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+Plot. A target report resulting from digital integration of the received echoes (PSR) or replies (SSR) inside the antenna beamwidth. The PSR report contains range and bearing information whereas the SSR report contains in addition Mode 3/A identity code and the Mode C decoded altimeter height value.
+Track. A target report resulting from the correlation, by a special algorithm (tracking) of a succession of radar reported positions for one aircraft. The report normally contains smoothed position and speed vector information.
+Source: EUROCONTROL
+Labels associated with displayed targets are used to provide, in alphanumeric form, relevant information derived from the means of surveillance and, where necessary, the flight data processing system.
+Source: ICAO Doc 4444 PANS-ATM
+Plots
+Plots are obtained from surveillance data using a plot extractor. This is a device (or an algorithm) that processes the raw data from a surveillance sensor. The plot extractor needs to distinguish target data (aircraft) from:
+
+ground clutter (terrain, buildings, etc.)
+weather clutter (clouds, precipitation, etc.)
+other objects (e.g. flocks of birds)
+noise (internal and external)
+
+Depending on the sensor plots can be primary (coming from a PSR), secondary (coming from an SSR/MLAT) or combined (when a primary and a secondary plot are considered to be from the same aircraft).
+Primary plots provide only 2-D position information (unless the radar has the ability to determine the level of the targets but this is rarely the case in civilian ATS). Secondary plots add SSR code and aircraft level (if mode C information is available).
+Tracks
+The process of combining plots into a track is called tracking. Plots from consecutive scans are examined, and if the required criteria are matched, they are declared by the system to have come from the same aircraft. Thus, tracks are created. They can be:
+
+primary, secondary or combined, depending on the sensor used.
+mono- or multiradar, depending on the number of sensors used.
+
+In monoradar tracking, data from a single radar is used to create tracks. In multiradar tracking, tracks coming from different sensors are combined (averaged) so that a single track is output for each target. The multiradar track has the advantage of being more reliable. It should be noted, however, that the position of the track on the situational display does not represent the actual position of the aircraft but is result from approximation and averaging. Consequently, the distance between two tracks is in most cases not the same as the actual distance between the aircraft.
+Tracks provide additional information:
+
+machine speed (an approximation of groundspeed, calculated from the difference of plot positions). Available for all tracks.
+vertical speed (calculated from the difference of Mode C readouts in consecutive plots). Only available for secondary and combined tracks.
+history (the positions of previous plots). Available for all tracks.
+predict vector (extrapolated future position based on the assumption that the aircraft will continue to fly straight ahead and maintain ground speed). Available for all tracks.
+
+ATM procedures sometimes depend on the sensor that provides information about a particular track. For this reason, different symbols are used to represent e.g. primary tracks, secondary tracks, tracks that are obtained from a particular radar, ADS-B tracks, etc.
+
+Examples of different track symbols: 1 - primary, 2 - secondary, 3 - combined, 4 - ADS-B. Note that these are not intended to represent any real life system.
+Labels
+Labels can be attached to both plots and tracks but plot labels contain less information. When correlated with a flight plan, track labels contain much more information and become more interactable (i.e. the controller is able to input the clearances issued to the aircraft). Also, CPDLC is generally performed using the fields in the correlated label. Note that flight plans are only correlated with tracks and not plots.
+Labels can be moved around so that they do not overlap. Some systems have automated decluttering feature that tries to rearrange the labels without controller input.
+The contents of the label depend on the ATS system design but some common principles are followed:
+
+Labels need to be concise, i.e. contain all important information while at the same time are not superfluous. These requirements are somewhat exclusive which is usually solved by having two versions of the label - simple (basic information) and extended (full information). Switching between the two requires little effort from the controller (e.g. hovering the cursor over a simple label converts it into an extended one and moving the cursor away auto-shrinks it). The most common shape is a rectangle consisting of several rows (usually between 2 and 5). Each row contains one or more data fields.
+ICAO Doc 4444 requires that the label includes information relating to the identity of the aircraft (e.g. the SSR code or the callsign). This information is usually presented in the top row, and in the leftmost data field (if there is more than one of those).
+Labels are associated (connected) with their position indications in a manner that makes it easy for the controller to understand which track the information refers to. This is an ICAO Doc 4444 requirement. It is usually met by linking the label and the corresponding track symbol using a line called "leader line".
+ICAO Doc 4444 requires that level information (pressure-derived) is displayed, if available. It may be obtained from a Transponder and/or from Automatic Dependent Surveillance Broadcast (ADS-B). In addition, information for climb or descent is provided in most cases in the form of an arrow next to the level information.
+While SSR codes may not be visible at all times, clear indication that emergency codes (7500, 7600, 7700) are selected is presented on the situational display. This may either be done by displaying the codes themselves or by a short warning message (usually above) the aircraft label. Dedicated colour (e.g. red) may be used to highlight the code/message or the entire label to draw the controller's attention.
+Correlated labels may be presented in different colours to help the controller build and maintain situational awareness. Examples of this may be the labels of aircraft on the frequency, those who are expected to enter area of responsibility (AoR), those that have been instructed to contact the next sector (or unit), the ones that are passing near, but are not going to enter, etc.
+Labels for flights on the frequency usually have interactable fields so that controllers can use these to store and retrieve information about the instructions given and also to facilitate coordination between controllers or CPDLC communication. Examples of such fields are cleared level, estimated level at the AoR boundary, heading, speed or vertical speed instructions, direct route clearance, etc. These may vary considerably from system to system, both as availability and as position in the label.
+Important procedure-related information is often added, e.g. the aircraft RVSM status, wake turbulence category, RNAV capability, etc.
+
+
+Example of a track and an aircraft label, containing callsign, current Flight level, climb indicator (arrow), Ground speed, Cleared flight level and eXit flight level. The picture is for illustration purposes only and is not intended to represent any real life system.
+Related Articles
+
+Radar
+Mode S
+Radar Identification
+Correlation
+
+Further Reading
+
+ICAO Doc 4444 PANS-ATM
+
+
+
+
+
+Categories
+
+
+General,
+              Loss of Separation
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

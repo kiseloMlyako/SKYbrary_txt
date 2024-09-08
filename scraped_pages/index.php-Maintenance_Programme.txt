@@ -1,0 +1,142 @@
+Maintenance Programme
+
+
+
+
+
+
+
+
+
+
+
+  Maintenance Programme
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Airworthiness 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ Cranfield University
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ Cranfield University
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Maintenance programme is a document containing the maintenance requirements/tasks that need to be carried out on an aircraft in order to ensure its continuing airworthiness.
+Description
+The maintenance programme must be produced for each aircraft type by the operator (AOC Holder) and subsequently approved by the NAA. For commercial air transport (CAT) and large aeroplanes with MTOW above 13000 Kg, the maintenance programme is initially developed based on the Maintenance Review Board Report (MRBR) and Maintenance Planning Document (MPD).
+However, as the MRBR for such aircraft is developed based on MSG-3 logic, the operator must monitor the effectiveness of its maintenance programme(s) by developing and running a Reliability Programme. This requires the collection of item removal rate and failure data, plus analysis to identify trends and/or substantiate assumptions. This will lead to the resolution of reliability issues by taking effective corrective actions, such as amendments to the maintenance programme to alter task frequencies. Therefore, over a period of time, an operator’s maintenance programme evolves based on its own operational experience. In terms of the actual work program, each package of work is prepared based on:
+
+Flight program, i.e. schedule of the operator
+Maintenance program requirements – the approved maintenance schedule
+Routine work
+Component change
+Nonroutine work (deferred defects)
+Modifications and special inspections
+
+Content of Maintenance Programmes
+Maintenance programmes and schedules will give a list of tasks, with intervals quoted in units of flight hours, flight cycles or calendar time. These will be determined according to hard time, on-condition or condition monitoring criteria. The operator will use a maintenance schedule to suit its own operations, based on either a Block (Pyramid) system or Equalised (Progressive) system.
+In Block (Pyramid) maintenance, often denoted by letter checks A, C and D, an example illustration might be having one set of basic tasks done at, say 200hrs. Then another set of tasks could be added at first multiple of this basic interval, say 400 hours, then another at 600, 800 hours, etc. Hence, as the hours increase, the number of required tasks also increases. Block (Pyramid) maintenance may suit long-haul carriers and/or older aircraft which can be scheduled for longer on the ground. Benefits include fixed preparation and completion times, a reasonably low variability in workload, and fixed content, planning and control.
+Disadvantages include the relatively large gaps between checks, and potential uneven loading for staff and other resources. The aircraft may also be out of service for long periods.
+In the case of the Equalised (Progressive) system, checks are shorter and equal in size, but are carried out more frequently. Sometimes these are referred to as E checks, but the tasks are the same, but packaged differently. For example, D check work could be "equalised" into C checks, e.g. C1, C2, C3, C4, which are progressively deeper inspections/ component replacements.
+Equalised (Progressive) system may suit short-haul, low-cost carriers and/or newer aircraft that do not want or need their aircraft to be out of service for long periods of time. Many types of check are short enough to be carried out overnight when the aircraft is not required.
+Benefits include the equalisation of resources, and the workload for maintenance personnel is more constant. Disadvantages include additional cost, as work to access the aircraft may need to be repeated, and also the issue of “emergent work” that perhaps cannot be quickly remedied on discovery.
+Caution
+Sometimes operators use reliability data to justify the escalation of task intervals within the maintenance programme. This is perfectly acceptable as the escalation process requires statistical evidence based on factual data collected from operational experience. However, maintenance task escalations related to critical systems or components must be scrutinised from a system safety point of view. System design must be reviewed carefully and risk-based decisions must be made to avoid catastrophic failure. An Alaska Airlines MD-83 crash in Jan. 2000 [NTSB, 2002], which was due to a failed stabiliser jackscrew, is a typical example of how such maintenance tasks escalations crucially affect airworthiness of the aircraft.
+Related Articles
+
+Airworthiness
+Continuing Airworthiness
+Check
+
+Further Reading
+
+EC, Commission Regulation (EU) No 1321/2014 of 26 Nov 2014 on the continuing airworthiness of aircraft and aeronautical products, parts and appliances, and on the approval of organisations and personnel involved in these tasks (external link)
+FAA, FAR 121.367 Maintenance, preventive maintenance, and alterations programs (external link)
+FAA, FAR 121.374 Continuous airworthiness maintenance program (CAMP) for two-engine ETOPS (external link)
+Maintenance Briefing Notes: Maintenance Documentation by Airbus
+Maintenance Briefing Notes: Maintenance during aircraft storage by Airbus
+
+
+
+
+
+Categories
+
+
+Airworthiness
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

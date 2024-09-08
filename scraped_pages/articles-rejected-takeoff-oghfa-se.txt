@@ -1,0 +1,221 @@
+Rejected Takeoff (OGHFA SE)
+
+
+
+
+
+
+
+
+
+
+
+  Rejected Takeoff (OGHFA SE)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+OGHFA 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ Flight Safety Foundation
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 The Accident as a Situational example
+You are flying a three-engine passenger airplane on a scheduled trans-pacific flight. At takeoff, the weather is good with visibility up to 30 mi, no rain and wind at 3 kt. The flight is 75 min late due to a mechanical problem on the no. 2 engine thrust reverser. In the absence of fault correction capability, the airplane is dispatched with the thrust reverser disabled, per the airline’s minimum equipment list (MEL).
+You are cleared for takeoff as you are taxiing towards the runway, via a 45-degree-angle taxiway at 15-17 kt. As you enter the runway, you advance the power levers rapidly to the takeoff power setting of 112 percent N1. The second officer calls out “Thrust set” when the airplane accelerates to 95 kt. The first officer calls out “V1” at 164 kt, and approximately 2 sec later, there is a loud and startling bang, followed by the airplane shuddering with severe vibrations.
+What's your reaction?
+You call for a rejected takeoff and retard the power levers. The first officer advises the tower that the takeoff is rejected, and the second officer deploys the spoilers manually, activating the autobrakes as the airplane reaches a top speed of 175 kt.
+Realizing the airplane will not stop before the end of the runway,
+What’s your next move?
+You turn slightly to the right in order to avoid colliding with centerline approach lights further down. The airplane leaves the runway at approximately 40 kt and rolls over wet ground. The nose wheel collapses, and the airplane comes to a stop in a nose-down attitude roughly 120 m (395 ft) after the end of the runway.
+What do you decide then?
+You order passenger evacuation over the public address system after confirmation from the tower that there is no sign of fire around the airplane. Some passengers are slightly injured during the evacuation. The airplane has suffered damage in the nose-wheel area as well as on the engine intakes that are resting on the ground.
+
+2 Data, Discussion and Human Factors
+
+2.1 Flight crew aspects
+Performance data are part of the certification of any airplane. Part of these data relate to takeoff performance and, in the case of this accident, to V1 -- the engine-failure recognition speed.
+V1 is defined as the maximum speed at which the rejected takeoff maneuver can be initiated and the airplane stopped within the remaining runway length. Specifically, the definition of V1 in the U.S. Federal Aviation Administration Federal Aviation Regulations (FARs) considers that the engine failure must be recognized and the pilot's initial stopping action to reject the takeoff must be taken by V1. If the pilot’s stopping action is initiated at a speed higher than the runway-length-limited V1, there will be insufficient runway to stop the aircraft.
+Another aspect of this certification performance is the engine-out, accelerate-go criterion, which also references V1 speed. In this scenario, V1 is the earliest point from which an engine-out takeoff can be continued safely.
+In April 1993, the FAA released a publication entitled Takeoff Safety Training Aid and a flight-crew briefing video entitled Rejected Takeoff and the Go/No Go Decision. They state that a takeoff should not be rejected once the airplane has passed V1 unless the pilot concludes that the airplane is unsafe to fly.
+The FAA/industry analysis of the 74 rejected takeoffs that resulted in overruns indicates that a number of these involved crew uncertainty about the ability of the airplane to fly, as well as unidentifiable loud bangs, vibrations and other characteristics that were later assessed to be indications of engine stall or engine failure.
+Another study involving benign engine malfunctions and inappropriate crew responses indicated that the majority of these engine-plus-crew-error events involved engine malfunctions that generated loud noise.
+The effect of time compression associated with those phases of flight with high workload such as takeoff seems to be a significant factor that affects crew action following an engine problem. The time needed to process and integrate all the inputs — the auditory, tactile and visual cues associated with engine malfunctions in a time-constrained environment — may be so reduced that it leads to inappropriate flight crew response. Another factor cited was the high reliability of today's turbine engines, which means many flight crews will complete their careers without experiencing an engine failure.
+In this example, a Takeoff Performance System (TPS) software tool was used to calculate takeoff performance based on the airport and runway conditions, weather and aircraft loading. The tool also provides flight crews with the operational parameters for the takeoff, including engine power and flap settings, the critical engine failure recognition speed (V1), rotation speed (VR), takeoff safety speed (V2), and flap and slat retraction speeds.
+The tool calculated that maximum power was required for the takeoff, with the following parameters: engine speed of 110.4 percent N1, flap setting of 16 degrees, V1 of 164 kt, VR of 175 kt, V2 of 187 kt, flap-retraction speed of 203 kt, and slat-retraction speed of 255 kt. This information was entered on the takeoff data card, and the speeds were set on the airspeed bugs.
+The captain, knowing that one of the thrust reversers was not available, chose instead to take off using black power — a higher-thrust setting provided by the TPS — because it would provide additional runway for stopping in a rejected takeoff.
+The investigation report analysis showed the loud bang occurred 2.2 sec after the V1 call. The captain called the reject 1.3 sec later. His first action to reject the takeoff, retarding the power levers, occurred at 4.3 sec after the V1 call and as the aircraft was accelerating through 172 kt. The autobrake system activated 6.1 sec after V1 when the second officer manually deploying the spoilers. The thrust reversers were selected 3.5 sec after the power levers were retarded, and the reverse levers were pulled into reverse 11.1 sec after the V1 call.
+The captain's decision to reject the takeoff was based on the fact that he did not recognize the initial sound and following thumping noises, and that he thought the bang could have been a bomb, was concerned about the aircraft’s ability to fly. The captain's understanding was that an engine failure would not be enough of a reason to initiate a rejected takeoff after V1. In this case, however, he did not see or perceive indications or hear advice from the other crewmembers that an engine failure had occurred. Also, the loud bang was neither similar to any compressor stall symptom that he knew about nor similar to sounds that he had heard in training or experienced during actual flying.
+The only procedural guidance available in this case is when "the captain believes that the aircraft has suffered catastrophic failure and will not fly." According to the captain, his action was probably also influenced by a fatal accident that he had witnessed and that resulted in his mental rule of thumb that if structural failure were suspected, he would not take the aircraft into the air.
+When the captain decided to reject the takeoff, it was his correct belief that, because they were using some specific power figures, the aircraft would have reached the 164-kt V1 earlier, and that there would be additional runway available for the reject.
+Additionally, the wording contained in the airline’s manual, that a "further 3 seconds is allowed until full braking with spoiler actuation is attained," may be ambiguous in that it implies that some time beyond V1 was available for the pilot's initial reaction.
+The captain indicated that the time delay between retarding the thrust levers and selecting reverse thrust was caused by another crew member callout, which interrupted his thought process. The crew reported being extremely startled by the suddenness and intensity of the loud bang, and none of the crew members recognized the origin of the sound.
+The memory checklist items for rejected takeoff procedure were described in the airline airplane flight crew operating manual as follows:
+
+Captain commands "Reject"
+Captain retards throttles to idle, immediately selects full reverse thrust and observes or applies maximum antiskid braking
+First officer monitors airspeed, applies slight forward pressure on the control column, and maintains wings level. The second officer announces the status of reverse thrust, verifies that auto spoilers have activated and monitors engine instruments. He extends manual ground spoilers if required.
+Captain maintains directional control. He moves reverser levers to reverse idle detent, then to forward idle position when a safe stop is assured.
+First officer advises tower of rejected takeoff and requests assistance, if required.
+
+
+
+
+ 
+Fig 1. Sequence of takeoff events
+
+
+The captain called “reject” 1.3 sec after the loss of power and initiated the associated action 0.8 sec later by retarding the power levers to idle as the aircraft was accelerating through 172 kt 7,300 ft along the runway. The flight engineer, noting that lights indicating that the thrust reversers were deploying had not come on, called "No reverse" and immediately moved the spoiler handle back. As a result, the spoilers were deployed and the autobrake system activated. At this point, the aircraft had accelerated to 175 kt and was 7,850 ft down of the runway, and 3,150 ft from the end.
+Reverse thrust power was applied as the aircraft was decelerating through 140 kt, 1,850 ft from the end of the runway.
+The autobrake began applying pressure 1.8 sec after the captain pulled the power levers back to idle. This activation of the autobrake was the direct result of the flight engineer manually deploying the spoilers when he noted the thrust reversers had not been selected. The thrust reversers were not deployed until 3.5 sec after the power levers were retarded. The brake pedals were not used by the crew during the rejected takeoff.
+Although the Abnormal Procedures checklist current at the time of the accident did not call for immediate manual activation of the spoilers, the flight engineer’s actions to do so, in accordance with airline standard operating procedures (SOPs), greatly reduced the amount of overrun. The engine maintenance records indicated that the three engines on the aircraft had been maintained in accordance with the manufacturer's recommendations;
+
+2.2 Organizational aspects
+Because of financial pressures, all sections of the airline had been driven to find ways to reduce costs. In the maintenance department, a 30 percent decrease in budget required centralizing many of the maintenance functions and reducing staff and middle management. However, the dispatch reliability and use of the MEL have remained relatively constant, and the engine maintenance records indicated that the three engines installed on the airplane had been maintained in accordance with the manufacturer's recommendations.
+For this flight, the aircraft was being operated with two MEL item limitations:
+1. Pneumatic Pressure Regulator Valve: Because the pneumatic pressure regulator valve on no. 3 engine would not shut off when selected, the valve had been locked in the "OFF" position
+2. Thrust Reverser/Fan Reverser: Because the thrust reverser on the no. 2 engine would not stow properly after landing on the previous flight, the thrust reverser had been locked out.
+The dispatch of the aircraft with these two unserviceable items was permitted by the airline’s procedures.
+An engine condition monitoring program was developed by the engine manufacturer to track engine health to provide for early fault detection. The manufacturer also published guidelines for engine parameter trend monitoring. Adherence to trend-monitoring guidelines is not mandatory, and each operator is advised to establish its own reporting and analysis procedures and alert levels for parameter shifts. The manufacturer does not specify urgency or how much time should be taken to complete the analysis of the trend data. The process is rather cumbersome as it takes from two-and-a-half to four days from the time the readings are taken in the aircraft until the results are analyzed by the maintenance division.
+The no.1 engine had a history of rising then falling exhaust gas temperature (EGT). The last three entries in the system show a drift upward by 9 degrees toward the baseline, and the most recent data, analyzed after the accident, indicated that the upward trend had reached 27 degrees, and that the high EGT was accompanied by increases in fuel flow and engine core speed (N2). In that case, the engine manufacturer and airline procedures recommend an immediate borescope inspection of the high-pressure compressor and low-pressure turbine. At that time, the airline had not correlated a trend shift with an impending engine failure.
+The procedures used by the airline were not fast enough to have the information on the previous day's flight available for analysis by the powerplant engineering group before the airplane involved in the accident took off. The safety board was unable to identify any problems associated with any lack of crew coordination.
+Because there were no other factors that would have adversely affected the performance, the investigation indicated that, at the time of the engine failure, the airplane would have been able to continue the takeoff and get airborne safely with only two engines operating.
+Had the simple prevention strategies and lines of defense discussed below been followed to avoid interrupting the takeoff after V1, decision making would have been improved, SOPs would have been followed and the incident could possibly have been avoided.
+
+3 Prevention Strategies and Lines of Defense
+Although the crewmembers were all very experienced and had taken simulator and ground training throughout their careers, they did not recognize the loud bang produced by the stall on no.1 engine for what it was, probably for the following reasons:
+
+None of the crewmembers had ever experienced such a compressor stall
+There was no information in operational and training manuals or in other guidance material on the symptoms of large-fan engine stalls
+Current simulator and ground training do not provide this knowledge.
+
+Crew errors at takeoff are often associated with engine failures that create loud noises.
+Few resources are available to flight crews to aid in the quick identification of engine failure conditions. There is currently very limited flight crew training for positive recognition and correct identification of engine failure conditions — noises, vibrations, and other cues of real engine failures are not simulated in the vast majority of flight simulators.
+Improve crew knowledge on compressor stalls or surges for high bypass ratio engines
+The wording in the operator’s Flight Crew Operating Manual was misleading in the sense that it implies some time beyond V1 is available before the pilot needs to initiate the rejected takeoff. Given the potential for pilots to misinterpret the definition of V1 in the manual, and given the potential for adverse consequences as a result of rejecting a takeoff after V1 in a field-length-limited context, the regulatory agency forwarded a Safety Advisory to the airline. The advisory suggested amending the definition of V1 in the manual and reviewing the V1 definition in other pilot reference materials, including those for other operators’ aircraft.
+Engine failure must be recognized and the pilot's initial action to reject the takeoff must be taken by V1
+The Decide - Checklist expands upon these prevention strategies and lines of defense.
+Since the accident, the operator has taken steps to enhance the speed of its engine trend monitoring data processing. The Aircraft Communications and Reporting System (ACARS) is now used to relay flight data to ground stations. The new procedures require flight crews to transmit engine readings to the ground when they are recorded. This upgraded system provides near-real-time acquisition, processing, and evaluation of the engine trend monitoring data.
+
+4 Summary of Key Points
+This accident was preventable if the flight crew had recognized it was subject to compressor stall at takeoff. Addressing human factors issues in situations such as rejected takeoff conditions requires concentrating on these key activities:
+
+Airplane is committed to take off once V1 is reached in the context of a field-length-limited takeoff
+Be sensitive to the possibility of experiencing error potentially associated with never-seen-before situations
+Work together as a team to reach appropriate decisions, taking into account the operational facts of the situation
+Manage pressures, stress and distractions due to unexpected events or unusual and infrequent circumstances.
+Adherence to SOPs supports overall safety.
+
+
+5 Additional OGHFA Material
+Briefing Notes:
+
+Stress and Stress Management
+Decision-Making
+Threat Management Training
+Organizational Threat Management
+
+Visual:
+
+Stress Management
+
+Checklist:
+
+Decide - Checklist
+
+ 
+6 Additional Reading Material
+FAA publication
+
+Pilot Guide to Takeoff Safety
+
+Related Skybrary Articles
+
+Rejected Take Off.
+
+
+
+
+
+Categories
+
+
+OGHFA,
+              Situational Examples,
+              Human Factors
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

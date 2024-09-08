@@ -1,0 +1,300 @@
+Meteorological Aerodrome Report (METAR)
+
+
+
+
+
+
+
+
+
+
+
+  Meteorological Aerodrome Report (METAR)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Weather 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Meteorological Aerodrome Report (METAR), also known as Meteorological Terminal Aviation Routine Weather Report, Meteorological Terminal Air Report or Meteorological Airfield Report is a format for reporting weather information.
+The World Meteorological Organisation (WMO) describes METAR as the aerodrome routine meteorological report.
+The US Federal Aviation Administration (FAA), the US National Oceanic and Atmospheric Administration (NOAA), and the UK Met Office all describe a METAR as aviation weather report.
+Discussion
+The elements of these messages are normally given in the order below. Some elements or groups may be omitted when they are not needed or do not apply:
+Code Name
+The indicator group e.g. METAR, SPECI, or TREND as appropriate. Where a number of METARs are issued in the same bulletin, this, along with a date time group may be in the bulletin header.
+Location
+The ICAO indicator of the reporting station eg. EGLL.
+Date/Time of Report
+The day of the month and the time of the observation in hours and minutes UTC e.g. 191350Z.
+AUTO
+The optional code word AUTO indicates that the report has been generated using data from an automated observing system.
+Surface Wind
+The mean wind direction in degrees true to the nearest 10 degrees, from which the wind is blowing and the mean wind speed in knots over the 10 minute period immediately preceding the observation e.g. 35015KT = 350 degrees true/15 kts; VRB05KT = variable/5 kts; 00000 = CALM. If gusts exceed the mean wind speed by 10kts or more in the 10 minutes preceding the time of the report, a letter G and 2 more figures are added to indicate the maximum wind speed e.g. 23018G30KT = 230 degrees true/18 kts gusting to a maximum of 30 kts. Reports may express wind speed in metres per second ('MPS) or Kilometres per hour (KPH). Winds greater than 100 kts or more shall be preceded by the letter P and reported as P99KT or P99MPS or P199KPH.
+Visibility
+Reported in a four figure group (e.g. 0400 = 400 metres; 8000 = 8 km) up to but excluding 10 km; 9999 = 10km or more; 0000 = less than 50 metres visibility.
+Runway Visual Range (RVR)
+
+Aerodromes may include a letter indicator R followed by the runway designator, a"/" and the touchdown zone RVR in metres, e.g. R06/0400. If the RVR is assessed on 2 or more runways simultaneously then the RVR group will be repeated.
+Parallel runways will have L, C, or R added to the runway designator e.g. R24L/1100.
+If the RVR is greater than the maximum value that can be measured, P will precede this value e.g. R24L/P1500.
+If the RVR is less than the minimum value that can be measured , M will precede this value e.g. R24L/M0050.
+If RVR trends can be measured then U, D, or N will follow the RVR value to indicate increasing, decreasing or no change respectively.
+
+Weather
+Weather is indicated by up to 3 groups comprising symbols and letters from the following:
+
+
+
+- = slight
++ = Heavy
+BC = Patches
+BL = Blowing
+
+
+BR = Mist
+DR = Low Drifting
+DS = Dust Storm
+DU = Widespread Dust
+
+
+DZ = Drizzle
+FG = Fog
+FC = Funnel Cloud (e.g. Tornado)
+FU = Smoke
+
+
+FZ = Freezing
+GR = Hail
+GS = Small Hail
+HZ = Haze
+
+
+IC = Ice Crystals
+MI = Shallow
+PL = Ice Pellets
+PO = Dust Devils
+
+
+RA = Rain
+SA = Sand
+SG = Snow Grains
+SH = Shower
+
+
+SN = Snow
+SQ = Squall
+SS = Sandstorm
+TS = Thunderstorm
+
+
+VA = Volcanic Ash
+VC = In the vicinity (nearby)
+UP = Unidentified Precipitation
+RE = Recent
+
+
+
+e.g - FZDZ = Slight Freezing Drizzle; + SHRASN = Heavy Shower of Rain and Snow; REUP = Recent Unidentified Precipitation.
+Cloud
+Cloud amount is reported as FEW = few (1-2 oktas), SCT = scattered (3-4 oktas), BKN = broken (5-7 oktas) or OVC = overcast (8 oktas), followed by the height of the cloud base in hundreds of feet above aerodrome elevation e.g. SCT018 = scattered clouds at 1800 ft.
+Selection of cloud layers reported is made as follows:
+
+The lowest Layer;
+The next lowest layer of SCT or more;
+The next higher layer of BKN or more;
+Significant convective cloud (CB or TCU) if not already reported.
+
+Sky obscured is given as VV followed by the vertical visibility in hundreds of feet. When the vertical visibility has not been measured, the group will be VV///.
+When there are no clouds of operational significance to report, no CB or TCU and CAVOK is not appropriate, the abbreviation NSC (No Significant Cloud) is used.
+Note: In GAMET forecasts, heights can also be specified AMSL.
+CAVOK
+The Visibility, Cloud, and Weather groups are replaced by the term CAVOK (cloud and visibility OK) when the following conditions exist simultaneously:
+
+Visibility is 10km or more.
+No CB or TCU and no cloud below 5000 feet or Minimum Sector Altitude (MSA) (whichever is the greater).
+No significant weather at or in the vicinity of the aerodrome.
+
+Temperature
+Air temperature and dewpoint are reported in whole degrees Celsius, e.g. 10/07 = Temperature 10°C/ Dew point 7°C.
+QNH
+QNH is stated to the nearest whole hectopascal (equivalent to a millibar) rounded down and preceded by the letter Q e.g. Q1013 = QNH 1013 Hectopascals.
+Recent Weather
+Significant recent weather observed in the period since the last routine observation will be reported by using the code letters for weather preceded by the letters RE e.g. RETS = Recent Thunderstorm.
+Wind Shear
+In a METAR, civil aerodromes may include wind shear if reported along the take off or approach paths in the lowest 1600 ft with reference to the runway. WS is used to begin the group, e.g. WS TKOF RWY20. If the wind shear is affecting all runways, WS ALL RWY is reported.
+Aerodrome Colour State
+UK military and USAFE aerodromes will include the abbreviated colour state at the end of the message and ad the forecast colour state after the TREND.
+Runway State Group (RSG)
+NOTE: The RSG is omited from the METAR since the introduction of the new SNOWTAM format in 2021. However, this information is still included in some states (e.g. Russia).
+An 8-figure group which may be added to METAR from civil aerodromes.
+
+Runway designator (first two digits)
+
+
+27 = Rwy 27 or 27L
+77 = Rwy 27R (50 added to the designator for "right" runway)
+88 = All runways
+99 = repetition of the last message as no new information received.
+
+Runway Deposits (third digit)
+
+
+0 = Clear and dry
+1 = Damp
+2 = Wet or water patches
+3 = Rime or frost covered (depth normally less than 1mm)
+4 = Dry snow
+5 = Wet snow
+6 = Slush
+7 = Ice
+8 = compacted or rolled snow
+9 = frozen ruts or ridges
+/ = type of deposit not reported (e.g. due to rwy clearance in progress)
+
+Extent of runway contamination (fourth digit)
+
+
+1 = 10% or less
+2 = 11% to 25%
+5 = 26% to 50%
+9 = 51% to 100%
+/ = not reported (e.g. due to rwy clearance in progress)
+
+Depth of Deposit
+
+the quoted depth is the mean of a number of readings or, if operationally significant, the greatest depth measured.
+
+00 = less than 1mm
+01 = 1mm etc
+to
+90 = 90mm
+91 = not used
+92 = 10cm
+93 = 15cm
+94 = 20cm
+95 = 25cm
+96 = 30cm
+97 = 35cm
+98 = 40cm or more
+99 = Rwy(s) non-operational due to snow, slush, ice, large drifts or runway clearance, but depth not reported.
+// = depth of deposit operationally not significant or measurable.
+
+Friction Coefficient or Braking Action (seventh and eighth digits)
+
+The mean value is transmitted or, if operationally significant, the lowest value, e.g.:
+
+28 = friction coefficient 0.28
+38 = friction coefficient 0.38
+or
+91 = Braking action: Poor
+92 = Braking action: Medium/Poor
+93 = Braking action: Medium
+94 = Braking action: Medium/Good
+95 = Braking action: Good
+99 = Figures unreliable (e.g. if equipment has been used which does not measure satisfactorily in slush or snow.)
+// = Braking action not reported (e.g. runway not operational; aerodrome closed; etc.)
+Note: If contamination conditions cease to exist, the abbreviation CLRD is used, e.g.
+
+24CLRD93 = Rwy 24 cleared; Braking action: Medium/Good
+88CLRD95 = All rwys cleared; Braking Action: Good
+TREND
+TREND forecasts are indicated by BECMG (Becoming) or TEMPO (temporary) which may be followed by a time group (hours and minutes UTC) preceded by one of the letter indicated FM (from), TL (until), AT (at)
+e.g. BECMG FM1030 TL1130
+NOSIG replaces the TREND group when no significant changes are forecast to occur during the 2 hour forecast period.
+To indicate the end of significant weather the abbreviation NSW (No Significant Weather) is used.
+Only those elements for which a significant change is expected should be included in a TREND.
+Further Reading
+
+AC 00-45H - Aviation Weather Services, FAA, 14 Nov 2016.
+
+
+
+
+
+Categories
+
+
+Weather,
+              Weather Risk Management
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,132 @@
+Area Minimum Altitude (AMA)
+
+
+
+
+
+
+
+
+
+
+
+  Area Minimum Altitude (AMA)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Controlled Flight Into Terrain 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ Flight Safety Foundation
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+The minimum altitude to be used under instrument meteorological conditions (IMC), that provides a minimum obstacle clearance within a specified area, normally formed by parallels and meridians.
+Source: ICAO Doc 8168 PANS-OPS, Vol. 1
+Description
+Area minimum altitude (AMA), sometimes referred to as minimum off-route altitude (MORA) provides minimum obstacle clearance above all obstacles in the area. Normally this means 2000 ft over high terrain or in mountainous areas and 1000 ft otherwise but different figures can be specified by the competent authority. While the ICAO definition allows for different sizes and shapes of the area, the most common format used is a 1-degree quadrilateral, i.e. the area between lattitude X and X+1 and longitude Y and Y+1 (e.g. between 35 and 36 North and 27 and 28 East). The AMA is maked on charts using two digits, usually one larger and one smaller. The larger one represents the thousands of feet and the smaller one is for the hundreds. For example, 42 means 4200 feet.
+By definition, AMA is only applicable to IMC. VFR flights (in VMC) may be planned and executed at lower levels.
+
+An example of an en-route chart, containing AMA information. Note that no AMA information is printed for quadrilaterals that contain only water surface. Some charts use the value of 10 (1000 ft) in such cases
+
+Sometimes higher values are prescribed over the sea, as in this case - 15 (i.e. 1500 ft)
+As seen from the examples above, flying near the egde of a quadrilateral may mean that the applicable AMA may be subject to a sudden and steep change.
+Related Articles
+
+Minimum Sector Altitude (MSA)
+Minimum Safe Altitude (MSA)
+Minimum En-route Altitude (MEA)
+Minimum Obstacle Clearance Altitude (MOCA)
+Terminal Arrival Altitude (TAA)
+Altimeter Temperature Error Correction
+Mountainous Terrain Escape Routes
+
+Further Reading
+
+EUROCONTROL Terrain and Obstacle Data Manual, November 2015
+
+
+
+
+
+Categories
+
+
+Controlled Flight Into Terrain,
+              General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

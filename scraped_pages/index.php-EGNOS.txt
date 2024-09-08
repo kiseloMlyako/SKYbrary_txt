@@ -1,0 +1,138 @@
+European Geostationary Navigation Overlay Service (EGNOS)
+
+
+
+
+
+
+
+
+
+
+
+  European Geostationary Navigation Overlay Service (EGNOS)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+The European Geostationary Navigation Overlay Service (European Geostationary Navigation Overlay Service (EGNOS)), is a satellite-based augmentation system (SBAS), providing both correction and integrity information about the Global Positioning System (GPS) system, delivering opportunities for Europeans to use the more accurate positioning data for improving existing services or developing a wide range of new services.
+EGNOS uses a ground-based monitoring network to enable corrections to the Global Positioning System (GPS) signals to be calculated and broadcast by Geo-Stationary satellites. This will correct for errors caused by the ionosphere or errors in the broadcast signal itself enabling higher accuracy and improved integrity monitoring when compared with GPS alone.
+Correction data
+As a satellite navigation augmentation system, EGNOS improves the accuracy of GPS by providing a positioning accuracy to within three metres. By comparison, someone using a GPS receiver without EGNOS can only be sure of their position to within 17 metres.
+Integrity message
+EGNOS also provides verification of the system’s integrity, which relates to the trust that can be placed in the correctness of the location information supplied by the navigation system. In addition, it provides timely warnings when the system or its data should not be used for navigation. Integrity is a feature which meets the demands of safety-critical applications in sectors such as aviation and maritime, where lives might be endangered if the location signals are incorrect.
+Infrastructure
+EGNOS’ infrastructure consists of three geostationary satellites over Europe and a network of ground stations. Since it is based on GPS, the EGNOS signal does not require major changes to receivers. Today, many GPS receivers available on the market are also EGNOS enabled. The development of EGNOS arose from a tripartite agreement between the European Space Agency (ESA), the European Commission (EC) and Eurocontrol, the European Organisation for the Safety of Air Navigation. It is the precursor to GALILEO, the global navigation satellite system (GNSS) being developed by the European Union. EGNOS and Galileo are now part of Europe’s GNSS programmes managed by the European Commission.
+EGNOS Services
+
+Open Service: The service is provided free of charge without any guarantee or resulting liability. It is open for use to anyone with an EGNOS-enabled satellite navigation receiver. This can be any receiver compatible with satellite-based augmentation systems. The Open Service was launched on 1 October 2009.
+Safety-of-life Service: EGNOS provides a valuable integrity message warning the user of any malfunction of the GPS signal within six seconds. This integrity message is essential when satellite navigation is used for applications where lives are at stake. The EGNOS Safety-of-life Service was certified for civil aviation in 2011.
+EGNOS Data Access Service (EDAS): this service offers ground-based access to EGNOS data through the Internet on a controlled access basis. EDAS allows users to plug into EGNOS ground infrastructure to receive the data collected, generated and delivered by the EGNOS system. In this way, EDAS delivers EGNOS data to users who cannot always view the EGNOS satellites (such as those in urban canyons) or to support a variety of other value added services, applications and research programmes.
+
+VNAV/Baro-VNAV
+Certain SBAS equipment is now able to display vertical guidance on published RNAV(GNSS) approaches. Whilst having vertical guidance available may be an advantage, pilots are reminded that many RNAV(GNSS) approach procedures are Non-Precision Approaches or with Barometric Vertical guidance only. Therefore, despite the availability of Advisory Vertical Guidance, the published minimum descent altitudes associated with LNAV minima and the missed approach procedures must be adhered to.
+Related Articles
+
+Global Positioning System (GPS)
+GALILEO
+Global Orbiting Navigation System (GLONASS)
+
+Further Reading
+
+UK CAA Information Notice IN-2011/46: "European Geostationary Navigation Overlay Service (EGNOS) Safety of Life Service"
+Guidelines for ANSP/Airports and Aircraft Operators for LPV implementation, ESSP, September 2015
+EGNOS HOW TO: Become compliant with European requirements for RNP APCH operations to LPV minima, ESSP, November 2016
+EASA Safety Information Bulletin 2011-03: "Advisory Vertical Guidance"
+EGNOS website
+EGNOS on (ESA) Navipedia. (Note: SKYbrary cannot confirm the extent to which ‘Navipedia’, as an external site, is regularly updated)
+
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

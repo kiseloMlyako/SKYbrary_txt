@@ -1,0 +1,299 @@
+Energy Management During Approach
+
+
+
+
+
+
+
+
+
+
+
+  Energy Management During Approach
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Runway Excursion 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ The Air Pilots
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+The flight crew’s inability to assess or to manage the aircraft’s energy condition during approach is often cited as a cause of unstabilised approaches. Crews should appreciate that fatigue will increase the likelihood that they will have difficulty in detecting that an approach is going outside normal parameters.
+Either a deficit of energy (low and/or slow) or an excess of energy (high/fast) may result in an approach-and-landing incident or accident involving one of the following:
+
+Loss of control;
+Landing before reaching the runway (Undershoot on landing);
+Hard landing;
+Tail strike; or,
+Runway overrun.
+
+These safety occurrences can result from one or more of the following factors:
+
+Excessive sink rate
+Incorrect flare technique (late or early flare initiation etc.)
+Excessive airspeed
+Incorrect power management (inappropriate thrust on final approach (too high/too low) power-on touchdown)
+Loss of visual references
+
+Statistical Data
+The Flight Safety Foundation (FSF) Approach-and-landing Accident Reduction (ALAR) Task Force found that unstabilised approaches (i.e. low/slow or high/fast approaches) were a causal factor in 66% of 76 approach-and-landing accidents and serious incidents worldwide in 1984 through 1997.
+These accidents involved incorrect management of aircraft energy, resulting in an excess or deficit of energy, as follows:
+
+Aircraft were low/slow on approach in 36 percent of the accidents/incidents; and,
+Aircraft were high/fast on approach in 30 percent of the accidents/incidents.
+
+Aircraft Energy Condition
+Aircraft energy condition is a function of the following primary flight parameters:
+
+Airspeed and airspeed trend;
+Altitude (or vertical speed or flight path angle);
+Drag (caused by speed brakes, slats/flaps and landing gear); and,
+Thrust.
+
+One of the primary tasks of the flight crew is to control and to monitor aircraft energy condition (using all available references) to:
+
+Maintain the appropriate energy condition for the flight phase (i.e., configuration, flight path, airspeed and thrust); or,
+Recover the aircraft from a low-energy condition or a high-energy condition.
+
+Controlling aircraft energy involves balancing airspeed, thrust (and drag) and flight path.
+Autopilot modes, flight director modes, auto throttle modes, aircraft instruments, warnings and protections are designed to relieve or assist in this task so it is essential that flight crews have a thorough understanding of these modes, their potential and limitations.
+Going Down and Slowing Down
+It is important to understand your aircraft. Some modern airliners are so aerodynamically ‘clean’ (low drag) that it may not be so much a case of ‘going down and slowing down’ as ‘going down or slowing down.’
+A study by the U.S. National Transportation Safety Board revealed that maintaining a high airspeed to the outer marker (OM) may prevent capture of the glideslope by the autopilot and may prevent aircraft stabilisation at the defined stabilisation height.
+Nonetheless, ATC instructions to maintain a high airspeed to the OM (160 knots to 200 knots, typically) are common at high-density airports, to increase the landing rate. The study concluded that no airspeed restriction should be imposed by air traffic control (ATC) when within 3 to 4 nm of the OM, especially in instrument meteorological conditions (IMC).
+Energy management is the responsibility of the pilot in command (PIC) who must take into consideration the aircraft’s inertia, limitations and crew ability in the prevailing environmental conditions. Wind can play an important part. There can be a big difference in outcome between maintaining 160 knots to the marker with a 30 knots headwind and with a 20 knots tailwind. When ATC instructions are at variance with the PIC’s responsibilities and cannot be complied with, this must be communicated to ATC immediately.
+Aircraft Deceleration Characteristics
+Although deceleration characteristics vary among aircraft types and their gross weights, the following typical values can be used:
+
+Deceleration in level flight:
+
+With approach flaps extended: 10 knots to 15 knots per nm; or,
+During extension of the landing gear and landing flaps: 20 knots to 30 knots per nm and,
+
+
+Deceleration on a three-degree glide path (for a typical 140-knot final approach groundspeed, a rule of thumb is to maintain a descent gradient of 300 feet per nm/700 feet per minute [fpm])[1]:
+
+With approach flaps and landing gear down, during extension of landing flaps: 10 knots to 20 knots per nm;
+Decelerating on a three-degree glide path in a clean configuration is not possible usually; and,
+When capturing the glideslope with slats extended and no flaps, typically a 1,000-foot descent and three nm are flown while establishing the landing configuration and stabilizing the final approach speed.
+
+
+
+In some aircraft, speed brakes may allow a faster deceleration (but often the use of speed brakes is not recommended or not permitted below 1,000 feet above airport elevation or with landing flaps extended). However, the deceleration effect of all drag devices (spoilers, flaps and landing gear) becomes less effective as speed reduces.
+Typically, slats should be extended not later than three nm from the final approach fix (FAF). In all cases, aircraft should be configured for the approach being flown in accordance with the aircraft’s Flight Manual/Flight Training Manual/Operations Manual.
+The diagram below shows aircraft deceleration capability and the maximum airspeed at the OM based on a conservative deceleration rate of 10 knots per nm on a three-degree glide path.
+
+Typical schedule for deceleration on three-degree glide path from outer marker to stabilisation height - Flight Safety Foundation
+For example, in IMC (minimum stabilisation height, 1,000 feet above airport elevation) and with a typical 130-knot final approach speed, the maximum deceleration achievable between the OM (six nm) and the stabilisation point (1,000 feet above airport elevation and three nm) is:
+10 knots per nm x (6 nm – 3 nm) = 30 knots.
+
+To be stabilized at 130 knots at 1,000 feet above airport elevation, the maximum airspeed that can be accepted and can be maintained down to the OM is, therefore:
+130 knots + 30 knots = 160 knots.
+
+Whenever a flight crew is requested to maintain a high airspeed down to the outer marker (OM), a quick computation such as the one shown above can help assess the ATC request.
+Again, an understanding of the prevailing wind is important; a crosswind on the runway may be a substantial tailwind above a thousand feet.
+Back Side of the Power Curve
+During an unstabilized approach, airspeed or the thrust setting often deviates from recommended criteria as follows:
+
+Airspeed decreases below VREF; and/or,
+Thrust is reduced to idle and is maintained at idle.
+
+Thrust-required-to-fly Curve
+The diagram below shows the thrust-required-to-fly curve (also called the power curve).
+
+Thrust Required to fly a 3 degree glide path in landing configuration
+The power curve comprises the following elements:
+
+A point of minimum thrust required to fly;
+A segment of the curve located right of this point; and,
+A segment of the curve located left of this point, called the back side of the power curve (i.e., where induced drag requires more power to fly at a slower steady-state airspeed than the power required to maintain a faster airspeed on the front side of the power curve).
+
+The difference between the available thrust and the thrust required to fly represents the climb or acceleration capability.
+The right segment of the power curve is the normal zone of operation; the thrust balance (i.e., the balance between thrust required to fly and available thrust) is stable.
+Thus, at a given thrust level, any tendency to accelerate increases the thrust required to fly and, hence, returns the aircraft to the initial airspeed.
+Conversely, the back side of the power curve is unstable: At a given thrust level, any tendency to decelerate increases the thrust required to fly and, hence, increases the tendency to decelerate.
+The final approach speed usually is slightly on the back side of the power curve, while the minimum thrust speed is 1.35 times VSO (stall speed in landing configuration) to 1.4 times VSO.
+The Go-Around Decision
+It is important that if a high/low energy state approach prompts a decision to go-around, the flight crew must commit to completing the go-around and not subsequently change the decision in an attempt to land. (A change of decision is often observed when the decision to go-around is initiated by the first officer (as PF) but is overridden by the captain.)
+Runway overruns, runway overshoots, collisions with terrain and obstructions often are the consequences of decision to land after a go-around is initiated.
+The only Go Around you will ever really regret is the one that you did not do when you should have done.
+SKYclip
+
+
+
+
+
+
+
+
+
+
+
+ Read more
+
+
+
+
+Speedcontrol for final approach (SKYclip)
+
+
+
+
+
+
+
+
+
+
+Related Articles
+
+Hard Landing
+High Energy Approach Monitoring System
+Landing Flare
+Flight Safety Foundation ALAR Toolkit
+Global Action Plan for the Prevention of Runway Excursions (GAPPRE), 2021
+
+Further Reading
+DGAC (France)
+
+DGAC (France) Publications on Non-Stabilised Approaches - DGAC has published three documents in the English language related to non-stabilised approaches.
+
+Flight Safety Foundation
+
+ALAR Briefing Note 7.1 - Stabilized Approach
+ALAR Briefing Note 8.1 - Runway Excursions and Overruns
+Reducing the Risk of Runway Excursions - Report of the Runway Safety Initiative
+Runway Excursion Risk Awareness Tool
+Non-stabilized Approach After ATC-Requested Runway Change (OGHFA SE)
+Runway Overrun On Landing (OGHFA SE)
+Landing with tailwinds can produce some interesting and counter-intuitive shear effects, which give very good reason to monitor, and possibly over-ride, the actions of the auto-throttle if it is engaged. See: "Tailwind Traps", Aerosafety World article, March 2007.
+
+Airbus Safety Library
+
+Airbus Approach Techniques Briefing Note - Flying Stabilized Approaches
+Control your Speed… During Descent, Approach and Landing, Airbus Safety First Magazine, #24, July 2017
+
+HindSight Articles
+
+HindSight4 - Economy versus Safety - the Professional’s Dilemma
+
+CANSO Information Flyers
+
+Runway Excursions - An ATC Perspective on Unstable Approaches
+Avoiding Unstable Approaches - Important Tips for ATCOs
+
+Flight Data Services Case Study
+
+Case Study 6: Winglets and Low Power Approaches
+
+EASA
+
+EASA SIB 2010-33: "Flight Deck Automation Policy - Mode Awareness and Energy State Management"
+
+GAJSC
+
+Approach and Landing by General Aviation Joint Steering Committee (GAJSC) Loss of Control Work Group
+
+Boeing
+
+The first half of "Reducing Runway Landing Overruns", Boeing Aero magazine Q3/2012 is well worth reading.
+
+NASA
+
+Aircraft Loss of Control: Causal Factors and Mitigation Challenges, by S. R. Jacobson, NASA, 2010
+
+Notes
+
+^ Approximate descent rate required can be calculated from Groundspeed ÷ 2 x 10. E.g. 140kts = 700fpm and 100kts = 500fpm .
+
+
+
+
+
+Categories
+
+
+Runway Excursion,
+              Veer Off,
+              Overrun on Landing,
+              Loss of Control,
+              Controlled Flight Into Terrain
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

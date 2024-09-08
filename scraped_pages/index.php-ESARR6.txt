@@ -1,0 +1,125 @@
+ESARR6
+
+
+
+
+
+
+
+
+
+
+
+  ESARR6
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+ESARRs 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ESARR 6 - Software in ATM Systems
+Description
+ESARR 6 is a further continuation of the safety regulatory process on risk assessment and mitigation and expands ESARR4 in regard to the software aspects of the ATM system.
+The requirement concerns the implementation of software assurance systems to ensure that the risks associated with the use of software safety related ground-based ATM systems are reduced to a tolerable level. For this purpose it provides a set of harmonised safety regulatory requirements concerning the ground component of the ATM system, and the ground-based supporting services (including communication, navigation and surveillance (CNS) systems) under managerial control of the ATM service provider. ESARR 6 is not applicable to the airborne or space components of the of ATM systems.
+The requirement does not identify any software assurance standard as an acceptable means of compliance to meet its mandatory provisions. Accordingly, it does not prescribe any type of supporting means of compliance for software.
+The provisions of EASRR 6 have been developed on the bases that an a priori effective risk assessment and mitigation process is conducted to an appropriate level to ensure that due consideration is given to all aspects of ATM, including ATM functions to be performed by software.
+ESARR 6 Requirements
+ESARR 6 requires ATM service providers to implement a software safety assurance system within the framework of their safety management systems to deal specifically with software related risk assessment and mitigation aspects, including all on-line software operational changes.
+The software safety assurance system must ensure allocation of software assurance levels to all operational ATM software. These levels relate to the rigour of the software assurance and the safety criticality of the assessed software. A minimum of four software assurance levels are required, with level 1 indicating the most critical level. Software assurance levels are allocated according to the most adverse effect that software malfunctions or failures may cause, as per ESARR 4.
+ESARR 6 mandatory provisions include software validation and verification, configuration management and requirements traceability assurances within the scope of the software safety assurance system.
+Transposition into Community Law
+ESARR 6 has been transposed into European Community law by Regulation 482/2008 - Software Safety Assurance in ATM|Regulation (EC) N° 482/2008 of 30 May 2008 establishing a software safety assurance system to be implemented by air navigation service providers that was repealed by Regulation 2017/373 - Requirements for providers of ATM/ANS and other ATM network functions and their oversight in 2020.
+For more detailed informaion go to article: Transposition of ESARRs into Community Law
+Further Reading
+EUROCONTROL
+
+ESARR 6 - Software in ATM systems;
+ESARR 6 SWAL3 Compliant Software Development
+
+
+
+
+
+Categories
+
+
+ESARRs
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

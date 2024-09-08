@@ -1,0 +1,347 @@
+B744F, vicinity Maastricht Netherlands, 2021
+
+
+
+
+
+
+
+
+
+
+
+  B744F, vicinity Maastricht Netherlands, 2021
+
+
+
+
+
+
+
+
+
+Summary
+
+On 20 February 2021, a Boeing 747-400BCF engine catastrophically failed as it passed 800 feet agl after takeoff from Maastricht and an uneventful diversion to Liege followed. It was subsequently found that debris ejected from the failed engine had resulted in injury to persons and property damage on the ground. Engine failure was attributed to a previous operator of the aircraft’s failure to incorporate an optional Service Bulletin during routine maintenance and the absence of a review of this decision by the current operator. The absence of any risk assessment for third parties below a regular flight path was noted.
+
+
+
+
+Event Details
+
+When
+
+20/02/2021
+
+
+
+Event Type
+
+
+AW,
+              FIRE,
+              LOC
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 747-400 (international, winglets)
+
+
+
+
+
+
+
+
+
+Type of Flight
+
+Public Transport (Cargo)
+
+
+
+Flight Origin
+
+
+
+
+Maastricht Aachen Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+New York/John F Kennedy International Airport
+
+
+
+
+
+
+
+Actual Destination
+
+
+
+
+Liège
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Climb
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+EHBK
+
+
+
+
+General
+
+Tag(s)
+
+
+              En-route Diversion,
+              Extra flight crew (no training)
+          
+
+
+
+
+FIRE
+
+Tag(s)
+
+
+              Fire-Power Plant origin
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Loss of Engine Power
+          
+
+
+
+
+EPR
+
+Tag(s)
+
+
+              “Emergency” declaration
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Engine - General
+          
+
+
+
+Contributor(s)
+
+
+              Component Fault in service,
+              Ejected Engine Failure Debris
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Aircraft damage
+
+Minor
+
+
+
+Non-aircraft damage
+
+Yes
+
+
+
+Non-occupant Casualties
+
+Yes
+
+
+
+Occupant Injuries
+
+None
+
+
+
+Occupant Fatalities
+
+None
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Airworthiness
+Air Traffic Management
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 20 February 2021, a sudden engine failure soon after takeoff in day VMC on a Boeing 747-400BCF (VQ-BWT) being operated by Longtail Aviation on a scheduled international cargo flight from Maastricht to New York JFK as LGT5504 resulted in debris being ejected onto persons and property below. After fuel dumping, the flight diverted to Liege due to the longer runway available there without further event and arrived there an hour after taking off from Maastricht. It was subsequently found that impact from ejected engine debris had caused a serious injury to one person on the ground and a one minor injury to another as well as property damage.
+
+A view of the engine failure occurring taken from the airport. [Reproduced from the Official Report]
+Investigation
+A Serious Incident Investigation was carried out by the Dutch Safety Board (DSB). The CVR and FDR were removed and data for the complete flight was successfully downloaded. It was noted that the Captain had a total of 16,739 hours flying experience of which 9,920 hours were on type including 1,233 hours in command. The First Officer, who was acting as PF for the departure, had a total of 10,721 hours flying experience of which 7,044 hours were on type. A Loadmaster was occupying one of the flight deck supernumerary crew seats. 
+What Happened
+The takeoff performance for the departure was correctly calculated and the TOW (Take Off Weight) was within half a tonne of the maximum possible (342 tonnes). Start up, taxi out and takeoff from runway 21 were uneventful with all engine operating indications parameters normal. However, passing 800 feet agl whilst over the village of Meerssen, the crew heard “a banging sound” and were aware of the aircraft rolling and yawing slightly to the left. The No 1 engine (PW4056) EGT temperature indication was observed to be registering an exceedance and the abnormality was identified as an engine surge. Almost immediately, the engine failed. As the crew began to follow the prescribed engine fire/shutdown procedure, the runway controller advised having seen flames coming from the number 1 engine (see Figure 1). The Captain declared an emergency and informed the controller that they were shutting down the engine. 
+Having recognised that the flight could not continue to its intended destination, it was decided to divert to Liege rather than return to Maastricht due to its longer runway. Before doing so, the aircraft was climbed to FL100 and fuel dumping performed to enable a landing within the applicable Maximum Landing Weight (MLW). Once this had been achieved, the Captain took over as PF. A subsequent approach to and landing on runway 22L at Liege followed and after engine shutdown “significant damage was visible when looking forward into the engine tail pipe" (see the illustration below). Further inspection found that the high pressure turbine (HPT) had also been damaged but there was no evidence of any damage to the aircraft other than to the failed engine.
+
+Low pressure turbine (LPT) damage viewed from the engine tailpipe. [Reproduced from the Official Report]
+All debris was found within a small area on and around the runway extended centreline (see the illustration below).
+
+The area where engine debris was found relative to the runway extended centreline. [Reproduced from the Official Report] 
+The seriously injured person on the ground was struck by a piece of falling debris and fell over. Their injuries required hospitalisation and “long term medical care”. The other person received minor burns while picking up a piece of debris which was still hot. The pieces of metal collected consisted of in excess of 200 fragments from the LPT fifth and sixth stage vanes and blades of the failed engine, “some of which were of considerable size and weight” with the largest measuring 23cm by 4cm and they thus “posed a hazard to people on the ground and their property”. Property damage included to a parked car (see the illustration below).
+
+Turbine fragment impaled in car roof. [Reproduced from the Official Report] 
+Why It Happened and the Third Party Risk
+A borescope inspection of the failed engine found damage to the trailing edge of second stage HPT blades and two of its outer transition ducts had come loose and displaced into the flow path of the LPT. Multiple third stage vanes were missing and damaged from the LPT and its last two stages were missing all their turbine blades and vanes. Pratt & Whitney advised that this damage was “consistent with other outer transition ducts that had separated in the past”. This problem had been recognised over 40 years prior to this failure and several related SBs had been issued since 1993 as well as ADs “to improve the reliability of the outer transition ducts and the safe working of the engine”. The mandatory parts of these modifications were found to have been completed but the failed engine had not been modified with additional cooling features which were intended to prevent an excessive EGT but had not been mandatory. It was noted that Longtail Aviation had been using the aircraft for three months at the time of the incident and had not reviewed the implications of non-embodiment of SB 72-462 during the opportunities to action it at two routine 10 year engine overhauls in 1999 and 2009. 
+In respect of the third part risk to a residential area below an airport climb out track, it was noted that “residents are involuntarily exposed to a risk of departing engine debris that is likely higher than in other residential areas surrounding the airport”. The Investigation noted that after investigating a similar Serious Incident involving engine failure and debris shedding by a Boeing 787-8 just after taking off from Rome Fiumicino in 2019, the Italian Aviation Accident Investigation Agency ANSV had recommended that “the European Union Safety Agency (EASA) should evaluate the opportunity of revising the risk assessment related to people on ground being hit by parts dropped from aircraft considering in the most conservative way the different specific scenarios for each phase of flight for the improvement of safety (with) special attention given to people living nearby the airports (and) the results taken into account for the next certification requirements”.
+However, it was also noted that the EASA had responded that it considered the existing certification requirements were “already conservative enough to cover the risk related to people on the ground being hit by parts dropped from aircraft”.
+Three Safety Recommendations were made as a result of the findings of the Investigation as follows:
+
+that Longtail Aviation make and keep the record keeping of the (non-) implementation of Service Bulletins for leased engines of its fleet of commercial air transport aeroplanes complete and accessible.
+that the Federal Aviation Administration reconsider whether Service Bulletin 72-462, in light of third party risk, should be made mandatory through an Airworthiness Directive.
+that the Dutch Ministry of Infrastructure and Water Management performs and publishes an assessment for residential areas around Maastricht Aachen Airport of the risks of parts departing the aircraft, such as ejected engine debris.
+
+The Final Report was released on 19 April 2023.
+Related Articles
+
+Loss of Control
+Uncontained Engine Failure
+Service Bulletin
+Exhaust Gas Temperature (EGT)
+Fire in the Air

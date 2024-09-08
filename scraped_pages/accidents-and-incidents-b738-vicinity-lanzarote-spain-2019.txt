@@ -1,0 +1,292 @@
+B738, vicinity Lanzarote Spain, 2019
+
+
+
+
+
+
+
+
+
+
+
+  B738, vicinity Lanzarote Spain, 2019
+
+
+
+
+
+
+
+
+
+Summary
+
+On 25 March 2019, a Boeing 737-800 making a non-precision daylight approach to Lanzarote with line training in progress began descending below the correct approach profile shortly after visual acquisition of the runway at 10nm when a much lower altitude than specified was maintained, EGPWS ‘CAUTION TERRAIN’ and ‘TERRAIN PULL UP’ activations eventually followed. With the terrain below clearly visible, the autopilot and autothrottle were disconnected and the aircraft flown level until the correct profile was regained after which the flight was then completed without further event. The Investigation made no findings which would fully explain the procedural non-compliance involved.
+
+
+
+
+Event Details
+
+When
+
+25/03/2019
+
+
+
+Event Type
+
+
+CFIT,
+              HF
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 737-800
+
+
+
+
+
+
+
+
+
+Operator
+
+TUI Airways
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+London Gatwick Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Lanzarote
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+Yes
+
+
+
+Phase of Flight
+
+Descent
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+GCRR
+
+
+
+
+General
+
+Tag(s)
+
+
+              Copilot less than 500 hours on Type,
+              Flight Crew Training,
+              Non Precision Approach
+          
+
+
+
+
+CFIT
+
+Tag(s)
+
+
+              Vertical navigation error
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Ineffective Monitoring,
+              Procedural non compliance,
+              Ineffective Monitoring - PIC as PF
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+No
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+None Made
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 25 March 2019, a Boeing 737-800 (G-TAWA) being operated by TUI Airways on an international passenger flight from London Gatwick to Lanzarote Spain descended below the vertical profile of the non-precision approach being flown in day VMC with the landing runway in sight but EGPWS ‘CAUTION TERRAIN’ and ‘TERRAIN PULL UP’ activations followed. The aircraft was levelled until the correct profile was regained and the flight was then completed without further event.
+Investigation
+An Investigation was carried out by the Spanish Commission for the Investigation of Accidents and Incidents (CIAIAC) based primarily on QAR data.
+It was noted that the 43 year-old Training Captain was acting as PF and supervising a relatively inexperienced 34 year-old First Officer who was undergoing line training on type. The flying experience of the two pilots was not documented but it was noted that the Training Captain had been supervising line training for the operator for a period in excess of 10 years.
+The flight destination was designated as a Category ‘B’ airport by the aircraft operator which meant that a special briefing provided in the OM Part ‘C’ had to be read and understood by any pilot rostered to fly there prior to making such a flight. The surface wind favoured a landing on runway 21 for which the airport briefing was based on the VOR ‘A’ procedure which had a slightly steeper final approach angle than usual (3.7°) because of mountainous terrain it passed over. Following a suitably comprehensive briefing by the PF Captain, the flight was cleared for a “direct VOR approach to runway 21” and proceeded towards the approach intermediate fix (IF) at TUXAM (see the procedure chart below).
+On passing TUXAM in IMC, the flight began descent on the LTE 033° as per the VOR ‘A’ procedure with the AP and A/T engaged. However, midway between TUXAM and the final approach fix (FAF), the flight descended below cloud and the crew could see the landing runway and airport environment at a range of 10 nm and the intervening terrain. By this time, the aircraft was fully configured for landing with the gear down and flaps set to 30° with the FAF crossing altitude of 2800 feet QNH as the MCP selected altitude.
+When 2 nm before reaching the FAF, for which the required crossing height was 2,800 feet, the crew then changed the MCP selected altitude to 2,100 feet, this being the procedure MDA rounded up to the next 100 feet. As the aircraft approached the FAF, it was already at 2100 feet, 700 feet below the required FAF crossing altitude. The crew then reset the MCP selected altitude to 1,400 feet which was 780 feet below the MDA of 2,020 feet and as it continued its descent through 1,920 feet with 6.75 nm still to run, the crew again changed the MCP selected altitude, this time to 1,000 feet.
+After a further 1.5 nm, at 983 feet agl and with a rate of descent of 976 fpm, an EGPWS activation ‘CAUTION TERRAIN’ was annunciated. This was followed after a further half mile with the aircraft at 901 feet agl and a rate of descent of 944 fpm by a ‘TERRAIN TERRAIN PULL UP’ warning. Having verified visually that no obstacles or terrain hazards existed, the Captain disconnected the AP and A/T and levelled the aircraft until the correct vertical profile could be resumed and a landing on runway 23 subsequently occurred without further event.
+
+The VOR ‘A’ approach to Lanzarote runway 21. [Reproduced from the Official Report]
+The vertical profile actually flown compared with the correct one is shown below:
+
+The procedure and flown profiles with the on track terrain on a common vertical scale. [Reproduced from the Official Report]
+The EGPWS fitted to the aircraft was a Honeywell MK V. This system issues a “CAUTION TERRAIN” alert when an aircraft is between 40 and 60 seconds from a projected terrain impact and a “TERRAIN, TERRAIN, PULL UP” warning when an aircraft is between 20 and 30 seconds from a projected terrain impact. The aircraft operator’s OM Part ‘A’ was found to state that both of the these EGPWS activations may be regarded as cautionary and an approach continued provided that if they occur in day VMC and a positive visual verification that no obstacle or terrain hazard exists can be made.
+The Investigation found that of all the EGPWS activations recorded during approaches to Lanzarote’s single runway in 2019, 73% occurred during approaches to runway 21 despite the fact that only around 3% of all approaches are made to that runway. It was also noted that 70% of EGPWS hard warnings (PULL UP) occurred during approaches to runway 21.
+In respect of the gross failure to follow the VOR ’A’ procedure vertical profile which led inevitably to the eventual EGPWS activations, it was noted that the Lanzarote Briefing in Part ‘C’ of the OM was included in the Boeing 757/767 section. However, the Captain stated that despite this, it had been reviewed before the flight departed as required. The operator advised that the OM Part ‘C’ briefing for Lanzarote had been expanded and clarified after the investigated event to include guidance on FMC programming and a detailed guide to flying the approach (including altitude tables and distances) in the section applicable to the Boeing 737.
+In his statement to the Investigation, the Training Captain said that he had considered on reviewing it before the flight that the Company Brief on Lanzarote was “unclear”. He also said that although they had become visual with the runway at 10nm, they could also see either the approach lighting or the PAPIs which were set at the required 3.7° angle of the procedure vertical profile. He added that visual acquisition of the PAPIs had not occurred until after the EGPWS activations at about 4 nm from touchdown and attributed this partly to haze reducing in-flight visibility relative to the reported surface visibility of in excess of 10km (5.4 nm). The Captain tentatively indicated in his statement that having ignored the procedure profile check heights, his visually-referenced flying may have been predicated on the normal ILS 3° GS rather than the 3.7° profile he was required to fly. The Investigation noted that the trainee First Officer could not necessarily have been expected to fulfil a normal PM role which, had the PM been a First Officer released for unsupervised flying would have been likely to have resulted in more effective monitoring of the Training Captain’s actions as PF.
+The Cause of the investigated event was formally determined as “an incorrectly executed approach to Lanzarote Airport”.
+The Final Report of the Investigation was approved on 28 October 2020. No Safety Recommendations were made given that the aircraft operator had already taken the appropriate measures.
+Related Articles
+
+Non-Precision Approach
+Terrain Avoidance and Warning System (TAWS)
+VHF Omnidirectional Radio Range (VOR)
+Visual Approach Slope Indicator Systems (VASIS)

@@ -1,0 +1,173 @@
+Advanced Surface Movement Guidance and Control System (A-SMGCS)
+
+
+
+
+
+
+
+
+
+
+
+  Advanced Surface Movement Guidance and Control System (A-SMGCS)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Runway Incursion 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+A-SMGCS (Advanced Surface Movement Guidance & Control System) is a system providing routing, guidance and surveillance for the control of aircraft and vehicles in order to maintain the declared surface movement rate under all weather conditions within the aerodrome visibility operational level (AVOL) while maintaining the required level of safety.
+(Source: ICAO Doc 9830: Advanced Surface Movement Guidance and Control Systems (A-SMGCS) Manual)
+Description
+A-SMGCS is a modular system consisting of different functionalities to support the safe, orderly and expeditious movement of aircraft and vehicles on aerodromes under all circumstances with respect to traffic density and complexity of aerodrome layout, taking into account the demanded capacity under various visibility conditions, independent of line-of-sight connection between the controller and aircraft/vehicles.
+
+Traffic Display at London Luton Airport
+A-SMGCS is more than just a set of systems, it also includes complementary procedures and at the lower levels of implementation aims to deliver improved situational awareness to controllers. Higher levels of implementation deliver safety nets, conflict detection and resolution, planning and guidance information for pilots and controllers, and detecting and indicating the position of potential intruders.
+A-SMGCS is a key enabler for the Integrated Tower Working Position (ITWP) which combines surveillance, controller tools and safety nets for aerodrome controllers.
+
+A visual example of A-SMGCS display at Riga airport. (Source: EUROCONTROL)
+Basic Functions
+As described in the ICAO Manual (see further reading), A-SMGCS consisits of four basic functions:
+
+Surveillance
+Control
+Planning/Routing
+Guidance
+
+A-SMGCS Levels (ICAO)
+In 2004, ICAO defines 4 levels of A-SMGCS implementation based on a complexity and traffic density approach:
+
+A-SMGCS Level 1 (improved Surveillance) makes use of improved surveillance and procedures, covering the manoeuvring area for ground vehicles and the movement area for aircraft. The procedures concern identification and the issuance of ATC instructions and clearances. The controllers are given traffic position and identity information which is an important step forward from the traditional Surface Movement Radar (SMR) image.
+A-SMGCS Level 2 (Surveillance + Safety Nets) adds safety nets which protect runways and designated areas and the associated procedures. Appropriate alerts are generated for the controllers in case of conflicts between all vehicles on runways and the incursion of aircraft onto designated restricted areas.
+A-SMGCS Level 3 (Conflict Detection) involves the detection of all conflicts on the movement area as well as improved guidance and planning for use by controllers.
+A-SMGCS Level 4 (Conflict Resolution, Automatic Planning & Guidance) provides resolutions for all conflicts and automatic planning and automatic guidance for the pilots as well as the controllers.
+
+A-SMGCS Services (EUROCONTROL)
+In its recent guidance material for A-SMGCS implementation, EUROCONTROL has removed references to 'Levels' and has opted for a functional definition. Functions/services are referred to by name, in order to avoid confusion with the ICAO Manual and to dispel the assumption that the functions need to be implemented in numerical order. There is no contradiction between the two definitions by ICAO and EUROCONTROL as they provide the same functionalities from a different perspective.
+The four A-SMGCS services as defined by EUROCONTROL are:
+
+Surveillance Service - providing airport traffic situational awareness through the identification, position, and tracking of aircraft and vehicles within a predefined coverage volume via a Human Machine Interface (HMI).
+Airport Safety Support Service - contributing to airside operations as a safety improvement, preventing hazards/incidents resulting from controller, flight crew or vehicle driver operational errors or deviations. This Service depends on the Surveillance Service being operational and is based on the following three functions:
+
+Runway Monitoring and Conflict Alerting (RMCA), which is a short term conflict alerting tool for controllers that monitors movements on or near the runway and detects conflicts between an aircraft and another mobile. It uses Surveillance data and predefined rules and parameters.
+Conflicting ATC Clearances (CATC), which provides an alert when the controller inputs an electronic clearance via the HMI, that according to a set of locally agreed rules is not permitted from an operational and safety point of view when compared to any other previously input electronic clearance.
+Conformance Monitoring Alerts for Controllers (CMAC), which provides controllers with appropriate alerts when the A-SMGCS detects the non-conformance to procedures or clearances for traffic on runways, taxiways and on the apron area.
+
+
+Routing Service, which generates a route for each mobile based on known aerodrome parameters and constraints or following an interaction by the Controller. Subsequently, accurate taxi times are generated based on the route and these times can be used by the A-CDM platform. The Routing Service allows the Controller to modify or create a route and input into the system a number of performance-enhancing manoeuvres which are widely used at aerodromes e.g. push/pull manoeuvres, deep or long pushback, Alternative Parallel Taxi Routing (APTR). It is a key enabler for the Guidance Service and some elements of the Airport Safety Support Service (especially the Route Deviation Alert).
+Guidance Service – In conjunction with controller inputs and the Surveillance and Routing Services, it provides the following functions:
+
+The automated switching of the Taxiway Centreline Lights (TCL).
+The automated switching of Stop Bars.
+The automated activation of Advanced-Visual Docking Guidance Systems (A-VDGS).
+
+
+
+Related Articles
+
+Runway Incursion
+Runway Excursion
+Surface Movement Radar
+Controller Detection of Manoeuvring Area Conflicts
+Methods to Show an Occupied Runway
+
+Further Reading
+
+EUROCONTROL A-SMGCS web portal
+EUROCONTROL A-SMGCS Implementation Manual
+EUROCONTROL Terrain and Obstacle Data Manual, November 2015
+ICAO Doc. 9830, Advanced Surface Movement Guidance and Control Systems (ASMGCS) Manual, First Edition, ICAO Montreal, Canada 2004
+CASA-2021-03: Inaccurate Airborne Status Transmitted by Transponders and its Effect on Runway Monitoring and Conflict Alert Systems, Transport Canada, 26 January 2022
+
+
+
+
+
+Categories
+
+
+Runway Incursion,
+              Airport Design and Infrastructure,
+              Runway Incursion Safety Nets,
+              Ground Operations
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,146 @@
+Continuous Climb Operations (CCO)
+
+
+
+
+
+
+
+
+
+
+
+  Continuous Climb Operations (CCO)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+Continuous Climb Operations (CCO) is an aircraft operating technique facilitated by the airspace and procedures design and assisted by appropriate ATC procedures, allowing the execution of a flight profile optimised to the performance of aircraft, leading to significant economy of fuel and environmental benefits in terms of noise and emissions reduction.
+Description
+The optimum vertical profile of a departing aircraft is a continuously climbing path with optimal fuel conserving climb rate. The fuel used in climbing to the most fuel efficient level can be a significant part the overall fuel used for the flight. CCO allows the aircraft to reach the initial cruise flight level at optimum air speed with optimal engine thrust settings, thus reducing total fuel burn and emissions for the whole flight. When CCOs are in effect, appropriate airspace design and ATC procedures should be used to avoid the necessity of resolving potential conflicts between the arriving and departing traffic flows through ATC level or speed constraints.
+Advantages of CCO
+
+Fuel economy due to more fuel-efficient aircraft performance;
+Reduction in both flight crew and controller workload through the design of procedures requiring less ATC intervention;
+Reduction in the number of required radio transmissions - in general a published CCO-based procedure should require fewer controller radio transmissions than vector based departure procedures due to the fact that the complete aircraft trajectory is issued via the SID prior to departure.
+Environmental benefits through reduced fuel burn and potential aircraft noise mitigation through thrust and height optimisation;
+
+Restrictions
+In real life fully optimal CCOs to the top of climb may not be always possible, due to a number of reasons:
+
+Limited airspace: Insufficient amount of vertical airspace to be reserved to protect the climb due to interactions with other traffic flows, particularly pronounced in busier airspaces.
+Terrain and obstacles: risks to obstacle clearances associated with lower performing aircraft.
+Environmental restrictions: noise abatement procedures might be in effect which may impose restrictions to the optimal departure climb.
+ATC Procedures: procedures (such as radar handoff local procedures, or specific flight level allocation specified in letters of agreement with adjacent ATC units) and SID designs might impose restrictions to the continuous climb.
+Weather avoidance: when weather avoidance is in effect the CCO procedures are normally cancelled due to the inability of departing aircraft to follow the published CCO-based departures.
+
+Despite the aforementioned restrictions, the implementation of CCO can provide significant benefits even over shorter sections of the climb.
+CCO Design Considerations
+Ideally a CCO should be organised as a part of a Standard Instrument Departure (SID) so that both flight crews and controllers have a fixed procedure to refer to in advance. After departure a path to the destination or airspace exit point that supports the most optimised vertical profile is desirable. This should also provide for the shortest track distance to be flown. Unrestricted climb to the cruise flight level with no speed restrictions is also desirable. However, specific speed restrictions (to maintain separation between succeeding aircraft or to enable a smaller turning radius) may be required to allow CCO in high traffic density areas or in areas with airspace and terrain constraints. Speed restrictions reduce the flexibility of the CCO but can aid in enabling a CCO-based procedure where it might not otherwise be possible.
+There is a difference in design philosophy between CCO and continuous descent operations (CDO). In surveillance environments the CCO design should take into account that tactical changes to the flight path, initiated by ATC, may be desirable. In general CDO aircraft should be left on the designed route and not given a vector “shortcut” because a CDO is already descending at flight idle and thus descending at the steeper angle a shortcut requires may lead to an unstable approach. In contrast, ATC tactical shortcutting of a CCO departure to take advantage of observed aircraft climb performance is desirable because it saves both flight mileage and time. The potential for tactical shortcutting should be considered in any CCO design, as well as the fact that other flow restrictions potentially restrict the opportunity of ATC to provide tactical shortcuts.
+According to ICAO Doc 9993 Continuous Climb Operations (CCO) Manual (unedited advance version) in the most optimum situation, a departure route should be designed in such a way that there is no restriction that prevents an aircraft continuing its optimum flight profile. Both, the arrival (STAR) and the departure (SID) should be de-conflicted laterally or vertically. This optimum situation may not be reachable and therefore a balance must be found between the arrival and the departure routes. The spread of performance between aircraft in the climb is much greater than in the descent and a SID catering for all aircraft may present a height window prohibitively large for an unconstrained SID to be developed. One solution may be to develop different SIDs for different performance classes of aircraft. Compromises such as short intermediate level-offs for some aircraft, climb profiles at less than optimal rates, and route path changes, may also be needed. ICAO also specifies that the overall efficiency achieved for all aircraft operating within the system must always be considered.
+Related Articles
+
+Continuous Descent Arrival (CDA)
+SIDs and STARs
+
+Further Reading
+EUROCONTROL
+
+European CCO / CDO Action Plan, November 2020.
+
+ICAO
+
+ICAO Doc 9993 Continuous Climb Operations (CCO) Manual - Advanced unedited version.
+
+The ICAO Doc 9333, Ed 1 (2013) is available for purchase from ICAO.
+
+
+
+
+Categories
+
+
+General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

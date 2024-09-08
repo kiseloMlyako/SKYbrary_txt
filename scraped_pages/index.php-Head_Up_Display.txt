@@ -1,0 +1,152 @@
+Head Up Display (HUD)
+
+
+
+
+
+
+
+
+
+
+
+  Head Up Display (HUD)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Flight Technical 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+A HUD - Head Up Display - is a means of presenting information to the pilot in the line of their external forward vision which projects key flight instrument data onto a small ‘see-through’ screen positioned just in front of the pilot line of sight looking ahead out of the aircraft.
+First collimators and now holographic technology makes the image on the screen appear to be far out in front of the aircraft so that the pilot does not have to change eye focus to view a screen which may only be 20cm away. The principle benefit of this has been seen as easing, in both directions, the transition between control of the aircraft by reference to the instrument panel and by reference to external cues. It also neatly facilitates a combination of these sources for single pilot operations.
+Not surprisingly, military applications have led the way but following the introduction of the first civil HUD application in 1993, both general aviation and airline applications have been are growing and nowadays, all of the latest multi crew aircraft types have HUD system options. HUD on multi crew civil aircraft has been limited to single-side installation with only the Boeing C-17 and Lockheed C130J military transports having completely independent dual installations. Now, however, customer demand has driven the development of a dual LCD head-up guidance system for the Embraer 190. All the major avionic manufacturers who originally developed equipment for the military market are now also supplying the civil market. There are some alternative names for a HUD, including VGS - Visual Guidance System, HGS - Head Up Guidance System, and HFDS - Head-up Flight Display System.
+HUD system components
+
+A computer to receive aircraft data and generate display symbology.
+An overhead unit to mount the cathode ray tube (CRT) which projects the assembled image onto the transparent display screen in front of the pilot.
+The transparent display screen - called a combiner - which is a ‘holographic optical element’ made of glass or plastic that reflects the projected image towards the pilot’s eyes without interfering with the passage of ambient light.
+A control panel to allow selection by the pilot of various display options and to enter data not received and integrated by the computer from aircraft sensors.
+An annunciator panel to provide HUD status and warning information.
+
+HUD content
+An early HUD typically provided a combination of situational and guidance data. Most of this was taken from the PFD head-down display (HDD) or the equivalent analogue instruments. Since the early days of Electronic Flight Instrument System, the size of HDD EFIS screens has increased quite considerably so that much more information can be displayed on a primary flight display (PFD) and therefore also on a corresponding HUD. The original airspeed, altitude, localizer and glideslope were quickly joined by key derivative information on the energy status of the aircraft - a flight path (trend) vector (FPV) . This was followed by a flight-path marker, an airspeed trend vector, angle-of-attack indication and notional depiction of runways. Some systems also have some or all of landing-flare cues, tail strike warning, unusual-attitude and wind shear detection and recovery guidance, stall margin indications and Airborne Collision Avoidance System (ACAS) alerts and advisories. For the landing or rejected take off in low visibility, runway distance remaining and ground deceleration displays can be a crucial aid to preventing runway excursion. One deceleration display currently available gives braking performance as 1, 2, 3 or MAX which correspond directly to autobrake settings so that for the landing roll, a clear display of any unexpected runway surface contaminant status is provided.
+Potential Difficulties with HUDS
+Two key problems have been routinely identified with HUD use which are important to address during the specific flight crew training necessary for its use:
+
+attention capture, also known as tunneling, in which pilots can become focused on the HUD display to the exclusion of adequate reference to events or information outside the aircraft
+critical information in the outside-aircraft scene is obscured by display imagery; the the design solution for this is to keep the quantity of symbols low enough to avoid clutter. Reducing clutter can also help with attention capture.
+
+HUD Technical Developments
+ARINC 764 issued in 2005 is the technical standard for HUD avionics. It describes the physical form factors, fit dimensions, electrical interface definition and typical HUD functions. HUD technical development is focused in two areas: the first is the integration of Enhanced Vision System (EVS) and maybe Synthetic Vision Systems (SVS) (SVS) functionality; the second, with smaller aircraft such as the VLJ in mind, is alternatives to the CRT image projection system.
+The attachment of an LCD image source to the combiner glass instead of using CRT projection was originally aimed at saving weight by using technology similar to that employed in a digital media projector, which also requires a lower voltage power supply or run ‘hot’. This alternative image generation process has, now been embraced by both Airbus (A340-600) and Boeing (B787) as well as Embraer (ERJ 190). The LCD method is able to provide a wider field of view than CRT; this should enable the pilot to see information properly in stronger crosswinds and more easily manage approach angle and energy during circling and other non-standard approaches. It is also considered likely to increase overall system reliability and produce both sharper pictures and generally improved grey-shade presentation in bright ambient light.
+EVS data capture is based on forward looking infra red (FLIR) sensors located in the nose of the aircraft which capture the thermal images of approach lights and runway lights, which emit about three times more infrared energy than ambient light. EVS presentations need not involve HUD but offers considerable advantages to a HUD system. The detected light image is electronically processed and displayed on the HUD so that it conforms to the rest of the HUD imaging. For example the runway lights would appear within the HUD-generated outline of the runway. Infrared sensors work in dry air much better than in moist air and, whilst mist and cloud penetration is possible, as conditions worsen towards dense cloud or thick fog, performance reduces to nil. Within that general pattern, the extent of the disclosed picture depends upon the sensor wavelength used. Best overall penetration of weather as well as the best imaging of the localised peak emissions from lighting is achieved at the relatively short wavelength of 1-5 microns used by iridium-antimonide sensors. The 8-14 microns used by the alternative microbolometer technology, which senses the infrared radiation using the temperature changes it induces, penetrates slightly less but gives a better picture of background detail like terrain, and airport hazards such as a runway obstruction or incursion. Future EVS is likely to also involve development and certification of millimetre-wave radar for even greater weather penetration. The problem to be resolved here, however, is that, like all weather radars, the raw output requires interpretation time, which is contrary to the necessary delivery by a HUD of an ‘instant picture.’ The LCD display rather than the CRT source is now being favoured for HUD EVS image presentation because of the sharper definition and better greyscale performance in bright light noted earlier. This will be important if the detection of imminent runway incursion hazards is to be effective.
+SVS requires the display of images assembled from an onboard database. It is attractive because it is not subject to sensor limitations but vulnerable to database integrity. Whether it is likely to emerge as part of a typical HUD system is not yet clear. There are certainly some complex issues to be addressed if display presentation is to be useable. Some manufacturers already favour HUD use of SVS alongside HUD use of EVS. NASA, under its Integrated Intelligent Flight Deck Technologies (IIFDT) project, part of the NASA Aviation Safety Program (AvSP), is looking at SVS and its possible integration with HUD/EVS, see some of the issues in this document.
+The Safety Benefits
+The ‘applied’ benefits of a HUD to transport aircraft flight safety have been seen mainly as the enhancement of situational awareness for flight in limited (or night) visibility in the vicinity of visible terrain, water, ground-based obstacles or other aircraft; this is because it is possible to maintain an external lookout without losing access to key aircraft instrumentation. This applies to initial climb after take off but is especially true for the approach and landing phase of flight, which is where the majority of all aircraft accidents - and the majority of fatal Controlled Flight Into Terrain (CFIT) accidents to public transport aircraft - occur. This is where a HUD can visualize for the pilot any ‘gap’ that may exist between the required aircraft trajectory to a safe landing and a projection of the implications of current aircraft status by displaying the projected touchdown point.
+An Flight Safety Foundation (FSF) study, (see Further Reading) looked at 1079 civil jet transport accidents which occurred between 1959 and 1989, before HUDs were prevalent. It concluded that if a HUD had been fitted and operated by properly trained flight crew, it might have prevented or positively influenced 33% of total loss accidents and 29% of ‘major partial loss’ accidents. The FSF Approach-and-Landing Accident Reduction (ALAR) Task Force recommended that both airlines and business-jet operators install HUDs that display angle of attack and airspeed trend data to improve flight crew awareness of the energy state of their aircraft (see Further Reading). The current Global Aviation Safety Road Map includes HUD in the recommendations for better use of technology to enhance safety of aircraft operations during approach and landing.
+Lower Approach Minima
+HUD was used early on as an alternative manual flying means of conducting Instrument Landing System (ILS) Cat 3a auto land in low visibility mainly because of lower system maintenance costs and better reliability than the ‘traditional’ autoland system. It also enabled these low visibility approaches to be made to runways without the usual ground equipment and redundancy needed to support ILS approaches in these conditions. Federal Aviation Administration (FAA) Certification is also now selectively given to EVS HUD systems to use lower minima than published for both straight-in approaches using both Cat 1 Instrument Landing System (ILS) and Non-Precision Approaches flown using the procedures for a Continuous Descent Final Approach (CDFA). Both are able to use a DH of 100ft above reference threshold elevation before the standard acquisition of visual reference is required.
+Related Articles
+
+Head Up Display - Guidance for Flight Crews
+Autoland
+Enhanced Vision System
+Synthetic Vision Systems (SVS)
+
+Further Reading
+
+Head-Up Display System, an article in the FAST magazine, issue 56/2015.
+
+Flight Safety Foundation:
+
+Head-up Guidance System Technology - A Powerful Tool for Accident Prevention,
+Killers in Aviation
+
+
+
+
+
+Categories
+
+
+Flight Technical
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

@@ -1,0 +1,248 @@
+Operational Records
+
+
+
+
+
+
+
+
+
+
+
+  Operational Records
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+
+Discussion/References
+Operational analysis programs are under continuous review, and have rarely been formally described.
+For full details contact the Analysis and Scientific Centre Of Expertise (ASC COE) at EUROCONTROL Experimental Centre, BP 15 Bretigny-sur-Orge, 91222 France CEDEX.
+A text on the general topic of real-time simulation is under preparation at EEC Bretigny, and will be published as an EEC Report or as a book, depending on future developments.
+For general information, it may be useful to list the types of measures that are taken during real-time simulations, and to give some indications of their use.
+For each sector:
+
+Number of aircraft passing through sector
+Mean number of aircraft in sector
+Number of orders given by controller (subdivided by type of order)
+Number of actions undertaken by ‘simulator pilot’ (subdivided by type of action)
+Number of potential conflicts signalled (where conflict alert available)
+Number and Full details of unresolved conflicts (within/between sectors, aircraft attitudes, duration, severity)
+
+For each Working Position:
+
+Number and duration of simulated R/T transmissions
+Number and duration of telephone/intercom calls
+
+Because a real-time simulator usually needs to start with an ‘empty sky’ and run up the traffic to realistic levels, measurements do not usually start during the first fifteen minutes. (Although planning controllers, who work on future traffic, may in fact be very busy during this period. In some exercises, the traffic may also be running down at the end of the simulation.
+A large Real-time simulator is not a precision tool, and highly detailed measures are rarely justifiable. It is practically impossible to ‘repeat’ an exercise, since much action depends on the exact time and nature of human decisions. ‘Ghost’, ‘feed’ or ‘dummy’ sectors, which surround the measured sectors, should ensure that the incoming traffic is realistically organised, but often make different decisions in successive runs of the same sample. Controllers working the measured sectors make different decisions in successive runs of the same sample.
+Smaller simulators, particularly single-position simulators, may record more detailed information.
+A good basic data collection method is the ‘dribble file’ which simply records the time and nature of each input. This must be supplemented by additional data, such as the time at which a revised picture or a conflict warning is presented, to provide meaningful comparisons. Analysis programs will be required to summarise the data in the ‘dribble file’, to provide statistics such as the type, number and time required to input correct and incorrect orders, or the time taken to resolve conflicts.
+High quality software design can make it possible to record data in sufficient detail that the records can be ‘replayed’ using the simulator or a modified version of it, where the recorded times and values of recorded inputs are substituted for the standard inputs.
+
+
+
+
+Categories
+
+
+Human Factors Methods
+
+
+
+
+
+
+
+
+
+
+
+
+Generics
+
+
+Type of method
+System
+
+
+Data collected by the system in the normal course of operation.
+
+
+Target of method
+Stress
+
+
+Operational records provide very detailed information on what actually happened to the traffic, but give no indication, in themselves of the difficulty that controllers experienced in coping with this level of workload, except by implication in certain specific cases - See Embedded Secondary Tasks.
+
+
+Time Scale of method
+Seconds
+
+
+Although the computer operations are timed to microseconds or less, the sorts of times in which we are interested are usually recorded in hundredths of seconds. The duration of an input order, measured from the start of the first key depression to the release of the ‘execute’ key is of the order of seconds. A sequence of input orders may be needed to solve a specific problem.
+
+
+Portability of method
+No
+
+
+The definition and storage of inputs, data, aircraft positions are specific to the simulator, and cannot practically be transferred to another situation. Real ATC systems have their own recording systems, usually required for legal purposes.
+
+
+Observer Effect
+No
+
+
+The operators are unaware of the recordings made by the system.
+
+
+Context of studies
+
+
+Laboratory studies
+Use
+
+
+ 
+
+
+Simulation studies
+Use
+
+
+ 
+
+
+Field studies
+Use
+
+
+ 
+
+
+Potential problems with the method
+
+
+Failure risk
+None
+
+
+Although data may sometimes be lost through procedural errors by the simulation staff, the records are made by pre-programmed modules which are rarely changed. Synchronisation errors may occur when distributed systems with their own timing systems are employed.
+
+
+Bias risk
+None
+
+
+Provided that the simulation is properly designed, taking into account learning effects, no bias effects are normally observed.
+
+
+Ethical problems
+None
+
+
+It is accepted that recordings are made as measures of the system performance, not of the controllers. No individual performances should reported in any identifiable form.
+
+
+Costs of the method
+
+
+Staff Cost
+Low
+
+
+Routine analyses are run by clerical-grade EEC staff. (If special analyses are required, higher-level staff are needed, and more time and effort are required).
+
+
+Set-up Cost
+Low
+
+
+Most analyses can be prepared in standard form before the simulation.
+
+
+Running Cost
+Low
+
+
+Most analyses are run for each simulation exercise as a matter of routine.
+
+
+Analysis Cost
+Low
+
+
+Standard programs are used to analyse standard forms of recording. No specific programming is usually required. (The initial cost of constructing the programs was relatively high).
+
+
+Analysis data
+
+
+Analysis Speed
+Fast
+
+
+Analysis programs can be run as soon as the simulation run is completed. Specialised analysis programs may require extra time or effort.
+
+
+Data Automation
+Used
+
+
+Manual data collection on the detailed function of the system is practically impossible, given the volume of data generated. See: Behaviour, Activity Analysis.
+
+
+Analysis Automation
+Used
+
+
+Manual analysis of data is technically possible, but very rare. Normally, only standard analysis programs are used.
+
+
+Status
+Established
+
+
+These measurement techniques are routinely employed in the analysis of Real-Time simulations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

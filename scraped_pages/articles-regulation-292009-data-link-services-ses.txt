@@ -1,0 +1,190 @@
+Regulation 29/2009 Data link services for the SES
+
+
+
+
+
+
+
+
+
+
+
+  Regulation 29/2009 Data link services for the SES
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Single European Sky 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Note: This Regulation was repealed by Regulation 2023/1770 and is no longer in force.
+Commission Regulation (EC) No 29/2009 of 16 January 2009 laying down requirements on data link services for the Single European Sky - text published in the Official Journal of the European Union
+Objective
+The Regulation aims to improve the efficiency of communications between pilots and controllers by establishing requirements for the coordinated introduction of data link services in Europe based on air-ground point-to-point data communications.
+Background
+The general framework of the Single European Sky (SES) needs to be completed by more specific and detailed implementing rules. The European Commission has adopted this regulation in order to support the implementation of the Interoperability regulation, which forms part of the first package of legislation on air traffic management designed to create the SES.
+Observed and expected increases in air traffic levels within Europe require parallel increases in air traffic control capacity. This leads to a demand for operational improvements, in particular to improve efficiency of air-ground communication exchange. Voice communications channels are becoming progressively congested and should be supplemented by air-ground data link communications.
+Summary
+Scope
+The Regulation applies to:
+
+All flights operating as general air traffic (GAT) in accordance with instrument flight rules (IFR) in the airspace of Western Europe above FL 285 (exact list of FIRs is provided in Annex I, Part A of the Regulation);
+All flights operating as GAT in accordance with IFR in the airspace of Central and Eastern Europe above FL 285 (exact list of FIRs is provided in Annex I, Part B of the Regulation);
+Air Traffic Service Providers, providing services to GAT in the airspace referred to in the bullets above;
+Flight data processing systems and associated procedures;
+Ground-based and airborne human machine interface systems and associated procedures;
+Air-ground communication systems and associated procedures.
+
+The Regulation should not cover military operations and training.
+Data Link Services (DLS)
+The following data link services (DLS), described in Annex II of the Regulation, shall be provided:
+
+Data Link Communications Initiation Capability (DLIC);
+ATC Communications Management service (ACM);
+ATC Clearances and Information service (ACL);
+ATC Microphone Check service (AMC).
+
+ATS providers and aircraft operators shall apply common standardised procedures for the provision and use of the data link services consistent with relevant provisions for CPDLC of the International Civil Aviation Organisation (ICAO).
+Obligations for Data Link Communications
+With regard to the provision and use of the specified data link services the Regulation establishes a number of obligations for:
+
+Aircraft Operators, concerning the aircraft capability to operate the data link services based on the time of issue of individual certificate of airworthiness. The airborne systems and their constituents shall comply with ICAO standards and the requirements specified in Annexes III and IV of the Regulation.
+ATS providers, concerning: the ground systems and their constituents, the provision of data exchange and communication services and flight data processing. The ground systems and their constituents shall comply with ICAO standards and the requirements specified in the Annexes of the Regulation.
+Member States, to ensure: availability of data link services to flights operated in the airspace under their responsibility in line with the specified ICAO standards; security of data exchange by applying common security rules and use of harmonised procedures for the management of addressing information.
+
+Data link Communication for Transport Type State Aircraft
+In general, State aircraft are excluded from the requirements to be data link capable and certified. However, the Regulation requires that transport type State aircraft are equipped to support a number of air-ground applications defined in the International Civil Aviation Organisation (ICAO) Annex 10 - Aeronautical Telecommunications. Besides ICAO standards, the airborne systems and their constituents installed on board of transport type State aircraft shall comply with the requirements set out in Annex IV of the Regulation.
+Safety Requirements
+Member States shall take the necessary measures to ensure that any changes to the existing systems for air-ground data exchange (see scope above) or the introduction of new systems are preceded by a safety assessment, including hazard identification, risk assessment and mitigation, conducted by the parties concerned.
+Additional Requirements
+The manufacturers of constituents of the systems included in the scope of this Regulation shall assess the conformity or suitability for use of these constituents in compliance with the requirements set out in Annex V of the Regulation. However, certification airworthiness processes complying with Regulation (EC) No 216/2008 (the ‘European Aviation Safety Agency (EASA) regulation’) shall be considered acceptable procedures for the conformity assessment of specified constituents if they include the demonstration of compliance with the interoperability, performance and safety requirements of the Regulation.
+ANSPs (or notified bodies) shall conduct verification of the systems included in the scope of this Regulation in compliance with the requirements set out in Annex VII, Part A of the Regulation. ANSPs may subcontract to a notified body the verification of the systems.
+ATS providers shall ensure that air-ground data exchanges are recorded in accordance with the ICAO standards specified in Annex III of the Regulation. The Eurocae document ED-111 “Functional specifications for CNS/ATM ground recording” shall be considered sufficient means of compliance with regard to the requirements for recording of air-ground data exchanges.
+EU Member States are required to take all necessary measures to ensure that the IFPS and ATS providers develop and maintain operations manuals containing all necessary instructions and information to enable their operations personnel to apply the provisions of this Regulation. Operations personnel shall be made duly aware of the relevant provisions and adequately trained for their job functions. Staff working methods and operating procedures shall comply with this Regulation. Member States shall ensure that relevant information on the use of data link services is published in the national aeronautical information publications.
+Exemptions
+Exemptions from complying with the requirements of this Regulation can be granted by the European Commission upon request submitted by a Member State. The exemption request shall be submitted by 31 December 2012 at the latest and shall contain detailed information justifying the need for granting exemptions to the specified aircraft type(s). Exemptions may be submitted for:
+
+aircraft types reaching the end of their production life and being produced in limited numbers; and
+aircraft types for which re-engineering costs required would be disproportionate due to old design.
+
+A list of exempted aircraft was defined by Commission Implementing Decision (EU) 2019/2012 on 29.11.2019.
+Entry into Force
+The Regulation entered into force in February 2009. However, it applies as from 7 February 2013.
+Regulation (EC) No 29/2009 laying down requirements on data link services for the Single European Sky (OJ, 17.1.2009)
+Amendments to the Regulation
+The first amendment to this Regulation was made by Regulation 441/2014. The purpose of the amendment was to provide a transition period of one year for Croatia to comply with the requirements for the introduction of data link services.
+In order to provide the needed additional time to resolve the technical issues and shortcomings in the performance of the deployed DLS infrastructure causing unacceptable levels of “Provider Aborts” that may endanger the safety of ATC provision, the EC adopted the IR (EU) No 310/2015 amending certain deadlines provided for in Regulation (EC) No 29/2009. In particular, the following amendments have been made:
+
+Zagreb FIR (Croatia) is inserted in Annex I defining the airspace where DLS shall be provided.
+A common IR applicability date, notably 5 February 2018, is introduced for all FIRs listed in Annex I, i.e. for the airspace of all EU countries above FL 285.
+Aircraft operators shall ensure that all aircraft operating GAT flights in accordance with IFR above FL 285 within the airspace defined in Annex I are capable to operate the DLS defined in Annex II of Regulation 29/2009 as from 5 February 2020, except for:
+
+State aircraft;
+aircraft with an individual certificate of airworthiness first issued before 1 January 2014 and fitted with data link equipment certified against the requirements of one of the Eurocae documents specified in point (10) of Annex III;
+aircraft which have an individual certificate of airworthiness first issued before 31 December 2003 and which will cease operation in the airspace referred to above before 31 December 2022;
+aircraft flying in the airspace referred above for testing, delivery or for maintenance purposes or with data link constituents temporarily inoperative under conditions specified in the applicable MEL.
+
+
+
+This amendment entered into force in March 2015.
+CIR (EU) 2015/310 amending Regulation (EC) No 29/2009 laying down requirements on data link services for the SES. (OJ, 27.2.2015)
+A third amendment was made in 2019 by Regulation 2019/1170. Two more aircraft equipage exemption criteria were introduced and references to various documents (ICAO Annex 10 and Annex 11, EUROCAE standards) updated.
+The third amendment entered into force in July 2019.
+A fourth amendment to this Regulation was made in February 2020 and entered into force in March by Regulation 2020/208. It updated the minimum technical standards to which aircraft operators are to comply by updating the reference to the current revision of the Eurocae ED-120 document (Change 3, September 2019). In this revision, all references to Downlink Message (DM) 89 ‘MONITORING [unit name] [frequency]’ as being required to support data link operations were removed.
+A consolidated version of this Regulation is available here. It includes amendments made by Regulaion 441/2014, Regulation 2015/310, Regulation 2019/1170 and Regulation 2020/208.
+Note: This Regulation was repealed by Regulation 2023/1770 and is no longer in force.
+Further Reading
+European Commission
+
+EUR-Lex Portal: Regulation 29/2009 (available in different languages and file formats)
+EUR-Lex Portal: Decision 2019/2012 (available in different languages and file formats)
+Air Transport Portal of the European Commission - Single European Sky;
+
+
+
+
+
+Categories
+
+
+Single European Sky,
+              SES Implementing Rules
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

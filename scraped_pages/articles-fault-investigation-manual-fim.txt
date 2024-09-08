@@ -1,0 +1,140 @@
+Fault Investigation Manual (FIM)
+
+
+
+
+
+
+
+
+
+
+
+  Fault Investigation Manual (FIM)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fault Isolation Manual (FIM)
+Definition
+A fault investigation manual (FIM), also known as a fault isolation manual, is a document used by aircraft maintenance technicians in troubleshooting malfunctions. The FIM provides step-by-step instructions, often in a flow-chart format, for identifying failed components or software.
+Description
+Typically, FIM guidance will begin with the most common cause for a given malfunction. For example, with a writeup for erratic fuel flow, the FIM may first direct a technician to check for instrument error. If that does not correct the fault, the FIM may then call for a check of an engine fuel control. If an operations check still shows the malfunction present, the next step might call for an examination of an engine’s fuel nozzles. The process continues until an operations check shows the malfunction cleared.
+ 
+
+
+
+
+Categories
+
+
+General,
+              Airworthiness
+
+
+
+
+
+
+
+
+
+Related Articles
+
+
+Aircraft Maintenance
+
+
+Aircraft Maintenance Manual
+
+
+Maintenance Error Decision Aid
+
+
+Maintenance Workload
+
+
+Maintenance Error Management System
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

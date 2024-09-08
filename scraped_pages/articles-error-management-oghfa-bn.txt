@@ -1,0 +1,453 @@
+Error Management (OGHFA BN)
+
+
+
+
+
+
+
+
+
+
+
+  Error Management (OGHFA BN)
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+OGHFA 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ Flight Safety Foundation
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ EUROCONTROL
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Background
+This Briefing Note (BN) presents a definition of error management. It explains the complex process of making mistakes, focuses on what can trigger the mistake process and proposes prevention and recovery strategies.
+This BN will help familiarize the reader with the important topics of human errors and violations in order to provide guidance for productive solutions in error and violation management.
+Introduction
+With the high reliability of modern aircraft systems, human performance has become a key focus for flight safety. Various types of human error are often cited as contributing factors to incidents and accidents. Safety officers at airlines observe human errors and even rule violations when they monitor the safety performance of their airline through safety reports and flight data monitoring. Information or training alone cannot immunize a person or an organization against error. Improvement is only achieved through concrete improvements that make errors less probable and their consequences less severe. The primary perspective of this BN is at the organizational level. Its goal is to help personnel such as safety and training managers identify and apply the most effective systemic solutions for managing errors and violations in their organizations. While much of the material presented is also applicable at the individual level, the aim of this BN is to reduce the number and gravity of threats faced by pilots rather than to teach pilots new threat and error management techniques.
+Defining Human Error and Violation
+Errors and Violations
+In everyday parlance, the term “error” is used in a very broad sense. For a more detailed discussion of the topic, we need more precise definitions. The classification used here is in line with James Reason’s definitions[1].
+Errors are intentional (in)actions that fail to achieve their intended outcomes.
+Errors can only be associated with actions with a clear intention to achieve a specific intended outcome. Therefore, uncontrolled movements, e.g. reflexes, are not considered errors. The error itself by definition is not intentional, but the original planned action has to be intentional. Furthermore, it is assumed in the above definition that the outcome is not determined by factors outside the control of the actor.
+Violations are intentional (in)actions that break known rules, procedures or norms.
+The fundamental difference between errors and violations is that violations are deliberate, whereas errors are not. In other words, committing a violation is a conscious decision, whereas an error can be made while a person is consciously trying to perform in an error-free manner. Cases of intentional sabotage and theoretical cases of unintentional violation (breaking a rule because the person is not aware of the rule) are outside the scope of this flight operations BN.
+Therefore, it is important to realize that within the scope of this discussion that a person committing a violation does not intend the dramatic negative consequences that sometimes follow a violation — usually it is believed in good faith that the situation will remain under control despite the violation.
+It is worth noting that many sources, even in the domain of aviation safety, use the term “error” in a wider sense, covering both errors as defined here and violations.
+Errors can further be divided into the two following categories:
+
+Slips and lapses are failures in the execution of the intended action.
+Slips are actions that do not go as planned, while lapses are memory failures. For example, operating the flap lever instead of the (intended) gear lever is a slip. Forgetting a checklist item is a lapse.
+
+Mistakes are failures in the plan of action. Even if execution of the plan was correct, it would not be possible to achieve the intended outcome.
+Plans that lead to mistakes can be defective (not good for anything), inappropriate (good for another situation), clumsy (with side effects) or dangerous (with increased risks).
+
+
+
+Figure 1: Summary of Errors and Violations
+Performance Levels
+Different error types are often associated with what are termed performance levels. At any point in time, a person usually performs several tasks simultaneously. For example, a pilot may be flying the aircraft manually (reading instruments, analysing the situation and giving inputs to flight controls), going through the checklist read by the pilot not flying (PNF) and remaining vigilant for any radio traffic. In order to be capable of such multi-tasking, despite limited attention resources, human cognition is able to perform familiar tasks with minimal attention and the most familiar tasks automatically.
+This capability can be modeled with Rasmussen’s skill-based, rule-based, knowledge-based presentation of performance levels. Rasmussen’s model is briefly introduced below.
+Applying learned routine skills in normal, well-known situations is skill-based performance.
+
+
+
+Example - Skill-based Performance
+When flying the aircraft manually, an experienced pilot does not need to focus the attention on the physical routines of moving the controls and operating the thrust levers. Such routines have become automatic “programs” that run while the pilot allocates the conscious attention on something else - typically on where he or she wants to fly the aircraft.
+
+
+
+
+In the hierarchy of performance levels, the next level is rule-based performance. In rule-based performance, the person is confronted with a situation where attention must be focused on making a decision or creating a solution. However, the situation is a well-known one, for which the person has been trained. Therefore, as soon as the situation has been identified, the person can easily apply a known solution and carry on with the original activity, often returning to the skill-based level. The name “rule-based” reflects the existence of learned solutions providing if-then “rules” that can be applied to the situation - not necessarily rules in the classical sense, i.e., regulations or norms.
+
+
+
+Example - Rule-based Performance
+The automatic routine of taxiing on an empty straight taxiway may be interrupted by the observation of an animal running in front of the aircraft, requiring momentary attention, diagnosis of the situation and a decision on the action to take. What is the animal? How far away is it, and where is it going? Is there a risk the aircraft will be damaged? Should the aircraft be slowed down, stopped or can taxiing continue normally?
+
+
+
+
+Training and experience allow a person to construct a collection of rules, to know when to apply these rules and to know which cues to use to identify a situation correctly. For instance, at the time when windshear and microburst phenomena were still not well known within the aviation community, many flight crews found themselves in a surprising situation where it was difficult to understand what was happening, and without any effective solutions to apply. Sometimes the consequences were disastrous. Since these phenomena have become better known, crews have been trained to identify the situation rapidly and correctly and to apply the correct flying techniques.
+The most attention-consuming performance level is the knowledge-based level. In a completely new situation, without the help of any existing solutions, the person is forced to face the task of trying to derive an on-the-spot solution based solely on knowledge of the system. When such a situation emerges in the context of a complex system and under time pressure, the analytical capacity of human cognition may be quickly surpassed, and the chances for a successful outcome are seriously compromised. Preventing crewmembers from getting into such testing situations is one of aviation’s guiding principles.
+
+
+
+Example - Knowledge-based Performance
+Two cases that involved a total loss of hydraulics, the DC-10 at Sioux City, Iowa in 1989 (uncontained engine failure) and the A300 near Baghdad in 2003 (hit by a missile), serve as rare examples where the flight crew was successful in the almost impossible task of learning to fly and land a damaged aircraft using engine power only. In these cases the flight crew could rely only on the on-the-spot reasoning, experimenting and overall knowledge of the aircraft and flying.
+
+
+
+
+Errors and violations have different forms at different performance levels.
+Slips and lapses typically emerge at the skill-based level. There are several known mechanisms behind slips and lapses. It is known, for example, that mental “programs” that are most commonly used may take over from very similar programs, which are less frequent or exceptional.
+
+
+
+Example - Lapse at the skill-based level
+The captain learns that a structural repair has been performed on his aircraft prior to the flight due to earlier ground damage, and decides to take a look at it during the walkaround. However, when he later starts the walkaround check, he quickly falls into the normal routine “program” of performing the walkaround, completely forgetting his intention to check the damage repair. He realizes his lapse only once back in the cockpit.
+
+
+
+
+Violations at the skill-based level are routine violations: violations that have become part of the person’s automated routines, like routinely exceeding the speed limit slightly when driving.
+Mistakes are results of conscious decision making, so they occur at rule-based and knowledge-based performance levels. In both cases, the two typical areas that can lead to problems are:
+
+Identifying the situation correctly
+Knowing the correct solution (rule) to apply.
+
+At the knowledge-based level, the challenge is to process an overflowing quantity of information and to understand it in such a way as to be able to make both a correct diagnosis and appropriate decisions. In contrast, at the rule-based level the flow of information may be well within processing limits, but the partially unconscious process of situation diagnosis and the quality of previously learned solutions (rules) become critical.
+Violations at the rule-based level are usually situational: the person performs the corner-cutting he or she judges necessary or useful to get the job done. Violations at the knowledge-based level are usually so-called exceptional violations, and sometimes are quite serious in their nature.
+
+Figure 2: Performance Levels and Main Error and Violation Types (adapted from Rasmussen and Reason)
+Consequences of Errors and Violations
+Errors and violations together form the unreliable part of human performance. It is often stated that 70-90 percent of current aviation disasters are due to “human factors.” While the reality is somewhat more complex, it is true that current accidents usually contain important human performance elements. Errors and violations contribute to accidents both directly and by making the consequences of other problems more serious.
+In a complex (at least a priori), high-risk system - such as commercial aviation - there are multiple layers of defenses against known types of accidents. Therefore, an accident involves several contributing factors, some usually being quite visible and others being more distant in time and place from the actual accident. It is important to realize, that in such a system, the consequences of an error typically depend more on factors other than the apparent gravity of the error itself. In other words, it is usually wrong to think that a big catastrophe must have been preceded by an equally serious error. More commonly it is the number of errors and the capability of the system to contain the errors that determine the outcomes.
+
+
+
+Examples - Consequences of errors
+Error (lapse): Setting the flaps correctly for takeoff is forgotten. Factors influencing the consequences:
+
+Aircraft type and performance
+Actual takeoff weight
+Runway length and obstructions ahead
+Functioning of the takeoff configuration warning.
+
+Error (mistake): Navigation error. Factors influencing the consequences:
+
+Other aircraft nearby
+High terrain nearby
+Functioning of the Traffic Alert and Collision Avoidance System (TCAS)
+Warnings from Air Traffic Control (ATC)
+Functioning of the Enhanced Ground Proximity Warning System (EGPWS).
+
+
+
+
+
+As these examples portray, the very same error can have completely different consequences, depending on the factors involved.
+Some error types tend to have more serious consequences than others:
+
+Slips are usually easy to detect quickly and do not have immediate serious consequences due to built-in system protections.
+Lapses may be more difficult to detect and therefore may also be more likely to have consequences.
+Mistakes are even more dangerous, because the person committing the mistake believes that he or she is doing the correct thing and thus carries on with the action often despite a growing number of signs that things are not going right.
+Violations are similar to mistakes but with an increased potential to deviate to an abnormal type of operation with an associated increase in risk. Many violations are tempting because often they bring benefits without any readily apparent drawbacks. The embedded dangers may not be obvious, and people have few chances to learn to appreciate them because violations are forbidden and thus a taboo subject. For example, the violator usually assumes the remainder of the system to be nominal (i.e., no other errors or violations). Ironically, Line Operations Safety Audit (Line Operations Safety Audit (LOSA)) data have shown that a violation almost doubles the chances of committing a further error or violation during the remainder of the flight.
+
+One common false assumption is that errors and violations are limited to incidents and accidents. Recent data from flight operations monitoring programs (e.g., LOSA) indicate that errors and violations are quite common. According to a University of Texas LOSA database, in approximately 60% of the studied flights at least one error or violation was observed, the average being 1.5 errors per flight.
+A quarter of the errors and violations were mismanaged or had consequences (an undesired aircraft state or an additional error). The study also indicated that a third of the errors were detected and corrected by the flight crew, 4% were detected but made worse, and more than 60% of errors remained undetected. These data underline the fact that errors are part of normal flight operations and, as such, usually are not immediately dangerous.
+Overall, when an error has serious consequences in a highly safety-protected system, it usually tells more about the operational system than about the error itself. Safe systems such as aviation are supposed to be engineered to manage errors in different ways to avoid serious consequences.
+Error Management
+People in management positions often find it difficult to deal with human errors. Simple reactions such as asking people to be “more careful” very rarely bring improvement. The seemingly easy solution to add warnings in documentation usually turns out to have a very limited effect. Another natural reaction is to train people more, hoping errors will then be avoided. While various technical and non-technical skills can be improved by training and thereby have a positive impact on certain types of mistakes, training does very little to prevent slips and lapses.
+Effective managers must accept the fact that errors cannot be completely prevented no matter how much people are trained and how many warnings are put in the operational documentation.
+The first step in successful error management is to understand the nature of the errors that occur and the causal mechanisms behind them. This is problem identification.
+Real solutions for the problems human errors cause often require systemic improvements in the operation. For example, a systemic change could involve improving working conditions, procedures and knowledge in order to reduce the likelihood of error and to improve error detection. Another way is to build more error tolerance into the system, i.e., limit the consequences of errors when they do occur.
+Achieving such systemic solutions requires first adopting a global, organizational approach to error management rather than focusing only on the individuals committing the errors.
+Even the best safety program cannot prevent all errors. Therefore, the best strategy to adopt is error management. This chapter focuses first on effective error management strategies in general, and then discusses the specifics of managing slips, lapses and mistakes.
+Error Management Strategies
+
+Error Prevention aims at avoiding the error completely. It is possible only in some specific cases and, almost without exception, requires design-based solutions.
+Error Reduction aims at minimizing both the likelihood and the magnitude of the error.
+Error Detection aims at making errors apparent as fast and as clearly as possible, thereby enabling recovery. An error can be:
+
+Detected by the person that committed the error (self-monitoring), or
+Cued by the environment (e.g., detected by the system hardware and software), or
+Detected by another person.
+
+
+Error Recovery aims at making it easy to rapidly recover the system to its safe state after an error has been committed.
+Error Tolerance aims at making the system better able to sustain itself despite error, i.e. minimizing the consequences of errors.
+
+
+
+
+Example - Error prevention
+A classic manual engine start routine introduces the potential for engine damage through human error - e.g., by wrong timing of opening and cutting off fuel flow. The automatic engine start sequence on FADEC-equipped aircraft prevents these errors by precise monitoring of the key engine start parameters, correct timing of each step in the sequence and automatic shutdown if anything abnormal occurs.
+
+
+
+
+
+
+
+Example - Error reduction
+Applying good ergonomics to a cockpit design reduces errors. Shaping the flap, spoiler and landing gear levers to symbolize their functions produces both visual and tactile cues and reduces slips involving the use of the wrong lever. The clear and logical visual design of instruments and displays, like the presentation of speed and altitude on the Primary Flight Display, reduces errors in reading them.
+
+
+
+
+
+
+
+Examples - Error detection
+
+Performance calculation software can warn the flight crew when some input values are outside the reasonable range, making the error immediately visible (cued by the environment).
+Red flags on locking and safety pins can help detect pins that have been left in position: they can be seen in the wrong place (still at landing gear during taxiing) or their absence in the correct place can alert the crew.
+Crosschecking is a way to apply error detection as an error management strategy (facilitating detection by another person).
+So-called forcing functions are design features that force a person to detect and correct an error before continuing the task, e.g. the refuel panel of the Hawk trainer cannot be closed if the fuel switch underneath is left in the “ground” position.
+
+
+
+
+
+
+
+
+Examples - Error recovery
+
+The “undo” function in computer software is perhaps the best-known application of an error recovery feature.
+The possibility to introduce an automatic pull-up function as an extension of the EGPWS has sometimes been discussed. Such a function would introduce forced error recovery.
+
+
+
+
+
+
+
+
+Example - Error tolerance
+Conservative operational margins in performance models ensure that reasonably small errors in aircraft loading and weight and balance calculations do not endanger the flight in critical phases such as takeoff.
+
+
+
+
+Managing Slips and Lapses
+Slips and lapses are an unfortunate byproduct of the useful human capability to perform actions “automatically,” without full attention. The mechanisms causing slips and lapses function at an unconscious level. Therefore, even if slips and lapses can be reduced through good design of the working interfaces, procedures and environments, it is impossible to prevent all of them.
+
+
+
+Examples - Reduction of slips and lapses
+
+Controlling factors that are known to contribute to errors, such as unnecessary distractions; sterile cockpit principles aim to reduce distractions.
+Standardized procedures reinforce the correct sequences of actions and thus have a positive impact on both slips and lapses.
+Levers designed with good tactile feedback reduce the risk of slips.
+Use of checklists reduces the risk of lapses.
+An airline was worried about several instances in which flight crews failed to set flaps to the correct takeoff flap settings and had to be reminded by the takeoff configuration warning. In response, the airline changed the checklists to place the flap item before the taxi phase, avoiding distractions encountered while taxiing.
+
+
+
+
+
+The last example further illustrates the fact that effective solutions usually require operational changes at the organizational level.
+Due to the somewhat unpredictable nature of slips and lapses, the key management strategies are detection, recovery and tolerance. Fortunately, most slips and lapses are detected, usually by the person who made the error. Also, when a slip or lapse is detected, it is usually easy to recover.
+
+
+
+Examples - Detection, recovery and tolerance of slips and lapses
+
+To facilitate detection, it is crucial that the aircraft provides the flight crew with immediate good-quality feedback on their actions and that flight crew members are trained to use that feedback systematically to validate that their commands (e.g., autopilot mode changes) are taken into account and implemented correctly.
+To fulfill an important error detection role, the PNF must know how to monitor the flight effectively in different flight phases.
+The unlocking movements needed to operate flap and spoiler levers may delay
+
+the execution of a slipped action long enough to permit detection either by the person himself or by another.
+
+Erroneously retracting the flaps at too low a speed or too high an angle of attack causes some aircraft to activate protections to minimize excursions from the desired flight profile. Depending on the situation, slats will remain extended and takeoff/go-around (TOGA) thrust may be applied. Thus, the error is tolerated.
+Not having retracted the flaps and approaching the flaps-extended speed limit will activate overspeed protections. In this case, error detection (overspeed warning) and tolerance (automatic flap retraction) together provide the opportunity for successful error recovery.
+
+
+
+
+
+Managing Mistakes
+As stated, mistakes are deficient solutions or decisions, often caused by failed situational diagnosis or poor-quality learned solutions.
+If crewmembers find themselves in a knowledge-based problem-solving situation, their chances of success depend on their basic knowledge of the key phenomena, and the use of skills promoted through crew resource management (Crew Resource Management) training, such as the ability to stay calm, communicate and cooperate. Because mistakes at the knowledge-based level are difficult to recover, instead of trying to develop related error management strategies the principle in aviation is simply to prevent crews from getting into such situations. The whole aviation system has been built accordingly.
+Scientific data suggest that the probability of correctly recovering from a skill-based slip is double compared with a rule-based mistake and three times higher than for a knowledge-based mistake. The remainder of this chapter concentrates on rule-based mistakes.
+The usable mistake-mitigation strategies are reduction, detection and recovery. Success in these will be mainly determined by three elements: knowledge, attention factors and strategic factors:
+
+Knowledge is reflected both in how well situations are diagnosed and the quality of the chosen solutions. Adequate knowledge relies on training, experience and availability of updated situational information, such as weather and runway conditions.
+Attention factors determine how easily the relevant information is available. In an ideal case, the attention of the crew is guided to the contextually most relevant and reliable source of information, and the presentation of the information is such that it enables the crew to rapidly achieve complete situational understanding.
+Information overload, distractions and noise should be avoided. When the available information corresponds to attention resources and information needs, diagnosis is easier and potential mistakes are more easily detected. Attention factors are particularly important in view of the biases and heuristics[2] that can distort the diagnostic process.
+
+Strategic factors determine the difficulty of the situation in terms of multiple goals, some of which are often partly in conflict. Usually, some goals are obvious and official, while it is possible that others are hidden, personal or even unconscious. Strategic factors become most visible in decision-making situations.
+
+
+
+
+Example - Strategic factors
+Following a system failure, the flight crew hesitates between:
+
+landing at the nearest airport that has a short runway and limited landing aids, and,
+continuing to the original destination that is also the airline’s base with maintenance facilities and a good runway. Safety, operational and passenger comfort goals all mix together.
+
+The pilots may have their own emotional preference for continuing to the base because that means getting home. There may also be fear of sanction by management if the flight crew lands the aircraft at an unplanned destination “without real need.”
+
+
+
+
+It is clear that while some strategic factors originate from the flight crew, many of them are imposed by the organization and external agents. Obviously, the organization should try to ensure that serious goal conflicts are avoided or when they do arise that safety is not compromised.
+A significant proportion of mistakes is caused by incorrect situation diagnosis, which is a particularly problematic task for human cognition. Such diagnosis is mainly due to the biases and heuristics used by human cognition in an attempt to process rapidly large amounts of information.
+
+
+
+Examples - Biases and heuristics:
+
+Expectation bias helps to fill in the blanks in communications and understand incomplete messages, but it can also make the person hear what he or she expects to hear instead of what was actually said. Expectation bias is difficult to counteract. It is important to stress the importance of readbacks and to really listen.
+Availability heuristic helps to collect information rapidly, but puts more emphasis on the most easily available information sources rather than the most reliable and relevant sources. Availability heuristic can be counteracted through good design of instruments, procedures and training that prompt the flight crew to focus on the contextually most relevant information sources while also underscoring the limitations of these sources.
+Confirmation bias helps create a hypothetical diagnosis about the situation rapidly, but the hypothesis is based only on a subset of available information and may lead to fixation, where an incorrect diagnosis is maintained despite an increasing quantity of counter-evidence. This bias underlines the value of “fresh eyes” making an independent diagnosis.
+
+
+
+
+
+Violation Management
+In simple terms, violation management consists of understanding the reasons for violations and then trying to eliminate these reasons. In an ideal situation, the organization facilitates learning from difficulties in the operations and fixing them before people need to “fill the gaps” by committing violations.
+There are known factors that increase the probability of violations:
+
+Expectation that rules will have to be bent to get the work done
+Powerfulness, Feeling that skills and experience justify deviating from the standard procedures
+Opportunities for short cuts and other ways of doing things in a seemingly better way
+Poor planning and preparation, putting the person in situations where it is necessary to improvise and solve problems as they arise.
+
+This set of factors is sometimes called the “lethal cocktail”.
+Often the conditions that induce violations are created because the organization cannot adapt fast enough to new circumstances. The violator may be a very motivated person trying to do things “better” for the company. This explains why management pilots are often more likely to commit violations, especially in small companies where business pressures are strongly felt.
+
+
+
+Examples - Violations
+
+The CEO of a small helicopter operator, who was also flying as a captain, flew scheduled passenger flights without the required first officer, sometimes making a non-qualified pilot sit in the copilot seat to mask the violation. This exceptional and completely unacceptable behavior probably reflects operational pressures, a high motivation to perform and a sense of powerfulness.
+Arrival of new aircraft, a growing route network and an absence of increased resources combine to create a lack of pilots. This shortage, in turn, creates the pressure for some management pilots to push duty time limits.
+Over-motivation to bring the aircraft to the scheduled destination, combined with high regard of one’s own flying skills, may encourage a pilot to try to push below the minima and land.
+
+
+
+
+
+As with errors, it is important to look for the root causes of violations in an organization. Solutions focused at the root-cause level will be the most effective. It is also important to recognize that it is not always productive to punish a violator because the violation may be committed due to factors beyond his or her control.
+However, this in no way is intended to undermine the importance of individual responsibility for one’s own actions. Dangerous and reckless behavior should never be tolerated. However, some routine or situational violations may have been imposed on the individual by deficient organization or planning, and any individual put in the same situation might find it difficult not to commit a violation.
+Acceptance of a non-compliant way of doing the job may have become part of the local working culture, which also means that the whole group — including management — is responsible for the violation, not just the individual actually committing it.
+The ultimate goal is to establish a working culture where violations are neither necessary nor an acceptable option. Like all cultural issues, this establishment can take considerable time and effort. Chances for success are greatly enhanced if the employees themselves are involved in setting the limits of what is acceptable in their own work. The limits must then be clearly communicated and imposed.
+On a continuous basis, violation management can take four different forms:
+
+Establish channels for people to communicate difficulties and to discuss solutions. This facilitates learning about problems and adjusting planning accordingly to avoid strains which could lead to violations.
+Analyze existing violations and assess current violation potential. Try to understand the background of current violations. Use the above list of violation-inducing factors to assess the potential for future violations.
+Try to ensure that management reduces violations through good leadership and planning.
+Ensure that both management and employees are aware of their responsibilities and the key risks related to their work and understand how violations reduce vital safety margins.
+
+Key Points
+
+Errors and violations are more common in flight operations than one would expect. They have the potential to affect safety, although usually the robustness of the aviation system is sufficient to compensate for errors and violations without significant consequences.
+The first step in error and violation management is to understand their true causal factors. This flight operations BN has aimed at providing basic information on the subject.
+Successful management of errors and violations requires continuous application of systemic improvements at the organizational level. Ultimately, violation-free operations should become a natural part of the corporate culture.
+
+References
+
+^ James Reason (1990) Human Error, Cambridge University Press, Cambridge, UK
+^ Heuristics are simple mental rules of thumb that the human mind uses to solve problems and make decisions efficiently, especially when facing complex problems or incomplete information. These rules work well under most circumstances, but sometimes lead to systematic misjudgments.
+
+Associated OGHFA Material
+The following OGHFA material should be reviewed along with the above information:
+Briefing Notes:
+
+Flight Preparation and Conducting Effective Briefings
+Threat Management Training
+Organizational Threat Management
+Managing Interruptions and Distractions
+Pilot-Controller Communications
+
+Visuals:
+
+Managing Interruptions and Distractions
+Error Management
+
+Situational Examples:
+
+Runway Overrun After Unstabilised Approach
+Threat and Error Management Preventing CFIT
+
+Additional Reading Material / Websites References
+
+David D. Woods et al (1994) Behind Human Error: Cognitive Systems, Computers, and Hindsight, CSERIAC State-of-the-Art Report, Wright-Patterson Air Force Base, Ohio, US.
+Patrick Hudson, University of Leiden (2000) Non-Adherence to Procedures: Distinguishing Errors and Violations, presentation given to the 11th Airbus Human Factors Symposium, Melbourne, Australia.
+
+Related Skybrary Articles
+
+Threat and Error Management (TEM)
+Maintenance Error Management System
+
+
+
+
+
+Categories
+
+
+OGHFA,
+              Crew Actions and Behaviours,
+              Human Factors
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

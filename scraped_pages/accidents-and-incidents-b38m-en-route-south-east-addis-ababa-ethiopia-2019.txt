@@ -1,0 +1,427 @@
+B38M, en-route south east of Addis Ababa Ethiopia, 2019
+
+
+
+
+
+
+
+
+
+
+
+  B38M, en-route south east of Addis Ababa Ethiopia, 2019
+
+
+
+
+
+
+
+
+
+Summary
+
+On 10 March 2019, a Boeing 738 MAX 8 left stick shaker activated immediately after takeoff from Addis Ababa for no apparent reason and remained on. A succession of four pitch down manoeuvres not initiated by the crew subsequently occurred and recovery from the final one was not achieved. Terrain impact followed a high speed dive six minutes after takeoff. The Investigation attributed the loss of control to an erroneous single source angle of attack input to the Manoeuvring Characteristics Augmentation System (MCAS) from which, in the absence of an applicable non-normal procedure or appropriate training, recovery was not achievable.
+
+
+
+
+Event Details
+
+When
+
+10/03/2019
+
+
+
+Event Type
+
+
+AW,
+              HF,
+              LOC
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 737 MAX 8
+
+
+
+
+
+
+
+
+
+Operator
+
+Ethiopian Airlines
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Bole International
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Jomo Kenyatta International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+No
+
+
+
+Phase of Flight
+
+Climb
+
+
+
+
+
+
+
+
+Location
+
+Approx.
+
+28nm south east of Addis Ababa
+
+
+
+
+
+
+
+
+
+
+General
+
+Tag(s)
+
+
+              Copilot less than 500 hours on Type,
+              Inadequate Aircraft Operator Procedures,
+              PIC less than 500 hours in Command on Type
+          
+
+
+
+
+HF
+
+Tag(s)
+
+
+              Inappropriate crew response - skills deficiency,
+              Inappropriate crew response (technical fault),
+              Procedural non compliance
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Degraded flight instrument display,
+              Flight Management Error,
+              Extreme Pitch
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Indicating / Recording Systems
+          
+
+
+
+Contributor(s)
+
+
+              OEM Design fault
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Aircraft damage
+
+Hull loss
+
+
+
+Non-aircraft damage
+
+Yes
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Number of Non-occupant Fatalities
+
+0
+
+
+
+Occupant Fatalities
+
+Most or all occupants
+
+
+
+Number of Occupant Fatalities
+
+157
+
+
+
+Off Airport Landing
+
+Yes
+
+
+
+Ditching
+
+Yes
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Airworthiness
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 10 March 2019, the crew of a Boeing 737 MAX 8 (ET-AVJ) being operated by Ethiopian Airlines on a scheduled international passenger flight from Addis Ababa to Nairobi as ET302 and which had just taken off from runway 07R in day VMC reported a “flight control problem” to ATC and shortly afterwards contact was lost. The aircraft was subsequently found to have crashed into the ground at high speed and been completely destroyed killing all 157 occupants. There was no post crash fire.
+Investigation
+An Investigation conducted in accordance with ICAO Annex 13 principles was carried out by an Investigation Committee made up of investigators from the Ethiopian CAA Aircraft Accident Investigation Bureau (EAIB). Both the CVR and the DFDR were recovered from the accident site and their data were subsequently successfully downloaded. A Preliminary Report and an Interim Report were published during the Investigation (on 4 April 2019 and on 9 March 2020 respectively). Both contained interim safety recommendations which are reproduced below with the new Safety Recommendations made in this report on completion of the Investigation. 
+The Flight Crew
+The 29 year-old Captain, who had been PF for the accident flight, had accumulated 8,122 hours total flying experience. After completing pilot basic training in 2010, he had received a type rating for the Boeing 737 the following year and had subsequently been employed by the airline as a First Officer on the that type and the Boeing 767 and Boeing 777/787 until gaining his command on the Boeing 737-800 in October 2017. After CBT (Computer-based Training) Differences Training for the 737 MAX 8 in July 2018, he successfully completed a proficiency check on the variant in October 2018. At the time of the accident he had a total of 4,017 hours experience on the Boeing 737-800 NG including 1,417 hours in command and a total of 103 hours on the Boeing 737 MAX-8. His training records indicated a generally above average proficiency.  
+The 25 year-old First Officer had 361 hours total flying experience and had qualified for his Boeing 737-800 and MAX-8 type rating three months prior to the accident. This was followed by line training which led to a successful Line Check on 31 January 2019. At the time of the accident, he had a total of 207 hours flying experience on the 737-800 and the 787 MAX 8. 
+What Happened
+It was immediately clear that difficulty in controlling the pitch of the aircraft had been a critical factor during the flight and noted that on Boeing 737 aircraft, this is achieved by means of hydraulically powered elevators and an electrically powered stabiliser with the elevators controlled by movement of the control columns and the stabiliser controlled by automatic or manual trim commands. The stabiliser may also be manually controlled through movement of the switches on the control column yokes or by rotating the pitch trim wheels manually.
+In summary, the crew were faced with a failure of the left AOA sensing system immediately after takeoff which compromised the Captain’s PFD indications and his display of airspeed and altitude. Attempts to control the aircraft by keeping the AP engaged were unsuccessful and four successive MCAS nose-down trim activations incorrectly triggered by the invalid left AOA input occurred. The thrust remained at the takeoff setting and it became increasing difficult, and eventually impossible, for the crew to successfully oppose the MCAS nose down action using either the elevator via their control columns or their electric stabiliser trim inputs.
+A reconstruction of the six minute flight track prepared by the French Civil Aviation Accident Investigation Agency, the BEA, is shown in the illustration below (it was not accompanied by identification of the significant points marked). 
+
+The flight trajectory reconstructed from FDR data. [Reproduced from the Official Report]
+In more detail, it was established that 10 seconds after rotation during a normal flap 5 takeoff with 94% N1 thrust set, the left AOA value became erroneous. This was the cause of a stick shaker activation and a simultaneously abnormal presentation on the Captain's PFD:
+
+A drop from 170 KIAS to 156 KIAS
+The FD command bar moving rapidly down to 10° below the horizon
+An increase in the red and black minimum speed band to 170 KIAS which was 9 knots above the actual airspeed at that time.
+
+According to the Boeing calculations, the conditions necessary to generate ‘IAS DISAGREE’ and ‘ALT DISAGREE’ alerts were met but these are not recorded on the FDR nor was there any indication from the CVR that these had been seen by either pilot. Onset of the stick shaker led to the expected response of the Captain who reduced the pitch attitude to 7/8° but this had no effect and no further reduction was made. The First Officer’s flight instrument displays were unaffected and continued to show different (and correct) airspeed, altitude and flight director pitch commands than those on the left side. 
+At 400 feet agl, although it was not consistent with the continuing stick shaker activation, the Captain made two unsuccessful attempts to engage the AP. Guidance in the FCTM to the effect that maximum use of the auto flight system would “reduce workload in a non-normal situation” was noted as was the content of the FCOM Bulletin released after the 737 MAX-8 fatal loss of control accident just over four months previously which was worded in such a way as to indicate that an AOA failure condition would only occur during manual flight. In fact, activation of the Manoeuvring Characteristics Augmentation System (MCAS) required that the AP be engaged. 
+Passing 800 feet agl, ATC were advised of inability to follow the planned departure due to a “flight control problem” and requested permission to climb to 14,000 feet on runway heading which was approved. The climb continued and passing 1000 feet agl, a third attempt to engage the AP was successful. However, the takeoff thrust did not reduce automatically to N1 mode (climb thrust) because the A/T was affected by the false AOA sensor data. 
+As the third attempt to engage the AP was successful, almost immediately an automatic Aircraft Nose Down (AND) activation began and the pitch trim (stabiliser) position moved from 4.60 to 2.1 units. This lasted for 9 seconds and converted the climb previously being achieved into a shallow descent and resulted in EGPWS ‘DON’T SINK’ alerts occurring. An aft movement of the control column was recorded and a positive climb was re-established although the automatic AND input was still active. Approximately three seconds after the uncommanded AND input had stopped, a manual electric pitch trim input in Aircraft Nose Up (ANU) direction was recorded and this resulted in a corresponding response from the pitch trim (stabiliser) position. However, as the back pressure on the control column was increased, the aircraft pitch attitude did not change significantly.
+Five seconds after this pilot-initiated ANU pitch trim input had ceased, a second period of automatic AND pitch trim occurred, which decreased the pitch trim (stabiliser) position to 0.4 units. This was accompanied by three further EGPWS ‘DON’T SINK’ alerts. The Captain responded with a manual ANU pitch trim input and asked the First Officer to trim up with him. This action resulted in the stabiliser movement reversing and the pitch trim (stabiliser) position reaching 2.3 units.  
+Approximately five seconds later, a third period of automatic AND pitch trim command occurred, this time “without any corresponding motion of the stabiliser” for which “cut out” had been annunciated and noted by both pilots. This was considered to have been consistent with the stabiliser trim cut out switches having been set to that position. The Captain responded by calling out three times “pull-up” and the First Officer acknowledged. 
+For approximately the next 2½ minutes, the stabiliser position moved in the AND direction from 2.3 to 2.1 units whilst force was being manually applied to both control columns which remained aft of the neutral position. The crew confirmed to each other that after disconnecting the stabiliser trim, they could no longer control pitch (although there was no mention on the CVR of whether this was attempted using the control column stabiliser trim switches or the pitch trim wheel). It was recognised by the Investigation that the force and time required to effect pitch change using the manual pitch trim wheel would have been too great and in any case would have taken too long.
+During this time, the right side (correct) indicated airspeed increased from approximately 305 KIAS through Vmo (340 KIAS) and the right side overspeed aural warning was activated and remained active thereafter. The left side displayed airspeed remained up to 25 knots less than that on the right side. During this time, the Captain asked the First Officer to request radar vectors to return to the airport and the flight was given a right turn onto 260°. Towards the end of this 2½ minute period, both pilots were recorded as calling out “left alpha vane” and the Captain announced that “pitch is not enough” shortly before two momentary manual electric trim inputs in the ANU direction were recorded. These inputs only resulted in pitch trim (stabiliser) position moving in the ANU direction from 2.1 units to 2.3 units. 
+Approximately five seconds after this final manual electric pitch trim input, a fourth period of AND automatic pitch trim command occurred and the pitch trim (stabiliser) position moved in the AND direction from 2.3 to 1.0 units over approximately 5 seconds. Despite the pilots’ added and simultaneous aft control column input throughout the remainder of the flight, the aircraft nose down pitch attitude continued to increase, eventually reaching 40° nose down with the recorded pitch trim (stabiliser) position varying between 1.1 and 0.8 units. By the end of the recording, the right side airspeed had reached 500 KCAS and the left side almost 460 KCAS and the recorded pressure altitude was 8,300 feet QNH on the right and 5,419 feet QNH on the left.  
+The aircraft impacted agricultural land near the settlement of Ejere creating a 10 metre deep crater approximately 28 metres by 40 metres. The condition of the wreckage was judged to be consistent with a high energy impact. 
+The subsequent responsibility for attending and controlling the accident site was taken by the Abyssinian Flight Service with helicopter support from the Ethiopian Air Force. The Addis Ababa Airport Emergency Plan was activated as soon as the accident occurred but did not result in action to achieve a rapid deployment to the accident site which was only 28 nm away.
+The Accident Context
+This accident occurred soon after an AOA-related fatal accident to a Lionair Boeing 737-MAX 8 on 29 October 2018 which had already resulted in action which sought to avoid a repetition. 
+Action following this earlier accident included:
+
+the issue of FAA AD 2018-23-51 on 7 November 2018 which had been incorporated in the accident aircraft AFM as required. 
+the issue by Boeing of a 737-MAX 8/9 FCOM Bulletin issued by Boeing on 6 November 2018 which “directed flight crews to existing procedures to address an AOA failure condition that can occur during manual flight only” which had been incorporated in the Ethiopian Airlines FCOM. Boeing described the reason for issuing this Bulletin as being “to emphasis the procedures provided in the Runaway Stabiliser Non-Normal Checklist”. 
+
+This FCOM Bulletin was prefaced by the following text:
+“In the event of erroneous AOA data, the pitch trim system can trim the stabiliser nose down in increments lasting up to 10 seconds. The nose down stabiliser trim movement can be stopped and reversed with the use of the electric stabiliser trim switches but may restart 5 seconds after the electric stabiliser trim switches are released. Repetitive cycles of uncommanded nose down stabiliser continue to occur unless the stabiliser trim system is deactivated through use of both STAB TRIM CUTOUT switches in accordance with the existing procedures in the Runaway Stabiliser NNC [non-normal checklist]. It is possible for the stabiliser to reach the nose down limit unless the system inputs are counteracted completely by pilot trim inputs and both STAB TRIM CUTOUT switches are moved to CUTOUT.” 
+Why It Happened
+Both engines were recovered and showed no signs that their normal operation up to the point of impact had been compromised. Inspection also suggested that they were “operating at power at the time of impact”. The aircraft Technical Log was reviewed since delivery of the aircraft to the airline in November 2018 and no evidence of any relevant significant or recurring defect was found. A similar check of recorded actions during an ‘A’ Check carried out in early February, again with no related findings.    
+The Investigation found that the origin of the false signals produced by the AOA sensing system which had caused the MCAS to malfunction and repeatedly command the horizontal stabiliser to issue AND signals. The cause of this damage was not explained in the absence of any available evidence. The main focus was on what was considered to have been the inappropriate design of the MCAS system and the failure of both Boeing and the FAA to adequately foresee the potential consequences of a failure of its AOA input and thereby effectively mitigate the loss of control risk by both a more robust design and more effective pilot training guidance. 
+Immediate Safety Action taken by Ethiopian Airlines included suspension of 737-MAX 8 aircraft operations and four days later, the Ethiopian CAA issued a NOTAM banning all flight by 737-MAX aircraft in Ethiopian airspace until further notice. This unilateral action was subsequently followed by a global grounding of the type variant until certification requirements had been enhanced to address unacceptable operational risk.  
+ 
+The Probable Cause of the accident was formally recorded as “repetitive and uncommanded airplane-nose-down inputs from the Manoeuvring Characteristics Augmentation System (MCAS) due to erroneous Angle of Attack input and its unrecoverable activation system which made the aircraft dive at the rate of 33,000 feet per minute close to the ground”.  
+Ten Contributory Factors were also identified as follows:
+
+The MCAS design relied on a single AOA sensor, making it vulnerable to erroneous input from the sensor. 
+During the design process, Boeing failed to consider the potential for uncommanded activation of MCAS (and) assumed that pilots would recognise and address it through normal use of the control column, manual electric trim, and the existing Runaway Stabilizer Non Normal Checklist. The Operations Manual Bulletin and Emergency AD issued after the Lion Air accident included additional guidance but did not have the intended effect of preventing another MCAS-related accident. 
+While Boeing considered the possibility of uncommanded MCAS activation as part of its Functional Hazard Analysis (FHA), it did not evaluate all the potential alerts and indications that could accompany a failure leading to an uncommanded MCAS. 
+The MCAS contribution to cumulative AOA effects was not assessed.
+The combined effect of alerts and indications that impacted pilot recognition and procedure prioritisation were not evaluated by Boeing.
+ The absence of an ‘AOA DISAGREE’ warning flag on the PFD. 
+The B737 MAX CBT Differences Training prepared by Boeing and delivered to pilots did not cover the MCAS system; 
+Failure of Boeing to design simulator training for pilots with regards to safety critical systems like MCAS (despite the potential for) catastrophic consequences during undesired activation. 
+Boeing failed to provide procedures regarding MCAS operation to the crew during training or in the FCOM.
+Boeing failed to address the safety critical questions raised by Ethiopian Airlines which would have (addressed the potential for) crew confusion and task prioritisation (difficulty).
+
+Safety Recommendations were made as a result of the Investigation findings both during and on completion of the Investigation as follows:
+Two Safety Recommendations were included in the Preliminary Report:
+
+that Boeing should review the aircraft flight control system in relation to flight controllability
+that Aviation Authorities shall verify that the review of the aircraft flight control system in relation to flight controllability has been adequately addressed by the manufacturer before the release of the aircraft to operations.
+
+Five Safety Recommendations were included in the Interim Report:
+
+that Boeing consider the use of data from both the left and right AOA sensors and/or other independent systems for redundancy in the design of MCAS .
+that the FAA shall confirm all probable causes of failure have been considered during functional hazard assessment.
+that Boeing shall ensure that the minimum operational speed computed by the Stall Management and Yaw Damper Computer (SMYDC) is within logical values. There should also be logic to validate the computation.
+that Boeing should include in its pilot training scheme for this aircraft variant simulator sessions to familiarise pilots with normal and non-normal MCAS operation using simulators capable of realistically replicating AOA failure scenarios.
+that Boeing should confirm that the ‘AOA DISAGREE’ alert is functional whether the optional angle of attack indicator is installed or not.
+
+The Interim Report also explicitly endorsed the 7 Safety Recommendations in the NTSB Safety Recommendation Report which was issued on 19 September 2019.
+Eight New Safety Recommendations were made at the conclusion of the Investigation as follows:
+
+that Boeing consider the effect of all possible flight deck alerts and indications on flight crew recognition and response; and incorporate design, flight crew procedures, and/or training requirements where needed to minimize the potential for flight crew actions that are inconsistent with manufacturer assumptions.
+that Boeing provide sufficient time and adequate training associated with a new description of the MCAS system.  
+that Boeing reconsider the design of the (MCAS) system in such a way that AOA data input from both sensors (LH & RH) are received and analyzed by the Flight Control Computer before any command in sent to MCAS.
+that Boeing, instead (of focusing on the) runaway stabiliser (in the AD)  provide an MCAS description and advise how to mitigate MCAS during (a) repetitive Aircraft Nose Down (AND) command.
+that the FAA review all probable causes of failure which have been considered during functional hazard assessment.  
+that Boeing (raise) awareness of the (fact that) a single erroneously-high AOA sensor input received by the flight control system can command the MCAS (to cause) repeated aircraft nose-down trim of the horizontal stabiliser leading to excessive aircraft nose-down attitude, significant altitude loss and impact with terrain.
+that the Ethiopian Civil Aviation Authority dispatch a Search and Rescue team without delay (in the event of an aircraft accident) and ensure appropriate action is taken at the accident site.  
+that Ethiopian Airlines initiate and develop procedures for continuous monitoring, follow up and clarification in a timely manner (in respect of questions put to an aircraft manufacturer). 
+
+The 331-page Final Report of the Investigation was published on 23 December 2022. 
+The NTSB representing the State of the Manufacturer, concerned that its formal request for comments on a draft of the Final Report had been neither adopted nor appended to it in accordance with ICAO Annex 13 requirements, issued a formal Response to the Report on 27 December 2022. This response included the NTSB view that whilst the origin of the accident had been the MCAS malfunction, the accident outcome had not been inevitable because “appropriate crew management of the event, per the procedures that existed at the time, would have allowed the crew to recover the airplane even when faced with the uncommanded nose-down inputs". It therefore took the view that “the flight crew’s inadequate use of manual electric trim and management of thrust to maintain airplane control” had also been a “causal factor”. The Board also proposed that “contributing factors” to the accident outcome had been “the operator’s failure to ensure that its flight crews were prepared to properly respond to uncommanded stabiliser trim movement in the manner outlined in Boeing’s flight crew operating manual (FCOM) bulletin and the FAA’s emergency airworthiness directive (AD)” and “aircraft impact with a foreign object which damaged the AOA sensor and caused the erroneous AOA values”.    
+Following publication of the Final Report, the BEA France, due to similar concerns also published their Comments. These include the comment that “the only Probable Cause retained in the EAIB report is related to the activation of the MCAS system [whereas] the BEA believes that the crew’s inadequate actions and insufficient Cockpit Resource Management (CRM) played a role in the chain of events that led to the accident, in particular during the first phase of the flight, before the first MCAS activation”. It also includes the comment that “the contributing factors identified by the EAIB are only related to the MCAS system” and that the following contributing factors should also be stated in the report:
+
+Flight crew’s failure to apply, immediately after take-off and before the first MCAS activation, the Approach to Stall or Stall Recovery Manoeuvre and the Airspeed Unreliable Non-Normal Check-list;
+Captain’s insistence on engaging the A/P, contrary to the Approach to Stall or Stall Recovery manoeuvre procedure;
+Insufficient use of the electric trim to relieve the high control column forces after the MCAS nose down orders;
+Captain’s lack of thrust reduction when the speed became excessive, which in combination with insufficient trim, caused an increase of the forces which became unmanageable on both the control column and the manual trim wheel.
+The use of the Logipad system by the airline as the sole means to disseminate information on new systems and/or procedures, which doesn’t allow the evaluation the crews’ understanding and knowledge acquisition on new systems and procedures. This system was used to disseminate the information related to the MCAS system issued following the previous 737 Max accident and did not allow the airline to ensure that the crews had read and correctly understood this information.
+
+Two Reports of reviews carried out by the Office of the Director General in the US Department of Transportation whilst the Investigation was in progress related to the context for this accident:
+
+Aircraft Type Certification issued on 23 Feb 2021.
+International Pilot Training for Boeing aircraft issued on 27 July 2022
+
+Related Articles
+
+Loss of Control
+Recovery from Unusual Aircraft Attitudes
+Maneuvering Characteristics Augmentation System (MCAS)
+Pitch
+TAWS
+B38M, en-route, northeast of Jakarta Indonesia, 2018
+The Joint Authorities Technical Review (JATR) - Boeing 737 MAX Flight Control System
+NTSB Safety Recommendations Report Arising from the Boeing 737 MAX-8 Fatal Accidents in 2018 and 2019
+Certification of Aircraft, Design and Production
+
+Further Reading
+
+Emergency AD 2018-23-51, FAA, 7 November 2018
+737-MAX 8/9 FCOM Bulletin, Boeing, 6 November 2018
+The Official Report of the Special Committee to Review the Federal Aviation Administration's Aircraft Certification Process, 16 Jan 2020.

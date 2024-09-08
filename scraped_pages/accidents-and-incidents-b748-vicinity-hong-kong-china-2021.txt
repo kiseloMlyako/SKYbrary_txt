@@ -1,0 +1,340 @@
+B748, vicinity Hong Kong China, 2021
+
+
+
+
+
+
+
+
+
+
+
+  B748, vicinity Hong Kong China, 2021
+
+
+
+
+
+
+
+
+
+Summary
+
+On 20 July 2021, a Boeing 747-8F experienced a series of problems with excessive engine speed and fire affecting the left outboard engine soon after takeoff from Hong Kong. Although the engine was shut down, the fire continued until just before landing. About twenty minutes after landing, trapped residual leaked fuel then auto-ignited, and that fire was quickly extinguished. The origin of the engine malfunction and continuing airborne fire was identified as improper installation of a component in the engine’s Fuel Metering Unit at build, which caused a fuel leak that was the sole origin of the engine malfunction.
+
+
+
+
+Event Details
+
+When
+
+20/07/2021
+
+
+
+Event Type
+
+
+AW,
+              FIRE,
+              LOC
+
+
+
+
+Day/Night
+
+Day
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+BOEING 747-8
+
+
+
+
+
+
+
+
+
+Operator
+
+UPS Airlines
+
+
+
+Type of Flight
+
+Public Transport (Cargo)
+
+
+
+Flight Origin
+
+
+
+
+Hong Kong International Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Dubai International Airport
+
+
+
+
+
+
+
+Actual Destination
+
+
+
+
+Hong Kong International Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+No
+
+
+
+Phase of Flight
+
+Climb
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+VHHH
+
+
+
+
+General
+
+Tag(s)
+
+
+              Air Turnback,
+              Copilot less than 500 hours on Type,
+              CVR overwritten
+          
+
+
+
+
+FIRE
+
+Tag(s)
+
+
+              Fire-Fuel origin
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Loss of Engine Power
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Engine Fuel and Control
+          
+
+
+
+Contributor(s)
+
+
+              Maintenance Error (valid guidance available),
+              Component Fault after installation
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Aircraft damage
+
+Major
+
+
+
+Non-aircraft damage
+
+No
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Airworthiness
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 20 July 2021, a Boeing 747-8F (N624UP) being operated by UPS on an international cargo flight from Hong Kong to Dubai International as UPS3 received indications that the left outboard engine was uncontrollably overspeeding almost immediately after takeoff in day VMC. It was shut down, but the fuel-fed fire continued until just before touchdown. Although an initial airport RFFS inspection of the aircraft engine found no fire, around 20 minutes later, the engine involved caught fire again during water application intended to keep it cool. The engine pylon, both thrust reversers, the exhaust sleeve, and the exhaust cone were all heat damaged and deemed beyond economic repair.
+Investigation
+A Serious Incident Investigation was carried out by the Hong Kong Air Accident Investigation Authority (AAIA) in accordance with Annex 13 principles. Relevant flight data were recovered from the FDR, but the CVR was not electrically isolated after the flight, and data from the flight were overwritten. Recorded airport and ATC data was also reviewed and of assistance. 
+The flight crew consisted of a 59-year-old captain who was acting as PF and had a total of 14,747 hours flying experience which included 1,562 hours on type, and a 47-year-old first officer who had a total of 13,900 hours flying experience which included 114 hours on type. A 54 year-old relief first officer was also on board who had a total of 16,366 hours flying experience which included 2,804 hours on type.
+What Happened
+During the transition from takeoff to climb at approximately 300 feet AGL, the left outboard engine indicated an N1 (fan speed) exceedance and the corresponding EICAS annunciations occurred. The engine thrust lever was moved to idle, and it was decided to return to land. However, the indicated N1 did not then reduce and instead continued to oscillate around the takeoff/overspeed limit, so about four minutes after takeoff, the engine was shut down. Then, about 12 seconds after the shutdown, an EICAS annunciation of "FIRE ENG 1" appeared. The crew responded by pulling the fire handle and discharging both extinguisher shots, but the fire warning continued for approximately 6½ minutes, until just before landing after 14 minutes airborne. 
+Once the aircraft had been stopped on the runway, the airport RFFS attended, and on inspecting the brakes and the malfunctioning engine found no signs of fire. However, about 20 minutes later, whilst the RFFS were applying water to the engine cowling to maintain cooling effect, their personnel noticed white smoke coming from the engine, and a fuel-fed fire then ignited within the engine (see the first illustration below). They responded by using fire suppressants, which extinguished the fire within 40 seconds.
+The second illustration below shows the complete flight track annotated with significant events located and timed.          
+
+The ground fire which suddenly began 22 minutes after landing. [Reproduced from the Official Report]
+
+The Flight track annotated with the position of significant events. [Reproduced from the Official Report]
+Why It Happened
+FDR data were found to confirm that the flight crew had correctly performed the applicable Non-normal Checklist procedures for the N1 exceedance and the engine fire warning in a timely manner. The Investigation thereafter was focused solely on determining the airworthiness issues involved.
+An examination of the maintenance history of the engine established that it had been installed as new. The only maintenance since installation was replacement of the fuel filter, the main fuel pump strainer, and the lubrication flow screen two weeks before the investigated event. This maintenance came in response to an indication of rising differential fuel pressure detected through routine engine condition monitoring.
+After the engine had been examined on wing by the Investigation, it was removed and sent to engine manufacturer General Electric (GE) for a fuel leak check and component removal in accordance with a schedule developed by them and approved by the Investigation. The NTSB agreed to a request from the Investigation to oversee this work and the follow-on examination of relevant components. This work included the removal and retention of those fuel system components which it was thought may have contributed to the fuel leak that resulted in the under-cowl fire on the ground.
+Once the Fuel Metering Unit (FMU) had been identified as a component of interest, a group comprising representatives from the NTSB, the FAA, Boeing, UPS, GE, and Woodward, the fuel metering unit manufacturer, was convened at the latter’s premises to perform a detailed examination. This identified that fuel had been leaking from a loose fitting of the fuel supply pressure bypass valve port to its housing, with the packing of this fitting also found damaged. It was possible to quantify the leak rate and the effect of this on FMU performance. This enabled the leak to be confirmed as the reason why the engine speed (N1) reached the overspeed limit and to confirm this finding by reference to FDR-recorded fuel flows at idle and during takeoff.
+The continuation of the fire warning in flight after the engine had been shut down was attributed to the continuation of the high-pressure fuel leak from the FMU at a rate of around 1.4 gallons per minute for about four minutes, after which the fuel pressure - and consequently the leak rate - decayed. However, recirculating fuel from the main fuel pump continued to leak for around another six minutes. This meant that the continued leak of fuel onto hot surfaces had lasted for a time which closely matched the 9½-minute duration of the fire warning, with the fire likely to have been initiated by auto-ignition of this fuel in contact with still-hot engine components.   
+The rate of decline of engine temperature after engine shutdown was measured after a test flight conducted by GE. This test showed that the 3.3 gallons of trapped leaked fuel which had remained within the engine on landing would have continued to be sufficient, adjusted for the prevailing air temperature, to support no more than a 30-40 second ground fire even without fire service intervention. It was also found that there would have been a sufficient accumulation of fuel vapour to cause “subsonic combustion propagating through heat transfer where hot burning material heats the next layer of cold material and ignites it” so the ground fire could be attributed to “secondary damage to the fuel carrying components in the under cowl area”.
+It was noted that the process of FMU manufacture in respect of the fitting, which was the source of the leak, had been changed to require a more effective 100% torque verification in December 2019, about a month before the FMU fitted to the failed engine was manufactured. This modified process was then replicated for repair and overhaul of all such FMUs some 2½ months after the investigated event had occurred.
+The Cause of the investigated Serious Incident was formally documented as “improper installation of the P1 bypass valve port fitting on the (left outboard engine) fuel metering unit, resulting in a fuel leak that led to the engine fire.”
+Safety Action in response to the findings of the Investigation whilst it was in progress was as follows:
+
+General Electric issued SB 73-0092 ‘FMU Bypass Valve Plug Clearance Inspection applicable to all GEnx-2B engines requiring verification by a specific process that the PI bypass valve port fitting on the FMU is properly installed. Since the same FMU can also be installed on GEnx-1B engines, a similar SB was also issued for those engines.
+The FAA issued AD No 2022 -04-07 to address the unsafe condition which will exist if fuel leakage occurs from an improperly-torqued bypass valve fitting with a check of the integrity of all such installations within 150 flight cycles of the effective dates of 9 March 2022.
+
+Two Safety Recommendations were made as follows:
+
+that the Federal Aviation Administration (FAA) require General Electric to develop instructions for continuing airworthiness for inspection of the supply pressure (P1) bypass valve port fitting on fuel metering units, General Electric part number (P/N) 2459M17P02, Woodward P/N 8062-1177, that were delivered, produced, or repaired before December 2019, and those with less than 800 cycles to ensure proper installation and to mandate a one-time inspection based on those instructions.  
+that the Federal Aviation Administration (FAA) require General Electric and Woodward to:
+
+review the assembly and repair procedures of the MRO and the CMM for the installation of the supply pressure (P1) bypass valve port fitting on fuel metering units with GE P/N 2459M17P02 and Woodward P/N 8062-1177 and   
+make the necessary changes and incorporate post-assembly inspections to ensure proper installation.  
+
+
+
+The Final Report of the Investigation was presented to the Hong Kong Government in August 2022 and released online shortly afterwards.
+Related Articles
+
+Fire in the Air
+Operational Fires
+Engine/APU on Fire: Guidance for Controllers
+Continuing Airworthiness
+Maintenance Error

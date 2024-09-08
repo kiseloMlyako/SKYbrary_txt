@@ -1,0 +1,141 @@
+P-Factor
+
+
+
+
+
+
+
+
+
+
+
+  P-Factor
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Theory of Flight 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+The P-factor, also called "asymmetric disk loading", "asymmetric blade effect" is an aerodynamic phenomenon that is associated with the rotation of a propeller. Sometimes the blades are subject to different loads and therefore produce different lift (or thrust), therefore the term "asymmetric" is used to describe the effect - the lift (or thrust) produced by the propeller is not uniform. The result is that the aircraft shows a tendency to turn in a particular direction with no control surface inputs being made.
+Effects
+The most notable examples where the P-factor is experienced are:
+
+Small, general avaiation aircraft with nose-mounted propellers experience a yaw tendency during climb. For clockwise-rotating propellers (as seen from the cockpit) the tendency is to yaw to the left.
+Propeller-driven aircraft with wing-mounted engines experience a yaw tendency towards the failed engine. However, the effect may vary depending on the direction of rotation and on the engine experiencing the failure. Sometimes if a specific engine fails then a greater yaw effect is created. This engine is called "critical" since its failure has a greater impact on the aircraft performance.
+Helicopters. Unless compensated by special hinges, the main rotor blades would have a tendency for rolling the aircraft to the left in case of counter-clockwise rotation (as seen from above).
+
+Explanation
+Lift is dependent on three factors - the aerofoil geometry (shape, surface, etc.), the velocity of the passing air and the angle of attack (AoA). The aerofoil parameters are constant so they cannot cause asymmetry. This is not the case with velocity and AoA. It is possible to have different blades of the same propeller experience different velocities of the relative wind (this is the vector sum of the aircraft movement speed and the propeller rotating speed) and also to meet the airflow at different angles of attack. As a result, the blade that is subject to greater velocity and/or has higher angle of attact would produce more lift (or thrust) and consequently, torque will be generated.
+The P-factor is most easily explained in the helicopter scenario. Let us assume that the aircraft is moving forward. The advancing blade will then be subject to headwind, which effectively increases the speed of the airflow. The retreating blade will experience tailwind and the resultant speed will decrease. Consequently, the advancing blade will generate more lift (and the retreating blade will generate less), compared to the hovering scenario. Thus, a roll tendency would occur. The faster the helicopter is moving forward, the greater these effects will be.
+While helicopters are the extreme P-factor case the phenomenon affects all propellers that are affected by different winds and/or angles of attack. Let us examine a single engine propeller-driven aeroplane. If the aircraft is in level flight and the propeller axis is in line with the wind then all blades will experience the same loads and will produce the same amount of thrust. However, if the aircraft is in nose-up attitude, the blade that is going down will also be subject to some headwind and the blade that is going up will experience some tailwind (similar to the helicopter scenario). Additionally, the blade that goes down will do so at an increased AoA to the relative airflow and in the opposite direction the AoA will be reduced. The combined effect of these is that the blade moving down would create more lift (which, in this case is thrust) and the one moving up would create less. As a result, a yaw tendency towards the blade moving up will be created. This explains why an aircraft with nose-up attitude (e.g. during climb) with clockwise rotating propeller (as seen from the pilot position) would have a tendency to yaw to the left. See pictures below for details.
+
+Geometry of the blade that is going down. The vector sum of the blade rotation speed and the aircraft speed equals the relative wind (with minus sign since the wind is in the opposite direction of the blade movement). The blade angle of attack is the angle between the relative wind and the blade chord line. If the aircraft is turned in the nose up direction, this will be equivalent (geometry wise) to the aircraft speed vector being rotated downwards (while maintaining its size). The new relative wind will be a vector starting from the tip of the new speed arrow and ending at the base of the blade rotation speed. As the angle between the blade and aircraft speeds increases, the relative wind vector will also increase. Additionally, the angle between the new relative wind and the chord line will increase, which is by definition an increase of the angle of attack. Consequently, the blade going down would produce more lift (which is essentially thrust) after the nose up movement
+
+Geometry of the blade that is going up. The process is similar to the one described above. Initially, when the blade rotation speed is at right angle with the aircraft speed, the relative wind and the angle of attack are the same as with the blade going down. However, a nose up movement (depiced as the new aircraft speed rotating downwards) would result in both relative wind and blade angle of attack being reduced. Consequently, the blade going up would produce less lift (i.e. thrust) than before.
+The third common scenario is the wing-mounted propeller aeroplane. In case of engine failure, the aircraft has a natural tendency of yawing in the direction of the failed engine. However, in this scenario, maintaing a level flight (if at all possible) would require a nose-up attitude so that the lift loss due to the loss of thrust is compensated by an increased wing AoA. As a result of this attitude, the propeller blades will be subject to the P-factor. The asymmetric loads may improve or further aggravate the situation. For example, if the left clockwise rotating engine remains operative, the P-factor will reduce the yaw tendency because it is working in the opposite direction. In a similar situation where the engine in on the left wing however, the asymmetric blade effect will increase the yaw. Therefore, in the latter case, the left engine is designated as "critical", i.e. its failure being considered to have a more adverse effect.
+Compensation
+The P-factor is compensated using different methods depending on the aircraft.
+In the helicopter case, the blades are mounted using hinges that allow them to be adjusted individually througout the rotation cycle. The advancing blade's AoA is reduced and the retreating blade's AoA is increased so that they produce the same amount of lift although moving through the air at different speeds. Designs such as coaxial rotors (e.g. KAMOV Ka-52 or Sikorsky S-69) do not experience adverse effects as each of the rotors compensates the asymmetry of the other.
+In terms of critical engine, there are three types of two-engine aircraft:
+
+Aircraft with a critical engine, where both propellers rotate in the same direction. The critical engine is the one for which the blade that moves down is closer to the fuselage.
+Aircraft without a critical engine, where the left engine rotates clockwise and the right engine rotates counter-clockwise. In case of an engine failure, the P-factor will not have a negative impact no matter which engine has failed.
+Aircraft where both engines are critical. This means that the left one rotates counter-clockwise and the right - clockwise. An engine failure scenario would likely be aggravated by the additional yaw caused by the P-factor.
+
+In single engine aicraft pilots learn how to compensate the P-factor by using appropriate control inputs.
+Related Articles
+
+Critical Engine
+Counter-Rotating Propellers
+Engine Failure After TakeOff - Light Twin Engine Aircraft
+
+
+
+
+
+Categories
+
+
+Theory of Flight,
+              General
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

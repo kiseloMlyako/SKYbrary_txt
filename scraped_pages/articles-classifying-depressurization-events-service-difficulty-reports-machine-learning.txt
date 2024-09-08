@@ -1,0 +1,187 @@
+Classifying Depressurization Events in Service Difficulty Reports with Machine Learning
+
+
+
+
+
+
+
+
+
+
+
+  Classifying Depressurization Events in Service Difficulty Reports with Machine Learning
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Publications 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ FAA & Boeing
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ FAA & Boeing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Summary
+Service Difficulty Reports (SDRs) are reports submitted to the FAA by aircraft operators and certified repair stations when they discover or experience a failure, malfunction, or defect while operating, or performing maintenance on an aircraft. The SDR records are rich in information pertaining to aviation safety. However, the information within the free-form text descriptions is not readily accessible, as they lack standardization and often any grammatical structure. Additionally, they contain shorthand abbreviations, typographical errors, and may substitute key words and phrases with references to external documentation such as maintenance manuals, part numbers, procedures, federal regulations, etc.
+Sometimes, the text records describe critical safety events such as depressurization, onboard fire, and runway excursion, while many times they describe routine maintenance like ensuring all onboard lighting works properly. Extracting critical information from the rare safety events in millions of records is labor-intensive and infeasible without automated methods. The referenced study [1] describes a machine learning approach to automatically classify cabin depressurization events in SDR records with an F1 score up to 95%. The authors have made this and related works open-source [2] to promote engagement with the broader aviation safety community across industry, government, and academia.
+Models
+
+Baseline: The baseline model is a simple keyword classifier that assigns a record as depressurization if the record contains any of these keywords: depressurization, oxygen, mask, deploy, and horn.
+Logistic Regression (LR): The sklearn library was used for the LR model with default parameters. It is a regularized logistic regression and applies limited-memory BFGS optimization.
+Support Vector Machine (SVM): The sklearn library was used for Support Vector Classification (SVC) with a linear kernel, optimization parameter 1, and the rest of the parameters were kept as default. 
+XGBoost (XGB): XGBoost (eXtreme Gradient Boosting) is an open-source software library which provides a regularizing gradient boosting framework. An open source python package was used for training the XGBoost classifier.
+BERT: Bidirectional Encoder Representations from Transformers (BERT) is a transformer-based machine learning technique for NLP pre-training developed by Google. Bert-base-uncased and Python transformers package by Hugging Face were used for fine-tuning on this specific classification task.
+
+Results
+
+
+
+Model
+Depressurization
+Non-Depressurization
+ 
+
+
+ 
+Precision
+Recall
+F1
+Precision
+Recall
+F1
+Macro-Averaged F1
+
+
+Baseline
+0.89
+0.78
+0.83
+0.83
+0.91
+0.87
+0.85
+
+
+LR
+0.90
+0.92
+0.91
+0.93
+0.91
+0.92
+0.93
+
+
+SVM
+0.91
+0.94
+0.92
+0.95
+0.91
+0.93
+0.93
+
+
+XGB
+0.91
+0.96
+0.93
+0.96
+0.91
+0.94
+0.94
+
+
+BERT
+0.94
+0.94
+0.94
+0.95
+0.95
+0.95
+0.94
+
+
+
+ 
+NB: In statistical analysis of binary classification and information retrieval systems, the F-score or F-measure is a measure of predictive performance. It is calculated from the precision and recall of the test, where the precision is the number of true positive results divided by the number of all samples predicted to be positive, including those not identified correctly, and the recall is the number of true positive results divided by the number of all samples that should have been identified as positive. Precision is also known as positive predictive value, and recall is also known as sensitivity in diagnostic binary classification. The F1 score is the harmonic mean of the precision and recall. It thus symmetrically represents both precision and recall in one metric. The highest possible value of an F-score is 1, indicating perfect precision and recall, and the lowest possible value is 0, if either precision or recall are zero.
+Conclusion and Future Work
+With the success of the depressurization model, several other machine learning models for classifying SDRs into continued operational safety (COS) categories were developed and deployed. Automated notifications are generated for subject matter experts when new safety events are identified. Each model is actively monitored and intermittently retrained as needed.
+A long-term goal that continues to be worked toward is drawing meaningful connections between observations across all phases of an aircraft’s life cycle: design, production, operation, and maintenance. Ideally, this would position safety experts across government and industry in a forward-looking, predictive posture that allows for greater prevention of safety events before they can occur.
+References
+
+"Discovering Depressurization Events in Service Difficulty Reports using Machine Learning", N. Niraula et al., 2023 IEEE International Conference on Prognostics and Health Management (ICPHM), pp. 48-52, 2023
+Service Difficult Report (SDR) hazards classification package (GitHub)
+
+
+
+
+
+Categories
+
+
+Publications,
+              SM Methods and Tools,
+              Cabin Safety,
+              Airworthiness
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

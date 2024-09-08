@@ -1,0 +1,366 @@
+A320, Bilbao Spain, 2001
+
+
+
+
+
+
+
+
+
+
+
+  A320, Bilbao Spain, 2001
+
+
+
+
+
+
+
+
+
+Summary
+
+On 7th February 2001, an Iberia A320 was about to make a night touch down at Bilbao in light winds when it experienced unexpected windshear. The attempt to counter the effect of this by initiation of a go around failed because the automatic activation of AOA protection in accordance with design criteria which opposed the crew pitch input. The aircraft then hit the runway so hard that a go around was no longer possible. Severe airframe structural damage and evacuation injuries to some of the occupants followed. A mandatory modification to the software involved was subsequently introduced.
+
+
+
+
+Event Details
+
+When
+
+07/02/2001
+
+
+
+Event Type
+
+
+AW,
+              WX
+
+
+
+
+Day/Night
+
+Night
+
+
+
+Flight Conditions
+
+VMC
+
+
+
+
+
+
+
+Flight Details
+
+Aircraft
+
+
+ 
+
+AIRBUS A-320
+
+
+
+
+
+
+
+
+
+Operator
+
+Iberia
+
+
+
+Type of Flight
+
+Public Transport (Passenger)
+
+
+
+Flight Origin
+
+
+
+
+Barcelona/El Prat Airport
+
+
+
+
+
+
+
+Intended Destination
+
+
+
+
+Bilbao Airport
+
+
+
+
+
+
+
+Take-off Commenced
+
+Yes
+
+
+
+Flight Airborne
+
+Yes
+
+
+
+Flight Completed
+
+No
+
+
+
+Phase of Flight
+
+Landing
+
+
+
+
+
+
+
+
+Location
+
+
+
+
+
+
+
+
+Location - Airport
+
+Airport
+
+LEBB
+
+
+
+
+General
+
+Tag(s)
+
+
+              Flight Crew Training,
+              Safety pilot present,
+              Ineffective Regulatory Oversight
+          
+
+
+
+
+LOC
+
+Tag(s)
+
+
+              Hard landing
+          
+
+
+
+
+WX
+
+Tag(s)
+
+
+              Low Level Windshear
+          
+
+
+
+
+EPR
+
+Tag(s)
+
+
+              Emergency Evacuation,
+              RFFS Procedures
+          
+
+
+
+
+CS
+
+Tag(s)
+
+
+              Flight Crew Evacuation Command
+          
+
+
+
+
+AW
+
+System(s)
+
+
+              Flight Controls
+          
+
+
+
+Contributor(s)
+
+
+              OEM Design fault
+          
+
+
+
+
+Outcome
+
+Damage or injury
+
+Yes
+
+
+
+Aircraft damage
+
+Hull loss
+
+
+
+Non-aircraft damage
+
+Yes
+
+
+
+Non-occupant Casualties
+
+No
+
+
+
+Occupant Injuries
+
+Few occupants
+
+
+
+Off Airport Landing
+
+No
+
+
+
+Ditching
+
+No
+
+
+
+
+Causal Factor Group(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Technical
+
+
+
+
+Safety Recommendation(s)
+
+Group(s)
+
+Aircraft Operation
+Aircraft Airworthiness
+Airport Management
+
+
+
+
+Investigation Type
+
+Type
+
+Independent
+
+
+
+
+
+
+
+
+
+Description
+On 7th February 2001, an Airbus A320-200 being operated by Iberia on a scheduled domestic passenger flight from Barcelona to Bilbao with pilot early-stage line training in progress and a safety pilot present was about to make a night touch down in VMC and light surface winds when it experienced unexpected windshear and a very hard landing followed. The aircraft did not leave the paved surface but severe airframe structural damage was sustained and there were injuries to 25 of the 143 occupants, one serious, during the subsequent evacuation.
+Investigation
+An Investigation was carried out by the Spanish Investigation Agency, the Comisión de Investigación de Accidentes e Incidentes de Aviación Civil (CIAIAC).
+Using DFDR and CVR data, the Investigation found that below 100 feet agl, both the trainee First Officer as PF and the aircraft commander has simultaneously made sidestick inputs in an attempt to arrest a descent caused by a sharp downdraft but their combined sudden input had triggered the threshold for AOA protection which had negated their control input. It was noted that the actual AOA was not abnormal and that the protection activation was attributable to a predictive algorithm in the software involved. An attempt by the aircraft commander to begin a go around had not had the intended effect before the aircraft hit the runway in a slightly nose down attitude at 4.35g. The nose landing gear had collapsed and the aircraft had come to a stop after an 1100 metre ground run. As the aircraft approached its final resting place, directional control had been lost but the aircraft had remained on the runway. Airframe damage was so extensive that the aircraft was declared a hull loss.
+It was considered that:
+
+if the windshear had appeared higher, the TOGA setting would probably have been triggered by the alpha floor protection.
+if the configuration of the aircraft had been FLAP 3, the alpha prot value would have been higher and maybe would not have triggered the AOA protection.
+if both pilots had not pulled both sidesticks at the same time, the system would probably not have predicted or anticipated a high angle of attack that was actually never very high.
+if the go-around had been initiated earlier, it could have been possible to recover level flight before the hard contact with the runway.
+
+It was noted that during the earlier part of the approach, there had been some signs of conditions conducive to low level windshear but that Iberia SOPs for Bilbao did not suggest such a hazard given the light surface wind velocity. The location of the airport in relation to surrounding terrain alignment was considered to be conducive to mountain wave generation in the conditions which had prevailed at the time of the accident and it was noted that there was an opportunity to improve crew alerting in this respect subject to review by meteorological experts.
+The wisdom of conducting early stage line training with the trainee as PF was also question and it was concluded that there had been an absence of adequate operator guidance in this respect
+Once the root cause of the accident had been identified as the way the protection software had activated AOA protection in accordance with the design criteria, the following Preliminary Safety Recommendation was issued on 12 March 2001 in conjunction with the French Bureau d'Enquêtes et d'Analyses (BEA):
+
+that the Certification Authority of this type of aircraft, the French DGAC should define with the manufacturer and immediately issue, safety measures to prevent the repetition of this kind of events in aircraft of the A-320 family and in other aircraft equipped with similar flight control systems.
+
+Pending this action, on 23 March, Airbus released a temporary revision to AFM operating procedures which was issued as a telegraphic Airworthiness Directive by the French DGAC and applicable to all A320 and A319 aircraft fitted with the same standard of Elevator and Aileron Computer (ELAC) as the accident aircraft. It was noted that these modifications had been retrofitted Fleet-wide by the end of 2002.
+The subsequent software modification was certified by mid 2001 and the corresponding Mandatory Service Bulletin was published in September 2001.
+The Cause of the accident was formally stated as:
+“the activation of the angle of attack protection system which, under a particular combination of vertical gusts and windshear and the simultaneous actions of both crew members on the sidesticks, not considered in the design, prevented the aeroplane from pitching up and flaring during the landing”.
+
+Four further Safety Recommendations were issued at the conclusion of the Investigation as follows:
+
+that the INM (National Meteorological Institute) conduct thorough research on meteorological phenomena within the area of Bilbao, aimed at improving our knowledge of the development of turbulence, gusts and windshear in the vicinity of the airport, and to use this information to improve operations during the approach phase.
+
+[REC 20/06]
+
+that Iberia improve the instruction of their A320 crews in order to avoid the simultaneous activation of the sidestick by both pilots without pushing the override button, regardless of the type and composition of the flight crew.
+
+[REC 21/06]
+
+that Iberia establish adequate restrictions in its Operation Manual in respect of crew members undertaking line flying under supervision to taking into account the different phases of flight and the characteristics of the airports of operation.
+
+[REC 22/06]
+
+that the Spanish Aeronautical Authority (DGAC) consider, as a valid criteria for the approval of commercial air transport operators, the inclusion in their Operation Manuals of adequate restrictions applicable to crew members line flying under supervision.
+
+[REC 23/06]
+The Final Report of the Investigation is avaliable for reference.
+Related Articles
+
+Low Level Wind Shear
+Mountain Waves

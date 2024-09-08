@@ -1,0 +1,162 @@
+Reduced Thrust Takeoff
+
+
+
+
+
+
+
+
+
+
+
+  Reduced Thrust Takeoff
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+Flight Technical 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+A reduced thrust takeoff is a takeoff that is accomplished utilising less thrust than the engines are capable of producing under the existing conditions of temperature and pressure altitude.
+Rationale
+AOM limitations, the runway specific criteria of length, altitude and obstacles factored against the actual aircraft weight and existing environmental conditions allow the calculation of the actual amount of thrust necessary to meet Regulatory requirements for takeoff. In a significant percentage of cases, the required thrust is less than that which the engines are capable of producing.
+Advantages
+The primary advantage to a reduced thrust takeoff is cost savings through increased engine life and reduced overhaul costs. Secondary advantages include fuel savings and that, under certain circumstances, it may be possible to increase the maximum takeoff weight for a specific runway by using a reduced thrust profile.
+Jet Engine Limitations
+The principal limitations of a jet engine are the maximum internal presure that the casing can withstand and the maximum allowable operating temperature. At low altitudes and cooler outside air temperatures (OAT), engine pressure is the limiting factor as the engine is capable of producing more pressure and, consequently, more thrust than the engine can contain. The FADEC will be programmed to flat rate the engine at a thrust corresponding to a safe internal engine pressure. This thrust value is the rated or maximum thrust that the engine will produce. Engines are flat rated by the manufacturer by referencing a specific environmental limit or flat rated temperature that is expressed as an ISA+xx° value. At an OAT of ISA+xx° or below, the engine is capable of producing its rated thrust. The FADEC compensates for varying OAT and presure altitude by adjusting fuel flow and limiting the rotational speed of the engine. As the OAT increases above the flat rated temperature, the engine is no longer capable of exceeding its limiting pressure, can no longer produce its rated thrust and therefore becomes temperature limited. At this point, the FADEC limits the internal temperature of the engine so the maximum temperature limit is not exceeded. As the OAT increases from flat rated temperature to the maximum allowed for engine operation, there is a linear reduction in the amount of thrust that the engine produces.
+If the amount of thrust that the engine can generate under given environmental conditions exceeds that required for takeoff, the FADEC can be "instructed" to reduce the amount of thrust to be produced by the engine.
+Methodology
+There are two methods of achieving an acurately controlled reduction in engine thrust:
+
+Derate, and
+Assumed temperature (sometimes referred to as Flexible temperature or FLEX).
+
+Dependant upon the engine manufacturer, one or both of these thrust reduction methods may be available to the operator. When both possibilities are available, the engine design may allow that both derate and assumed temperature can be used simultaneously or, conversely, the two methods of reducing engine thrust may be mutually exclusive.
+Derate
+A derate selection electronically reduces the rated thrust of the engine to either one or more prespecified values or by a selectable percentage of the normal flat rated thrust. As this new thrust limit cannot be exceeded during the takeoff phase, critical speeds such as Vmcg and Vmca change from those associated with full rated thrust. Consequently the AOM must include performance data for all permissible derate selections.
+Assumed Temperature
+As stated above, at outside air temperatures above the flat rated temperature, there is a specific thrust value (variable by pressure altitude) for each temperature. If the thrust requirement for the takeoff is known, the associated temperature at which this thrust would be produced can be extracted from the applicable charts. This "assumed" temperature is then entered into the FMS. Note that regulations limit the amount by which normal takeoff thrust can be reduced to a maximum of 25%. For assumed temperature thrust reduction, the full thrust values of Vmcg and Vmca must be considered limiting as the full rated thrust for the actual OAT can be commanded by moving the thrust levers appropriately.
+Operational Consequences
+A reduced thrust takeoff will result in a slower acceleration on the runway, a longer takeoff roll and a reduced initial climb rate.
+Threats
+The principal risks associated with a reduced thrust takeoff are the potential of miscalculating either or both of the derate or assumed temperature values and the possiblity of entering incorrect values into the aircraft Flight Management System (FMS). Either of these errors could result in the engines producing insufficient thrust to safely execute the takeoff.
+Defences
+When derate or assumed temperature calculations are made by the pilots utilizing either manual or electronic means, each of the pilots should make the calculations independently and then compare the results. Differences must be reconciled. Likewise, all FMS entries should be crosschecked by both pilots for accuracy.
+Accidents & Incidents
+
+
+B738, Yerevan Armenia, 2021On 23 July 2021, the takeoff roll of a Boeing 737-800 making an intersection departure from Yerevan on a non revenue positioning flight using reduced thrust in daylight exceeded the length of runway available by 81 metres but was undamaged and completed its intended flight. The Investigation found that the Onboard Performance Tool when preparing for departure had been wrongly configured but that when the crew realised there was insufficient runway length left to reject the takeoff, the thrust had not been increased and the response had been the commencement of a slow rotation 20 knots before the appropriate speed.
+
+B738, Amsterdam Netherlands, 2018On 10 June 2018, a Boeing 737-800 departing Amsterdam with line training in progress and a safety pilot assisting only became airborne just before the runway end. The Investigation found that the wrong reduced thrust takeoff performance data had been used without any of the pilots noticing and without full thrust being selected as the end of the runway approached. The operator was found to have had several similar events, not all of which had been reported. The implied absence at the operator of a meaningful safety culture and its ineffective flight operations safety oversight process were also noted. 
+
+A320, Sharjah UAE, 2018On 18 September 2018, an Airbus A320 crewed by a Training Captain and a trainee Second Officer departing Sharjah was cleared for an intersection takeoff on runway 30 but turned onto the 12 direction and commenced takeoff with less than 1000 metres of runway ahead. On eventually recognising the error the Training Captain took control, set maximum thrust and the aircraft became airborne beyond the end of the runway and completed its international flight. The Investigation attributed the event to the pilots’ absence of situational awareness and noted that after issuing takeoff clearance, the controller did not monitor the aircraft.
+
+A319, Nice France, 2019On 29 August 2019, an Airbus A319 crew used more runway than expected during a reduced thrust takeoff from Nice, although not enough to justify increasing thrust. It was subsequently found that an identical error made by both pilots when independently calculating takeoff performance data for the most limiting runway intersection had resulted in use of data for a less limiting intersection than the one eventually used. The Investigation concluded that the only guaranteed way to avoid such an error would be an automatic cross check, a system upgrade which was not possible on the particular aircraft involved.
+
+A321, Glasgow UK, 2019On 24 November 2019, as an Airbus A321 taking off from the 2665 metre-long runway 05 at Glasgow approached the calculated V1 with the flex thrust they had set, the aircraft was not accelerating as expected and they applied TOGA thrust. This resulted in the aircraft becoming airborne with less than 400 metres of runway remaining. The Investigation confirmed what the crew had subsequently discovered for themselves - that they had both made an identical error in their independent EFB performance calculations which the subsequent standard procedures and checks had not detected. The operator is reviewing its related checking procedures.
+
+
+...further results
+
+
+Related Articles
+
+Use of Erroneous Parameters at Take-Off
+Aircraft Performance
+Global Action Plan for the Prevention of Runway Excursions (GAPPRE)
+
+Further Reading
+
+Pilot Guide to Takeoff Safety
+Airbus - Understanding Takeoff Speeds
+Takeoff Performance Calculation and Entry Errors
+
+
+
+
+
+Categories
+
+
+Flight Technical,
+              Overrun on Take Off
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback

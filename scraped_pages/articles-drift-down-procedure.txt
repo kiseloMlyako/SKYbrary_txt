@@ -1,0 +1,151 @@
+Drift Down Procedure
+
+
+
+
+
+
+
+
+
+
+
+  Drift Down Procedure
+
+
+
+
+
+
+
+
+
+Article Information
+
+Category:
+
+
+
+General 
+
+
+
+
+
+
+
+
+Content source:
+
+
+
+
+ SKYbrary
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Content control:
+
+
+
+
+ The Air Pilots
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+Drift Down is a maximum thrust/minimum rate descent necessitated by an engine failure in a multi-engine aircraft in the latter stages of climb or during cruise when an aircraft cannot maintain its current altitude and terrain clearance or other factors are critical.
+Description
+The optimum cruising altitude for an aircraft with all engines operating normally is primarily dependent upon aircraft mass and the temperature deviation from ISA. In almost all cases, an aircraft’s optimum cruising altitude will exceed the One Engine Inoperative (OEI) service ceiling. An engine failure occurring above OEI service ceiling will therefore necessitate a descent and in most cases a Drift Down procedure will be followed.
+The Drift Down procedure entails setting maximum continuous power/thrust on the operating engine(s) whilst countering any adverse yaw with rudder, and then trimming and disconnecting the autothrottle(AP)/autothrust(AT) system where applicable.
+(Note that on some aircraft disconnecting AT may not be required and may actually make the desired profile more difficult to achieve; as always, it is important to know, understand and carry out the manufacturers/ operators approved procedures.)
+The appropriate drills and/or checklists for the failure are completed when time and capacity allow. At the appropriate speed, a descent to the Drift Down altitude is initiated while maintaining maximum continuous power/thrust.
+By definition, the OEI Service Ceiling is:
+
+the altitude to which, following the failure of an engine above the one engine inoperative service ceiling, an aeroplane will descend to and maintain, while using maximum available power/thrust on the operating engine and maintaining the planned OEI speed.
+
+Several possible speed strategies are associated with drift down. These include fixed speed and obstacle clearance strategies.
+
+Obstacle clearance strategy allows the aircraft to maintain cruising altitude the longest, provides the least possible rate of descent and will result in the highest possible engine out cruising altitude for the conditions. In this procedure, maximum continuous thrust is set and (except in aircraft where AP & AT will maintain the required level of thrust and descent profile) the autothrottle disconnected. The speed target is adjusted to the best engine out speed and altitude is maintained while the speed slowly decays from the all engine cruising speed. When the target speed is achieved, a descent at maximum continuous power/thrust and the target airspeed is initiated. During the descent, speed is adjusted to maintain the best speed for the current altitude and the descent is continued until Drift Down altitude is reached. Cruise will then continue at best speed and maximum continuous thrust and, if required, the aircraft will climb as it becomes lighter. If obstacle clearance is not a factor, the descent can be continued and the power/thrust decreased or speed increased as appropriate.
+Fixed speed strategy involves the same immediate actions of maximum continuous power/thrust, yaw compensation and disengagement of autothrottle (where appropriate) but the descent is started sooner while at a higher speed, maintaining this speed during the drift down profile. By definition, a higher speed will result in a lower engine inoperative cruising altitude. This strategy may be used to meet ETOPS criteria on certain routes. If so, this should be clearly annotated by the Operator in either their SOPs and/or the flight plan given to the pilots.
+
+Handling Considerations
+After an engine failure or shutdown the principal handling requirement is to counteract any thrust asymmetry using rudder and trim as required to maintain the aircraft in balance. In some aircraft this will enable the auto-flight system to remain engaged and maintain control of the aircraft without reaching the limits of its control authority.
+The other priority is to ensure that Max Continuous thrust is applied, either by the AT system or manually. In some aircraft the auto-flight & Auto Thrust system will manage this very well if the correct selections are made on the FMC.
+Once those two things have been achieved, things generally happen quite slowly enabling some time to be given to consideration of the required descent profile and FMS/ FMGS selections to be made. Pilots can refer to their operations manuals where Drift Down performance is tabulated; by comparing aircraft weight at the time of engine failure with temperature deviation from ISA, the crew can obtain their OEI service ceiling and speed regime. They can also determine time, distance and fuel burn from cruise altitude to their MEA/MORA/safe altitude.
+Operational Considerations
+If at the time of engine failure, the aircraft is above the OEI service ceiling, a descent will be required. Prevailing circumstances such as terrain, ATC requirements or if following an organised track system will dictate whether that descent needs to be
+a) the shallowest possible profile (drift down),
+b) delayed or
+c) can be carried out using normal economy speeds.
+Liaison with ATC will be required. It may be necessary to declare an emergency to ensure that ATC permit the required flight profile.
+1) Maximum Performance (shallowest profile for terrain avoidance) Required
+This will need accurate handling of the auto-flight system. To achieve best performance, it is important that the aircraft manufacturer’s/ operator’s procedures are well understood and carefully followed. In particular the indications of and required selections on any FMS/ FMGS fitted to the aircraft need to be well understood to make the aircraft follow the best Engine Out Speed with Max Continuous Power set.
+2) Delayed Descent Required
+If the descent needs to be delayed due to traffic, ATC or organised track turn back requirements, once Maximum Continuous Power is applied descent can be delayed by allowing the speed to reduce below command speed, but no lower than the flaps up manoeuvring speed, before commencing descent. Once again a clear understanding of how to make the required selections on the FMS/ FMGS will be needed. ATC procedures and collision avoidance may dictate the direction of initial descent, particularly on oceanic tracks and when communication is either degraded (HF only) or not available. In this situation, fuel and time factors may require that a faster descent is made to below the restriction so that the aircraft can be turned towards the alternate airfield.
+3) Terrain or delayed descent not a factor
+In this case maximum performance is not needed and the aircraft can be flown using OEI and normal company speeds/ normal VNAV descent as required.
+Icing & Aircraft Performance Considerations
+Only engine icing is considered in fuel planning, but airframe icing will adversely affect aircraft performance aerodynamically and by adding weight. Moreover, with one engine out, wing de-icing could be asymmetric. If the OEI descent involves either descent through an icing layer or stabilisation within the layer, the Commander should consider increasing descent speed to minimise the time spent within the layer and, if necessary, establishing a lower single engine cruise altitude that is below the icing layer. Where the icing layer extends below Minimum Safe Altitude (MSA), this should have been considered before the flight at the planning stage. The availability of oxygen escape routes may be helpful for such decision-making.
+Smaller twin-engined aircraft with less excess power and operating at lower altitudes are likely to need to consider MSA, icing and escape routes on a more regular basis.
+NOTE: In this context MSA is used generically and the Operator may provide guidance on the use of Grid MORA and minimum altitudes on an escape chart.
+As well as icing, other factors can prevent an aircraft from meeting the performance published in the manuals and aircraft age, servicing and an incorrect ZFW may contribute to a lower drift down altitude and single pressurisation pack performance may not be able to maintain the required cabin altitude. These factors could also influence the outcome of the crew’s decision-making process.
+Related Articles
+
+Engine Failure: Guidance for Controllers
+Uncontained Engine Failure
+Fuel - In-Flight Management (Abnormal Operations)
+Mountainous Terrain Escape Routes
+
+
+
+
+
+Categories
+
+
+General,
+              Loss of Control
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback
